@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Agentic AI Daily Research</title>
+  <meta name="description" content="Auto-curated X/Twitter trends, new products & launches in Agentic AI" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>" />
+  <style>
+    /* ── Reset & Base ── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg-primary: #0d1117;
+      --bg-secondary: #161b22;
+      --bg-card: #1c2333;
+      --bg-card-hover: #222d3f;
+      --border: #30363d;
+      --text-primary: #e6edf3;
+      --text-secondary: #8b949e;
+      --text-muted: #6e7681;
+      --accent-cyan: #58a6ff;
+      --accent-green: #3fb950;
+      --accent-purple: #bc8cff;
+      --accent-orange: #f0883e;
+      --gradient-cyan-green: linear-gradient(135deg, #58a6ff, #3fb950);
+      --shadow-glow-cyan: 0 0 20px rgba(88,166,255,0.15);
+      --shadow-glow-green: 0 0 20px rgba(63,185,80,0.15);
+      --radius: 12px;
+      --transition: 0.3s ease;
+    }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+    a { color: var(--accent-cyan); text-decoration: none; transition: color var(--transition); }
+    a:hover { color: #79c0ff; }
+
+    /* ── Navigation ── */
+    .nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+      background: rgba(13,17,23,0.85);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      padding: 0 2rem;
+      height: 56px;
+      display: flex; align-items: center; justify-content: space-between;
+    }
+    .nav-brand { font-size: 1.1rem; font-weight: 700; display: flex; align-items: center; gap: 0.5rem; }
+    .nav-brand span { background: var(--gradient-cyan-green); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+    .nav-links { display: flex; gap: 1.5rem; }
+    .nav-links a { color: var(--text-secondary); font-size: 0.9rem; font-weight: 500; }
+    .nav-links a:hover { color: var(--text-primary); }
+
+    /* ── Hero Section ── */
+    .hero {
+      min-height: 100vh;
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+      text-align: center;
+      padding: 6rem 2rem 4rem;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::before {
+      content: '';
+      position: absolute; top: -50%; left: -50%; width: 200%; height: 200%;
+      background: radial-gradient(ellipse at 30% 20%, rgba(88,166,255,0.08) 0%, transparent 50%),
+                  radial-gradient(ellipse at 70% 80%, rgba(63,185,80,0.06) 0%, transparent 50%);
+      animation: heroGlow 8s ease-in-out infinite alternate;
+    }
+    @keyframes heroGlow {
+      0% { transform: translate(0, 0) scale(1); }
+      100% { transform: translate(-2%, 2%) scale(1.05); }
+    }
+    .hero-content { position: relative; z-index: 1; max-width: 800px; }
+    .hero-emoji { font-size: 5rem; margin-bottom: 1.5rem; display: block; animation: float 3s ease-in-out infinite; }
+    @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
+    .hero h1 {
+      font-size: clamp(2.2rem, 5vw, 3.5rem);
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      background: var(--gradient-cyan-green);
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+      margin-bottom: 1rem;
+    }
+    .hero .tagline {
+      font-size: clamp(1rem, 2.5vw, 1.3rem);
+      color: var(--text-secondary);
+      margin-bottom: 2.5rem;
+      max-width: 600px;
+      margin-left: auto; margin-right: auto;
+    }
+    .hero-cta {
+      display: inline-flex; align-items: center; gap: 0.5rem;
+      background: var(--gradient-cyan-green);
+      color: #fff; font-weight: 600; font-size: 1rem;
+      padding: 0.85rem 2rem; border-radius: 50px;
+      transition: transform var(--transition), box-shadow var(--transition);
+    }
+    .hero-cta:hover { transform: translateY(-2px); box-shadow: var(--shadow-glow-cyan); color: #fff; }
+
+    /* ── Stats Section ── */
+    .stats-section {
+      padding: 2rem 2rem 3rem;
+      position: relative; z-index: 1;
+    }
+    .stats-grid {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1.5rem; max-width: 900px; margin: 0 auto;
+    }
+    .stat-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.5rem;
+      text-align: center;
+      transition: transform var(--transition), box-shadow var(--transition);
+    }
+    .stat-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-glow-cyan); }
+    .stat-value {
+      font-size: 2.5rem; font-weight: 800;
+      background: var(--gradient-cyan-green);
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+      line-height: 1.2;
+    }
+    .stat-label { color: var(--text-secondary); font-size: 0.9rem; margin-top: 0.3rem; text-transform: uppercase; letter-spacing: 0.05em; }
+
+    /* ── Section Shared ── */
+    .section { padding: 5rem 2rem; max-width: 1100px; margin: 0 auto; }
+    .section-header { margin-bottom: 2.5rem; }
+    .section-header h2 {
+      font-size: 2rem; font-weight: 700; display: flex; align-items: center; gap: 0.6rem;
+      margin-bottom: 0.5rem;
+    }
+    .section-header p { color: var(--text-secondary); font-size: 1.05rem; }
+
+    /* ── Reports Grid ── */
+    .reports-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 1.5rem; }
+    .report-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.5rem;
+      display: flex; flex-direction: column;
+      transition: transform var(--transition), box-shadow var(--transition), border-color var(--transition);
+      position: relative;
+      overflow: hidden;
+    }
+    .report-card::before {
+      content: '';
+      position: absolute; top: 0; left: 0; right: 0; height: 3px;
+      background: var(--gradient-cyan-green);
+      opacity: 0; transition: opacity var(--transition);
+    }
+    .report-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-glow-green); border-color: rgba(63,185,80,0.3); }
+    .report-card:hover::before { opacity: 1; }
+    .report-date { font-size: 0.85rem; color: var(--accent-cyan); font-weight: 600; margin-bottom: 0.75rem; display: flex; align-items: center; gap: 0.4rem; }
+    .report-summary { color: var(--text-secondary); font-size: 0.95rem; flex: 1; margin-bottom: 1rem; line-height: 1.5; }
+    .report-meta { display: flex; gap: 1rem; flex-wrap: wrap; align-items: center; }
+    .report-badge {
+      display: inline-flex; align-items: center; gap: 0.3rem;
+      font-size: 0.8rem; padding: 0.25rem 0.65rem;
+      border-radius: 20px; font-weight: 500;
+    }
+    .badge-tweets { background: rgba(88,166,255,0.12); color: var(--accent-cyan); }
+    .badge-topic { background: rgba(63,185,80,0.12); color: var(--accent-green); }
+    .report-link {
+      margin-top: 1rem;
+      display: inline-flex; align-items: center; gap: 0.4rem;
+      font-size: 0.9rem; font-weight: 600;
+      color: var(--accent-cyan);
+    }
+    .report-link:hover { gap: 0.7rem; }
+
+    /* ── Topics Tracker ── */
+    .topics-grid { display: flex; flex-wrap: wrap; gap: 0.75rem; }
+    .topic-tag {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      padding: 0.5rem 1.1rem;
+      border-radius: 50px;
+      font-size: 0.9rem;
+      color: var(--text-secondary);
+      transition: all var(--transition);
+      cursor: default;
+      display: flex; align-items: center; gap: 0.4rem;
+    }
+    .topic-tag:hover { border-color: var(--accent-cyan); color: var(--accent-cyan); transform: translateY(-2px); }
+    .topic-count {
+      background: rgba(88,166,255,0.12);
+      color: var(--accent-cyan);
+      font-size: 0.75rem; font-weight: 700;
+      padding: 0.1rem 0.45rem;
+      border-radius: 10px;
+    }
+
+    /* ── Empty State ── */
+    .empty-state {
+      text-align: center; padding: 4rem 2rem;
+      color: var(--text-muted);
+    }
+    .empty-state .empty-icon { font-size: 3rem; margin-bottom: 1rem; display: block; }
+    .empty-state p { font-size: 1.1rem; }
+
+    /* ── Loading ── */
+    .loading { text-align: center; padding: 3rem; color: var(--text-muted); }
+    .spinner {
+      display: inline-block; width: 32px; height: 32px;
+      border: 3px solid var(--border); border-top-color: var(--accent-cyan);
+      border-radius: 50%; animation: spin 0.8s linear infinite;
+      margin-bottom: 1rem;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Footer ── */
+    .footer {
+      text-align: center; padding: 3rem 2rem;
+      border-top: 1px solid var(--border);
+      color: var(--text-muted); font-size: 0.85rem;
+    }
+    .footer a { color: var(--text-secondary); }
+    .footer-links { display: flex; justify-content: center; gap: 2rem; margin-bottom: 1rem; flex-wrap: wrap; }
+
+    /* ── Responsive ── */
+    @media (max-width: 768px) {
+      .nav { padding: 0 1rem; }
+      .nav-links { gap: 1rem; }
+      .hero { padding: 5rem 1.5rem 3rem; }
+      .hero-emoji { font-size: 3.5rem; }
+      .section { padding: 3rem 1.5rem; }
+      .reports-grid { grid-template-columns: 1fr; }
+      .stats-grid { grid-template-columns: repeat(3, 1fr); gap: 1rem; }
+      .stat-value { font-size: 2rem; }
+    }
+    @media (max-width: 480px) {
+      .stats-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav class="nav">
+    <div class="nav-brand">🤖 <span>Agentic AI Daily</span></div>
+    <div class="nav-links">
+      <a href="#reports">Reports</a>
+      <a href="#topics">Topics</a>
+      <a href="https://github.com/ckz/agentic-ai-daily" target="_blank" rel="noopener">GitHub</a>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <section class="hero" id="hero">
+    <div class="hero-content">
+      <span class="hero-emoji">🤖</span>
+      <h1>Agentic AI Daily Research</h1>
+      <p class="tagline">Auto-curated X/Twitter trends, new products &amp; launches — your daily pulse on the Agentic AI revolution</p>
+      <a href="#reports" class="hero-cta">Explore Reports ↓</a>
+    </div>
+  </section>
+
+  <!-- Stats -->
+  <section class="stats-section" id="stats">
+    <div class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-value" id="stat-reports">0</div>
+        <div class="stat-label">Reports Published</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="stat-topics">0</div>
+        <div class="stat-label">Topics Tracked</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="stat-days">0</div>
+        <div class="stat-label">Days Active</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Daily Reports -->
+  <section class="section" id="reports">
+    <div class="section-header">
+      <h2>📰 Daily Reports</h2>
+      <p>Fresh AI research digests, updated automatically every day</p>
+    </div>
+    <div id="reports-container">
+      <div class="loading">
+        <div class="spinner"></div>
+        <p>Loading reports&hellip;</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Topic Tracker -->
+  <section class="section" id="topics">
+    <div class="section-header">
+      <h2>🏷️ Topic Tracker</h2>
+      <p>Key themes and subjects we're tracking across the Agentic AI landscape</p>
+    </div>
+    <div id="topics-container">
+      <div class="loading">
+        <div class="spinner"></div>
+        <p>Loading topics&hellip;</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-links">
+      <a href="https://github.com/ckz/agentic-ai-daily" target="_blank" rel="noopener">Repository</a>
+      <a href="https://github.com/ckz/agentic-ai-daily/issues" target="_blank" rel="noopener">Issues</a>
+      <a href="https://github.com/ckz/agentic-ai-daily/stargazers" target="_blank" rel="noopener">⭐ Star</a>
+    </div>
+    <p>Agentic AI Daily &mdash; Built with ❤️ for the AI community &mdash; <a href="https://github.com/ckz" target="_blank" rel="noopener">@ckz</a></p>
+  </footer>
+
+  <script>
+    (async function() {
+      // ── Fetch manifest ──
+      let data;
+      try {
+        const resp = await fetch('manifest.json');
+        if (!resp.ok) throw new Error('Failed to load manifest');
+        data = await resp.json();
+      } catch (e) {
+        document.getElementById('reports-container').innerHTML =
+          '<div class="empty-state"><span class="empty-icon">📡</span><p>Reports are on the way. Check back soon!</p></div>';
+        document.getElementById('topics-container').innerHTML =
+          '<div class="empty-state"><span class="empty-icon">🔍</span><p>Topics will appear once reports are generated.</p></div>';
+        console.warn('Manifest load error:', e);
+        return;
+      }
+
+      const { reports = [], stats = {}, topics = [], last_updated = '' } = data;
+
+      // ── Animate Stats ──
+      function animateCounter(el, target) {
+        const duration = 1200;
+        const start = performance.now();
+        function tick(now) {
+          const progress = Math.min((now - start) / duration, 1);
+          const eased = 1 - Math.pow(1 - progress, 3);
+          el.textContent = Math.round(eased * target);
+          if (progress < 1) requestAnimationFrame(tick);
+        }
+        requestAnimationFrame(tick);
+      }
+      animateCounter(document.getElementById('stat-reports'), stats.total_reports || 0);
+      animateCounter(document.getElementById('stat-topics'), stats.topics_tracked || 0);
+      animateCounter(document.getElementById('stat-days'), stats.days_active || 0);
+
+      // ── Render Reports ──
+      const reportsContainer = document.getElementById('reports-container');
+      if (reports.length === 0) {
+        reportsContainer.innerHTML =
+          '<div class="empty-state"><span class="empty-icon">🚀</span><p>No reports yet. The first daily digest is coming soon!</p></div>';
+      } else {
+        const sorted = [...reports].sort((a, b) => b.date.localeCompare(a.date));
+        const grid = document.createElement('div');
+        grid.className = 'reports-grid';
+        sorted.forEach(r => {
+          const card = document.createElement('div');
+          card.className = 'report-card';
+          const topicBadges = (r.topics || []).slice(0, 3).map(t =>
+            '<span class="report-badge badge-topic">' + escapeHtml(t) + '</span>'
+          ).join('');
+          card.innerHTML =
+            '<div class="report-date">📅 ' + escapeHtml(r.date) + '</div>' +
+            '<div class="report-summary">' + escapeHtml(r.summary || 'Daily agentic AI research digest.') + '</div>' +
+            '<div class="report-meta">' +
+              (r.tweet_count != null ? '<span class="report-badge badge-tweets">💬 ' + r.tweet_count + ' tweets</span>' : '') +
+              topicBadges +
+            '</div>' +
+            '<a class="report-link" href="' + escapeHtml(r.url || '#') + '">Read full report →</a>';
+          grid.appendChild(card);
+        });
+        reportsContainer.innerHTML = '';
+        reportsContainer.appendChild(grid);
+      }
+
+      // ── Render Topics ──
+      const topicsContainer = document.getElementById('topics-container');
+      // Aggregate topics from all reports
+      const topicCounts = {};
+      reports.forEach(r => {
+        (r.topics || []).forEach(t => {
+          topicCounts[t] = (topicCounts[t] || 0) + 1;
+        });
+      });
+      // Also use manifest topics array if available
+      (topics || []).forEach(t => {
+        if (typeof t === 'string') {
+          topicCounts[t] = topicCounts[t] || 0;
+        } else if (t.name) {
+          topicCounts[t.name] = t.count || topicCounts[t.name] || 0;
+        }
+      });
+      const topicEntries = Object.entries(topicCounts).sort((a, b) => b[1] - a[1]);
+      if (topicEntries.length === 0) {
+        topicsContainer.innerHTML =
+          '<div class="empty-state"><span class="empty-icon">🏷️</span><p>Topics will appear as reports are generated.</p></div>';
+      } else {
+        const wrapper = document.createElement('div');
+        wrapper.className = 'topics-grid';
+        topicEntries.forEach(([name, count]) => {
+          const tag = document.createElement('span');
+          tag.className = 'topic-tag';
+          tag.innerHTML = escapeHtml(name) + (count > 0 ? ' <span class="topic-count">' + count + '</span>' : '');
+          wrapper.appendChild(tag);
+        });
+        topicsContainer.innerHTML = '';
+        topicsContainer.appendChild(wrapper);
+      }
+
+      function escapeHtml(str) {
+        const div = document.createElement('div');
+        div.textContent = str;
+        return div.innerHTML;
+      }
+    })();
+  </script>
+
+</body>
+</html>
