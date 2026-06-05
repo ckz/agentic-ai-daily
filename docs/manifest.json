@@ -1,10 +1,41 @@
 {
-  "reports": [],
-  "topics": [],
-  "last_updated": "2026-06-05T23:06:51Z",
+  "reports": [
+    {
+      "date": "2026-06-02",
+      "filename": "2026-06-02.md",
+      "url": "../daily/2026-06-02.md",
+      "summary": "This is the **inaugural seed report** for Agentic AI Daily. Today we fetched 47 unique, high-engagement tweets across 4 advanced search queries covering agentic AI launches, AI agent products, major l",
+      "tweet_count": 47,
+      "topics": [
+        "Daily Summary",
+        "🆕 New Findings",
+        "Trending Topics Today",
+        "All Sources"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "name": "Daily Summary",
+      "count": 1
+    },
+    {
+      "name": "🆕 New Findings",
+      "count": 1
+    },
+    {
+      "name": "Trending Topics Today",
+      "count": 1
+    },
+    {
+      "name": "All Sources",
+      "count": 1
+    }
+  ],
+  "last_updated": "2026-06-05T23:15:22Z",
   "stats": {
-    "total_reports": 0,
-    "topics_tracked": 0,
-    "days_active": 0
+    "total_reports": 1,
+    "topics_tracked": 4,
+    "days_active": 1
   }
 }
