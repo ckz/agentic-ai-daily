@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-06-07
-total_mentions: 13
+last_seen: 2026-06-08
+total_mentions: 16
 
 ## Related Tweets
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2061877349629759847) (2026-06-05)
@@ -16,5 +16,8 @@ total_mentions: 13
 - [clapilot](https://x.com/clapilot/status/2063510331716952191) (2026-06-07)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2062848159215493176) (2026-06-05)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
+- [eng_khairallah1](https://x.com/eng_khairallah1/status/2061821319034143172) (2026-06-08)
+- [eng_khairallah1](https://x.com/eng_khairallah1/status/2062244858686009455) (2026-06-08)
+- [gokulr](https://x.com/gokulr/status/2062638283100930085) (2026-06-08)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
 - [shannholmberg](https://x.com/shannholmberg/status/2062652746508173796) (2026-06-06)
