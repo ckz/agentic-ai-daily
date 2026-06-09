@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-06-08
-total_mentions: 26
+last_seen: 2026-06-09
+total_mentions: 29
 
 ## Related Tweets
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
@@ -12,10 +12,13 @@ total_mentions: 26
 - [DanKornas](https://x.com/DanKornas/status/2063154157511418092) (2026-06-06)
 - [GoogleAI](https://x.com/GoogleAI/status/2062942864288387430) (2026-06-06)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
+- [Kimi_Moonshot](https://x.com/Kimi_Moonshot/status/2063990409903112344) (2026-06-09)
 - [SakanaAILabs](https://x.com/SakanaAILabs/status/2047479445209145785) (2026-06-07)
 - [SpikeCalls](https://x.com/SpikeCalls/status/2063529090091532540) (2026-06-08)
 - [WesRoth](https://x.com/WesRoth/status/2063244515989713206) (2026-06-08)
 - [Zev_ee](https://x.com/Zev_ee/status/2063508054641967536) (2026-06-07)
+- [_vmlops](https://x.com/_vmlops/status/2063841886193004672) (2026-06-09)
+- [_vmlops](https://x.com/_vmlops/status/2063916937055494571) (2026-06-09)
 - [adxtyahq](https://x.com/adxtyahq/status/2062090077296283932) (2026-06-08)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
 - [ajay_2512x](https://x.com/ajay_2512x/status/2062378424807928253) (2026-06-07)

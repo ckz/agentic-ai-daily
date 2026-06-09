@@ -1,11 +1,12 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-06-08
-total_mentions: 75
+last_seen: 2026-06-09
+total_mentions: 84
 
 ## Related Tweets
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
+- [0xMovez](https://x.com/0xMovez/status/2063989380583137587) (2026-06-09)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
 - [0xSammy](https://x.com/0xSammy/status/1882500633573609980) (2026-06-08)
 - [0xgilbert](https://x.com/0xgilbert/status/2062624582977179796) (2026-06-06)
@@ -24,6 +25,8 @@ total_mentions: 75
 - [Google](https://x.com/Google/status/2062203526588088452) (2026-06-05)
 - [HedgieMarkets](https://x.com/HedgieMarkets/status/2062198862090023293) (2026-06-08)
 - [HowToAI_](https://x.com/HowToAI_/status/2062105627204423994) (2026-06-06)
+- [Huawei](https://x.com/Huawei/status/2064239307838419399) (2026-06-09)
+- [InduTripat82427](https://x.com/InduTripat82427/status/2062485176358486507) (2026-06-09)
 - [KarineRangel7](https://x.com/KarineRangel7/status/2063810800587018439) (2026-06-08)
 - [LayerAIorg](https://x.com/LayerAIorg/status/1877351069300179299) (2026-06-08)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2063314848843485526) (2026-06-07)
@@ -40,9 +43,11 @@ total_mentions: 75
 - [TechCrunch](https://x.com/TechCrunch/status/2062622464362881423) (2026-06-08)
 - [TradingTerminal](https://x.com/TradingTerminal/status/2032473191214358925) (2026-06-07)
 - [WesRoth](https://x.com/WesRoth/status/2063244515989713206) (2026-06-08)
+- [WireNetwork](https://x.com/WireNetwork/status/2064029713421791646) (2026-06-09)
 - [Zev_ee](https://x.com/Zev_ee/status/2063508054641967536) (2026-06-07)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
 - [_shikhar_jais](https://x.com/_shikhar_jais/status/2063133010074206331) (2026-06-06)
+- [_vmlops](https://x.com/_vmlops/status/2063841886193004672) (2026-06-09)
 - [adxtyahq](https://x.com/adxtyahq/status/2062090077296283932) (2026-06-08)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
 - [ardizor](https://x.com/ardizor/status/2062571108021215563) (2026-06-05)
@@ -51,6 +56,7 @@ total_mentions: 75
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
 - [clapilot](https://x.com/clapilot/status/2063509258461642879) (2026-06-07)
 - [clapilot](https://x.com/clapilot/status/2063510331716952191) (2026-06-07)
+- [coinbureau](https://x.com/coinbureau/status/2031222262112858286) (2026-06-09)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2060914969605189808) (2026-06-05)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [datasection](https://x.com/datasection/status/2063510474503700504) (2026-06-07)
@@ -58,6 +64,7 @@ total_mentions: 75
 - [dojintanuki](https://x.com/dojintanuki/status/2063832283736387900) (2026-06-08)
 - [eigenlabs](https://x.com/eigenlabs/status/2062540745601384785) (2026-06-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2060824760859431275) (2026-06-05)
+- [eng_khairallah1](https://x.com/eng_khairallah1/status/2064019609062101321) (2026-06-09)
 - [ethermage](https://x.com/ethermage/status/1862725151349198879) (2026-06-05)
 - [getmpplayer](https://x.com/getmpplayer/status/2063511395875062224) (2026-06-07)
 - [gokulr](https://x.com/gokulr/status/2062638283100930085) (2026-06-08)
@@ -72,6 +79,7 @@ total_mentions: 75
 - [nmkr_io](https://x.com/nmkr_io/status/1857069687034523933) (2026-06-06)
 - [nvidia](https://x.com/nvidia/status/2061483007249203644) (2026-06-08)
 - [nvidia](https://x.com/nvidia/status/2061885990705271191) (2026-06-07)
+- [nvidia](https://x.com/nvidia/status/2062557490210852947) (2026-06-09)
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)
 - [rewind02](https://x.com/rewind02/status/2062914280681271627) (2026-06-05)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2062470652905549901) (2026-06-05)
@@ -80,3 +88,4 @@ total_mentions: 75
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)
 - [warpdotdev](https://x.com/warpdotdev/status/1937525185843752969) (2026-06-07)
+- [waveking1314](https://x.com/waveking1314/status/2063184011770671115) (2026-06-09)

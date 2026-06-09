@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-06-08
-total_mentions: 32
+last_seen: 2026-06-09
+total_mentions: 38
 
 ## Related Tweets
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
@@ -14,6 +14,7 @@ total_mentions: 32
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2061578655050899715) (2026-06-07)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2062253446888063025) (2026-06-06)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
+- [Huawei](https://x.com/Huawei/status/2064239307838419399) (2026-06-09)
 - [NainsiDwiv50980](https://x.com/NainsiDwiv50980/status/2062154970229858372) (2026-06-06)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/1975269391244874103) (2026-06-08)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2062274372388507726) (2026-06-05)
@@ -21,13 +22,17 @@ total_mentions: 32
 - [SilenceCaPrompt](https://x.com/SilenceCaPrompt/status/2060769285224739159) (2026-06-06)
 - [WesRoth](https://x.com/WesRoth/status/2063244515989713206) (2026-06-08)
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
+- [_vmlops](https://x.com/_vmlops/status/2063841886193004672) (2026-06-09)
 - [adxtyahq](https://x.com/adxtyahq/status/2062090077296283932) (2026-06-08)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
 - [ardizor](https://x.com/ardizor/status/2062571108021215563) (2026-06-05)
 - [asmah2107](https://x.com/asmah2107/status/2062870047903605109) (2026-06-06)
 - [bostonavionics](https://x.com/bostonavionics/status/2063158549568684369) (2026-06-06)
+- [coinbureau](https://x.com/coinbureau/status/2031222262112858286) (2026-06-09)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [dkare1009](https://x.com/dkare1009/status/2043335862264410288) (2026-06-06)
+- [googlecloud](https://x.com/googlecloud/status/2063244517575200828) (2026-06-09)
+- [googlecloud_jp](https://x.com/googlecloud_jp/status/2064210883023118619) (2026-06-09)
 - [humafinance](https://x.com/humafinance/status/2062445243711279528) (2026-06-08)
 - [iamlukethedev](https://x.com/iamlukethedev/status/2063081062473859097) (2026-06-06)
 - [mastra](https://x.com/mastra/status/2062617888478183564) (2026-06-05)
@@ -36,4 +41,5 @@ total_mentions: 32
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)
+- [vechainofficial](https://x.com/vechainofficial/status/2062450242360885371) (2026-06-09)
 - [wallstengine](https://x.com/wallstengine/status/2062459661039894607) (2026-06-08)

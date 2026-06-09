@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-06-08
-total_mentions: 11
+last_seen: 2026-06-09
+total_mentions: 13
 
 ## Related Tweets
 - [GoogleAI](https://x.com/GoogleAI/status/2062942864288387430) (2026-06-06)
@@ -16,3 +16,5 @@ total_mentions: 11
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
 - [eigenlabs](https://x.com/eigenlabs/status/2062540745601384785) (2026-06-08)
+- [googlecloud](https://x.com/googlecloud/status/2063244517575200828) (2026-06-09)
+- [googlecloud_jp](https://x.com/googlecloud_jp/status/2064210883023118619) (2026-06-09)
