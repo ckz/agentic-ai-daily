@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-06-09
-total_mentions: 38
+last_seen: 2026-06-10
+total_mentions: 44
 
 ## Related Tweets
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
@@ -19,6 +19,7 @@ total_mentions: 38
 - [Polymarket](https://x.com/Polymarket/status/2062960684309123535) (2026-06-05)
 - [RITESHGHODELA](https://x.com/RITESHGHODELA/status/2063136905282429213) (2026-06-06)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2032664263882674275) (2026-06-09)
+- [RuntimeBRT](https://x.com/RuntimeBRT/status/2063848536958288128) (2026-06-10)
 - [SeedifyFund](https://x.com/SeedifyFund/status/1882843585470406990) (2026-06-08)
 - [ShaanVP](https://x.com/ShaanVP/status/2062657552220119538) (2026-06-07)
 - [SpikeCalls](https://x.com/SpikeCalls/status/2063529090091532540) (2026-06-08)
@@ -29,11 +30,15 @@ total_mentions: 38
 - [_shikhar_jais](https://x.com/_shikhar_jais/status/2063133010074206331) (2026-06-06)
 - [benln](https://x.com/benln/status/2062927277759893629) (2026-06-06)
 - [business](https://x.com/business/status/2063849595688407299) (2026-06-08)
+- [business](https://x.com/business/status/2064560376595804273) (2026-06-10)
 - [cb_doge](https://x.com/cb_doge/status/2062681226633523250) (2026-06-08)
+- [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
+- [coingecko](https://x.com/coingecko/status/2064572347433075107) (2026-06-10)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [deedydas](https://x.com/deedydas/status/2063075876452155728) (2026-06-06)
 - [gnoble79](https://x.com/gnoble79/status/2062616388963844440) (2026-06-08)
 - [iam_elias1](https://x.com/iam_elias1/status/2062095528742240319) (2026-06-05)
+- [itsolelehmann](https://x.com/itsolelehmann/status/2062909345537634686) (2026-06-10)
 - [james406](https://x.com/james406/status/2055362680299434300) (2026-06-09)
 - [marorhab](https://x.com/marorhab/status/2063163950850609431) (2026-06-06)
 - [mikefutia](https://x.com/mikefutia/status/1932464486646001840) (2026-06-07)
@@ -41,5 +46,6 @@ total_mentions: 38
 - [peer_rich](https://x.com/peer_rich/status/2062949788081897633) (2026-06-05)
 - [sean_wallace_](https://x.com/sean_wallace_/status/2063994540873433201) (2026-06-09)
 - [signulll](https://x.com/signulll/status/2064053145580278163) (2026-06-09)
+- [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [undefinedKi](https://x.com/undefinedKi/status/2063615286301839698) (2026-06-08)
 - [ycombinator](https://x.com/ycombinator/status/2062202902543016140) (2026-06-05)
