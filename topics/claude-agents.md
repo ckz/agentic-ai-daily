@@ -1,11 +1,13 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-06-10
-total_mentions: 24
+last_seen: 2026-06-11
+total_mentions: 29
 
 ## Related Tweets
 - [0xMovez](https://x.com/0xMovez/status/2057103411783307293) (2026-06-10)
+- [AEON_Community](https://x.com/AEON_Community/status/2064694068677107745) (2026-06-11)
+- [Arcane_Aii](https://x.com/Arcane_Aii/status/2064316482071171261) (2026-06-11)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2061877349629759847) (2026-06-05)
 - [ClementDelangue](https://x.com/ClementDelangue/status/2062982727729553913) (2026-06-05)
 - [DanKornas](https://x.com/DanKornas/status/2063154157511418092) (2026-06-06)
@@ -19,6 +21,7 @@ total_mentions: 24
 - [carverfomo](https://x.com/carverfomo/status/2064338010242490662) (2026-06-10)
 - [clapilot](https://x.com/clapilot/status/2063509258461642879) (2026-06-07)
 - [clapilot](https://x.com/clapilot/status/2063510331716952191) (2026-06-07)
+- [cryptopunk7213](https://x.com/cryptopunk7213/status/1879706901170077978) (2026-06-11)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2062848159215493176) (2026-06-05)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2061821319034143172) (2026-06-08)
@@ -28,4 +31,6 @@ total_mentions: 24
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
 - [shannholmberg](https://x.com/shannholmberg/status/2062652746508173796) (2026-06-06)
+- [sharbel](https://x.com/sharbel/status/2063369348828610886) (2026-06-11)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
+- [virtuals_io](https://x.com/virtuals_io/status/2063654910995145209) (2026-06-11)

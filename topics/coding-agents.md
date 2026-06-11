@@ -1,14 +1,15 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-06-10
-total_mentions: 7
+last_seen: 2026-06-11
+total_mentions: 8
 
 ## Related Tweets
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2061506641120641494) (2026-06-05)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
 - [gokulr](https://x.com/gokulr/status/2062638283100930085) (2026-06-08)
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
+- [mattpocockuk](https://x.com/mattpocockuk/status/2064663221718425660) (2026-06-11)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
 - [vechainofficial](https://x.com/vechainofficial/status/2062450242360885371) (2026-06-09)
 - [warpdotdev](https://x.com/warpdotdev/status/1937525185843752969) (2026-06-07)

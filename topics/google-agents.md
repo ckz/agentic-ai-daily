@@ -1,10 +1,12 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-06-10
-total_mentions: 14
+last_seen: 2026-06-11
+total_mentions: 17
 
 ## Related Tweets
+- [Arcane_Aii](https://x.com/Arcane_Aii/status/2064316482071171261) (2026-06-11)
+- [Creatify_AI](https://x.com/Creatify_AI/status/2064400985288802621) (2026-06-11)
 - [GoogleAI](https://x.com/GoogleAI/status/2062942864288387430) (2026-06-06)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2061578655050899715) (2026-06-07)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2062253446888063025) (2026-06-06)
@@ -19,3 +21,4 @@ total_mentions: 14
 - [eigenlabs](https://x.com/eigenlabs/status/2062540745601384785) (2026-06-08)
 - [googlecloud](https://x.com/googlecloud/status/2063244517575200828) (2026-06-09)
 - [googlecloud_jp](https://x.com/googlecloud_jp/status/2064210883023118619) (2026-06-09)
+- [sharbel](https://x.com/sharbel/status/2063369348828610886) (2026-06-11)

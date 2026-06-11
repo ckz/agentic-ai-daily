@@ -1,12 +1,13 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-06-10
-total_mentions: 82
+last_seen: 2026-06-11
+total_mentions: 90
 
 ## Related Tweets
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xMovez](https://x.com/0xMovez/status/2057103411783307293) (2026-06-10)
+- [0xwhrrari](https://x.com/0xwhrrari/status/2063244577482440978) (2026-06-11)
 - [AIonBase_](https://x.com/AIonBase_/status/2063002925761237147) (2026-06-05)
 - [Akasheth_](https://x.com/Akasheth_/status/2063933265954918837) (2026-06-10)
 - [Appetiteldn](https://x.com/Appetiteldn/status/2063800638505361587) (2026-06-08)
@@ -27,6 +28,7 @@ total_mentions: 82
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2063314848843485526) (2026-06-07)
 - [MCGlive](https://x.com/MCGlive/status/2063016512521441777) (2026-06-05)
 - [MiniMax_AI](https://x.com/MiniMax_AI/status/2061266317815296322) (2026-06-05)
+- [NousResearch](https://x.com/NousResearch/status/2064760263224504719) (2026-06-11)
 - [OptimaiNetwork](https://x.com/OptimaiNetwork/status/2064012781658009804) (2026-06-09)
 - [ProgrammerDude](https://x.com/ProgrammerDude/status/2062854392915603924) (2026-06-06)
 - [PythonDvz](https://x.com/PythonDvz/status/2063623261678698575) (2026-06-10)
@@ -39,7 +41,10 @@ total_mentions: 82
 - [SilenceCaPrompt](https://x.com/SilenceCaPrompt/status/2060769285224739159) (2026-06-06)
 - [Smartpigai](https://x.com/Smartpigai/status/2063095358075597009) (2026-06-08)
 - [Sumanth_077](https://x.com/Sumanth_077/status/2063254456834372040) (2026-06-07)
+- [SvpChain](https://x.com/SvpChain/status/2064935788345974954) (2026-06-11)
 - [VadimStrizheus](https://x.com/VadimStrizheus/status/2063489178348703902) (2026-06-10)
+- [XiaomiMiMo](https://x.com/XiaomiMiMo/status/2064799879352959085) (2026-06-11)
+- [ZHENXINYU](https://x.com/ZHENXINYU/status/2064950271906889746) (2026-06-11)
 - [_philschmid](https://x.com/_philschmid/status/2052781345831879145) (2026-06-09)
 - [_vmlops](https://x.com/_vmlops/status/2063841886193004672) (2026-06-09)
 - [_vmlops](https://x.com/_vmlops/status/2063916937055494571) (2026-06-09)
@@ -62,7 +67,10 @@ total_mentions: 82
 - [exploraX_](https://x.com/exploraX_/status/2062900398445236623) (2026-06-06)
 - [fatoomdes](https://x.com/fatoomdes/status/2062829219990659354) (2026-06-07)
 - [gippp69](https://x.com/gippp69/status/2061110941509419435) (2026-06-07)
+- [higgsfield](https://x.com/higgsfield/status/2064780036234969131) (2026-06-11)
+- [higgsfield](https://x.com/higgsfield/status/2064816074642825314) (2026-06-11)
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2062607081010864364) (2026-06-07)
+- [higgsfield_ai](https://x.com/higgsfield_ai/status/2064897496091140376) (2026-06-11)
 - [humafinance](https://x.com/humafinance/status/2062445243711279528) (2026-06-08)
 - [iBenWills](https://x.com/iBenWills/status/2063840829773369626) (2026-06-08)
 - [iam_elias1](https://x.com/iam_elias1/status/2062095528742240319) (2026-06-05)

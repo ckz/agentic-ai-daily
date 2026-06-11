@@ -1,15 +1,18 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-06-10
-total_mentions: 47
+last_seen: 2026-06-11
+total_mentions: 54
 
 ## Related Tweets
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
+- [APACwebaijobs](https://x.com/APACwebaijobs/status/2064977490213474577) (2026-06-11)
 - [Akasheth_](https://x.com/Akasheth_/status/2063933265954918837) (2026-06-10)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2062245225159111117) (2026-06-06)
 - [ArslyTech](https://x.com/ArslyTech/status/2063153998518235584) (2026-06-06)
+- [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
+- [ClaudeDevs](https://x.com/ClaudeDevs/status/2064756984617021807) (2026-06-11)
 - [DamiDefi](https://x.com/DamiDefi/status/2034210979475788197) (2026-06-10)
 - [FastCompany](https://x.com/FastCompany/status/2063149004490149919) (2026-06-06)
 - [GoogleAI](https://x.com/GoogleAI/status/2062942864288387430) (2026-06-06)
@@ -25,6 +28,7 @@ total_mentions: 47
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2063086140799012963) (2026-06-06)
 - [SilenceCaPrompt](https://x.com/SilenceCaPrompt/status/2060769285224739159) (2026-06-06)
 - [WesRoth](https://x.com/WesRoth/status/2063244515989713206) (2026-06-08)
+- [XiaomiMiMo](https://x.com/XiaomiMiMo/status/2064799879352959085) (2026-06-11)
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
 - [_vmlops](https://x.com/_vmlops/status/2063841886193004672) (2026-06-09)
 - [adxtyahq](https://x.com/adxtyahq/status/2062090077296283932) (2026-06-08)
@@ -33,6 +37,7 @@ total_mentions: 47
 - [ardizor](https://x.com/ardizor/status/2062571108021215563) (2026-06-05)
 - [asmah2107](https://x.com/asmah2107/status/2062870047903605109) (2026-06-06)
 - [augmentcode](https://x.com/augmentcode/status/2064401015957492202) (2026-06-10)
+- [axon402](https://x.com/axon402/status/2064629815961854211) (2026-06-11)
 - [bostonavionics](https://x.com/bostonavionics/status/2063158549568684369) (2026-06-06)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
 - [coinbureau](https://x.com/coinbureau/status/2031222262112858286) (2026-06-09)
@@ -48,7 +53,9 @@ total_mentions: 47
 - [piyascode9](https://x.com/piyascode9/status/2060204362497224790) (2026-06-05)
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
+- [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)
 - [vechainofficial](https://x.com/vechainofficial/status/2062450242360885371) (2026-06-09)
+- [virtuals_io](https://x.com/virtuals_io/status/1881340149503857151) (2026-06-11)
 - [wallstengine](https://x.com/wallstengine/status/2062459661039894607) (2026-06-08)

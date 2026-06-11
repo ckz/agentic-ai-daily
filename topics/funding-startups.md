@@ -1,13 +1,14 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-06-10
-total_mentions: 44
+last_seen: 2026-06-11
+total_mentions: 48
 
 ## Related Tweets
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
 - [ArrushAdityadev](https://x.com/ArrushAdityadev/status/2061674017929703768) (2026-06-08)
 - [ArslyTech](https://x.com/ArslyTech/status/2063153998518235584) (2026-06-06)
+- [Brennan_Lup](https://x.com/Brennan_Lup/status/2064930712739090835) (2026-06-11)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2062148017818419548) (2026-06-09)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2064249311492477082) (2026-06-09)
 - [Codex_Changelog](https://x.com/Codex_Changelog/status/2062678248790589520) (2026-06-07)
@@ -22,6 +23,7 @@ total_mentions: 44
 - [RuntimeBRT](https://x.com/RuntimeBRT/status/2063848536958288128) (2026-06-10)
 - [SeedifyFund](https://x.com/SeedifyFund/status/1882843585470406990) (2026-06-08)
 - [ShaanVP](https://x.com/ShaanVP/status/2062657552220119538) (2026-06-07)
+- [Sheema_bakhtiar](https://x.com/Sheema_bakhtiar/status/2064945268563546427) (2026-06-11)
 - [SpikeCalls](https://x.com/SpikeCalls/status/2063529090091532540) (2026-06-08)
 - [StartupArchive_](https://x.com/StartupArchive_/status/2061052571876520406) (2026-06-07)
 - [Steve8708](https://x.com/Steve8708/status/2041909436059615442) (2026-06-06)
@@ -38,8 +40,10 @@ total_mentions: 44
 - [deedydas](https://x.com/deedydas/status/2063075876452155728) (2026-06-06)
 - [gnoble79](https://x.com/gnoble79/status/2062616388963844440) (2026-06-08)
 - [iam_elias1](https://x.com/iam_elias1/status/2062095528742240319) (2026-06-05)
+- [itsmichaelluu](https://x.com/itsmichaelluu/status/2064692678608990537) (2026-06-11)
 - [itsolelehmann](https://x.com/itsolelehmann/status/2062909345537634686) (2026-06-10)
 - [james406](https://x.com/james406/status/2055362680299434300) (2026-06-09)
+- [markiewagner](https://x.com/markiewagner/status/2064778239164461316) (2026-06-11)
 - [marorhab](https://x.com/marorhab/status/2063163950850609431) (2026-06-06)
 - [mikefutia](https://x.com/mikefutia/status/1932464486646001840) (2026-06-07)
 - [paulg](https://x.com/paulg/status/2063091245334044902) (2026-06-06)
