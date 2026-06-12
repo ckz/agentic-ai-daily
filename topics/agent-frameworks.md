@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-06-11
-total_mentions: 54
+last_seen: 2026-06-12
+total_mentions: 57
 
 ## Related Tweets
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
@@ -10,10 +10,12 @@ total_mentions: 54
 - [APACwebaijobs](https://x.com/APACwebaijobs/status/2064977490213474577) (2026-06-11)
 - [Akasheth_](https://x.com/Akasheth_/status/2063933265954918837) (2026-06-10)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2062245225159111117) (2026-06-06)
+- [AndrewYNg](https://x.com/AndrewYNg/status/1975614372799283423) (2026-06-12)
 - [ArslyTech](https://x.com/ArslyTech/status/2063153998518235584) (2026-06-06)
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2064756984617021807) (2026-06-11)
 - [DamiDefi](https://x.com/DamiDefi/status/2034210979475788197) (2026-06-10)
+- [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
 - [FastCompany](https://x.com/FastCompany/status/2063149004490149919) (2026-06-06)
 - [GoogleAI](https://x.com/GoogleAI/status/2062942864288387430) (2026-06-06)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2061578655050899715) (2026-06-07)
@@ -48,6 +50,7 @@ total_mentions: 54
 - [googlecloud_jp](https://x.com/googlecloud_jp/status/2064210883023118619) (2026-06-09)
 - [humafinance](https://x.com/humafinance/status/2062445243711279528) (2026-06-08)
 - [iamlukethedev](https://x.com/iamlukethedev/status/2063081062473859097) (2026-06-06)
+- [islam_naserr](https://x.com/islam_naserr/status/2065299167560257970) (2026-06-12)
 - [mastra](https://x.com/mastra/status/2062617888478183564) (2026-06-05)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [piyascode9](https://x.com/piyascode9/status/2060204362497224790) (2026-06-05)

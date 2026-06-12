@@ -1,13 +1,14 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-06-11
-total_mentions: 40
+last_seen: 2026-06-12
+total_mentions: 45
 
 ## Related Tweets
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
 - [AIonBase_](https://x.com/AIonBase_/status/2063002925761237147) (2026-06-05)
 - [Akasheth_](https://x.com/Akasheth_/status/2063933265954918837) (2026-06-10)
+- [AndrewYNg](https://x.com/AndrewYNg/status/1975614372799283423) (2026-06-12)
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2062873857304752368) (2026-06-05)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2063598644293484741) (2026-06-08)
@@ -18,6 +19,7 @@ total_mentions: 40
 - [Rixhabh__](https://x.com/Rixhabh__/status/2064674645543154093) (2026-06-11)
 - [SakanaAILabs](https://x.com/SakanaAILabs/status/2047479445209145785) (2026-06-07)
 - [SpikeCalls](https://x.com/SpikeCalls/status/2063529090091532540) (2026-06-08)
+- [Tanaypawar27](https://x.com/Tanaypawar27/status/2065300113254388162) (2026-06-12)
 - [WesRoth](https://x.com/WesRoth/status/2063244515989713206) (2026-06-08)
 - [Zev_ee](https://x.com/Zev_ee/status/2063508054641967536) (2026-06-07)
 - [_vmlops](https://x.com/_vmlops/status/2063841886193004672) (2026-06-09)
@@ -31,10 +33,13 @@ total_mentions: 40
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1890778947736027621) (2026-06-10)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2060914969605189808) (2026-06-05)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2064912505928122463) (2026-06-11)
+- [d_vuln](https://x.com/d_vuln/status/2065305823631294810) (2026-06-12)
 - [eigenlabs](https://x.com/eigenlabs/status/2062540745601384785) (2026-06-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2063633896517022014) (2026-06-08)
 - [gippp69](https://x.com/gippp69/status/2062224522237890675) (2026-06-08)
 - [imarun_chauhan](https://x.com/imarun_chauhan/status/2063878197457134003) (2026-06-08)
+- [leanpub](https://x.com/leanpub/status/2065188595590209868) (2026-06-12)
+- [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
 - [promptparag](https://x.com/promptparag/status/2064311991842574695) (2026-06-10)
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)
 - [rewind02](https://x.com/rewind02/status/2062914280681271627) (2026-06-05)
