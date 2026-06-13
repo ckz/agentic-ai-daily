@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-06-12
-total_mentions: 45
+last_seen: 2026-06-13
+total_mentions: 50
 
 ## Related Tweets
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
@@ -12,6 +12,7 @@ total_mentions: 45
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2062873857304752368) (2026-06-05)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2063598644293484741) (2026-06-08)
+- [ChainOpera_AI](https://x.com/ChainOpera_AI/status/2065431330910015978) (2026-06-13)
 - [DanKornas](https://x.com/DanKornas/status/2063154157511418092) (2026-06-06)
 - [GoogleAI](https://x.com/GoogleAI/status/2062942864288387430) (2026-06-06)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
@@ -37,16 +38,20 @@ total_mentions: 45
 - [eigenlabs](https://x.com/eigenlabs/status/2062540745601384785) (2026-06-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2063633896517022014) (2026-06-08)
 - [gippp69](https://x.com/gippp69/status/2062224522237890675) (2026-06-08)
+- [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [imarun_chauhan](https://x.com/imarun_chauhan/status/2063878197457134003) (2026-06-08)
 - [leanpub](https://x.com/leanpub/status/2065188595590209868) (2026-06-12)
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
+- [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [promptparag](https://x.com/promptparag/status/2064311991842574695) (2026-06-10)
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)
 - [rewind02](https://x.com/rewind02/status/2062914280681271627) (2026-06-05)
 - [rishflips](https://x.com/rishflips/status/2064954076543205542) (2026-06-11)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2062470652905549901) (2026-06-05)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
+- [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
 - [swarms_corp](https://x.com/swarms_corp/status/2062886985883082914) (2026-06-05)
+- [swarms_corp](https://x.com/swarms_corp/status/2065570314268885211) (2026-06-13)
 - [virtuals_io](https://x.com/virtuals_io/status/1881340149503857151) (2026-06-11)
 - [virtuals_io](https://x.com/virtuals_io/status/2063654910995145209) (2026-06-11)

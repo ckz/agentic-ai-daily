@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-06-12
-total_mentions: 134
+last_seen: 2026-06-13
+total_mentions: 143
 
 ## Related Tweets
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
@@ -18,10 +18,12 @@ total_mentions: 134
 - [AndrewYNg](https://x.com/AndrewYNg/status/2061477558693384395) (2026-06-07)
 - [AnunnakiToken](https://x.com/AnunnakiToken/status/2065341689649037657) (2026-06-12)
 - [Appetiteldn](https://x.com/Appetiteldn/status/2063800638505361587) (2026-06-08)
+- [Argona0x](https://x.com/Argona0x/status/2065525815106769169) (2026-06-13)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2064500150069030992) (2026-06-10)
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2062873857304752368) (2026-06-05)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2063598644293484741) (2026-06-08)
+- [BradGroux](https://x.com/BradGroux/status/2065096482831659348) (2026-06-13)
 - [Cloudflare](https://x.com/Cloudflare/status/2065279639535456392) (2026-06-12)
 - [DamiDefi](https://x.com/DamiDefi/status/2034210979475788197) (2026-06-10)
 - [DataChaz](https://x.com/DataChaz/status/2020882442492747997) (2026-06-05)
@@ -35,12 +37,14 @@ total_mentions: 134
 - [HedgieMarkets](https://x.com/HedgieMarkets/status/2062198862090023293) (2026-06-08)
 - [HowToAI_](https://x.com/HowToAI_/status/2062105627204423994) (2026-06-06)
 - [Huawei](https://x.com/Huawei/status/2064239307838419399) (2026-06-09)
+- [HuggingPapers](https://x.com/HuggingPapers/status/2065062300218749172) (2026-06-13)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2062485176358486507) (2026-06-09)
 - [JJEnglert](https://x.com/JJEnglert/status/2064420538798260388) (2026-06-10)
 - [KarineRangel7](https://x.com/KarineRangel7/status/2063810800587018439) (2026-06-08)
 - [LayerAIorg](https://x.com/LayerAIorg/status/1877351069300179299) (2026-06-08)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2063314848843485526) (2026-06-07)
 - [MiniMax_AI](https://x.com/MiniMax_AI/status/2061266317815296322) (2026-06-05)
+- [NFTCPS](https://x.com/NFTCPS/status/2063088254560407926) (2026-06-13)
 - [NainsiDwiv50980](https://x.com/NainsiDwiv50980/status/2062154970229858372) (2026-06-06)
 - [NotebookLM](https://x.com/NotebookLM/status/2064016460964585549) (2026-06-11)
 - [NousResearch](https://x.com/NousResearch/status/2026759005633183980) (2026-06-07)
@@ -84,7 +88,9 @@ total_mentions: 134
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1879706901170077978) (2026-06-11)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1890778947736027621) (2026-06-10)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2060914969605189808) (2026-06-05)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2065624525232849284) (2026-06-13)
 - [d_vuln](https://x.com/d_vuln/status/2065305823631294810) (2026-06-12)
+- [dair_ai](https://x.com/dair_ai/status/2028480209033568475) (2026-06-13)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [datasection](https://x.com/datasection/status/2063510474503700504) (2026-06-07)
 - [david1989_zhu](https://x.com/david1989_zhu/status/2065343518483136962) (2026-06-12)
@@ -98,6 +104,7 @@ total_mentions: 134
 - [getmpplayer](https://x.com/getmpplayer/status/2063511395875062224) (2026-06-07)
 - [github](https://x.com/github/status/2064402372961484864) (2026-06-11)
 - [gokulr](https://x.com/gokulr/status/2062638283100930085) (2026-06-08)
+- [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [humafinance](https://x.com/humafinance/status/2062445243711279528) (2026-06-08)
 - [iBenWills](https://x.com/iBenWills/status/2063840829773369626) (2026-06-08)
 - [iam_elias1](https://x.com/iam_elias1/status/2062095528742240319) (2026-06-05)
@@ -109,6 +116,7 @@ total_mentions: 134
 - [itsmichaelluu](https://x.com/itsmichaelluu/status/2064692678608990537) (2026-06-11)
 - [leanpub](https://x.com/leanpub/status/2065188595590209868) (2026-06-12)
 - [levie](https://x.com/levie/status/2061247380897579500) (2026-06-06)
+- [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [mvanhorn](https://x.com/mvanhorn/status/2061978364391592110) (2026-06-07)
 - [nmkr_io](https://x.com/nmkr_io/status/1857069687034523933) (2026-06-06)
 - [nvidia](https://x.com/nvidia/status/2061483007249203644) (2026-06-08)
@@ -129,6 +137,7 @@ total_mentions: 134
 - [shedoesai](https://x.com/shedoesai/status/2054227691671556145) (2026-06-12)
 - [shiri_shh](https://x.com/shiri_shh/status/2060434223299998179) (2026-06-05)
 - [shiri_shh](https://x.com/shiri_shh/status/2061426931162288614) (2026-06-06)
+- [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)
 - [thompson_akhat](https://x.com/thompson_akhat/status/2065333327314276641) (2026-06-12)

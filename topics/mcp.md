@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-06-12
-total_mentions: 104
+last_seen: 2026-06-13
+total_mentions: 112
 
 ## Related Tweets
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
@@ -14,6 +14,7 @@ total_mentions: 104
 - [Atenov_D](https://x.com/Atenov_D/status/2063583110495707530) (2026-06-08)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2062873857304752368) (2026-06-05)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2063598644293484741) (2026-06-08)
+- [BradGroux](https://x.com/BradGroux/status/2065096482831659348) (2026-06-13)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2064072801062121906) (2026-06-09)
 - [DanKornas](https://x.com/DanKornas/status/2063154157511418092) (2026-06-06)
 - [DataChaz](https://x.com/DataChaz/status/2047633186394697853) (2026-06-09)
@@ -26,6 +27,7 @@ total_mentions: 104
 - [InduTripat82427](https://x.com/InduTripat82427/status/2062485176358486507) (2026-06-09)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2063904128708022613) (2026-06-09)
 - [KarineRangel7](https://x.com/KarineRangel7/status/2063810800587018439) (2026-06-08)
+- [Kekeha228](https://x.com/Kekeha228/status/2065700558527217899) (2026-06-13)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2063314848843485526) (2026-06-07)
 - [MCGlive](https://x.com/MCGlive/status/2063016512521441777) (2026-06-05)
 - [MiniMax_AI](https://x.com/MiniMax_AI/status/2061266317815296322) (2026-06-05)
@@ -46,6 +48,7 @@ total_mentions: 104
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2065300113254388162) (2026-06-12)
 - [VadimStrizheus](https://x.com/VadimStrizheus/status/2063489178348703902) (2026-06-10)
 - [Veltrxai](https://x.com/Veltrxai/status/2064777828512469024) (2026-06-12)
+- [XFreeze](https://x.com/XFreeze/status/2065327439476375760) (2026-06-13)
 - [XiaomiMiMo](https://x.com/XiaomiMiMo/status/2064799879352959085) (2026-06-11)
 - [ZHENXINYU](https://x.com/ZHENXINYU/status/2064950271906889746) (2026-06-11)
 - [_philschmid](https://x.com/_philschmid/status/2052781345831879145) (2026-06-09)
@@ -59,11 +62,13 @@ total_mentions: 104
 - [arcads_ai](https://x.com/arcads_ai/status/2065046759743635529) (2026-06-12)
 - [architeqtai](https://x.com/architeqtai/status/2065343364166299693) (2026-06-12)
 - [cTrader](https://x.com/cTrader/status/2062503096375263532) (2026-06-05)
+- [chanducore](https://x.com/chanducore/status/2065670751781589413) (2026-06-13)
 - [charliejhills](https://x.com/charliejhills/status/2061702209310761142) (2026-06-06)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2060914969605189808) (2026-06-05)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2061379784664584278) (2026-06-07)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2063946654206877823) (2026-06-09)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2065624525232849284) (2026-06-13)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [davemccollough](https://x.com/davemccollough/status/2064154192856670213) (2026-06-09)
 - [dojintanuki](https://x.com/dojintanuki/status/2063832283736387900) (2026-06-08)
@@ -76,6 +81,7 @@ total_mentions: 104
 - [exploraX_](https://x.com/exploraX_/status/2062900398445236623) (2026-06-06)
 - [fatoomdes](https://x.com/fatoomdes/status/2062829219990659354) (2026-06-07)
 - [gippp69](https://x.com/gippp69/status/2061110941509419435) (2026-06-07)
+- [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [higgsfield](https://x.com/higgsfield/status/2064780036234969131) (2026-06-11)
 - [higgsfield](https://x.com/higgsfield/status/2064816074642825314) (2026-06-11)
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2062607081010864364) (2026-06-07)
@@ -94,12 +100,14 @@ total_mentions: 104
 - [midudev](https://x.com/midudev/status/2063607570179170572) (2026-06-08)
 - [mikefutia](https://x.com/mikefutia/status/2064446547505602605) (2026-06-10)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
+- [nubis_app](https://x.com/nubis_app/status/2065699995399881189) (2026-06-13)
 - [ocodista](https://x.com/ocodista/status/2064366920049004753) (2026-06-10)
 - [polsia](https://x.com/polsia/status/2062988231151677690) (2026-06-05)
 - [precisox](https://x.com/precisox/status/2063510053211054189) (2026-06-08)
 - [promptparag](https://x.com/promptparag/status/2064311991842574695) (2026-06-10)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [shedoesai](https://x.com/shedoesai/status/2054227691671556145) (2026-06-12)
+- [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
 - [svpino](https://x.com/svpino/status/2065079108959363290) (2026-06-12)
 - [tan_stack](https://x.com/tan_stack/status/2062961334061318189) (2026-06-06)

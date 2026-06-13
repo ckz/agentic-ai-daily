@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-06-12
-total_mentions: 34
+last_seen: 2026-06-13
+total_mentions: 39
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2065097407965127142) (2026-06-12)
@@ -10,9 +10,12 @@ total_mentions: 34
 - [AEON_Community](https://x.com/AEON_Community/status/2064694068677107745) (2026-06-11)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2065054167677170033) (2026-06-12)
 - [Arcane_Aii](https://x.com/Arcane_Aii/status/2064316482071171261) (2026-06-11)
+- [Argona0x](https://x.com/Argona0x/status/2065525815106769169) (2026-06-13)
+- [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065328920514515037) (2026-06-13)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2061877349629759847) (2026-06-05)
 - [ClementDelangue](https://x.com/ClementDelangue/status/2062982727729553913) (2026-06-05)
 - [DanKornas](https://x.com/DanKornas/status/2063154157511418092) (2026-06-06)
+- [HuggingPapers](https://x.com/HuggingPapers/status/2065062300218749172) (2026-06-13)
 - [JJEnglert](https://x.com/JJEnglert/status/2064420538798260388) (2026-06-10)
 - [NousResearch](https://x.com/NousResearch/status/2026759005633183980) (2026-06-07)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
@@ -32,10 +35,12 @@ total_mentions: 34
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2062244858686009455) (2026-06-08)
 - [gokulr](https://x.com/gokulr/status/2062638283100930085) (2026-06-08)
 - [googlecloud](https://x.com/googlecloud/status/2064505329006653571) (2026-06-10)
+- [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
 - [shannholmberg](https://x.com/shannholmberg/status/2062652746508173796) (2026-06-06)
 - [sharbel](https://x.com/sharbel/status/2063369348828610886) (2026-06-11)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
+- [vercel_dev](https://x.com/vercel_dev/status/2065509970775519569) (2026-06-13)
 - [virtuals_io](https://x.com/virtuals_io/status/2063654910995145209) (2026-06-11)

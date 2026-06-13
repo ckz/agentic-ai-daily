@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-06-12
-total_mentions: 20
+last_seen: 2026-06-13
+total_mentions: 21
 
 ## Related Tweets
 - [Arcane_Aii](https://x.com/Arcane_Aii/status/2064316482071171261) (2026-06-11)
@@ -22,6 +22,7 @@ total_mentions: 20
 - [eigenlabs](https://x.com/eigenlabs/status/2062540745601384785) (2026-06-08)
 - [googlecloud](https://x.com/googlecloud/status/2063244517575200828) (2026-06-09)
 - [googlecloud_jp](https://x.com/googlecloud_jp/status/2064210883023118619) (2026-06-09)
+- [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
 - [sharbel](https://x.com/sharbel/status/2063369348828610886) (2026-06-11)
 - [shedoesai](https://x.com/shedoesai/status/2054227691671556145) (2026-06-12)

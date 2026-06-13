@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-06-12
-total_mentions: 57
+last_seen: 2026-06-13
+total_mentions: 62
 
 ## Related Tweets
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
@@ -43,20 +43,25 @@ total_mentions: 57
 - [bostonavionics](https://x.com/bostonavionics/status/2063158549568684369) (2026-06-06)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
 - [coinbureau](https://x.com/coinbureau/status/2031222262112858286) (2026-06-09)
+- [dair_ai](https://x.com/dair_ai/status/2028480209033568475) (2026-06-13)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [dkare1009](https://x.com/dkare1009/status/2043335862264410288) (2026-06-06)
+- [ecomchigga](https://x.com/ecomchigga/status/2065176267637297566) (2026-06-13)
 - [googlecloud](https://x.com/googlecloud/status/2063244517575200828) (2026-06-09)
 - [googlecloud](https://x.com/googlecloud/status/2064505329006653571) (2026-06-10)
 - [googlecloud_jp](https://x.com/googlecloud_jp/status/2064210883023118619) (2026-06-09)
+- [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [humafinance](https://x.com/humafinance/status/2062445243711279528) (2026-06-08)
 - [iamlukethedev](https://x.com/iamlukethedev/status/2063081062473859097) (2026-06-06)
 - [islam_naserr](https://x.com/islam_naserr/status/2065299167560257970) (2026-06-12)
 - [mastra](https://x.com/mastra/status/2062617888478183564) (2026-06-05)
+- [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [piyascode9](https://x.com/piyascode9/status/2060204362497224790) (2026-06-05)
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
+- [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)
 - [vechainofficial](https://x.com/vechainofficial/status/2062450242360885371) (2026-06-09)
