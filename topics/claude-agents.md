@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-06-14
-total_mentions: 44
+last_seen: 2026-06-15
+total_mentions: 45
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -27,6 +27,7 @@ total_mentions: 44
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2029534926828388537) (2026-06-06)
 - [alliekmiller](https://x.com/alliekmiller/status/2064451731325415446) (2026-06-10)
+- [bcherny](https://x.com/bcherny/status/2064431111154053187) (2026-06-15)
 - [carverfomo](https://x.com/carverfomo/status/2064338010242490662) (2026-06-10)
 - [clapilot](https://x.com/clapilot/status/2063509258461642879) (2026-06-07)
 - [clapilot](https://x.com/clapilot/status/2063510331716952191) (2026-06-07)

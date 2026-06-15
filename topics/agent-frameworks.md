@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-06-14
-total_mentions: 68
+last_seen: 2026-06-15
+total_mentions: 72
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -26,6 +26,7 @@ total_mentions: 68
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
 - [Huawei](https://x.com/Huawei/status/2064239307838419399) (2026-06-09)
 - [HyperionXTrade](https://x.com/HyperionXTrade/status/2066015535045992470) (2026-06-14)
+- [Kaffchad](https://x.com/Kaffchad/status/2066380271092662782) (2026-06-15)
 - [NainsiDwiv50980](https://x.com/NainsiDwiv50980/status/2062154970229858372) (2026-06-06)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/1975269391244874103) (2026-06-08)
 - [OptimaiNetwork](https://x.com/OptimaiNetwork/status/2014178144429723810) (2026-06-10)
@@ -59,9 +60,11 @@ total_mentions: 68
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [humafinance](https://x.com/humafinance/status/2062445243711279528) (2026-06-08)
 - [iamlukethedev](https://x.com/iamlukethedev/status/2063081062473859097) (2026-06-06)
+- [ipfconline1](https://x.com/ipfconline1/status/2066408115369656823) (2026-06-15)
 - [islam_naserr](https://x.com/islam_naserr/status/2065299167560257970) (2026-06-12)
 - [mastra](https://x.com/mastra/status/2062617888478183564) (2026-06-05)
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
+- [michyexe](https://x.com/michyexe/status/2000613204116844826) (2026-06-15)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [piyascode9](https://x.com/piyascode9/status/2060204362497224790) (2026-06-05)
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)
@@ -70,6 +73,7 @@ total_mentions: 68
 - [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)
+- [tom_doerr](https://x.com/tom_doerr/status/2066365949926629733) (2026-06-15)
 - [vechainofficial](https://x.com/vechainofficial/status/2062450242360885371) (2026-06-09)
 - [virtuals_io](https://x.com/virtuals_io/status/1881340149503857151) (2026-06-11)
 - [wallstengine](https://x.com/wallstengine/status/2062459661039894607) (2026-06-08)
