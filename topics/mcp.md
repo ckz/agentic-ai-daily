@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-06-15
-total_mentions: 129
+last_seen: 2026-06-19
+total_mentions: 138
 
 ## Related Tweets
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
@@ -16,6 +16,8 @@ total_mentions: 129
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2063598644293484741) (2026-06-08)
 - [BradGroux](https://x.com/BradGroux/status/2065096482831659348) (2026-06-13)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2064072801062121906) (2026-06-09)
+- [ClaudeDevs](https://x.com/ClaudeDevs/status/2067655887662272723) (2026-06-19)
+- [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DanKornas](https://x.com/DanKornas/status/2063154157511418092) (2026-06-06)
 - [DataChaz](https://x.com/DataChaz/status/2047633186394697853) (2026-06-09)
 - [DataChaz](https://x.com/DataChaz/status/2062940997257212367) (2026-06-06)
@@ -28,6 +30,7 @@ total_mentions: 129
 - [IBuzovskyi](https://x.com/IBuzovskyi/status/2065559839036637291) (2026-06-15)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2062485176358486507) (2026-06-09)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2063904128708022613) (2026-06-09)
+- [JulianGoldieSEO](https://x.com/JulianGoldieSEO/status/2067820667794559045) (2026-06-19)
 - [KarineRangel7](https://x.com/KarineRangel7/status/2063810800587018439) (2026-06-08)
 - [Kekeha228](https://x.com/Kekeha228/status/2065700558527217899) (2026-06-13)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2063314848843485526) (2026-06-07)
@@ -70,11 +73,13 @@ total_mentions: 129
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2029534926828388537) (2026-06-06)
 - [arcads_ai](https://x.com/arcads_ai/status/2065046759743635529) (2026-06-12)
 - [architeqtai](https://x.com/architeqtai/status/2065343364166299693) (2026-06-12)
+- [aryanXmahajan](https://x.com/aryanXmahajan/status/2067677589247082656) (2026-06-19)
 - [cTrader](https://x.com/cTrader/status/2062503096375263532) (2026-06-05)
 - [chanducore](https://x.com/chanducore/status/2065670751781589413) (2026-06-13)
 - [charliejhills](https://x.com/charliejhills/status/2061702209310761142) (2026-06-06)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
 - [cooltechtipz](https://x.com/cooltechtipz/status/2066394613410406460) (2026-06-15)
+- [cryptobuzzer03](https://x.com/cryptobuzzer03/status/2067855094327001574) (2026-06-19)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2060914969605189808) (2026-06-05)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2061379784664584278) (2026-06-07)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2063946654206877823) (2026-06-09)
@@ -116,13 +121,17 @@ total_mentions: 129
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [nubis_app](https://x.com/nubis_app/status/2065699995399881189) (2026-06-13)
 - [ocodista](https://x.com/ocodista/status/2064366920049004753) (2026-06-10)
+- [openart_ai](https://x.com/openart_ai/status/2067650953478652126) (2026-06-19)
 - [polsia](https://x.com/polsia/status/2062988231151677690) (2026-06-05)
 - [precisox](https://x.com/precisox/status/2063510053211054189) (2026-06-08)
 - [promptparag](https://x.com/promptparag/status/2064311991842574695) (2026-06-10)
+- [rebel0x0](https://x.com/rebel0x0/status/2067186712758071385) (2026-06-19)
 - [ridark_eth](https://x.com/ridark_eth/status/2066216714644111431) (2026-06-15)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
+- [sakhil_ai](https://x.com/sakhil_ai/status/2067798126279397885) (2026-06-19)
 - [shedoesai](https://x.com/shedoesai/status/2054227691671556145) (2026-06-12)
 - [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)
+- [sixtria](https://x.com/sixtria/status/2067853856709779883) (2026-06-19)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
 - [svpino](https://x.com/svpino/status/2065079108959363290) (2026-06-12)
 - [tan_stack](https://x.com/tan_stack/status/2062961334061318189) (2026-06-06)

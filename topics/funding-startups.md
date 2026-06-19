@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-06-15
-total_mentions: 69
+last_seen: 2026-06-19
+total_mentions: 74
 
 ## Related Tweets
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
@@ -14,7 +14,9 @@ total_mentions: 69
 - [BullTheoryio](https://x.com/BullTheoryio/status/2064249311492477082) (2026-06-09)
 - [Codex_Changelog](https://x.com/Codex_Changelog/status/2062678248790589520) (2026-06-07)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2063005594047467893) (2026-06-05)
+- [Dhruvam987](https://x.com/Dhruvam987/status/2067811478485582025) (2026-06-19)
 - [FundedPartners](https://x.com/FundedPartners/status/2066006946860110328) (2026-06-14)
+- [GrishinRobotics](https://x.com/GrishinRobotics/status/2067880410676187569) (2026-06-19)
 - [Helion_Energy](https://x.com/Helion_Energy/status/2062554317564108825) (2026-06-07)
 - [Hesamation](https://x.com/Hesamation/status/1970585800325640372) (2026-06-07)
 - [IPONewsroom_](https://x.com/IPONewsroom_/status/2065081323803267479) (2026-06-13)
@@ -38,6 +40,9 @@ total_mentions: 69
 - [_poolday_](https://x.com/_poolday_/status/2065097298946777226) (2026-06-12)
 - [_shikhar_jais](https://x.com/_shikhar_jais/status/2063133010074206331) (2026-06-06)
 - [aakrit](https://x.com/aakrit/status/2065778171912265899) (2026-06-14)
+- [athanzxyt](https://x.com/athanzxyt/status/2067660560607613032) (2026-06-19)
+- [awwstn](https://x.com/awwstn/status/2067750610963939571) (2026-06-19)
+- [axi_master](https://x.com/axi_master/status/2067655053050352041) (2026-06-19)
 - [benln](https://x.com/benln/status/2062927277759893629) (2026-06-06)
 - [business](https://x.com/business/status/2063849595688407299) (2026-06-08)
 - [business](https://x.com/business/status/2064560376595804273) (2026-06-10)
