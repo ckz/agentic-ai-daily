@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-06-19
-total_mentions: 138
+last_seen: 2026-06-20
+total_mentions: 142
 
 ## Related Tweets
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
@@ -11,6 +11,7 @@ total_mentions: 138
 - [AIonBase_](https://x.com/AIonBase_/status/2063002925761237147) (2026-06-05)
 - [Akasheth_](https://x.com/Akasheth_/status/2063933265954918837) (2026-06-10)
 - [Appetiteldn](https://x.com/Appetiteldn/status/2063800638505361587) (2026-06-08)
+- [Artificialunbox](https://x.com/Artificialunbox/status/2068215362114715908) (2026-06-20)
 - [Atenov_D](https://x.com/Atenov_D/status/2063583110495707530) (2026-06-08)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2062873857304752368) (2026-06-05)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2063598644293484741) (2026-06-08)
@@ -68,6 +69,7 @@ total_mentions: 138
 - [_vmlops](https://x.com/_vmlops/status/2064642351394656760) (2026-06-12)
 - [adamuchigabriel](https://x.com/adamuchigabriel/status/2066299409894109286) (2026-06-15)
 - [adxtyahq](https://x.com/adxtyahq/status/2062090077296283932) (2026-06-08)
+- [agentfxai](https://x.com/agentfxai/status/2068085567057772841) (2026-06-20)
 - [aiedge_](https://x.com/aiedge_/status/2065222563899572371) (2026-06-12)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/1943648661826937032) (2026-06-06)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2029534926828388537) (2026-06-06)
@@ -122,6 +124,7 @@ total_mentions: 138
 - [nubis_app](https://x.com/nubis_app/status/2065699995399881189) (2026-06-13)
 - [ocodista](https://x.com/ocodista/status/2064366920049004753) (2026-06-10)
 - [openart_ai](https://x.com/openart_ai/status/2067650953478652126) (2026-06-19)
+- [ossphere_dev](https://x.com/ossphere_dev/status/2068219798438461644) (2026-06-20)
 - [polsia](https://x.com/polsia/status/2062988231151677690) (2026-06-05)
 - [precisox](https://x.com/precisox/status/2063510053211054189) (2026-06-08)
 - [promptparag](https://x.com/promptparag/status/2064311991842574695) (2026-06-10)
@@ -141,5 +144,6 @@ total_mentions: 138
 - [tom_doerr](https://x.com/tom_doerr/status/2066042496933662753) (2026-06-14)
 - [undefinedKi](https://x.com/undefinedKi/status/2066159485652025597) (2026-06-15)
 - [waveking1314](https://x.com/waveking1314/status/2063261659259400349) (2026-06-07)
+- [wsmaisys](https://x.com/wsmaisys/status/2068239014780452953) (2026-06-20)
 - [xiaoying_eth](https://x.com/xiaoying_eth/status/2064183483795460502) (2026-06-10)
 - [zackpaid](https://x.com/zackpaid/status/2065125827864678420) (2026-06-12)
