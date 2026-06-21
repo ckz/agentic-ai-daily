@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-06-20
-total_mentions: 77
+last_seen: 2026-06-21
+total_mentions: 83
 
 ## Related Tweets
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
@@ -17,6 +17,7 @@ total_mentions: 77
 - [Cointelegraph](https://x.com/Cointelegraph/status/2063005594047467893) (2026-06-05)
 - [Dhruvam987](https://x.com/Dhruvam987/status/2067811478485582025) (2026-06-19)
 - [FundedPartners](https://x.com/FundedPartners/status/2066006946860110328) (2026-06-14)
+- [GAXEN10](https://x.com/GAXEN10/status/2068603068753596431) (2026-06-21)
 - [GrishinRobotics](https://x.com/GrishinRobotics/status/2067880410676187569) (2026-06-19)
 - [Helion_Energy](https://x.com/Helion_Energy/status/2062554317564108825) (2026-06-07)
 - [Hesamation](https://x.com/Hesamation/status/1970585800325640372) (2026-06-07)
@@ -37,6 +38,7 @@ total_mentions: 77
 - [StartupArchive_](https://x.com/StartupArchive_/status/2061052571876520406) (2026-06-07)
 - [Steve8708](https://x.com/Steve8708/status/2041909436059615442) (2026-06-06)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2062153533630415305) (2026-06-08)
+- [TheStartupsMag](https://x.com/TheStartupsMag/status/2068604981318488305) (2026-06-21)
 - [TheoAugust8](https://x.com/TheoAugust8/status/2063166492519158257) (2026-06-06)
 - [WatcherGuru](https://x.com/WatcherGuru/status/2066844381504561211) (2026-06-20)
 - [_poolday_](https://x.com/_poolday_/status/2065097298946777226) (2026-06-12)
@@ -56,6 +58,7 @@ total_mentions: 77
 - [ecomchigga](https://x.com/ecomchigga/status/2065176267637297566) (2026-06-13)
 - [elonmusk](https://x.com/elonmusk/status/2063319907849093544) (2026-06-12)
 - [gnoble79](https://x.com/gnoble79/status/2062616388963844440) (2026-06-08)
+- [gregisenberg](https://x.com/gregisenberg/status/1913582333229142177) (2026-06-21)
 - [gregisenberg](https://x.com/gregisenberg/status/2065184897296146724) (2026-06-15)
 - [gregisenberg](https://x.com/gregisenberg/status/2065773938915889253) (2026-06-15)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
@@ -75,10 +78,13 @@ total_mentions: 77
 - [pierreeliottlal](https://x.com/pierreeliottlal/status/2066037831626362988) (2026-06-14)
 - [ridark_eth](https://x.com/ridark_eth/status/2068120584047804649) (2026-06-20)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2065184524754112720) (2026-06-14)
+- [samsenchal](https://x.com/samsenchal/status/2068605085089693994) (2026-06-21)
 - [sean_wallace_](https://x.com/sean_wallace_/status/2063994540873433201) (2026-06-09)
 - [signulll](https://x.com/signulll/status/2064053145580278163) (2026-06-09)
 - [slash1sol](https://x.com/slash1sol/status/2033636802855374982) (2026-06-13)
+- [solovaultinfo](https://x.com/solovaultinfo/status/2068553835598241965) (2026-06-21)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [undefinedKi](https://x.com/undefinedKi/status/2063615286301839698) (2026-06-08)
+- [vigneshxtech](https://x.com/vigneshxtech/status/2068597287010349323) (2026-06-21)
 - [ycombinator](https://x.com/ycombinator/status/2062202902543016140) (2026-06-05)
 - [zerohedge](https://x.com/zerohedge/status/2062966281888756042) (2026-06-12)

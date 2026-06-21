@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-06-20
-total_mentions: 85
+last_seen: 2026-06-21
+total_mentions: 88
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -20,6 +20,7 @@ total_mentions: 85
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2066212008782172238) (2026-06-19)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DamiDefi](https://x.com/DamiDefi/status/2034210979475788197) (2026-06-10)
+- [DamiDefi](https://x.com/DamiDefi/status/2068598041368826125) (2026-06-21)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
 - [FastCompany](https://x.com/FastCompany/status/2063149004490149919) (2026-06-06)
@@ -44,8 +45,10 @@ total_mentions: 85
 - [TeksCreate](https://x.com/TeksCreate/status/2068138970131632591) (2026-06-20)
 - [WesRoth](https://x.com/WesRoth/status/2063244515989713206) (2026-06-08)
 - [XiaomiMiMo](https://x.com/XiaomiMiMo/status/2064799879352959085) (2026-06-11)
+- [Zev_ee](https://x.com/Zev_ee/status/2068562546601476174) (2026-06-21)
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
 - [_vmlops](https://x.com/_vmlops/status/2063841886193004672) (2026-06-09)
+- [abhishek__AI](https://x.com/abhishek__AI/status/2068588008648142910) (2026-06-21)
 - [adxtyahq](https://x.com/adxtyahq/status/2062090077296283932) (2026-06-08)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
 - [aiteachme_ai](https://x.com/aiteachme_ai/status/2067775023541100666) (2026-06-19)
