@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-06-21
-total_mentions: 83
+last_seen: 2026-06-27
+total_mentions: 88
 
 ## Related Tweets
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
@@ -40,6 +40,7 @@ total_mentions: 83
 - [Suryanshti777](https://x.com/Suryanshti777/status/2062153533630415305) (2026-06-08)
 - [TheStartupsMag](https://x.com/TheStartupsMag/status/2068604981318488305) (2026-06-21)
 - [TheoAugust8](https://x.com/TheoAugust8/status/2063166492519158257) (2026-06-06)
+- [TracyWesterman](https://x.com/TracyWesterman/status/2068481367248384086) (2026-06-27)
 - [WatcherGuru](https://x.com/WatcherGuru/status/2066844381504561211) (2026-06-20)
 - [_poolday_](https://x.com/_poolday_/status/2065097298946777226) (2026-06-12)
 - [_shikhar_jais](https://x.com/_shikhar_jais/status/2063133010074206331) (2026-06-06)
@@ -68,10 +69,13 @@ total_mentions: 83
 - [james406](https://x.com/james406/status/2055362680299434300) (2026-06-09)
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)
+- [kseniam0s](https://x.com/kseniam0s/status/2069540568615604610) (2026-06-27)
+- [lightspeedvp](https://x.com/lightspeedvp/status/2070182060224852105) (2026-06-27)
 - [markiewagner](https://x.com/markiewagner/status/2064778239164461316) (2026-06-11)
 - [marorhab](https://x.com/marorhab/status/2063163950850609431) (2026-06-06)
 - [mhp_guy](https://x.com/mhp_guy/status/2064453575594664169) (2026-06-12)
 - [mikefutia](https://x.com/mikefutia/status/1932464486646001840) (2026-06-07)
+- [milesdeutscher](https://x.com/milesdeutscher/status/2070112027780280630) (2026-06-27)
 - [paulg](https://x.com/paulg/status/2063091245334044902) (2026-06-06)
 - [paulg](https://x.com/paulg/status/2063644836981260638) (2026-06-12)
 - [peer_rich](https://x.com/peer_rich/status/2062949788081897633) (2026-06-05)
@@ -84,6 +88,7 @@ total_mentions: 83
 - [slash1sol](https://x.com/slash1sol/status/2033636802855374982) (2026-06-13)
 - [solovaultinfo](https://x.com/solovaultinfo/status/2068553835598241965) (2026-06-21)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
+- [thisguyknowsai](https://x.com/thisguyknowsai/status/2068965021514891696) (2026-06-27)
 - [undefinedKi](https://x.com/undefinedKi/status/2063615286301839698) (2026-06-08)
 - [vigneshxtech](https://x.com/vigneshxtech/status/2068597287010349323) (2026-06-21)
 - [ycombinator](https://x.com/ycombinator/status/2062202902543016140) (2026-06-05)

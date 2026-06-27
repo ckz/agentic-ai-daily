@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-06-21
-total_mentions: 88
+last_seen: 2026-06-27
+total_mentions: 96
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -21,6 +21,7 @@ total_mentions: 88
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DamiDefi](https://x.com/DamiDefi/status/2034210979475788197) (2026-06-10)
 - [DamiDefi](https://x.com/DamiDefi/status/2068598041368826125) (2026-06-21)
+- [DataChaz](https://x.com/DataChaz/status/2070415564510785812) (2026-06-27)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
 - [FastCompany](https://x.com/FastCompany/status/2063149004490149919) (2026-06-06)
@@ -33,6 +34,7 @@ total_mentions: 88
 - [HuggingPapers](https://x.com/HuggingPapers/status/2068205769002991901) (2026-06-20)
 - [HyperionXTrade](https://x.com/HyperionXTrade/status/2066015535045992470) (2026-06-14)
 - [Kaffchad](https://x.com/Kaffchad/status/2066380271092662782) (2026-06-15)
+- [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [NainsiDwiv50980](https://x.com/NainsiDwiv50980/status/2062154970229858372) (2026-06-06)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/1975269391244874103) (2026-06-08)
 - [OptimaiNetwork](https://x.com/OptimaiNetwork/status/2014178144429723810) (2026-06-10)
@@ -41,6 +43,7 @@ total_mentions: 88
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2062274372388507726) (2026-06-05)
 - [Rukkssss__](https://x.com/Rukkssss__/status/2068218163414642701) (2026-06-20)
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2063086140799012963) (2026-06-06)
+- [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
 - [SilenceCaPrompt](https://x.com/SilenceCaPrompt/status/2060769285224739159) (2026-06-06)
 - [TeksCreate](https://x.com/TeksCreate/status/2068138970131632591) (2026-06-20)
 - [WesRoth](https://x.com/WesRoth/status/2063244515989713206) (2026-06-08)
@@ -48,10 +51,13 @@ total_mentions: 88
 - [Zev_ee](https://x.com/Zev_ee/status/2068562546601476174) (2026-06-21)
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
 - [_vmlops](https://x.com/_vmlops/status/2063841886193004672) (2026-06-09)
+- [_vmlops](https://x.com/_vmlops/status/2070449302116380680) (2026-06-27)
 - [abhishek__AI](https://x.com/abhishek__AI/status/2068588008648142910) (2026-06-21)
 - [adxtyahq](https://x.com/adxtyahq/status/2062090077296283932) (2026-06-08)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
+- [aiedge_](https://x.com/aiedge_/status/2070016711341040054) (2026-06-27)
 - [aiteachme_ai](https://x.com/aiteachme_ai/status/2067775023541100666) (2026-06-19)
+- [akshay_pachaar](https://x.com/akshay_pachaar/status/2070587039679185397) (2026-06-27)
 - [alliekmiller](https://x.com/alliekmiller/status/2064451731325415446) (2026-06-10)
 - [ardizor](https://x.com/ardizor/status/2062571108021215563) (2026-06-05)
 - [asmah2107](https://x.com/asmah2107/status/2062870047903605109) (2026-06-06)
@@ -81,6 +87,7 @@ total_mentions: 88
 - [michyexe](https://x.com/michyexe/status/2000613204116844826) (2026-06-15)
 - [neuralnow](https://x.com/neuralnow/status/2067804236231160299) (2026-06-19)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
+- [omarsar0](https://x.com/omarsar0/status/1846930425849303424) (2026-06-27)
 - [piyascode9](https://x.com/piyascode9/status/2060204362497224790) (2026-06-05)
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
@@ -93,3 +100,4 @@ total_mentions: 88
 - [vercel](https://x.com/vercel/status/2067180054979936413) (2026-06-20)
 - [virtuals_io](https://x.com/virtuals_io/status/1881340149503857151) (2026-06-11)
 - [wallstengine](https://x.com/wallstengine/status/2062459661039894607) (2026-06-08)
+- [xenovacom](https://x.com/xenovacom/status/2070210622239707568) (2026-06-27)

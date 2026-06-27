@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-06-21
-total_mentions: 70
+last_seen: 2026-06-27
+total_mentions: 72
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -24,6 +24,7 @@ total_mentions: 70
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
 - [Jeyxbt](https://x.com/Jeyxbt/status/2067866973497868794) (2026-06-19)
 - [Kimi_Moonshot](https://x.com/Kimi_Moonshot/status/2063990409903112344) (2026-06-09)
+- [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [PrakashS720](https://x.com/PrakashS720/status/2065850652832694731) (2026-06-15)
 - [Rahul1539482](https://x.com/Rahul1539482/status/2068215799849091178) (2026-06-20)
 - [Rixhabh__](https://x.com/Rixhabh__/status/2064674645543154093) (2026-06-11)
@@ -49,6 +50,7 @@ total_mentions: 70
 - [d_vuln](https://x.com/d_vuln/status/2065305823631294810) (2026-06-12)
 - [eigenlabs](https://x.com/eigenlabs/status/2062540745601384785) (2026-06-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2063633896517022014) (2026-06-08)
+- [expertwith_AI](https://x.com/expertwith_AI/status/2070094109109567845) (2026-06-27)
 - [gippp69](https://x.com/gippp69/status/2062224522237890675) (2026-06-08)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [imarun_chauhan](https://x.com/imarun_chauhan/status/2063878197457134003) (2026-06-08)

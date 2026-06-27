@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-06-21
-total_mentions: 53
+last_seen: 2026-06-27
+total_mentions: 57
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -27,10 +27,12 @@ total_mentions: 53
 - [Jeyxbt](https://x.com/Jeyxbt/status/2067866973497868794) (2026-06-19)
 - [NousResearch](https://x.com/NousResearch/status/2026759005633183980) (2026-06-07)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
+- [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
 - [WesRoth](https://x.com/WesRoth/status/2062398945607725142) (2026-06-10)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
 - [aiedge_](https://x.com/aiedge_/status/2068204707139752359) (2026-06-20)
+- [aiedge_](https://x.com/aiedge_/status/2070016711341040054) (2026-06-27)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2029534926828388537) (2026-06-06)
 - [alliekmiller](https://x.com/alliekmiller/status/2064451731325415446) (2026-06-10)
 - [bcherny](https://x.com/bcherny/status/2064431111154053187) (2026-06-15)
@@ -52,9 +54,11 @@ total_mentions: 53
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
 - [matei_zaharia](https://x.com/matei_zaharia/status/2065827057624605146) (2026-06-14)
+- [mikefutia](https://x.com/mikefutia/status/2069488510424531371) (2026-06-27)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
 - [shannholmberg](https://x.com/shannholmberg/status/2062652746508173796) (2026-06-06)
 - [sharbel](https://x.com/sharbel/status/2063369348828610886) (2026-06-11)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
+- [undefinedKi](https://x.com/undefinedKi/status/2070221446786215970) (2026-06-27)
 - [vercel_dev](https://x.com/vercel_dev/status/2065509970775519569) (2026-06-13)
 - [virtuals_io](https://x.com/virtuals_io/status/2063654910995145209) (2026-06-11)
