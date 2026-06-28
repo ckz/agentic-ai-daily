@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-06-27
-total_mentions: 24
+last_seen: 2026-06-28
+total_mentions: 25
 
 ## Related Tweets
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2061506641120641494) (2026-06-05)
@@ -17,6 +17,7 @@ total_mentions: 24
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
 - [antinertia](https://x.com/antinertia/status/1907834094823616629) (2026-06-12)
 - [bcherny](https://x.com/bcherny/status/2064431111154053187) (2026-06-15)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2071058754905481234) (2026-06-28)
 - [dr_cintas](https://x.com/dr_cintas/status/2040142054211117218) (2026-06-15)
 - [gokulr](https://x.com/gokulr/status/2062638283100930085) (2026-06-08)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)

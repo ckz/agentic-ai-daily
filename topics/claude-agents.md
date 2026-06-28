@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-06-27
-total_mentions: 57
+last_seen: 2026-06-28
+total_mentions: 58
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -60,5 +60,6 @@ total_mentions: 57
 - [sharbel](https://x.com/sharbel/status/2063369348828610886) (2026-06-11)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [undefinedKi](https://x.com/undefinedKi/status/2070221446786215970) (2026-06-27)
+- [undefinedKi](https://x.com/undefinedKi/status/2070864207608684800) (2026-06-28)
 - [vercel_dev](https://x.com/vercel_dev/status/2065509970775519569) (2026-06-13)
 - [virtuals_io](https://x.com/virtuals_io/status/2063654910995145209) (2026-06-11)

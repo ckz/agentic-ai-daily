@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-06-27
-total_mentions: 96
+last_seen: 2026-06-28
+total_mentions: 101
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -21,6 +21,7 @@ total_mentions: 96
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DamiDefi](https://x.com/DamiDefi/status/2034210979475788197) (2026-06-10)
 - [DamiDefi](https://x.com/DamiDefi/status/2068598041368826125) (2026-06-21)
+- [DataChaz](https://x.com/DataChaz/status/2068952350077698446) (2026-06-28)
 - [DataChaz](https://x.com/DataChaz/status/2070415564510785812) (2026-06-27)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
@@ -75,6 +76,8 @@ total_mentions: 96
 - [googlecloud](https://x.com/googlecloud/status/2064505329006653571) (2026-06-10)
 - [googlecloud_jp](https://x.com/googlecloud_jp/status/2064210883023118619) (2026-06-09)
 - [googlegemma](https://x.com/googlegemma/status/2064742570417180894) (2026-06-14)
+- [gotuchintu](https://x.com/gotuchintu/status/2071034383012618319) (2026-06-28)
+- [gotuchintu](https://x.com/gotuchintu/status/2071048019907064019) (2026-06-28)
 - [gravitygotmeup](https://x.com/gravitygotmeup/status/2068193792780591353) (2026-06-20)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
@@ -91,6 +94,8 @@ total_mentions: 96
 - [piyascode9](https://x.com/piyascode9/status/2060204362497224790) (2026-06-05)
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
+- [sairahul1](https://x.com/sairahul1/status/2069421947390415189) (2026-06-28)
+- [salesforce](https://x.com/salesforce/status/2066491445586858173) (2026-06-28)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
 - [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)

@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-06-27
-total_mentions: 168
+last_seen: 2026-06-28
+total_mentions: 176
 
 ## Related Tweets
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
@@ -27,6 +27,7 @@ total_mentions: 168
 - [DataChaz](https://x.com/DataChaz/status/2047633186394697853) (2026-06-09)
 - [DataChaz](https://x.com/DataChaz/status/2062940997257212367) (2026-06-06)
 - [DataChaz](https://x.com/DataChaz/status/2063158890469196218) (2026-06-06)
+- [DataChaz](https://x.com/DataChaz/status/2068952350077698446) (2026-06-28)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [ErickSky](https://x.com/ErickSky/status/2063701338316292495) (2026-06-08)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
@@ -42,6 +43,7 @@ total_mentions: 168
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2063314848843485526) (2026-06-07)
 - [MCGlive](https://x.com/MCGlive/status/2063016512521441777) (2026-06-05)
+- [MdRahi444797](https://x.com/MdRahi444797/status/2071118756919787756) (2026-06-28)
 - [MiniMax_AI](https://x.com/MiniMax_AI/status/2061266317815296322) (2026-06-05)
 - [MrDasOnX](https://x.com/MrDasOnX/status/2066029379512418431) (2026-06-14)
 - [Nekt_0](https://x.com/Nekt_0/status/2066148234368524692) (2026-06-15)
@@ -82,6 +84,7 @@ total_mentions: 168
 - [adxtyahq](https://x.com/adxtyahq/status/2062090077296283932) (2026-06-08)
 - [agentfxai](https://x.com/agentfxai/status/2068085567057772841) (2026-06-20)
 - [aiedge_](https://x.com/aiedge_/status/2065222563899572371) (2026-06-12)
+- [aiwithjainam](https://x.com/aiwithjainam/status/2069338947701080150) (2026-06-28)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/1943648661826937032) (2026-06-06)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2029534926828388537) (2026-06-06)
 - [angeldot_](https://x.com/angeldot_/status/2068306517258907873) (2026-06-21)
@@ -102,6 +105,7 @@ total_mentions: 168
 - [cyrilXBT](https://x.com/cyrilXBT/status/2063946654206877823) (2026-06-09)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2065624525232849284) (2026-06-13)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2068531655464345767) (2026-06-21)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2071058754905481234) (2026-06-28)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [davemccollough](https://x.com/davemccollough/status/2064154192856670213) (2026-06-09)
 - [dojintanuki](https://x.com/dojintanuki/status/2063832283736387900) (2026-06-08)
@@ -117,6 +121,7 @@ total_mentions: 168
 - [fatoomdes](https://x.com/fatoomdes/status/2062829219990659354) (2026-06-07)
 - [firecrawl](https://x.com/firecrawl/status/2070174005709983865) (2026-06-27)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2064800056406909425) (2026-06-15)
+- [freeCodeCamp](https://x.com/freeCodeCamp/status/2070900490674536556) (2026-06-28)
 - [gippp69](https://x.com/gippp69/status/2061110941509419435) (2026-06-07)
 - [gkxspace](https://x.com/gkxspace/status/2068546908360999331) (2026-06-21)
 - [gokulr](https://x.com/gokulr/status/2066673493811601737) (2026-06-21)
@@ -145,6 +150,7 @@ total_mentions: 168
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [nubis_app](https://x.com/nubis_app/status/2065699995399881189) (2026-06-13)
 - [ocodista](https://x.com/ocodista/status/2064366920049004753) (2026-06-10)
+- [oldgamesnob](https://x.com/oldgamesnob/status/2070891527820509292) (2026-06-28)
 - [openart_ai](https://x.com/openart_ai/status/2067650953478652126) (2026-06-19)
 - [ossphere_dev](https://x.com/ossphere_dev/status/2068219798438461644) (2026-06-20)
 - [polsia](https://x.com/polsia/status/2062988231151677690) (2026-06-05)
@@ -154,9 +160,11 @@ total_mentions: 168
 - [ridark_eth](https://x.com/ridark_eth/status/2066216714644111431) (2026-06-15)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [sakhil_ai](https://x.com/sakhil_ai/status/2067798126279397885) (2026-06-19)
+- [sharbel](https://x.com/sharbel/status/2070812435653464323) (2026-06-28)
 - [shedntcare_](https://x.com/shedntcare_/status/2066124333559480395) (2026-06-21)
 - [shedoesai](https://x.com/shedoesai/status/2054227691671556145) (2026-06-12)
 - [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)
+- [shushant_l](https://x.com/shushant_l/status/2071096264339620159) (2026-06-28)
 - [sixtria](https://x.com/sixtria/status/2067853856709779883) (2026-06-19)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
 - [svpino](https://x.com/svpino/status/2065079108959363290) (2026-06-12)
