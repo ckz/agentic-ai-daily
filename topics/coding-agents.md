@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-06-28
-total_mentions: 25
+last_seen: 2026-06-29
+total_mentions: 30
 
 ## Related Tweets
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2061506641120641494) (2026-06-05)
@@ -15,8 +15,10 @@ total_mentions: 25
 - [TeksCreate](https://x.com/TeksCreate/status/2068138970131632591) (2026-06-20)
 - [XFreeze](https://x.com/XFreeze/status/2065333739312590983) (2026-06-12)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
+- [a16z](https://x.com/a16z/status/2069869327411749012) (2026-06-29)
 - [antinertia](https://x.com/antinertia/status/1907834094823616629) (2026-06-12)
 - [bcherny](https://x.com/bcherny/status/2064431111154053187) (2026-06-15)
+- [candyyueliu](https://x.com/candyyueliu/status/2062178835689623592) (2026-06-29)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2071058754905481234) (2026-06-28)
 - [dr_cintas](https://x.com/dr_cintas/status/2040142054211117218) (2026-06-15)
 - [gokulr](https://x.com/gokulr/status/2062638283100930085) (2026-06-08)
@@ -24,9 +26,12 @@ total_mentions: 25
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)
 - [mattpocockuk](https://x.com/mattpocockuk/status/2064663221718425660) (2026-06-11)
+- [monmiglobal](https://x.com/monmiglobal/status/2071399421997359236) (2026-06-29)
 - [pushmeet](https://x.com/pushmeet/status/2065917699222560928) (2026-06-15)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
 - [rebel0x0](https://x.com/rebel0x0/status/2067186712758071385) (2026-06-19)
+- [seelffff](https://x.com/seelffff/status/2071118707405816250) (2026-06-29)
+- [sharbel](https://x.com/sharbel/status/2055680438417412359) (2026-06-29)
 - [tomgreenwald](https://x.com/tomgreenwald/status/2068008885018062868) (2026-06-20)
 - [vechainofficial](https://x.com/vechainofficial/status/2062450242360885371) (2026-06-09)
 - [warpdotdev](https://x.com/warpdotdev/status/1937525185843752969) (2026-06-07)

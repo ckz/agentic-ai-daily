@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-06-28
-total_mentions: 73
+last_seen: 2026-06-29
+total_mentions: 75
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -40,6 +40,7 @@ total_mentions: 73
 - [adxtyahq](https://x.com/adxtyahq/status/2062090077296283932) (2026-06-08)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
 - [ajay_2512x](https://x.com/ajay_2512x/status/2062378424807928253) (2026-06-07)
+- [antigravity](https://x.com/antigravity/status/2070930161785069927) (2026-06-29)
 - [asmah2107](https://x.com/asmah2107/status/2062870047903605109) (2026-06-06)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
@@ -67,6 +68,7 @@ total_mentions: 73
 - [rishflips](https://x.com/rishflips/status/2064954076543205542) (2026-06-11)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2062470652905549901) (2026-06-05)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2065549739266048120) (2026-06-14)
+- [seelffff](https://x.com/seelffff/status/2071259582970691661) (2026-06-29)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
 - [shedntcare_](https://x.com/shedntcare_/status/2066124333559480395) (2026-06-21)
 - [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)

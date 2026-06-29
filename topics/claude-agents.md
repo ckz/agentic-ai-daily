@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-06-28
-total_mentions: 58
+last_seen: 2026-06-29
+total_mentions: 60
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -27,6 +27,7 @@ total_mentions: 58
 - [Jeyxbt](https://x.com/Jeyxbt/status/2067866973497868794) (2026-06-19)
 - [NousResearch](https://x.com/NousResearch/status/2026759005633183980) (2026-06-07)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
+- [RegalosDigitals](https://x.com/RegalosDigitals/status/2071263024212508813) (2026-06-29)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
 - [WesRoth](https://x.com/WesRoth/status/2062398945607725142) (2026-06-10)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
@@ -36,6 +37,7 @@ total_mentions: 58
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2029534926828388537) (2026-06-06)
 - [alliekmiller](https://x.com/alliekmiller/status/2064451731325415446) (2026-06-10)
 - [bcherny](https://x.com/bcherny/status/2064431111154053187) (2026-06-15)
+- [candyyueliu](https://x.com/candyyueliu/status/2062178835689623592) (2026-06-29)
 - [carverfomo](https://x.com/carverfomo/status/2064338010242490662) (2026-06-10)
 - [clapilot](https://x.com/clapilot/status/2063509258461642879) (2026-06-07)
 - [clapilot](https://x.com/clapilot/status/2063510331716952191) (2026-06-07)

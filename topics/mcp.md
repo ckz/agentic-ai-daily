@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-06-28
-total_mentions: 176
+last_seen: 2026-06-29
+total_mentions: 184
 
 ## Related Tweets
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
@@ -22,6 +22,7 @@ total_mentions: 176
 - [BradGroux](https://x.com/BradGroux/status/2065096482831659348) (2026-06-13)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2064072801062121906) (2026-06-09)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2067655887662272723) (2026-06-19)
+- [Clawnch_Bot](https://x.com/Clawnch_Bot/status/2069463550788067626) (2026-06-29)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DanKornas](https://x.com/DanKornas/status/2063154157511418092) (2026-06-06)
 - [DataChaz](https://x.com/DataChaz/status/2047633186394697853) (2026-06-09)
@@ -92,6 +93,8 @@ total_mentions: 176
 - [architeqtai](https://x.com/architeqtai/status/2065343364166299693) (2026-06-12)
 - [aryanXmahajan](https://x.com/aryanXmahajan/status/2067677589247082656) (2026-06-19)
 - [ashiqur_ai](https://x.com/ashiqur_ai/status/2068572009676804246) (2026-06-21)
+- [betomoedano](https://x.com/betomoedano/status/2071257935485788178) (2026-06-29)
+- [bondaicommunity](https://x.com/bondaicommunity/status/2071466190359220413) (2026-06-29)
 - [bucket0dotcom](https://x.com/bucket0dotcom/status/2068553823635796170) (2026-06-21)
 - [cTrader](https://x.com/cTrader/status/2062503096375263532) (2026-06-05)
 - [chanducore](https://x.com/chanducore/status/2065670751781589413) (2026-06-13)
@@ -144,8 +147,10 @@ total_mentions: 176
 - [magnific](https://x.com/magnific/status/2064346257330675798) (2026-06-10)
 - [marorhab](https://x.com/marorhab/status/2063163950850609431) (2026-06-06)
 - [meliasiih](https://x.com/meliasiih/status/2064702135305220483) (2026-06-12)
+- [melisx402](https://x.com/melisx402/status/2070835381684048269) (2026-06-29)
 - [midudev](https://x.com/midudev/status/2061463979927421084) (2026-06-07)
 - [midudev](https://x.com/midudev/status/2063607570179170572) (2026-06-08)
+- [midudev](https://x.com/midudev/status/2070902863115546721) (2026-06-29)
 - [mikefutia](https://x.com/mikefutia/status/2064446547505602605) (2026-06-10)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [nubis_app](https://x.com/nubis_app/status/2065699995399881189) (2026-06-13)
@@ -158,6 +163,7 @@ total_mentions: 176
 - [promptparag](https://x.com/promptparag/status/2064311991842574695) (2026-06-10)
 - [rebel0x0](https://x.com/rebel0x0/status/2067186712758071385) (2026-06-19)
 - [ridark_eth](https://x.com/ridark_eth/status/2066216714644111431) (2026-06-15)
+- [ridark_eth](https://x.com/ridark_eth/status/2070966184967864667) (2026-06-29)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [sakhil_ai](https://x.com/sakhil_ai/status/2067798126279397885) (2026-06-19)
 - [sharbel](https://x.com/sharbel/status/2070812435653464323) (2026-06-28)
@@ -176,8 +182,10 @@ total_mentions: 176
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)
 - [tom_doerr](https://x.com/tom_doerr/status/2062864987970797651) (2026-06-12)
 - [tom_doerr](https://x.com/tom_doerr/status/2066042496933662753) (2026-06-14)
+- [tom_doerr](https://x.com/tom_doerr/status/2071309381455519803) (2026-06-29)
 - [undefinedKi](https://x.com/undefinedKi/status/2066159485652025597) (2026-06-15)
 - [waveking1314](https://x.com/waveking1314/status/2063261659259400349) (2026-06-07)
 - [wsmaisys](https://x.com/wsmaisys/status/2068239014780452953) (2026-06-20)
 - [xiaoying_eth](https://x.com/xiaoying_eth/status/2064183483795460502) (2026-06-10)
+- [yozm_it](https://x.com/yozm_it/status/2071417501792211397) (2026-06-29)
 - [zackpaid](https://x.com/zackpaid/status/2065125827864678420) (2026-06-12)

@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-06-28
-total_mentions: 101
+last_seen: 2026-06-29
+total_mentions: 107
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -30,9 +30,11 @@ total_mentions: 101
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2061578655050899715) (2026-06-07)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2062253446888063025) (2026-06-06)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
+- [HackingDave](https://x.com/HackingDave/status/2069146467701256423) (2026-06-29)
 - [HarryBee_Yhu](https://x.com/HarryBee_Yhu/status/2067864020527292535) (2026-06-19)
 - [Huawei](https://x.com/Huawei/status/2064239307838419399) (2026-06-09)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2068205769002991901) (2026-06-20)
+- [HuggingPapers](https://x.com/HuggingPapers/status/2071241599372100056) (2026-06-29)
 - [HyperionXTrade](https://x.com/HyperionXTrade/status/2066015535045992470) (2026-06-14)
 - [Kaffchad](https://x.com/Kaffchad/status/2066380271092662782) (2026-06-15)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
@@ -78,6 +80,7 @@ total_mentions: 101
 - [googlegemma](https://x.com/googlegemma/status/2064742570417180894) (2026-06-14)
 - [gotuchintu](https://x.com/gotuchintu/status/2071034383012618319) (2026-06-28)
 - [gotuchintu](https://x.com/gotuchintu/status/2071048019907064019) (2026-06-28)
+- [gotuchintu](https://x.com/gotuchintu/status/2071423007797526577) (2026-06-29)
 - [gravitygotmeup](https://x.com/gravitygotmeup/status/2068193792780591353) (2026-06-20)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
@@ -85,6 +88,7 @@ total_mentions: 101
 - [iamlukethedev](https://x.com/iamlukethedev/status/2063081062473859097) (2026-06-06)
 - [ipfconline1](https://x.com/ipfconline1/status/2066408115369656823) (2026-06-15)
 - [islam_naserr](https://x.com/islam_naserr/status/2065299167560257970) (2026-06-12)
+- [johnvirality](https://x.com/johnvirality/status/2070571963555152330) (2026-06-29)
 - [mastra](https://x.com/mastra/status/2062617888478183564) (2026-06-05)
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [michyexe](https://x.com/michyexe/status/2000613204116844826) (2026-06-15)
@@ -96,6 +100,7 @@ total_mentions: 101
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [sairahul1](https://x.com/sairahul1/status/2069421947390415189) (2026-06-28)
 - [salesforce](https://x.com/salesforce/status/2066491445586858173) (2026-06-28)
+- [seelffff](https://x.com/seelffff/status/2071118707405816250) (2026-06-29)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
 - [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
@@ -103,6 +108,7 @@ total_mentions: 101
 - [tom_doerr](https://x.com/tom_doerr/status/2066365949926629733) (2026-06-15)
 - [vechainofficial](https://x.com/vechainofficial/status/2062450242360885371) (2026-06-09)
 - [vercel](https://x.com/vercel/status/2067180054979936413) (2026-06-20)
+- [vicky_grok](https://x.com/vicky_grok/status/2070074685669470672) (2026-06-29)
 - [virtuals_io](https://x.com/virtuals_io/status/1881340149503857151) (2026-06-11)
 - [wallstengine](https://x.com/wallstengine/status/2062459661039894607) (2026-06-08)
 - [xenovacom](https://x.com/xenovacom/status/2070210622239707568) (2026-06-27)

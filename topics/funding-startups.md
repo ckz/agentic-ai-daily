@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-06-28
-total_mentions: 96
+last_seen: 2026-06-29
+total_mentions: 100
 
 ## Related Tweets
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
@@ -46,18 +46,21 @@ total_mentions: 96
 - [WatcherGuru](https://x.com/WatcherGuru/status/2066844381504561211) (2026-06-20)
 - [_poolday_](https://x.com/_poolday_/status/2065097298946777226) (2026-06-12)
 - [_shikhar_jais](https://x.com/_shikhar_jais/status/2063133010074206331) (2026-06-06)
+- [a16z](https://x.com/a16z/status/2069869327411749012) (2026-06-29)
 - [aakrit](https://x.com/aakrit/status/2065778171912265899) (2026-06-14)
 - [athanzxyt](https://x.com/athanzxyt/status/2067660560607613032) (2026-06-19)
 - [awwstn](https://x.com/awwstn/status/2067750610963939571) (2026-06-19)
 - [axi_master](https://x.com/axi_master/status/2067655053050352041) (2026-06-19)
 - [benln](https://x.com/benln/status/2062927277759893629) (2026-06-06)
 - [benln](https://x.com/benln/status/2068756286435389467) (2026-06-28)
+- [bondaicommunity](https://x.com/bondaicommunity/status/2071466190359220413) (2026-06-29)
 - [business](https://x.com/business/status/2063849595688407299) (2026-06-08)
 - [business](https://x.com/business/status/2064560376595804273) (2026-06-10)
 - [cb_doge](https://x.com/cb_doge/status/2062681226633523250) (2026-06-08)
 - [christophersaum](https://x.com/christophersaum/status/2069813347420119217) (2026-06-28)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
 - [coingecko](https://x.com/coingecko/status/2064572347433075107) (2026-06-10)
+- [cryptopunk7213](https://x.com/cryptopunk7213/status/1872809091799875592) (2026-06-29)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [deedydas](https://x.com/deedydas/status/2063075876452155728) (2026-06-06)
 - [ecomchigga](https://x.com/ecomchigga/status/2065176267637297566) (2026-06-13)
@@ -98,6 +101,7 @@ total_mentions: 96
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2068965021514891696) (2026-06-27)
 - [undefinedKi](https://x.com/undefinedKi/status/2063615286301839698) (2026-06-08)
 - [vigneshxtech](https://x.com/vigneshxtech/status/2068597287010349323) (2026-06-21)
+- [xandurglar](https://x.com/xandurglar/status/2070179038417821777) (2026-06-29)
 - [ycombinator](https://x.com/ycombinator/status/2062202902543016140) (2026-06-05)
 - [ycombinator](https://x.com/ycombinator/status/2069110874242252853) (2026-06-28)
 - [zerohedge](https://x.com/zerohedge/status/2062966281888756042) (2026-06-12)
