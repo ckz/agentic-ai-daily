@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-06-29
-total_mentions: 100
+last_seen: 2026-06-30
+total_mentions: 102
 
 ## Related Tweets
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
@@ -48,6 +48,8 @@ total_mentions: 100
 - [_shikhar_jais](https://x.com/_shikhar_jais/status/2063133010074206331) (2026-06-06)
 - [a16z](https://x.com/a16z/status/2069869327411749012) (2026-06-29)
 - [aakrit](https://x.com/aakrit/status/2065778171912265899) (2026-06-14)
+- [adriablancafort](https://x.com/adriablancafort/status/2071688701651108309) (2026-06-30)
+- [anuraggoel](https://x.com/anuraggoel/status/2069218653137142074) (2026-06-30)
 - [athanzxyt](https://x.com/athanzxyt/status/2067660560607613032) (2026-06-19)
 - [awwstn](https://x.com/awwstn/status/2067750610963939571) (2026-06-19)
 - [axi_master](https://x.com/axi_master/status/2067655053050352041) (2026-06-19)

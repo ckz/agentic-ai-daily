@@ -1,25 +1,30 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-06-29
-total_mentions: 30
+last_seen: 2026-06-30
+total_mentions: 35
 
 ## Related Tweets
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2061506641120641494) (2026-06-05)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065328920514515037) (2026-06-13)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065559824230957190) (2026-06-14)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
+- [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
+- [NVIDIAAI](https://x.com/NVIDIAAI/status/2069858097930121319) (2026-06-30)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
 - [SIGKITTEN](https://x.com/SIGKITTEN/status/1980809995823591805) (2026-06-12)
 - [TeksCreate](https://x.com/TeksCreate/status/2068138970131632591) (2026-06-20)
 - [XFreeze](https://x.com/XFreeze/status/2065333739312590983) (2026-06-12)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
 - [a16z](https://x.com/a16z/status/2069869327411749012) (2026-06-29)
+- [akshay_pachaar](https://x.com/akshay_pachaar/status/2071509401224261823) (2026-06-30)
+- [angeldot_](https://x.com/angeldot_/status/2071697398527881418) (2026-06-30)
 - [antinertia](https://x.com/antinertia/status/1907834094823616629) (2026-06-12)
 - [bcherny](https://x.com/bcherny/status/2064431111154053187) (2026-06-15)
 - [candyyueliu](https://x.com/candyyueliu/status/2062178835689623592) (2026-06-29)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2071058754905481234) (2026-06-28)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2071817627484250139) (2026-06-30)
 - [dr_cintas](https://x.com/dr_cintas/status/2040142054211117218) (2026-06-15)
 - [gokulr](https://x.com/gokulr/status/2062638283100930085) (2026-06-08)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)

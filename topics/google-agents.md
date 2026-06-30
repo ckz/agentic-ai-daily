@@ -1,10 +1,11 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-06-29
-total_mentions: 26
+last_seen: 2026-06-30
+total_mentions: 29
 
 ## Related Tweets
+- [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2070541643518775354) (2026-06-27)
 - [Arcane_Aii](https://x.com/Arcane_Aii/status/2064316482071171261) (2026-06-11)
 - [Creatify_AI](https://x.com/Creatify_AI/status/2064400985288802621) (2026-06-11)
@@ -21,9 +22,11 @@ total_mentions: 26
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
 - [alliekmiller](https://x.com/alliekmiller/status/2064451731325415446) (2026-06-10)
+- [angeldot_](https://x.com/angeldot_/status/2071697398527881418) (2026-06-30)
 - [eigenlabs](https://x.com/eigenlabs/status/2062540745601384785) (2026-06-08)
 - [googlecloud](https://x.com/googlecloud/status/2063244517575200828) (2026-06-09)
 - [googlecloud_jp](https://x.com/googlecloud_jp/status/2064210883023118619) (2026-06-09)
+- [googlecloud_jp](https://x.com/googlecloud_jp/status/2071473742488740078) (2026-06-30)
 - [googlegemma](https://x.com/googlegemma/status/2064742570417180894) (2026-06-14)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)

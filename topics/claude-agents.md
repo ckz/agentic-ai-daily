@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-06-29
-total_mentions: 60
+last_seen: 2026-06-30
+total_mentions: 64
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -20,9 +20,11 @@ total_mentions: 60
 - [ClementDelangue](https://x.com/ClementDelangue/status/2062982727729553913) (2026-06-05)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DanKornas](https://x.com/DanKornas/status/2063154157511418092) (2026-06-06)
+- [DanKornas](https://x.com/DanKornas/status/2071847945373192192) (2026-06-30)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [Faazsh](https://x.com/Faazsh/status/2068572996076540315) (2026-06-21)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2065062300218749172) (2026-06-13)
+- [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
 - [JJEnglert](https://x.com/JJEnglert/status/2064420538798260388) (2026-06-10)
 - [Jeyxbt](https://x.com/Jeyxbt/status/2067866973497868794) (2026-06-19)
 - [NousResearch](https://x.com/NousResearch/status/2026759005633183980) (2026-06-07)
@@ -35,6 +37,7 @@ total_mentions: 60
 - [aiedge_](https://x.com/aiedge_/status/2068204707139752359) (2026-06-20)
 - [aiedge_](https://x.com/aiedge_/status/2070016711341040054) (2026-06-27)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2029534926828388537) (2026-06-06)
+- [akshay_pachaar](https://x.com/akshay_pachaar/status/2071509401224261823) (2026-06-30)
 - [alliekmiller](https://x.com/alliekmiller/status/2064451731325415446) (2026-06-10)
 - [bcherny](https://x.com/bcherny/status/2064431111154053187) (2026-06-15)
 - [candyyueliu](https://x.com/candyyueliu/status/2062178835689623592) (2026-06-29)
@@ -45,6 +48,7 @@ total_mentions: 60
 - [cyrilXBT](https://x.com/cyrilXBT/status/2062848159215493176) (2026-06-05)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2065324588054310985) (2026-06-12)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2068171479976677549) (2026-06-20)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2071817627484250139) (2026-06-30)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [ekcheungAI](https://x.com/ekcheungAI/status/2068544526084386969) (2026-06-21)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2061821319034143172) (2026-06-08)
