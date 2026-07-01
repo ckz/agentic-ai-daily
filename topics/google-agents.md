@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-06-30
-total_mentions: 29
+last_seen: 2026-07-01
+total_mentions: 31
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -19,6 +19,7 @@ total_mentions: 29
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2062274372388507726) (2026-06-05)
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2063086140799012963) (2026-06-06)
 - [SaurabhDub28465](https://x.com/SaurabhDub28465/status/2063452536972124604) (2026-06-07)
+- [ThomasOrTK](https://x.com/ThomasOrTK/status/2072005642727158247) (2026-07-01)
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
 - [alliekmiller](https://x.com/alliekmiller/status/2064451731325415446) (2026-06-10)
@@ -31,6 +32,7 @@ total_mentions: 29
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
+- [sentient_agency](https://x.com/sentient_agency/status/2071538650425528367) (2026-07-01)
 - [sharbel](https://x.com/sharbel/status/2063369348828610886) (2026-06-11)
 - [shedoesai](https://x.com/shedoesai/status/2054227691671556145) (2026-06-12)
 - [undefinedKi](https://x.com/undefinedKi/status/2070221446786215970) (2026-06-27)

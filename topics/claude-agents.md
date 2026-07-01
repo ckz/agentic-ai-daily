@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-06-30
-total_mentions: 64
+last_seen: 2026-07-01
+total_mentions: 67
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -23,6 +23,7 @@ total_mentions: 64
 - [DanKornas](https://x.com/DanKornas/status/2071847945373192192) (2026-06-30)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [Faazsh](https://x.com/Faazsh/status/2068572996076540315) (2026-06-21)
+- [Guelug](https://x.com/Guelug/status/2072092575947989385) (2026-07-01)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2065062300218749172) (2026-06-13)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
 - [JJEnglert](https://x.com/JJEnglert/status/2064420538798260388) (2026-06-10)
@@ -64,6 +65,8 @@ total_mentions: 64
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
 - [shannholmberg](https://x.com/shannholmberg/status/2062652746508173796) (2026-06-06)
 - [sharbel](https://x.com/sharbel/status/2063369348828610886) (2026-06-11)
+- [stretchcloud](https://x.com/stretchcloud/status/2072215124958740898) (2026-07-01)
+- [tanayj](https://x.com/tanayj/status/2072108170080657729) (2026-07-01)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [undefinedKi](https://x.com/undefinedKi/status/2070221446786215970) (2026-06-27)
 - [undefinedKi](https://x.com/undefinedKi/status/2070864207608684800) (2026-06-28)

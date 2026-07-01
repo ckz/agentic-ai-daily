@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-06-30
-total_mentions: 102
+last_seen: 2026-07-01
+total_mentions: 106
 
 ## Related Tweets
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
@@ -59,9 +59,11 @@ total_mentions: 102
 - [business](https://x.com/business/status/2063849595688407299) (2026-06-08)
 - [business](https://x.com/business/status/2064560376595804273) (2026-06-10)
 - [cb_doge](https://x.com/cb_doge/status/2062681226633523250) (2026-06-08)
+- [chamath](https://x.com/chamath/status/2071571183665881515) (2026-07-01)
 - [christophersaum](https://x.com/christophersaum/status/2069813347420119217) (2026-06-28)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
 - [coingecko](https://x.com/coingecko/status/2064572347433075107) (2026-06-10)
+- [craigweiss](https://x.com/craigweiss/status/2072127436310110488) (2026-07-01)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1872809091799875592) (2026-06-29)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [deedydas](https://x.com/deedydas/status/2063075876452155728) (2026-06-06)
@@ -76,6 +78,7 @@ total_mentions: 102
 - [itsmichaelluu](https://x.com/itsmichaelluu/status/2064692678608990537) (2026-06-11)
 - [itsolelehmann](https://x.com/itsolelehmann/status/2062909345537634686) (2026-06-10)
 - [james406](https://x.com/james406/status/2055362680299434300) (2026-06-09)
+- [jason_coder0](https://x.com/jason_coder0/status/2072219162135666801) (2026-07-01)
 - [jomatech](https://x.com/jomatech/status/2071058503805124918) (2026-06-28)
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)
@@ -102,6 +105,7 @@ total_mentions: 102
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2068965021514891696) (2026-06-27)
 - [undefinedKi](https://x.com/undefinedKi/status/2063615286301839698) (2026-06-08)
+- [unusual_whales](https://x.com/unusual_whales/status/2069766741404844484) (2026-07-01)
 - [vigneshxtech](https://x.com/vigneshxtech/status/2068597287010349323) (2026-06-21)
 - [xandurglar](https://x.com/xandurglar/status/2070179038417821777) (2026-06-29)
 - [ycombinator](https://x.com/ycombinator/status/2062202902543016140) (2026-06-05)

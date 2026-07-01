@@ -1,15 +1,17 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-06-30
-total_mentions: 35
+last_seen: 2026-07-01
+total_mentions: 37
 
 ## Related Tweets
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2061506641120641494) (2026-06-05)
+- [AndrewYNg](https://x.com/AndrewYNg/status/2071988145667928442) (2026-07-01)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065328920514515037) (2026-06-13)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065559824230957190) (2026-06-14)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
+- [IntCyberDigest](https://x.com/IntCyberDigest/status/2071971609183678544) (2026-07-01)
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
 - [NVIDIAAI](https://x.com/NVIDIAAI/status/2069858097930121319) (2026-06-30)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
