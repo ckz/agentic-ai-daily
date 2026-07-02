@@ -1,17 +1,19 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-01
-total_mentions: 106
+last_seen: 2026-07-02
+total_mentions: 117
 
 ## Related Tweets
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
 - [Argona0x](https://x.com/Argona0x/status/2065525815106769169) (2026-06-13)
 - [ArrushAdityadev](https://x.com/ArrushAdityadev/status/2061674017929703768) (2026-06-08)
 - [ArslyTech](https://x.com/ArslyTech/status/2063153998518235584) (2026-06-06)
+- [AtomsNotBits](https://x.com/AtomsNotBits/status/2072429730788413662) (2026-07-02)
 - [Brennan_Lup](https://x.com/Brennan_Lup/status/2064930712739090835) (2026-06-11)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2062148017818419548) (2026-06-09)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2064249311492477082) (2026-06-09)
+- [BullTheoryio](https://x.com/BullTheoryio/status/2070088724462084261) (2026-07-02)
 - [ChiemeOnah7812](https://x.com/ChiemeOnah7812/status/2068216698759475604) (2026-06-20)
 - [Codex_Changelog](https://x.com/Codex_Changelog/status/2062678248790589520) (2026-06-07)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2063005594047467893) (2026-06-05)
@@ -25,6 +27,7 @@ total_mentions: 106
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
 - [MTSlive](https://x.com/MTSlive/status/2065073640182579322) (2026-06-12)
 - [Maker17368Maker](https://x.com/Maker17368Maker/status/2062810745210040366) (2026-06-07)
+- [Motionsbyeddy](https://x.com/Motionsbyeddy/status/2071694912597479912) (2026-07-02)
 - [NextLvlFunded](https://x.com/NextLvlFunded/status/2061795412986728637) (2026-06-05)
 - [Okada_DeFi0x](https://x.com/Okada_DeFi0x/status/2070769365763449051) (2026-06-28)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
@@ -33,6 +36,7 @@ total_mentions: 106
 - [RITESHGHODELA](https://x.com/RITESHGHODELA/status/2063136905282429213) (2026-06-06)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2032664263882674275) (2026-06-09)
 - [RuntimeBRT](https://x.com/RuntimeBRT/status/2063848536958288128) (2026-06-10)
+- [SawyerMerritt](https://x.com/SawyerMerritt/status/2070711031094022508) (2026-07-02)
 - [SeedifyFund](https://x.com/SeedifyFund/status/1882843585470406990) (2026-06-08)
 - [ShaanVP](https://x.com/ShaanVP/status/2062657552220119538) (2026-06-07)
 - [Sheema_bakhtiar](https://x.com/Sheema_bakhtiar/status/2064945268563546427) (2026-06-11)
@@ -44,11 +48,13 @@ total_mentions: 106
 - [TheoAugust8](https://x.com/TheoAugust8/status/2063166492519158257) (2026-06-06)
 - [TracyWesterman](https://x.com/TracyWesterman/status/2068481367248384086) (2026-06-27)
 - [WatcherGuru](https://x.com/WatcherGuru/status/2066844381504561211) (2026-06-20)
+- [YhungProf0](https://x.com/YhungProf0/status/2071829780270391531) (2026-07-02)
 - [_poolday_](https://x.com/_poolday_/status/2065097298946777226) (2026-06-12)
 - [_shikhar_jais](https://x.com/_shikhar_jais/status/2063133010074206331) (2026-06-06)
 - [a16z](https://x.com/a16z/status/2069869327411749012) (2026-06-29)
 - [aakrit](https://x.com/aakrit/status/2065778171912265899) (2026-06-14)
 - [adriablancafort](https://x.com/adriablancafort/status/2071688701651108309) (2026-06-30)
+- [amuse](https://x.com/amuse/status/2070118337607012363) (2026-07-02)
 - [anuraggoel](https://x.com/anuraggoel/status/2069218653137142074) (2026-06-30)
 - [athanzxyt](https://x.com/athanzxyt/status/2067660560607613032) (2026-06-19)
 - [awwstn](https://x.com/awwstn/status/2067750610963939571) (2026-06-19)
@@ -67,8 +73,10 @@ total_mentions: 106
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1872809091799875592) (2026-06-29)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [deedydas](https://x.com/deedydas/status/2063075876452155728) (2026-06-06)
+- [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
 - [ecomchigga](https://x.com/ecomchigga/status/2065176267637297566) (2026-06-13)
 - [elonmusk](https://x.com/elonmusk/status/2063319907849093544) (2026-06-12)
+- [elonmusk](https://x.com/elonmusk/status/2071673460779041155) (2026-07-02)
 - [gnoble79](https://x.com/gnoble79/status/2062616388963844440) (2026-06-08)
 - [gregisenberg](https://x.com/gregisenberg/status/1913582333229142177) (2026-06-21)
 - [gregisenberg](https://x.com/gregisenberg/status/2065184897296146724) (2026-06-15)
@@ -90,6 +98,7 @@ total_mentions: 106
 - [mikefutia](https://x.com/mikefutia/status/1932464486646001840) (2026-06-07)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2070112027780280630) (2026-06-27)
 - [nanransohoff](https://x.com/nanransohoff/status/2069761661456601188) (2026-06-28)
+- [nextjs](https://x.com/nextjs/status/2071647669467201657) (2026-07-02)
 - [paulg](https://x.com/paulg/status/2063091245334044902) (2026-06-06)
 - [paulg](https://x.com/paulg/status/2063644836981260638) (2026-06-12)
 - [paulg](https://x.com/paulg/status/2069821293596148004) (2026-06-28)
@@ -104,9 +113,11 @@ total_mentions: 106
 - [solovaultinfo](https://x.com/solovaultinfo/status/2068553835598241965) (2026-06-21)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2068965021514891696) (2026-06-27)
+- [twistartups](https://x.com/twistartups/status/2071744145119465724) (2026-07-02)
 - [undefinedKi](https://x.com/undefinedKi/status/2063615286301839698) (2026-06-08)
 - [unusual_whales](https://x.com/unusual_whales/status/2069766741404844484) (2026-07-01)
 - [vigneshxtech](https://x.com/vigneshxtech/status/2068597287010349323) (2026-06-21)
+- [vipulved](https://x.com/vipulved/status/2072321276094673083) (2026-07-02)
 - [xandurglar](https://x.com/xandurglar/status/2070179038417821777) (2026-06-29)
 - [ycombinator](https://x.com/ycombinator/status/2062202902543016140) (2026-06-05)
 - [ycombinator](https://x.com/ycombinator/status/2069110874242252853) (2026-06-28)

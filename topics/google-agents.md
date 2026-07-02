@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-01
-total_mentions: 31
+last_seen: 2026-07-02
+total_mentions: 33
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -14,6 +14,7 @@ total_mentions: 31
 - [GoogleAI](https://x.com/GoogleAI/status/2062942864288387430) (2026-06-06)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2061578655050899715) (2026-06-07)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2062253446888063025) (2026-06-06)
+- [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072382496348447168) (2026-07-02)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
 - [Hesamation](https://x.com/Hesamation/status/1970585800325640372) (2026-06-07)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2062274372388507726) (2026-06-05)
@@ -28,6 +29,7 @@ total_mentions: 31
 - [googlecloud](https://x.com/googlecloud/status/2063244517575200828) (2026-06-09)
 - [googlecloud_jp](https://x.com/googlecloud_jp/status/2064210883023118619) (2026-06-09)
 - [googlecloud_jp](https://x.com/googlecloud_jp/status/2071473742488740078) (2026-06-30)
+- [googledevs](https://x.com/googledevs/status/2072319312824537586) (2026-07-02)
 - [googlegemma](https://x.com/googlegemma/status/2064742570417180894) (2026-06-14)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)

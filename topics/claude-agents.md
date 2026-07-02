@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-01
-total_mentions: 67
+last_seen: 2026-07-02
+total_mentions: 72
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -28,6 +28,7 @@ total_mentions: 67
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
 - [JJEnglert](https://x.com/JJEnglert/status/2064420538798260388) (2026-06-10)
 - [Jeyxbt](https://x.com/Jeyxbt/status/2067866973497868794) (2026-06-19)
+- [MetaforDevs](https://x.com/MetaforDevs/status/2072474629852348684) (2026-07-02)
 - [NousResearch](https://x.com/NousResearch/status/2026759005633183980) (2026-06-07)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
 - [RegalosDigitals](https://x.com/RegalosDigitals/status/2071263024212508813) (2026-06-29)
@@ -62,13 +63,17 @@ total_mentions: 67
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
 - [matei_zaharia](https://x.com/matei_zaharia/status/2065827057624605146) (2026-06-14)
 - [mikefutia](https://x.com/mikefutia/status/2069488510424531371) (2026-06-27)
+- [mikenevermiss](https://x.com/mikenevermiss/status/2072358721821221212) (2026-07-02)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
+- [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
 - [shannholmberg](https://x.com/shannholmberg/status/2062652746508173796) (2026-06-06)
 - [sharbel](https://x.com/sharbel/status/2063369348828610886) (2026-06-11)
 - [stretchcloud](https://x.com/stretchcloud/status/2072215124958740898) (2026-07-01)
 - [tanayj](https://x.com/tanayj/status/2072108170080657729) (2026-07-01)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
+- [timsneath](https://x.com/timsneath/status/2072479088661651612) (2026-07-02)
 - [undefinedKi](https://x.com/undefinedKi/status/2070221446786215970) (2026-06-27)
 - [undefinedKi](https://x.com/undefinedKi/status/2070864207608684800) (2026-06-28)
+- [undefinedKi](https://x.com/undefinedKi/status/2071931934012211642) (2026-07-02)
 - [vercel_dev](https://x.com/vercel_dev/status/2065509970775519569) (2026-06-13)
 - [virtuals_io](https://x.com/virtuals_io/status/2063654910995145209) (2026-06-11)

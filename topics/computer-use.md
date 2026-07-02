@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-06-29
-total_mentions: 15
+last_seen: 2026-07-02
+total_mentions: 16
 
 ## Related Tweets
 - [BullTheoryio](https://x.com/BullTheoryio/status/2064410897486160099) (2026-06-10)
@@ -20,3 +20,4 @@ total_mentions: 15
 - [gkxspace](https://x.com/gkxspace/status/2068546908360999331) (2026-06-21)
 - [jxnlco](https://x.com/jxnlco/status/2070577704752267321) (2026-06-27)
 - [rubenhassid](https://x.com/rubenhassid/status/2063138819856101667) (2026-06-07)
+- [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)

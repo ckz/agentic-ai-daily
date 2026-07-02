@@ -1,14 +1,15 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-07-01
-total_mentions: 128
+last_seen: 2026-07-02
+total_mentions: 137
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
+- [ANUBISCHAIN_](https://x.com/ANUBISCHAIN_/status/2072571906138706359) (2026-07-02)
 - [APACwebaijobs](https://x.com/APACwebaijobs/status/2064977490213474577) (2026-06-11)
 - [Akasheth_](https://x.com/Akasheth_/status/2063933265954918837) (2026-06-10)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2062245225159111117) (2026-06-06)
@@ -19,6 +20,7 @@ total_mentions: 128
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065559824230957190) (2026-06-14)
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2064756984617021807) (2026-06-11)
+- [Colhodm](https://x.com/Colhodm/status/2072373857999098214) (2026-07-02)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2066212008782172238) (2026-06-19)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DamiDefi](https://x.com/DamiDefi/status/2034210979475788197) (2026-06-10)
@@ -33,6 +35,7 @@ total_mentions: 128
 - [GoogleAI](https://x.com/GoogleAI/status/2062942864288387430) (2026-06-06)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2061578655050899715) (2026-06-07)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2062253446888063025) (2026-06-06)
+- [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072382496348447168) (2026-07-02)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
 - [HackingDave](https://x.com/HackingDave/status/2069146467701256423) (2026-06-29)
 - [HarryBee_Yhu](https://x.com/HarryBee_Yhu/status/2067864020527292535) (2026-06-19)
@@ -41,7 +44,9 @@ total_mentions: 128
 - [HuggingPapers](https://x.com/HuggingPapers/status/2071241599372100056) (2026-06-29)
 - [HyperionXTrade](https://x.com/HyperionXTrade/status/2066015535045992470) (2026-06-14)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
+- [Jadzo1_](https://x.com/Jadzo1_/status/2072437174071636126) (2026-07-02)
 - [Kaffchad](https://x.com/Kaffchad/status/2066380271092662782) (2026-06-15)
+- [KirkDBorne](https://x.com/KirkDBorne/status/2072425629627330995) (2026-07-02)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [NainsiDwiv50980](https://x.com/NainsiDwiv50980/status/2062154970229858372) (2026-06-06)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/1975269391244874103) (2026-06-08)
@@ -92,6 +97,7 @@ total_mentions: 128
 - [googlecloud](https://x.com/googlecloud/status/2064505329006653571) (2026-06-10)
 - [googlecloud_jp](https://x.com/googlecloud_jp/status/2064210883023118619) (2026-06-09)
 - [googlecloud_jp](https://x.com/googlecloud_jp/status/2071473742488740078) (2026-06-30)
+- [googledevs](https://x.com/googledevs/status/2072319312824537586) (2026-07-02)
 - [googlegemma](https://x.com/googlegemma/status/2064742570417180894) (2026-06-14)
 - [gotuchintu](https://x.com/gotuchintu/status/2071034383012618319) (2026-06-28)
 - [gotuchintu](https://x.com/gotuchintu/status/2071048019907064019) (2026-06-28)
@@ -115,6 +121,7 @@ total_mentions: 128
 - [piyascode9](https://x.com/piyascode9/status/2060204362497224790) (2026-06-05)
 - [radiyal_agency](https://x.com/radiyal_agency/status/2072183621176504669) (2026-07-01)
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)
+- [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [sairahul1](https://x.com/sairahul1/status/2069421947390415189) (2026-06-28)
 - [salesforce](https://x.com/salesforce/status/2066491445586858173) (2026-06-28)
@@ -123,6 +130,7 @@ total_mentions: 128
 - [sentient_agency](https://x.com/sentient_agency/status/2071538650425528367) (2026-07-01)
 - [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
+- [socialwithaayan](https://x.com/socialwithaayan/status/2072044103492309425) (2026-07-02)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2072154763492544652) (2026-07-01)
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)
 - [tom_doerr](https://x.com/tom_doerr/status/2066365949926629733) (2026-06-15)
@@ -132,4 +140,5 @@ total_mentions: 128
 - [vicky_grok](https://x.com/vicky_grok/status/2070074685669470672) (2026-06-29)
 - [virtuals_io](https://x.com/virtuals_io/status/1881340149503857151) (2026-06-11)
 - [wallstengine](https://x.com/wallstengine/status/2062459661039894607) (2026-06-08)
+- [xai](https://x.com/xai/status/2072342803787702422) (2026-07-02)
 - [xenovacom](https://x.com/xenovacom/status/2070210622239707568) (2026-06-27)

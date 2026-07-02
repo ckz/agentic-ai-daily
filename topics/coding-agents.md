@@ -1,14 +1,15 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-01
-total_mentions: 37
+last_seen: 2026-07-02
+total_mentions: 39
 
 ## Related Tweets
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2061506641120641494) (2026-06-05)
 - [AndrewYNg](https://x.com/AndrewYNg/status/2071988145667928442) (2026-07-01)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065328920514515037) (2026-06-13)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065559824230957190) (2026-06-14)
+- [Colhodm](https://x.com/Colhodm/status/2072373857999098214) (2026-07-02)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2071971609183678544) (2026-07-01)
@@ -40,5 +41,6 @@ total_mentions: 37
 - [seelffff](https://x.com/seelffff/status/2071118707405816250) (2026-06-29)
 - [sharbel](https://x.com/sharbel/status/2055680438417412359) (2026-06-29)
 - [tomgreenwald](https://x.com/tomgreenwald/status/2068008885018062868) (2026-06-20)
+- [undefinedKi](https://x.com/undefinedKi/status/2071931934012211642) (2026-07-02)
 - [vechainofficial](https://x.com/vechainofficial/status/2062450242360885371) (2026-06-09)
 - [warpdotdev](https://x.com/warpdotdev/status/1937525185843752969) (2026-06-07)
