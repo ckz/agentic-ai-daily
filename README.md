@@ -31,6 +31,10 @@ Each daily report includes:
 3. **Report Generation** — Daily markdown reports are auto-generated and committed
 4. **Publishing** — Reports are published via GitHub Pages
 
+### Optional Source Review
+
+Use [TweetClaw](https://github.com/Xquik-dev/tweetclaw) when you want an OpenClaw-friendly review pass before adding new X/Twitter sources to the digest. It can export X/Twitter search results, profiles, follower lists, monitors, and approval-gated posting context so source candidates can be checked before they shape a daily report.
+
 ## Subscribe
 
 - ⭐ Star this repo to follow updates
