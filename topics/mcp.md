@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-07-02
-total_mentions: 210
+last_seen: 2026-07-03
+total_mentions: 216
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -42,6 +42,7 @@ total_mentions: 210
 - [InduTripat82427](https://x.com/InduTripat82427/status/2062485176358486507) (2026-06-09)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2063904128708022613) (2026-06-09)
 - [JulianGoldieSEO](https://x.com/JulianGoldieSEO/status/2067820667794559045) (2026-06-19)
+- [KanikaBK](https://x.com/KanikaBK/status/2072606006971081213) (2026-07-03)
 - [KarineRangel7](https://x.com/KarineRangel7/status/2063810800587018439) (2026-06-08)
 - [Kekeha228](https://x.com/Kekeha228/status/2065700558527217899) (2026-06-13)
 - [KhushiPatil25](https://x.com/KhushiPatil25/status/2068311907925430767) (2026-06-21)
@@ -55,6 +56,7 @@ total_mentions: 210
 - [MiniMax_AI](https://x.com/MiniMax_AI/status/2061266317815296322) (2026-06-05)
 - [MrDasOnX](https://x.com/MrDasOnX/status/2066029379512418431) (2026-06-14)
 - [Nekt_0](https://x.com/Nekt_0/status/2066148234368524692) (2026-06-15)
+- [NotionHQ](https://x.com/NotionHQ/status/2072759315589652663) (2026-07-03)
 - [NousResearch](https://x.com/NousResearch/status/2064760263224504719) (2026-06-11)
 - [OpenRouter](https://x.com/OpenRouter/status/2070160491360780798) (2026-06-27)
 - [OpenRouter](https://x.com/OpenRouter/status/2070630667663163875) (2026-06-27)
@@ -86,6 +88,7 @@ total_mentions: 210
 - [XiaomiMiMo](https://x.com/XiaomiMiMo/status/2064799879352959085) (2026-06-11)
 - [ZHENXINYU](https://x.com/ZHENXINYU/status/2064950271906889746) (2026-06-11)
 - [_Engr_tariq](https://x.com/_Engr_tariq/status/2068603345229562006) (2026-06-21)
+- [_guillecasaus](https://x.com/_guillecasaus/status/2072701807290110212) (2026-07-03)
 - [_philschmid](https://x.com/_philschmid/status/2052781345831879145) (2026-06-09)
 - [_vmlops](https://x.com/_vmlops/status/2055521746737156350) (2026-06-15)
 - [_vmlops](https://x.com/_vmlops/status/2063841886193004672) (2026-06-09)
@@ -127,6 +130,7 @@ total_mentions: 210
 - [davemccollough](https://x.com/davemccollough/status/2064154192856670213) (2026-06-09)
 - [dojintanuki](https://x.com/dojintanuki/status/2063832283736387900) (2026-06-08)
 - [dr_cintas](https://x.com/dr_cintas/status/2065260939134280044) (2026-06-12)
+- [dr_cintas](https://x.com/dr_cintas/status/2072714904650359130) (2026-07-03)
 - [eliana_jordan](https://x.com/eliana_jordan/status/2071647509332598909) (2026-06-30)
 - [elora_khatun](https://x.com/elora_khatun/status/2063087975488204948) (2026-06-06)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2060824760859431275) (2026-06-05)
@@ -143,6 +147,7 @@ total_mentions: 210
 - [gippp69](https://x.com/gippp69/status/2061110941509419435) (2026-06-07)
 - [gkxspace](https://x.com/gkxspace/status/2068546908360999331) (2026-06-21)
 - [gokulr](https://x.com/gokulr/status/2066673493811601737) (2026-06-21)
+- [gregisenberg](https://x.com/gregisenberg/status/1893687593755164940) (2026-07-03)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [higgsfield](https://x.com/higgsfield/status/2064780036234969131) (2026-06-11)
@@ -184,6 +189,7 @@ total_mentions: 210
 - [ridark_eth](https://x.com/ridark_eth/status/2066216714644111431) (2026-06-15)
 - [ridark_eth](https://x.com/ridark_eth/status/2070966184967864667) (2026-06-29)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
+- [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [sakhil_ai](https://x.com/sakhil_ai/status/2067798126279397885) (2026-06-19)
 - [sharbel](https://x.com/sharbel/status/2070812435653464323) (2026-06-28)
 - [shedntcare_](https://x.com/shedntcare_/status/2066124333559480395) (2026-06-21)

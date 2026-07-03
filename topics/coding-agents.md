@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-02
-total_mentions: 39
+last_seen: 2026-07-03
+total_mentions: 41
 
 ## Related Tweets
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2061506641120641494) (2026-06-05)
@@ -18,6 +18,7 @@ total_mentions: 39
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
 - [SIGKITTEN](https://x.com/SIGKITTEN/status/1980809995823591805) (2026-06-12)
 - [TeksCreate](https://x.com/TeksCreate/status/2068138970131632591) (2026-06-20)
+- [TheValueist](https://x.com/TheValueist/status/2072334968940900744) (2026-07-03)
 - [XFreeze](https://x.com/XFreeze/status/2065333739312590983) (2026-06-12)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
 - [a16z](https://x.com/a16z/status/2069869327411749012) (2026-06-29)
@@ -32,6 +33,7 @@ total_mentions: 39
 - [gokulr](https://x.com/gokulr/status/2062638283100930085) (2026-06-08)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
+- [jahooma](https://x.com/jahooma/status/2069951731539349823) (2026-07-03)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)
 - [mattpocockuk](https://x.com/mattpocockuk/status/2064663221718425660) (2026-06-11)
 - [monmiglobal](https://x.com/monmiglobal/status/2071399421997359236) (2026-06-29)

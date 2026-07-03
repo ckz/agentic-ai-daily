@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-02
-total_mentions: 72
+last_seen: 2026-07-03
+total_mentions: 75
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -36,6 +36,7 @@ total_mentions: 72
 - [WesRoth](https://x.com/WesRoth/status/2062398945607725142) (2026-06-10)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
+- [agenticbrew](https://x.com/agenticbrew/status/2072848219084910646) (2026-07-03)
 - [aiedge_](https://x.com/aiedge_/status/2068204707139752359) (2026-06-20)
 - [aiedge_](https://x.com/aiedge_/status/2070016711341040054) (2026-06-27)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2029534926828388537) (2026-06-06)
@@ -52,6 +53,7 @@ total_mentions: 72
 - [cyrilXBT](https://x.com/cyrilXBT/status/2068171479976677549) (2026-06-20)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2071817627484250139) (2026-06-30)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
+- [dr_cintas](https://x.com/dr_cintas/status/2072714904650359130) (2026-07-03)
 - [ekcheungAI](https://x.com/ekcheungAI/status/2068544526084386969) (2026-06-21)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2061821319034143172) (2026-06-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2062244858686009455) (2026-06-08)
@@ -66,6 +68,7 @@ total_mentions: 72
 - [mikenevermiss](https://x.com/mikenevermiss/status/2072358721821221212) (2026-07-02)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
+- [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [shannholmberg](https://x.com/shannholmberg/status/2062652746508173796) (2026-06-06)
 - [sharbel](https://x.com/sharbel/status/2063369348828610886) (2026-06-11)
 - [stretchcloud](https://x.com/stretchcloud/status/2072215124958740898) (2026-07-01)

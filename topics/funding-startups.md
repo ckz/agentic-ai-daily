@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-02
-total_mentions: 117
+last_seen: 2026-07-03
+total_mentions: 122
 
 ## Related Tweets
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
@@ -47,6 +47,7 @@ total_mentions: 117
 - [TheStartupsMag](https://x.com/TheStartupsMag/status/2068604981318488305) (2026-06-21)
 - [TheoAugust8](https://x.com/TheoAugust8/status/2063166492519158257) (2026-06-06)
 - [TracyWesterman](https://x.com/TracyWesterman/status/2068481367248384086) (2026-06-27)
+- [WaldronLewis](https://x.com/WaldronLewis/status/2072605320132575489) (2026-07-03)
 - [WatcherGuru](https://x.com/WatcherGuru/status/2066844381504561211) (2026-06-20)
 - [YhungProf0](https://x.com/YhungProf0/status/2071829780270391531) (2026-07-02)
 - [_poolday_](https://x.com/_poolday_/status/2065097298946777226) (2026-06-12)
@@ -65,6 +66,7 @@ total_mentions: 117
 - [business](https://x.com/business/status/2063849595688407299) (2026-06-08)
 - [business](https://x.com/business/status/2064560376595804273) (2026-06-10)
 - [cb_doge](https://x.com/cb_doge/status/2062681226633523250) (2026-06-08)
+- [cb_doge](https://x.com/cb_doge/status/2072009965389443374) (2026-07-03)
 - [chamath](https://x.com/chamath/status/2071571183665881515) (2026-07-01)
 - [christophersaum](https://x.com/christophersaum/status/2069813347420119217) (2026-06-28)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
@@ -78,7 +80,9 @@ total_mentions: 117
 - [elonmusk](https://x.com/elonmusk/status/2063319907849093544) (2026-06-12)
 - [elonmusk](https://x.com/elonmusk/status/2071673460779041155) (2026-07-02)
 - [gnoble79](https://x.com/gnoble79/status/2062616388963844440) (2026-06-08)
+- [gregisenberg](https://x.com/gregisenberg/status/1893687593755164940) (2026-07-03)
 - [gregisenberg](https://x.com/gregisenberg/status/1913582333229142177) (2026-06-21)
+- [gregisenberg](https://x.com/gregisenberg/status/2052110589682749869) (2026-07-03)
 - [gregisenberg](https://x.com/gregisenberg/status/2065184897296146724) (2026-06-15)
 - [gregisenberg](https://x.com/gregisenberg/status/2065773938915889253) (2026-06-15)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
@@ -106,6 +110,7 @@ total_mentions: 117
 - [pierreeliottlal](https://x.com/pierreeliottlal/status/2066037831626362988) (2026-06-14)
 - [ridark_eth](https://x.com/ridark_eth/status/2068120584047804649) (2026-06-20)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2065184524754112720) (2026-06-14)
+- [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [samsenchal](https://x.com/samsenchal/status/2068605085089693994) (2026-06-21)
 - [sean_wallace_](https://x.com/sean_wallace_/status/2063994540873433201) (2026-06-09)
 - [signulll](https://x.com/signulll/status/2064053145580278163) (2026-06-09)
