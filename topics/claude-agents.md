@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-03
-total_mentions: 75
+last_seen: 2026-07-04
+total_mentions: 77
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -23,6 +23,7 @@ total_mentions: 75
 - [DanKornas](https://x.com/DanKornas/status/2071847945373192192) (2026-06-30)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [Faazsh](https://x.com/Faazsh/status/2068572996076540315) (2026-06-21)
+- [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072410041945075729) (2026-07-04)
 - [Guelug](https://x.com/Guelug/status/2072092575947989385) (2026-07-01)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2065062300218749172) (2026-06-13)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
@@ -62,6 +63,7 @@ total_mentions: 75
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
+- [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
 - [matei_zaharia](https://x.com/matei_zaharia/status/2065827057624605146) (2026-06-14)
 - [mikefutia](https://x.com/mikefutia/status/2069488510424531371) (2026-06-27)

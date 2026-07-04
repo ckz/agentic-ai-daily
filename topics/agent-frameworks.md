@@ -1,14 +1,15 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-07-03
-total_mentions: 145
+last_seen: 2026-07-04
+total_mentions: 152
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
+- [AIHighlight](https://x.com/AIHighlight/status/2072712459857645721) (2026-07-04)
 - [ANUBISCHAIN_](https://x.com/ANUBISCHAIN_/status/2072571906138706359) (2026-07-02)
 - [APACwebaijobs](https://x.com/APACwebaijobs/status/2064977490213474577) (2026-06-11)
 - [Akasheth_](https://x.com/Akasheth_/status/2063933265954918837) (2026-06-10)
@@ -19,6 +20,7 @@ total_mentions: 145
 - [ArslyTech](https://x.com/ArslyTech/status/2063153998518235584) (2026-06-06)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065559824230957190) (2026-06-14)
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
+- [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
 - [CSVisionPapers](https://x.com/CSVisionPapers/status/2072902537439481931) (2026-07-03)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2064756984617021807) (2026-06-11)
 - [Colhodm](https://x.com/Colhodm/status/2072373857999098214) (2026-07-02)
@@ -37,6 +39,7 @@ total_mentions: 145
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2061578655050899715) (2026-06-07)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2062253446888063025) (2026-06-06)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072382496348447168) (2026-07-02)
+- [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072410041945075729) (2026-07-04)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
 - [HackingDave](https://x.com/HackingDave/status/2069146467701256423) (2026-06-29)
 - [HarryBee_Yhu](https://x.com/HarryBee_Yhu/status/2067864020527292535) (2026-06-19)
@@ -50,6 +53,7 @@ total_mentions: 145
 - [Kaffchad](https://x.com/Kaffchad/status/2066380271092662782) (2026-06-15)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2072425629627330995) (2026-07-02)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
+- [LearnWithBrij](https://x.com/LearnWithBrij/status/2058615544048451842) (2026-07-04)
 - [LuizaJarovsky](https://x.com/LuizaJarovsky/status/2072664971616383227) (2026-07-03)
 - [NainsiDwiv50980](https://x.com/NainsiDwiv50980/status/2062154970229858372) (2026-06-06)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/1975269391244874103) (2026-06-08)
@@ -88,6 +92,7 @@ total_mentions: 145
 - [ashpreetbedi](https://x.com/ashpreetbedi/status/2072857622575751271) (2026-07-03)
 - [asmah2107](https://x.com/asmah2107/status/2062870047903605109) (2026-06-06)
 - [augmentcode](https://x.com/augmentcode/status/2064401015957492202) (2026-06-10)
+- [axiomos_](https://x.com/axiomos_/status/2072983092365811940) (2026-07-04)
 - [axon402](https://x.com/axon402/status/2064629815961854211) (2026-06-11)
 - [badidoyo](https://x.com/badidoyo/status/2071821032114061798) (2026-06-30)
 - [bostonavionics](https://x.com/bostonavionics/status/2063158549568684369) (2026-06-06)
@@ -118,6 +123,7 @@ total_mentions: 145
 - [ipfconline1](https://x.com/ipfconline1/status/2066408115369656823) (2026-06-15)
 - [islam_naserr](https://x.com/islam_naserr/status/2065299167560257970) (2026-06-12)
 - [johnvirality](https://x.com/johnvirality/status/2070571963555152330) (2026-06-29)
+- [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [mastra](https://x.com/mastra/status/2062617888478183564) (2026-06-05)
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [michyexe](https://x.com/michyexe/status/2000613204116844826) (2026-06-15)
@@ -125,6 +131,7 @@ total_mentions: 145
 - [neuralnow](https://x.com/neuralnow/status/2067804236231160299) (2026-06-19)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [omarsar0](https://x.com/omarsar0/status/1846930425849303424) (2026-06-27)
+- [ordo_chain](https://x.com/ordo_chain/status/2073312746381181174) (2026-07-04)
 - [piyascode9](https://x.com/piyascode9/status/2060204362497224790) (2026-06-05)
 - [radiyal_agency](https://x.com/radiyal_agency/status/2072183621176504669) (2026-07-01)
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)

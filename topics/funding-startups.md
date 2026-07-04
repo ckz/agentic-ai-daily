@@ -1,16 +1,18 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-03
-total_mentions: 122
+last_seen: 2026-07-04
+total_mentions: 126
 
 ## Related Tweets
+- [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
 - [Argona0x](https://x.com/Argona0x/status/2065525815106769169) (2026-06-13)
 - [ArrushAdityadev](https://x.com/ArrushAdityadev/status/2061674017929703768) (2026-06-08)
 - [ArslyTech](https://x.com/ArslyTech/status/2063153998518235584) (2026-06-06)
 - [AtomsNotBits](https://x.com/AtomsNotBits/status/2072429730788413662) (2026-07-02)
 - [Brennan_Lup](https://x.com/Brennan_Lup/status/2064930712739090835) (2026-06-11)
+- [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2062148017818419548) (2026-06-09)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2064249311492477082) (2026-06-09)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2070088724462084261) (2026-07-02)
@@ -78,7 +80,9 @@ total_mentions: 122
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
 - [ecomchigga](https://x.com/ecomchigga/status/2065176267637297566) (2026-06-13)
 - [elonmusk](https://x.com/elonmusk/status/2063319907849093544) (2026-06-12)
+- [elonmusk](https://x.com/elonmusk/status/2071652181854343349) (2026-07-04)
 - [elonmusk](https://x.com/elonmusk/status/2071673460779041155) (2026-07-02)
+- [ericgudboy](https://x.com/ericgudboy/status/2073282068235321743) (2026-07-04)
 - [gnoble79](https://x.com/gnoble79/status/2062616388963844440) (2026-06-08)
 - [gregisenberg](https://x.com/gregisenberg/status/1893687593755164940) (2026-07-03)
 - [gregisenberg](https://x.com/gregisenberg/status/1913582333229142177) (2026-06-21)
