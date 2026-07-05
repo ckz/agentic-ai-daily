@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-04
-total_mentions: 126
+last_seen: 2026-07-05
+total_mentions: 131
 
 ## Related Tweets
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
@@ -11,6 +11,7 @@ total_mentions: 126
 - [ArrushAdityadev](https://x.com/ArrushAdityadev/status/2061674017929703768) (2026-06-08)
 - [ArslyTech](https://x.com/ArslyTech/status/2063153998518235584) (2026-06-06)
 - [AtomsNotBits](https://x.com/AtomsNotBits/status/2072429730788413662) (2026-07-02)
+- [AvinashSingh_20](https://x.com/AvinashSingh_20/status/2071233793311318133) (2026-07-05)
 - [Brennan_Lup](https://x.com/Brennan_Lup/status/2064930712739090835) (2026-06-11)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2062148017818419548) (2026-06-09)
@@ -50,11 +51,13 @@ total_mentions: 126
 - [TheoAugust8](https://x.com/TheoAugust8/status/2063166492519158257) (2026-06-06)
 - [TracyWesterman](https://x.com/TracyWesterman/status/2068481367248384086) (2026-06-27)
 - [WaldronLewis](https://x.com/WaldronLewis/status/2072605320132575489) (2026-07-03)
+- [WallStreetApes](https://x.com/WallStreetApes/status/2072876695120658620) (2026-07-05)
 - [WatcherGuru](https://x.com/WatcherGuru/status/2066844381504561211) (2026-06-20)
 - [YhungProf0](https://x.com/YhungProf0/status/2071829780270391531) (2026-07-02)
 - [_poolday_](https://x.com/_poolday_/status/2065097298946777226) (2026-06-12)
 - [_shikhar_jais](https://x.com/_shikhar_jais/status/2063133010074206331) (2026-06-06)
 - [a16z](https://x.com/a16z/status/2069869327411749012) (2026-06-29)
+- [aakashgupta](https://x.com/aakashgupta/status/2036653323978420322) (2026-07-05)
 - [aakrit](https://x.com/aakrit/status/2065778171912265899) (2026-06-14)
 - [adriablancafort](https://x.com/adriablancafort/status/2071688701651108309) (2026-06-30)
 - [amuse](https://x.com/amuse/status/2070118337607012363) (2026-07-02)
@@ -104,6 +107,7 @@ total_mentions: 126
 - [marorhab](https://x.com/marorhab/status/2063163950850609431) (2026-06-06)
 - [mhp_guy](https://x.com/mhp_guy/status/2064453575594664169) (2026-06-12)
 - [mikefutia](https://x.com/mikefutia/status/1932464486646001840) (2026-06-07)
+- [mikenevermiss](https://x.com/mikenevermiss/status/2072226710448168991) (2026-07-05)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2070112027780280630) (2026-06-27)
 - [nanransohoff](https://x.com/nanransohoff/status/2069761661456601188) (2026-06-28)
 - [nextjs](https://x.com/nextjs/status/2071647669467201657) (2026-07-02)
@@ -114,6 +118,7 @@ total_mentions: 126
 - [pierreeliottlal](https://x.com/pierreeliottlal/status/2066037831626362988) (2026-06-14)
 - [ridark_eth](https://x.com/ridark_eth/status/2068120584047804649) (2026-06-20)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2065184524754112720) (2026-06-14)
+- [rsngprad](https://x.com/rsngprad/status/2072630117218791745) (2026-07-05)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [samsenchal](https://x.com/samsenchal/status/2068605085089693994) (2026-06-21)
 - [sean_wallace_](https://x.com/sean_wallace_/status/2063994540873433201) (2026-06-09)

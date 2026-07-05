@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-07-04
-total_mentions: 152
+last_seen: 2026-07-05
+total_mentions: 156
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -10,9 +10,12 @@ total_mentions: 152
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
 - [AIHighlight](https://x.com/AIHighlight/status/2072712459857645721) (2026-07-04)
+- [AI_in_Asia](https://x.com/AI_in_Asia/status/2073665028629090615) (2026-07-05)
 - [ANUBISCHAIN_](https://x.com/ANUBISCHAIN_/status/2072571906138706359) (2026-07-02)
 - [APACwebaijobs](https://x.com/APACwebaijobs/status/2064977490213474577) (2026-06-11)
+- [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2073021437963825410) (2026-07-05)
 - [Akasheth_](https://x.com/Akasheth_/status/2063933265954918837) (2026-06-10)
+- [Alacritic_Super](https://x.com/Alacritic_Super/status/2073340264895438850) (2026-07-05)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2062245225159111117) (2026-06-06)
 - [AndrewYNg](https://x.com/AndrewYNg/status/1975614372799283423) (2026-06-12)
 - [AnthropicAI](https://x.com/AnthropicAI/status/2066969532380721386) (2026-06-19)
@@ -104,6 +107,7 @@ total_mentions: 152
 - [dkare1009](https://x.com/dkare1009/status/2043335862264410288) (2026-06-06)
 - [dkare1009](https://x.com/dkare1009/status/2058646791348727997) (2026-06-30)
 - [dkare1009](https://x.com/dkare1009/status/2069518448627974397) (2026-06-30)
+- [dkare1009](https://x.com/dkare1009/status/2073383916832985331) (2026-07-05)
 - [ecomchigga](https://x.com/ecomchigga/status/2065176267637297566) (2026-06-13)
 - [googlecloud](https://x.com/googlecloud/status/2063244517575200828) (2026-06-09)
 - [googlecloud](https://x.com/googlecloud/status/2064505329006653571) (2026-06-10)
