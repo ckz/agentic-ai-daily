@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-06
-total_mentions: 83
+last_seen: 2026-07-07
+total_mentions: 86
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -11,6 +11,7 @@ total_mentions: 83
 - [0xMovez](https://x.com/0xMovez/status/2073765125958348964) (2026-07-06)
 - [0xchadx](https://x.com/0xchadx/status/2067862587174244810) (2026-06-19)
 - [AEON_Community](https://x.com/AEON_Community/status/2064694068677107745) (2026-06-11)
+- [AdelDeveloperX](https://x.com/AdelDeveloperX/status/2074195359199375745) (2026-07-07)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2065054167677170033) (2026-06-12)
 - [Arcane_Aii](https://x.com/Arcane_Aii/status/2064316482071171261) (2026-06-11)
 - [Argona0x](https://x.com/Argona0x/status/2065525815106769169) (2026-06-13)
@@ -24,6 +25,7 @@ total_mentions: 83
 - [DanKornas](https://x.com/DanKornas/status/2071847945373192192) (2026-06-30)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [Faazsh](https://x.com/Faazsh/status/2068572996076540315) (2026-06-21)
+- [FutureStacked](https://x.com/FutureStacked/status/2074159794030604515) (2026-07-07)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072410041945075729) (2026-07-04)
 - [Guelug](https://x.com/Guelug/status/2072092575947989385) (2026-07-01)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2065062300218749172) (2026-06-13)
@@ -56,6 +58,7 @@ total_mentions: 83
 - [cyrilXBT](https://x.com/cyrilXBT/status/2065324588054310985) (2026-06-12)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2068171479976677549) (2026-06-20)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2071817627484250139) (2026-06-30)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2074309927619924426) (2026-07-07)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [dr_cintas](https://x.com/dr_cintas/status/2072714904650359130) (2026-07-03)
 - [ekcheungAI](https://x.com/ekcheungAI/status/2068544526084386969) (2026-06-21)

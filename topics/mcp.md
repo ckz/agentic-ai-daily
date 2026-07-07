@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-07-06
-total_mentions: 240
+last_seen: 2026-07-07
+total_mentions: 247
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -83,14 +83,17 @@ total_mentions: 240
 - [SCavanna](https://x.com/SCavanna/status/2064009236741247345) (2026-06-10)
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2010406116157792354) (2026-06-09)
 - [Saccc_c](https://x.com/Saccc_c/status/2060963734546260426) (2026-06-07)
+- [SarvamAI](https://x.com/SarvamAI/status/2074116231461011764) (2026-07-07)
 - [SaurabhDub28465](https://x.com/SaurabhDub28465/status/2063452536972124604) (2026-06-07)
 - [ServerpodDev](https://x.com/ServerpodDev/status/2064307450392514790) (2026-06-10)
 - [SilenceCaPrompt](https://x.com/SilenceCaPrompt/status/2060769285224739159) (2026-06-06)
 - [Smartpigai](https://x.com/Smartpigai/status/2063095358075597009) (2026-06-08)
+- [Spectre__AI](https://x.com/Spectre__AI/status/2074395117297824093) (2026-07-07)
 - [StatsWire](https://x.com/StatsWire/status/2073263718453149877) (2026-07-04)
 - [Sumanth_077](https://x.com/Sumanth_077/status/2063254456834372040) (2026-06-07)
 - [SvpChain](https://x.com/SvpChain/status/2064935788345974954) (2026-06-11)
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2065300113254388162) (2026-06-12)
+- [Tanaypawar27](https://x.com/Tanaypawar27/status/2074344040125091936) (2026-07-07)
 - [ThePrimeagen](https://x.com/ThePrimeagen/status/2070507324762947761) (2026-06-27)
 - [VadimStrizheus](https://x.com/VadimStrizheus/status/2063489178348703902) (2026-06-10)
 - [Veltrxai](https://x.com/Veltrxai/status/2064777828512469024) (2026-06-12)
@@ -134,6 +137,7 @@ total_mentions: 240
 - [charliejhills](https://x.com/charliejhills/status/2061702209310761142) (2026-06-06)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
 - [coder_surya](https://x.com/coder_surya/status/2068597286230163759) (2026-06-21)
+- [coder_surya](https://x.com/coder_surya/status/2074093504188600351) (2026-07-07)
 - [cooltechtipz](https://x.com/cooltechtipz/status/2066394613410406460) (2026-06-15)
 - [cryptobuzzer03](https://x.com/cryptobuzzer03/status/2067855094327001574) (2026-06-19)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2060914969605189808) (2026-06-05)
@@ -142,6 +146,7 @@ total_mentions: 240
 - [cyrilXBT](https://x.com/cyrilXBT/status/2065624525232849284) (2026-06-13)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2068531655464345767) (2026-06-21)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2071058754905481234) (2026-06-28)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2074112431786426373) (2026-07-07)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [davemccollough](https://x.com/davemccollough/status/2064154192856670213) (2026-06-09)
 - [dkare1009](https://x.com/dkare1009/status/2073383916832985331) (2026-07-05)
@@ -208,10 +213,12 @@ total_mentions: 240
 - [polsia](https://x.com/polsia/status/2062988231151677690) (2026-06-05)
 - [polydao](https://x.com/polydao/status/2071832672066830847) (2026-07-01)
 - [precisox](https://x.com/precisox/status/2063510053211054189) (2026-06-08)
+- [precisox](https://x.com/precisox/status/2074294583643848959) (2026-07-07)
 - [promptparag](https://x.com/promptparag/status/2064311991842574695) (2026-06-10)
 - [rebel0x0](https://x.com/rebel0x0/status/2067186712758071385) (2026-06-19)
 - [ridark_eth](https://x.com/ridark_eth/status/2066216714644111431) (2026-06-15)
 - [ridark_eth](https://x.com/ridark_eth/status/2070966184967864667) (2026-06-29)
+- [ridark_eth](https://x.com/ridark_eth/status/2074254440861753628) (2026-07-07)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [sakhil_ai](https://x.com/sakhil_ai/status/2067798126279397885) (2026-06-19)

@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-06
-total_mentions: 43
+last_seen: 2026-07-07
+total_mentions: 46
 
 ## Related Tweets
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2061506641120641494) (2026-06-05)
@@ -11,12 +11,14 @@ total_mentions: 43
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065559824230957190) (2026-06-14)
 - [Colhodm](https://x.com/Colhodm/status/2072373857999098214) (2026-07-02)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
+- [FareaNFts](https://x.com/FareaNFts/status/2072985538756317458) (2026-07-07)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2071971609183678544) (2026-07-01)
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
 - [NVIDIAAI](https://x.com/NVIDIAAI/status/2069858097930121319) (2026-06-30)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
 - [SIGKITTEN](https://x.com/SIGKITTEN/status/1980809995823591805) (2026-06-12)
+- [SarvamAI](https://x.com/SarvamAI/status/2074116231461011764) (2026-07-07)
 - [TeksCreate](https://x.com/TeksCreate/status/2068138970131632591) (2026-06-20)
 - [TheValueist](https://x.com/TheValueist/status/2072334968940900744) (2026-07-03)
 - [XFreeze](https://x.com/XFreeze/status/2065333739312590983) (2026-06-12)
@@ -38,6 +40,7 @@ total_mentions: 43
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)
 - [lemondooe](https://x.com/lemondooe/status/2073312103167840581) (2026-07-04)
 - [mattpocockuk](https://x.com/mattpocockuk/status/2064663221718425660) (2026-06-11)
+- [milesdeutscher](https://x.com/milesdeutscher/status/2074378380385067230) (2026-07-07)
 - [monmiglobal](https://x.com/monmiglobal/status/2071399421997359236) (2026-06-29)
 - [pushmeet](https://x.com/pushmeet/status/2065917699222560928) (2026-06-15)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)

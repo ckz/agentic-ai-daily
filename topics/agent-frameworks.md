@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-07-06
-total_mentions: 163
+last_seen: 2026-07-07
+total_mentions: 169
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -16,6 +16,7 @@ total_mentions: 163
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2073021437963825410) (2026-07-05)
 - [Akasheth_](https://x.com/Akasheth_/status/2063933265954918837) (2026-06-10)
 - [Alacritic_Super](https://x.com/Alacritic_Super/status/2073340264895438850) (2026-07-05)
+- [AlchemyJ_io](https://x.com/AlchemyJ_io/status/2074319995035939293) (2026-07-07)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2062245225159111117) (2026-06-06)
 - [AndrewYNg](https://x.com/AndrewYNg/status/1975614372799283423) (2026-06-12)
 - [AnthropicAI](https://x.com/AnthropicAI/status/2066969532380721386) (2026-06-19)
@@ -37,12 +38,15 @@ total_mentions: 163
 - [DataChaz](https://x.com/DataChaz/status/2068952350077698446) (2026-06-28)
 - [DataChaz](https://x.com/DataChaz/status/2070415564510785812) (2026-06-27)
 - [DataScienceDojo](https://x.com/DataScienceDojo/status/2071624804575093052) (2026-06-30)
+- [DeRonin_](https://x.com/DeRonin_/status/2074134276551918043) (2026-07-07)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
 - [FastCompany](https://x.com/FastCompany/status/2063149004490149919) (2026-06-06)
 - [GoogleAI](https://x.com/GoogleAI/status/2062942864288387430) (2026-06-06)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2061578655050899715) (2026-06-07)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2062253446888063025) (2026-06-06)
+- [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2071989196122657141) (2026-07-07)
+- [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072044672780787973) (2026-07-07)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072382496348447168) (2026-07-02)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072410041945075729) (2026-07-04)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
@@ -73,9 +77,11 @@ total_mentions: 163
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2063086140799012963) (2026-06-06)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
 - [SilenceCaPrompt](https://x.com/SilenceCaPrompt/status/2060769285224739159) (2026-06-06)
+- [SpaceXAI](https://x.com/SpaceXAI/status/2072342803787702422) (2026-07-07)
 - [TeksCreate](https://x.com/TeksCreate/status/2068138970131632591) (2026-06-20)
 - [TheValueist](https://x.com/TheValueist/status/2072334968940900744) (2026-07-03)
 - [ThomasOrTK](https://x.com/ThomasOrTK/status/2072005642727158247) (2026-07-01)
+- [USB](https://x.com/USB/status/2074401622730363082) (2026-07-07)
 - [WesRoth](https://x.com/WesRoth/status/2063244515989713206) (2026-06-08)
 - [XFreeze](https://x.com/XFreeze/status/2072315431881453800) (2026-07-06)
 - [XiaomiMiMo](https://x.com/XiaomiMiMo/status/2064799879352959085) (2026-06-11)

@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-06
-total_mentions: 137
+last_seen: 2026-07-07
+total_mentions: 140
 
 ## Related Tweets
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
@@ -22,6 +22,7 @@ total_mentions: 137
 - [Cointelegraph](https://x.com/Cointelegraph/status/2063005594047467893) (2026-06-05)
 - [Dhruvam987](https://x.com/Dhruvam987/status/2067811478485582025) (2026-06-19)
 - [FundedPartners](https://x.com/FundedPartners/status/2066006946860110328) (2026-06-14)
+- [FundingPredicts](https://x.com/FundingPredicts/status/2074286339009229172) (2026-07-07)
 - [GAXEN10](https://x.com/GAXEN10/status/2068603068753596431) (2026-06-21)
 - [GrishinRobotics](https://x.com/GrishinRobotics/status/2067880410676187569) (2026-06-19)
 - [Helion_Energy](https://x.com/Helion_Energy/status/2062554317564108825) (2026-06-07)
@@ -37,6 +38,7 @@ total_mentions: 137
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
 - [Polymarket](https://x.com/Polymarket/status/2062960684309123535) (2026-06-05)
 - [Polymarket](https://x.com/Polymarket/status/2069569968258097367) (2026-06-28)
+- [Prasanjit_ui](https://x.com/Prasanjit_ui/status/2072617513079251312) (2026-07-07)
 - [RITESHGHODELA](https://x.com/RITESHGHODELA/status/2063136905282429213) (2026-06-06)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2032664263882674275) (2026-06-09)
 - [RuntimeBRT](https://x.com/RuntimeBRT/status/2063848536958288128) (2026-06-10)
@@ -66,6 +68,7 @@ total_mentions: 137
 - [amuse](https://x.com/amuse/status/2070118337607012363) (2026-07-02)
 - [ankurnagpal](https://x.com/ankurnagpal/status/2073858342196244665) (2026-07-06)
 - [anuraggoel](https://x.com/anuraggoel/status/2069218653137142074) (2026-06-30)
+- [arthur__penn](https://x.com/arthur__penn/status/2074352731238916503) (2026-07-07)
 - [athanzxyt](https://x.com/athanzxyt/status/2067660560607613032) (2026-06-19)
 - [aw_trades_](https://x.com/aw_trades_/status/2073794807323889781) (2026-07-06)
 - [awwstn](https://x.com/awwstn/status/2067750610963939571) (2026-06-19)
