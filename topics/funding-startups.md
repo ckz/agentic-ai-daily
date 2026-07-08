@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-07
-total_mentions: 140
+last_seen: 2026-07-08
+total_mentions: 143
 
 ## Related Tweets
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
@@ -65,6 +65,7 @@ total_mentions: 140
 - [aakashgupta](https://x.com/aakashgupta/status/2036653323978420322) (2026-07-05)
 - [aakrit](https://x.com/aakrit/status/2065778171912265899) (2026-06-14)
 - [adriablancafort](https://x.com/adriablancafort/status/2071688701651108309) (2026-06-30)
+- [amitisinvesting](https://x.com/amitisinvesting/status/2074651564136894627) (2026-07-08)
 - [amuse](https://x.com/amuse/status/2070118337607012363) (2026-07-02)
 - [ankurnagpal](https://x.com/ankurnagpal/status/2073858342196244665) (2026-07-06)
 - [anuraggoel](https://x.com/anuraggoel/status/2069218653137142074) (2026-06-30)
@@ -82,6 +83,7 @@ total_mentions: 140
 - [cb_doge](https://x.com/cb_doge/status/2072009965389443374) (2026-07-03)
 - [chamath](https://x.com/chamath/status/2071571183665881515) (2026-07-01)
 - [christophersaum](https://x.com/christophersaum/status/2069813347420119217) (2026-06-28)
+- [christophersaum](https://x.com/christophersaum/status/2074608938046104035) (2026-07-08)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
 - [coingecko](https://x.com/coingecko/status/2064572347433075107) (2026-06-10)
 - [craigweiss](https://x.com/craigweiss/status/2072127436310110488) (2026-07-01)
@@ -134,6 +136,7 @@ total_mentions: 140
 - [signulll](https://x.com/signulll/status/2064053145580278163) (2026-06-09)
 - [slash1sol](https://x.com/slash1sol/status/2033636802855374982) (2026-06-13)
 - [solovaultinfo](https://x.com/solovaultinfo/status/2068553835598241965) (2026-06-21)
+- [suni_code](https://x.com/suni_code/status/2073859515485974967) (2026-07-08)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2068965021514891696) (2026-06-27)
 - [twistartups](https://x.com/twistartups/status/2071744145119465724) (2026-07-02)

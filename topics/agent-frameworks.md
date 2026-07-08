@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-07-07
-total_mentions: 169
+last_seen: 2026-07-08
+total_mentions: 178
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -40,6 +40,7 @@ total_mentions: 169
 - [DataScienceDojo](https://x.com/DataScienceDojo/status/2071624804575093052) (2026-06-30)
 - [DeRonin_](https://x.com/DeRonin_/status/2074134276551918043) (2026-07-07)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2072415161374343198) (2026-07-08)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
 - [FastCompany](https://x.com/FastCompany/status/2063149004490149919) (2026-06-06)
 - [GoogleAI](https://x.com/GoogleAI/status/2062942864288387430) (2026-06-06)
@@ -49,6 +50,7 @@ total_mentions: 169
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072044672780787973) (2026-07-07)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072382496348447168) (2026-07-02)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072410041945075729) (2026-07-04)
+- [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2074600211364692029) (2026-07-08)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
 - [HackingDave](https://x.com/HackingDave/status/2069146467701256423) (2026-06-29)
 - [HarryBee_Yhu](https://x.com/HarryBee_Yhu/status/2067864020527292535) (2026-06-19)
@@ -67,6 +69,8 @@ total_mentions: 169
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2058615544048451842) (2026-07-04)
 - [LuizaJarovsky](https://x.com/LuizaJarovsky/status/2072664971616383227) (2026-07-03)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
+- [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
+- [MilkRoadAI](https://x.com/MilkRoadAI/status/2072187752402346407) (2026-07-08)
 - [NainsiDwiv50980](https://x.com/NainsiDwiv50980/status/2062154970229858372) (2026-06-06)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/1975269391244874103) (2026-06-08)
 - [OptimaiNetwork](https://x.com/OptimaiNetwork/status/2014178144429723810) (2026-06-10)
@@ -110,9 +114,11 @@ total_mentions: 169
 - [axiomos_](https://x.com/axiomos_/status/2072983092365811940) (2026-07-04)
 - [axon402](https://x.com/axon402/status/2064629815961854211) (2026-06-11)
 - [badidoyo](https://x.com/badidoyo/status/2071821032114061798) (2026-06-30)
+- [better_auth](https://x.com/better_auth/status/2074523839300513921) (2026-07-08)
 - [bostonavionics](https://x.com/bostonavionics/status/2063158549568684369) (2026-06-06)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
 - [coinbureau](https://x.com/coinbureau/status/2031222262112858286) (2026-06-09)
+- [coreyganim](https://x.com/coreyganim/status/2074426194418926020) (2026-07-08)
 - [dair_ai](https://x.com/dair_ai/status/2028480209033568475) (2026-06-13)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [dexhorthy](https://x.com/dexhorthy/status/2067286892786454855) (2026-06-19)
@@ -122,6 +128,7 @@ total_mentions: 169
 - [dkare1009](https://x.com/dkare1009/status/2073383916832985331) (2026-07-05)
 - [e_opore](https://x.com/e_opore/status/2073977846448451776) (2026-07-06)
 - [ecomchigga](https://x.com/ecomchigga/status/2065176267637297566) (2026-06-13)
+- [elora_khatun](https://x.com/elora_khatun/status/2074711871069032615) (2026-07-08)
 - [googlecloud](https://x.com/googlecloud/status/2063244517575200828) (2026-06-09)
 - [googlecloud](https://x.com/googlecloud/status/2064505329006653571) (2026-06-10)
 - [googlecloud_jp](https://x.com/googlecloud_jp/status/2064210883023118619) (2026-06-09)
@@ -149,9 +156,11 @@ total_mentions: 169
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [omarsar0](https://x.com/omarsar0/status/1846930425849303424) (2026-06-27)
 - [ordo_chain](https://x.com/ordo_chain/status/2073312746381181174) (2026-07-04)
+- [paywithmana](https://x.com/paywithmana/status/2074758476220473387) (2026-07-08)
 - [piyascode9](https://x.com/piyascode9/status/2060204362497224790) (2026-06-05)
 - [radiyal_agency](https://x.com/radiyal_agency/status/2072183621176504669) (2026-07-01)
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)
+- [riskfreemyth](https://x.com/riskfreemyth/status/2074508129346486679) (2026-07-08)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [sairahul1](https://x.com/sairahul1/status/2069421947390415189) (2026-06-28)

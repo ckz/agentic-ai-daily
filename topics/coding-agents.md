@@ -1,7 +1,7 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-07
+last_seen: 2026-07-08
 total_mentions: 46
 
 ## Related Tweets

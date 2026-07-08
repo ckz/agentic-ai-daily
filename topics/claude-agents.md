@@ -1,12 +1,13 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-07
-total_mentions: 86
+last_seen: 2026-07-08
+total_mentions: 92
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
 - [0xCodez](https://x.com/0xCodez/status/2065097407965127142) (2026-06-12)
+- [0xCodez](https://x.com/0xCodez/status/2074527573116133425) (2026-07-08)
 - [0xMovez](https://x.com/0xMovez/status/2057103411783307293) (2026-06-10)
 - [0xMovez](https://x.com/0xMovez/status/2073765125958348964) (2026-07-06)
 - [0xchadx](https://x.com/0xchadx/status/2067862587174244810) (2026-06-19)
@@ -23,21 +24,25 @@ total_mentions: 86
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DanKornas](https://x.com/DanKornas/status/2063154157511418092) (2026-06-06)
 - [DanKornas](https://x.com/DanKornas/status/2071847945373192192) (2026-06-30)
+- [DealsDhamaka](https://x.com/DealsDhamaka/status/2074664290293080496) (2026-07-08)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [Faazsh](https://x.com/Faazsh/status/2068572996076540315) (2026-06-21)
 - [FutureStacked](https://x.com/FutureStacked/status/2074159794030604515) (2026-07-07)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072410041945075729) (2026-07-04)
+- [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2074600211364692029) (2026-07-08)
 - [Guelug](https://x.com/Guelug/status/2072092575947989385) (2026-07-01)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2065062300218749172) (2026-06-13)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2073709900820099232) (2026-07-06)
 - [JJEnglert](https://x.com/JJEnglert/status/2064420538798260388) (2026-06-10)
 - [Jeyxbt](https://x.com/Jeyxbt/status/2067866973497868794) (2026-06-19)
+- [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
 - [Meituan_LongCat](https://x.com/Meituan_LongCat/status/2073768940078317713) (2026-07-06)
 - [MetaforDevs](https://x.com/MetaforDevs/status/2072474629852348684) (2026-07-02)
 - [NousResearch](https://x.com/NousResearch/status/2026759005633183980) (2026-06-07)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
 - [RegalosDigitals](https://x.com/RegalosDigitals/status/2071263024212508813) (2026-06-29)
+- [RoundtableSpace](https://x.com/RoundtableSpace/status/2074618209073078367) (2026-07-08)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
 - [WesRoth](https://x.com/WesRoth/status/2062398945607725142) (2026-06-10)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
@@ -83,6 +88,7 @@ total_mentions: 86
 - [shannholmberg](https://x.com/shannholmberg/status/2062652746508173796) (2026-06-06)
 - [sharbel](https://x.com/sharbel/status/2063369348828610886) (2026-06-11)
 - [stretchcloud](https://x.com/stretchcloud/status/2072215124958740898) (2026-07-01)
+- [stretchcloud](https://x.com/stretchcloud/status/2074649666608840706) (2026-07-08)
 - [tanayj](https://x.com/tanayj/status/2072108170080657729) (2026-07-01)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [timsneath](https://x.com/timsneath/status/2072479088661651612) (2026-07-02)

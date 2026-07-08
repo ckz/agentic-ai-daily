@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-07-07
-total_mentions: 247
+last_seen: 2026-07-08
+total_mentions: 254
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -14,6 +14,7 @@ total_mentions: 247
 - [AIonBase_](https://x.com/AIonBase_/status/2063002925761237147) (2026-06-05)
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2073021437963825410) (2026-07-05)
+- [AiwithDharmik](https://x.com/AiwithDharmik/status/2074701028499550480) (2026-07-08)
 - [Akasheth_](https://x.com/Akasheth_/status/2063933265954918837) (2026-06-10)
 - [Alacritic_Super](https://x.com/Alacritic_Super/status/2073340264895438850) (2026-07-05)
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2069720365442719867) (2026-06-27)
@@ -26,6 +27,7 @@ total_mentions: 247
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2063598644293484741) (2026-06-08)
 - [BitBlitzBuzz](https://x.com/BitBlitzBuzz/status/2070751322715148478) (2026-06-27)
 - [BradGroux](https://x.com/BradGroux/status/2065096482831659348) (2026-06-13)
+- [ClaudeCode_love](https://x.com/ClaudeCode_love/status/2074100297807614014) (2026-07-08)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2064072801062121906) (2026-06-09)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2067655887662272723) (2026-06-19)
 - [Clawnch_Bot](https://x.com/Clawnch_Bot/status/2069463550788067626) (2026-06-29)
@@ -59,6 +61,7 @@ total_mentions: 247
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2071929838265630850) (2026-07-04)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
 - [MCGlive](https://x.com/MCGlive/status/2063016512521441777) (2026-06-05)
+- [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
 - [MdRahi444797](https://x.com/MdRahi444797/status/2071118756919787756) (2026-06-28)
 - [MetaforDevs](https://x.com/MetaforDevs/status/2072474629852348684) (2026-07-02)
 - [MiguelMaestroIA](https://x.com/MiguelMaestroIA/status/2071655043615395956) (2026-06-30)
@@ -97,10 +100,12 @@ total_mentions: 247
 - [ThePrimeagen](https://x.com/ThePrimeagen/status/2070507324762947761) (2026-06-27)
 - [VadimStrizheus](https://x.com/VadimStrizheus/status/2063489178348703902) (2026-06-10)
 - [Veltrxai](https://x.com/Veltrxai/status/2064777828512469024) (2026-06-12)
+- [WenboGuo4](https://x.com/WenboGuo4/status/2074189902657544627) (2026-07-08)
 - [XDevelopers](https://x.com/XDevelopers/status/2071752389183647758) (2026-06-30)
 - [XFreeze](https://x.com/XFreeze/status/2065327439476375760) (2026-06-13)
 - [XFreeze](https://x.com/XFreeze/status/2071801039167336638) (2026-06-30)
 - [XFreeze](https://x.com/XFreeze/status/2072891163502080053) (2026-07-06)
+- [XenBH](https://x.com/XenBH/status/2074583978984485192) (2026-07-08)
 - [XiaomiMiMo](https://x.com/XiaomiMiMo/status/2064799879352959085) (2026-06-11)
 - [ZHENXINYU](https://x.com/ZHENXINYU/status/2064950271906889746) (2026-06-11)
 - [_Engr_tariq](https://x.com/_Engr_tariq/status/2068603345229562006) (2026-06-21)
@@ -173,9 +178,11 @@ total_mentions: 247
 - [gokulr](https://x.com/gokulr/status/2066673493811601737) (2026-06-21)
 - [gregisenberg](https://x.com/gregisenberg/status/1893687593755164940) (2026-07-03)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
+- [hellorob](https://x.com/hellorob/status/2074237901060399360) (2026-07-08)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [higgsfield](https://x.com/higgsfield/status/2064780036234969131) (2026-06-11)
 - [higgsfield](https://x.com/higgsfield/status/2064816074642825314) (2026-06-11)
+- [higgsfield](https://x.com/higgsfield/status/2074562885624418772) (2026-07-08)
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2062607081010864364) (2026-06-07)
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2064897496091140376) (2026-06-11)
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2072161434558201960) (2026-07-05)
