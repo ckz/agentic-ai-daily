@@ -1,11 +1,12 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-07-08
-total_mentions: 254
+last_seen: 2026-07-09
+total_mentions: 258
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
+- [0xCodez](https://x.com/0xCodez/status/2074865699214741897) (2026-07-09)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xMovez](https://x.com/0xMovez/status/2057103411783307293) (2026-06-10)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2063244577482440978) (2026-06-11)
@@ -128,6 +129,7 @@ total_mentions: 254
 - [ameliahazelai](https://x.com/ameliahazelai/status/2073345751892062531) (2026-07-06)
 - [angeldot_](https://x.com/angeldot_/status/2068306517258907873) (2026-06-21)
 - [arcads_ai](https://x.com/arcads_ai/status/2065046759743635529) (2026-06-12)
+- [arceyul](https://x.com/arceyul/status/2074582079807881440) (2026-07-09)
 - [architeqtai](https://x.com/architeqtai/status/2065343364166299693) (2026-06-12)
 - [arnaudmercier](https://x.com/arnaudmercier/status/2072179223339348311) (2026-07-01)
 - [aryanXmahajan](https://x.com/aryanXmahajan/status/2067677589247082656) (2026-06-19)
@@ -254,8 +256,10 @@ total_mentions: 254
 - [tom_doerr](https://x.com/tom_doerr/status/2071309381455519803) (2026-06-29)
 - [undefinedKi](https://x.com/undefinedKi/status/2066159485652025597) (2026-06-15)
 - [undefinedKi](https://x.com/undefinedKi/status/2071931934012211642) (2026-07-02)
+- [undefinedKi](https://x.com/undefinedKi/status/2074978611447365998) (2026-07-09)
 - [waveking1314](https://x.com/waveking1314/status/2063261659259400349) (2026-06-07)
 - [wsmaisys](https://x.com/wsmaisys/status/2068239014780452953) (2026-06-20)
 - [xiaoying_eth](https://x.com/xiaoying_eth/status/2064183483795460502) (2026-06-10)
 - [yozm_it](https://x.com/yozm_it/status/2071417501792211397) (2026-06-29)
 - [zackpaid](https://x.com/zackpaid/status/2065125827864678420) (2026-06-12)
+- [zaynmcps](https://x.com/zaynmcps/status/2074856361595179240) (2026-07-09)

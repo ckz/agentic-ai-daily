@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-08
-total_mentions: 46
+last_seen: 2026-07-09
+total_mentions: 47
 
 ## Related Tweets
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2061506641120641494) (2026-06-05)
@@ -42,6 +42,7 @@ total_mentions: 46
 - [mattpocockuk](https://x.com/mattpocockuk/status/2064663221718425660) (2026-06-11)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2074378380385067230) (2026-07-07)
 - [monmiglobal](https://x.com/monmiglobal/status/2071399421997359236) (2026-06-29)
+- [orbiteditor](https://x.com/orbiteditor/status/2075064330325041395) (2026-07-09)
 - [pushmeet](https://x.com/pushmeet/status/2065917699222560928) (2026-06-15)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
 - [rebel0x0](https://x.com/rebel0x0/status/2067186712758071385) (2026-06-19)

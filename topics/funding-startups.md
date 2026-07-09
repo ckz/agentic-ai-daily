@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-08
-total_mentions: 143
+last_seen: 2026-07-09
+total_mentions: 145
 
 ## Related Tweets
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
@@ -133,6 +133,7 @@ total_mentions: 143
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [samsenchal](https://x.com/samsenchal/status/2068605085089693994) (2026-06-21)
 - [sean_wallace_](https://x.com/sean_wallace_/status/2063994540873433201) (2026-06-09)
+- [shmidtqq](https://x.com/shmidtqq/status/2074446282303639911) (2026-07-09)
 - [signulll](https://x.com/signulll/status/2064053145580278163) (2026-06-09)
 - [slash1sol](https://x.com/slash1sol/status/2033636802855374982) (2026-06-13)
 - [solovaultinfo](https://x.com/solovaultinfo/status/2068553835598241965) (2026-06-21)
@@ -144,6 +145,7 @@ total_mentions: 143
 - [unusual_whales](https://x.com/unusual_whales/status/2069766741404844484) (2026-07-01)
 - [vigneshxtech](https://x.com/vigneshxtech/status/2068597287010349323) (2026-06-21)
 - [vipulved](https://x.com/vipulved/status/2072321276094673083) (2026-07-02)
+- [wickedguro](https://x.com/wickedguro/status/2072654822449586327) (2026-07-09)
 - [xandurglar](https://x.com/xandurglar/status/2070179038417821777) (2026-06-29)
 - [ycombinator](https://x.com/ycombinator/status/2062202902543016140) (2026-06-05)
 - [ycombinator](https://x.com/ycombinator/status/2069110874242252853) (2026-06-28)

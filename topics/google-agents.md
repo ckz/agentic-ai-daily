@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-08
-total_mentions: 40
+last_seen: 2026-07-09
+total_mentions: 42
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -18,6 +18,7 @@ total_mentions: 40
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072044672780787973) (2026-07-07)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072382496348447168) (2026-07-02)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2074600211364692029) (2026-07-08)
+- [GoogleCloud_IL](https://x.com/GoogleCloud_IL/status/2075120271111954818) (2026-07-09)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2074384746076135575) (2026-07-07)
 - [Hesamation](https://x.com/Hesamation/status/1970585800325640372) (2026-06-07)
@@ -41,6 +42,7 @@ total_mentions: 40
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2072629472306528655) (2026-07-03)
+- [sandy4kad](https://x.com/sandy4kad/status/2074948658953593102) (2026-07-09)
 - [sentient_agency](https://x.com/sentient_agency/status/2071538650425528367) (2026-07-01)
 - [sharbel](https://x.com/sharbel/status/2063369348828610886) (2026-06-11)
 - [shedoesai](https://x.com/shedoesai/status/2054227691671556145) (2026-06-12)

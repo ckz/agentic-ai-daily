@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-07-08
-total_mentions: 178
+last_seen: 2026-07-09
+total_mentions: 184
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -51,6 +51,7 @@ total_mentions: 178
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072382496348447168) (2026-07-02)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072410041945075729) (2026-07-04)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2074600211364692029) (2026-07-08)
+- [GoogleCloud_IL](https://x.com/GoogleCloud_IL/status/2075120271111954818) (2026-07-09)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
 - [HackingDave](https://x.com/HackingDave/status/2069146467701256423) (2026-06-29)
 - [HarryBee_Yhu](https://x.com/HarryBee_Yhu/status/2067864020527292535) (2026-06-19)
@@ -83,9 +84,11 @@ total_mentions: 178
 - [SilenceCaPrompt](https://x.com/SilenceCaPrompt/status/2060769285224739159) (2026-06-06)
 - [SpaceXAI](https://x.com/SpaceXAI/status/2072342803787702422) (2026-07-07)
 - [TeksCreate](https://x.com/TeksCreate/status/2068138970131632591) (2026-06-20)
+- [TheHackersNews](https://x.com/TheHackersNews/status/2074845892067426604) (2026-07-09)
 - [TheValueist](https://x.com/TheValueist/status/2072334968940900744) (2026-07-03)
 - [ThomasOrTK](https://x.com/ThomasOrTK/status/2072005642727158247) (2026-07-01)
 - [USB](https://x.com/USB/status/2074401622730363082) (2026-07-07)
+- [VivekIntel](https://x.com/VivekIntel/status/2073810331827343525) (2026-07-09)
 - [WesRoth](https://x.com/WesRoth/status/2063244515989713206) (2026-06-08)
 - [XFreeze](https://x.com/XFreeze/status/2072315431881453800) (2026-07-06)
 - [XiaomiMiMo](https://x.com/XiaomiMiMo/status/2064799879352959085) (2026-06-11)
@@ -119,6 +122,7 @@ total_mentions: 178
 - [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
 - [coinbureau](https://x.com/coinbureau/status/2031222262112858286) (2026-06-09)
 - [coreyganim](https://x.com/coreyganim/status/2074426194418926020) (2026-07-08)
+- [csaba_kissi](https://x.com/csaba_kissi/status/2074745257099485319) (2026-07-09)
 - [dair_ai](https://x.com/dair_ai/status/2028480209033568475) (2026-06-13)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [dexhorthy](https://x.com/dexhorthy/status/2067286892786454855) (2026-06-19)
@@ -148,6 +152,7 @@ total_mentions: 178
 - [islam_naserr](https://x.com/islam_naserr/status/2065299167560257970) (2026-06-12)
 - [johnvirality](https://x.com/johnvirality/status/2070571963555152330) (2026-06-29)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
+- [leopardracer](https://x.com/leopardracer/status/2074442479739318455) (2026-07-09)
 - [mastra](https://x.com/mastra/status/2062617888478183564) (2026-06-05)
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [michyexe](https://x.com/michyexe/status/2000613204116844826) (2026-06-15)
@@ -166,6 +171,7 @@ total_mentions: 178
 - [sairahul1](https://x.com/sairahul1/status/2069421947390415189) (2026-06-28)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [salesforce](https://x.com/salesforce/status/2066491445586858173) (2026-06-28)
+- [sandy4kad](https://x.com/sandy4kad/status/2074948658953593102) (2026-07-09)
 - [seelffff](https://x.com/seelffff/status/2071118707405816250) (2026-06-29)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
 - [sentient_agency](https://x.com/sentient_agency/status/2071538650425528367) (2026-07-01)
