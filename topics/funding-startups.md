@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-09
-total_mentions: 145
+last_seen: 2026-07-10
+total_mentions: 148
 
 ## Related Tweets
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
@@ -128,6 +128,7 @@ total_mentions: 145
 - [peer_rich](https://x.com/peer_rich/status/2062949788081897633) (2026-06-05)
 - [pierreeliottlal](https://x.com/pierreeliottlal/status/2066037831626362988) (2026-06-14)
 - [ridark_eth](https://x.com/ridark_eth/status/2068120584047804649) (2026-06-20)
+- [rihntv](https://x.com/rihntv/status/2075390652284654046) (2026-07-10)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2065184524754112720) (2026-06-14)
 - [rsngprad](https://x.com/rsngprad/status/2072630117218791745) (2026-07-05)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
@@ -137,7 +138,9 @@ total_mentions: 145
 - [signulll](https://x.com/signulll/status/2064053145580278163) (2026-06-09)
 - [slash1sol](https://x.com/slash1sol/status/2033636802855374982) (2026-06-13)
 - [solovaultinfo](https://x.com/solovaultinfo/status/2068553835598241965) (2026-06-21)
+- [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
 - [suni_code](https://x.com/suni_code/status/2073859515485974967) (2026-07-08)
+- [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2068965021514891696) (2026-06-27)
 - [twistartups](https://x.com/twistartups/status/2071744145119465724) (2026-07-02)

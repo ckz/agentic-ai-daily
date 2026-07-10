@@ -1,14 +1,15 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-07-09
-total_mentions: 258
+last_seen: 2026-07-10
+total_mentions: 262
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
 - [0xCodez](https://x.com/0xCodez/status/2074865699214741897) (2026-07-09)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xMovez](https://x.com/0xMovez/status/2057103411783307293) (2026-06-10)
+- [0xMovez](https://x.com/0xMovez/status/2075295372423868917) (2026-07-10)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2063244577482440978) (2026-06-11)
 - [AIWarper](https://x.com/AIWarper/status/2070535586075885912) (2026-06-27)
 - [AIdanSolves](https://x.com/AIdanSolves/status/2073162229533262290) (2026-07-04)
@@ -84,6 +85,7 @@ total_mentions: 258
 - [RhysSullivan](https://x.com/RhysSullivan/status/2073538819132207489) (2026-07-05)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2062961399387861119) (2026-06-06)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2065981298087530958) (2026-06-14)
+- [RoundtableSpace](https://x.com/RoundtableSpace/status/2075433581539672149) (2026-07-10)
 - [SCavanna](https://x.com/SCavanna/status/2064009236741247345) (2026-06-10)
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2010406116157792354) (2026-06-09)
 - [Saccc_c](https://x.com/Saccc_c/status/2060963734546260426) (2026-06-07)
@@ -143,6 +145,7 @@ total_mentions: 258
 - [chanducore](https://x.com/chanducore/status/2065670751781589413) (2026-06-13)
 - [charliejhills](https://x.com/charliejhills/status/2061702209310761142) (2026-06-06)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
+- [cnemalek](https://x.com/cnemalek/status/2075124631090954361) (2026-07-10)
 - [coder_surya](https://x.com/coder_surya/status/2068597286230163759) (2026-06-21)
 - [coder_surya](https://x.com/coder_surya/status/2074093504188600351) (2026-07-07)
 - [cooltechtipz](https://x.com/cooltechtipz/status/2066394613410406460) (2026-06-15)
@@ -228,6 +231,7 @@ total_mentions: 258
 - [ridark_eth](https://x.com/ridark_eth/status/2066216714644111431) (2026-06-15)
 - [ridark_eth](https://x.com/ridark_eth/status/2070966184967864667) (2026-06-29)
 - [ridark_eth](https://x.com/ridark_eth/status/2074254440861753628) (2026-07-07)
+- [rom1trs](https://x.com/rom1trs/status/2074490914248990760) (2026-07-10)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [sakhil_ai](https://x.com/sakhil_ai/status/2067798126279397885) (2026-06-19)

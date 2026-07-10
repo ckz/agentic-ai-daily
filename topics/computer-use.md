@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-07-09
-total_mentions: 18
+last_seen: 2026-07-10
+total_mentions: 20
 
 ## Related Tweets
 - [BullTheoryio](https://x.com/BullTheoryio/status/2064410897486160099) (2026-06-10)
@@ -11,6 +11,7 @@ total_mentions: 18
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [Mascobot](https://x.com/Mascobot/status/2065102985362026958) (2026-06-12)
 - [WesRoth](https://x.com/WesRoth/status/2063833395298533464) (2026-06-10)
+- [aakashgupta](https://x.com/aakashgupta/status/2075353796671090794) (2026-07-10)
 - [adcock_brett](https://x.com/adcock_brett/status/2070674685575209066) (2026-06-27)
 - [amasad](https://x.com/amasad/status/2065452585964949831) (2026-06-15)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
@@ -21,5 +22,6 @@ total_mentions: 18
 - [gkxspace](https://x.com/gkxspace/status/2068546908360999331) (2026-06-21)
 - [jxnlco](https://x.com/jxnlco/status/2070577704752267321) (2026-06-27)
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2073646837894992126) (2026-07-05)
+- [milesdeutscher](https://x.com/milesdeutscher/status/2075469825514824153) (2026-07-10)
 - [rubenhassid](https://x.com/rubenhassid/status/2063138819856101667) (2026-06-07)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
