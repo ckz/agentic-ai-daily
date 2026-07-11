@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-10
-total_mentions: 148
+last_seen: 2026-07-11
+total_mentions: 151
 
 ## Related Tweets
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
@@ -49,6 +49,7 @@ total_mentions: 148
 - [SpikeCalls](https://x.com/SpikeCalls/status/2063529090091532540) (2026-06-08)
 - [StartupArchive_](https://x.com/StartupArchive_/status/2061052571876520406) (2026-06-07)
 - [Steve8708](https://x.com/Steve8708/status/2041909436059615442) (2026-06-06)
+- [SureLeverage](https://x.com/SureLeverage/status/2074846284838846589) (2026-07-11)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2062153533630415305) (2026-06-08)
 - [TheStartupsMag](https://x.com/TheStartupsMag/status/2068604981318488305) (2026-06-21)
 - [TheoAugust8](https://x.com/TheoAugust8/status/2063166492519158257) (2026-06-06)
@@ -109,6 +110,7 @@ total_mentions: 148
 - [itsolelehmann](https://x.com/itsolelehmann/status/2062909345537634686) (2026-06-10)
 - [james406](https://x.com/james406/status/2055362680299434300) (2026-06-09)
 - [jason_coder0](https://x.com/jason_coder0/status/2072219162135666801) (2026-07-01)
+- [jiahanjimliu](https://x.com/jiahanjimliu/status/2075804539111043085) (2026-07-11)
 - [jomatech](https://x.com/jomatech/status/2071058503805124918) (2026-06-28)
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)
@@ -140,6 +142,7 @@ total_mentions: 148
 - [solovaultinfo](https://x.com/solovaultinfo/status/2068553835598241965) (2026-06-21)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
 - [suni_code](https://x.com/suni_code/status/2073859515485974967) (2026-07-08)
+- [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2068965021514891696) (2026-06-27)

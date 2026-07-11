@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-10
-total_mentions: 43
+last_seen: 2026-07-11
+total_mentions: 44
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -36,6 +36,7 @@ total_mentions: 43
 - [googlecloud_jp](https://x.com/googlecloud_jp/status/2064210883023118619) (2026-06-09)
 - [googlecloud_jp](https://x.com/googlecloud_jp/status/2071473742488740078) (2026-06-30)
 - [googledevs](https://x.com/googledevs/status/2072319312824537586) (2026-07-02)
+- [googledevs](https://x.com/googledevs/status/2075251776606093457) (2026-07-11)
 - [googlegemma](https://x.com/googlegemma/status/2064742570417180894) (2026-06-14)
 - [gregisenberg](https://x.com/gregisenberg/status/2052110589682749869) (2026-07-03)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)

@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-07-10
-total_mentions: 199
+last_seen: 2026-07-11
+total_mentions: 202
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -36,6 +36,7 @@ total_mentions: 199
 - [DamiDefi](https://x.com/DamiDefi/status/2037456942684332232) (2026-07-10)
 - [DamiDefi](https://x.com/DamiDefi/status/2068598041368826125) (2026-06-21)
 - [DamiDefi](https://x.com/DamiDefi/status/2073791513092403440) (2026-07-06)
+- [DamiDefi](https://x.com/DamiDefi/status/2075256414616838532) (2026-07-11)
 - [DanKornas](https://x.com/DanKornas/status/2072195733927706691) (2026-07-01)
 - [DataChaz](https://x.com/DataChaz/status/2068952350077698446) (2026-06-28)
 - [DataChaz](https://x.com/DataChaz/status/2070415564510785812) (2026-06-27)
@@ -75,6 +76,7 @@ total_mentions: 199
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
 - [MilkRoadAI](https://x.com/MilkRoadAI/status/2072187752402346407) (2026-07-08)
+- [MrOnsase](https://x.com/MrOnsase/status/2075841247223165124) (2026-07-11)
 - [NainsiDwiv50980](https://x.com/NainsiDwiv50980/status/2062154970229858372) (2026-06-06)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/1975269391244874103) (2026-06-08)
 - [OptimaiNetwork](https://x.com/OptimaiNetwork/status/2014178144429723810) (2026-06-10)
@@ -159,6 +161,7 @@ total_mentions: 199
 - [iamlukethedev](https://x.com/iamlukethedev/status/2063081062473859097) (2026-06-06)
 - [ipfconline1](https://x.com/ipfconline1/status/2066408115369656823) (2026-06-15)
 - [islam_naserr](https://x.com/islam_naserr/status/2065299167560257970) (2026-06-12)
+- [it_unprofession](https://x.com/it_unprofession/status/2074958200663953854) (2026-07-11)
 - [johnvirality](https://x.com/johnvirality/status/2070571963555152330) (2026-06-29)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [lablabai](https://x.com/lablabai/status/2011441661466042529) (2026-07-10)

@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-10
-total_mentions: 92
+last_seen: 2026-07-11
+total_mentions: 95
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -11,6 +11,7 @@ total_mentions: 92
 - [0xMovez](https://x.com/0xMovez/status/2057103411783307293) (2026-06-10)
 - [0xMovez](https://x.com/0xMovez/status/2073765125958348964) (2026-07-06)
 - [0xchadx](https://x.com/0xchadx/status/2067862587174244810) (2026-06-19)
+- [0xclayn](https://x.com/0xclayn/status/2075292493218721894) (2026-07-11)
 - [AEON_Community](https://x.com/AEON_Community/status/2064694068677107745) (2026-06-11)
 - [AdelDeveloperX](https://x.com/AdelDeveloperX/status/2074195359199375745) (2026-07-07)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2065054167677170033) (2026-06-12)
@@ -24,6 +25,7 @@ total_mentions: 92
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DanKornas](https://x.com/DanKornas/status/2063154157511418092) (2026-06-06)
 - [DanKornas](https://x.com/DanKornas/status/2071847945373192192) (2026-06-30)
+- [DataChaz](https://x.com/DataChaz/status/2075204287223697636) (2026-07-11)
 - [DealsDhamaka](https://x.com/DealsDhamaka/status/2074664290293080496) (2026-07-08)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [Faazsh](https://x.com/Faazsh/status/2068572996076540315) (2026-06-21)
@@ -64,6 +66,7 @@ total_mentions: 92
 - [cyrilXBT](https://x.com/cyrilXBT/status/2068171479976677549) (2026-06-20)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2071817627484250139) (2026-06-30)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2074309927619924426) (2026-07-07)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2075195764855242950) (2026-07-11)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [dr_cintas](https://x.com/dr_cintas/status/2072714904650359130) (2026-07-03)
 - [ekcheungAI](https://x.com/ekcheungAI/status/2068544526084386969) (2026-06-21)

@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-10
-total_mentions: 47
+last_seen: 2026-07-11
+total_mentions: 49
 
 ## Related Tweets
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2061506641120641494) (2026-06-05)
@@ -16,10 +16,12 @@ total_mentions: 47
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2071971609183678544) (2026-07-01)
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
 - [NVIDIAAI](https://x.com/NVIDIAAI/status/2069858097930121319) (2026-06-30)
+- [OpenAIDevs](https://x.com/OpenAIDevs/status/2075275868268789885) (2026-07-11)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
 - [SIGKITTEN](https://x.com/SIGKITTEN/status/1980809995823591805) (2026-06-12)
 - [SarvamAI](https://x.com/SarvamAI/status/2074116231461011764) (2026-07-07)
 - [TeksCreate](https://x.com/TeksCreate/status/2068138970131632591) (2026-06-20)
+- [TeksEdge](https://x.com/TeksEdge/status/2075437935265190020) (2026-07-11)
 - [TheValueist](https://x.com/TheValueist/status/2072334968940900744) (2026-07-03)
 - [XFreeze](https://x.com/XFreeze/status/2065333739312590983) (2026-06-12)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
