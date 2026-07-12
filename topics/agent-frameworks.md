@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-07-11
-total_mentions: 202
+last_seen: 2026-07-12
+total_mentions: 206
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -54,6 +54,7 @@ total_mentions: 202
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072382496348447168) (2026-07-02)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072410041945075729) (2026-07-04)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2074600211364692029) (2026-07-08)
+- [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2076018689329991793) (2026-07-12)
 - [GoogleCloud_IL](https://x.com/GoogleCloud_IL/status/2075120271111954818) (2026-07-09)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
 - [HackingDave](https://x.com/HackingDave/status/2069146467701256423) (2026-06-29)
@@ -116,6 +117,7 @@ total_mentions: 202
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2070587039679185397) (2026-06-27)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2071509401224261823) (2026-06-30)
 - [alex_prompter](https://x.com/alex_prompter/status/2071609730293022963) (2026-06-30)
+- [alex_verem](https://x.com/alex_verem/status/2075994424484732984) (2026-07-12)
 - [alliekmiller](https://x.com/alliekmiller/status/2064451731325415446) (2026-06-10)
 - [arbitrum](https://x.com/arbitrum/status/1907530213119885730) (2026-07-10)
 - [ardizor](https://x.com/ardizor/status/2062571108021215563) (2026-06-05)
@@ -127,8 +129,10 @@ total_mentions: 202
 - [axon402](https://x.com/axon402/status/2064629815961854211) (2026-06-11)
 - [badidoyo](https://x.com/badidoyo/status/2071821032114061798) (2026-06-30)
 - [better_auth](https://x.com/better_auth/status/2074523839300513921) (2026-07-08)
+- [bindureddy](https://x.com/bindureddy/status/2076165296977858836) (2026-07-12)
 - [bostonavionics](https://x.com/bostonavionics/status/2063158549568684369) (2026-06-06)
 - [chandan1_](https://x.com/chandan1_/status/1874874423062278335) (2026-07-10)
+- [chenzeling4](https://x.com/chenzeling4/status/2075581564088668195) (2026-07-12)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
 - [coinbureau](https://x.com/coinbureau/status/2031222262112858286) (2026-06-09)
 - [coreyganim](https://x.com/coreyganim/status/2074426194418926020) (2026-07-08)

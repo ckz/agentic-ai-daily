@@ -1,13 +1,14 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-11
-total_mentions: 95
+last_seen: 2026-07-12
+total_mentions: 97
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
 - [0xCodez](https://x.com/0xCodez/status/2065097407965127142) (2026-06-12)
 - [0xCodez](https://x.com/0xCodez/status/2074527573116133425) (2026-07-08)
+- [0xCodez](https://x.com/0xCodez/status/2075932575147733290) (2026-07-12)
 - [0xMovez](https://x.com/0xMovez/status/2057103411783307293) (2026-06-10)
 - [0xMovez](https://x.com/0xMovez/status/2073765125958348964) (2026-07-06)
 - [0xchadx](https://x.com/0xchadx/status/2067862587174244810) (2026-06-19)
@@ -78,6 +79,7 @@ total_mentions: 95
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
+- [jamonholmgren](https://x.com/jamonholmgren/status/2076001786700394610) (2026-07-12)
 - [jaredrhod](https://x.com/jaredrhod/status/2073840273914728935) (2026-07-06)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [kunalstwt](https://x.com/kunalstwt/status/2073978095644643520) (2026-07-06)

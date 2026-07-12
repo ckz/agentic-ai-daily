@@ -1,12 +1,13 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-07-11
-total_mentions: 267
+last_seen: 2026-07-12
+total_mentions: 273
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
 - [0xCodez](https://x.com/0xCodez/status/2074865699214741897) (2026-07-09)
+- [0xCodez](https://x.com/0xCodez/status/2075932575147733290) (2026-07-12)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xMovez](https://x.com/0xMovez/status/2057103411783307293) (2026-06-10)
 - [0xMovez](https://x.com/0xMovez/status/2075295372423868917) (2026-07-10)
@@ -103,6 +104,7 @@ total_mentions: 267
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2065300113254388162) (2026-06-12)
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2074344040125091936) (2026-07-07)
 - [ThePrimeagen](https://x.com/ThePrimeagen/status/2070507324762947761) (2026-06-27)
+- [V8X_Team](https://x.com/V8X_Team/status/2076066812458885461) (2026-07-12)
 - [VadimStrizheus](https://x.com/VadimStrizheus/status/2063489178348703902) (2026-06-10)
 - [Veltrxai](https://x.com/Veltrxai/status/2064777828512469024) (2026-06-12)
 - [WenboGuo4](https://x.com/WenboGuo4/status/2074189902657544627) (2026-07-08)
@@ -147,6 +149,7 @@ total_mentions: 267
 - [chanducore](https://x.com/chanducore/status/2065670751781589413) (2026-06-13)
 - [charliejhills](https://x.com/charliejhills/status/2061702209310761142) (2026-06-06)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
+- [chenzeling4](https://x.com/chenzeling4/status/2075581564088668195) (2026-07-12)
 - [cnemalek](https://x.com/cnemalek/status/2075124631090954361) (2026-07-10)
 - [coder_surya](https://x.com/coder_surya/status/2068597286230163759) (2026-06-21)
 - [coder_surya](https://x.com/coder_surya/status/2074093504188600351) (2026-07-07)
@@ -237,14 +240,17 @@ total_mentions: 267
 - [ridark_eth](https://x.com/ridark_eth/status/2074254440861753628) (2026-07-07)
 - [rom1trs](https://x.com/rom1trs/status/2074119000137601528) (2026-07-11)
 - [rom1trs](https://x.com/rom1trs/status/2074490914248990760) (2026-07-10)
+- [rom1trs](https://x.com/rom1trs/status/2075193811186172355) (2026-07-12)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
+- [sairahul1](https://x.com/sairahul1/status/2075875493665198368) (2026-07-12)
 - [sakhil_ai](https://x.com/sakhil_ai/status/2067798126279397885) (2026-06-19)
 - [sharbel](https://x.com/sharbel/status/2070812435653464323) (2026-06-28)
 - [shedntcare_](https://x.com/shedntcare_/status/2066124333559480395) (2026-06-21)
 - [shedoesai](https://x.com/shedoesai/status/2054227691671556145) (2026-06-12)
 - [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)
 - [shushant_l](https://x.com/shushant_l/status/2071096264339620159) (2026-06-28)
+- [silvanrec](https://x.com/silvanrec/status/2075996434961240505) (2026-07-12)
 - [sixtria](https://x.com/sixtria/status/2067853856709779883) (2026-06-19)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
 - [stretchcloud](https://x.com/stretchcloud/status/2072215124958740898) (2026-07-01)

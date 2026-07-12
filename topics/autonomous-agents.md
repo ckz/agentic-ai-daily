@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-11
-total_mentions: 478
+last_seen: 2026-07-12
+total_mentions: 489
 
 ## Related Tweets
 - [0x404page](https://x.com/0x404page/status/2065428594638369189) (2026-06-19)
@@ -14,6 +14,7 @@ total_mentions: 478
 - [0xCodez](https://x.com/0xCodez/status/2074527573116133425) (2026-07-08)
 - [0xCodez](https://x.com/0xCodez/status/2074865699214741897) (2026-07-09)
 - [0xCodez](https://x.com/0xCodez/status/2075243533515014238) (2026-07-10)
+- [0xCodez](https://x.com/0xCodez/status/2075932575147733290) (2026-07-12)
 - [0xCodila](https://x.com/0xCodila/status/2074639576107274693) (2026-07-08)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xMovez](https://x.com/0xMovez/status/2063989380583137587) (2026-06-09)
@@ -35,6 +36,7 @@ total_mentions: 478
 - [AEON_Community](https://x.com/AEON_Community/status/2064694068677107745) (2026-06-11)
 - [AIEconomicsUS](https://x.com/AIEconomicsUS/status/2067518067714806161) (2026-06-19)
 - [AIHighlight](https://x.com/AIHighlight/status/2072712459857645721) (2026-07-04)
+- [AITECHio](https://x.com/AITECHio/status/2075852934966104133) (2026-07-12)
 - [AI_in_Asia](https://x.com/AI_in_Asia/status/2073665028629090615) (2026-07-05)
 - [AIatMeta](https://x.com/AIatMeta/status/2074577662840832382) (2026-07-08)
 - [AIdanSolves](https://x.com/AIdanSolves/status/2073162229533262290) (2026-07-04)
@@ -62,6 +64,7 @@ total_mentions: 478
 - [Argona0x](https://x.com/Argona0x/status/2065525815106769169) (2026-06-13)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2064500150069030992) (2026-06-10)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065559824230957190) (2026-06-14)
+- [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2074194764510208230) (2026-07-12)
 - [Artificialunbox](https://x.com/Artificialunbox/status/2068215362114715908) (2026-06-20)
 - [Ausmi129124](https://x.com/Ausmi129124/status/2068589738534260929) (2026-06-21)
 - [Av1dlive](https://x.com/Av1dlive/status/2074796427595874636) (2026-07-10)
@@ -176,6 +179,8 @@ total_mentions: 478
 - [NVIDIAAP](https://x.com/NVIDIAAP/status/2066370113733787732) (2026-06-15)
 - [NainsiDwiv50980](https://x.com/NainsiDwiv50980/status/2062154970229858372) (2026-06-06)
 - [NainsiDwiv50980](https://x.com/NainsiDwiv50980/status/2066035332169269264) (2026-06-14)
+- [NavenNetwork](https://x.com/NavenNetwork/status/2075957359760027728) (2026-07-12)
+- [NavenNetwork](https://x.com/NavenNetwork/status/2076052785846730895) (2026-07-12)
 - [NehraWorkss](https://x.com/NehraWorkss/status/2068567171610120693) (2026-06-21)
 - [NotebookLM](https://x.com/NotebookLM/status/2064016460964585549) (2026-06-11)
 - [NousResearch](https://x.com/NousResearch/status/2026759005633183980) (2026-06-07)
@@ -296,6 +301,7 @@ total_mentions: 478
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1872809091799875592) (2026-06-29)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1879706901170077978) (2026-06-11)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1890778947736027621) (2026-06-10)
+- [crystal_farm1](https://x.com/crystal_farm1/status/2076198578448367666) (2026-07-12)
 - [csaba_kissi](https://x.com/csaba_kissi/status/2074745257099485319) (2026-07-09)
 - [cwolferesearch](https://x.com/cwolferesearch/status/2068471261441802514) (2026-06-21)
 - [cyberoxic_OG](https://x.com/cyberoxic_OG/status/2068229943604216187) (2026-06-20)
@@ -360,6 +366,7 @@ total_mentions: 478
 - [iam_elias1](https://x.com/iam_elias1/status/2062095528742240319) (2026-06-05)
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
 - [iamriteshverma](https://x.com/iamriteshverma/status/2068569760196108667) (2026-06-21)
+- [ibab](https://x.com/ibab/status/1955741698690322585) (2026-07-12)
 - [imarun_chauhan](https://x.com/imarun_chauhan/status/2063878197457134003) (2026-06-08)
 - [injective](https://x.com/injective/status/1867794623843958899) (2026-06-05)
 - [injective](https://x.com/injective/status/1881721788834672928) (2026-06-05)
@@ -370,6 +377,7 @@ total_mentions: 478
 - [itsmichaelluu](https://x.com/itsmichaelluu/status/2065418678624002300) (2026-06-14)
 - [ivaavimusic](https://x.com/ivaavimusic/status/2074850981804978658) (2026-07-09)
 - [jalajboy](https://x.com/jalajboy/status/2072538286875185334) (2026-07-02)
+- [jamonholmgren](https://x.com/jamonholmgren/status/2076001786700394610) (2026-07-12)
 - [jasonlk](https://x.com/jasonlk/status/2074304139425931745) (2026-07-07)
 - [karlmehta](https://x.com/karlmehta/status/2071232274738344073) (2026-06-29)
 - [kuddus0356575](https://x.com/kuddus0356575/status/2073988400865227141) (2026-07-06)
@@ -432,6 +440,7 @@ total_mentions: 478
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [sairahul1](https://x.com/sairahul1/status/2075217746556768489) (2026-07-10)
 - [sairahul1](https://x.com/sairahul1/status/2075559411569885304) (2026-07-11)
+- [sairahul1](https://x.com/sairahul1/status/2075875493665198368) (2026-07-12)
 - [salesforce](https://x.com/salesforce/status/2066491445586858173) (2026-06-28)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
 - [sentient_zh](https://x.com/sentient_zh/status/2066417986467189164) (2026-06-15)
@@ -451,6 +460,7 @@ total_mentions: 478
 - [stretchcloud](https://x.com/stretchcloud/status/2073597735371182133) (2026-07-05)
 - [stretchcloud](https://x.com/stretchcloud/status/2074649666608840706) (2026-07-08)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
+- [swyx](https://x.com/swyx/status/2076155833428431012) (2026-07-12)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
 - [tech0827](https://x.com/tech0827/status/2066035199607968063) (2026-06-14)
 - [techNmak](https://x.com/techNmak/status/2068884177383047439) (2026-06-27)
@@ -467,6 +477,7 @@ total_mentions: 478
 - [tom_doerr](https://x.com/tom_doerr/status/2071321553296412706) (2026-07-01)
 - [tom_doerr](https://x.com/tom_doerr/status/2072500678119817273) (2026-07-07)
 - [tom_doerr](https://x.com/tom_doerr/status/2072636601033715736) (2026-07-08)
+- [trythreews](https://x.com/trythreews/status/2075519714890334698) (2026-07-12)
 - [unicity_labs](https://x.com/unicity_labs/status/2074864232621892083) (2026-07-10)
 - [useAtelier](https://x.com/useAtelier/status/2069432826827583560) (2026-06-29)
 - [useOttoAI](https://x.com/useOttoAI/status/2072002562748780717) (2026-07-01)
