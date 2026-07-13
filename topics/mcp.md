@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-07-12
-total_mentions: 273
+last_seen: 2026-07-13
+total_mentions: 278
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -22,6 +22,7 @@ total_mentions: 273
 - [Alacritic_Super](https://x.com/Alacritic_Super/status/2073340264895438850) (2026-07-05)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2075624719043166464) (2026-07-11)
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2069720365442719867) (2026-06-27)
+- [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2076366894655848871) (2026-07-13)
 - [AnhNguyen136515](https://x.com/AnhNguyen136515/status/2073299705971536262) (2026-07-04)
 - [Appetiteldn](https://x.com/Appetiteldn/status/2063800638505361587) (2026-06-08)
 - [Artificialunbox](https://x.com/Artificialunbox/status/2068215362114715908) (2026-06-20)
@@ -59,12 +60,14 @@ total_mentions: 273
 - [Kekeha228](https://x.com/Kekeha228/status/2065700558527217899) (2026-06-13)
 - [KhushiPatil25](https://x.com/KhushiPatil25/status/2068311907925430767) (2026-06-21)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2072425629627330995) (2026-07-02)
+- [KirkDBorne](https://x.com/KirkDBorne/status/2076503185225617544) (2026-07-13)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2058615544048451842) (2026-07-04)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2063314848843485526) (2026-06-07)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2071929838265630850) (2026-07-04)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
 - [MCGlive](https://x.com/MCGlive/status/2063016512521441777) (2026-06-05)
+- [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
 - [MdRahi444797](https://x.com/MdRahi444797/status/2071118756919787756) (2026-06-28)
 - [MetaforDevs](https://x.com/MetaforDevs/status/2072474629852348684) (2026-07-02)
@@ -107,6 +110,7 @@ total_mentions: 273
 - [V8X_Team](https://x.com/V8X_Team/status/2076066812458885461) (2026-07-12)
 - [VadimStrizheus](https://x.com/VadimStrizheus/status/2063489178348703902) (2026-06-10)
 - [Veltrxai](https://x.com/Veltrxai/status/2064777828512469024) (2026-06-12)
+- [VivekIntel](https://x.com/VivekIntel/status/2073996440326873221) (2026-07-13)
 - [WenboGuo4](https://x.com/WenboGuo4/status/2074189902657544627) (2026-07-08)
 - [XDevelopers](https://x.com/XDevelopers/status/2071752389183647758) (2026-06-30)
 - [XFreeze](https://x.com/XFreeze/status/2065327439476375760) (2026-06-13)
@@ -141,6 +145,7 @@ total_mentions: 273
 - [aryanXmahajan](https://x.com/aryanXmahajan/status/2067677589247082656) (2026-06-19)
 - [ashiqur_ai](https://x.com/ashiqur_ai/status/2068572009676804246) (2026-06-21)
 - [betomoedano](https://x.com/betomoedano/status/2071257935485788178) (2026-06-29)
+- [betomoedano](https://x.com/betomoedano/status/2075206572628705477) (2026-07-13)
 - [biswaasen](https://x.com/biswaasen/status/2072065994152145370) (2026-07-01)
 - [bogdan_qclay](https://x.com/bogdan_qclay/status/2072013095891792062) (2026-07-05)
 - [bondaicommunity](https://x.com/bondaicommunity/status/2071466190359220413) (2026-06-29)

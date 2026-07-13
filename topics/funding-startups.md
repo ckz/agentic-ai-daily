@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-12
-total_mentions: 155
+last_seen: 2026-07-13
+total_mentions: 160
 
 ## Related Tweets
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
@@ -23,12 +23,14 @@ total_mentions: 155
 - [Dhruvam987](https://x.com/Dhruvam987/status/2067811478485582025) (2026-06-19)
 - [FundedPartners](https://x.com/FundedPartners/status/2066006946860110328) (2026-06-14)
 - [FundingPredicts](https://x.com/FundingPredicts/status/2074286339009229172) (2026-07-07)
+- [FundingPredicts](https://x.com/FundingPredicts/status/2076561972913475742) (2026-07-13)
 - [GAXEN10](https://x.com/GAXEN10/status/2068603068753596431) (2026-06-21)
 - [GrishinRobotics](https://x.com/GrishinRobotics/status/2067880410676187569) (2026-06-19)
 - [Helion_Energy](https://x.com/Helion_Energy/status/2062554317564108825) (2026-06-07)
 - [Hesamation](https://x.com/Hesamation/status/1970585800325640372) (2026-06-07)
 - [IPONewsroom_](https://x.com/IPONewsroom_/status/2065081323803267479) (2026-06-13)
 - [InTheAssembly](https://x.com/InTheAssembly/status/2073857255099773185) (2026-07-06)
+- [IntCyberDigest](https://x.com/IntCyberDigest/status/2075516156161536088) (2026-07-13)
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
 - [MTSlive](https://x.com/MTSlive/status/2065073640182579322) (2026-06-12)
 - [Maker17368Maker](https://x.com/Maker17368Maker/status/2062810745210040366) (2026-06-07)
@@ -37,6 +39,7 @@ total_mentions: 155
 - [NextLvlFunded](https://x.com/NextLvlFunded/status/2061795412986728637) (2026-06-05)
 - [Okada_DeFi0x](https://x.com/Okada_DeFi0x/status/2070769365763449051) (2026-06-28)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
+- [PayGo402](https://x.com/PayGo402/status/2076560560162820116) (2026-07-13)
 - [Polymarket](https://x.com/Polymarket/status/2062960684309123535) (2026-06-05)
 - [Polymarket](https://x.com/Polymarket/status/2069569968258097367) (2026-06-28)
 - [Prasanjit_ui](https://x.com/Prasanjit_ui/status/2072617513079251312) (2026-07-07)
@@ -71,6 +74,7 @@ total_mentions: 155
 - [amitisinvesting](https://x.com/amitisinvesting/status/2074651564136894627) (2026-07-08)
 - [amuse](https://x.com/amuse/status/2070118337607012363) (2026-07-02)
 - [ankurnagpal](https://x.com/ankurnagpal/status/2073858342196244665) (2026-07-06)
+- [anupamrjp](https://x.com/anupamrjp/status/2076558763071508656) (2026-07-13)
 - [anuraggoel](https://x.com/anuraggoel/status/2069218653137142074) (2026-06-30)
 - [arthur__penn](https://x.com/arthur__penn/status/2074352731238916503) (2026-07-07)
 - [athanzxyt](https://x.com/athanzxyt/status/2067660560607613032) (2026-06-19)
@@ -147,6 +151,7 @@ total_mentions: 155
 - [suni_code](https://x.com/suni_code/status/2073859515485974967) (2026-07-08)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)
+- [theaiportfolios](https://x.com/theaiportfolios/status/2074195013257273580) (2026-07-13)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2068965021514891696) (2026-06-27)
 - [thomasschulzz](https://x.com/thomasschulzz/status/2076002167702405584) (2026-07-12)

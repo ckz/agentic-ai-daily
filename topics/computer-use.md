@@ -1,10 +1,11 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-07-12
-total_mentions: 22
+last_seen: 2026-07-13
+total_mentions: 23
 
 ## Related Tweets
+- [AriX](https://x.com/AriX/status/2075282339782095163) (2026-07-13)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2064410897486160099) (2026-06-10)
 - [CodexReleases](https://x.com/CodexReleases/status/2075265220054782386) (2026-07-11)
 - [Codex_Changelog](https://x.com/Codex_Changelog/status/2062678248790589520) (2026-06-07)

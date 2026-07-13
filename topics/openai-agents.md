@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-12
-total_mentions: 16
+last_seen: 2026-07-13
+total_mentions: 17
 
 ## Related Tweets
 - [0xDepressionn](https://x.com/0xDepressionn/status/2063987019068371128) (2026-06-10)
@@ -11,6 +11,7 @@ total_mentions: 16
 - [Cointelegraph](https://x.com/Cointelegraph/status/2064900509933175066) (2026-06-11)
 - [EugenioFierro3](https://x.com/EugenioFierro3/status/2070777655926906996) (2026-06-27)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2073709900820099232) (2026-07-06)
+- [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
 - [RegalosDigitals](https://x.com/RegalosDigitals/status/2071263024212508813) (2026-06-29)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
 - [alex_verem](https://x.com/alex_verem/status/2075994424484732984) (2026-07-12)

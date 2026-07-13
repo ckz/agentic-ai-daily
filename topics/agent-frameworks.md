@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-07-12
-total_mentions: 206
+last_seen: 2026-07-13
+total_mentions: 212
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -71,10 +71,13 @@ total_mentions: 206
 - [Kaffchad](https://x.com/Kaffchad/status/2059932680813183175) (2026-07-10)
 - [Kaffchad](https://x.com/Kaffchad/status/2066380271092662782) (2026-06-15)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2072425629627330995) (2026-07-02)
+- [KirkDBorne](https://x.com/KirkDBorne/status/2076503185225617544) (2026-07-13)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2058615544048451842) (2026-07-04)
+- [LimestoneHQ](https://x.com/LimestoneHQ/status/2076310897660772466) (2026-07-13)
 - [LuizaJarovsky](https://x.com/LuizaJarovsky/status/2072664971616383227) (2026-07-03)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
+- [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
 - [MilkRoadAI](https://x.com/MilkRoadAI/status/2072187752402346407) (2026-07-08)
 - [MrOnsase](https://x.com/MrOnsase/status/2075841247223165124) (2026-07-11)
@@ -98,6 +101,7 @@ total_mentions: 206
 - [ThomasOrTK](https://x.com/ThomasOrTK/status/2072005642727158247) (2026-07-01)
 - [USB](https://x.com/USB/status/2074401622730363082) (2026-07-07)
 - [VivekIntel](https://x.com/VivekIntel/status/2073810331827343525) (2026-07-09)
+- [VivekIntel](https://x.com/VivekIntel/status/2073996440326873221) (2026-07-13)
 - [WesRoth](https://x.com/WesRoth/status/2063244515989713206) (2026-06-08)
 - [XFreeze](https://x.com/XFreeze/status/2072315431881453800) (2026-07-06)
 - [XiaomiMiMo](https://x.com/XiaomiMiMo/status/2064799879352959085) (2026-06-11)
@@ -113,6 +117,7 @@ total_mentions: 206
 - [agenticbrew](https://x.com/agenticbrew/status/2072848219084910646) (2026-07-03)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
 - [aiedge_](https://x.com/aiedge_/status/2070016711341040054) (2026-06-27)
+- [aiexplorations](https://x.com/aiexplorations/status/2076531708690899009) (2026-07-13)
 - [aiteachme_ai](https://x.com/aiteachme_ai/status/2067775023541100666) (2026-06-19)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2070587039679185397) (2026-06-27)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2071509401224261823) (2026-06-30)
@@ -122,6 +127,7 @@ total_mentions: 206
 - [arbitrum](https://x.com/arbitrum/status/1907530213119885730) (2026-07-10)
 - [ardizor](https://x.com/ardizor/status/2062571108021215563) (2026-06-05)
 - [arnaudmercier](https://x.com/arnaudmercier/status/2072179223339348311) (2026-07-01)
+- [arrowpunt](https://x.com/arrowpunt/status/1950268955136061682) (2026-07-13)
 - [ashpreetbedi](https://x.com/ashpreetbedi/status/2072857622575751271) (2026-07-03)
 - [asmah2107](https://x.com/asmah2107/status/2062870047903605109) (2026-06-06)
 - [augmentcode](https://x.com/augmentcode/status/2064401015957492202) (2026-06-10)
