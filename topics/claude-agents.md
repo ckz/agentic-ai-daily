@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-13
-total_mentions: 97
+last_seen: 2026-07-14
+total_mentions: 101
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -15,8 +15,10 @@ total_mentions: 97
 - [0xclayn](https://x.com/0xclayn/status/2075292493218721894) (2026-07-11)
 - [AEON_Community](https://x.com/AEON_Community/status/2064694068677107745) (2026-06-11)
 - [AdelDeveloperX](https://x.com/AdelDeveloperX/status/2074195359199375745) (2026-07-07)
+- [AlfieJCarter](https://x.com/AlfieJCarter/status/2076720209293893677) (2026-07-14)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2065054167677170033) (2026-06-12)
 - [Arcane_Aii](https://x.com/Arcane_Aii/status/2064316482071171261) (2026-06-11)
+- [ArchiveExplorer](https://x.com/ArchiveExplorer/status/2076666622043963789) (2026-07-14)
 - [Argona0x](https://x.com/Argona0x/status/2065525815106769169) (2026-06-13)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065328920514515037) (2026-06-13)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2064345389424324891) (2026-06-14)
@@ -29,6 +31,7 @@ total_mentions: 97
 - [DataChaz](https://x.com/DataChaz/status/2075204287223697636) (2026-07-11)
 - [DealsDhamaka](https://x.com/DealsDhamaka/status/2074664290293080496) (2026-07-08)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [Faazsh](https://x.com/Faazsh/status/2068572996076540315) (2026-06-21)
 - [FutureStacked](https://x.com/FutureStacked/status/2074159794030604515) (2026-07-07)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072410041945075729) (2026-07-04)
@@ -39,6 +42,7 @@ total_mentions: 97
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2073709900820099232) (2026-07-06)
 - [JJEnglert](https://x.com/JJEnglert/status/2064420538798260388) (2026-06-10)
 - [Jeyxbt](https://x.com/Jeyxbt/status/2067866973497868794) (2026-06-19)
+- [Krishnasagrawal](https://x.com/Krishnasagrawal/status/2076370564831486040) (2026-07-14)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
 - [Meituan_LongCat](https://x.com/Meituan_LongCat/status/2073768940078317713) (2026-07-06)
 - [MetaforDevs](https://x.com/MetaforDevs/status/2072474629852348684) (2026-07-02)

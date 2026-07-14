@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-07-13
-total_mentions: 212
+last_seen: 2026-07-14
+total_mentions: 218
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -24,6 +24,7 @@ total_mentions: 212
 - [AnthropicAI](https://x.com/AnthropicAI/status/2072163884430229756) (2026-07-01)
 - [ArslyTech](https://x.com/ArslyTech/status/2063153998518235584) (2026-06-06)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065559824230957190) (2026-06-14)
+- [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2076747075036045645) (2026-07-14)
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
 - [CSVisionPapers](https://x.com/CSVisionPapers/status/2072902537439481931) (2026-07-03)
@@ -44,6 +45,8 @@ total_mentions: 212
 - [DeRonin_](https://x.com/DeRonin_/status/2074134276551918043) (2026-07-07)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2072415161374343198) (2026-07-08)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
+- [EmmanuelInvest](https://x.com/EmmanuelInvest/status/2076724041302319246) (2026-07-14)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
 - [FastCompany](https://x.com/FastCompany/status/2063149004490149919) (2026-06-06)
 - [GoogleAI](https://x.com/GoogleAI/status/2062942864288387430) (2026-06-06)
@@ -167,6 +170,7 @@ total_mentions: 212
 - [gravitygotmeup](https://x.com/gravitygotmeup/status/2068193792780591353) (2026-06-20)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
+- [hijkzzz](https://x.com/hijkzzz/status/2076843539426836874) (2026-07-14)
 - [humafinance](https://x.com/humafinance/status/2062445243711279528) (2026-06-08)
 - [iamlukethedev](https://x.com/iamlukethedev/status/2063081062473859097) (2026-06-06)
 - [ipfconline1](https://x.com/ipfconline1/status/2066408115369656823) (2026-06-15)
@@ -175,6 +179,7 @@ total_mentions: 212
 - [johnvirality](https://x.com/johnvirality/status/2070571963555152330) (2026-06-29)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [lablabai](https://x.com/lablabai/status/2011441661466042529) (2026-07-10)
+- [lee_joey50709](https://x.com/lee_joey50709/status/2076867123654140209) (2026-07-14)
 - [leopardracer](https://x.com/leopardracer/status/2074442479739318455) (2026-07-09)
 - [mastra](https://x.com/mastra/status/2062617888478183564) (2026-06-05)
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
@@ -215,5 +220,6 @@ total_mentions: 212
 - [vicky_grok](https://x.com/vicky_grok/status/2070074685669470672) (2026-06-29)
 - [virtuals_io](https://x.com/virtuals_io/status/1881340149503857151) (2026-06-11)
 - [wallstengine](https://x.com/wallstengine/status/2062459661039894607) (2026-06-08)
+- [wilsonnwafor_](https://x.com/wilsonnwafor_/status/2076919122479185990) (2026-07-14)
 - [xai](https://x.com/xai/status/2072342803787702422) (2026-07-02)
 - [xenovacom](https://x.com/xenovacom/status/2070210622239707568) (2026-06-27)

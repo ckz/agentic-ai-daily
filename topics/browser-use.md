@@ -1,12 +1,13 @@
 # Browser Use
 
 first_seen: 2026-06-07
-last_seen: 2026-07-09
-total_mentions: 11
+last_seen: 2026-07-14
+total_mentions: 12
 
 ## Related Tweets
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2072415161374343198) (2026-07-08)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [Kimi_Moonshot](https://x.com/Kimi_Moonshot/status/2063990409903112344) (2026-06-09)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2058615544048451842) (2026-07-04)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2065226355495895521) (2026-06-15)

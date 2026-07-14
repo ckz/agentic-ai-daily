@@ -1,16 +1,18 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-13
-total_mentions: 50
+last_seen: 2026-07-14
+total_mentions: 54
 
 ## Related Tweets
+- [AlexFinn](https://x.com/AlexFinn/status/2076752798532931758) (2026-07-14)
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2061506641120641494) (2026-06-05)
 - [AndrewYNg](https://x.com/AndrewYNg/status/2071988145667928442) (2026-07-01)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065328920514515037) (2026-06-13)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065559824230957190) (2026-06-14)
 - [Colhodm](https://x.com/Colhodm/status/2072373857999098214) (2026-07-02)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [FareaNFts](https://x.com/FareaNFts/status/2072985538756317458) (2026-07-07)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2071971609183678544) (2026-07-01)
@@ -25,6 +27,7 @@ total_mentions: 50
 - [TheValueist](https://x.com/TheValueist/status/2072334968940900744) (2026-07-03)
 - [XFreeze](https://x.com/XFreeze/status/2065333739312590983) (2026-06-12)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
+- [_0xpainn](https://x.com/_0xpainn/status/2075209862263222342) (2026-07-14)
 - [a16z](https://x.com/a16z/status/2069869327411749012) (2026-06-29)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2071509401224261823) (2026-06-30)
 - [angeldot_](https://x.com/angeldot_/status/2071697398527881418) (2026-06-30)
@@ -43,6 +46,7 @@ total_mentions: 50
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)
 - [lemondooe](https://x.com/lemondooe/status/2073312103167840581) (2026-07-04)
 - [mattpocockuk](https://x.com/mattpocockuk/status/2064663221718425660) (2026-06-11)
+- [mikeldking](https://x.com/mikeldking/status/2076724129185866076) (2026-07-14)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2074378380385067230) (2026-07-07)
 - [monmiglobal](https://x.com/monmiglobal/status/2071399421997359236) (2026-06-29)
 - [orbiteditor](https://x.com/orbiteditor/status/2075064330325041395) (2026-07-09)

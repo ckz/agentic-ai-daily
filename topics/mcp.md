@@ -1,13 +1,14 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-07-13
-total_mentions: 278
+last_seen: 2026-07-14
+total_mentions: 285
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
 - [0xCodez](https://x.com/0xCodez/status/2074865699214741897) (2026-07-09)
 - [0xCodez](https://x.com/0xCodez/status/2075932575147733290) (2026-07-12)
+- [0xCodez](https://x.com/0xCodez/status/2076677712761000122) (2026-07-14)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xMovez](https://x.com/0xMovez/status/2057103411783307293) (2026-06-10)
 - [0xMovez](https://x.com/0xMovez/status/2075295372423868917) (2026-07-10)
@@ -47,10 +48,12 @@ total_mentions: 278
 - [DataChaz](https://x.com/DataChaz/status/2063158890469196218) (2026-06-06)
 - [DataChaz](https://x.com/DataChaz/status/2068952350077698446) (2026-06-28)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [ErickSky](https://x.com/ErickSky/status/2063701338316292495) (2026-06-08)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
 - [FellMentKE](https://x.com/FellMentKE/status/2064573513642758328) (2026-06-10)
 - [GithubProjects](https://x.com/GithubProjects/status/2063327571698434443) (2026-06-07)
+- [HowToPrompt__](https://x.com/HowToPrompt__/status/2076689880026096089) (2026-07-14)
 - [IBuzovskyi](https://x.com/IBuzovskyi/status/2065559839036637291) (2026-06-15)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2062485176358486507) (2026-06-09)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2063904128708022613) (2026-06-09)
@@ -101,6 +104,7 @@ total_mentions: 278
 - [SilenceCaPrompt](https://x.com/SilenceCaPrompt/status/2060769285224739159) (2026-06-06)
 - [Smartpigai](https://x.com/Smartpigai/status/2063095358075597009) (2026-06-08)
 - [Spectre__AI](https://x.com/Spectre__AI/status/2074395117297824093) (2026-07-07)
+- [Star_Knight12](https://x.com/Star_Knight12/status/2076631428926972177) (2026-07-14)
 - [StatsWire](https://x.com/StatsWire/status/2073263718453149877) (2026-07-04)
 - [Sumanth_077](https://x.com/Sumanth_077/status/2063254456834372040) (2026-06-07)
 - [SvpChain](https://x.com/SvpChain/status/2064935788345974954) (2026-06-11)
@@ -144,6 +148,7 @@ total_mentions: 278
 - [arnaudmercier](https://x.com/arnaudmercier/status/2072179223339348311) (2026-07-01)
 - [aryanXmahajan](https://x.com/aryanXmahajan/status/2067677589247082656) (2026-06-19)
 - [ashiqur_ai](https://x.com/ashiqur_ai/status/2068572009676804246) (2026-06-21)
+- [astridtgtz](https://x.com/astridtgtz/status/2076645768471908554) (2026-07-14)
 - [betomoedano](https://x.com/betomoedano/status/2071257935485788178) (2026-06-29)
 - [betomoedano](https://x.com/betomoedano/status/2075206572628705477) (2026-07-13)
 - [biswaasen](https://x.com/biswaasen/status/2072065994152145370) (2026-07-01)
@@ -153,6 +158,7 @@ total_mentions: 278
 - [cTrader](https://x.com/cTrader/status/2062503096375263532) (2026-06-05)
 - [chanducore](https://x.com/chanducore/status/2065670751781589413) (2026-06-13)
 - [charliejhills](https://x.com/charliejhills/status/2061702209310761142) (2026-06-06)
+- [charliejhills](https://x.com/charliejhills/status/2076221471375122811) (2026-07-14)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
 - [chenzeling4](https://x.com/chenzeling4/status/2075581564088668195) (2026-07-12)
 - [cnemalek](https://x.com/cnemalek/status/2075124631090954361) (2026-07-10)
@@ -167,6 +173,7 @@ total_mentions: 278
 - [cyrilXBT](https://x.com/cyrilXBT/status/2068531655464345767) (2026-06-21)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2071058754905481234) (2026-06-28)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2074112431786426373) (2026-07-07)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2076616124482150865) (2026-07-14)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [davemccollough](https://x.com/davemccollough/status/2064154192856670213) (2026-06-09)
 - [dkare1009](https://x.com/dkare1009/status/2073383916832985331) (2026-07-05)

@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-13
-total_mentions: 160
+last_seen: 2026-07-14
+total_mentions: 165
 
 ## Related Tweets
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
@@ -31,6 +31,7 @@ total_mentions: 160
 - [IPONewsroom_](https://x.com/IPONewsroom_/status/2065081323803267479) (2026-06-13)
 - [InTheAssembly](https://x.com/InTheAssembly/status/2073857255099773185) (2026-07-06)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2075516156161536088) (2026-07-13)
+- [Kappaemme1926](https://x.com/Kappaemme1926/status/2076637778734153857) (2026-07-14)
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
 - [MTSlive](https://x.com/MTSlive/status/2065073640182579322) (2026-06-12)
 - [Maker17368Maker](https://x.com/Maker17368Maker/status/2062810745210040366) (2026-06-07)
@@ -56,6 +57,7 @@ total_mentions: 160
 - [Steve8708](https://x.com/Steve8708/status/2041909436059615442) (2026-06-06)
 - [SureLeverage](https://x.com/SureLeverage/status/2074846284838846589) (2026-07-11)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2062153533630415305) (2026-06-08)
+- [Suryanshti777](https://x.com/Suryanshti777/status/2076764516764008524) (2026-07-14)
 - [TheStartupsMag](https://x.com/TheStartupsMag/status/2068604981318488305) (2026-06-21)
 - [TheoAugust8](https://x.com/TheoAugust8/status/2063166492519158257) (2026-06-06)
 - [TracyWesterman](https://x.com/TracyWesterman/status/2068481367248384086) (2026-06-27)
@@ -95,6 +97,7 @@ total_mentions: 160
 - [coingecko](https://x.com/coingecko/status/2064572347433075107) (2026-06-10)
 - [craigweiss](https://x.com/craigweiss/status/2072127436310110488) (2026-07-01)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1872809091799875592) (2026-06-29)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2076868034812096748) (2026-07-14)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [deedydas](https://x.com/deedydas/status/2063075876452155728) (2026-06-06)
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
@@ -105,6 +108,7 @@ total_mentions: 160
 - [elonmusk](https://x.com/elonmusk/status/2071673460779041155) (2026-07-02)
 - [ericgudboy](https://x.com/ericgudboy/status/2073282068235321743) (2026-07-04)
 - [fundingtraders](https://x.com/fundingtraders/status/2072289577017000341) (2026-07-06)
+- [gdb](https://x.com/gdb/status/2076686329686171666) (2026-07-14)
 - [gnoble79](https://x.com/gnoble79/status/2062616388963844440) (2026-06-08)
 - [gregisenberg](https://x.com/gregisenberg/status/1893687593755164940) (2026-07-03)
 - [gregisenberg](https://x.com/gregisenberg/status/1913582333229142177) (2026-06-21)
@@ -141,6 +145,7 @@ total_mentions: 160
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2065184524754112720) (2026-06-14)
 - [rsngprad](https://x.com/rsngprad/status/2072630117218791745) (2026-07-05)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
+- [sairahul1](https://x.com/sairahul1/status/2075934382284484997) (2026-07-14)
 - [samsenchal](https://x.com/samsenchal/status/2068605085089693994) (2026-06-21)
 - [sean_wallace_](https://x.com/sean_wallace_/status/2063994540873433201) (2026-06-09)
 - [shmidtqq](https://x.com/shmidtqq/status/2074446282303639911) (2026-07-09)
