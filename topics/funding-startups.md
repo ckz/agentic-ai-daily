@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-14
-total_mentions: 165
+last_seen: 2026-07-15
+total_mentions: 166
 
 ## Related Tweets
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
@@ -140,6 +140,7 @@ total_mentions: 165
 - [paulg](https://x.com/paulg/status/2069821293596148004) (2026-06-28)
 - [peer_rich](https://x.com/peer_rich/status/2062949788081897633) (2026-06-05)
 - [pierreeliottlal](https://x.com/pierreeliottlal/status/2066037831626362988) (2026-06-14)
+- [rahulbais136](https://x.com/rahulbais136/status/2077192536335192463) (2026-07-15)
 - [ridark_eth](https://x.com/ridark_eth/status/2068120584047804649) (2026-06-20)
 - [rihntv](https://x.com/rihntv/status/2075390652284654046) (2026-07-10)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2065184524754112720) (2026-06-14)

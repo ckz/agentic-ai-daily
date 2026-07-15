@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-07-14
-total_mentions: 24
+last_seen: 2026-07-15
+total_mentions: 26
 
 ## Related Tweets
 - [AriX](https://x.com/AriX/status/2075282339782095163) (2026-07-13)
@@ -11,8 +11,10 @@ total_mentions: 24
 - [Codex_Changelog](https://x.com/Codex_Changelog/status/2062678248790589520) (2026-06-07)
 - [GoogleDeepMind](https://x.com/GoogleDeepMind/status/2070180509523546481) (2026-06-27)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
+- [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [Mascobot](https://x.com/Mascobot/status/2065102985362026958) (2026-06-12)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2075275868268789885) (2026-07-11)
+- [OpenAIDevs](https://x.com/OpenAIDevs/status/2077166520392970529) (2026-07-15)
 - [WesRoth](https://x.com/WesRoth/status/2063833395298533464) (2026-06-10)
 - [aakashgupta](https://x.com/aakashgupta/status/2075353796671090794) (2026-07-10)
 - [adcock_brett](https://x.com/adcock_brett/status/2070674685575209066) (2026-06-27)

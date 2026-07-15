@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-14
-total_mentions: 54
+last_seen: 2026-07-15
+total_mentions: 58
 
 ## Related Tweets
 - [AlexFinn](https://x.com/AlexFinn/status/2076752798532931758) (2026-07-14)
@@ -13,10 +13,12 @@ total_mentions: 54
 - [Colhodm](https://x.com/Colhodm/status/2072373857999098214) (2026-07-02)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
+- [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2076991866935845287) (2026-07-15)
 - [FareaNFts](https://x.com/FareaNFts/status/2072985538756317458) (2026-07-07)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2071971609183678544) (2026-07-01)
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
+- [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [NVIDIAAI](https://x.com/NVIDIAAI/status/2069858097930121319) (2026-06-30)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2075275868268789885) (2026-07-11)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
@@ -40,6 +42,7 @@ total_mentions: 54
 - [dr_cintas](https://x.com/dr_cintas/status/2040142054211117218) (2026-06-15)
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
 - [gokulr](https://x.com/gokulr/status/2062638283100930085) (2026-06-08)
+- [gokulr](https://x.com/gokulr/status/2077203873069236394) (2026-07-15)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
 - [jahooma](https://x.com/jahooma/status/2069951731539349823) (2026-07-03)
@@ -55,6 +58,7 @@ total_mentions: 54
 - [rebel0x0](https://x.com/rebel0x0/status/2067186712758071385) (2026-06-19)
 - [seelffff](https://x.com/seelffff/status/2071118707405816250) (2026-06-29)
 - [sharbel](https://x.com/sharbel/status/2055680438417412359) (2026-06-29)
+- [tamrrat](https://x.com/tamrrat/status/2077136461489467450) (2026-07-15)
 - [tomgreenwald](https://x.com/tomgreenwald/status/2068008885018062868) (2026-06-20)
 - [undefinedKi](https://x.com/undefinedKi/status/2071931934012211642) (2026-07-02)
 - [vechainofficial](https://x.com/vechainofficial/status/2062450242360885371) (2026-06-09)
