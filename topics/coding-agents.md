@@ -1,10 +1,11 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-15
-total_mentions: 58
+last_seen: 2026-07-16
+total_mentions: 60
 
 ## Related Tweets
+- [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
 - [AlexFinn](https://x.com/AlexFinn/status/2076752798532931758) (2026-07-14)
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2061506641120641494) (2026-06-05)
 - [AndrewYNg](https://x.com/AndrewYNg/status/2071988145667928442) (2026-07-01)
@@ -58,6 +59,7 @@ total_mentions: 58
 - [rebel0x0](https://x.com/rebel0x0/status/2067186712758071385) (2026-06-19)
 - [seelffff](https://x.com/seelffff/status/2071118707405816250) (2026-06-29)
 - [sharbel](https://x.com/sharbel/status/2055680438417412359) (2026-06-29)
+- [sonalshukla3377](https://x.com/sonalshukla3377/status/2077223722654834863) (2026-07-16)
 - [tamrrat](https://x.com/tamrrat/status/2077136461489467450) (2026-07-15)
 - [tomgreenwald](https://x.com/tomgreenwald/status/2068008885018062868) (2026-06-20)
 - [undefinedKi](https://x.com/undefinedKi/status/2071931934012211642) (2026-07-02)

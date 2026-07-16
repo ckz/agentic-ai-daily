@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-07-15
-total_mentions: 293
+last_seen: 2026-07-16
+total_mentions: 302
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -12,6 +12,7 @@ total_mentions: 293
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xMovez](https://x.com/0xMovez/status/2057103411783307293) (2026-06-10)
 - [0xMovez](https://x.com/0xMovez/status/2075295372423868917) (2026-07-10)
+- [0xWast3](https://x.com/0xWast3/status/2077395455005131005) (2026-07-16)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2063244577482440978) (2026-06-11)
 - [AIWarper](https://x.com/AIWarper/status/2070535586075885912) (2026-06-27)
 - [AIdanSolves](https://x.com/AIdanSolves/status/2073162229533262290) (2026-07-04)
@@ -37,6 +38,7 @@ total_mentions: 293
 - [ClaudeCode_love](https://x.com/ClaudeCode_love/status/2074100297807614014) (2026-07-08)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2064072801062121906) (2026-06-09)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2067655887662272723) (2026-06-19)
+- [ClaudeDevs](https://x.com/ClaudeDevs/status/2077489907350856038) (2026-07-16)
 - [Clawnch_Bot](https://x.com/Clawnch_Bot/status/2069463550788067626) (2026-06-29)
 - [Cloudflare](https://x.com/Cloudflare/status/2072311802285723953) (2026-07-04)
 - [ComfyUI](https://x.com/ComfyUI/status/2071625866912944151) (2026-06-30)
@@ -44,6 +46,7 @@ total_mentions: 293
 - [CryptoPulseGLBL](https://x.com/CryptoPulseGLBL/status/2072554506102145483) (2026-07-02)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DanKornas](https://x.com/DanKornas/status/2063154157511418092) (2026-06-06)
+- [DanKornas](https://x.com/DanKornas/status/2077488623125971059) (2026-07-16)
 - [DataChaz](https://x.com/DataChaz/status/2047633186394697853) (2026-06-09)
 - [DataChaz](https://x.com/DataChaz/status/2062940997257212367) (2026-06-06)
 - [DataChaz](https://x.com/DataChaz/status/2063158890469196218) (2026-06-06)
@@ -76,6 +79,7 @@ total_mentions: 293
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
 - [MdRahi444797](https://x.com/MdRahi444797/status/2071118756919787756) (2026-06-28)
+- [MengTo](https://x.com/MengTo/status/2077214374830445035) (2026-07-16)
 - [MetaforDevs](https://x.com/MetaforDevs/status/2072474629852348684) (2026-07-02)
 - [MiguelMaestroIA](https://x.com/MiguelMaestroIA/status/2071655043615395956) (2026-06-30)
 - [MiniMax_AI](https://x.com/MiniMax_AI/status/2061266317815296322) (2026-06-05)
@@ -179,12 +183,14 @@ total_mentions: 293
 - [cyrilXBT](https://x.com/cyrilXBT/status/2071058754905481234) (2026-06-28)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2074112431786426373) (2026-07-07)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2076616124482150865) (2026-07-14)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2077628796572741967) (2026-07-16)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [davemccollough](https://x.com/davemccollough/status/2064154192856670213) (2026-06-09)
 - [dkare1009](https://x.com/dkare1009/status/2073383916832985331) (2026-07-05)
 - [dojintanuki](https://x.com/dojintanuki/status/2063832283736387900) (2026-06-08)
 - [dr_cintas](https://x.com/dr_cintas/status/2065260939134280044) (2026-06-12)
 - [dr_cintas](https://x.com/dr_cintas/status/2072714904650359130) (2026-07-03)
+- [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
 - [e_opore](https://x.com/e_opore/status/2073977846448451776) (2026-07-06)
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
 - [eliana_jordan](https://x.com/eliana_jordan/status/2071647509332598909) (2026-06-30)
@@ -200,10 +206,12 @@ total_mentions: 293
 - [firecrawl](https://x.com/firecrawl/status/2070174005709983865) (2026-06-27)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2064800056406909425) (2026-06-15)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2070900490674536556) (2026-06-28)
+- [freeCodeCamp](https://x.com/freeCodeCamp/status/2077363095916208602) (2026-07-16)
 - [gippp69](https://x.com/gippp69/status/2061110941509419435) (2026-06-07)
 - [gkxspace](https://x.com/gkxspace/status/2068546908360999331) (2026-06-21)
 - [gokulr](https://x.com/gokulr/status/2066673493811601737) (2026-06-21)
 - [gregisenberg](https://x.com/gregisenberg/status/1893687593755164940) (2026-07-03)
+- [gregisenberg](https://x.com/gregisenberg/status/2059274608759480367) (2026-07-16)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [hellorob](https://x.com/hellorob/status/2074237901060399360) (2026-07-08)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
@@ -298,3 +306,4 @@ total_mentions: 293
 - [yozm_it](https://x.com/yozm_it/status/2071417501792211397) (2026-06-29)
 - [zackpaid](https://x.com/zackpaid/status/2065125827864678420) (2026-06-12)
 - [zaynmcps](https://x.com/zaynmcps/status/2074856361595179240) (2026-07-09)
+- [zeuuss_01](https://x.com/zeuuss_01/status/2076796634856304696) (2026-07-16)

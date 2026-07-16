@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-15
-total_mentions: 103
+last_seen: 2026-07-16
+total_mentions: 105
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -76,6 +76,7 @@ total_mentions: 103
 - [cyrilXBT](https://x.com/cyrilXBT/status/2075195764855242950) (2026-07-11)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [dr_cintas](https://x.com/dr_cintas/status/2072714904650359130) (2026-07-03)
+- [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
 - [ekcheungAI](https://x.com/ekcheungAI/status/2068544526084386969) (2026-06-21)
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2061821319034143172) (2026-06-08)
@@ -87,6 +88,7 @@ total_mentions: 103
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
 - [jamonholmgren](https://x.com/jamonholmgren/status/2076001786700394610) (2026-07-12)
 - [jaredrhod](https://x.com/jaredrhod/status/2073840273914728935) (2026-07-06)
+- [johnwhereareu](https://x.com/johnwhereareu/status/2077603117928153169) (2026-07-16)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [kunalstwt](https://x.com/kunalstwt/status/2073978095644643520) (2026-07-06)
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)

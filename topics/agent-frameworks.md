@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-07-15
-total_mentions: 227
+last_seen: 2026-07-16
+total_mentions: 235
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -40,6 +40,8 @@ total_mentions: 227
 - [DamiDefi](https://x.com/DamiDefi/status/2073791513092403440) (2026-07-06)
 - [DamiDefi](https://x.com/DamiDefi/status/2075256414616838532) (2026-07-11)
 - [DanKornas](https://x.com/DanKornas/status/2072195733927706691) (2026-07-01)
+- [DanKornas](https://x.com/DanKornas/status/2077488623125971059) (2026-07-16)
+- [DanKornas](https://x.com/DanKornas/status/2077647155179782297) (2026-07-16)
 - [DataChaz](https://x.com/DataChaz/status/2068952350077698446) (2026-06-28)
 - [DataChaz](https://x.com/DataChaz/status/2070415564510785812) (2026-06-27)
 - [DataScienceDojo](https://x.com/DataScienceDojo/status/2071624804575093052) (2026-06-30)
@@ -107,6 +109,7 @@ total_mentions: 227
 - [TheHackersNews](https://x.com/TheHackersNews/status/2074845892067426604) (2026-07-09)
 - [TheValueist](https://x.com/TheValueist/status/2072334968940900744) (2026-07-03)
 - [ThomasOrTK](https://x.com/ThomasOrTK/status/2072005642727158247) (2026-07-01)
+- [UK_Daniel_Card](https://x.com/UK_Daniel_Card/status/2077623819913617526) (2026-07-16)
 - [USB](https://x.com/USB/status/2074401622730363082) (2026-07-07)
 - [VivekIntel](https://x.com/VivekIntel/status/2073810331827343525) (2026-07-09)
 - [VivekIntel](https://x.com/VivekIntel/status/2073996440326873221) (2026-07-13)
@@ -138,6 +141,7 @@ total_mentions: 227
 - [arnaudmercier](https://x.com/arnaudmercier/status/2072179223339348311) (2026-07-01)
 - [arrowpunt](https://x.com/arrowpunt/status/1950268955136061682) (2026-07-13)
 - [ashpreetbedi](https://x.com/ashpreetbedi/status/2072857622575751271) (2026-07-03)
+- [ashpreetbedi](https://x.com/ashpreetbedi/status/2077169299777531942) (2026-07-16)
 - [asmah2107](https://x.com/asmah2107/status/2062870047903605109) (2026-06-06)
 - [augmentcode](https://x.com/augmentcode/status/2064401015957492202) (2026-06-10)
 - [axiomos_](https://x.com/axiomos_/status/2072983092365811940) (2026-07-04)
@@ -161,7 +165,9 @@ total_mentions: 227
 - [dkare1009](https://x.com/dkare1009/status/2069518448627974397) (2026-06-30)
 - [dkare1009](https://x.com/dkare1009/status/2073383916832985331) (2026-07-05)
 - [dotta](https://x.com/dotta/status/2077029848602874009) (2026-07-15)
+- [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
 - [e_opore](https://x.com/e_opore/status/2073977846448451776) (2026-07-06)
+- [e_opore](https://x.com/e_opore/status/2077277237334757636) (2026-07-16)
 - [ecomchigga](https://x.com/ecomchigga/status/2065176267637297566) (2026-06-13)
 - [elizaOS](https://x.com/elizaOS/status/1874223078403682672) (2026-07-10)
 - [elora_khatun](https://x.com/elora_khatun/status/2074711871069032615) (2026-07-08)
@@ -185,6 +191,7 @@ total_mentions: 227
 - [ipfconline1](https://x.com/ipfconline1/status/2066408115369656823) (2026-06-15)
 - [islam_naserr](https://x.com/islam_naserr/status/2065299167560257970) (2026-06-12)
 - [it_unprofession](https://x.com/it_unprofession/status/2074958200663953854) (2026-07-11)
+- [jakezward](https://x.com/jakezward/status/2077014538000482693) (2026-07-16)
 - [johnvirality](https://x.com/johnvirality/status/2070571963555152330) (2026-06-29)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [lablabai](https://x.com/lablabai/status/2011441661466042529) (2026-07-10)
@@ -219,6 +226,7 @@ total_mentions: 227
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
 - [socialwithaayan](https://x.com/socialwithaayan/status/2072044103492309425) (2026-07-02)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2072154763492544652) (2026-07-01)
+- [sonalshukla3377](https://x.com/sonalshukla3377/status/2077223722654834863) (2026-07-16)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)

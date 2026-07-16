@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-15
-total_mentions: 166
+last_seen: 2026-07-16
+total_mentions: 170
 
 ## Related Tweets
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
@@ -74,6 +74,7 @@ total_mentions: 166
 - [aakrit](https://x.com/aakrit/status/2065778171912265899) (2026-06-14)
 - [adriablancafort](https://x.com/adriablancafort/status/2071688701651108309) (2026-06-30)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2074651564136894627) (2026-07-08)
+- [amitisinvesting](https://x.com/amitisinvesting/status/2077570810978463823) (2026-07-16)
 - [amuse](https://x.com/amuse/status/2070118337607012363) (2026-07-02)
 - [ankurnagpal](https://x.com/ankurnagpal/status/2073858342196244665) (2026-07-06)
 - [anupamrjp](https://x.com/anupamrjp/status/2076558763071508656) (2026-07-13)
@@ -112,9 +113,12 @@ total_mentions: 166
 - [gnoble79](https://x.com/gnoble79/status/2062616388963844440) (2026-06-08)
 - [gregisenberg](https://x.com/gregisenberg/status/1893687593755164940) (2026-07-03)
 - [gregisenberg](https://x.com/gregisenberg/status/1913582333229142177) (2026-06-21)
+- [gregisenberg](https://x.com/gregisenberg/status/1984641062527197234) (2026-07-16)
 - [gregisenberg](https://x.com/gregisenberg/status/2052110589682749869) (2026-07-03)
+- [gregisenberg](https://x.com/gregisenberg/status/2059274608759480367) (2026-07-16)
 - [gregisenberg](https://x.com/gregisenberg/status/2065184897296146724) (2026-06-15)
 - [gregisenberg](https://x.com/gregisenberg/status/2065773938915889253) (2026-06-15)
+- [gregisenberg](https://x.com/gregisenberg/status/2077471201002185195) (2026-07-16)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [iam_elias1](https://x.com/iam_elias1/status/2062095528742240319) (2026-06-05)
 - [itsmichaelluu](https://x.com/itsmichaelluu/status/2064692678608990537) (2026-06-11)
