@@ -1,14 +1,15 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-07-16
-total_mentions: 302
+last_seen: 2026-07-17
+total_mentions: 310
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
 - [0xCodez](https://x.com/0xCodez/status/2074865699214741897) (2026-07-09)
 - [0xCodez](https://x.com/0xCodez/status/2075932575147733290) (2026-07-12)
 - [0xCodez](https://x.com/0xCodez/status/2076677712761000122) (2026-07-14)
+- [0xCodez](https://x.com/0xCodez/status/2077758938938818714) (2026-07-17)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xMovez](https://x.com/0xMovez/status/2057103411783307293) (2026-06-10)
 - [0xMovez](https://x.com/0xMovez/status/2075295372423868917) (2026-07-10)
@@ -18,6 +19,7 @@ total_mentions: 302
 - [AIdanSolves](https://x.com/AIdanSolves/status/2073162229533262290) (2026-07-04)
 - [AIonBase_](https://x.com/AIonBase_/status/2063002925761237147) (2026-06-05)
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
+- [AgenticAIFdn](https://x.com/AgenticAIFdn/status/2077740129284764108) (2026-07-17)
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2073021437963825410) (2026-07-05)
 - [AiwithDharmik](https://x.com/AiwithDharmik/status/2074701028499550480) (2026-07-08)
 - [Akasheth_](https://x.com/Akasheth_/status/2063933265954918837) (2026-06-10)
@@ -53,6 +55,7 @@ total_mentions: 302
 - [DataChaz](https://x.com/DataChaz/status/2068952350077698446) (2026-06-28)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
+- [DotCSV](https://x.com/DotCSV/status/2076725628963783114) (2026-07-17)
 - [EHuanglu](https://x.com/EHuanglu/status/2077091952252875189) (2026-07-15)
 - [ErickSky](https://x.com/ErickSky/status/2063701338316292495) (2026-06-08)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
@@ -90,6 +93,8 @@ total_mentions: 302
 - [OpenRouter](https://x.com/OpenRouter/status/2070160491360780798) (2026-06-27)
 - [OpenRouter](https://x.com/OpenRouter/status/2070630667663163875) (2026-06-27)
 - [OptimaiNetwork](https://x.com/OptimaiNetwork/status/2064012781658009804) (2026-06-09)
+- [OpusClip](https://x.com/OpusClip/status/2077773391239778589) (2026-07-17)
+- [Origin_AI_01](https://x.com/Origin_AI_01/status/2078002803809849703) (2026-07-17)
 - [Polymarket](https://x.com/Polymarket/status/2071786298713756104) (2026-06-30)
 - [PrajwalTomar_](https://x.com/PrajwalTomar_/status/2071934532178337884) (2026-07-01)
 - [PrakashS720](https://x.com/PrakashS720/status/2065850652832694731) (2026-06-15)
@@ -163,6 +168,7 @@ total_mentions: 302
 - [biswaasen](https://x.com/biswaasen/status/2072065994152145370) (2026-07-01)
 - [bogdan_qclay](https://x.com/bogdan_qclay/status/2072013095891792062) (2026-07-05)
 - [bondaicommunity](https://x.com/bondaicommunity/status/2071466190359220413) (2026-06-29)
+- [bonsaixbt](https://x.com/bonsaixbt/status/2077722769194615193) (2026-07-17)
 - [bucket0dotcom](https://x.com/bucket0dotcom/status/2068553823635796170) (2026-06-21)
 - [cTrader](https://x.com/cTrader/status/2062503096375263532) (2026-06-05)
 - [chanducore](https://x.com/chanducore/status/2065670751781589413) (2026-06-13)
@@ -222,6 +228,7 @@ total_mentions: 302
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2064897496091140376) (2026-06-11)
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2072161434558201960) (2026-07-05)
 - [humafinance](https://x.com/humafinance/status/2062445243711279528) (2026-06-08)
+- [humzaakhalid](https://x.com/humzaakhalid/status/2076629724315697287) (2026-07-17)
 - [iBenWills](https://x.com/iBenWills/status/2063840829773369626) (2026-06-08)
 - [iam_elias1](https://x.com/iam_elias1/status/2062095528742240319) (2026-06-05)
 - [iamlukethedev](https://x.com/iamlukethedev/status/2063081062473859097) (2026-06-06)
@@ -247,6 +254,7 @@ total_mentions: 302
 - [mikefutia](https://x.com/mikefutia/status/2073225346024116489) (2026-07-06)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2075466376853045315) (2026-07-11)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2076549980265844892) (2026-07-15)
+- [milesdeutscher](https://x.com/milesdeutscher/status/2077664541476004303) (2026-07-17)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [nubis_app](https://x.com/nubis_app/status/2065699995399881189) (2026-06-13)
 - [ocodista](https://x.com/ocodista/status/2064366920049004753) (2026-06-10)

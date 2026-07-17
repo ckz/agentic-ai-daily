@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-16
-total_mentions: 556
+last_seen: 2026-07-17
+total_mentions: 568
 
 ## Related Tweets
 - [0x404page](https://x.com/0x404page/status/2065428594638369189) (2026-06-19)
@@ -16,6 +16,7 @@ total_mentions: 556
 - [0xCodez](https://x.com/0xCodez/status/2075243533515014238) (2026-07-10)
 - [0xCodez](https://x.com/0xCodez/status/2075932575147733290) (2026-07-12)
 - [0xCodez](https://x.com/0xCodez/status/2076677712761000122) (2026-07-14)
+- [0xCodez](https://x.com/0xCodez/status/2077758938938818714) (2026-07-17)
 - [0xCodila](https://x.com/0xCodila/status/2074639576107274693) (2026-07-08)
 - [0xDevShah](https://x.com/0xDevShah/status/2076008904232931742) (2026-07-13)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
@@ -49,6 +50,7 @@ total_mentions: 556
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
 - [ANUBISCHAIN_](https://x.com/ANUBISCHAIN_/status/2072571906138706359) (2026-07-02)
 - [AdelDeveloperX](https://x.com/AdelDeveloperX/status/2074195359199375745) (2026-07-07)
+- [AgenticAIFdn](https://x.com/AgenticAIFdn/status/2077740129284764108) (2026-07-17)
 - [AiCamila_](https://x.com/AiCamila_/status/2076911076885823887) (2026-07-15)
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2073021437963825410) (2026-07-05)
 - [Akasheth_](https://x.com/Akasheth_/status/2063933265954918837) (2026-06-10)
@@ -62,6 +64,7 @@ total_mentions: 556
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2076294995179405533) (2026-07-13)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2076366894655848871) (2026-07-13)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2077087607909970101) (2026-07-15)
+- [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2077720293729091888) (2026-07-17)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2062245225159111117) (2026-06-06)
 - [AndrewYNg](https://x.com/AndrewYNg/status/1975614372799283423) (2026-06-12)
 - [AndrewYNg](https://x.com/AndrewYNg/status/2061477558693384395) (2026-06-07)
@@ -258,11 +261,13 @@ total_mentions: 556
 - [TheTuringPost](https://x.com/TheTuringPost/status/2071309540654743935) (2026-07-03)
 - [TheValueist](https://x.com/TheValueist/status/2072334968940900744) (2026-07-03)
 - [Tipwotip](https://x.com/Tipwotip/status/2074019912897753093) (2026-07-06)
+- [Tolu_Atanda](https://x.com/Tolu_Atanda/status/2077969124701990988) (2026-07-17)
 - [TonyTheAristotl](https://x.com/TonyTheAristotl/status/2075243763891364291) (2026-07-10)
 - [TracNetwork](https://x.com/TracNetwork/status/2072687224844382340) (2026-07-03)
 - [TradingTerminal](https://x.com/TradingTerminal/status/2032473191214358925) (2026-06-07)
 - [USB](https://x.com/USB/status/2074401622730363082) (2026-07-07)
 - [UTobyM](https://x.com/UTobyM/status/2073349386596483135) (2026-07-05)
+- [Uty_bby](https://x.com/Uty_bby/status/2078013819444420734) (2026-07-17)
 - [VaibhavSisinty](https://x.com/VaibhavSisinty/status/2070741416649850898) (2026-06-28)
 - [VenAiSol](https://x.com/VenAiSol/status/2067847260876996912) (2026-06-19)
 - [VivekIntel](https://x.com/VivekIntel/status/2073810331827343525) (2026-07-09)
@@ -296,6 +301,7 @@ total_mentions: 556
 - [aiwithjainam](https://x.com/aiwithjainam/status/2069338947701080150) (2026-06-28)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2070587039679185397) (2026-06-27)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2071509401224261823) (2026-06-30)
+- [alex_prompter](https://x.com/alex_prompter/status/2077470394303627395) (2026-07-17)
 - [alexandr_wang](https://x.com/alexandr_wang/status/2072848108342677597) (2026-07-03)
 - [alexandr_wang](https://x.com/alexandr_wang/status/2075218936266998230) (2026-07-11)
 - [alexxubyte](https://x.com/alexxubyte/status/2076693603439817057) (2026-07-14)
@@ -323,6 +329,7 @@ total_mentions: 556
 - [biswaasen](https://x.com/biswaasen/status/2072065994152145370) (2026-07-01)
 - [bondaicommunity](https://x.com/bondaicommunity/status/2071466190359220413) (2026-06-29)
 - [bonduelleioat](https://x.com/bonduelleioat/status/2075607394428617199) (2026-07-13)
+- [bonsaixbt](https://x.com/bonsaixbt/status/2077722769194615193) (2026-07-17)
 - [bridgemindai](https://x.com/bridgemindai/status/2070184602606649588) (2026-06-28)
 - [browomo](https://x.com/browomo/status/2063038709407047943) (2026-06-10)
 - [cecond_thoughts](https://x.com/cecond_thoughts/status/2072192741715443916) (2026-07-01)
@@ -384,6 +391,7 @@ total_mentions: 556
 - [elora_khatun](https://x.com/elora_khatun/status/2074711871069032615) (2026-07-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2060824760859431275) (2026-06-05)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2064019609062101321) (2026-06-09)
+- [eng_khairallah1](https://x.com/eng_khairallah1/status/2077751107531493523) (2026-07-17)
 - [eragon5121](https://x.com/eragon5121/status/2077283768704926200) (2026-07-15)
 - [ethermage](https://x.com/ethermage/status/1862725151349198879) (2026-06-05)
 - [ethy_agent](https://x.com/ethy_agent/status/2071902096354320438) (2026-07-01)
@@ -432,6 +440,7 @@ total_mentions: 556
 - [ivaavimusic](https://x.com/ivaavimusic/status/2074850981804978658) (2026-07-09)
 - [jalajboy](https://x.com/jalajboy/status/2072538286875185334) (2026-07-02)
 - [jamonholmgren](https://x.com/jamonholmgren/status/2076001786700394610) (2026-07-12)
+- [jargon_sol](https://x.com/jargon_sol/status/2076678485486211091) (2026-07-17)
 - [jasonlk](https://x.com/jasonlk/status/2074304139425931745) (2026-07-07)
 - [kadsxr](https://x.com/kadsxr/status/2076728894363775220) (2026-07-15)
 - [kadsxr](https://x.com/kadsxr/status/2076781099120804218) (2026-07-15)
@@ -473,6 +482,7 @@ total_mentions: 556
 - [ollama](https://x.com/ollama/status/2066949797316350361) (2026-06-19)
 - [omarsar0](https://x.com/omarsar0/status/1846930425849303424) (2026-06-27)
 - [omarsar0](https://x.com/omarsar0/status/2069907174252527816) (2026-06-27)
+- [omarsar0](https://x.com/omarsar0/status/2077792894459793714) (2026-07-17)
 - [openart_ai](https://x.com/openart_ai/status/2067650953478652126) (2026-06-19)
 - [openservai](https://x.com/openservai/status/2064795739369152670) (2026-06-11)
 - [opheliaapi](https://x.com/opheliaapi/status/2064413598131126526) (2026-06-11)
@@ -524,6 +534,7 @@ total_mentions: 556
 - [stretchcloud](https://x.com/stretchcloud/status/2074649666608840706) (2026-07-08)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
 - [sundaebar_ai](https://x.com/sundaebar_ai/status/2077392523128132068) (2026-07-16)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2077724941198533011) (2026-07-17)
 - [swyx](https://x.com/swyx/status/2076155833428431012) (2026-07-12)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
 - [tech0827](https://x.com/tech0827/status/2066035199607968063) (2026-06-14)
@@ -534,6 +545,7 @@ total_mentions: 556
 - [tetsuoai](https://x.com/tetsuoai/status/2077605893802508479) (2026-07-16)
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)
 - [theagenticorg](https://x.com/theagenticorg/status/2073648296761946390) (2026-07-05)
+- [thealexker](https://x.com/thealexker/status/2077841378139426953) (2026-07-17)
 - [therajansharma](https://x.com/therajansharma/status/2068578446100308157) (2026-06-21)
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)
 - [thompson_akhat](https://x.com/thompson_akhat/status/2065333327314276641) (2026-06-12)

@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-16
-total_mentions: 60
+last_seen: 2026-07-17
+total_mentions: 61
 
 ## Related Tweets
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
@@ -11,6 +11,7 @@ total_mentions: 60
 - [AndrewYNg](https://x.com/AndrewYNg/status/2071988145667928442) (2026-07-01)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065328920514515037) (2026-06-13)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065559824230957190) (2026-06-14)
+- [ChromiumDev](https://x.com/ChromiumDev/status/2077874454105862423) (2026-07-17)
 - [Colhodm](https://x.com/Colhodm/status/2072373857999098214) (2026-07-02)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)

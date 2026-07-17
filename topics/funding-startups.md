@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-16
-total_mentions: 170
+last_seen: 2026-07-17
+total_mentions: 174
 
 ## Related Tweets
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
@@ -38,6 +38,7 @@ total_mentions: 170
 - [MasashiAONO](https://x.com/MasashiAONO/status/2076147787713163280) (2026-07-12)
 - [Motionsbyeddy](https://x.com/Motionsbyeddy/status/2071694912597479912) (2026-07-02)
 - [NextLvlFunded](https://x.com/NextLvlFunded/status/2061795412986728637) (2026-06-05)
+- [Nim_Ravid1](https://x.com/Nim_Ravid1/status/2077785419912188236) (2026-07-17)
 - [Okada_DeFi0x](https://x.com/Okada_DeFi0x/status/2070769365763449051) (2026-06-28)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
 - [PayGo402](https://x.com/PayGo402/status/2076560560162820116) (2026-07-13)
@@ -46,6 +47,7 @@ total_mentions: 170
 - [Prasanjit_ui](https://x.com/Prasanjit_ui/status/2072617513079251312) (2026-07-07)
 - [PrimareApp](https://x.com/PrimareApp/status/2075974349173961017) (2026-07-12)
 - [RITESHGHODELA](https://x.com/RITESHGHODELA/status/2063136905282429213) (2026-06-06)
+- [RichardSSutton](https://x.com/RichardSSutton/status/2076663628301058329) (2026-07-17)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2032664263882674275) (2026-06-09)
 - [RuntimeBRT](https://x.com/RuntimeBRT/status/2063848536958288128) (2026-06-10)
 - [SawyerMerritt](https://x.com/SawyerMerritt/status/2070711031094022508) (2026-07-02)
@@ -60,6 +62,7 @@ total_mentions: 170
 - [Suryanshti777](https://x.com/Suryanshti777/status/2076764516764008524) (2026-07-14)
 - [TheStartupsMag](https://x.com/TheStartupsMag/status/2068604981318488305) (2026-06-21)
 - [TheoAugust8](https://x.com/TheoAugust8/status/2063166492519158257) (2026-06-06)
+- [Tolu_Atanda](https://x.com/Tolu_Atanda/status/2077969124701990988) (2026-07-17)
 - [TracyWesterman](https://x.com/TracyWesterman/status/2068481367248384086) (2026-06-27)
 - [WaldronLewis](https://x.com/WaldronLewis/status/2072605320132575489) (2026-07-03)
 - [WallStreetApes](https://x.com/WallStreetApes/status/2072876695120658620) (2026-07-05)
@@ -139,6 +142,7 @@ total_mentions: 170
 - [milesdeutscher](https://x.com/milesdeutscher/status/2070112027780280630) (2026-06-27)
 - [nanransohoff](https://x.com/nanransohoff/status/2069761661456601188) (2026-06-28)
 - [nextjs](https://x.com/nextjs/status/2071647669467201657) (2026-07-02)
+- [noah_schochet](https://x.com/noah_schochet/status/2077044441978737104) (2026-07-17)
 - [paulg](https://x.com/paulg/status/2063091245334044902) (2026-06-06)
 - [paulg](https://x.com/paulg/status/2063644836981260638) (2026-06-12)
 - [paulg](https://x.com/paulg/status/2069821293596148004) (2026-06-28)

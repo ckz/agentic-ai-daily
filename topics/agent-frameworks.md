@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-07-16
-total_mentions: 235
+last_seen: 2026-07-17
+total_mentions: 240
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -134,12 +134,14 @@ total_mentions: 235
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2070587039679185397) (2026-06-27)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2071509401224261823) (2026-06-30)
 - [alex_prompter](https://x.com/alex_prompter/status/2071609730293022963) (2026-06-30)
+- [alex_prompter](https://x.com/alex_prompter/status/2077470394303627395) (2026-07-17)
 - [alex_verem](https://x.com/alex_verem/status/2075994424484732984) (2026-07-12)
 - [alliekmiller](https://x.com/alliekmiller/status/2064451731325415446) (2026-06-10)
 - [arbitrum](https://x.com/arbitrum/status/1907530213119885730) (2026-07-10)
 - [ardizor](https://x.com/ardizor/status/2062571108021215563) (2026-06-05)
 - [arnaudmercier](https://x.com/arnaudmercier/status/2072179223339348311) (2026-07-01)
 - [arrowpunt](https://x.com/arrowpunt/status/1950268955136061682) (2026-07-13)
+- [arsh_goyal](https://x.com/arsh_goyal/status/2077764207945416949) (2026-07-17)
 - [ashpreetbedi](https://x.com/ashpreetbedi/status/2072857622575751271) (2026-07-03)
 - [ashpreetbedi](https://x.com/ashpreetbedi/status/2077169299777531942) (2026-07-16)
 - [asmah2107](https://x.com/asmah2107/status/2062870047903605109) (2026-06-06)
@@ -149,6 +151,7 @@ total_mentions: 235
 - [badidoyo](https://x.com/badidoyo/status/2071821032114061798) (2026-06-30)
 - [better_auth](https://x.com/better_auth/status/2074523839300513921) (2026-07-08)
 - [bindureddy](https://x.com/bindureddy/status/2076165296977858836) (2026-07-12)
+- [bonsaixbt](https://x.com/bonsaixbt/status/2077722769194615193) (2026-07-17)
 - [bostonavionics](https://x.com/bostonavionics/status/2063158549568684369) (2026-06-06)
 - [chandan1_](https://x.com/chandan1_/status/1874874423062278335) (2026-07-10)
 - [chenzeling4](https://x.com/chenzeling4/status/2075581564088668195) (2026-07-12)
@@ -176,6 +179,7 @@ total_mentions: 235
 - [googlecloud_jp](https://x.com/googlecloud_jp/status/2064210883023118619) (2026-06-09)
 - [googlecloud_jp](https://x.com/googlecloud_jp/status/2071473742488740078) (2026-06-30)
 - [googledevs](https://x.com/googledevs/status/2072319312824537586) (2026-07-02)
+- [googledevs](https://x.com/googledevs/status/2077815534180040993) (2026-07-17)
 - [googlegemma](https://x.com/googlegemma/status/2064742570417180894) (2026-06-14)
 - [gotuchintu](https://x.com/gotuchintu/status/2071034383012618319) (2026-06-28)
 - [gotuchintu](https://x.com/gotuchintu/status/2071048019907064019) (2026-06-28)
@@ -228,6 +232,7 @@ total_mentions: 235
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2072154763492544652) (2026-07-01)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2077223722654834863) (2026-07-16)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2077724941198533011) (2026-07-17)
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)
 - [tom_doerr](https://x.com/tom_doerr/status/2066365949926629733) (2026-06-15)
