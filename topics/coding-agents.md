@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-17
-total_mentions: 61
+last_seen: 2026-07-18
+total_mentions: 63
 
 ## Related Tweets
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
@@ -17,6 +17,7 @@ total_mentions: 61
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2076991866935845287) (2026-07-15)
 - [FareaNFts](https://x.com/FareaNFts/status/2072985538756317458) (2026-07-07)
+- [HelloRH_AI](https://x.com/HelloRH_AI/status/2077711932774105164) (2026-07-18)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2071971609183678544) (2026-07-01)
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
@@ -58,6 +59,7 @@ total_mentions: 61
 - [pushmeet](https://x.com/pushmeet/status/2065917699222560928) (2026-06-15)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
 - [rebel0x0](https://x.com/rebel0x0/status/2067186712758071385) (2026-06-19)
+- [sairahul1](https://x.com/sairahul1/status/2077326742218539296) (2026-07-18)
 - [seelffff](https://x.com/seelffff/status/2071118707405816250) (2026-06-29)
 - [sharbel](https://x.com/sharbel/status/2055680438417412359) (2026-06-29)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2077223722654834863) (2026-07-16)

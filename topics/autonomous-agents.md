@@ -1,11 +1,12 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-17
-total_mentions: 568
+last_seen: 2026-07-18
+total_mentions: 578
 
 ## Related Tweets
 - [0x404page](https://x.com/0x404page/status/2065428594638369189) (2026-06-19)
+- [0xAlaric](https://x.com/0xAlaric/status/2077850537173660039) (2026-07-18)
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
 - [0xCodez](https://x.com/0xCodez/status/2068339045000700108) (2026-06-21)
 - [0xCodez](https://x.com/0xCodez/status/2071239626128298131) (2026-06-29)
@@ -28,6 +29,7 @@ total_mentions: 568
 - [0xMovez](https://x.com/0xMovez/status/2074845547588952311) (2026-07-09)
 - [0xMovez](https://x.com/0xMovez/status/2075295372423868917) (2026-07-10)
 - [0xMovez](https://x.com/0xMovez/status/2076709671587450998) (2026-07-14)
+- [0xMovez](https://x.com/0xMovez/status/2078207915794817086) (2026-07-18)
 - [0xRicker](https://x.com/0xRicker/status/2065478241444639198) (2026-06-14)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
 - [0xSammy](https://x.com/0xSammy/status/1882500633573609980) (2026-06-08)
@@ -324,6 +326,7 @@ total_mentions: 568
 - [axiomos_](https://x.com/axiomos_/status/2072983092365811940) (2026-07-04)
 - [azzabazazz](https://x.com/azzabazazz/status/2073518111974998284) (2026-07-05)
 - [bhavesharora02](https://x.com/bhavesharora02/status/2068176324083298796) (2026-06-20)
+- [bijoyweb](https://x.com/bijoyweb/status/2078343865665503366) (2026-07-18)
 - [bindureddy](https://x.com/bindureddy/status/2019578857251393929) (2026-06-08)
 - [bindureddy](https://x.com/bindureddy/status/2066381658505515132) (2026-06-15)
 - [biswaasen](https://x.com/biswaasen/status/2072065994152145370) (2026-07-01)
@@ -332,6 +335,7 @@ total_mentions: 568
 - [bonsaixbt](https://x.com/bonsaixbt/status/2077722769194615193) (2026-07-17)
 - [bridgemindai](https://x.com/bridgemindai/status/2070184602606649588) (2026-06-28)
 - [browomo](https://x.com/browomo/status/2063038709407047943) (2026-06-10)
+- [cb_doge](https://x.com/cb_doge/status/2076291436283396496) (2026-07-18)
 - [cecond_thoughts](https://x.com/cecond_thoughts/status/2072192741715443916) (2026-07-01)
 - [chandan1_](https://x.com/chandan1_/status/1874874423062278335) (2026-07-10)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
@@ -391,6 +395,7 @@ total_mentions: 568
 - [elora_khatun](https://x.com/elora_khatun/status/2074711871069032615) (2026-07-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2060824760859431275) (2026-06-05)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2064019609062101321) (2026-06-09)
+- [eng_khairallah1](https://x.com/eng_khairallah1/status/2077696199486775764) (2026-07-18)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2077751107531493523) (2026-07-17)
 - [eragon5121](https://x.com/eragon5121/status/2077283768704926200) (2026-07-15)
 - [ethermage](https://x.com/ethermage/status/1862725151349198879) (2026-06-05)
@@ -416,6 +421,7 @@ total_mentions: 568
 - [gudanglifehack](https://x.com/gudanglifehack/status/2068581325767102474) (2026-06-21)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [hasantoxr](https://x.com/hasantoxr/status/2075864853542269183) (2026-07-15)
+- [helicerat0x](https://x.com/helicerat0x/status/2078252543634002084) (2026-07-18)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2072161434558201960) (2026-07-05)
 - [hijkzzz](https://x.com/hijkzzz/status/2076843539426836874) (2026-07-14)
@@ -456,6 +462,7 @@ total_mentions: 568
 - [leopardracer](https://x.com/leopardracer/status/2074442479739318455) (2026-07-09)
 - [levie](https://x.com/levie/status/2061247380897579500) (2026-06-06)
 - [lnmishra](https://x.com/lnmishra/status/2072047572600954992) (2026-07-01)
+- [marryevan999](https://x.com/marryevan999/status/2077795286332952816) (2026-07-18)
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [mcganty](https://x.com/mcganty/status/2073086969408794735) (2026-07-04)
 - [melisx402](https://x.com/melisx402/status/2070835381684048269) (2026-06-29)
@@ -507,12 +514,15 @@ total_mentions: 568
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2074006931509842082) (2026-07-08)
 - [rushabh96975767](https://x.com/rushabh96975767/status/2075786236451758176) (2026-07-11)
 - [s1rozha_](https://x.com/s1rozha_/status/2072341012735791157) (2026-07-02)
+- [s1rozha_](https://x.com/s1rozha_/status/2078210026410303927) (2026-07-18)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [sairahul1](https://x.com/sairahul1/status/2069421947390415189) (2026-06-28)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [sairahul1](https://x.com/sairahul1/status/2075217746556768489) (2026-07-10)
 - [sairahul1](https://x.com/sairahul1/status/2075559411569885304) (2026-07-11)
 - [sairahul1](https://x.com/sairahul1/status/2075875493665198368) (2026-07-12)
+- [sairahul1](https://x.com/sairahul1/status/2076010382439903536) (2026-07-18)
+- [sairahul1](https://x.com/sairahul1/status/2078004461218484440) (2026-07-18)
 - [salesforce](https://x.com/salesforce/status/2066491445586858173) (2026-06-28)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
 - [sentient_zh](https://x.com/sentient_zh/status/2066417986467189164) (2026-06-15)

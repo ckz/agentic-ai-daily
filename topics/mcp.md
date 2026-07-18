@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-07-17
-total_mentions: 310
+last_seen: 2026-07-18
+total_mentions: 316
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -10,6 +10,7 @@ total_mentions: 310
 - [0xCodez](https://x.com/0xCodez/status/2075932575147733290) (2026-07-12)
 - [0xCodez](https://x.com/0xCodez/status/2076677712761000122) (2026-07-14)
 - [0xCodez](https://x.com/0xCodez/status/2077758938938818714) (2026-07-17)
+- [0xMiraqle](https://x.com/0xMiraqle/status/2078063315767460057) (2026-07-18)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xMovez](https://x.com/0xMovez/status/2057103411783307293) (2026-06-10)
 - [0xMovez](https://x.com/0xMovez/status/2075295372423868917) (2026-07-10)
@@ -203,6 +204,7 @@ total_mentions: 310
 - [elora_khatun](https://x.com/elora_khatun/status/2063087975488204948) (2026-06-06)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2060824760859431275) (2026-06-05)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2064019609062101321) (2026-06-09)
+- [eng_khairallah1](https://x.com/eng_khairallah1/status/2077696199486775764) (2026-07-18)
 - [epicmnw](https://x.com/epicmnw/status/2065311091027251222) (2026-06-12)
 - [evisdrenova](https://x.com/evisdrenova/status/2068551161263894776) (2026-06-21)
 - [expertwith_AI](https://x.com/expertwith_AI/status/2070094109109567845) (2026-06-27)
@@ -213,6 +215,7 @@ total_mentions: 310
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2064800056406909425) (2026-06-15)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2070900490674536556) (2026-06-28)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2077363095916208602) (2026-07-16)
+- [freeCodeCamp](https://x.com/freeCodeCamp/status/2078087855717376121) (2026-07-18)
 - [gippp69](https://x.com/gippp69/status/2061110941509419435) (2026-06-07)
 - [gkxspace](https://x.com/gkxspace/status/2068546908360999331) (2026-06-21)
 - [gokulr](https://x.com/gokulr/status/2066673493811601737) (2026-06-21)
@@ -279,6 +282,8 @@ total_mentions: 310
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [sairahul1](https://x.com/sairahul1/status/2075875493665198368) (2026-07-12)
+- [sairahul1](https://x.com/sairahul1/status/2077733367358079309) (2026-07-18)
+- [sairahul1](https://x.com/sairahul1/status/2078004461218484440) (2026-07-18)
 - [sakhil_ai](https://x.com/sakhil_ai/status/2067798126279397885) (2026-06-19)
 - [sharbel](https://x.com/sharbel/status/2070812435653464323) (2026-06-28)
 - [shedntcare_](https://x.com/shedntcare_/status/2066124333559480395) (2026-06-21)
@@ -315,3 +320,4 @@ total_mentions: 310
 - [zackpaid](https://x.com/zackpaid/status/2065125827864678420) (2026-06-12)
 - [zaynmcps](https://x.com/zaynmcps/status/2074856361595179240) (2026-07-09)
 - [zeuuss_01](https://x.com/zeuuss_01/status/2076796634856304696) (2026-07-16)
+- [zodchiii](https://x.com/zodchiii/status/2078222648539271430) (2026-07-18)
