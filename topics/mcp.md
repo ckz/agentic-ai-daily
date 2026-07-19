@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-07-18
-total_mentions: 316
+last_seen: 2026-07-19
+total_mentions: 323
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -85,12 +85,14 @@ total_mentions: 316
 - [MdRahi444797](https://x.com/MdRahi444797/status/2071118756919787756) (2026-06-28)
 - [MengTo](https://x.com/MengTo/status/2077214374830445035) (2026-07-16)
 - [MetaforDevs](https://x.com/MetaforDevs/status/2072474629852348684) (2026-07-02)
+- [Mho_23](https://x.com/Mho_23/status/2078545343768330490) (2026-07-19)
 - [MiguelMaestroIA](https://x.com/MiguelMaestroIA/status/2071655043615395956) (2026-06-30)
 - [MiniMax_AI](https://x.com/MiniMax_AI/status/2061266317815296322) (2026-06-05)
 - [MrDasOnX](https://x.com/MrDasOnX/status/2066029379512418431) (2026-06-14)
 - [Nekt_0](https://x.com/Nekt_0/status/2066148234368524692) (2026-06-15)
 - [NotionHQ](https://x.com/NotionHQ/status/2072759315589652663) (2026-07-03)
 - [NousResearch](https://x.com/NousResearch/status/2064760263224504719) (2026-06-11)
+- [NousResearch](https://x.com/NousResearch/status/2078168128693977291) (2026-07-19)
 - [OpenRouter](https://x.com/OpenRouter/status/2070160491360780798) (2026-06-27)
 - [OpenRouter](https://x.com/OpenRouter/status/2070630667663163875) (2026-06-27)
 - [OptimaiNetwork](https://x.com/OptimaiNetwork/status/2064012781658009804) (2026-06-09)
@@ -263,7 +265,9 @@ total_mentions: 316
 - [ocodista](https://x.com/ocodista/status/2064366920049004753) (2026-06-10)
 - [oldgamesnob](https://x.com/oldgamesnob/status/2070891527820509292) (2026-06-28)
 - [omarsar0](https://x.com/omarsar0/status/2072076720367341933) (2026-07-01)
+- [omarsar0](https://x.com/omarsar0/status/2078573267015885136) (2026-07-19)
 - [openart_ai](https://x.com/openart_ai/status/2067650953478652126) (2026-06-19)
+- [openshipio](https://x.com/openshipio/status/2078143909125923137) (2026-07-19)
 - [ossphere_dev](https://x.com/ossphere_dev/status/2068219798438461644) (2026-06-20)
 - [phosphenq](https://x.com/phosphenq/status/2072363705090666559) (2026-07-02)
 - [polsia](https://x.com/polsia/status/2062988231151677690) (2026-06-05)
@@ -279,6 +283,7 @@ total_mentions: 316
 - [rom1trs](https://x.com/rom1trs/status/2074119000137601528) (2026-07-11)
 - [rom1trs](https://x.com/rom1trs/status/2074490914248990760) (2026-07-10)
 - [rom1trs](https://x.com/rom1trs/status/2075193811186172355) (2026-07-12)
+- [rom1trs](https://x.com/rom1trs/status/2077382083832340784) (2026-07-19)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [sairahul1](https://x.com/sairahul1/status/2075875493665198368) (2026-07-12)
@@ -290,6 +295,7 @@ total_mentions: 316
 - [shedoesai](https://x.com/shedoesai/status/2054227691671556145) (2026-06-12)
 - [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)
 - [shushant_l](https://x.com/shushant_l/status/2071096264339620159) (2026-06-28)
+- [shushant_l](https://x.com/shushant_l/status/2078707411670704572) (2026-07-19)
 - [silvanrec](https://x.com/silvanrec/status/2075996434961240505) (2026-07-12)
 - [sixtria](https://x.com/sixtria/status/2067853856709779883) (2026-06-19)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
@@ -310,6 +316,7 @@ total_mentions: 316
 - [tom_doerr](https://x.com/tom_doerr/status/2062864987970797651) (2026-06-12)
 - [tom_doerr](https://x.com/tom_doerr/status/2066042496933662753) (2026-06-14)
 - [tom_doerr](https://x.com/tom_doerr/status/2071309381455519803) (2026-06-29)
+- [twetsfyp](https://x.com/twetsfyp/status/2078387675447328957) (2026-07-19)
 - [undefinedKi](https://x.com/undefinedKi/status/2066159485652025597) (2026-06-15)
 - [undefinedKi](https://x.com/undefinedKi/status/2071931934012211642) (2026-07-02)
 - [undefinedKi](https://x.com/undefinedKi/status/2074978611447365998) (2026-07-09)

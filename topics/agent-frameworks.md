@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-07-18
-total_mentions: 242
+last_seen: 2026-07-19
+total_mentions: 249
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -75,6 +75,7 @@ total_mentions: 242
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2073709900820099232) (2026-07-06)
 - [Jadzo1_](https://x.com/Jadzo1_/status/2072437174071636126) (2026-07-02)
+- [JaynitMakwana](https://x.com/JaynitMakwana/status/2078419436554625340) (2026-07-19)
 - [Kaffchad](https://x.com/Kaffchad/status/2059932680813183175) (2026-07-10)
 - [Kaffchad](https://x.com/Kaffchad/status/2066380271092662782) (2026-06-15)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2072425629627330995) (2026-07-02)
@@ -107,6 +108,7 @@ total_mentions: 242
 - [Steve8708](https://x.com/Steve8708/status/2077051086234685641) (2026-07-15)
 - [TeksCreate](https://x.com/TeksCreate/status/2068138970131632591) (2026-06-20)
 - [TheHackersNews](https://x.com/TheHackersNews/status/2074845892067426604) (2026-07-09)
+- [TheTuringPost](https://x.com/TheTuringPost/status/2076827153665331469) (2026-07-19)
 - [TheValueist](https://x.com/TheValueist/status/2072334968940900744) (2026-07-03)
 - [ThomasOrTK](https://x.com/ThomasOrTK/status/2072005642727158247) (2026-07-01)
 - [UK_Daniel_Card](https://x.com/UK_Daniel_Card/status/2077623819913617526) (2026-07-16)
@@ -131,6 +133,7 @@ total_mentions: 242
 - [aiedge_](https://x.com/aiedge_/status/2070016711341040054) (2026-06-27)
 - [aiexplorations](https://x.com/aiexplorations/status/2076531708690899009) (2026-07-13)
 - [aiteachme_ai](https://x.com/aiteachme_ai/status/2067775023541100666) (2026-06-19)
+- [aiteachme_ai](https://x.com/aiteachme_ai/status/2078646890137108586) (2026-07-19)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2070587039679185397) (2026-06-27)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2071509401224261823) (2026-06-30)
 - [alex_prompter](https://x.com/alex_prompter/status/2071609730293022963) (2026-06-30)
@@ -201,6 +204,7 @@ total_mentions: 242
 - [johnvirality](https://x.com/johnvirality/status/2070571963555152330) (2026-06-29)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [lablabai](https://x.com/lablabai/status/2011441661466042529) (2026-07-10)
+- [lagerskoy](https://x.com/lagerskoy/status/2078533407580311832) (2026-07-19)
 - [lee_joey50709](https://x.com/lee_joey50709/status/2076867123654140209) (2026-07-14)
 - [leopardracer](https://x.com/leopardracer/status/2074442479739318455) (2026-07-09)
 - [mastra](https://x.com/mastra/status/2062617888478183564) (2026-06-05)
@@ -229,12 +233,14 @@ total_mentions: 242
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
 - [sentient_agency](https://x.com/sentient_agency/status/2071538650425528367) (2026-07-01)
 - [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)
+- [shushant_l](https://x.com/shushant_l/status/2078707411670704572) (2026-07-19)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
 - [socialwithaayan](https://x.com/socialwithaayan/status/2072044103492309425) (2026-07-02)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2072154763492544652) (2026-07-01)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2077223722654834863) (2026-07-16)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2077724941198533011) (2026-07-17)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2078449718414180393) (2026-07-19)
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)
 - [tom_doerr](https://x.com/tom_doerr/status/2066365949926629733) (2026-06-15)
@@ -247,3 +253,4 @@ total_mentions: 242
 - [wilsonnwafor_](https://x.com/wilsonnwafor_/status/2076919122479185990) (2026-07-14)
 - [xai](https://x.com/xai/status/2072342803787702422) (2026-07-02)
 - [xenovacom](https://x.com/xenovacom/status/2070210622239707568) (2026-06-27)
+- [ysiu](https://x.com/ysiu/status/2078728473909322189) (2026-07-19)

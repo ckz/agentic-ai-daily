@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-18
-total_mentions: 578
+last_seen: 2026-07-19
+total_mentions: 585
 
 ## Related Tweets
 - [0x404page](https://x.com/0x404page/status/2065428594638369189) (2026-06-19)
@@ -132,6 +132,7 @@ total_mentions: 578
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [EmmanuelInvest](https://x.com/EmmanuelInvest/status/2072720009520873611) (2026-07-04)
 - [EmmanuelInvest](https://x.com/EmmanuelInvest/status/2076724041302319246) (2026-07-14)
+- [EntelligenceAI](https://x.com/EntelligenceAI/status/2078496011321065474) (2026-07-19)
 - [ErhanKOfficial](https://x.com/ErhanKOfficial/status/2072564429678682141) (2026-07-02)
 - [EugenioFierro3](https://x.com/EugenioFierro3/status/2070777655926906996) (2026-06-27)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
@@ -239,6 +240,7 @@ total_mentions: 578
 - [SaidAitmbarek](https://x.com/SaidAitmbarek/status/2066430249986908341) (2026-06-15)
 - [SakanaAILabs](https://x.com/SakanaAILabs/status/2077528494775603313) (2026-07-16)
 - [SandeepanNandi](https://x.com/SandeepanNandi/status/2068236605144580536) (2026-06-20)
+- [Saronic](https://x.com/Saronic/status/2077801200477421981) (2026-07-19)
 - [Sau5ai](https://x.com/Sau5ai/status/2068580594448261325) (2026-06-21)
 - [SaurabhDub28465](https://x.com/SaurabhDub28465/status/2063452536972124604) (2026-06-07)
 - [SawyerMerritt](https://x.com/SawyerMerritt/status/2071002354636202324) (2026-07-03)
@@ -261,6 +263,7 @@ total_mentions: 578
 - [TheGlobalMinima](https://x.com/TheGlobalMinima/status/2070425560485077259) (2026-06-27)
 - [TheHackersNews](https://x.com/TheHackersNews/status/2074845892067426604) (2026-07-09)
 - [TheTuringPost](https://x.com/TheTuringPost/status/2071309540654743935) (2026-07-03)
+- [TheTuringPost](https://x.com/TheTuringPost/status/2076827153665331469) (2026-07-19)
 - [TheValueist](https://x.com/TheValueist/status/2072334968940900744) (2026-07-03)
 - [Tipwotip](https://x.com/Tipwotip/status/2074019912897753093) (2026-07-06)
 - [Tolu_Atanda](https://x.com/Tolu_Atanda/status/2077969124701990988) (2026-07-17)
@@ -300,6 +303,7 @@ total_mentions: 578
 - [aipaywithcrypto](https://x.com/aipaywithcrypto/status/2072243829789315540) (2026-07-03)
 - [aipaywithcrypto](https://x.com/aipaywithcrypto/status/2073292135701553295) (2026-07-05)
 - [aiteachme_ai](https://x.com/aiteachme_ai/status/2067775023541100666) (2026-06-19)
+- [aiteachme_ai](https://x.com/aiteachme_ai/status/2078646890137108586) (2026-07-19)
 - [aiwithjainam](https://x.com/aiwithjainam/status/2069338947701080150) (2026-06-28)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2070587039679185397) (2026-06-27)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2071509401224261823) (2026-06-30)
@@ -457,6 +461,7 @@ total_mentions: 578
 - [kuvilabs](https://x.com/kuvilabs/status/2072272288687280594) (2026-07-02)
 - [kuvilabs](https://x.com/kuvilabs/status/2072673985163120922) (2026-07-03)
 - [lablabai](https://x.com/lablabai/status/2011441661466042529) (2026-07-10)
+- [lagerskoy](https://x.com/lagerskoy/status/2078533407580311832) (2026-07-19)
 - [leanpub](https://x.com/leanpub/status/2065188595590209868) (2026-06-12)
 - [lee_joey50709](https://x.com/lee_joey50709/status/2076867123654140209) (2026-07-14)
 - [leopardracer](https://x.com/leopardracer/status/2074442479739318455) (2026-07-09)
@@ -534,6 +539,7 @@ total_mentions: 578
 - [shiri_shh](https://x.com/shiri_shh/status/2061426931162288614) (2026-06-06)
 - [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)
 - [shushant_l](https://x.com/shushant_l/status/2071096264339620159) (2026-06-28)
+- [shushant_l](https://x.com/shushant_l/status/2078707411670704572) (2026-07-19)
 - [silvana_book](https://x.com/silvana_book/status/2075636698210324826) (2026-07-11)
 - [sirbayes](https://x.com/sirbayes/status/2065804371011457087) (2026-06-14)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
@@ -545,6 +551,7 @@ total_mentions: 578
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
 - [sundaebar_ai](https://x.com/sundaebar_ai/status/2077392523128132068) (2026-07-16)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2077724941198533011) (2026-07-17)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2078449718414180393) (2026-07-19)
 - [swyx](https://x.com/swyx/status/2076155833428431012) (2026-07-12)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
 - [tech0827](https://x.com/tech0827/status/2066035199607968063) (2026-06-14)
