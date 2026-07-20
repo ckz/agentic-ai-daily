@@ -1,10 +1,11 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-19
-total_mentions: 585
+last_seen: 2026-07-20
+total_mentions: 592
 
 ## Related Tweets
+- [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
 - [0x404page](https://x.com/0x404page/status/2065428594638369189) (2026-06-19)
 - [0xAlaric](https://x.com/0xAlaric/status/2077850537173660039) (2026-07-18)
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -18,6 +19,7 @@ total_mentions: 585
 - [0xCodez](https://x.com/0xCodez/status/2075932575147733290) (2026-07-12)
 - [0xCodez](https://x.com/0xCodez/status/2076677712761000122) (2026-07-14)
 - [0xCodez](https://x.com/0xCodez/status/2077758938938818714) (2026-07-17)
+- [0xCodez](https://x.com/0xCodez/status/2078847664385368560) (2026-07-20)
 - [0xCodila](https://x.com/0xCodila/status/2074639576107274693) (2026-07-08)
 - [0xDevShah](https://x.com/0xDevShah/status/2076008904232931742) (2026-07-13)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
@@ -244,9 +246,11 @@ total_mentions: 585
 - [Sau5ai](https://x.com/Sau5ai/status/2068580594448261325) (2026-06-21)
 - [SaurabhDub28465](https://x.com/SaurabhDub28465/status/2063452536972124604) (2026-06-07)
 - [SawyerMerritt](https://x.com/SawyerMerritt/status/2071002354636202324) (2026-07-03)
+- [SciTechera](https://x.com/SciTechera/status/2078618875412017651) (2026-07-20)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
 - [Scobleizer](https://x.com/Scobleizer/status/2071815842166424002) (2026-07-03)
 - [SeedifyFund](https://x.com/SeedifyFund/status/1882843585470406990) (2026-06-08)
+- [SenthilRaj16078](https://x.com/SenthilRaj16078/status/2079078212173431259) (2026-07-20)
 - [ServerpodDev](https://x.com/ServerpodDev/status/2064307450392514790) (2026-06-10)
 - [Slappjakke](https://x.com/Slappjakke/status/1924051973378314393) (2026-07-10)
 - [SolanaHub_](https://x.com/SolanaHub_/status/2008992037417185560) (2026-07-10)
@@ -287,6 +291,7 @@ total_mentions: 585
 - [__harsh020__](https://x.com/__harsh020__/status/2073518491844624630) (2026-07-05)
 - [_akhaliq](https://x.com/_akhaliq/status/2072347990337954042) (2026-07-03)
 - [_avichawla](https://x.com/_avichawla/status/2076952441728459082) (2026-07-15)
+- [_odsc](https://x.com/_odsc/status/2078254173938708527) (2026-07-20)
 - [_shikhar_jais](https://x.com/_shikhar_jais/status/2063133010074206331) (2026-06-06)
 - [_vmlops](https://x.com/_vmlops/status/2055521746737156350) (2026-06-15)
 - [_vmlops](https://x.com/_vmlops/status/2063841886193004672) (2026-06-09)
@@ -375,6 +380,7 @@ total_mentions: 585
 - [databricks](https://x.com/databricks/status/2070517714746012080) (2026-06-27)
 - [datasection](https://x.com/datasection/status/2063510474503700504) (2026-06-07)
 - [david1989_zhu](https://x.com/david1989_zhu/status/2065343518483136962) (2026-06-12)
+- [deanwball](https://x.com/deanwball/status/2078133895766114412) (2026-07-20)
 - [degen_mike14](https://x.com/degen_mike14/status/2072413220703236391) (2026-07-03)
 - [dexhorthy](https://x.com/dexhorthy/status/2067286892786454855) (2026-06-19)
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
@@ -382,6 +388,7 @@ total_mentions: 585
 - [dkare1009](https://x.com/dkare1009/status/2058646791348727997) (2026-06-30)
 - [dkare1009](https://x.com/dkare1009/status/2069518448627974397) (2026-06-30)
 - [dkare1009](https://x.com/dkare1009/status/2073383916832985331) (2026-07-05)
+- [dkare1009](https://x.com/dkare1009/status/2078880042336293212) (2026-07-20)
 - [dmokafa](https://x.com/dmokafa/status/2066400400308154773) (2026-06-15)
 - [dojintanuki](https://x.com/dojintanuki/status/2063832283736387900) (2026-06-08)
 - [dotta](https://x.com/dotta/status/2077029848602874009) (2026-07-15)

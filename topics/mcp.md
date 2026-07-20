@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-07-19
-total_mentions: 323
+last_seen: 2026-07-20
+total_mentions: 329
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -79,6 +79,7 @@ total_mentions: 323
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2071929838265630850) (2026-07-04)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
+- [LunarResearcher](https://x.com/LunarResearcher/status/2078455834325995532) (2026-07-20)
 - [MCGlive](https://x.com/MCGlive/status/2063016512521441777) (2026-06-05)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
@@ -110,11 +111,13 @@ total_mentions: 323
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2065981298087530958) (2026-06-14)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2075433581539672149) (2026-07-10)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2075622325429690721) (2026-07-11)
+- [S0N_IA](https://x.com/S0N_IA/status/2078494824982863884) (2026-07-20)
 - [SCavanna](https://x.com/SCavanna/status/2064009236741247345) (2026-06-10)
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2010406116157792354) (2026-06-09)
 - [Saccc_c](https://x.com/Saccc_c/status/2060963734546260426) (2026-06-07)
 - [SarvamAI](https://x.com/SarvamAI/status/2074116231461011764) (2026-07-07)
 - [SaurabhDub28465](https://x.com/SaurabhDub28465/status/2063452536972124604) (2026-06-07)
+- [SenthilRaj16078](https://x.com/SenthilRaj16078/status/2079078212173431259) (2026-07-20)
 - [ServerpodDev](https://x.com/ServerpodDev/status/2064307450392514790) (2026-06-10)
 - [SilenceCaPrompt](https://x.com/SilenceCaPrompt/status/2060769285224739159) (2026-06-06)
 - [Smartpigai](https://x.com/Smartpigai/status/2063095358075597009) (2026-06-08)
@@ -177,6 +180,7 @@ total_mentions: 323
 - [chanducore](https://x.com/chanducore/status/2065670751781589413) (2026-06-13)
 - [charliejhills](https://x.com/charliejhills/status/2061702209310761142) (2026-06-06)
 - [charliejhills](https://x.com/charliejhills/status/2076221471375122811) (2026-07-14)
+- [chddaniel](https://x.com/chddaniel/status/2078869144171380763) (2026-07-20)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
 - [chenzeling4](https://x.com/chenzeling4/status/2075581564088668195) (2026-07-12)
 - [cnemalek](https://x.com/cnemalek/status/2075124631090954361) (2026-07-10)
@@ -196,6 +200,7 @@ total_mentions: 323
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [davemccollough](https://x.com/davemccollough/status/2064154192856670213) (2026-06-09)
 - [dkare1009](https://x.com/dkare1009/status/2073383916832985331) (2026-07-05)
+- [dkare1009](https://x.com/dkare1009/status/2078880042336293212) (2026-07-20)
 - [dojintanuki](https://x.com/dojintanuki/status/2063832283736387900) (2026-06-08)
 - [dr_cintas](https://x.com/dr_cintas/status/2065260939134280044) (2026-06-12)
 - [dr_cintas](https://x.com/dr_cintas/status/2072714904650359130) (2026-07-03)
@@ -260,6 +265,7 @@ total_mentions: 323
 - [mikenevermiss](https://x.com/mikenevermiss/status/2075466376853045315) (2026-07-11)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2076549980265844892) (2026-07-15)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2077664541476004303) (2026-07-17)
+- [milesdeutscher](https://x.com/milesdeutscher/status/2078889045183389800) (2026-07-20)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [nubis_app](https://x.com/nubis_app/status/2065699995399881189) (2026-06-13)
 - [ocodista](https://x.com/ocodista/status/2064366920049004753) (2026-06-10)

@@ -1,10 +1,11 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-07-19
-total_mentions: 249
+last_seen: 2026-07-20
+total_mentions: 251
 
 ## Related Tweets
+- [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
@@ -229,6 +230,7 @@ total_mentions: 249
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [salesforce](https://x.com/salesforce/status/2066491445586858173) (2026-06-28)
 - [sandy4kad](https://x.com/sandy4kad/status/2074948658953593102) (2026-07-09)
+- [sauda_coder](https://x.com/sauda_coder/status/2078463245657211007) (2026-07-20)
 - [seelffff](https://x.com/seelffff/status/2071118707405816250) (2026-06-29)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
 - [sentient_agency](https://x.com/sentient_agency/status/2071538650425528367) (2026-07-01)

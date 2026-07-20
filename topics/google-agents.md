@@ -1,11 +1,12 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-17
-total_mentions: 52
+last_seen: 2026-07-20
+total_mentions: 53
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
+- [AiGenesisdotfun](https://x.com/AiGenesisdotfun/status/2079014502914195457) (2026-07-20)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2070541643518775354) (2026-06-27)
 - [Arcane_Aii](https://x.com/Arcane_Aii/status/2064316482071171261) (2026-06-11)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2076747075036045645) (2026-07-14)

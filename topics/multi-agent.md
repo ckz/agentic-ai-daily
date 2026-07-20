@@ -1,10 +1,11 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-07-19
-total_mentions: 130
+last_seen: 2026-07-20
+total_mentions: 131
 
 ## Related Tweets
+- [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
 - [0xMovez](https://x.com/0xMovez/status/2072317067689152585) (2026-07-04)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)

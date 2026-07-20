@@ -1,10 +1,11 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-19
-total_mentions: 179
+last_seen: 2026-07-20
+total_mentions: 183
 
 ## Related Tweets
+- [AFpost](https://x.com/AFpost/status/2078881670162202801) (2026-07-20)
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
 - [Argona0x](https://x.com/Argona0x/status/2065525815106769169) (2026-06-13)
@@ -36,6 +37,7 @@ total_mentions: 179
 - [MTSlive](https://x.com/MTSlive/status/2065073640182579322) (2026-06-12)
 - [Maker17368Maker](https://x.com/Maker17368Maker/status/2062810745210040366) (2026-06-07)
 - [MasashiAONO](https://x.com/MasashiAONO/status/2076147787713163280) (2026-07-12)
+- [MeidasTouch](https://x.com/MeidasTouch/status/2077164264595288203) (2026-07-20)
 - [Motionsbyeddy](https://x.com/Motionsbyeddy/status/2071694912597479912) (2026-07-02)
 - [NextLvlFunded](https://x.com/NextLvlFunded/status/2061795412986728637) (2026-06-05)
 - [Nim_Ravid1](https://x.com/Nim_Ravid1/status/2077785419912188236) (2026-07-17)
@@ -119,6 +121,7 @@ total_mentions: 179
 - [gdb](https://x.com/gdb/status/2076686329686171666) (2026-07-14)
 - [gnoble79](https://x.com/gnoble79/status/2062616388963844440) (2026-06-08)
 - [gregisenberg](https://x.com/gregisenberg/status/1893687593755164940) (2026-07-03)
+- [gregisenberg](https://x.com/gregisenberg/status/1906697683089101113) (2026-07-20)
 - [gregisenberg](https://x.com/gregisenberg/status/1913582333229142177) (2026-06-21)
 - [gregisenberg](https://x.com/gregisenberg/status/1984641062527197234) (2026-07-16)
 - [gregisenberg](https://x.com/gregisenberg/status/2052110589682749869) (2026-07-03)
@@ -174,6 +177,7 @@ total_mentions: 179
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2068965021514891696) (2026-06-27)
 - [thomasschulzz](https://x.com/thomasschulzz/status/2076002167702405584) (2026-07-12)
+- [trikcode](https://x.com/trikcode/status/2078755471205253481) (2026-07-20)
 - [twistartups](https://x.com/twistartups/status/2071744145119465724) (2026-07-02)
 - [undefinedKi](https://x.com/undefinedKi/status/2063615286301839698) (2026-06-08)
 - [unusual_whales](https://x.com/unusual_whales/status/2069766741404844484) (2026-07-01)
