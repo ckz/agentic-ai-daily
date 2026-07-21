@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-20
-total_mentions: 183
+last_seen: 2026-07-21
+total_mentions: 185
 
 ## Related Tweets
 - [AFpost](https://x.com/AFpost/status/2078881670162202801) (2026-07-20)
@@ -23,6 +23,7 @@ total_mentions: 183
 - [Cointelegraph](https://x.com/Cointelegraph/status/2063005594047467893) (2026-06-05)
 - [Dhruvam987](https://x.com/Dhruvam987/status/2067811478485582025) (2026-06-19)
 - [FundedPartners](https://x.com/FundedPartners/status/2066006946860110328) (2026-06-14)
+- [FundingPerps](https://x.com/FundingPerps/status/2079290842624279026) (2026-07-21)
 - [FundingPredicts](https://x.com/FundingPredicts/status/2074286339009229172) (2026-07-07)
 - [FundingPredicts](https://x.com/FundingPredicts/status/2076561972913475742) (2026-07-13)
 - [GAXEN10](https://x.com/GAXEN10/status/2068603068753596431) (2026-06-21)
@@ -97,6 +98,7 @@ total_mentions: 183
 - [bondaicommunity](https://x.com/bondaicommunity/status/2071466190359220413) (2026-06-29)
 - [business](https://x.com/business/status/2063849595688407299) (2026-06-08)
 - [business](https://x.com/business/status/2064560376595804273) (2026-06-10)
+- [bykahlil](https://x.com/bykahlil/status/2079265093607637030) (2026-07-21)
 - [cb_doge](https://x.com/cb_doge/status/2062681226633523250) (2026-06-08)
 - [cb_doge](https://x.com/cb_doge/status/2072009965389443374) (2026-07-03)
 - [cb_doge](https://x.com/cb_doge/status/2076291436283396496) (2026-07-18)
