@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-07-21
-total_mentions: 338
+last_seen: 2026-07-22
+total_mentions: 343
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -64,6 +64,7 @@ total_mentions: 338
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
 - [FellMentKE](https://x.com/FellMentKE/status/2064573513642758328) (2026-06-10)
 - [GithubProjects](https://x.com/GithubProjects/status/2063327571698434443) (2026-06-07)
+- [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [HoodAI0x](https://x.com/HoodAI0x/status/2079228983309176849) (2026-07-21)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2076689880026096089) (2026-07-14)
 - [IBuzovskyi](https://x.com/IBuzovskyi/status/2065559839036637291) (2026-06-15)
@@ -201,6 +202,7 @@ total_mentions: 338
 - [cyrilXBT](https://x.com/cyrilXBT/status/2074112431786426373) (2026-07-07)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2076616124482150865) (2026-07-14)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2077628796572741967) (2026-07-16)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2077690956393181386) (2026-07-22)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [davemccollough](https://x.com/davemccollough/status/2064154192856670213) (2026-06-09)
 - [dkare1009](https://x.com/dkare1009/status/2073383916832985331) (2026-07-05)
@@ -210,6 +212,7 @@ total_mentions: 338
 - [dr_cintas](https://x.com/dr_cintas/status/2072714904650359130) (2026-07-03)
 - [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
 - [e_opore](https://x.com/e_opore/status/2073977846448451776) (2026-07-06)
+- [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
 - [eliana_jordan](https://x.com/eliana_jordan/status/2071647509332598909) (2026-06-30)
 - [elora_khatun](https://x.com/elora_khatun/status/2063087975488204948) (2026-06-06)
@@ -251,11 +254,13 @@ total_mentions: 338
 - [imarun_chauhan](https://x.com/imarun_chauhan/status/2063878197457134003) (2026-06-08)
 - [insomnia_vip](https://x.com/insomnia_vip/status/2065795417313325416) (2026-06-15)
 - [itsolelehmann](https://x.com/itsolelehmann/status/2064393407771095518) (2026-06-10)
+- [jacob_posel](https://x.com/jacob_posel/status/2079249123794972827) (2026-07-22)
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [kunalstwt](https://x.com/kunalstwt/status/2073978095644643520) (2026-07-06)
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2062918118503231694) (2026-06-07)
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2073646837894992126) (2026-07-05)
+- [maarcoofdezz](https://x.com/maarcoofdezz/status/2079543760585691543) (2026-07-22)
 - [mackody_](https://x.com/mackody_/status/2075285372515528906) (2026-07-11)
 - [magnific](https://x.com/magnific/status/2064346257330675798) (2026-06-10)
 - [marorhab](https://x.com/marorhab/status/2063163950850609431) (2026-06-06)

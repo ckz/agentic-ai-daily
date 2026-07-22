@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-07-21
-total_mentions: 27
+last_seen: 2026-07-22
+total_mentions: 29
 
 ## Related Tweets
 - [AriX](https://x.com/AriX/status/2075282339782095163) (2026-07-13)
@@ -10,6 +10,7 @@ total_mentions: 27
 - [CodexReleases](https://x.com/CodexReleases/status/2075265220054782386) (2026-07-11)
 - [Codex_Changelog](https://x.com/Codex_Changelog/status/2062678248790589520) (2026-06-07)
 - [GoogleDeepMind](https://x.com/GoogleDeepMind/status/2070180509523546481) (2026-06-27)
+- [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [Mascobot](https://x.com/Mascobot/status/2065102985362026958) (2026-06-12)
@@ -25,6 +26,7 @@ total_mentions: 27
 - [coder_surya](https://x.com/coder_surya/status/2073957608998715439) (2026-07-06)
 - [deedydas](https://x.com/deedydas/status/1898444603071795378) (2026-06-06)
 - [dwarkesh_sp](https://x.com/dwarkesh_sp/status/2070672008946589922) (2026-06-27)
+- [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
 - [ehsanik](https://x.com/ehsanik/status/2070544602164330561) (2026-06-27)
 - [gkxspace](https://x.com/gkxspace/status/2068546908360999331) (2026-06-21)
 - [jxnlco](https://x.com/jxnlco/status/2070577704752267321) (2026-06-27)

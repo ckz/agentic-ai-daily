@@ -1,11 +1,12 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-21
-total_mentions: 63
+last_seen: 2026-07-22
+total_mentions: 67
 
 ## Related Tweets
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
+- [AiNicolas75316](https://x.com/AiNicolas75316/status/2079199374819914080) (2026-07-22)
 - [AlexFinn](https://x.com/AlexFinn/status/2076752798532931758) (2026-07-14)
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2061506641120641494) (2026-06-05)
 - [AndrewYNg](https://x.com/AndrewYNg/status/2071988145667928442) (2026-07-01)
@@ -18,6 +19,7 @@ total_mentions: 63
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2076991866935845287) (2026-07-15)
 - [FareaNFts](https://x.com/FareaNFts/status/2072985538756317458) (2026-07-07)
 - [HelloRH_AI](https://x.com/HelloRH_AI/status/2077711932774105164) (2026-07-18)
+- [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2071971609183678544) (2026-07-01)
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
@@ -63,8 +65,10 @@ total_mentions: 63
 - [seelffff](https://x.com/seelffff/status/2071118707405816250) (2026-06-29)
 - [sharbel](https://x.com/sharbel/status/2055680438417412359) (2026-06-29)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2077223722654834863) (2026-07-16)
+- [stretchcloud](https://x.com/stretchcloud/status/2079772421947560434) (2026-07-22)
 - [tamrrat](https://x.com/tamrrat/status/2077136461489467450) (2026-07-15)
 - [tomgreenwald](https://x.com/tomgreenwald/status/2068008885018062868) (2026-06-20)
+- [unclejohnny101](https://x.com/unclejohnny101/status/2079728030310969809) (2026-07-22)
 - [undefinedKi](https://x.com/undefinedKi/status/2071931934012211642) (2026-07-02)
 - [vechainofficial](https://x.com/vechainofficial/status/2062450242360885371) (2026-06-09)
 - [warpdotdev](https://x.com/warpdotdev/status/1937525185843752969) (2026-06-07)

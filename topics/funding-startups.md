@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-21
-total_mentions: 185
+last_seen: 2026-07-22
+total_mentions: 191
 
 ## Related Tweets
 - [AFpost](https://x.com/AFpost/status/2078881670162202801) (2026-07-20)
@@ -30,12 +30,14 @@ total_mentions: 185
 - [GrishinRobotics](https://x.com/GrishinRobotics/status/2067880410676187569) (2026-06-19)
 - [Helion_Energy](https://x.com/Helion_Energy/status/2062554317564108825) (2026-06-07)
 - [Hesamation](https://x.com/Hesamation/status/1970585800325640372) (2026-06-07)
+- [HeyRohhit](https://x.com/HeyRohhit/status/2079594120977527102) (2026-07-22)
 - [IPONewsroom_](https://x.com/IPONewsroom_/status/2065081323803267479) (2026-06-13)
 - [InTheAssembly](https://x.com/InTheAssembly/status/2073857255099773185) (2026-07-06)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2075516156161536088) (2026-07-13)
 - [Kappaemme1926](https://x.com/Kappaemme1926/status/2076637778734153857) (2026-07-14)
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
 - [MTSlive](https://x.com/MTSlive/status/2065073640182579322) (2026-06-12)
+- [MTSlive](https://x.com/MTSlive/status/2079701447084740739) (2026-07-22)
 - [Maker17368Maker](https://x.com/Maker17368Maker/status/2062810745210040366) (2026-06-07)
 - [MasashiAONO](https://x.com/MasashiAONO/status/2076147787713163280) (2026-07-12)
 - [MeidasTouch](https://x.com/MeidasTouch/status/2077164264595288203) (2026-07-20)
@@ -52,6 +54,7 @@ total_mentions: 185
 - [PrimareApp](https://x.com/PrimareApp/status/2075974349173961017) (2026-07-12)
 - [RITESHGHODELA](https://x.com/RITESHGHODELA/status/2063136905282429213) (2026-06-06)
 - [RichardSSutton](https://x.com/RichardSSutton/status/2076663628301058329) (2026-07-17)
+- [Romain_Lapeyre](https://x.com/Romain_Lapeyre/status/2079636276530037009) (2026-07-22)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2032664263882674275) (2026-06-09)
 - [RuntimeBRT](https://x.com/RuntimeBRT/status/2063848536958288128) (2026-06-10)
 - [SawyerMerritt](https://x.com/SawyerMerritt/status/2070711031094022508) (2026-07-02)
@@ -67,6 +70,7 @@ total_mentions: 185
 - [Suryanshti777](https://x.com/Suryanshti777/status/2076764516764008524) (2026-07-14)
 - [TheStartupsMag](https://x.com/TheStartupsMag/status/2068604981318488305) (2026-06-21)
 - [TheoAugust8](https://x.com/TheoAugust8/status/2063166492519158257) (2026-06-06)
+- [TokenizedPod](https://x.com/TokenizedPod/status/2079219793299746929) (2026-07-22)
 - [Tolu_Atanda](https://x.com/Tolu_Atanda/status/2077969124701990988) (2026-07-17)
 - [TracyWesterman](https://x.com/TracyWesterman/status/2068481367248384086) (2026-06-27)
 - [Variety](https://x.com/Variety/status/2078236164197322969) (2026-07-18)
@@ -163,12 +167,14 @@ total_mentions: 185
 - [rihntv](https://x.com/rihntv/status/2075390652284654046) (2026-07-10)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2065184524754112720) (2026-06-14)
 - [rsngprad](https://x.com/rsngprad/status/2072630117218791745) (2026-07-05)
+- [sahil_seth](https://x.com/sahil_seth/status/2079716698840858930) (2026-07-22)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [sairahul1](https://x.com/sairahul1/status/2075934382284484997) (2026-07-14)
 - [samsenchal](https://x.com/samsenchal/status/2068605085089693994) (2026-06-21)
 - [sean_wallace_](https://x.com/sean_wallace_/status/2063994540873433201) (2026-06-09)
 - [shmidtqq](https://x.com/shmidtqq/status/2074446282303639911) (2026-07-09)
 - [signulll](https://x.com/signulll/status/2064053145580278163) (2026-06-09)
+- [singularityhack](https://x.com/singularityhack/status/2079237150764134528) (2026-07-22)
 - [slash1sol](https://x.com/slash1sol/status/2033636802855374982) (2026-06-13)
 - [solovaultinfo](https://x.com/solovaultinfo/status/2068553835598241965) (2026-06-21)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
