@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-22
-total_mentions: 626
+last_seen: 2026-07-23
+total_mentions: 637
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -22,6 +22,7 @@ total_mentions: 626
 - [0xCodez](https://x.com/0xCodez/status/2078847664385368560) (2026-07-20)
 - [0xCodez](https://x.com/0xCodez/status/2079234800766816633) (2026-07-21)
 - [0xCodez](https://x.com/0xCodez/status/2079547245980959187) (2026-07-22)
+- [0xCodez](https://x.com/0xCodez/status/2079987344770302355) (2026-07-23)
 - [0xCodila](https://x.com/0xCodila/status/2074639576107274693) (2026-07-08)
 - [0xDevShah](https://x.com/0xDevShah/status/2076008904232931742) (2026-07-13)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
@@ -34,6 +35,7 @@ total_mentions: 626
 - [0xMovez](https://x.com/0xMovez/status/2075295372423868917) (2026-07-10)
 - [0xMovez](https://x.com/0xMovez/status/2076709671587450998) (2026-07-14)
 - [0xMovez](https://x.com/0xMovez/status/2078207915794817086) (2026-07-18)
+- [0xMovez](https://x.com/0xMovez/status/2079169729252491648) (2026-07-23)
 - [0xMovez](https://x.com/0xMovez/status/2079213454980686188) (2026-07-22)
 - [0xRicker](https://x.com/0xRicker/status/2065478241444639198) (2026-06-14)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
@@ -138,6 +140,7 @@ total_mentions: 626
 - [Dinosn](https://x.com/Dinosn/status/2063512654048608626) (2026-06-07)
 - [Dinosn](https://x.com/Dinosn/status/2070446054701490193) (2026-06-29)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2079620877151502483) (2026-07-23)
 - [EmmanuelInvest](https://x.com/EmmanuelInvest/status/2072720009520873611) (2026-07-04)
 - [EmmanuelInvest](https://x.com/EmmanuelInvest/status/2076724041302319246) (2026-07-14)
 - [EntelligenceAI](https://x.com/EntelligenceAI/status/2078496011321065474) (2026-07-19)
@@ -153,6 +156,7 @@ total_mentions: 626
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2067012903337664886) (2026-06-20)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2079635020134662654) (2026-07-22)
 - [GoogleDeepMind](https://x.com/GoogleDeepMind/status/2069785314663497966) (2026-06-28)
+- [GoogleDeepMind](https://x.com/GoogleDeepMind/status/2079589698490572961) (2026-07-23)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
 - [Google](https://x.com/Google/status/2062203526588088452) (2026-06-05)
 - [GrishinRobotics](https://x.com/GrishinRobotics/status/2067880410676187569) (2026-06-19)
@@ -251,10 +255,12 @@ total_mentions: 626
 - [Rahul1539482](https://x.com/Rahul1539482/status/2068215799849091178) (2026-06-20)
 - [Rawan_INJ](https://x.com/Rawan_INJ/status/2079272865883475988) (2026-07-21)
 - [Revolt_Fi](https://x.com/Revolt_Fi/status/2079266777163522467) (2026-07-21)
+- [Ric_RTP](https://x.com/Ric_RTP/status/2079941508807921958) (2026-07-23)
 - [RobinhoodApp](https://x.com/RobinhoodApp/status/2075672977497035108) (2026-07-11)
 - [RobinhoodApp](https://x.com/RobinhoodApp/status/2079195918595764300) (2026-07-21)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2019422133395611915) (2026-06-05)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2055668343743590615) (2026-06-05)
+- [RoundtableSpace](https://x.com/RoundtableSpace/status/2080046477322105256) (2026-07-23)
 - [SaidAitmbarek](https://x.com/SaidAitmbarek/status/2066430249986908341) (2026-06-15)
 - [SakanaAILabs](https://x.com/SakanaAILabs/status/2077528494775603313) (2026-07-16)
 - [SandeepanNandi](https://x.com/SandeepanNandi/status/2068236605144580536) (2026-06-20)
@@ -272,6 +278,7 @@ total_mentions: 626
 - [SolanaHub_](https://x.com/SolanaHub_/status/2008992037417185560) (2026-07-10)
 - [SolanaHub_](https://x.com/SolanaHub_/status/2011906234765754646) (2026-07-10)
 - [Steve8708](https://x.com/Steve8708/status/2077051086234685641) (2026-07-15)
+- [StockMCatalysts](https://x.com/StockMCatalysts/status/2078855382777348425) (2026-07-23)
 - [StockSavvyShay](https://x.com/StockSavvyShay/status/2065801050154811741) (2026-06-14)
 - [StockSavvyShay](https://x.com/StockSavvyShay/status/2072731841204011114) (2026-07-03)
 - [SuiNetwork](https://x.com/SuiNetwork/status/2075716447062618312) (2026-07-11)
@@ -340,6 +347,7 @@ total_mentions: 626
 - [ameliahazelai](https://x.com/ameliahazelai/status/2073345751892062531) (2026-07-06)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2074651564136894627) (2026-07-08)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2077570810978463823) (2026-07-16)
+- [amitisinvesting](https://x.com/amitisinvesting/status/2079389181780832579) (2026-07-23)
 - [antigravity](https://x.com/antigravity/status/2075265852992057448) (2026-07-11)
 - [arbitrum](https://x.com/arbitrum/status/1907530213119885730) (2026-07-10)
 - [architeqtai](https://x.com/architeqtai/status/2065343364166299693) (2026-06-12)
@@ -378,6 +386,7 @@ total_mentions: 626
 - [cnemalek](https://x.com/cnemalek/status/2075124631090954361) (2026-07-10)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2076962984216412342) (2026-07-15)
+- [codewithimanshu](https://x.com/codewithimanshu/status/2079864840055902389) (2026-07-23)
 - [cohere](https://x.com/cohere/status/2064378058329526556) (2026-06-12)
 - [coinbureau](https://x.com/coinbureau/status/2031222262112858286) (2026-06-09)
 - [cryptobuzzer03](https://x.com/cryptobuzzer03/status/2067855094327001574) (2026-06-19)
@@ -555,6 +564,7 @@ total_mentions: 626
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/1951937837466595357) (2026-06-11)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2062470652905549901) (2026-06-05)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2074006931509842082) (2026-07-08)
+- [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2079318538100342854) (2026-07-23)
 - [rushabh96975767](https://x.com/rushabh96975767/status/2075786236451758176) (2026-07-11)
 - [s1rozha_](https://x.com/s1rozha_/status/2072341012735791157) (2026-07-02)
 - [s1rozha_](https://x.com/s1rozha_/status/2078210026410303927) (2026-07-18)
@@ -567,6 +577,7 @@ total_mentions: 626
 - [sairahul1](https://x.com/sairahul1/status/2076010382439903536) (2026-07-18)
 - [sairahul1](https://x.com/sairahul1/status/2078004461218484440) (2026-07-18)
 - [sairahul1](https://x.com/sairahul1/status/2078781824160166070) (2026-07-22)
+- [sairahul1](https://x.com/sairahul1/status/2079895735198245346) (2026-07-23)
 - [salesforce](https://x.com/salesforce/status/2066491445586858173) (2026-06-28)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
 - [sentient_zh](https://x.com/sentient_zh/status/2066417986467189164) (2026-06-15)

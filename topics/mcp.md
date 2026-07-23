@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-07-22
-total_mentions: 343
+last_seen: 2026-07-23
+total_mentions: 346
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -10,6 +10,7 @@ total_mentions: 343
 - [0xCodez](https://x.com/0xCodez/status/2075932575147733290) (2026-07-12)
 - [0xCodez](https://x.com/0xCodez/status/2076677712761000122) (2026-07-14)
 - [0xCodez](https://x.com/0xCodez/status/2077758938938818714) (2026-07-17)
+- [0xJokker](https://x.com/0xJokker/status/2079215128621338703) (2026-07-23)
 - [0xMiraqle](https://x.com/0xMiraqle/status/2078063315767460057) (2026-07-18)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xMovez](https://x.com/0xMovez/status/2057103411783307293) (2026-06-10)
@@ -84,6 +85,7 @@ total_mentions: 343
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2078455834325995532) (2026-07-20)
+- [LunarResearcher](https://x.com/LunarResearcher/status/2079912100575563781) (2026-07-23)
 - [MCGlive](https://x.com/MCGlive/status/2063016512521441777) (2026-06-05)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
@@ -308,6 +310,7 @@ total_mentions: 343
 - [sairahul1](https://x.com/sairahul1/status/2075875493665198368) (2026-07-12)
 - [sairahul1](https://x.com/sairahul1/status/2077733367358079309) (2026-07-18)
 - [sairahul1](https://x.com/sairahul1/status/2078004461218484440) (2026-07-18)
+- [sairahul1](https://x.com/sairahul1/status/2079929959959998829) (2026-07-23)
 - [sakhil_ai](https://x.com/sakhil_ai/status/2067798126279397885) (2026-06-19)
 - [sharbel](https://x.com/sharbel/status/2070812435653464323) (2026-06-28)
 - [shedntcare_](https://x.com/shedntcare_/status/2066124333559480395) (2026-06-21)

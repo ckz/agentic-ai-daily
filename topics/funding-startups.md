@@ -1,13 +1,14 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-22
-total_mentions: 191
+last_seen: 2026-07-23
+total_mentions: 197
 
 ## Related Tweets
 - [AFpost](https://x.com/AFpost/status/2078881670162202801) (2026-07-20)
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
+- [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2079915295230038426) (2026-07-23)
 - [Argona0x](https://x.com/Argona0x/status/2065525815106769169) (2026-06-13)
 - [ArrushAdityadev](https://x.com/ArrushAdityadev/status/2061674017929703768) (2026-06-08)
 - [ArslyTech](https://x.com/ArslyTech/status/2063153998518235584) (2026-06-06)
@@ -18,6 +19,7 @@ total_mentions: 191
 - [BullTheoryio](https://x.com/BullTheoryio/status/2062148017818419548) (2026-06-09)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2064249311492477082) (2026-06-09)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2070088724462084261) (2026-07-02)
+- [ChiefEngineerCE](https://x.com/ChiefEngineerCE/status/2080146134128021841) (2026-07-23)
 - [ChiemeOnah7812](https://x.com/ChiemeOnah7812/status/2068216698759475604) (2026-06-20)
 - [Codex_Changelog](https://x.com/Codex_Changelog/status/2062678248790589520) (2026-06-07)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2063005594047467893) (2026-06-05)
@@ -53,6 +55,7 @@ total_mentions: 191
 - [Prasanjit_ui](https://x.com/Prasanjit_ui/status/2072617513079251312) (2026-07-07)
 - [PrimareApp](https://x.com/PrimareApp/status/2075974349173961017) (2026-07-12)
 - [RITESHGHODELA](https://x.com/RITESHGHODELA/status/2063136905282429213) (2026-06-06)
+- [RafaelFQL](https://x.com/RafaelFQL/status/2079943052261457977) (2026-07-23)
 - [RichardSSutton](https://x.com/RichardSSutton/status/2076663628301058329) (2026-07-17)
 - [Romain_Lapeyre](https://x.com/Romain_Lapeyre/status/2079636276530037009) (2026-07-22)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2032664263882674275) (2026-06-09)
@@ -72,6 +75,7 @@ total_mentions: 191
 - [TheoAugust8](https://x.com/TheoAugust8/status/2063166492519158257) (2026-06-06)
 - [TokenizedPod](https://x.com/TokenizedPod/status/2079219793299746929) (2026-07-22)
 - [Tolu_Atanda](https://x.com/Tolu_Atanda/status/2077969124701990988) (2026-07-17)
+- [TommiPedruzzi](https://x.com/TommiPedruzzi/status/2079133234005155943) (2026-07-23)
 - [TracyWesterman](https://x.com/TracyWesterman/status/2068481367248384086) (2026-06-27)
 - [Variety](https://x.com/Variety/status/2078236164197322969) (2026-07-18)
 - [WaldronLewis](https://x.com/WaldronLewis/status/2072605320132575489) (2026-07-03)
@@ -88,6 +92,7 @@ total_mentions: 191
 - [adriablancafort](https://x.com/adriablancafort/status/2071688701651108309) (2026-06-30)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2074651564136894627) (2026-07-08)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2077570810978463823) (2026-07-16)
+- [amitisinvesting](https://x.com/amitisinvesting/status/2079389181780832579) (2026-07-23)
 - [amuse](https://x.com/amuse/status/2070118337607012363) (2026-07-02)
 - [ankurnagpal](https://x.com/ankurnagpal/status/2073858342196244665) (2026-07-06)
 - [anupamrjp](https://x.com/anupamrjp/status/2076558763071508656) (2026-07-13)
@@ -123,6 +128,7 @@ total_mentions: 191
 - [elonmusk](https://x.com/elonmusk/status/2071652181854343349) (2026-07-04)
 - [elonmusk](https://x.com/elonmusk/status/2071673460779041155) (2026-07-02)
 - [ericgudboy](https://x.com/ericgudboy/status/2073282068235321743) (2026-07-04)
+- [ethereum](https://x.com/ethereum/status/2079217433059996150) (2026-07-23)
 - [fundingtraders](https://x.com/fundingtraders/status/2072289577017000341) (2026-07-06)
 - [gdb](https://x.com/gdb/status/2076686329686171666) (2026-07-14)
 - [gnoble79](https://x.com/gnoble79/status/2062616388963844440) (2026-06-08)

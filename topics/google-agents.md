@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-22
-total_mentions: 55
+last_seen: 2026-07-23
+total_mentions: 58
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -13,6 +13,7 @@ total_mentions: 55
 - [Creatify_AI](https://x.com/Creatify_AI/status/2064400985288802621) (2026-06-11)
 - [DanKornas](https://x.com/DanKornas/status/2077647155179782297) (2026-07-16)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
+- [EXM7777](https://x.com/EXM7777/status/2079949851648053760) (2026-07-23)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
 - [GeminiApp](https://x.com/GeminiApp/status/2069143097586700794) (2026-06-27)
 - [GoogleAI](https://x.com/GoogleAI/status/2062942864288387430) (2026-06-06)
@@ -23,6 +24,7 @@ total_mentions: 55
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072382496348447168) (2026-07-02)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2074600211364692029) (2026-07-08)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2079300183926374716) (2026-07-21)
+- [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2079921605442973879) (2026-07-23)
 - [GoogleCloud_IL](https://x.com/GoogleCloud_IL/status/2075120271111954818) (2026-07-09)
 - [GoogleCloud_IL](https://x.com/GoogleCloud_IL/status/2079831311980564832) (2026-07-22)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
@@ -47,6 +49,7 @@ total_mentions: 55
 - [googledevs](https://x.com/googledevs/status/2072319312824537586) (2026-07-02)
 - [googledevs](https://x.com/googledevs/status/2075251776606093457) (2026-07-11)
 - [googledevs](https://x.com/googledevs/status/2077815534180040993) (2026-07-17)
+- [googledevs](https://x.com/googledevs/status/2079250028573462827) (2026-07-23)
 - [googlegemma](https://x.com/googlegemma/status/2064742570417180894) (2026-06-14)
 - [gregisenberg](https://x.com/gregisenberg/status/2052110589682749869) (2026-07-03)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
