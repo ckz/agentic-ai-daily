@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-07-23
-total_mentions: 269
+last_seen: 2026-07-24
+total_mentions: 273
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -97,6 +97,7 @@ total_mentions: 269
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
 - [MilkRoadAI](https://x.com/MilkRoadAI/status/2072187752402346407) (2026-07-08)
+- [Mohansinha](https://x.com/Mohansinha/status/2079629691494060368) (2026-07-24)
 - [MrOnsase](https://x.com/MrOnsase/status/2075841247223165124) (2026-07-11)
 - [NainsiDwiv50980](https://x.com/NainsiDwiv50980/status/2062154970229858372) (2026-06-06)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/1975269391244874103) (2026-06-08)
@@ -125,6 +126,7 @@ total_mentions: 269
 - [USB](https://x.com/USB/status/2074401622730363082) (2026-07-07)
 - [VivekIntel](https://x.com/VivekIntel/status/2073810331827343525) (2026-07-09)
 - [VivekIntel](https://x.com/VivekIntel/status/2073996440326873221) (2026-07-13)
+- [WesRoth](https://x.com/WesRoth/status/2043871865513619560) (2026-07-24)
 - [WesRoth](https://x.com/WesRoth/status/2063244515989713206) (2026-06-08)
 - [XFreeze](https://x.com/XFreeze/status/2072315431881453800) (2026-07-06)
 - [XiaomiMiMo](https://x.com/XiaomiMiMo/status/2064799879352959085) (2026-06-11)
@@ -219,6 +221,7 @@ total_mentions: 269
 - [it_unprofession](https://x.com/it_unprofession/status/2074958200663953854) (2026-07-11)
 - [jakezward](https://x.com/jakezward/status/2077014538000482693) (2026-07-16)
 - [johnvirality](https://x.com/johnvirality/status/2070571963555152330) (2026-06-29)
+- [kenAI_domains](https://x.com/kenAI_domains/status/2080371618954490323) (2026-07-24)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [lablabai](https://x.com/lablabai/status/2011441661466042529) (2026-07-10)
 - [lagerskoy](https://x.com/lagerskoy/status/2078533407580311832) (2026-07-19)
@@ -228,6 +231,7 @@ total_mentions: 269
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [michyexe](https://x.com/michyexe/status/2000613204116844826) (2026-06-15)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2071513914504802525) (2026-07-01)
+- [milesdeutscher](https://x.com/milesdeutscher/status/2080208806043406646) (2026-07-24)
 - [myshell_ai](https://x.com/myshell_ai/status/1874804449023266943) (2026-07-10)
 - [neuralnow](https://x.com/neuralnow/status/2067804236231160299) (2026-06-19)
 - [nomadcoderai](https://x.com/nomadcoderai/status/2075460970848416075) (2026-07-10)

@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-23
-total_mentions: 197
+last_seen: 2026-07-24
+total_mentions: 203
 
 ## Related Tweets
 - [AFpost](https://x.com/AFpost/status/2078881670162202801) (2026-07-20)
@@ -14,6 +14,7 @@ total_mentions: 197
 - [ArslyTech](https://x.com/ArslyTech/status/2063153998518235584) (2026-06-06)
 - [AtomsNotBits](https://x.com/AtomsNotBits/status/2072429730788413662) (2026-07-02)
 - [AvinashSingh_20](https://x.com/AvinashSingh_20/status/2071233793311318133) (2026-07-05)
+- [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2078578545429991768) (2026-07-24)
 - [Brennan_Lup](https://x.com/Brennan_Lup/status/2064930712739090835) (2026-06-11)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2062148017818419548) (2026-06-09)
@@ -43,6 +44,7 @@ total_mentions: 197
 - [Maker17368Maker](https://x.com/Maker17368Maker/status/2062810745210040366) (2026-06-07)
 - [MasashiAONO](https://x.com/MasashiAONO/status/2076147787713163280) (2026-07-12)
 - [MeidasTouch](https://x.com/MeidasTouch/status/2077164264595288203) (2026-07-20)
+- [Mohansinha](https://x.com/Mohansinha/status/2079629691494060368) (2026-07-24)
 - [Motionsbyeddy](https://x.com/Motionsbyeddy/status/2071694912597479912) (2026-07-02)
 - [NextLvlFunded](https://x.com/NextLvlFunded/status/2061795412986728637) (2026-06-05)
 - [Nim_Ravid1](https://x.com/Nim_Ravid1/status/2077785419912188236) (2026-07-17)
@@ -52,6 +54,8 @@ total_mentions: 197
 - [Polymarket](https://x.com/Polymarket/status/2062960684309123535) (2026-06-05)
 - [Polymarket](https://x.com/Polymarket/status/2069569968258097367) (2026-06-28)
 - [Polymarket](https://x.com/Polymarket/status/2075978989730975782) (2026-07-18)
+- [Polymarket](https://x.com/Polymarket/status/2078532501178380362) (2026-07-24)
+- [Polymarket](https://x.com/Polymarket/status/2079697988344062193) (2026-07-24)
 - [Prasanjit_ui](https://x.com/Prasanjit_ui/status/2072617513079251312) (2026-07-07)
 - [PrimareApp](https://x.com/PrimareApp/status/2075974349173961017) (2026-07-12)
 - [RITESHGHODELA](https://x.com/RITESHGHODELA/status/2063136905282429213) (2026-06-06)
@@ -81,6 +85,7 @@ total_mentions: 197
 - [WaldronLewis](https://x.com/WaldronLewis/status/2072605320132575489) (2026-07-03)
 - [WallStreetApes](https://x.com/WallStreetApes/status/2072876695120658620) (2026-07-05)
 - [WatcherGuru](https://x.com/WatcherGuru/status/2066844381504561211) (2026-06-20)
+- [WatcherGuru](https://x.com/WatcherGuru/status/2079691556072616413) (2026-07-24)
 - [XFreeze](https://x.com/XFreeze/status/2071993098641756518) (2026-07-06)
 - [XFreeze](https://x.com/XFreeze/status/2072891163502080053) (2026-07-06)
 - [YhungProf0](https://x.com/YhungProf0/status/2071829780270391531) (2026-07-02)
@@ -195,6 +200,7 @@ total_mentions: 197
 - [twistartups](https://x.com/twistartups/status/2071744145119465724) (2026-07-02)
 - [undefinedKi](https://x.com/undefinedKi/status/2063615286301839698) (2026-06-08)
 - [unusual_whales](https://x.com/unusual_whales/status/2069766741404844484) (2026-07-01)
+- [unusual_whales](https://x.com/unusual_whales/status/2079702282443293037) (2026-07-24)
 - [vigneshxtech](https://x.com/vigneshxtech/status/2068597287010349323) (2026-06-21)
 - [vipulved](https://x.com/vipulved/status/2072321276094673083) (2026-07-02)
 - [wickedguro](https://x.com/wickedguro/status/2072654822449586327) (2026-07-09)

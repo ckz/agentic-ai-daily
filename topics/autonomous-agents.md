@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-23
-total_mentions: 637
+last_seen: 2026-07-24
+total_mentions: 647
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -23,6 +23,7 @@ total_mentions: 637
 - [0xCodez](https://x.com/0xCodez/status/2079234800766816633) (2026-07-21)
 - [0xCodez](https://x.com/0xCodez/status/2079547245980959187) (2026-07-22)
 - [0xCodez](https://x.com/0xCodez/status/2079987344770302355) (2026-07-23)
+- [0xCodez](https://x.com/0xCodez/status/2080250266851463209) (2026-07-24)
 - [0xCodila](https://x.com/0xCodila/status/2074639576107274693) (2026-07-08)
 - [0xDevShah](https://x.com/0xDevShah/status/2076008904232931742) (2026-07-13)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
@@ -62,6 +63,7 @@ total_mentions: 637
 - [AdelDeveloperX](https://x.com/AdelDeveloperX/status/2074195359199375745) (2026-07-07)
 - [AgenticAIFdn](https://x.com/AgenticAIFdn/status/2077740129284764108) (2026-07-17)
 - [AiCamila_](https://x.com/AiCamila_/status/2076911076885823887) (2026-07-15)
+- [AiCamila_](https://x.com/AiCamila_/status/2079402809397846321) (2026-07-24)
 - [AiNicolas75316](https://x.com/AiNicolas75316/status/2079199374819914080) (2026-07-22)
 - [Aileverager](https://x.com/Aileverager/status/2079291494335205865) (2026-07-21)
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2073021437963825410) (2026-07-05)
@@ -248,6 +250,7 @@ total_mentions: 637
 - [PayGo402](https://x.com/PayGo402/status/2072924369614262742) (2026-07-03)
 - [PayGo402](https://x.com/PayGo402/status/2076560560162820116) (2026-07-13)
 - [PerpGame](https://x.com/PerpGame/status/2071680543989678359) (2026-07-03)
+- [PinkBrains_io](https://x.com/PinkBrains_io/status/2079153364571721795) (2026-07-24)
 - [PrakashS720](https://x.com/PrakashS720/status/2065850652832694731) (2026-06-15)
 - [PrismML](https://x.com/PrismML/status/2077084891284721827) (2026-07-15)
 - [PythonDvz](https://x.com/PythonDvz/status/2063623261678698575) (2026-06-10)
@@ -307,6 +310,7 @@ total_mentions: 637
 - [VivekIntel](https://x.com/VivekIntel/status/2073810331827343525) (2026-07-09)
 - [VivekIntel](https://x.com/VivekIntel/status/2073996440326873221) (2026-07-13)
 - [WasimxWeb3](https://x.com/WasimxWeb3/status/2064971624944964016) (2026-06-11)
+- [WesRoth](https://x.com/WesRoth/status/2043871865513619560) (2026-07-24)
 - [WesRoth](https://x.com/WesRoth/status/2063244515989713206) (2026-06-08)
 - [WireNetwork](https://x.com/WireNetwork/status/2064029713421791646) (2026-06-09)
 - [XFreeze](https://x.com/XFreeze/status/2071801039167336638) (2026-06-30)
@@ -329,6 +333,7 @@ total_mentions: 637
 - [agenticbrew](https://x.com/agenticbrew/status/2072848219084910646) (2026-07-03)
 - [agentsdothaus](https://x.com/agentsdothaus/status/2068593129687580788) (2026-06-21)
 - [agentsmaxxing](https://x.com/agentsmaxxing/status/2076302332518859045) (2026-07-14)
+- [agentsmaxxing](https://x.com/agentsmaxxing/status/2080221158981710246) (2026-07-24)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
 - [aiexplorations](https://x.com/aiexplorations/status/2076531708690899009) (2026-07-13)
 - [aipaywithcrypto](https://x.com/aipaywithcrypto/status/2072243829789315540) (2026-07-03)
@@ -360,6 +365,7 @@ total_mentions: 637
 - [asklivermore](https://x.com/asklivermore/status/2079592646188958064) (2026-07-22)
 - [asmah2107](https://x.com/asmah2107/status/2062870047903605109) (2026-06-06)
 - [athanzxyt](https://x.com/athanzxyt/status/2067660560607613032) (2026-06-19)
+- [avilewis](https://x.com/avilewis/status/2079969472614633662) (2026-07-24)
 - [axi_master](https://x.com/axi_master/status/2067655053050352041) (2026-06-19)
 - [axiomos_](https://x.com/axiomos_/status/2072983092365811940) (2026-07-04)
 - [azzabazazz](https://x.com/azzabazazz/status/2073518111974998284) (2026-07-05)
@@ -375,6 +381,7 @@ total_mentions: 637
 - [browomo](https://x.com/browomo/status/2063038709407047943) (2026-06-10)
 - [cb_doge](https://x.com/cb_doge/status/2076291436283396496) (2026-07-18)
 - [cecond_thoughts](https://x.com/cecond_thoughts/status/2072192741715443916) (2026-07-01)
+- [cerebras](https://x.com/cerebras/status/2080349251318530263) (2026-07-24)
 - [chandan1_](https://x.com/chandan1_/status/1874874423062278335) (2026-07-10)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
 - [clapilot](https://x.com/clapilot/status/2063509258461642879) (2026-06-07)
@@ -498,6 +505,7 @@ total_mentions: 637
 - [kadsxr](https://x.com/kadsxr/status/2076728894363775220) (2026-07-15)
 - [kadsxr](https://x.com/kadsxr/status/2076781099120804218) (2026-07-15)
 - [karlmehta](https://x.com/karlmehta/status/2071232274738344073) (2026-06-29)
+- [kenAI_domains](https://x.com/kenAI_domains/status/2080371618954490323) (2026-07-24)
 - [kuddus0356575](https://x.com/kuddus0356575/status/2073988400865227141) (2026-07-06)
 - [kuddus0356575](https://x.com/kuddus0356575/status/2076907414599962690) (2026-07-15)
 - [kunchenguid](https://x.com/kunchenguid/status/2068367773533667565) (2026-06-21)
@@ -559,6 +567,7 @@ total_mentions: 637
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)
 - [rewind02](https://x.com/rewind02/status/2062914280681271627) (2026-06-05)
 - [richardabish_ai](https://x.com/richardabish_ai/status/2065312390523359485) (2026-06-12)
+- [ricomaps](https://x.com/ricomaps/status/2079307588261585270) (2026-07-24)
 - [rishflips](https://x.com/rishflips/status/2064954076543205542) (2026-06-11)
 - [robbyant_brain](https://x.com/robbyant_brain/status/2074934394717151241) (2026-07-09)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/1951937837466595357) (2026-06-11)
@@ -618,6 +627,7 @@ total_mentions: 637
 - [therajansharma](https://x.com/therajansharma/status/2068578446100308157) (2026-06-21)
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)
 - [thompson_akhat](https://x.com/thompson_akhat/status/2065333327314276641) (2026-06-12)
+- [tiger_research_](https://x.com/tiger_research_/status/2080227252134879655) (2026-07-24)
 - [tom_doerr](https://x.com/tom_doerr/status/2064801113354711438) (2026-06-15)
 - [tom_doerr](https://x.com/tom_doerr/status/2068189042768814448) (2026-06-20)
 - [tom_doerr](https://x.com/tom_doerr/status/2071321553296412706) (2026-07-01)

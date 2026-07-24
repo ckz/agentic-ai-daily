@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-07-23
-total_mentions: 346
+last_seen: 2026-07-24
+total_mentions: 350
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -78,6 +78,7 @@ total_mentions: 346
 - [KhushiPatil25](https://x.com/KhushiPatil25/status/2068311907925430767) (2026-06-21)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2072425629627330995) (2026-07-02)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2076503185225617544) (2026-07-13)
+- [Kling_ai](https://x.com/Kling_ai/status/2079944555718435124) (2026-07-24)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2058615544048451842) (2026-07-04)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2063314848843485526) (2026-06-07)
@@ -137,6 +138,7 @@ total_mentions: 346
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2065300113254388162) (2026-06-12)
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2074344040125091936) (2026-07-07)
 - [ThePrimeagen](https://x.com/ThePrimeagen/status/2070507324762947761) (2026-06-27)
+- [TopviewAIhq](https://x.com/TopviewAIhq/status/2080276190980444612) (2026-07-24)
 - [V8X_Team](https://x.com/V8X_Team/status/2076066812458885461) (2026-07-12)
 - [VadimStrizheus](https://x.com/VadimStrizheus/status/2063489178348703902) (2026-06-10)
 - [Veltrxai](https://x.com/Veltrxai/status/2064777828512469024) (2026-06-12)
@@ -281,6 +283,7 @@ total_mentions: 346
 - [milesdeutscher](https://x.com/milesdeutscher/status/2079260806114689413) (2026-07-21)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2079355693853966534) (2026-07-21)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2079446544508711269) (2026-07-21)
+- [milesdeutscher](https://x.com/milesdeutscher/status/2080208806043406646) (2026-07-24)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [nubis_app](https://x.com/nubis_app/status/2065699995399881189) (2026-06-13)
 - [ocodista](https://x.com/ocodista/status/2064366920049004753) (2026-06-10)
@@ -343,6 +346,7 @@ total_mentions: 346
 - [undefinedKi](https://x.com/undefinedKi/status/2066159485652025597) (2026-06-15)
 - [undefinedKi](https://x.com/undefinedKi/status/2071931934012211642) (2026-07-02)
 - [undefinedKi](https://x.com/undefinedKi/status/2074978611447365998) (2026-07-09)
+- [unity](https://x.com/unity/status/2079389530260414898) (2026-07-24)
 - [waveking1314](https://x.com/waveking1314/status/2063261659259400349) (2026-06-07)
 - [wsmaisys](https://x.com/wsmaisys/status/2068239014780452953) (2026-06-20)
 - [xiaoying_eth](https://x.com/xiaoying_eth/status/2064183483795460502) (2026-06-10)
