@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-07-24
-total_mentions: 350
+last_seen: 2026-07-25
+total_mentions: 356
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -119,6 +119,7 @@ total_mentions: 350
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2065981298087530958) (2026-06-14)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2075433581539672149) (2026-07-10)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2075622325429690721) (2026-07-11)
+- [RoundtableSpace](https://x.com/RoundtableSpace/status/2080846750290784693) (2026-07-25)
 - [S0N_IA](https://x.com/S0N_IA/status/2078494824982863884) (2026-07-20)
 - [SCavanna](https://x.com/SCavanna/status/2064009236741247345) (2026-06-10)
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2010406116157792354) (2026-06-09)
@@ -168,6 +169,7 @@ total_mentions: 350
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/1943648661826937032) (2026-06-06)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2029534926828388537) (2026-06-06)
 - [alex_prompter](https://x.com/alex_prompter/status/2071609730293022963) (2026-06-30)
+- [amasad](https://x.com/amasad/status/2080371567221944657) (2026-07-25)
 - [ameliahazelai](https://x.com/ameliahazelai/status/2073345751892062531) (2026-07-06)
 - [angeldot_](https://x.com/angeldot_/status/2068306517258907873) (2026-06-21)
 - [ansh_chokshi](https://x.com/ansh_chokshi/status/2076168556161757294) (2026-07-15)
@@ -178,6 +180,7 @@ total_mentions: 350
 - [aryanXmahajan](https://x.com/aryanXmahajan/status/2067677589247082656) (2026-06-19)
 - [ashiqur_ai](https://x.com/ashiqur_ai/status/2068572009676804246) (2026-06-21)
 - [astridtgtz](https://x.com/astridtgtz/status/2076645768471908554) (2026-07-14)
+- [athrix_codes](https://x.com/athrix_codes/status/2079987918660333709) (2026-07-25)
 - [betomoedano](https://x.com/betomoedano/status/2071257935485788178) (2026-06-29)
 - [betomoedano](https://x.com/betomoedano/status/2075206572628705477) (2026-07-13)
 - [biswaasen](https://x.com/biswaasen/status/2072065994152145370) (2026-07-01)
@@ -250,6 +253,7 @@ total_mentions: 350
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2072161434558201960) (2026-07-05)
 - [humafinance](https://x.com/humafinance/status/2062445243711279528) (2026-06-08)
 - [humzaakhalid](https://x.com/humzaakhalid/status/2076629724315697287) (2026-07-17)
+- [humzaakhalid](https://x.com/humzaakhalid/status/2078781740563460571) (2026-07-25)
 - [iBenWills](https://x.com/iBenWills/status/2063840829773369626) (2026-06-08)
 - [iam_elias1](https://x.com/iam_elias1/status/2062095528742240319) (2026-06-05)
 - [iamlukethedev](https://x.com/iamlukethedev/status/2063081062473859097) (2026-06-06)
@@ -284,6 +288,8 @@ total_mentions: 350
 - [milesdeutscher](https://x.com/milesdeutscher/status/2079355693853966534) (2026-07-21)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2079446544508711269) (2026-07-21)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2080208806043406646) (2026-07-24)
+- [milesdeutscher](https://x.com/milesdeutscher/status/2080763866200645792) (2026-07-25)
+- [milesdeutscher](https://x.com/milesdeutscher/status/2080865392357208266) (2026-07-25)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [nubis_app](https://x.com/nubis_app/status/2065699995399881189) (2026-06-13)
 - [ocodista](https://x.com/ocodista/status/2064366920049004753) (2026-06-10)

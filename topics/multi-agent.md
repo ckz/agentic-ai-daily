@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-07-24
-total_mentions: 150
+last_seen: 2026-07-25
+total_mentions: 154
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -10,11 +10,13 @@ total_mentions: 150
 - [0xCodez](https://x.com/0xCodez/status/2079234800766816633) (2026-07-21)
 - [0xCodez](https://x.com/0xCodez/status/2079547245980959187) (2026-07-22)
 - [0xCodez](https://x.com/0xCodez/status/2080250266851463209) (2026-07-24)
+- [0xCodez](https://x.com/0xCodez/status/2080669094743859408) (2026-07-25)
 - [0xMovez](https://x.com/0xMovez/status/2072317067689152585) (2026-07-04)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
 - [AIEconomicsUS](https://x.com/AIEconomicsUS/status/2066055790448837033) (2026-06-14)
 - [AIonBase_](https://x.com/AIonBase_/status/2019752568595833185) (2026-07-10)
 - [AIonBase_](https://x.com/AIonBase_/status/2063002925761237147) (2026-06-05)
+- [APompliano](https://x.com/APompliano/status/2079571863642984883) (2026-07-25)
 - [AdelDeveloperX](https://x.com/AdelDeveloperX/status/2074195359199375745) (2026-07-07)
 - [Aileverager](https://x.com/Aileverager/status/2079291494335205865) (2026-07-21)
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2073021437963825410) (2026-07-05)
@@ -23,6 +25,7 @@ total_mentions: 150
 - [Alacritic_Super](https://x.com/Alacritic_Super/status/2073432786128744624) (2026-07-05)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2076366894655848871) (2026-07-13)
 - [AndrewYNg](https://x.com/AndrewYNg/status/1975614372799283423) (2026-06-12)
+- [Av1dlive](https://x.com/Av1dlive/status/2079996209448780202) (2026-07-25)
 - [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2078578545429991768) (2026-07-24)
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2062873857304752368) (2026-06-05)
@@ -108,6 +111,7 @@ total_mentions: 150
 - [expertwith_AI](https://x.com/expertwith_AI/status/2070094109109567845) (2026-06-27)
 - [forecast_agents](https://x.com/forecast_agents/status/2079822864614555806) (2026-07-22)
 - [gippp69](https://x.com/gippp69/status/2062224522237890675) (2026-06-08)
+- [gkisokay](https://x.com/gkisokay/status/2020853629306212478) (2026-07-25)
 - [goyalshaliniuk](https://x.com/goyalshaliniuk/status/2079529319765033276) (2026-07-22)
 - [hasantoxr](https://x.com/hasantoxr/status/2075864853542269183) (2026-07-15)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)

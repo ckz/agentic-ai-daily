@@ -1,13 +1,14 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-24
-total_mentions: 203
+last_seen: 2026-07-25
+total_mentions: 206
 
 ## Related Tweets
 - [AFpost](https://x.com/AFpost/status/2078881670162202801) (2026-07-20)
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
+- [AlphaCapitalUK](https://x.com/AlphaCapitalUK/status/2079957138730848366) (2026-07-25)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2079915295230038426) (2026-07-23)
 - [Argona0x](https://x.com/Argona0x/status/2065525815106769169) (2026-06-13)
 - [ArrushAdityadev](https://x.com/ArrushAdityadev/status/2061674017929703768) (2026-06-08)
@@ -134,8 +135,10 @@ total_mentions: 203
 - [elonmusk](https://x.com/elonmusk/status/2071673460779041155) (2026-07-02)
 - [ericgudboy](https://x.com/ericgudboy/status/2073282068235321743) (2026-07-04)
 - [ethereum](https://x.com/ethereum/status/2079217433059996150) (2026-07-23)
+- [fin465](https://x.com/fin465/status/2079993565019795637) (2026-07-25)
 - [fundingtraders](https://x.com/fundingtraders/status/2072289577017000341) (2026-07-06)
 - [gdb](https://x.com/gdb/status/2076686329686171666) (2026-07-14)
+- [gkisokay](https://x.com/gkisokay/status/2020853629306212478) (2026-07-25)
 - [gnoble79](https://x.com/gnoble79/status/2062616388963844440) (2026-06-08)
 - [gregisenberg](https://x.com/gregisenberg/status/1893687593755164940) (2026-07-03)
 - [gregisenberg](https://x.com/gregisenberg/status/1906697683089101113) (2026-07-20)
