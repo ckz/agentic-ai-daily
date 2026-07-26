@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-25
-total_mentions: 206
+last_seen: 2026-07-26
+total_mentions: 211
 
 ## Related Tweets
 - [AFpost](https://x.com/AFpost/status/2078881670162202801) (2026-07-20)
@@ -16,6 +16,7 @@ total_mentions: 206
 - [AtomsNotBits](https://x.com/AtomsNotBits/status/2072429730788413662) (2026-07-02)
 - [AvinashSingh_20](https://x.com/AvinashSingh_20/status/2071233793311318133) (2026-07-05)
 - [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2078578545429991768) (2026-07-24)
+- [BernieSanders](https://x.com/BernieSanders/status/2080047245433438469) (2026-07-26)
 - [Brennan_Lup](https://x.com/Brennan_Lup/status/2064930712739090835) (2026-06-11)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2062148017818419548) (2026-06-09)
@@ -36,6 +37,7 @@ total_mentions: 206
 - [Hesamation](https://x.com/Hesamation/status/1970585800325640372) (2026-06-07)
 - [HeyRohhit](https://x.com/HeyRohhit/status/2079594120977527102) (2026-07-22)
 - [IPONewsroom_](https://x.com/IPONewsroom_/status/2065081323803267479) (2026-06-13)
+- [IREN_Ltd](https://x.com/IREN_Ltd/status/2079162785804812622) (2026-07-26)
 - [InTheAssembly](https://x.com/InTheAssembly/status/2073857255099773185) (2026-07-06)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2075516156161536088) (2026-07-13)
 - [Kappaemme1926](https://x.com/Kappaemme1926/status/2076637778734153857) (2026-07-14)
@@ -175,8 +177,10 @@ total_mentions: 206
 - [paulg](https://x.com/paulg/status/2069821293596148004) (2026-06-28)
 - [paulg](https://x.com/paulg/status/2076784398347968777) (2026-07-18)
 - [peer_rich](https://x.com/peer_rich/status/2062949788081897633) (2026-06-05)
+- [pelositracker](https://x.com/pelositracker/status/2080314321649746194) (2026-07-26)
 - [pierreeliottlal](https://x.com/pierreeliottlal/status/2066037831626362988) (2026-06-14)
 - [rahulbais136](https://x.com/rahulbais136/status/2077192536335192463) (2026-07-15)
+- [richtosho](https://x.com/richtosho/status/2078797686451409133) (2026-07-26)
 - [ridark_eth](https://x.com/ridark_eth/status/2068120584047804649) (2026-06-20)
 - [rihntv](https://x.com/rihntv/status/2075390652284654046) (2026-07-10)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2065184524754112720) (2026-06-14)
@@ -198,6 +202,7 @@ total_mentions: 206
 - [theaiportfolios](https://x.com/theaiportfolios/status/2074195013257273580) (2026-07-13)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2068965021514891696) (2026-06-27)
+- [thisguyknowsai](https://x.com/thisguyknowsai/status/2079488476303773921) (2026-07-26)
 - [thomasschulzz](https://x.com/thomasschulzz/status/2076002167702405584) (2026-07-12)
 - [trikcode](https://x.com/trikcode/status/2078755471205253481) (2026-07-20)
 - [twistartups](https://x.com/twistartups/status/2071744145119465724) (2026-07-02)

@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-07-25
-total_mentions: 277
+last_seen: 2026-07-26
+total_mentions: 281
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -20,6 +20,7 @@ total_mentions: 277
 - [AiCamila_](https://x.com/AiCamila_/status/2076911076885823887) (2026-07-15)
 - [AiNicolas75316](https://x.com/AiNicolas75316/status/2079199374819914080) (2026-07-22)
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2073021437963825410) (2026-07-05)
+- [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2081039269414793590) (2026-07-26)
 - [Akasheth_](https://x.com/Akasheth_/status/2063933265954918837) (2026-06-10)
 - [Alacritic_Super](https://x.com/Alacritic_Super/status/2073340264895438850) (2026-07-05)
 - [AlchemyJ_io](https://x.com/AlchemyJ_io/status/2074319995035939293) (2026-07-07)
@@ -106,6 +107,7 @@ total_mentions: 277
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/1975269391244874103) (2026-06-08)
 - [OptimaiNetwork](https://x.com/OptimaiNetwork/status/2014178144429723810) (2026-06-10)
 - [PalantirTech](https://x.com/PalantirTech/status/2077032712578199604) (2026-07-15)
+- [Peevibes007](https://x.com/Peevibes007/status/2047915508260073869) (2026-07-26)
 - [PythonDvz](https://x.com/PythonDvz/status/2063623261678698575) (2026-06-10)
 - [Rahul1539482](https://x.com/Rahul1539482/status/2068215799849091178) (2026-06-20)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2062274372388507726) (2026-06-05)
@@ -150,6 +152,7 @@ total_mentions: 277
 - [aiexplorations](https://x.com/aiexplorations/status/2076531708690899009) (2026-07-13)
 - [aiteachme_ai](https://x.com/aiteachme_ai/status/2067775023541100666) (2026-06-19)
 - [aiteachme_ai](https://x.com/aiteachme_ai/status/2078646890137108586) (2026-07-19)
+- [aiteachme_ai](https://x.com/aiteachme_ai/status/2081183410941280635) (2026-07-26)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2070587039679185397) (2026-06-27)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2071509401224261823) (2026-06-30)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2078460229365408100) (2026-07-23)
@@ -223,6 +226,7 @@ total_mentions: 277
 - [ipfconline1](https://x.com/ipfconline1/status/2066408115369656823) (2026-06-15)
 - [islam_naserr](https://x.com/islam_naserr/status/2065299167560257970) (2026-06-12)
 - [it_unprofession](https://x.com/it_unprofession/status/2074958200663953854) (2026-07-11)
+- [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)
 - [jakezward](https://x.com/jakezward/status/2077014538000482693) (2026-07-16)
 - [johnvirality](https://x.com/johnvirality/status/2070571963555152330) (2026-06-29)
 - [kenAI_domains](https://x.com/kenAI_domains/status/2080371618954490323) (2026-07-24)

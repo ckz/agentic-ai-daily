@@ -1,13 +1,14 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-25
-total_mentions: 21
+last_seen: 2026-07-26
+total_mentions: 23
 
 ## Related Tweets
 - [0xDepressionn](https://x.com/0xDepressionn/status/2063987019068371128) (2026-06-10)
 - [0xSammy](https://x.com/0xSammy/status/1882500633573609980) (2026-06-08)
 - [0xchadx](https://x.com/0xchadx/status/2067862587174244810) (2026-06-19)
+- [AnthonyNAguirre](https://x.com/AnthonyNAguirre/status/2080523331988500488) (2026-07-26)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2064900509933175066) (2026-06-11)
 - [EugenioFierro3](https://x.com/EugenioFierro3/status/2070777655926906996) (2026-06-27)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2073709900820099232) (2026-07-06)
@@ -23,6 +24,7 @@ total_mentions: 21
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1879706901170077978) (2026-06-11)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/2077467370616967277) (2026-07-20)
 - [israfill](https://x.com/israfill/status/2068936531780555013) (2026-06-27)
+- [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)
 - [jietang](https://x.com/jietang/status/2067022641949814893) (2026-06-19)
 - [monmiglobal](https://x.com/monmiglobal/status/2071399421997359236) (2026-06-29)
 - [unusual_whales](https://x.com/unusual_whales/status/2079958900032655634) (2026-07-23)
