@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-26
-total_mentions: 211
+last_seen: 2026-07-27
+total_mentions: 217
 
 ## Related Tweets
 - [AFpost](https://x.com/AFpost/status/2078881670162202801) (2026-07-20)
@@ -112,6 +112,7 @@ total_mentions: 211
 - [axi_master](https://x.com/axi_master/status/2067655053050352041) (2026-06-19)
 - [benln](https://x.com/benln/status/2062927277759893629) (2026-06-06)
 - [benln](https://x.com/benln/status/2068756286435389467) (2026-06-28)
+- [blaire_pang](https://x.com/blaire_pang/status/2081545224372068594) (2026-07-27)
 - [bondaicommunity](https://x.com/bondaicommunity/status/2071466190359220413) (2026-06-29)
 - [business](https://x.com/business/status/2063849595688407299) (2026-06-08)
 - [business](https://x.com/business/status/2064560376595804273) (2026-06-10)
@@ -138,6 +139,7 @@ total_mentions: 211
 - [ericgudboy](https://x.com/ericgudboy/status/2073282068235321743) (2026-07-04)
 - [ethereum](https://x.com/ethereum/status/2079217433059996150) (2026-07-23)
 - [fin465](https://x.com/fin465/status/2079993565019795637) (2026-07-25)
+- [fin465](https://x.com/fin465/status/2081459766287888794) (2026-07-27)
 - [fundingtraders](https://x.com/fundingtraders/status/2072289577017000341) (2026-07-06)
 - [gdb](https://x.com/gdb/status/2076686329686171666) (2026-07-14)
 - [gkisokay](https://x.com/gkisokay/status/2020853629306212478) (2026-07-25)
@@ -151,6 +153,7 @@ total_mentions: 211
 - [gregisenberg](https://x.com/gregisenberg/status/2065184897296146724) (2026-06-15)
 - [gregisenberg](https://x.com/gregisenberg/status/2065773938915889253) (2026-06-15)
 - [gregisenberg](https://x.com/gregisenberg/status/2077471201002185195) (2026-07-16)
+- [gregisenberg](https://x.com/gregisenberg/status/2081088155793465783) (2026-07-27)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [iam_elias1](https://x.com/iam_elias1/status/2062095528742240319) (2026-06-05)
 - [itsmichaelluu](https://x.com/itsmichaelluu/status/2064692678608990537) (2026-06-11)
@@ -204,14 +207,17 @@ total_mentions: 211
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2068965021514891696) (2026-06-27)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2079488476303773921) (2026-07-26)
 - [thomasschulzz](https://x.com/thomasschulzz/status/2076002167702405584) (2026-07-12)
+- [tiovikram](https://x.com/tiovikram/status/2081559019978907975) (2026-07-27)
 - [trikcode](https://x.com/trikcode/status/2078755471205253481) (2026-07-20)
 - [twistartups](https://x.com/twistartups/status/2071744145119465724) (2026-07-02)
+- [tylerrwayne](https://x.com/tylerrwayne/status/2081620596862202335) (2026-07-27)
 - [undefinedKi](https://x.com/undefinedKi/status/2063615286301839698) (2026-06-08)
 - [unusual_whales](https://x.com/unusual_whales/status/2069766741404844484) (2026-07-01)
 - [unusual_whales](https://x.com/unusual_whales/status/2079702282443293037) (2026-07-24)
 - [vigneshxtech](https://x.com/vigneshxtech/status/2068597287010349323) (2026-06-21)
 - [vipulved](https://x.com/vipulved/status/2072321276094673083) (2026-07-02)
 - [wickedguro](https://x.com/wickedguro/status/2072654822449586327) (2026-07-09)
+- [wickedguro](https://x.com/wickedguro/status/2081582808041210156) (2026-07-27)
 - [xandurglar](https://x.com/xandurglar/status/2070179038417821777) (2026-06-29)
 - [ycombinator](https://x.com/ycombinator/status/2062202902543016140) (2026-06-05)
 - [ycombinator](https://x.com/ycombinator/status/2069110874242252853) (2026-06-28)

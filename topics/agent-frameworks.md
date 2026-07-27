@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-07-26
-total_mentions: 281
+last_seen: 2026-07-27
+total_mentions: 283
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -82,6 +82,8 @@ total_mentions: 281
 - [HuggingPapers](https://x.com/HuggingPapers/status/2068205769002991901) (2026-06-20)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2070489753573548365) (2026-07-03)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2071241599372100056) (2026-06-29)
+- [HuggingPapers](https://x.com/HuggingPapers/status/2081387446646772212) (2026-07-27)
+- [HuggingPapers](https://x.com/HuggingPapers/status/2081610373082341766) (2026-07-27)
 - [HunterAllen4](https://x.com/HunterAllen4/status/2073988980068979122) (2026-07-06)
 - [HyperionXTrade](https://x.com/HyperionXTrade/status/2066015535045992470) (2026-06-14)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
