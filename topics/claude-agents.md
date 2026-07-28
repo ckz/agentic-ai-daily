@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-27
-total_mentions: 116
+last_seen: 2026-07-28
+total_mentions: 118
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -56,6 +56,7 @@ total_mentions: 116
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2079048442073280524) (2026-07-21)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
 - [Steve8708](https://x.com/Steve8708/status/2077051086234685641) (2026-07-15)
+- [Suryanshti777](https://x.com/Suryanshti777/status/2081761224241627420) (2026-07-28)
 - [WesRoth](https://x.com/WesRoth/status/2043871865513619560) (2026-07-24)
 - [WesRoth](https://x.com/WesRoth/status/2062398945607725142) (2026-06-10)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
@@ -115,6 +116,7 @@ total_mentions: 116
 - [stretchcloud](https://x.com/stretchcloud/status/2074649666608840706) (2026-07-08)
 - [tanayj](https://x.com/tanayj/status/2072108170080657729) (2026-07-01)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
+- [thisguyknowsai](https://x.com/thisguyknowsai/status/2081680037544427793) (2026-07-28)
 - [timsneath](https://x.com/timsneath/status/2072479088661651612) (2026-07-02)
 - [undefinedKi](https://x.com/undefinedKi/status/2070221446786215970) (2026-06-27)
 - [undefinedKi](https://x.com/undefinedKi/status/2070864207608684800) (2026-06-28)

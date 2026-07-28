@@ -1,13 +1,14 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-27
-total_mentions: 24
+last_seen: 2026-07-28
+total_mentions: 27
 
 ## Related Tweets
 - [0xDepressionn](https://x.com/0xDepressionn/status/2063987019068371128) (2026-06-10)
 - [0xSammy](https://x.com/0xSammy/status/1882500633573609980) (2026-06-08)
 - [0xchadx](https://x.com/0xchadx/status/2067862587174244810) (2026-06-19)
+- [AndrewCurran_](https://x.com/AndrewCurran_/status/2080793930279625134) (2026-07-28)
 - [AnthonyNAguirre](https://x.com/AnthonyNAguirre/status/2080523331988500488) (2026-07-26)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2064900509933175066) (2026-06-11)
 - [EugenioFierro3](https://x.com/EugenioFierro3/status/2070777655926906996) (2026-06-27)
@@ -17,6 +18,8 @@ total_mentions: 24
 - [RegalosDigitals](https://x.com/RegalosDigitals/status/2071263024212508813) (2026-06-29)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
 - [TeksCreate](https://x.com/TeksCreate/status/2081499683571040408) (2026-07-27)
+- [VaibhavSisinty](https://x.com/VaibhavSisinty/status/2079823267750408589) (2026-07-28)
+- [WatcherGuru](https://x.com/WatcherGuru/status/2080780405179904206) (2026-07-28)
 - [alex_verem](https://x.com/alex_verem/status/2075994424484732984) (2026-07-12)
 - [alexxubyte](https://x.com/alexxubyte/status/2062186586431987780) (2026-06-05)
 - [alexxubyte](https://x.com/alexxubyte/status/2079947947173933452) (2026-07-23)

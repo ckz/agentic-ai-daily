@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-27
-total_mentions: 217
+last_seen: 2026-07-28
+total_mentions: 219
 
 ## Related Tweets
 - [AFpost](https://x.com/AFpost/status/2078881670162202801) (2026-07-20)
@@ -110,6 +110,7 @@ total_mentions: 217
 - [aw_trades_](https://x.com/aw_trades_/status/2073794807323889781) (2026-07-06)
 - [awwstn](https://x.com/awwstn/status/2067750610963939571) (2026-06-19)
 - [axi_master](https://x.com/axi_master/status/2067655053050352041) (2026-06-19)
+- [axisrobotics](https://x.com/axisrobotics/status/2081711331791827387) (2026-07-28)
 - [benln](https://x.com/benln/status/2062927277759893629) (2026-06-06)
 - [benln](https://x.com/benln/status/2068756286435389467) (2026-06-28)
 - [blaire_pang](https://x.com/blaire_pang/status/2081545224372068594) (2026-07-27)
@@ -201,6 +202,7 @@ total_mentions: 217
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
 - [suni_code](https://x.com/suni_code/status/2073859515485974967) (2026-07-08)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
+- [tednotlasso](https://x.com/tednotlasso/status/2081022216381305275) (2026-07-28)
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)
 - [theaiportfolios](https://x.com/theaiportfolios/status/2074195013257273580) (2026-07-13)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)

@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-07-27
-total_mentions: 375
+last_seen: 2026-07-28
+total_mentions: 382
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -27,6 +27,7 @@ total_mentions: 375
 - [AiwithDharmik](https://x.com/AiwithDharmik/status/2074701028499550480) (2026-07-08)
 - [Akasheth_](https://x.com/Akasheth_/status/2063933265954918837) (2026-06-10)
 - [Alacritic_Super](https://x.com/Alacritic_Super/status/2073340264895438850) (2026-07-05)
+- [AlexRiad84837](https://x.com/AlexRiad84837/status/2081962166127878526) (2026-07-28)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2075624719043166464) (2026-07-11)
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2069720365442719867) (2026-06-27)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2076366894655848871) (2026-07-13)
@@ -40,6 +41,7 @@ total_mentions: 375
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2063598644293484741) (2026-06-08)
 - [BitBlitzBuzz](https://x.com/BitBlitzBuzz/status/2070751322715148478) (2026-06-27)
 - [BradGroux](https://x.com/BradGroux/status/2065096482831659348) (2026-06-13)
+- [ChemistDeFi](https://x.com/ChemistDeFi/status/2079486844257833203) (2026-07-28)
 - [Chriz_emy](https://x.com/Chriz_emy/status/2079291257944510883) (2026-07-21)
 - [Chriz_emy](https://x.com/Chriz_emy/status/2079370957169324474) (2026-07-21)
 - [ClaudeCode_love](https://x.com/ClaudeCode_love/status/2074100297807614014) (2026-07-08)
@@ -67,6 +69,7 @@ total_mentions: 375
 - [ErickSky](https://x.com/ErickSky/status/2063701338316292495) (2026-06-08)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
 - [FellMentKE](https://x.com/FellMentKE/status/2064573513642758328) (2026-06-10)
+- [GcodeXS](https://x.com/GcodeXS/status/2079666529579446545) (2026-07-28)
 - [GithubProjects](https://x.com/GithubProjects/status/2063327571698434443) (2026-06-07)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [HoodAI0x](https://x.com/HoodAI0x/status/2079228983309176849) (2026-07-21)
@@ -122,6 +125,7 @@ total_mentions: 375
 - [QT9277](https://x.com/QT9277/status/2070809791933587782) (2026-07-04)
 - [Revolt_Fi](https://x.com/Revolt_Fi/status/2079266777163522467) (2026-07-21)
 - [RhysSullivan](https://x.com/RhysSullivan/status/2073538819132207489) (2026-07-05)
+- [RobinHubHB](https://x.com/RobinHubHB/status/2080744829907267752) (2026-07-28)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2062961399387861119) (2026-06-06)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2065981298087530958) (2026-06-14)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2075433581539672149) (2026-07-10)
@@ -138,6 +142,7 @@ total_mentions: 375
 - [ShenSeanChen](https://x.com/ShenSeanChen/status/2081118331097284801) (2026-07-27)
 - [SilenceCaPrompt](https://x.com/SilenceCaPrompt/status/2060769285224739159) (2026-06-06)
 - [Smartpigai](https://x.com/Smartpigai/status/2063095358075597009) (2026-06-08)
+- [SourabhGurwani](https://x.com/SourabhGurwani/status/2081721763428483158) (2026-07-28)
 - [Spectre__AI](https://x.com/Spectre__AI/status/2074395117297824093) (2026-07-07)
 - [Star_Knight12](https://x.com/Star_Knight12/status/2076631428926972177) (2026-07-14)
 - [StatsWire](https://x.com/StatsWire/status/2073263718453149877) (2026-07-04)
@@ -146,6 +151,7 @@ total_mentions: 375
 - [SvpChain](https://x.com/SvpChain/status/2064935788345974954) (2026-06-11)
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2065300113254388162) (2026-06-12)
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2074344040125091936) (2026-07-07)
+- [Teknium](https://x.com/Teknium/status/2081450522608107816) (2026-07-28)
 - [TeksCreate](https://x.com/TeksCreate/status/2081499683571040408) (2026-07-27)
 - [TencentAI_News](https://x.com/TencentAI_News/status/2080564369130471512) (2026-07-26)
 - [ThePrimeagen](https://x.com/ThePrimeagen/status/2070507324762947761) (2026-06-27)
@@ -222,6 +228,7 @@ total_mentions: 375
 - [cyrilXBT](https://x.com/cyrilXBT/status/2076616124482150865) (2026-07-14)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2077628796572741967) (2026-07-16)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2077690956393181386) (2026-07-22)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2081944669387137257) (2026-07-28)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [davemccollough](https://x.com/davemccollough/status/2064154192856670213) (2026-06-09)
 - [dawoodkhan254](https://x.com/dawoodkhan254/status/2081031854371819912) (2026-07-26)

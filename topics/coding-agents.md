@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-27
-total_mentions: 70
+last_seen: 2026-07-28
+total_mentions: 73
 
 ## Related Tweets
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
@@ -24,11 +24,13 @@ total_mentions: 70
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2071971609183678544) (2026-07-01)
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
+- [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2081303563746398665) (2026-07-28)
 - [NVIDIAAI](https://x.com/NVIDIAAI/status/2069858097930121319) (2026-06-30)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2075275868268789885) (2026-07-11)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
 - [SIGKITTEN](https://x.com/SIGKITTEN/status/1980809995823591805) (2026-06-12)
 - [SarvamAI](https://x.com/SarvamAI/status/2074116231461011764) (2026-07-07)
+- [SourabhGurwani](https://x.com/SourabhGurwani/status/2081721763428483158) (2026-07-28)
 - [TeksCreate](https://x.com/TeksCreate/status/2068138970131632591) (2026-06-20)
 - [TeksEdge](https://x.com/TeksEdge/status/2075437935265190020) (2026-07-11)
 - [TheValueist](https://x.com/TheValueist/status/2072334968940900744) (2026-07-03)
@@ -70,6 +72,7 @@ total_mentions: 70
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2077223722654834863) (2026-07-16)
 - [stretchcloud](https://x.com/stretchcloud/status/2079772421947560434) (2026-07-22)
 - [tamrrat](https://x.com/tamrrat/status/2077136461489467450) (2026-07-15)
+- [thisguyknowsai](https://x.com/thisguyknowsai/status/2081680037544427793) (2026-07-28)
 - [tomgreenwald](https://x.com/tomgreenwald/status/2068008885018062868) (2026-06-20)
 - [unclejohnny101](https://x.com/unclejohnny101/status/2079728030310969809) (2026-07-22)
 - [undefinedKi](https://x.com/undefinedKi/status/2071931934012211642) (2026-07-02)
