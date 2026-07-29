@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-07-28
-total_mentions: 382
+last_seen: 2026-07-29
+total_mentions: 392
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -16,6 +16,7 @@ total_mentions: 382
 - [0xMovez](https://x.com/0xMovez/status/2057103411783307293) (2026-06-10)
 - [0xMovez](https://x.com/0xMovez/status/2075295372423868917) (2026-07-10)
 - [0xWast3](https://x.com/0xWast3/status/2077395455005131005) (2026-07-16)
+- [0xeduu](https://x.com/0xeduu/status/2082157204199608411) (2026-07-29)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2063244577482440978) (2026-06-11)
 - [AIWarper](https://x.com/AIWarper/status/2070535586075885912) (2026-06-27)
 - [AIdanSolves](https://x.com/AIdanSolves/status/2073162229533262290) (2026-07-04)
@@ -37,6 +38,7 @@ total_mentions: 382
 - [Atenov_D](https://x.com/Atenov_D/status/2063583110495707530) (2026-06-08)
 - [Av1dlive](https://x.com/Av1dlive/status/2077048656545628206) (2026-07-15)
 - [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2067914133576749325) (2026-06-21)
+- [Aykutuces](https://x.com/Aykutuces/status/2082167918138106256) (2026-07-29)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2062873857304752368) (2026-06-05)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2063598644293484741) (2026-06-08)
 - [BitBlitzBuzz](https://x.com/BitBlitzBuzz/status/2070751322715148478) (2026-06-27)
@@ -48,6 +50,7 @@ total_mentions: 382
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2064072801062121906) (2026-06-09)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2067655887662272723) (2026-06-19)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2077489907350856038) (2026-07-16)
+- [ClaudeDevs](https://x.com/ClaudeDevs/status/2082164248697069935) (2026-07-29)
 - [Clawnch_Bot](https://x.com/Clawnch_Bot/status/2069463550788067626) (2026-06-29)
 - [Cloudflare](https://x.com/Cloudflare/status/2072311802285723953) (2026-07-04)
 - [ComfyUI](https://x.com/ComfyUI/status/2071625866912944151) (2026-06-30)
@@ -67,6 +70,7 @@ total_mentions: 382
 - [DotCSV](https://x.com/DotCSV/status/2076725628963783114) (2026-07-17)
 - [EHuanglu](https://x.com/EHuanglu/status/2077091952252875189) (2026-07-15)
 - [ErickSky](https://x.com/ErickSky/status/2063701338316292495) (2026-06-08)
+- [ErnestoSOFTWARE](https://x.com/ErnestoSOFTWARE/status/2082153329207951654) (2026-07-29)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
 - [FellMentKE](https://x.com/FellMentKE/status/2064573513642758328) (2026-06-10)
 - [GcodeXS](https://x.com/GcodeXS/status/2079666529579446545) (2026-07-28)
@@ -125,6 +129,7 @@ total_mentions: 382
 - [QT9277](https://x.com/QT9277/status/2070809791933587782) (2026-07-04)
 - [Revolt_Fi](https://x.com/Revolt_Fi/status/2079266777163522467) (2026-07-21)
 - [RhysSullivan](https://x.com/RhysSullivan/status/2073538819132207489) (2026-07-05)
+- [RobinHubHB](https://x.com/RobinHubHB/status/2080004956216611060) (2026-07-29)
 - [RobinHubHB](https://x.com/RobinHubHB/status/2080744829907267752) (2026-07-28)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2062961399387861119) (2026-06-06)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2065981298087530958) (2026-06-14)
@@ -142,6 +147,7 @@ total_mentions: 382
 - [ShenSeanChen](https://x.com/ShenSeanChen/status/2081118331097284801) (2026-07-27)
 - [SilenceCaPrompt](https://x.com/SilenceCaPrompt/status/2060769285224739159) (2026-06-06)
 - [Smartpigai](https://x.com/Smartpigai/status/2063095358075597009) (2026-06-08)
+- [Solvaix](https://x.com/Solvaix/status/2082190359539712344) (2026-07-29)
 - [SourabhGurwani](https://x.com/SourabhGurwani/status/2081721763428483158) (2026-07-28)
 - [Spectre__AI](https://x.com/Spectre__AI/status/2074395117297824093) (2026-07-07)
 - [Star_Knight12](https://x.com/Star_Knight12/status/2076631428926972177) (2026-07-14)
@@ -239,6 +245,7 @@ total_mentions: 382
 - [dr_cintas](https://x.com/dr_cintas/status/2065260939134280044) (2026-06-12)
 - [dr_cintas](https://x.com/dr_cintas/status/2072714904650359130) (2026-07-03)
 - [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
+- [dsp_](https://x.com/dsp_/status/2082173429399142616) (2026-07-29)
 - [e_opore](https://x.com/e_opore/status/2073977846448451776) (2026-07-06)
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
@@ -314,6 +321,7 @@ total_mentions: 382
 - [milesdeutscher](https://x.com/milesdeutscher/status/2080763866200645792) (2026-07-25)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2080865392357208266) (2026-07-25)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
+- [nrlartt](https://x.com/nrlartt/status/2082153925491249607) (2026-07-29)
 - [nubis_app](https://x.com/nubis_app/status/2065699995399881189) (2026-06-13)
 - [ocodista](https://x.com/ocodista/status/2064366920049004753) (2026-06-10)
 - [oldgamesnob](https://x.com/oldgamesnob/status/2070891527820509292) (2026-06-28)
@@ -322,6 +330,7 @@ total_mentions: 382
 - [openart_ai](https://x.com/openart_ai/status/2067650953478652126) (2026-06-19)
 - [openshipio](https://x.com/openshipio/status/2078143909125923137) (2026-07-19)
 - [ossphere_dev](https://x.com/ossphere_dev/status/2068219798438461644) (2026-06-20)
+- [pederzh](https://x.com/pederzh/status/2082119638188712386) (2026-07-29)
 - [phosphenq](https://x.com/phosphenq/status/2072363705090666559) (2026-07-02)
 - [polsia](https://x.com/polsia/status/2062988231151677690) (2026-06-05)
 - [polydao](https://x.com/polydao/status/2071832672066830847) (2026-07-01)
@@ -382,6 +391,7 @@ total_mentions: 382
 - [waveking1314](https://x.com/waveking1314/status/2063261659259400349) (2026-06-07)
 - [wsmaisys](https://x.com/wsmaisys/status/2068239014780452953) (2026-06-20)
 - [xiaoying_eth](https://x.com/xiaoying_eth/status/2064183483795460502) (2026-06-10)
+- [xikhar](https://x.com/xikhar/status/2082220460486639929) (2026-07-29)
 - [yozm_it](https://x.com/yozm_it/status/2071417501792211397) (2026-06-29)
 - [zackpaid](https://x.com/zackpaid/status/2065125827864678420) (2026-06-12)
 - [zaynmcps](https://x.com/zaynmcps/status/2074856361595179240) (2026-07-09)

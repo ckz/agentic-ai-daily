@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-28
-total_mentions: 118
+last_seen: 2026-07-29
+total_mentions: 120
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -47,6 +47,7 @@ total_mentions: 118
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
 - [Meituan_LongCat](https://x.com/Meituan_LongCat/status/2073768940078317713) (2026-07-06)
 - [MetaforDevs](https://x.com/MetaforDevs/status/2072474629852348684) (2026-07-02)
+- [NoahTopper](https://x.com/NoahTopper/status/2081966112691089472) (2026-07-29)
 - [NousResearch](https://x.com/NousResearch/status/2026759005633183980) (2026-06-07)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
 - [RegalosDigitals](https://x.com/RegalosDigitals/status/2071263024212508813) (2026-06-29)
@@ -57,6 +58,7 @@ total_mentions: 118
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
 - [Steve8708](https://x.com/Steve8708/status/2077051086234685641) (2026-07-15)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2081761224241627420) (2026-07-28)
+- [Ubermenscchh](https://x.com/Ubermenscchh/status/2082120061951856912) (2026-07-29)
 - [WesRoth](https://x.com/WesRoth/status/2043871865513619560) (2026-07-24)
 - [WesRoth](https://x.com/WesRoth/status/2062398945607725142) (2026-06-10)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)

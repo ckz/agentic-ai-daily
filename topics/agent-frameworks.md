@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-07-28
-total_mentions: 292
+last_seen: 2026-07-29
+total_mentions: 300
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -31,6 +31,7 @@ total_mentions: 292
 - [ArslyTech](https://x.com/ArslyTech/status/2063153998518235584) (2026-06-06)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065559824230957190) (2026-06-14)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2076747075036045645) (2026-07-14)
+- [Av1dlive](https://x.com/Av1dlive/status/2082039763511673129) (2026-07-29)
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
 - [CSVisionPapers](https://x.com/CSVisionPapers/status/2072902537439481931) (2026-07-03)
@@ -73,6 +74,7 @@ total_mentions: 292
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2079300183926374716) (2026-07-21)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2079921605442973879) (2026-07-23)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2080708199594823736) (2026-07-25)
+- [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2082179408857608436) (2026-07-29)
 - [GoogleCloud_IL](https://x.com/GoogleCloud_IL/status/2075120271111954818) (2026-07-09)
 - [GoogleCloud_IL](https://x.com/GoogleCloud_IL/status/2079831311980564832) (2026-07-22)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
@@ -110,6 +112,7 @@ total_mentions: 292
 - [NainsiDwiv50980](https://x.com/NainsiDwiv50980/status/2062154970229858372) (2026-06-06)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/1975269391244874103) (2026-06-08)
 - [OptimaiNetwork](https://x.com/OptimaiNetwork/status/2014178144429723810) (2026-06-10)
+- [OurTinTinLand](https://x.com/OurTinTinLand/status/2082351358876033195) (2026-07-29)
 - [PalantirTech](https://x.com/PalantirTech/status/2077032712578199604) (2026-07-15)
 - [Peevibes007](https://x.com/Peevibes007/status/2047915508260073869) (2026-07-26)
 - [PythonDvz](https://x.com/PythonDvz/status/2063623261678698575) (2026-06-10)
@@ -119,6 +122,7 @@ total_mentions: 292
 - [Rukkssss__](https://x.com/Rukkssss__/status/2068218163414642701) (2026-06-20)
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2063086140799012963) (2026-06-06)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
+- [ShawnYao77](https://x.com/ShawnYao77/status/2082343891689504790) (2026-07-29)
 - [SilenceCaPrompt](https://x.com/SilenceCaPrompt/status/2060769285224739159) (2026-06-06)
 - [Slappjakke](https://x.com/Slappjakke/status/1924051973378314393) (2026-07-10)
 - [SolanaHub_](https://x.com/SolanaHub_/status/2008992037417185560) (2026-07-10)
@@ -146,6 +150,7 @@ total_mentions: 292
 - [_akhaliq](https://x.com/_akhaliq/status/2072347990337954042) (2026-07-03)
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
 - [_avichawla](https://x.com/_avichawla/status/2076952441728459082) (2026-07-15)
+- [_nat](https://x.com/_nat/status/2082320053626921372) (2026-07-29)
 - [_vmlops](https://x.com/_vmlops/status/2063841886193004672) (2026-06-09)
 - [_vmlops](https://x.com/_vmlops/status/2070449302116380680) (2026-06-27)
 - [aanandsivaraman](https://x.com/aanandsivaraman/status/2079771714964144432) (2026-07-22)
@@ -154,6 +159,7 @@ total_mentions: 292
 - [adxtyahq](https://x.com/adxtyahq/status/2062090077296283932) (2026-06-08)
 - [agenticbrew](https://x.com/agenticbrew/status/2072848219084910646) (2026-07-03)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
+- [aicryptoboss](https://x.com/aicryptoboss/status/2082348441506603086) (2026-07-29)
 - [aiedge_](https://x.com/aiedge_/status/2070016711341040054) (2026-06-27)
 - [aiexplorations](https://x.com/aiexplorations/status/2076531708690899009) (2026-07-13)
 - [aiteachme_ai](https://x.com/aiteachme_ai/status/2067775023541100666) (2026-06-19)
@@ -180,6 +186,7 @@ total_mentions: 292
 - [badidoyo](https://x.com/badidoyo/status/2071821032114061798) (2026-06-30)
 - [better_auth](https://x.com/better_auth/status/2074523839300513921) (2026-07-08)
 - [bindureddy](https://x.com/bindureddy/status/2076165296977858836) (2026-07-12)
+- [bizbreakdowns](https://x.com/bizbreakdowns/status/2081711200643985720) (2026-07-29)
 - [bonsaixbt](https://x.com/bonsaixbt/status/2077722769194615193) (2026-07-17)
 - [bostonavionics](https://x.com/bostonavionics/status/2063158549568684369) (2026-06-06)
 - [cb_doge](https://x.com/cb_doge/status/2076291436283396496) (2026-07-18)
@@ -192,6 +199,7 @@ total_mentions: 292
 - [coinbureau](https://x.com/coinbureau/status/2031222262112858286) (2026-06-09)
 - [coreyganim](https://x.com/coreyganim/status/2074426194418926020) (2026-07-08)
 - [csaba_kissi](https://x.com/csaba_kissi/status/2074745257099485319) (2026-07-09)
+- [dabit3](https://x.com/dabit3/status/2081841031528493220) (2026-07-29)
 - [dair_ai](https://x.com/dair_ai/status/2028480209033568475) (2026-06-13)
 - [dair_ai](https://x.com/dair_ai/status/2081770344952803628) (2026-07-28)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)

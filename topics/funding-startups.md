@@ -1,10 +1,11 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-28
-total_mentions: 219
+last_seen: 2026-07-29
+total_mentions: 225
 
 ## Related Tweets
+- [5harath](https://x.com/5harath/status/2082161680516063294) (2026-07-29)
 - [AFpost](https://x.com/AFpost/status/2078881670162202801) (2026-07-20)
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
@@ -24,9 +25,11 @@ total_mentions: 219
 - [BullTheoryio](https://x.com/BullTheoryio/status/2070088724462084261) (2026-07-02)
 - [ChiefEngineerCE](https://x.com/ChiefEngineerCE/status/2080146134128021841) (2026-07-23)
 - [ChiemeOnah7812](https://x.com/ChiemeOnah7812/status/2068216698759475604) (2026-06-20)
+- [ClaudeDevs](https://x.com/ClaudeDevs/status/2080009523952263295) (2026-07-29)
 - [Codex_Changelog](https://x.com/Codex_Changelog/status/2062678248790589520) (2026-06-07)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2063005594047467893) (2026-06-05)
 - [Dhruvam987](https://x.com/Dhruvam987/status/2067811478485582025) (2026-06-19)
+- [FishAudio](https://x.com/FishAudio/status/2082152596739862853) (2026-07-29)
 - [FundedPartners](https://x.com/FundedPartners/status/2066006946860110328) (2026-06-14)
 - [FundingPerps](https://x.com/FundingPerps/status/2079290842624279026) (2026-07-21)
 - [FundingPredicts](https://x.com/FundingPredicts/status/2074286339009229172) (2026-07-07)
@@ -113,6 +116,7 @@ total_mentions: 219
 - [axisrobotics](https://x.com/axisrobotics/status/2081711331791827387) (2026-07-28)
 - [benln](https://x.com/benln/status/2062927277759893629) (2026-06-06)
 - [benln](https://x.com/benln/status/2068756286435389467) (2026-06-28)
+- [bizbreakdowns](https://x.com/bizbreakdowns/status/2081711200643985720) (2026-07-29)
 - [blaire_pang](https://x.com/blaire_pang/status/2081545224372068594) (2026-07-27)
 - [bondaicommunity](https://x.com/bondaicommunity/status/2071466190359220413) (2026-06-29)
 - [business](https://x.com/business/status/2063849595688407299) (2026-06-08)
@@ -157,6 +161,7 @@ total_mentions: 219
 - [gregisenberg](https://x.com/gregisenberg/status/2081088155793465783) (2026-07-27)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [iam_elias1](https://x.com/iam_elias1/status/2062095528742240319) (2026-06-05)
+- [inter_link](https://x.com/inter_link/status/2081053524134125832) (2026-07-29)
 - [itsmichaelluu](https://x.com/itsmichaelluu/status/2064692678608990537) (2026-06-11)
 - [itsolelehmann](https://x.com/itsolelehmann/status/2062909345537634686) (2026-06-10)
 - [james406](https://x.com/james406/status/2055362680299434300) (2026-06-09)
@@ -173,6 +178,7 @@ total_mentions: 219
 - [mikefutia](https://x.com/mikefutia/status/1932464486646001840) (2026-06-07)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2072226710448168991) (2026-07-05)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2070112027780280630) (2026-06-27)
+- [moneyacademyKE](https://x.com/moneyacademyKE/status/2080286044813926579) (2026-07-29)
 - [nanransohoff](https://x.com/nanransohoff/status/2069761661456601188) (2026-06-28)
 - [nextjs](https://x.com/nextjs/status/2071647669467201657) (2026-07-02)
 - [noah_schochet](https://x.com/noah_schochet/status/2077044441978737104) (2026-07-17)
