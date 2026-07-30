@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-07-29
-total_mentions: 392
+last_seen: 2026-07-30
+total_mentions: 402
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -10,6 +10,7 @@ total_mentions: 392
 - [0xCodez](https://x.com/0xCodez/status/2075932575147733290) (2026-07-12)
 - [0xCodez](https://x.com/0xCodez/status/2076677712761000122) (2026-07-14)
 - [0xCodez](https://x.com/0xCodez/status/2077758938938818714) (2026-07-17)
+- [0xCodila](https://x.com/0xCodila/status/2082515252445655186) (2026-07-30)
 - [0xJokker](https://x.com/0xJokker/status/2079215128621338703) (2026-07-23)
 - [0xMiraqle](https://x.com/0xMiraqle/status/2078063315767460057) (2026-07-18)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
@@ -75,6 +76,7 @@ total_mentions: 392
 - [FellMentKE](https://x.com/FellMentKE/status/2064573513642758328) (2026-06-10)
 - [GcodeXS](https://x.com/GcodeXS/status/2079666529579446545) (2026-07-28)
 - [GithubProjects](https://x.com/GithubProjects/status/2063327571698434443) (2026-06-07)
+- [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [HoodAI0x](https://x.com/HoodAI0x/status/2079228983309176849) (2026-07-21)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2076689880026096089) (2026-07-14)
@@ -106,6 +108,7 @@ total_mentions: 392
 - [MengTo](https://x.com/MengTo/status/2077214374830445035) (2026-07-16)
 - [MetaforDevs](https://x.com/MetaforDevs/status/2072474629852348684) (2026-07-02)
 - [Mho_23](https://x.com/Mho_23/status/2078545343768330490) (2026-07-19)
+- [Mho_23](https://x.com/Mho_23/status/2082600596457341398) (2026-07-30)
 - [MiguelMaestroIA](https://x.com/MiguelMaestroIA/status/2071655043615395956) (2026-06-30)
 - [MiguelMaestroIA](https://x.com/MiguelMaestroIA/status/2080703728945176833) (2026-07-26)
 - [MiniMax_AI](https://x.com/MiniMax_AI/status/2061266317815296322) (2026-06-05)
@@ -167,6 +170,7 @@ total_mentions: 392
 - [VadimStrizheus](https://x.com/VadimStrizheus/status/2063489178348703902) (2026-06-10)
 - [Veltrxai](https://x.com/Veltrxai/status/2064777828512469024) (2026-06-12)
 - [VivekIntel](https://x.com/VivekIntel/status/2073996440326873221) (2026-07-13)
+- [Voxyz_ai](https://x.com/Voxyz_ai/status/2082582856182989263) (2026-07-30)
 - [WenboGuo4](https://x.com/WenboGuo4/status/2074189902657544627) (2026-07-08)
 - [XDevelopers](https://x.com/XDevelopers/status/2071752389183647758) (2026-06-30)
 - [XFreeze](https://x.com/XFreeze/status/2065327439476375760) (2026-06-13)
@@ -184,6 +188,7 @@ total_mentions: 392
 - [_vmlops](https://x.com/_vmlops/status/2064642351394656760) (2026-06-12)
 - [aakashgupta](https://x.com/aakashgupta/status/2036653323978420322) (2026-07-05)
 - [abhishek__AI](https://x.com/abhishek__AI/status/2068588008648142910) (2026-06-21)
+- [abyssallD](https://x.com/abyssallD/status/2082264319492804953) (2026-07-30)
 - [adamuchigabriel](https://x.com/adamuchigabriel/status/2066299409894109286) (2026-06-15)
 - [adxtyahq](https://x.com/adxtyahq/status/2062090077296283932) (2026-06-08)
 - [agentfxai](https://x.com/agentfxai/status/2068085567057772841) (2026-06-20)
@@ -235,6 +240,7 @@ total_mentions: 392
 - [cyrilXBT](https://x.com/cyrilXBT/status/2077628796572741967) (2026-07-16)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2077690956393181386) (2026-07-22)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2081944669387137257) (2026-07-28)
+- [dannypostma](https://x.com/dannypostma/status/2082689872494755872) (2026-07-30)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [davemccollough](https://x.com/davemccollough/status/2064154192856670213) (2026-06-09)
 - [dawoodkhan254](https://x.com/dawoodkhan254/status/2081031854371819912) (2026-07-26)
@@ -355,6 +361,7 @@ total_mentions: 392
 - [sairahul1](https://x.com/sairahul1/status/2079929959959998829) (2026-07-23)
 - [sakhil_ai](https://x.com/sakhil_ai/status/2067798126279397885) (2026-06-19)
 - [sharbel](https://x.com/sharbel/status/2070812435653464323) (2026-06-28)
+- [shawnchauhan1](https://x.com/shawnchauhan1/status/2082685120679657715) (2026-07-30)
 - [shedntcare_](https://x.com/shedntcare_/status/2066124333559480395) (2026-06-21)
 - [shedoesai](https://x.com/shedoesai/status/2054227691671556145) (2026-06-12)
 - [shivam74689](https://x.com/shivam74689/status/2079227091380539873) (2026-07-21)
@@ -373,8 +380,10 @@ total_mentions: 392
 - [tanayj](https://x.com/tanayj/status/2072108170080657729) (2026-07-01)
 - [taycaldwell](https://x.com/taycaldwell/status/2071753251360502131) (2026-06-30)
 - [techNmak](https://x.com/techNmak/status/2068884177383047439) (2026-06-27)
+- [techdevnotes](https://x.com/techdevnotes/status/2082546312608719207) (2026-07-30)
 - [tetsuoai](https://x.com/tetsuoai/status/2071775282420445427) (2026-06-30)
 - [tetsuoai](https://x.com/tetsuoai/status/2071817609742532884) (2026-06-30)
+- [tetsuoai](https://x.com/tetsuoai/status/2080255951274455118) (2026-07-30)
 - [therajansharma](https://x.com/therajansharma/status/2068578446100308157) (2026-06-21)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2070445026233172314) (2026-06-27)
@@ -387,6 +396,7 @@ total_mentions: 392
 - [undefinedKi](https://x.com/undefinedKi/status/2066159485652025597) (2026-06-15)
 - [undefinedKi](https://x.com/undefinedKi/status/2071931934012211642) (2026-07-02)
 - [undefinedKi](https://x.com/undefinedKi/status/2074978611447365998) (2026-07-09)
+- [unicodef1wn](https://x.com/unicodef1wn/status/2082200846243143795) (2026-07-30)
 - [unity](https://x.com/unity/status/2079389530260414898) (2026-07-24)
 - [waveking1314](https://x.com/waveking1314/status/2063261659259400349) (2026-06-07)
 - [wsmaisys](https://x.com/wsmaisys/status/2068239014780452953) (2026-06-20)

@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-29
-total_mentions: 120
+last_seen: 2026-07-30
+total_mentions: 124
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -58,6 +58,7 @@ total_mentions: 120
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
 - [Steve8708](https://x.com/Steve8708/status/2077051086234685641) (2026-07-15)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2081761224241627420) (2026-07-28)
+- [TermiusHQ](https://x.com/TermiusHQ/status/2082616764605874207) (2026-07-30)
 - [Ubermenscchh](https://x.com/Ubermenscchh/status/2082120061951856912) (2026-07-29)
 - [WesRoth](https://x.com/WesRoth/status/2043871865513619560) (2026-07-24)
 - [WesRoth](https://x.com/WesRoth/status/2062398945607725142) (2026-06-10)
@@ -76,6 +77,7 @@ total_mentions: 120
 - [clapilot](https://x.com/clapilot/status/2063510331716952191) (2026-06-07)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2076962984216412342) (2026-07-15)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2079864840055902389) (2026-07-23)
+- [codewithimanshu](https://x.com/codewithimanshu/status/2082038438803738759) (2026-07-30)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1879706901170077978) (2026-06-11)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2062848159215493176) (2026-06-05)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2065324588054310985) (2026-06-12)
@@ -99,6 +101,7 @@ total_mentions: 120
 - [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)
 - [jamonholmgren](https://x.com/jamonholmgren/status/2076001786700394610) (2026-07-12)
 - [jaredrhod](https://x.com/jaredrhod/status/2073840273914728935) (2026-07-06)
+- [jiang_kev](https://x.com/jiang_kev/status/2082496145994248488) (2026-07-30)
 - [johnwhereareu](https://x.com/johnwhereareu/status/2077603117928153169) (2026-07-16)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [kunalstwt](https://x.com/kunalstwt/status/2073978095644643520) (2026-07-06)
@@ -114,6 +117,7 @@ total_mentions: 120
 - [sairahul1](https://x.com/sairahul1/status/2077326742218539296) (2026-07-18)
 - [shannholmberg](https://x.com/shannholmberg/status/2062652746508173796) (2026-06-06)
 - [sharbel](https://x.com/sharbel/status/2063369348828610886) (2026-06-11)
+- [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
 - [stretchcloud](https://x.com/stretchcloud/status/2072215124958740898) (2026-07-01)
 - [stretchcloud](https://x.com/stretchcloud/status/2074649666608840706) (2026-07-08)
 - [tanayj](https://x.com/tanayj/status/2072108170080657729) (2026-07-01)

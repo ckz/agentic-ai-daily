@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-28
-total_mentions: 73
+last_seen: 2026-07-30
+total_mentions: 77
 
 ## Related Tweets
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
@@ -19,6 +19,7 @@ total_mentions: 73
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2076991866935845287) (2026-07-15)
 - [FareaNFts](https://x.com/FareaNFts/status/2072985538756317458) (2026-07-07)
 - [HelloRH_AI](https://x.com/HelloRH_AI/status/2077711932774105164) (2026-07-18)
+- [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2071971609183678544) (2026-07-01)
@@ -33,8 +34,10 @@ total_mentions: 73
 - [SourabhGurwani](https://x.com/SourabhGurwani/status/2081721763428483158) (2026-07-28)
 - [TeksCreate](https://x.com/TeksCreate/status/2068138970131632591) (2026-06-20)
 - [TeksEdge](https://x.com/TeksEdge/status/2075437935265190020) (2026-07-11)
+- [TermiusHQ](https://x.com/TermiusHQ/status/2082616764605874207) (2026-07-30)
 - [TheValueist](https://x.com/TheValueist/status/2072334968940900744) (2026-07-03)
 - [XFreeze](https://x.com/XFreeze/status/2065333739312590983) (2026-06-12)
+- [Ziven_Coder](https://x.com/Ziven_Coder/status/2078482313986642122) (2026-07-30)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
 - [_0xpainn](https://x.com/_0xpainn/status/2075209862263222342) (2026-07-14)
 - [a16z](https://x.com/a16z/status/2069869327411749012) (2026-06-29)
@@ -76,5 +79,6 @@ total_mentions: 73
 - [tomgreenwald](https://x.com/tomgreenwald/status/2068008885018062868) (2026-06-20)
 - [unclejohnny101](https://x.com/unclejohnny101/status/2079728030310969809) (2026-07-22)
 - [undefinedKi](https://x.com/undefinedKi/status/2071931934012211642) (2026-07-02)
+- [unicodef1wn](https://x.com/unicodef1wn/status/2082200846243143795) (2026-07-30)
 - [vechainofficial](https://x.com/vechainofficial/status/2062450242360885371) (2026-06-09)
 - [warpdotdev](https://x.com/warpdotdev/status/1937525185843752969) (2026-06-07)

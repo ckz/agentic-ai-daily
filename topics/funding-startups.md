@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-29
-total_mentions: 225
+last_seen: 2026-07-30
+total_mentions: 232
 
 ## Related Tweets
 - [5harath](https://x.com/5harath/status/2082161680516063294) (2026-07-29)
@@ -15,6 +15,7 @@ total_mentions: 225
 - [ArrushAdityadev](https://x.com/ArrushAdityadev/status/2061674017929703768) (2026-06-08)
 - [ArslyTech](https://x.com/ArslyTech/status/2063153998518235584) (2026-06-06)
 - [AtomsNotBits](https://x.com/AtomsNotBits/status/2072429730788413662) (2026-07-02)
+- [Av1dlive](https://x.com/Av1dlive/status/2082538087192908283) (2026-07-30)
 - [AvinashSingh_20](https://x.com/AvinashSingh_20/status/2071233793311318133) (2026-07-05)
 - [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2078578545429991768) (2026-07-24)
 - [BernieSanders](https://x.com/BernieSanders/status/2080047245433438469) (2026-07-26)
@@ -45,6 +46,7 @@ total_mentions: 225
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2075516156161536088) (2026-07-13)
 - [Kappaemme1926](https://x.com/Kappaemme1926/status/2076637778734153857) (2026-07-14)
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
+- [LayoffAI](https://x.com/LayoffAI/status/2081727806652715211) (2026-07-30)
 - [MTSlive](https://x.com/MTSlive/status/2065073640182579322) (2026-06-12)
 - [MTSlive](https://x.com/MTSlive/status/2079701447084740739) (2026-07-22)
 - [Maker17368Maker](https://x.com/Maker17368Maker/status/2062810745210040366) (2026-06-07)
@@ -108,6 +110,7 @@ total_mentions: 225
 - [ankurnagpal](https://x.com/ankurnagpal/status/2073858342196244665) (2026-07-06)
 - [anupamrjp](https://x.com/anupamrjp/status/2076558763071508656) (2026-07-13)
 - [anuraggoel](https://x.com/anuraggoel/status/2069218653137142074) (2026-06-30)
+- [apnmrev](https://x.com/apnmrev/status/2082074585017823365) (2026-07-30)
 - [arthur__penn](https://x.com/arthur__penn/status/2074352731238916503) (2026-07-07)
 - [athanzxyt](https://x.com/athanzxyt/status/2067660560607613032) (2026-06-19)
 - [aw_trades_](https://x.com/aw_trades_/status/2073794807323889781) (2026-07-06)
@@ -162,11 +165,13 @@ total_mentions: 225
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [iam_elias1](https://x.com/iam_elias1/status/2062095528742240319) (2026-06-05)
 - [inter_link](https://x.com/inter_link/status/2081053524134125832) (2026-07-29)
+- [irfan3](https://x.com/irfan3/status/2082699425529638948) (2026-07-30)
 - [itsmichaelluu](https://x.com/itsmichaelluu/status/2064692678608990537) (2026-06-11)
 - [itsolelehmann](https://x.com/itsolelehmann/status/2062909345537634686) (2026-06-10)
 - [james406](https://x.com/james406/status/2055362680299434300) (2026-06-09)
 - [jason_coder0](https://x.com/jason_coder0/status/2072219162135666801) (2026-07-01)
 - [jiahanjimliu](https://x.com/jiahanjimliu/status/2075804539111043085) (2026-07-11)
+- [jiang_kev](https://x.com/jiang_kev/status/2082496145994248488) (2026-07-30)
 - [jomatech](https://x.com/jomatech/status/2071058503805124918) (2026-06-28)
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)
@@ -189,6 +194,7 @@ total_mentions: 225
 - [peer_rich](https://x.com/peer_rich/status/2062949788081897633) (2026-06-05)
 - [pelositracker](https://x.com/pelositracker/status/2080314321649746194) (2026-07-26)
 - [pierreeliottlal](https://x.com/pierreeliottlal/status/2066037831626362988) (2026-06-14)
+- [plpiaoliang](https://x.com/plpiaoliang/status/2082696373955346650) (2026-07-30)
 - [rahulbais136](https://x.com/rahulbais136/status/2077192536335192463) (2026-07-15)
 - [richtosho](https://x.com/richtosho/status/2078797686451409133) (2026-07-26)
 - [ridark_eth](https://x.com/ridark_eth/status/2068120584047804649) (2026-06-20)
@@ -205,6 +211,7 @@ total_mentions: 225
 - [singularityhack](https://x.com/singularityhack/status/2079237150764134528) (2026-07-22)
 - [slash1sol](https://x.com/slash1sol/status/2033636802855374982) (2026-06-13)
 - [solovaultinfo](https://x.com/solovaultinfo/status/2068553835598241965) (2026-06-21)
+- [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
 - [suni_code](https://x.com/suni_code/status/2073859515485974967) (2026-07-08)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)

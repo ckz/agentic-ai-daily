@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-07-29
-total_mentions: 300
+last_seen: 2026-07-30
+total_mentions: 307
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -74,12 +74,15 @@ total_mentions: 300
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2079300183926374716) (2026-07-21)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2079921605442973879) (2026-07-23)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2080708199594823736) (2026-07-25)
+- [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2082119038163877983) (2026-07-30)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2082179408857608436) (2026-07-29)
+- [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2082537759097397347) (2026-07-30)
 - [GoogleCloud_IL](https://x.com/GoogleCloud_IL/status/2075120271111954818) (2026-07-09)
 - [GoogleCloud_IL](https://x.com/GoogleCloud_IL/status/2079831311980564832) (2026-07-22)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
 - [HackingDave](https://x.com/HackingDave/status/2069146467701256423) (2026-06-29)
 - [HarryBee_Yhu](https://x.com/HarryBee_Yhu/status/2067864020527292535) (2026-06-19)
+- [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [Huawei](https://x.com/Huawei/status/2064239307838419399) (2026-06-09)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2068205769002991901) (2026-06-20)
@@ -117,6 +120,7 @@ total_mentions: 300
 - [Peevibes007](https://x.com/Peevibes007/status/2047915508260073869) (2026-07-26)
 - [PythonDvz](https://x.com/PythonDvz/status/2063623261678698575) (2026-06-10)
 - [Rahul1539482](https://x.com/Rahul1539482/status/2068215799849091178) (2026-06-20)
+- [RishiUvaach](https://x.com/RishiUvaach/status/2082699300648431635) (2026-07-30)
 - [RobertTLange](https://x.com/RobertTLange/status/2081651553929494693) (2026-07-28)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2062274372388507726) (2026-06-05)
 - [Rukkssss__](https://x.com/Rukkssss__/status/2068218163414642701) (2026-06-20)
@@ -147,6 +151,7 @@ total_mentions: 300
 - [XiaomiMiMo](https://x.com/XiaomiMiMo/status/2064799879352959085) (2026-06-11)
 - [Yuchenj_UW](https://x.com/Yuchenj_UW/status/2070928299744972814) (2026-06-30)
 - [Zev_ee](https://x.com/Zev_ee/status/2068562546601476174) (2026-06-21)
+- [Ziven_Coder](https://x.com/Ziven_Coder/status/2078482313986642122) (2026-07-30)
 - [_akhaliq](https://x.com/_akhaliq/status/2072347990337954042) (2026-07-03)
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
 - [_avichawla](https://x.com/_avichawla/status/2076952441728459082) (2026-07-15)
@@ -196,6 +201,7 @@ total_mentions: 300
 - [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2076962984216412342) (2026-07-15)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2079864840055902389) (2026-07-23)
+- [codewithimanshu](https://x.com/codewithimanshu/status/2082038438803738759) (2026-07-30)
 - [coinbureau](https://x.com/coinbureau/status/2031222262112858286) (2026-06-09)
 - [coreyganim](https://x.com/coreyganim/status/2074426194418926020) (2026-07-08)
 - [csaba_kissi](https://x.com/csaba_kissi/status/2074745257099485319) (2026-07-09)
@@ -287,6 +293,7 @@ total_mentions: 300
 - [socialwithaayan](https://x.com/socialwithaayan/status/2072044103492309425) (2026-07-02)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2072154763492544652) (2026-07-01)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2077223722654834863) (2026-07-16)
+- [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2077724941198533011) (2026-07-17)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2078449718414180393) (2026-07-19)
