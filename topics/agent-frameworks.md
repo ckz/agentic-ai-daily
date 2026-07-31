@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-07-30
-total_mentions: 307
+last_seen: 2026-07-31
+total_mentions: 312
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -32,6 +32,7 @@ total_mentions: 307
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065559824230957190) (2026-06-14)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2076747075036045645) (2026-07-14)
 - [Av1dlive](https://x.com/Av1dlive/status/2082039763511673129) (2026-07-29)
+- [Av1dlive](https://x.com/Av1dlive/status/2082807521161654576) (2026-07-31)
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
 - [CSVisionPapers](https://x.com/CSVisionPapers/status/2072902537439481931) (2026-07-03)
@@ -194,6 +195,7 @@ total_mentions: 307
 - [bizbreakdowns](https://x.com/bizbreakdowns/status/2081711200643985720) (2026-07-29)
 - [bonsaixbt](https://x.com/bonsaixbt/status/2077722769194615193) (2026-07-17)
 - [bostonavionics](https://x.com/bostonavionics/status/2063158549568684369) (2026-06-06)
+- [businessbarista](https://x.com/businessbarista/status/2082146039801217333) (2026-07-31)
 - [cb_doge](https://x.com/cb_doge/status/2076291436283396496) (2026-07-18)
 - [chandan1_](https://x.com/chandan1_/status/1874874423062278335) (2026-07-10)
 - [chenzeling4](https://x.com/chenzeling4/status/2075581564088668195) (2026-07-12)
@@ -216,6 +218,7 @@ total_mentions: 307
 - [dkare1009](https://x.com/dkare1009/status/2073383916832985331) (2026-07-05)
 - [dotta](https://x.com/dotta/status/2077029848602874009) (2026-07-15)
 - [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
+- [dr_cintas](https://x.com/dr_cintas/status/2082568767586894179) (2026-07-31)
 - [e_opore](https://x.com/e_opore/status/2073977846448451776) (2026-07-06)
 - [e_opore](https://x.com/e_opore/status/2077277237334757636) (2026-07-16)
 - [e_opore](https://x.com/e_opore/status/2077591797727887532) (2026-07-22)
@@ -259,6 +262,8 @@ total_mentions: 307
 - [lamhot_ai](https://x.com/lamhot_ai/status/2081986412086493408) (2026-07-28)
 - [lee_joey50709](https://x.com/lee_joey50709/status/2076867123654140209) (2026-07-14)
 - [leopardracer](https://x.com/leopardracer/status/2074442479739318455) (2026-07-09)
+- [mardehaym](https://x.com/mardehaym/status/2081770600087847192) (2026-07-31)
+- [mardehaym](https://x.com/mardehaym/status/2082765372864770087) (2026-07-31)
 - [mastra](https://x.com/mastra/status/2062617888478183564) (2026-06-05)
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [michyexe](https://x.com/michyexe/status/2000613204116844826) (2026-06-15)

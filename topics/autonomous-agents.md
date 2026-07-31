@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-30
-total_mentions: 729
+last_seen: 2026-07-31
+total_mentions: 737
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -89,6 +89,7 @@ total_mentions: 729
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2076366894655848871) (2026-07-13)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2077087607909970101) (2026-07-15)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2077720293729091888) (2026-07-17)
+- [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2082835611921138029) (2026-07-31)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2062245225159111117) (2026-06-06)
 - [AndrewYNg](https://x.com/AndrewYNg/status/1975614372799283423) (2026-06-12)
 - [AndrewYNg](https://x.com/AndrewYNg/status/2061477558693384395) (2026-06-07)
@@ -131,6 +132,7 @@ total_mentions: 729
 - [Cloudflare](https://x.com/Cloudflare/status/2065279639535456392) (2026-06-12)
 - [Cortex_Network_](https://x.com/Cortex_Network_/status/2071913826216554612) (2026-07-01)
 - [Cortex_Network_](https://x.com/Cortex_Network_/status/2075590628134760625) (2026-07-11)
+- [Crowdreply_io](https://x.com/Crowdreply_io/status/2082844304981282878) (2026-07-31)
 - [Crypto__Haris](https://x.com/Crypto__Haris/status/2074037585341768082) (2026-07-06)
 - [Cypherpunkgod1](https://x.com/Cypherpunkgod1/status/2066407248859959700) (2026-06-15)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2066212008782172238) (2026-06-19)
@@ -491,9 +493,11 @@ total_mentions: 729
 - [dkare1009](https://x.com/dkare1009/status/2082141532669333653) (2026-07-29)
 - [dmokafa](https://x.com/dmokafa/status/2066400400308154773) (2026-06-15)
 - [dojintanuki](https://x.com/dojintanuki/status/2063832283736387900) (2026-06-08)
+- [dotey](https://x.com/dotey/status/2080460993251951103) (2026-07-31)
 - [dotta](https://x.com/dotta/status/2077029848602874009) (2026-07-15)
 - [doublenickk](https://x.com/doublenickk/status/2072088884423332153) (2026-07-01)
 - [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
+- [dr_cintas](https://x.com/dr_cintas/status/2082568767586894179) (2026-07-31)
 - [e_opore](https://x.com/e_opore/status/2073977846448451776) (2026-07-06)
 - [e_opore](https://x.com/e_opore/status/2077277237334757636) (2026-07-16)
 - [e_opore](https://x.com/e_opore/status/2077591797727887532) (2026-07-22)
@@ -505,6 +509,7 @@ total_mentions: 729
 - [eli_ships](https://x.com/eli_ships/status/2073268850234396685) (2026-07-04)
 - [elizaOS](https://x.com/elizaOS/status/1874223078403682672) (2026-07-10)
 - [elizaok_bsc](https://x.com/elizaok_bsc/status/2066001664071643412) (2026-06-14)
+- [elonmusk](https://x.com/elonmusk/status/2083029580453966241) (2026-07-31)
 - [elora_khatun](https://x.com/elora_khatun/status/2074711871069032615) (2026-07-08)
 - [elune0x](https://x.com/elune0x/status/2081394220275814662) (2026-07-27)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2060824760859431275) (2026-06-05)
@@ -568,6 +573,7 @@ total_mentions: 729
 - [jamonholmgren](https://x.com/jamonholmgren/status/2076001786700394610) (2026-07-12)
 - [jargon_sol](https://x.com/jargon_sol/status/2076678485486211091) (2026-07-17)
 - [jasonlk](https://x.com/jasonlk/status/2074304139425931745) (2026-07-07)
+- [jerryjliu0](https://x.com/jerryjliu0/status/2082673383255216356) (2026-07-31)
 - [jiayq](https://x.com/jiayq/status/2082135245776920681) (2026-07-29)
 - [johniosifov](https://x.com/johniosifov/status/2081806958667960770) (2026-07-28)
 - [kadsxr](https://x.com/kadsxr/status/2076728894363775220) (2026-07-15)
@@ -588,8 +594,10 @@ total_mentions: 729
 - [leopardracer](https://x.com/leopardracer/status/2074442479739318455) (2026-07-09)
 - [levie](https://x.com/levie/status/2061247380897579500) (2026-06-06)
 - [levie](https://x.com/levie/status/2079402164988895293) (2026-07-21)
+- [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
 - [lnmishra](https://x.com/lnmishra/status/2072047572600954992) (2026-07-01)
 - [magnusweb3](https://x.com/magnusweb3/status/2080921726582448588) (2026-07-25)
+- [mardehaym](https://x.com/mardehaym/status/2082765372864770087) (2026-07-31)
 - [marryevan999](https://x.com/marryevan999/status/2077795286332952816) (2026-07-18)
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [mcganty](https://x.com/mcganty/status/2073086969408794735) (2026-07-04)

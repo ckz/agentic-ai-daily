@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-30
-total_mentions: 32
+last_seen: 2026-07-31
+total_mentions: 34
 
 ## Related Tweets
 - [0xDepressionn](https://x.com/0xDepressionn/status/2063987019068371128) (2026-06-10)
@@ -32,8 +32,10 @@ total_mentions: 32
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1879706901170077978) (2026-06-11)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/2077467370616967277) (2026-07-20)
 - [israfill](https://x.com/israfill/status/2068936531780555013) (2026-06-27)
+- [itsolelehmann](https://x.com/itsolelehmann/status/2082644674981089564) (2026-07-31)
 - [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)
 - [jiang_kev](https://x.com/jiang_kev/status/2082496145994248488) (2026-07-30)
 - [jietang](https://x.com/jietang/status/2067022641949814893) (2026-06-19)
+- [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
 - [monmiglobal](https://x.com/monmiglobal/status/2071399421997359236) (2026-06-29)
 - [unusual_whales](https://x.com/unusual_whales/status/2079958900032655634) (2026-07-23)

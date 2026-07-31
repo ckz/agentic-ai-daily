@@ -1,12 +1,13 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-30
-total_mentions: 232
+last_seen: 2026-07-31
+total_mentions: 236
 
 ## Related Tweets
 - [5harath](https://x.com/5harath/status/2082161680516063294) (2026-07-29)
 - [AFpost](https://x.com/AFpost/status/2078881670162202801) (2026-07-20)
+- [AITECHLabs](https://x.com/AITECHLabs/status/2083070154548654199) (2026-07-31)
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
 - [AlphaCapitalUK](https://x.com/AlphaCapitalUK/status/2079957138730848366) (2026-07-25)
@@ -64,6 +65,7 @@ total_mentions: 232
 - [Polymarket](https://x.com/Polymarket/status/2075978989730975782) (2026-07-18)
 - [Polymarket](https://x.com/Polymarket/status/2078532501178380362) (2026-07-24)
 - [Polymarket](https://x.com/Polymarket/status/2079697988344062193) (2026-07-24)
+- [Polymarket](https://x.com/Polymarket/status/2081789469280096692) (2026-07-31)
 - [Prasanjit_ui](https://x.com/Prasanjit_ui/status/2072617513079251312) (2026-07-07)
 - [PrimareApp](https://x.com/PrimareApp/status/2075974349173961017) (2026-07-12)
 - [RITESHGHODELA](https://x.com/RITESHGHODELA/status/2063136905282429213) (2026-06-06)
@@ -176,6 +178,7 @@ total_mentions: 232
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)
 - [kseniam0s](https://x.com/kseniam0s/status/2069540568615604610) (2026-06-27)
+- [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
 - [lightspeedvp](https://x.com/lightspeedvp/status/2070182060224852105) (2026-06-27)
 - [markiewagner](https://x.com/markiewagner/status/2064778239164461316) (2026-06-11)
 - [marorhab](https://x.com/marorhab/status/2063163950850609431) (2026-06-06)
@@ -197,6 +200,7 @@ total_mentions: 232
 - [plpiaoliang](https://x.com/plpiaoliang/status/2082696373955346650) (2026-07-30)
 - [rahulbais136](https://x.com/rahulbais136/status/2077192536335192463) (2026-07-15)
 - [richtosho](https://x.com/richtosho/status/2078797686451409133) (2026-07-26)
+- [richtosho](https://x.com/richtosho/status/2080930554782830700) (2026-07-31)
 - [ridark_eth](https://x.com/ridark_eth/status/2068120584047804649) (2026-06-20)
 - [rihntv](https://x.com/rihntv/status/2075390652284654046) (2026-07-10)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2065184524754112720) (2026-06-14)

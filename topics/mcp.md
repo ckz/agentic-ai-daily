@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-07-30
-total_mentions: 402
+last_seen: 2026-07-31
+total_mentions: 403
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -56,6 +56,7 @@ total_mentions: 402
 - [Cloudflare](https://x.com/Cloudflare/status/2072311802285723953) (2026-07-04)
 - [ComfyUI](https://x.com/ComfyUI/status/2071625866912944151) (2026-06-30)
 - [Crowdreply_io](https://x.com/Crowdreply_io/status/2071609826778718315) (2026-06-30)
+- [Crowdreply_io](https://x.com/Crowdreply_io/status/2082844304981282878) (2026-07-31)
 - [CryptoPulseGLBL](https://x.com/CryptoPulseGLBL/status/2072554506102145483) (2026-07-02)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DanKornas](https://x.com/DanKornas/status/2063154157511418092) (2026-06-06)
