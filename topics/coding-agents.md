@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-31
-total_mentions: 77
+last_seen: 2026-08-01
+total_mentions: 78
 
 ## Related Tweets
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
@@ -45,6 +45,7 @@ total_mentions: 77
 - [angeldot_](https://x.com/angeldot_/status/2071697398527881418) (2026-06-30)
 - [antinertia](https://x.com/antinertia/status/1907834094823616629) (2026-06-12)
 - [bcherny](https://x.com/bcherny/status/2064431111154053187) (2026-06-15)
+- [beamnxw](https://x.com/beamnxw/status/2080600136456060958) (2026-08-01)
 - [bindureddy](https://x.com/bindureddy/status/2076165296977858836) (2026-07-12)
 - [candyyueliu](https://x.com/candyyueliu/status/2062178835689623592) (2026-06-29)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2071058754905481234) (2026-06-28)

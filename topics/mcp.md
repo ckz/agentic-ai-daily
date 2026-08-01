@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-07-31
-total_mentions: 403
+last_seen: 2026-08-01
+total_mentions: 407
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -67,6 +67,7 @@ total_mentions: 403
 - [DataChaz](https://x.com/DataChaz/status/2063158890469196218) (2026-06-06)
 - [DataChaz](https://x.com/DataChaz/status/2068952350077698446) (2026-06-28)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
+- [Diego_exits](https://x.com/Diego_exits/status/2082567388537536818) (2026-08-01)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2081331200942362651) (2026-07-27)
 - [DotCSV](https://x.com/DotCSV/status/2076725628963783114) (2026-07-17)
@@ -102,6 +103,7 @@ total_mentions: 403
 - [LunarResearcher](https://x.com/LunarResearcher/status/2079912100575563781) (2026-07-23)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2080629030319980563) (2026-07-26)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2080991836504560095) (2026-07-26)
+- [LunarResearcher](https://x.com/LunarResearcher/status/2082804474116968791) (2026-08-01)
 - [MCGlive](https://x.com/MCGlive/status/2063016512521441777) (2026-06-05)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
@@ -110,6 +112,7 @@ total_mentions: 403
 - [MetaforDevs](https://x.com/MetaforDevs/status/2072474629852348684) (2026-07-02)
 - [Mho_23](https://x.com/Mho_23/status/2078545343768330490) (2026-07-19)
 - [Mho_23](https://x.com/Mho_23/status/2082600596457341398) (2026-07-30)
+- [MichLieben](https://x.com/MichLieben/status/2082174529292718231) (2026-08-01)
 - [MiguelMaestroIA](https://x.com/MiguelMaestroIA/status/2071655043615395956) (2026-06-30)
 - [MiguelMaestroIA](https://x.com/MiguelMaestroIA/status/2080703728945176833) (2026-07-26)
 - [MiniMax_AI](https://x.com/MiniMax_AI/status/2061266317815296322) (2026-06-05)
@@ -248,6 +251,7 @@ total_mentions: 403
 - [dfinity](https://x.com/dfinity/status/2080201356347146261) (2026-07-26)
 - [dkare1009](https://x.com/dkare1009/status/2073383916832985331) (2026-07-05)
 - [dkare1009](https://x.com/dkare1009/status/2078880042336293212) (2026-07-20)
+- [dkare1009](https://x.com/dkare1009/status/2082805911949897985) (2026-08-01)
 - [dojintanuki](https://x.com/dojintanuki/status/2063832283736387900) (2026-06-08)
 - [dr_cintas](https://x.com/dr_cintas/status/2065260939134280044) (2026-06-12)
 - [dr_cintas](https://x.com/dr_cintas/status/2072714904650359130) (2026-07-03)

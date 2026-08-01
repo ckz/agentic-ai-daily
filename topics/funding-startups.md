@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-07-31
-total_mentions: 236
+last_seen: 2026-08-01
+total_mentions: 239
 
 ## Related Tweets
 - [5harath](https://x.com/5harath/status/2082161680516063294) (2026-07-29)
@@ -48,6 +48,7 @@ total_mentions: 236
 - [Kappaemme1926](https://x.com/Kappaemme1926/status/2076637778734153857) (2026-07-14)
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
 - [LayoffAI](https://x.com/LayoffAI/status/2081727806652715211) (2026-07-30)
+- [MAGALieTracker](https://x.com/MAGALieTracker/status/2080726200213979290) (2026-08-01)
 - [MTSlive](https://x.com/MTSlive/status/2065073640182579322) (2026-06-12)
 - [MTSlive](https://x.com/MTSlive/status/2079701447084740739) (2026-07-22)
 - [Maker17368Maker](https://x.com/Maker17368Maker/status/2062810745210040366) (2026-06-07)
@@ -175,6 +176,7 @@ total_mentions: 236
 - [jiahanjimliu](https://x.com/jiahanjimliu/status/2075804539111043085) (2026-07-11)
 - [jiang_kev](https://x.com/jiang_kev/status/2082496145994248488) (2026-07-30)
 - [jomatech](https://x.com/jomatech/status/2071058503805124918) (2026-06-28)
+- [kamath_sutra](https://x.com/kamath_sutra/status/2083224374728093907) (2026-08-01)
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)
 - [kseniam0s](https://x.com/kseniam0s/status/2069540568615604610) (2026-06-27)
@@ -226,6 +228,7 @@ total_mentions: 236
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2068965021514891696) (2026-06-27)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2079488476303773921) (2026-07-26)
 - [thomasschulzz](https://x.com/thomasschulzz/status/2076002167702405584) (2026-07-12)
+- [ti_morse](https://x.com/ti_morse/status/2081068670478880854) (2026-08-01)
 - [tiovikram](https://x.com/tiovikram/status/2081559019978907975) (2026-07-27)
 - [trikcode](https://x.com/trikcode/status/2078755471205253481) (2026-07-20)
 - [twistartups](https://x.com/twistartups/status/2071744145119465724) (2026-07-02)

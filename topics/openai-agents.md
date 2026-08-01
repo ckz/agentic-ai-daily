@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-31
-total_mentions: 34
+last_seen: 2026-08-01
+total_mentions: 37
 
 ## Related Tweets
 - [0xDepressionn](https://x.com/0xDepressionn/status/2063987019068371128) (2026-06-10)
@@ -13,6 +13,7 @@ total_mentions: 34
 - [Cointelegraph](https://x.com/Cointelegraph/status/2064900509933175066) (2026-06-11)
 - [EugenioFierro3](https://x.com/EugenioFierro3/status/2070777655926906996) (2026-06-27)
 - [FT](https://x.com/FT/status/2079768250804535342) (2026-07-29)
+- [Gustafssonkotte](https://x.com/Gustafssonkotte/status/2082309711785849067) (2026-08-01)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2073709900820099232) (2026-07-06)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
 - [Polymarket](https://x.com/Polymarket/status/2080838272033394996) (2026-07-25)
@@ -37,5 +38,7 @@ total_mentions: 34
 - [jiang_kev](https://x.com/jiang_kev/status/2082496145994248488) (2026-07-30)
 - [jietang](https://x.com/jietang/status/2067022641949814893) (2026-06-19)
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
+- [moneyacademyKE](https://x.com/moneyacademyKE/status/2081618955064455539) (2026-08-01)
 - [monmiglobal](https://x.com/monmiglobal/status/2071399421997359236) (2026-06-29)
+- [pankajkumar_dev](https://x.com/pankajkumar_dev/status/2083391622939815963) (2026-08-01)
 - [unusual_whales](https://x.com/unusual_whales/status/2079958900032655634) (2026-07-23)

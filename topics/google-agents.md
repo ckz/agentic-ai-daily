@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-07-31
-total_mentions: 66
+last_seen: 2026-08-01
+total_mentions: 68
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -36,6 +36,7 @@ total_mentions: 66
 - [Hesamation](https://x.com/Hesamation/status/1970585800325640372) (2026-06-07)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2076689880026096089) (2026-07-14)
 - [Igor_Buinevici](https://x.com/Igor_Buinevici/status/2077030411738272241) (2026-07-16)
+- [LunarResearcher](https://x.com/LunarResearcher/status/2082804474116968791) (2026-08-01)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
 - [RhysSullivan](https://x.com/RhysSullivan/status/2073538819132207489) (2026-07-05)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2062274372388507726) (2026-06-05)
@@ -58,6 +59,7 @@ total_mentions: 66
 - [googledevs](https://x.com/googledevs/status/2075251776606093457) (2026-07-11)
 - [googledevs](https://x.com/googledevs/status/2077815534180040993) (2026-07-17)
 - [googledevs](https://x.com/googledevs/status/2079250028573462827) (2026-07-23)
+- [googledevs](https://x.com/googledevs/status/2083240029468455300) (2026-08-01)
 - [googlegemma](https://x.com/googlegemma/status/2064742570417180894) (2026-06-14)
 - [gregisenberg](https://x.com/gregisenberg/status/2052110589682749869) (2026-07-03)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)

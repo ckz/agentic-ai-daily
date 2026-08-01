@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-07-31
-total_mentions: 312
+last_seen: 2026-08-01
+total_mentions: 316
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -81,6 +81,7 @@ total_mentions: 312
 - [GoogleCloud_IL](https://x.com/GoogleCloud_IL/status/2075120271111954818) (2026-07-09)
 - [GoogleCloud_IL](https://x.com/GoogleCloud_IL/status/2079831311980564832) (2026-07-22)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
+- [Gustafssonkotte](https://x.com/Gustafssonkotte/status/2082309711785849067) (2026-08-01)
 - [HackingDave](https://x.com/HackingDave/status/2069146467701256423) (2026-06-29)
 - [HarryBee_Yhu](https://x.com/HarryBee_Yhu/status/2067864020527292535) (2026-06-19)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
@@ -190,6 +191,7 @@ total_mentions: 312
 - [axiomos_](https://x.com/axiomos_/status/2072983092365811940) (2026-07-04)
 - [axon402](https://x.com/axon402/status/2064629815961854211) (2026-06-11)
 - [badidoyo](https://x.com/badidoyo/status/2071821032114061798) (2026-06-30)
+- [beamnxw](https://x.com/beamnxw/status/2082746025958150333) (2026-08-01)
 - [better_auth](https://x.com/better_auth/status/2074523839300513921) (2026-07-08)
 - [bindureddy](https://x.com/bindureddy/status/2076165296977858836) (2026-07-12)
 - [bizbreakdowns](https://x.com/bizbreakdowns/status/2081711200643985720) (2026-07-29)
@@ -234,6 +236,7 @@ total_mentions: 312
 - [googlecloud_jp](https://x.com/googlecloud_jp/status/2071473742488740078) (2026-06-30)
 - [googledevs](https://x.com/googledevs/status/2072319312824537586) (2026-07-02)
 - [googledevs](https://x.com/googledevs/status/2077815534180040993) (2026-07-17)
+- [googledevs](https://x.com/googledevs/status/2083240029468455300) (2026-08-01)
 - [googlegemma](https://x.com/googlegemma/status/2064742570417180894) (2026-06-14)
 - [gotuchintu](https://x.com/gotuchintu/status/2071034383012618319) (2026-06-28)
 - [gotuchintu](https://x.com/gotuchintu/status/2071048019907064019) (2026-06-28)
@@ -282,6 +285,7 @@ total_mentions: 312
 - [randy_magruder](https://x.com/randy_magruder/status/2075453861754470569) (2026-07-10)
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)
 - [riskfreemyth](https://x.com/riskfreemyth/status/2074508129346486679) (2026-07-08)
+- [rohit4verse](https://x.com/rohit4verse/status/2083284519550136641) (2026-08-01)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [sairahul1](https://x.com/sairahul1/status/2069421947390415189) (2026-06-28)
