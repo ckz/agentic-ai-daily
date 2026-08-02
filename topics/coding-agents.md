@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-01
-total_mentions: 78
+last_seen: 2026-08-02
+total_mentions: 80
 
 ## Related Tweets
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
@@ -54,7 +54,9 @@ total_mentions: 78
 - [dr_cintas](https://x.com/dr_cintas/status/2040142054211117218) (2026-06-15)
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
 - [gokulr](https://x.com/gokulr/status/2062638283100930085) (2026-06-08)
+- [gokulr](https://x.com/gokulr/status/2071692278582890889) (2026-08-02)
 - [gokulr](https://x.com/gokulr/status/2077203873069236394) (2026-07-15)
+- [gokulr](https://x.com/gokulr/status/2082145789372137749) (2026-08-02)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
 - [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)

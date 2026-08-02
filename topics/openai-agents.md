@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-01
-total_mentions: 37
+last_seen: 2026-08-02
+total_mentions: 38
 
 ## Related Tweets
 - [0xDepressionn](https://x.com/0xDepressionn/status/2063987019068371128) (2026-06-10)
@@ -25,6 +25,7 @@ total_mentions: 37
 - [VaibhavSisinty](https://x.com/VaibhavSisinty/status/2079823267750408589) (2026-07-28)
 - [Voxyz_ai](https://x.com/Voxyz_ai/status/2082582856182989263) (2026-07-30)
 - [WatcherGuru](https://x.com/WatcherGuru/status/2080780405179904206) (2026-07-28)
+- [_0xpainn](https://x.com/_0xpainn/status/2070432605552451963) (2026-08-02)
 - [alex_verem](https://x.com/alex_verem/status/2075994424484732984) (2026-07-12)
 - [alexxubyte](https://x.com/alexxubyte/status/2062186586431987780) (2026-06-05)
 - [alexxubyte](https://x.com/alexxubyte/status/2079947947173933452) (2026-07-23)

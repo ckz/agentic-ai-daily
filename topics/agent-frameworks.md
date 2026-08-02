@@ -1,13 +1,14 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-08-01
-total_mentions: 316
+last_seen: 2026-08-02
+total_mentions: 320
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
+- [0xMorlex](https://x.com/0xMorlex/status/2083551815895798048) (2026-08-02)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
 - [AIHighlight](https://x.com/AIHighlight/status/2072712459857645721) (2026-07-04)
@@ -149,6 +150,7 @@ total_mentions: 316
 - [VivekIntel](https://x.com/VivekIntel/status/2073996440326873221) (2026-07-13)
 - [WesRoth](https://x.com/WesRoth/status/2043871865513619560) (2026-07-24)
 - [WesRoth](https://x.com/WesRoth/status/2063244515989713206) (2026-06-08)
+- [WrangleAi](https://x.com/WrangleAi/status/2083825310982660098) (2026-08-02)
 - [XFreeze](https://x.com/XFreeze/status/2072315431881453800) (2026-07-06)
 - [XiaomiMiMo](https://x.com/XiaomiMiMo/status/2064799879352959085) (2026-06-11)
 - [Yuchenj_UW](https://x.com/Yuchenj_UW/status/2070928299744972814) (2026-06-30)
@@ -191,7 +193,9 @@ total_mentions: 316
 - [axiomos_](https://x.com/axiomos_/status/2072983092365811940) (2026-07-04)
 - [axon402](https://x.com/axon402/status/2064629815961854211) (2026-06-11)
 - [badidoyo](https://x.com/badidoyo/status/2071821032114061798) (2026-06-30)
+- [beamnxw](https://x.com/beamnxw/status/2081324327899746541) (2026-08-02)
 - [beamnxw](https://x.com/beamnxw/status/2082746025958150333) (2026-08-01)
+- [beamnxw](https://x.com/beamnxw/status/2083539500165149086) (2026-08-02)
 - [better_auth](https://x.com/better_auth/status/2074523839300513921) (2026-07-08)
 - [bindureddy](https://x.com/bindureddy/status/2076165296977858836) (2026-07-12)
 - [bizbreakdowns](https://x.com/bizbreakdowns/status/2081711200643985720) (2026-07-29)

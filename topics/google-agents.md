@@ -1,12 +1,13 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-01
-total_mentions: 68
+last_seen: 2026-08-02
+total_mentions: 70
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
 - [0xCodila](https://x.com/0xCodila/status/2082515252445655186) (2026-07-30)
+- [0xwhrrari](https://x.com/0xwhrrari/status/2083305262035632347) (2026-08-02)
 - [AiGenesisdotfun](https://x.com/AiGenesisdotfun/status/2079014502914195457) (2026-07-20)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2070541643518775354) (2026-06-27)
 - [Arcane_Aii](https://x.com/Arcane_Aii/status/2064316482071171261) (2026-06-11)
@@ -52,6 +53,7 @@ total_mentions: 68
 - [codyschneider](https://x.com/codyschneider/status/2081816893376057413) (2026-07-28)
 - [eigenlabs](https://x.com/eigenlabs/status/2062540745601384785) (2026-06-08)
 - [fromzerotomill](https://x.com/fromzerotomill/status/2081100925641367899) (2026-07-26)
+- [gokulr](https://x.com/gokulr/status/2071692278582890889) (2026-08-02)
 - [googlecloud](https://x.com/googlecloud/status/2063244517575200828) (2026-06-09)
 - [googlecloud_jp](https://x.com/googlecloud_jp/status/2064210883023118619) (2026-06-09)
 - [googlecloud_jp](https://x.com/googlecloud_jp/status/2071473742488740078) (2026-06-30)
