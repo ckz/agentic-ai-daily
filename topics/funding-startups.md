@@ -1,10 +1,11 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-02
-total_mentions: 249
+last_seen: 2026-08-03
+total_mentions: 253
 
 ## Related Tweets
+- [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
 - [5harath](https://x.com/5harath/status/2082161680516063294) (2026-07-29)
 - [AFpost](https://x.com/AFpost/status/2078881670162202801) (2026-07-20)
 - [AITECHLabs](https://x.com/AITECHLabs/status/2083070154548654199) (2026-07-31)
@@ -70,8 +71,10 @@ total_mentions: 249
 - [Polymarket](https://x.com/Polymarket/status/2081789469280096692) (2026-07-31)
 - [Polymarket](https://x.com/Polymarket/status/2082620089862422934) (2026-08-02)
 - [Polymarket](https://x.com/Polymarket/status/2082677333454913849) (2026-08-02)
+- [Polymarket](https://x.com/Polymarket/status/2084097684617441653) (2026-08-03)
 - [Prasanjit_ui](https://x.com/Prasanjit_ui/status/2072617513079251312) (2026-07-07)
 - [PrimareApp](https://x.com/PrimareApp/status/2075974349173961017) (2026-07-12)
+- [ProfBrianCox](https://x.com/ProfBrianCox/status/2082427049109602580) (2026-08-03)
 - [RITESHGHODELA](https://x.com/RITESHGHODELA/status/2063136905282429213) (2026-06-06)
 - [RafaelFQL](https://x.com/RafaelFQL/status/2079943052261457977) (2026-07-23)
 - [RichardSSutton](https://x.com/RichardSSutton/status/2076663628301058329) (2026-07-17)
@@ -110,6 +113,7 @@ total_mentions: 249
 - [a16z](https://x.com/a16z/status/2069869327411749012) (2026-06-29)
 - [aakashgupta](https://x.com/aakashgupta/status/2036653323978420322) (2026-07-05)
 - [aakrit](https://x.com/aakrit/status/2065778171912265899) (2026-06-14)
+- [abazwhyllzz](https://x.com/abazwhyllzz/status/2084175411714347129) (2026-08-03)
 - [adriablancafort](https://x.com/adriablancafort/status/2071688701651108309) (2026-06-30)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2074651564136894627) (2026-07-08)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2077570810978463823) (2026-07-16)

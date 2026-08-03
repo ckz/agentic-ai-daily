@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-08-02
-total_mentions: 415
+last_seen: 2026-08-03
+total_mentions: 418
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -32,6 +32,7 @@ total_mentions: 415
 - [Akasheth_](https://x.com/Akasheth_/status/2063933265954918837) (2026-06-10)
 - [Alacritic_Super](https://x.com/Alacritic_Super/status/2073340264895438850) (2026-07-05)
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2081962166127878526) (2026-07-28)
+- [AlexRiad84837](https://x.com/AlexRiad84837/status/2084100378703122840) (2026-08-03)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2075624719043166464) (2026-07-11)
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2069720365442719867) (2026-06-27)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2076366894655848871) (2026-07-13)
@@ -250,6 +251,7 @@ total_mentions: 415
 - [cyrilXBT](https://x.com/cyrilXBT/status/2077628796572741967) (2026-07-16)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2077690956393181386) (2026-07-22)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2081944669387137257) (2026-07-28)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2083762211718394276) (2026-08-03)
 - [dannypostma](https://x.com/dannypostma/status/2082689872494755872) (2026-07-30)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [davemccollough](https://x.com/davemccollough/status/2064154192856670213) (2026-06-09)
@@ -311,6 +313,7 @@ total_mentions: 415
 - [insomnia_vip](https://x.com/insomnia_vip/status/2065795417313325416) (2026-06-15)
 - [itsolelehmann](https://x.com/itsolelehmann/status/2064393407771095518) (2026-06-10)
 - [jacob_posel](https://x.com/jacob_posel/status/2079249123794972827) (2026-07-22)
+- [josesilesdata](https://x.com/josesilesdata/status/2082814804700319881) (2026-08-03)
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [kunalstwt](https://x.com/kunalstwt/status/2073978095644643520) (2026-07-06)

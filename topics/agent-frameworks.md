@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-08-02
-total_mentions: 320
+last_seen: 2026-08-03
+total_mentions: 321
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -121,6 +121,7 @@ total_mentions: 320
 - [OurTinTinLand](https://x.com/OurTinTinLand/status/2082351358876033195) (2026-07-29)
 - [PalantirTech](https://x.com/PalantirTech/status/2077032712578199604) (2026-07-15)
 - [Peevibes007](https://x.com/Peevibes007/status/2047915508260073869) (2026-07-26)
+- [Priyannkaaaa](https://x.com/Priyannkaaaa/status/2083851157324046649) (2026-08-03)
 - [PythonDvz](https://x.com/PythonDvz/status/2063623261678698575) (2026-06-10)
 - [Rahul1539482](https://x.com/Rahul1539482/status/2068215799849091178) (2026-06-20)
 - [RishiUvaach](https://x.com/RishiUvaach/status/2082699300648431635) (2026-07-30)

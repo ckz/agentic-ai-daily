@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-02
-total_mentions: 771
+last_seen: 2026-08-03
+total_mentions: 775
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -55,6 +55,7 @@ total_mentions: 771
 - [0xgilbert](https://x.com/0xgilbert/status/2062624582977179796) (2026-06-06)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2076773673898271123) (2026-07-14)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2083305262035632347) (2026-08-02)
+- [0xwhrrari](https://x.com/0xwhrrari/status/2083666109874753797) (2026-08-03)
 - [10027lifuguan](https://x.com/10027lifuguan/status/2067812057479831832) (2026-06-19)
 - [1005Alok85200](https://x.com/1005Alok85200/status/2063477130265297279) (2026-06-07)
 - [4rblaber](https://x.com/4rblaber/status/2080228516541472801) (2026-07-25)
@@ -298,6 +299,7 @@ total_mentions: 771
 - [PinkBrains_io](https://x.com/PinkBrains_io/status/2079153364571721795) (2026-07-24)
 - [PrakashS720](https://x.com/PrakashS720/status/2065850652832694731) (2026-06-15)
 - [PrismML](https://x.com/PrismML/status/2077084891284721827) (2026-07-15)
+- [Priyannkaaaa](https://x.com/Priyannkaaaa/status/2083851157324046649) (2026-08-03)
 - [PythonDvz](https://x.com/PythonDvz/status/2063623261678698575) (2026-06-10)
 - [RATGPT_official](https://x.com/RATGPT_official/status/2070072449027494268) (2026-06-28)
 - [RachelTobac](https://x.com/RachelTobac/status/2082214795072225786) (2026-07-30)
@@ -426,6 +428,7 @@ total_mentions: 771
 - [amitisinvesting](https://x.com/amitisinvesting/status/2077570810978463823) (2026-07-16)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2079389181780832579) (2026-07-23)
 - [antigravity](https://x.com/antigravity/status/2075265852992057448) (2026-07-11)
+- [antpalkin](https://x.com/antpalkin/status/2083984184637374655) (2026-08-03)
 - [arbitrum](https://x.com/arbitrum/status/1907530213119885730) (2026-07-10)
 - [architeqtai](https://x.com/architeqtai/status/2065343364166299693) (2026-06-12)
 - [ardizor](https://x.com/ardizor/status/2062571108021215563) (2026-06-05)
@@ -452,6 +455,7 @@ total_mentions: 771
 - [bonduelleioat](https://x.com/bonduelleioat/status/2075607394428617199) (2026-07-13)
 - [bonsaixbt](https://x.com/bonsaixbt/status/2077722769194615193) (2026-07-17)
 - [brian_armstrong](https://x.com/brian_armstrong/status/2081504081902780564) (2026-07-29)
+- [brian_armstrong](https://x.com/brian_armstrong/status/2084019794257301679) (2026-08-03)
 - [bridgemindai](https://x.com/bridgemindai/status/2070184602606649588) (2026-06-28)
 - [browomo](https://x.com/browomo/status/2063038709407047943) (2026-06-10)
 - [bruno_charlies](https://x.com/bruno_charlies/status/2080170800049484008) (2026-07-30)
