@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-08-03
-total_mentions: 418
+last_seen: 2026-08-04
+total_mentions: 425
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -35,6 +35,7 @@ total_mentions: 418
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2084100378703122840) (2026-08-03)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2075624719043166464) (2026-07-11)
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2069720365442719867) (2026-06-27)
+- [AlinaDavy20](https://x.com/AlinaDavy20/status/2084482839723094121) (2026-08-04)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2076366894655848871) (2026-07-13)
 - [AnhNguyen136515](https://x.com/AnhNguyen136515/status/2073299705971536262) (2026-07-04)
 - [Appetiteldn](https://x.com/Appetiteldn/status/2063800638505361587) (2026-06-08)
@@ -110,6 +111,7 @@ total_mentions: 418
 - [LunarResearcher](https://x.com/LunarResearcher/status/2082804474116968791) (2026-08-01)
 - [MCGlive](https://x.com/MCGlive/status/2063016512521441777) (2026-06-05)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2083264047299092486) (2026-08-02)
+- [Mapunda_01](https://x.com/Mapunda_01/status/2084489855284007107) (2026-08-04)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
 - [MdRahi444797](https://x.com/MdRahi444797/status/2071118756919787756) (2026-06-28)
@@ -148,6 +150,7 @@ total_mentions: 418
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2075433581539672149) (2026-07-10)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2075622325429690721) (2026-07-11)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2080846750290784693) (2026-07-25)
+- [RoundtableSpace](https://x.com/RoundtableSpace/status/2082945580012065191) (2026-08-04)
 - [S0N_IA](https://x.com/S0N_IA/status/2078494824982863884) (2026-07-20)
 - [SCavanna](https://x.com/SCavanna/status/2064009236741247345) (2026-06-10)
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2010406116157792354) (2026-06-09)
@@ -238,6 +241,7 @@ total_mentions: 418
 - [cnemalek](https://x.com/cnemalek/status/2075124631090954361) (2026-07-10)
 - [coder_surya](https://x.com/coder_surya/status/2068597286230163759) (2026-06-21)
 - [coder_surya](https://x.com/coder_surya/status/2074093504188600351) (2026-07-07)
+- [codyschneider](https://x.com/codyschneider/status/2084369982918406433) (2026-08-04)
 - [cooltechtipz](https://x.com/cooltechtipz/status/2066394613410406460) (2026-06-15)
 - [cryptobuzzer03](https://x.com/cryptobuzzer03/status/2067855094327001574) (2026-06-19)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2060914969605189808) (2026-06-05)
@@ -292,6 +296,7 @@ total_mentions: 418
 - [gregisenberg](https://x.com/gregisenberg/status/1893687593755164940) (2026-07-03)
 - [gregisenberg](https://x.com/gregisenberg/status/2059274608759480367) (2026-07-16)
 - [hamster_wat](https://x.com/hamster_wat/status/2078996887361794149) (2026-07-27)
+- [hanakoxbt](https://x.com/hanakoxbt/status/2083932817738666010) (2026-08-04)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [hellorob](https://x.com/hellorob/status/2074237901060399360) (2026-07-08)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
@@ -375,6 +380,7 @@ total_mentions: 418
 - [sairahul1](https://x.com/sairahul1/status/2078004461218484440) (2026-07-18)
 - [sairahul1](https://x.com/sairahul1/status/2079929959959998829) (2026-07-23)
 - [sakhil_ai](https://x.com/sakhil_ai/status/2067798126279397885) (2026-06-19)
+- [seeconvm](https://x.com/seeconvm/status/2084114434973171763) (2026-08-04)
 - [sharbel](https://x.com/sharbel/status/2070812435653464323) (2026-06-28)
 - [shawnchauhan1](https://x.com/shawnchauhan1/status/2082685120679657715) (2026-07-30)
 - [shedntcare_](https://x.com/shedntcare_/status/2066124333559480395) (2026-06-21)
@@ -414,6 +420,7 @@ total_mentions: 418
 - [undefinedKi](https://x.com/undefinedKi/status/2074978611447365998) (2026-07-09)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2082200846243143795) (2026-07-30)
 - [unity](https://x.com/unity/status/2079389530260414898) (2026-07-24)
+- [vinayjain404](https://x.com/vinayjain404/status/2084326541631099270) (2026-08-04)
 - [waveking1314](https://x.com/waveking1314/status/2063261659259400349) (2026-06-07)
 - [wsmaisys](https://x.com/wsmaisys/status/2068239014780452953) (2026-06-20)
 - [xiaoying_eth](https://x.com/xiaoying_eth/status/2064183483795460502) (2026-06-10)

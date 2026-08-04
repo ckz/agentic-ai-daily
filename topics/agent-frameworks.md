@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-08-03
-total_mentions: 321
+last_seen: 2026-08-04
+total_mentions: 325
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -256,6 +256,7 @@ total_mentions: 321
 - [hijkzzz](https://x.com/hijkzzz/status/2076843539426836874) (2026-07-14)
 - [humafinance](https://x.com/humafinance/status/2062445243711279528) (2026-06-08)
 - [iamlukethedev](https://x.com/iamlukethedev/status/2063081062473859097) (2026-06-06)
+- [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2083874254358024567) (2026-08-04)
 - [ipfconline1](https://x.com/ipfconline1/status/2066408115369656823) (2026-06-15)
 - [islam_naserr](https://x.com/islam_naserr/status/2065299167560257970) (2026-06-12)
 - [it_unprofession](https://x.com/it_unprofession/status/2074958200663953854) (2026-07-11)
@@ -284,6 +285,7 @@ total_mentions: 321
 - [omarsar0](https://x.com/omarsar0/status/1846930425849303424) (2026-06-27)
 - [ordo_chain](https://x.com/ordo_chain/status/2073312746381181174) (2026-07-04)
 - [paywithmana](https://x.com/paywithmana/status/2074758476220473387) (2026-07-08)
+- [petergyang](https://x.com/petergyang/status/2083917722765947284) (2026-08-04)
 - [piyascode9](https://x.com/piyascode9/status/2060204362497224790) (2026-06-05)
 - [py_kanade0404](https://x.com/py_kanade0404/status/2079825109083467821) (2026-07-22)
 - [radiyal_agency](https://x.com/radiyal_agency/status/2072183621176504669) (2026-07-01)
@@ -295,6 +297,7 @@ total_mentions: 321
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [sairahul1](https://x.com/sairahul1/status/2069421947390415189) (2026-06-28)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
+- [sairahul1](https://x.com/sairahul1/status/2083882252619092334) (2026-08-04)
 - [salesforce](https://x.com/salesforce/status/2066491445586858173) (2026-06-28)
 - [sandy4kad](https://x.com/sandy4kad/status/2074948658953593102) (2026-07-09)
 - [sauda_coder](https://x.com/sauda_coder/status/2078463245657211007) (2026-07-20)
@@ -316,6 +319,7 @@ total_mentions: 321
 - [tom_doerr](https://x.com/tom_doerr/status/2066365949926629733) (2026-06-15)
 - [tom_doerr](https://x.com/tom_doerr/status/2071321553296412706) (2026-07-01)
 - [tom_doerr](https://x.com/tom_doerr/status/2078760579095753125) (2026-07-21)
+- [trikcode](https://x.com/trikcode/status/2084420246039851517) (2026-08-04)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2081851083119288719) (2026-07-28)
 - [vechainofficial](https://x.com/vechainofficial/status/2062450242360885371) (2026-06-09)
 - [vercel](https://x.com/vercel/status/2067180054979936413) (2026-06-20)

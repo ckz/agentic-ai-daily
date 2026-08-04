@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-03
-total_mentions: 775
+last_seen: 2026-08-04
+total_mentions: 785
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -109,6 +109,8 @@ total_mentions: 775
 - [ArcNova_ACI](https://x.com/ArcNova_ACI/status/2073013930440749245) (2026-07-05)
 - [ArchiveExplorer](https://x.com/ArchiveExplorer/status/2076666622043963789) (2026-07-14)
 - [Argona0x](https://x.com/Argona0x/status/2065525815106769169) (2026-06-13)
+- [AriaWestcott](https://x.com/AriaWestcott/status/2083996549357416566) (2026-08-04)
+- [ArrowFinanceio](https://x.com/ArrowFinanceio/status/2082866606925918282) (2026-08-04)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2064500150069030992) (2026-06-10)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065559824230957190) (2026-06-14)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2074194764510208230) (2026-07-12)
@@ -136,6 +138,7 @@ total_mentions: 775
 - [ClementDelangue](https://x.com/ClementDelangue/status/2081056675558195657) (2026-07-27)
 - [ClementDelangue](https://x.com/ClementDelangue/status/2082201245813514613) (2026-07-30)
 - [Cloudflare](https://x.com/Cloudflare/status/2065279639535456392) (2026-06-12)
+- [Cloudflare](https://x.com/Cloudflare/status/2083947187457667276) (2026-08-04)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2081565399347323127) (2026-08-02)
 - [Cortex_Network_](https://x.com/Cortex_Network_/status/2071913826216554612) (2026-07-01)
 - [Cortex_Network_](https://x.com/Cortex_Network_/status/2075590628134760625) (2026-07-11)
@@ -181,6 +184,7 @@ total_mentions: 775
 - [Fetch_ai](https://x.com/Fetch_ai/status/2070096659929800893) (2026-06-29)
 - [Fetch_ai](https://x.com/Fetch_ai/status/2071271772326916508) (2026-06-29)
 - [FutureStacked](https://x.com/FutureStacked/status/2074159794030604515) (2026-07-07)
+- [GesoraMeshack](https://x.com/GesoraMeshack/status/2084521634937856338) (2026-08-04)
 - [GoogleAI](https://x.com/GoogleAI/status/2079589742535118985) (2026-07-25)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2062253446888063025) (2026-06-06)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2067012903337664886) (2026-06-20)
@@ -195,6 +199,7 @@ total_mentions: 775
 - [Gustafssonkotte](https://x.com/Gustafssonkotte/status/2082309711785849067) (2026-08-01)
 - [Gyokeres_eth](https://x.com/Gyokeres_eth/status/2081330941096583465) (2026-08-02)
 - [HackingDave](https://x.com/HackingDave/status/2069146467701256423) (2026-06-29)
+- [HackingDave](https://x.com/HackingDave/status/2084367299104882779) (2026-08-04)
 - [HarryBee_Yhu](https://x.com/HarryBee_Yhu/status/2067864020527292535) (2026-06-19)
 - [HedgieMarkets](https://x.com/HedgieMarkets/status/2062198862090023293) (2026-06-08)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
@@ -481,6 +486,7 @@ total_mentions: 775
 - [codyschneider](https://x.com/codyschneider/status/2081817171202920732) (2026-08-02)
 - [cohere](https://x.com/cohere/status/2064378058329526556) (2026-06-12)
 - [coinbureau](https://x.com/coinbureau/status/2031222262112858286) (2026-06-09)
+- [cryptobrass](https://x.com/cryptobrass/status/2084245832363130941) (2026-08-04)
 - [cryptobuzzer03](https://x.com/cryptobuzzer03/status/2067855094327001574) (2026-06-19)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1872809091799875592) (2026-06-29)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1879706901170077978) (2026-06-11)
@@ -570,6 +576,8 @@ total_mentions: 775
 - [gregisenberg](https://x.com/gregisenberg/status/2074287887466582072) (2026-07-07)
 - [gudanglifehack](https://x.com/gudanglifehack/status/2068581325767102474) (2026-06-21)
 - [hanakoxbt](https://x.com/hanakoxbt/status/2078979637804187793) (2026-07-21)
+- [hanakoxbt](https://x.com/hanakoxbt/status/2083932817738666010) (2026-08-04)
+- [hanakoxbt](https://x.com/hanakoxbt/status/2084341524125397142) (2026-08-04)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [hasantoxr](https://x.com/hasantoxr/status/2075864853542269183) (2026-07-15)
 - [helicerat0x](https://x.com/helicerat0x/status/2078252543634002084) (2026-07-18)
@@ -708,6 +716,7 @@ total_mentions: 775
 - [sairahul1](https://x.com/sairahul1/status/2078781824160166070) (2026-07-22)
 - [sairahul1](https://x.com/sairahul1/status/2079895735198245346) (2026-07-23)
 - [sairahul1](https://x.com/sairahul1/status/2081737872579908017) (2026-07-28)
+- [sairahul1](https://x.com/sairahul1/status/2083882252619092334) (2026-08-04)
 - [salesforce](https://x.com/salesforce/status/2066491445586858173) (2026-06-28)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
 - [sentient_zh](https://x.com/sentient_zh/status/2066417986467189164) (2026-06-15)
@@ -758,6 +767,7 @@ total_mentions: 775
 - [tom_doerr](https://x.com/tom_doerr/status/2071321553296412706) (2026-07-01)
 - [tom_doerr](https://x.com/tom_doerr/status/2072500678119817273) (2026-07-07)
 - [tom_doerr](https://x.com/tom_doerr/status/2072636601033715736) (2026-07-08)
+- [trikcode](https://x.com/trikcode/status/2084420246039851517) (2026-08-04)
 - [trythreews](https://x.com/trythreews/status/2075519714890334698) (2026-07-12)
 - [unicity_labs](https://x.com/unicity_labs/status/2074864232621892083) (2026-07-10)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2081851083119288719) (2026-07-28)

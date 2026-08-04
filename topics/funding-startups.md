@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-03
-total_mentions: 253
+last_seen: 2026-08-04
+total_mentions: 258
 
 ## Related Tweets
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
@@ -61,6 +61,7 @@ total_mentions: 253
 - [NextLvlFunded](https://x.com/NextLvlFunded/status/2061795412986728637) (2026-06-05)
 - [Nim_Ravid1](https://x.com/Nim_Ravid1/status/2077785419912188236) (2026-07-17)
 - [Okada_DeFi0x](https://x.com/Okada_DeFi0x/status/2070769365763449051) (2026-06-28)
+- [OpenAI](https://x.com/OpenAI/status/2082146058017321257) (2026-08-04)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
 - [PayGo402](https://x.com/PayGo402/status/2076560560162820116) (2026-07-13)
 - [Polymarket](https://x.com/Polymarket/status/2062960684309123535) (2026-06-05)
@@ -118,6 +119,7 @@ total_mentions: 253
 - [amitisinvesting](https://x.com/amitisinvesting/status/2074651564136894627) (2026-07-08)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2077570810978463823) (2026-07-16)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2079389181780832579) (2026-07-23)
+- [amitisinvesting](https://x.com/amitisinvesting/status/2083018001557721309) (2026-08-04)
 - [amuse](https://x.com/amuse/status/2070118337607012363) (2026-07-02)
 - [ankurnagpal](https://x.com/ankurnagpal/status/2073858342196244665) (2026-07-06)
 - [anupamrjp](https://x.com/anupamrjp/status/2076558763071508656) (2026-07-13)
@@ -146,7 +148,9 @@ total_mentions: 253
 - [christophersaum](https://x.com/christophersaum/status/2074608938046104035) (2026-07-08)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
 - [codyschneider](https://x.com/codyschneider/status/2081817171202920732) (2026-08-02)
+- [codyschneider](https://x.com/codyschneider/status/2084369982918406433) (2026-08-04)
 - [coingecko](https://x.com/coingecko/status/2064572347433075107) (2026-06-10)
+- [coreyganim](https://x.com/coreyganim/status/2084312288786276484) (2026-08-04)
 - [craigweiss](https://x.com/craigweiss/status/2072127436310110488) (2026-07-01)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1872809091799875592) (2026-06-29)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2076868034812096748) (2026-07-14)
@@ -209,6 +213,7 @@ total_mentions: 253
 - [paulg](https://x.com/paulg/status/2063644836981260638) (2026-06-12)
 - [paulg](https://x.com/paulg/status/2069821293596148004) (2026-06-28)
 - [paulg](https://x.com/paulg/status/2076784398347968777) (2026-07-18)
+- [paulg](https://x.com/paulg/status/2083628660708561075) (2026-08-04)
 - [peer_rich](https://x.com/peer_rich/status/2062949788081897633) (2026-06-05)
 - [pelositracker](https://x.com/pelositracker/status/2080314321649746194) (2026-07-26)
 - [pierreeliottlal](https://x.com/pierreeliottlal/status/2066037831626362988) (2026-06-14)
