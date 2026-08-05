@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-04
-total_mentions: 785
+last_seen: 2026-08-05
+total_mentions: 796
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -254,6 +254,7 @@ total_mentions: 785
 - [LunarResearcher](https://x.com/LunarResearcher/status/2080629030319980563) (2026-07-26)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2080991836504560095) (2026-07-26)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2082804474116968791) (2026-08-01)
+- [LunarResearcher](https://x.com/LunarResearcher/status/2084407746330296679) (2026-08-05)
 - [Magne_Ai](https://x.com/Magne_Ai/status/2073257996637896904) (2026-07-05)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2083264047299092486) (2026-08-02)
 - [MarMarLabs](https://x.com/MarMarLabs/status/2067798374581960840) (2026-06-19)
@@ -322,6 +323,8 @@ total_mentions: 785
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2055668343743590615) (2026-06-05)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2080046477322105256) (2026-07-23)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2080846750290784693) (2026-07-25)
+- [RoundtableSpace](https://x.com/RoundtableSpace/status/2083776052598321233) (2026-08-05)
+- [RuntimeBRT](https://x.com/RuntimeBRT/status/2084874541864497469) (2026-08-05)
 - [Saasnext_db](https://x.com/Saasnext_db/status/2080867659244347837) (2026-07-25)
 - [SaidAitmbarek](https://x.com/SaidAitmbarek/status/2066430249986908341) (2026-06-15)
 - [SakanaAILabs](https://x.com/SakanaAILabs/status/2077528494775603313) (2026-07-16)
@@ -348,6 +351,7 @@ total_mentions: 785
 - [StockSavvyShay](https://x.com/StockSavvyShay/status/2072731841204011114) (2026-07-03)
 - [SuiNetwork](https://x.com/SuiNetwork/status/2075716447062618312) (2026-07-11)
 - [Sumanth_077](https://x.com/Sumanth_077/status/2063254456834372040) (2026-06-07)
+- [Suryanshti777](https://x.com/Suryanshti777/status/2084693098714599697) (2026-08-05)
 - [SvpChain](https://x.com/SvpChain/status/2064935788345974954) (2026-06-11)
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2065300113254388162) (2026-06-12)
 - [TechCrunch](https://x.com/TechCrunch/status/2062622464362881423) (2026-06-08)
@@ -357,6 +361,7 @@ total_mentions: 785
 - [TheAIphiles](https://x.com/TheAIphiles/status/2079457181850636723) (2026-07-21)
 - [TheGlobalMinima](https://x.com/TheGlobalMinima/status/2070425560485077259) (2026-06-27)
 - [TheHackersNews](https://x.com/TheHackersNews/status/2074845892067426604) (2026-07-09)
+- [TheInsiderPaper](https://x.com/TheInsiderPaper/status/2082481271783964922) (2026-08-05)
 - [TheTuringPost](https://x.com/TheTuringPost/status/2071309540654743935) (2026-07-03)
 - [TheTuringPost](https://x.com/TheTuringPost/status/2076827153665331469) (2026-07-19)
 - [TheValueist](https://x.com/TheValueist/status/2072334968940900744) (2026-07-03)
@@ -380,6 +385,7 @@ total_mentions: 785
 - [WaymarkMoney](https://x.com/WaymarkMoney/status/2081914932237369514) (2026-07-30)
 - [WesRoth](https://x.com/WesRoth/status/2043871865513619560) (2026-07-24)
 - [WesRoth](https://x.com/WesRoth/status/2063244515989713206) (2026-06-08)
+- [WhaleInsider](https://x.com/WhaleInsider/status/2083505184714473983) (2026-08-05)
 - [Wilsonpablo108](https://x.com/Wilsonpablo108/status/2082805933504151951) (2026-08-01)
 - [WireNetwork](https://x.com/WireNetwork/status/2064029713421791646) (2026-06-09)
 - [WrangleAi](https://x.com/WrangleAi/status/2083825310982660098) (2026-08-02)
@@ -449,6 +455,7 @@ total_mentions: 785
 - [axi_master](https://x.com/axi_master/status/2067655053050352041) (2026-06-19)
 - [axiomos_](https://x.com/axiomos_/status/2072983092365811940) (2026-07-04)
 - [azzabazazz](https://x.com/azzabazazz/status/2073518111974998284) (2026-07-05)
+- [base](https://x.com/base/status/2083204522415960437) (2026-08-05)
 - [beamnxw](https://x.com/beamnxw/status/2083539500165149086) (2026-08-02)
 - [bhavesharora02](https://x.com/bhavesharora02/status/2068176324083298796) (2026-06-20)
 - [bijoyweb](https://x.com/bijoyweb/status/2078343865665503366) (2026-07-18)
@@ -482,6 +489,7 @@ total_mentions: 785
 - [codewithimanshu](https://x.com/codewithimanshu/status/2076962984216412342) (2026-07-15)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2079864840055902389) (2026-07-23)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2082038438803738759) (2026-07-30)
+- [codewithimanshu](https://x.com/codewithimanshu/status/2082294302500385168) (2026-08-05)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2083493571177631967) (2026-08-02)
 - [codyschneider](https://x.com/codyschneider/status/2081817171202920732) (2026-08-02)
 - [cohere](https://x.com/cohere/status/2064378058329526556) (2026-06-12)
@@ -634,6 +642,7 @@ total_mentions: 785
 - [levie](https://x.com/levie/status/2079402164988895293) (2026-07-21)
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
 - [lewiscarhart](https://x.com/lewiscarhart/status/2083610805069611230) (2026-08-02)
+- [liquidai](https://x.com/liquidai/status/2084640701669613906) (2026-08-05)
 - [lnmishra](https://x.com/lnmishra/status/2072047572600954992) (2026-07-01)
 - [magnusweb3](https://x.com/magnusweb3/status/2080921726582448588) (2026-07-25)
 - [mardehaym](https://x.com/mardehaym/status/2082765372864770087) (2026-07-31)
@@ -692,6 +701,7 @@ total_mentions: 785
 - [remp0x](https://x.com/remp0x/status/2065261778682937639) (2026-06-12)
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)
 - [rewind02](https://x.com/rewind02/status/2062914280681271627) (2026-06-05)
+- [rewind02](https://x.com/rewind02/status/2083141563077574747) (2026-08-05)
 - [richardabish_ai](https://x.com/richardabish_ai/status/2065312390523359485) (2026-06-12)
 - [rickdeetweets](https://x.com/rickdeetweets/status/2082186121182925050) (2026-07-29)
 - [ricomaps](https://x.com/ricomaps/status/2079307588261585270) (2026-07-24)
@@ -717,6 +727,7 @@ total_mentions: 785
 - [sairahul1](https://x.com/sairahul1/status/2079895735198245346) (2026-07-23)
 - [sairahul1](https://x.com/sairahul1/status/2081737872579908017) (2026-07-28)
 - [sairahul1](https://x.com/sairahul1/status/2083882252619092334) (2026-08-04)
+- [sairahul1](https://x.com/sairahul1/status/2084557703226036536) (2026-08-05)
 - [salesforce](https://x.com/salesforce/status/2066491445586858173) (2026-06-28)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
 - [sentient_zh](https://x.com/sentient_zh/status/2066417986467189164) (2026-06-15)

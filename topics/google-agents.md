@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-04
-total_mentions: 73
+last_seen: 2026-08-05
+total_mentions: 77
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -13,6 +13,7 @@ total_mentions: 73
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2070541643518775354) (2026-06-27)
 - [Arcane_Aii](https://x.com/Arcane_Aii/status/2064316482071171261) (2026-06-11)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2076747075036045645) (2026-07-14)
+- [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2082991648703930561) (2026-08-05)
 - [Creatify_AI](https://x.com/Creatify_AI/status/2064400985288802621) (2026-06-11)
 - [DanKornas](https://x.com/DanKornas/status/2077647155179782297) (2026-07-16)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
@@ -31,6 +32,7 @@ total_mentions: 73
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2082119038163877983) (2026-07-30)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2082179408857608436) (2026-07-29)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2082537759097397347) (2026-07-30)
+- [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2084731126866669911) (2026-08-05)
 - [GoogleCloud_IL](https://x.com/GoogleCloud_IL/status/2075120271111954818) (2026-07-09)
 - [GoogleCloud_IL](https://x.com/GoogleCloud_IL/status/2079831311980564832) (2026-07-22)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
@@ -52,6 +54,7 @@ total_mentions: 73
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
 - [alliekmiller](https://x.com/alliekmiller/status/2064451731325415446) (2026-06-10)
 - [angeldot_](https://x.com/angeldot_/status/2071697398527881418) (2026-06-30)
+- [beamnxw](https://x.com/beamnxw/status/2084288199237517417) (2026-08-05)
 - [codyschneider](https://x.com/codyschneider/status/2081816893376057413) (2026-07-28)
 - [coreyganim](https://x.com/coreyganim/status/2084312288786276484) (2026-08-04)
 - [eigenlabs](https://x.com/eigenlabs/status/2062540745601384785) (2026-06-08)
@@ -71,6 +74,7 @@ total_mentions: 73
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2072629472306528655) (2026-07-03)
+- [sairahul1](https://x.com/sairahul1/status/2084557703226036536) (2026-08-05)
 - [sandy4kad](https://x.com/sandy4kad/status/2074948658953593102) (2026-07-09)
 - [sentient_agency](https://x.com/sentient_agency/status/2071538650425528367) (2026-07-01)
 - [sharbel](https://x.com/sharbel/status/2063369348828610886) (2026-06-11)

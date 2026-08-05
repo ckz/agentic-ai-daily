@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-08-04
-total_mentions: 325
+last_seen: 2026-08-05
+total_mentions: 332
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -32,6 +32,7 @@ total_mentions: 325
 - [ArslyTech](https://x.com/ArslyTech/status/2063153998518235584) (2026-06-06)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065559824230957190) (2026-06-14)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2076747075036045645) (2026-07-14)
+- [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2082991648703930561) (2026-08-05)
 - [Av1dlive](https://x.com/Av1dlive/status/2082039763511673129) (2026-07-29)
 - [Av1dlive](https://x.com/Av1dlive/status/2082807521161654576) (2026-07-31)
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
@@ -79,6 +80,7 @@ total_mentions: 325
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2082119038163877983) (2026-07-30)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2082179408857608436) (2026-07-29)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2082537759097397347) (2026-07-30)
+- [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2084731126866669911) (2026-08-05)
 - [GoogleCloud_IL](https://x.com/GoogleCloud_IL/status/2075120271111954818) (2026-07-09)
 - [GoogleCloud_IL](https://x.com/GoogleCloud_IL/status/2079831311980564832) (2026-07-22)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
@@ -139,6 +141,7 @@ total_mentions: 325
 - [SpaceXAI](https://x.com/SpaceXAI/status/2072342803787702422) (2026-07-07)
 - [Steve8708](https://x.com/Steve8708/status/2077051086234685641) (2026-07-15)
 - [StockMCatalysts](https://x.com/StockMCatalysts/status/2078855382777348425) (2026-07-23)
+- [Suryanshti777](https://x.com/Suryanshti777/status/2084693098714599697) (2026-08-05)
 - [TeksCreate](https://x.com/TeksCreate/status/2068138970131632591) (2026-06-20)
 - [TheAIphiles](https://x.com/TheAIphiles/status/2079457181850636723) (2026-07-21)
 - [TheHackersNews](https://x.com/TheHackersNews/status/2074845892067426604) (2026-07-09)
@@ -197,6 +200,7 @@ total_mentions: 325
 - [beamnxw](https://x.com/beamnxw/status/2081324327899746541) (2026-08-02)
 - [beamnxw](https://x.com/beamnxw/status/2082746025958150333) (2026-08-01)
 - [beamnxw](https://x.com/beamnxw/status/2083539500165149086) (2026-08-02)
+- [beamnxw](https://x.com/beamnxw/status/2084288199237517417) (2026-08-05)
 - [better_auth](https://x.com/better_auth/status/2074523839300513921) (2026-07-08)
 - [bindureddy](https://x.com/bindureddy/status/2076165296977858836) (2026-07-12)
 - [bizbreakdowns](https://x.com/bizbreakdowns/status/2081711200643985720) (2026-07-29)
@@ -253,6 +257,7 @@ total_mentions: 325
 - [hasantoxr](https://x.com/hasantoxr/status/2075864853542269183) (2026-07-15)
 - [helicerat0x](https://x.com/helicerat0x/status/2078252543634002084) (2026-07-18)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
+- [heynavtoor](https://x.com/heynavtoor/status/2083221614595051602) (2026-08-05)
 - [hijkzzz](https://x.com/hijkzzz/status/2076843539426836874) (2026-07-14)
 - [humafinance](https://x.com/humafinance/status/2062445243711279528) (2026-06-08)
 - [iamlukethedev](https://x.com/iamlukethedev/status/2063081062473859097) (2026-06-06)
@@ -291,6 +296,7 @@ total_mentions: 325
 - [radiyal_agency](https://x.com/radiyal_agency/status/2072183621176504669) (2026-07-01)
 - [randy_magruder](https://x.com/randy_magruder/status/2075453861754470569) (2026-07-10)
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)
+- [rewind02](https://x.com/rewind02/status/2083141563077574747) (2026-08-05)
 - [riskfreemyth](https://x.com/riskfreemyth/status/2074508129346486679) (2026-07-08)
 - [rohit4verse](https://x.com/rohit4verse/status/2083284519550136641) (2026-08-01)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
@@ -298,6 +304,7 @@ total_mentions: 325
 - [sairahul1](https://x.com/sairahul1/status/2069421947390415189) (2026-06-28)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [sairahul1](https://x.com/sairahul1/status/2083882252619092334) (2026-08-04)
+- [sairahul1](https://x.com/sairahul1/status/2084557703226036536) (2026-08-05)
 - [salesforce](https://x.com/salesforce/status/2066491445586858173) (2026-06-28)
 - [sandy4kad](https://x.com/sandy4kad/status/2074948658953593102) (2026-07-09)
 - [sauda_coder](https://x.com/sauda_coder/status/2078463245657211007) (2026-07-20)
