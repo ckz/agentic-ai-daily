@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-05
-total_mentions: 77
+last_seen: 2026-08-06
+total_mentions: 79
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -52,6 +52,7 @@ total_mentions: 77
 - [WesRoth](https://x.com/WesRoth/status/2043871865513619560) (2026-07-24)
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
+- [akshay_pachaar](https://x.com/akshay_pachaar/status/2084688207351087392) (2026-08-06)
 - [alliekmiller](https://x.com/alliekmiller/status/2064451731325415446) (2026-06-10)
 - [angeldot_](https://x.com/angeldot_/status/2071697398527881418) (2026-06-30)
 - [beamnxw](https://x.com/beamnxw/status/2084288199237517417) (2026-08-05)
@@ -72,6 +73,7 @@ total_mentions: 77
 - [gregisenberg](https://x.com/gregisenberg/status/2052110589682749869) (2026-07-03)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
+- [hot_town](https://x.com/hot_town/status/2084999228439376119) (2026-08-06)
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2072629472306528655) (2026-07-03)
 - [sairahul1](https://x.com/sairahul1/status/2084557703226036536) (2026-08-05)

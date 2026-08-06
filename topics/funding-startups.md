@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-05
-total_mentions: 264
+last_seen: 2026-08-06
+total_mentions: 265
 
 ## Related Tweets
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
@@ -202,6 +202,7 @@ total_mentions: 264
 - [kamath_sutra](https://x.com/kamath_sutra/status/2083224374728093907) (2026-08-01)
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)
+- [kmr_dilip](https://x.com/kmr_dilip/status/2084154599183929363) (2026-08-06)
 - [kseniam0s](https://x.com/kseniam0s/status/2069540568615604610) (2026-06-27)
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
 - [lightspeedvp](https://x.com/lightspeedvp/status/2070182060224852105) (2026-06-27)

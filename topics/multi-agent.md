@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-08-05
-total_mentions: 179
+last_seen: 2026-08-06
+total_mentions: 183
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -73,6 +73,7 @@ total_mentions: 179
 - [MichaelGannotti](https://x.com/MichaelGannotti/status/2079168568478912834) (2026-07-21)
 - [NVIDIAAP](https://x.com/NVIDIAAP/status/2076879361504903645) (2026-07-21)
 - [PrakashS720](https://x.com/PrakashS720/status/2065850652832694731) (2026-06-15)
+- [PrimeIntellect](https://x.com/PrimeIntellect/status/2085086999267144083) (2026-08-06)
 - [Rahul1539482](https://x.com/Rahul1539482/status/2068215799849091178) (2026-06-20)
 - [Rixhabh__](https://x.com/Rixhabh__/status/2064674645543154093) (2026-06-11)
 - [RohOnChain](https://x.com/RohOnChain/status/2083255916221370588) (2026-08-01)
@@ -116,6 +117,7 @@ total_mentions: 179
 - [cyrilXBT](https://x.com/cyrilXBT/status/2060914969605189808) (2026-06-05)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2064912505928122463) (2026-06-11)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2077628796572741967) (2026-07-16)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2085261842625257870) (2026-08-06)
 - [d_vuln](https://x.com/d_vuln/status/2065305823631294810) (2026-06-12)
 - [dkare1009](https://x.com/dkare1009/status/2073383916832985331) (2026-07-05)
 - [e_opore](https://x.com/e_opore/status/2073977846448451776) (2026-07-06)
@@ -147,6 +149,7 @@ total_mentions: 179
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [maverickecom](https://x.com/maverickecom/status/2081715179914412252) (2026-07-30)
 - [michaeljburry](https://x.com/michaeljburry/status/2075836197230813517) (2026-07-11)
+- [nicbstme](https://x.com/nicbstme/status/2084918378368471150) (2026-08-06)
 - [opentensor](https://x.com/opentensor/status/2078858375081627985) (2026-07-21)
 - [pankajkumar_dev](https://x.com/pankajkumar_dev/status/2083391622939815963) (2026-08-01)
 - [polydao](https://x.com/polydao/status/2066048742625821003) (2026-06-14)
@@ -182,5 +185,6 @@ total_mentions: 179
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2081680037544427793) (2026-07-28)
 - [thsottiaux](https://x.com/thsottiaux/status/2075641131002700120) (2026-07-11)
 - [tom_doerr](https://x.com/tom_doerr/status/2066365949926629733) (2026-06-15)
+- [vincentweisser](https://x.com/vincentweisser/status/2085101151146696820) (2026-08-06)
 - [virtuals_io](https://x.com/virtuals_io/status/1881340149503857151) (2026-06-11)
 - [virtuals_io](https://x.com/virtuals_io/status/2063654910995145209) (2026-06-11)

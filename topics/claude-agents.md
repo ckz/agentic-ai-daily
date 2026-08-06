@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-05
-total_mentions: 128
+last_seen: 2026-08-06
+total_mentions: 131
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -13,7 +13,9 @@ total_mentions: 128
 - [0xMovez](https://x.com/0xMovez/status/2073765125958348964) (2026-07-06)
 - [0xchadx](https://x.com/0xchadx/status/2067862587174244810) (2026-06-19)
 - [0xclayn](https://x.com/0xclayn/status/2075292493218721894) (2026-07-11)
+- [51bodila](https://x.com/51bodila/status/2085020463290290504) (2026-08-06)
 - [AEON_Community](https://x.com/AEON_Community/status/2064694068677107745) (2026-06-11)
+- [AISecurityInst](https://x.com/AISecurityInst/status/2084746202579386632) (2026-08-06)
 - [AdelDeveloperX](https://x.com/AdelDeveloperX/status/2074195359199375745) (2026-07-07)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2076720209293893677) (2026-07-14)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2065054167677170033) (2026-06-12)
@@ -88,6 +90,7 @@ total_mentions: 128
 - [cyrilXBT](https://x.com/cyrilXBT/status/2074309927619924426) (2026-07-07)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2075195764855242950) (2026-07-11)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2079147805856374832) (2026-07-21)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2084862461078077848) (2026-08-06)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [dr_cintas](https://x.com/dr_cintas/status/2072714904650359130) (2026-07-03)
 - [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)

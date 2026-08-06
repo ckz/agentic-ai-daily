@@ -1,13 +1,15 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-05
-total_mentions: 39
+last_seen: 2026-08-06
+total_mentions: 44
 
 ## Related Tweets
 - [0xDepressionn](https://x.com/0xDepressionn/status/2063987019068371128) (2026-06-10)
 - [0xSammy](https://x.com/0xSammy/status/1882500633573609980) (2026-06-08)
 - [0xchadx](https://x.com/0xchadx/status/2067862587174244810) (2026-06-19)
+- [AISafetyMemes](https://x.com/AISafetyMemes/status/2080815177252114667) (2026-08-06)
+- [AISecurityInst](https://x.com/AISecurityInst/status/2084746202579386632) (2026-08-06)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2080793930279625134) (2026-07-28)
 - [AnthonyNAguirre](https://x.com/AnthonyNAguirre/status/2080523331988500488) (2026-07-26)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2064900509933175066) (2026-06-11)
@@ -15,8 +17,10 @@ total_mentions: 39
 - [FT](https://x.com/FT/status/2079768250804535342) (2026-07-29)
 - [Gustafssonkotte](https://x.com/Gustafssonkotte/status/2082309711785849067) (2026-08-01)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2073709900820099232) (2026-07-06)
+- [MarioNawfal](https://x.com/MarioNawfal/status/2085171754415038482) (2026-08-06)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
 - [Polymarket](https://x.com/Polymarket/status/2080838272033394996) (2026-07-25)
+- [Polymarket](https://x.com/Polymarket/status/2085186345040023989) (2026-08-06)
 - [RachelTobac](https://x.com/RachelTobac/status/2082214795072225786) (2026-07-30)
 - [RegalosDigitals](https://x.com/RegalosDigitals/status/2071263024212508813) (2026-06-29)
 - [RishiUvaach](https://x.com/RishiUvaach/status/2082699300648431635) (2026-07-30)
@@ -34,6 +38,7 @@ total_mentions: 39
 - [clapilot](https://x.com/clapilot/status/2063510331716952191) (2026-06-07)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1879706901170077978) (2026-06-11)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/2077467370616967277) (2026-07-20)
+- [hot_town](https://x.com/hot_town/status/2084999228439376119) (2026-08-06)
 - [israfill](https://x.com/israfill/status/2068936531780555013) (2026-06-27)
 - [itsolelehmann](https://x.com/itsolelehmann/status/2082644674981089564) (2026-07-31)
 - [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)

@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-08-05
-total_mentions: 430
+last_seen: 2026-08-06
+total_mentions: 438
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -21,6 +21,7 @@ total_mentions: 430
 - [0xeduu](https://x.com/0xeduu/status/2082157204199608411) (2026-07-29)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2063244577482440978) (2026-06-11)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2083305262035632347) (2026-08-02)
+- [51bodila](https://x.com/51bodila/status/2085020463290290504) (2026-08-06)
 - [AIWarper](https://x.com/AIWarper/status/2070535586075885912) (2026-06-27)
 - [AIdanSolves](https://x.com/AIdanSolves/status/2073162229533262290) (2026-07-04)
 - [AIonBase_](https://x.com/AIonBase_/status/2063002925761237147) (2026-06-05)
@@ -37,10 +38,12 @@ total_mentions: 430
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2069720365442719867) (2026-06-27)
 - [AlinaDavy20](https://x.com/AlinaDavy20/status/2084482839723094121) (2026-08-04)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2076366894655848871) (2026-07-13)
+- [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2084265153898373580) (2026-08-06)
 - [AnhNguyen136515](https://x.com/AnhNguyen136515/status/2073299705971536262) (2026-07-04)
 - [Appetiteldn](https://x.com/Appetiteldn/status/2063800638505361587) (2026-06-08)
 - [Artificialunbox](https://x.com/Artificialunbox/status/2068215362114715908) (2026-06-20)
 - [Atenov_D](https://x.com/Atenov_D/status/2063583110495707530) (2026-06-08)
+- [Aurimas_Gr](https://x.com/Aurimas_Gr/status/2084608000610754903) (2026-08-06)
 - [Av1dlive](https://x.com/Av1dlive/status/2077048656545628206) (2026-07-15)
 - [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2067914133576749325) (2026-06-21)
 - [Aykutuces](https://x.com/Aykutuces/status/2082167918138106256) (2026-07-29)
@@ -221,6 +224,7 @@ total_mentions: 430
 - [arcads_ai](https://x.com/arcads_ai/status/2065046759743635529) (2026-06-12)
 - [arceyul](https://x.com/arceyul/status/2074582079807881440) (2026-07-09)
 - [architeqtai](https://x.com/architeqtai/status/2065343364166299693) (2026-06-12)
+- [aresotik](https://x.com/aresotik/status/2085055029140979860) (2026-08-06)
 - [arnaudmercier](https://x.com/arnaudmercier/status/2072179223339348311) (2026-07-01)
 - [aryanXmahajan](https://x.com/aryanXmahajan/status/2067677589247082656) (2026-06-19)
 - [ashiqur_ai](https://x.com/ashiqur_ai/status/2068572009676804246) (2026-06-21)
@@ -283,6 +287,7 @@ total_mentions: 430
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2064019609062101321) (2026-06-09)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2077696199486775764) (2026-07-18)
 - [epicmnw](https://x.com/epicmnw/status/2065311091027251222) (2026-06-12)
+- [evanjconrad](https://x.com/evanjconrad/status/2084819797133721679) (2026-08-06)
 - [evisdrenova](https://x.com/evisdrenova/status/2068551161263894776) (2026-06-21)
 - [expertwith_AI](https://x.com/expertwith_AI/status/2070094109109567845) (2026-06-27)
 - [exploraX_](https://x.com/exploraX_/status/2062584596328243214) (2026-06-06)
@@ -329,6 +334,7 @@ total_mentions: 430
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2062918118503231694) (2026-06-07)
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2073646837894992126) (2026-07-05)
 - [maarcoofdezz](https://x.com/maarcoofdezz/status/2079543760585691543) (2026-07-22)
+- [maarcoofdezz](https://x.com/maarcoofdezz/status/2085055293608587681) (2026-08-06)
 - [mackody_](https://x.com/mackody_/status/2075285372515528906) (2026-07-11)
 - [magnific](https://x.com/magnific/status/2064346257330675798) (2026-06-10)
 - [marorhab](https://x.com/marorhab/status/2063163950850609431) (2026-06-06)
@@ -350,6 +356,7 @@ total_mentions: 430
 - [milesdeutscher](https://x.com/milesdeutscher/status/2080208806043406646) (2026-07-24)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2080763866200645792) (2026-07-25)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2080865392357208266) (2026-07-25)
+- [milesdeutscher](https://x.com/milesdeutscher/status/2085244484888019336) (2026-08-06)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [nrlartt](https://x.com/nrlartt/status/2082153925491249607) (2026-07-29)
 - [nubis_app](https://x.com/nubis_app/status/2065699995399881189) (2026-06-13)
@@ -426,6 +433,7 @@ total_mentions: 430
 - [unicodef1wn](https://x.com/unicodef1wn/status/2082200846243143795) (2026-07-30)
 - [unity](https://x.com/unity/status/2079389530260414898) (2026-07-24)
 - [vinayjain404](https://x.com/vinayjain404/status/2084326541631099270) (2026-08-04)
+- [vinayjain404](https://x.com/vinayjain404/status/2085046962777121180) (2026-08-06)
 - [waveking1314](https://x.com/waveking1314/status/2063261659259400349) (2026-06-07)
 - [wsmaisys](https://x.com/wsmaisys/status/2068239014780452953) (2026-06-20)
 - [xiaoying_eth](https://x.com/xiaoying_eth/status/2064183483795460502) (2026-06-10)
