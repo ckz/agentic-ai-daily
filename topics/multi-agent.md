@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-08-06
-total_mentions: 183
+last_seen: 2026-08-07
+total_mentions: 186
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -68,9 +68,11 @@ total_mentions: 183
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [LingoAI_io](https://x.com/LingoAI_io/status/2081748881914912793) (2026-07-28)
+- [LunarResearcher](https://x.com/LunarResearcher/status/2085468711167615253) (2026-08-07)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2073950058677186755) (2026-07-06)
 - [MichaelGannotti](https://x.com/MichaelGannotti/status/2079168568478912834) (2026-07-21)
+- [MikeLongTerm](https://x.com/MikeLongTerm/status/2083580958519783522) (2026-08-07)
 - [NVIDIAAP](https://x.com/NVIDIAAP/status/2076879361504903645) (2026-07-21)
 - [PrakashS720](https://x.com/PrakashS720/status/2065850652832694731) (2026-06-15)
 - [PrimeIntellect](https://x.com/PrimeIntellect/status/2085086999267144083) (2026-08-06)
@@ -128,6 +130,7 @@ total_mentions: 183
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
 - [elora_khatun](https://x.com/elora_khatun/status/2074711871069032615) (2026-07-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2063633896517022014) (2026-06-08)
+- [eng_khairallah1](https://x.com/eng_khairallah1/status/2084974440895410625) (2026-08-07)
 - [expertwith_AI](https://x.com/expertwith_AI/status/2070094109109567845) (2026-06-27)
 - [forecast_agents](https://x.com/forecast_agents/status/2079822864614555806) (2026-07-22)
 - [gippp69](https://x.com/gippp69/status/2062224522237890675) (2026-06-08)

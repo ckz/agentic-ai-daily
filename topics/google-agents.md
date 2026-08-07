@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-06
-total_mentions: 79
+last_seen: 2026-08-07
+total_mentions: 82
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -19,6 +19,7 @@ total_mentions: 79
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [EXM7777](https://x.com/EXM7777/status/2079949851648053760) (2026-07-23)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
+- [GMapsPlatform](https://x.com/GMapsPlatform/status/2084699430171680894) (2026-08-07)
 - [GeminiApp](https://x.com/GeminiApp/status/2069143097586700794) (2026-06-27)
 - [GoogleAI](https://x.com/GoogleAI/status/2062942864288387430) (2026-06-06)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2061578655050899715) (2026-06-07)
@@ -33,6 +34,7 @@ total_mentions: 79
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2082179408857608436) (2026-07-29)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2082537759097397347) (2026-07-30)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2084731126866669911) (2026-08-05)
+- [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2085475708143374815) (2026-08-07)
 - [GoogleCloud_IL](https://x.com/GoogleCloud_IL/status/2075120271111954818) (2026-07-09)
 - [GoogleCloud_IL](https://x.com/GoogleCloud_IL/status/2079831311980564832) (2026-07-22)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
@@ -52,6 +54,7 @@ total_mentions: 79
 - [WesRoth](https://x.com/WesRoth/status/2043871865513619560) (2026-07-24)
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
+- [akshay_pachaar](https://x.com/akshay_pachaar/status/2083815836003996033) (2026-08-07)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2084688207351087392) (2026-08-06)
 - [alliekmiller](https://x.com/alliekmiller/status/2064451731325415446) (2026-06-10)
 - [angeldot_](https://x.com/angeldot_/status/2071697398527881418) (2026-06-30)
