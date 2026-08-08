@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-07
-total_mentions: 266
+last_seen: 2026-08-08
+total_mentions: 268
 
 ## Related Tweets
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
@@ -187,6 +187,7 @@ total_mentions: 266
 - [gregisenberg](https://x.com/gregisenberg/status/2077471201002185195) (2026-07-16)
 - [gregisenberg](https://x.com/gregisenberg/status/2081088155793465783) (2026-07-27)
 - [gregisenberg](https://x.com/gregisenberg/status/2081814601851900221) (2026-08-02)
+- [gregisenberg](https://x.com/gregisenberg/status/2083954605533065561) (2026-08-08)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [iam_elias1](https://x.com/iam_elias1/status/2062095528742240319) (2026-06-05)
 - [inter_link](https://x.com/inter_link/status/2081053524134125832) (2026-07-29)
@@ -232,6 +233,7 @@ total_mentions: 266
 - [ridark_eth](https://x.com/ridark_eth/status/2068120584047804649) (2026-06-20)
 - [rihntv](https://x.com/rihntv/status/2075390652284654046) (2026-07-10)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2065184524754112720) (2026-06-14)
+- [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2085089809371173362) (2026-08-08)
 - [rsngprad](https://x.com/rsngprad/status/2072630117218791745) (2026-07-05)
 - [sahil_seth](https://x.com/sahil_seth/status/2079716698840858930) (2026-07-22)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)

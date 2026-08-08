@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-07
-total_mentions: 827
+last_seen: 2026-08-08
+total_mentions: 836
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -33,6 +33,7 @@ total_mentions: 827
 - [0xCodila](https://x.com/0xCodila/status/2083274548183503181) (2026-08-02)
 - [0xCodila](https://x.com/0xCodila/status/2083602508807569560) (2026-08-02)
 - [0xDevShah](https://x.com/0xDevShah/status/2076008904232931742) (2026-07-13)
+- [0xJeff](https://x.com/0xJeff/status/2085595676168396959) (2026-08-08)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xMovez](https://x.com/0xMovez/status/2063989380583137587) (2026-06-09)
 - [0xMovez](https://x.com/0xMovez/status/2069075857629409378) (2026-06-29)
@@ -126,6 +127,8 @@ total_mentions: 827
 - [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2067914133576749325) (2026-06-21)
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
 - [BSCNews](https://x.com/BSCNews/status/2075215645785141282) (2026-07-10)
+- [BSCNews](https://x.com/BSCNews/status/2085378308858868014) (2026-08-08)
+- [Badtheorylabs](https://x.com/Badtheorylabs/status/2085359932900082039) (2026-08-08)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2062873857304752368) (2026-06-05)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2063598644293484741) (2026-06-08)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2064345389424324891) (2026-06-14)
@@ -324,6 +327,7 @@ total_mentions: 827
 - [RATGPT_official](https://x.com/RATGPT_official/status/2070072449027494268) (2026-06-28)
 - [RachelTobac](https://x.com/RachelTobac/status/2082214795072225786) (2026-07-30)
 - [Rahul1539482](https://x.com/Rahul1539482/status/2068215799849091178) (2026-06-20)
+- [RaoulGMI](https://x.com/RaoulGMI/status/2085842971665351165) (2026-08-08)
 - [Rawan_INJ](https://x.com/Rawan_INJ/status/2079272865883475988) (2026-07-21)
 - [Revolt_Fi](https://x.com/Revolt_Fi/status/2079266777163522467) (2026-07-21)
 - [Ric_RTP](https://x.com/Ric_RTP/status/2079941508807921958) (2026-07-23)
@@ -537,6 +541,7 @@ total_mentions: 827
 - [cyrilXBT](https://x.com/cyrilXBT/status/2084862461078077848) (2026-08-06)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2085204705475748009) (2026-08-06)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2085261842625257870) (2026-08-06)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2085683119320133685) (2026-08-08)
 - [d_vuln](https://x.com/d_vuln/status/2065305823631294810) (2026-06-12)
 - [dair_ai](https://x.com/dair_ai/status/2028480209033568475) (2026-06-13)
 - [dair_ai](https://x.com/dair_ai/status/2081560214554419700) (2026-07-27)
@@ -588,6 +593,7 @@ total_mentions: 827
 - [f_rmsj](https://x.com/f_rmsj/status/2065330666368328129) (2026-06-12)
 - [femke_plantinga](https://x.com/femke_plantinga/status/2082375583363944873) (2026-07-30)
 - [finkd](https://x.com/finkd/status/2075218444056707458) (2026-07-11)
+- [francescoswiss](https://x.com/francescoswiss/status/2085369251372658880) (2026-08-08)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2076517228267155961) (2026-07-13)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2083584032122577255) (2026-08-02)
 - [funghibull](https://x.com/funghibull/status/2074598601184227650) (2026-07-08)
@@ -654,6 +660,7 @@ total_mentions: 827
 - [kadsxr](https://x.com/kadsxr/status/2076781099120804218) (2026-07-15)
 - [karlmehta](https://x.com/karlmehta/status/2071232274738344073) (2026-06-29)
 - [kenAI_domains](https://x.com/kenAI_domains/status/2080371618954490323) (2026-07-24)
+- [kimmonismus](https://x.com/kimmonismus/status/2085812651163296161) (2026-08-08)
 - [kuddus0356575](https://x.com/kuddus0356575/status/2073988400865227141) (2026-07-06)
 - [kuddus0356575](https://x.com/kuddus0356575/status/2076907414599962690) (2026-07-15)
 - [kunchenguid](https://x.com/kunchenguid/status/2068367773533667565) (2026-06-21)
@@ -740,6 +747,7 @@ total_mentions: 827
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2062470652905549901) (2026-06-05)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2074006931509842082) (2026-07-08)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2079318538100342854) (2026-07-23)
+- [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2085089809371173362) (2026-08-08)
 - [rohit4verse](https://x.com/rohit4verse/status/2083284519550136641) (2026-08-01)
 - [rushabh96975767](https://x.com/rushabh96975767/status/2075786236451758176) (2026-07-11)
 - [s1rozha_](https://x.com/s1rozha_/status/2072341012735791157) (2026-07-02)
@@ -791,6 +799,7 @@ total_mentions: 827
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
 - [tech0827](https://x.com/tech0827/status/2066035199607968063) (2026-06-14)
 - [techNmak](https://x.com/techNmak/status/2068884177383047439) (2026-06-27)
+- [teneo_protocol](https://x.com/teneo_protocol/status/2085770833843167351) (2026-08-08)
 - [tetsuoai](https://x.com/tetsuoai/status/2071775282420445427) (2026-06-30)
 - [tetsuoai](https://x.com/tetsuoai/status/2071817609742532884) (2026-06-30)
 - [tetsuoai](https://x.com/tetsuoai/status/2073653059314688465) (2026-07-05)

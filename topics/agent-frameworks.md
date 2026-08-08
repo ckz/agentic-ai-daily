@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-08-07
-total_mentions: 338
+last_seen: 2026-08-08
+total_mentions: 344
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -39,6 +39,7 @@ total_mentions: 338
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
 - [CSVisionPapers](https://x.com/CSVisionPapers/status/2072902537439481931) (2026-07-03)
 - [CapexAndChill](https://x.com/CapexAndChill/status/2073965340476768534) (2026-07-06)
+- [CherryEOrtega](https://x.com/CherryEOrtega/status/2085996021008748799) (2026-08-08)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2064756984617021807) (2026-06-11)
 - [Colhodm](https://x.com/Colhodm/status/2072373857999098214) (2026-07-02)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2066212008782172238) (2026-06-19)
@@ -115,6 +116,7 @@ total_mentions: 338
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2081303563746398665) (2026-07-28)
+- [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2084978309532647780) (2026-08-08)
 - [MilkRoadAI](https://x.com/MilkRoadAI/status/2072187752402346407) (2026-07-08)
 - [Mohansinha](https://x.com/Mohansinha/status/2079629691494060368) (2026-07-24)
 - [MrOnsase](https://x.com/MrOnsase/status/2075841247223165124) (2026-07-11)
@@ -127,6 +129,7 @@ total_mentions: 338
 - [Priyannkaaaa](https://x.com/Priyannkaaaa/status/2083851157324046649) (2026-08-03)
 - [PythonDvz](https://x.com/PythonDvz/status/2063623261678698575) (2026-06-10)
 - [Rahul1539482](https://x.com/Rahul1539482/status/2068215799849091178) (2026-06-20)
+- [RaoulGMI](https://x.com/RaoulGMI/status/2085842971665351165) (2026-08-08)
 - [RishiUvaach](https://x.com/RishiUvaach/status/2082699300648431635) (2026-07-30)
 - [RobertTLange](https://x.com/RobertTLange/status/2081651553929494693) (2026-07-28)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2062274372388507726) (2026-06-05)
@@ -172,6 +175,7 @@ total_mentions: 338
 - [abhishek__AI](https://x.com/abhishek__AI/status/2068588008648142910) (2026-06-21)
 - [adriablancafort](https://x.com/adriablancafort/status/2071688701651108309) (2026-06-30)
 - [adxtyahq](https://x.com/adxtyahq/status/2062090077296283932) (2026-06-08)
+- [afahmy_dev](https://x.com/afahmy_dev/status/2085986863119040984) (2026-08-08)
 - [agenticbrew](https://x.com/agenticbrew/status/2072848219084910646) (2026-07-03)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
 - [aicryptoboss](https://x.com/aicryptoboss/status/2082348441506603086) (2026-07-29)
@@ -224,6 +228,7 @@ total_mentions: 338
 - [coreyganim](https://x.com/coreyganim/status/2074426194418926020) (2026-07-08)
 - [csaba_kissi](https://x.com/csaba_kissi/status/2074745257099485319) (2026-07-09)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2085261842625257870) (2026-08-06)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2085683119320133685) (2026-08-08)
 - [dabit3](https://x.com/dabit3/status/2081841031528493220) (2026-07-29)
 - [dair_ai](https://x.com/dair_ai/status/2028480209033568475) (2026-06-13)
 - [dair_ai](https://x.com/dair_ai/status/2081770344952803628) (2026-07-28)
@@ -275,6 +280,7 @@ total_mentions: 338
 - [jakezward](https://x.com/jakezward/status/2077014538000482693) (2026-07-16)
 - [johnvirality](https://x.com/johnvirality/status/2070571963555152330) (2026-06-29)
 - [kenAI_domains](https://x.com/kenAI_domains/status/2080371618954490323) (2026-07-24)
+- [kimmonismus](https://x.com/kimmonismus/status/2085812651163296161) (2026-08-08)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [lablabai](https://x.com/lablabai/status/2011441661466042529) (2026-07-10)
 - [lagerskoy](https://x.com/lagerskoy/status/2078533407580311832) (2026-07-19)

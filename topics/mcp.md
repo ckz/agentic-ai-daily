@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-08-07
-total_mentions: 445
+last_seen: 2026-08-08
+total_mentions: 448
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -270,6 +270,7 @@ total_mentions: 445
 - [cyrilXBT](https://x.com/cyrilXBT/status/2077690956393181386) (2026-07-22)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2081944669387137257) (2026-07-28)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2083762211718394276) (2026-08-03)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2085683119320133685) (2026-08-08)
 - [dannypostma](https://x.com/dannypostma/status/2082689872494755872) (2026-07-30)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [davemccollough](https://x.com/davemccollough/status/2064154192856670213) (2026-06-09)
@@ -311,6 +312,7 @@ total_mentions: 445
 - [gokulr](https://x.com/gokulr/status/2082145789372137749) (2026-08-02)
 - [gregisenberg](https://x.com/gregisenberg/status/1893687593755164940) (2026-07-03)
 - [gregisenberg](https://x.com/gregisenberg/status/2059274608759480367) (2026-07-16)
+- [gregisenberg](https://x.com/gregisenberg/status/2083954605533065561) (2026-08-08)
 - [hamster_wat](https://x.com/hamster_wat/status/2078996887361794149) (2026-07-27)
 - [hanakoxbt](https://x.com/hanakoxbt/status/2083932817738666010) (2026-08-04)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
@@ -439,6 +441,7 @@ total_mentions: 445
 - [undefinedKi](https://x.com/undefinedKi/status/2074978611447365998) (2026-07-09)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2082200846243143795) (2026-07-30)
 - [unity](https://x.com/unity/status/2079389530260414898) (2026-07-24)
+- [viktoroddy](https://x.com/viktoroddy/status/2085737284692041743) (2026-08-08)
 - [vinayjain404](https://x.com/vinayjain404/status/2084326541631099270) (2026-08-04)
 - [vinayjain404](https://x.com/vinayjain404/status/2085046962777121180) (2026-08-06)
 - [waveking1314](https://x.com/waveking1314/status/2063261659259400349) (2026-06-07)
