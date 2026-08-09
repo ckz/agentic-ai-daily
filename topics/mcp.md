@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-08-08
-total_mentions: 448
+last_seen: 2026-08-09
+total_mentions: 452
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -221,9 +221,11 @@ total_mentions: 448
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2029534926828388537) (2026-06-06)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2082454281630961687) (2026-08-02)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2083815836003996033) (2026-08-07)
+- [akshay_pachaar](https://x.com/akshay_pachaar/status/2085791632457433119) (2026-08-09)
 - [alex_prompter](https://x.com/alex_prompter/status/2071609730293022963) (2026-06-30)
 - [amasad](https://x.com/amasad/status/2080371567221944657) (2026-07-25)
 - [ameliahazelai](https://x.com/ameliahazelai/status/2073345751892062531) (2026-07-06)
+- [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)
 - [angeldot_](https://x.com/angeldot_/status/2068306517258907873) (2026-06-21)
 - [ansh_chokshi](https://x.com/ansh_chokshi/status/2076168556161757294) (2026-07-15)
 - [arcads_ai](https://x.com/arcads_ai/status/2065046759743635529) (2026-06-12)
@@ -302,6 +304,7 @@ total_mentions: 448
 - [exploraX_](https://x.com/exploraX_/status/2062900398445236623) (2026-06-06)
 - [fatoomdes](https://x.com/fatoomdes/status/2062829219990659354) (2026-06-07)
 - [firecrawl](https://x.com/firecrawl/status/2070174005709983865) (2026-06-27)
+- [floozi_official](https://x.com/floozi_official/status/2084965258104291494) (2026-08-09)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2064800056406909425) (2026-06-15)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2070900490674536556) (2026-06-28)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2077363095916208602) (2026-07-16)
@@ -376,6 +379,7 @@ total_mentions: 448
 - [openart_ai](https://x.com/openart_ai/status/2067650953478652126) (2026-06-19)
 - [openshipio](https://x.com/openshipio/status/2078143909125923137) (2026-07-19)
 - [ossphere_dev](https://x.com/ossphere_dev/status/2068219798438461644) (2026-06-20)
+- [pcshipp](https://x.com/pcshipp/status/2086117731276095744) (2026-08-09)
 - [pederzh](https://x.com/pederzh/status/2082119638188712386) (2026-07-29)
 - [phosphenq](https://x.com/phosphenq/status/2072363705090666559) (2026-07-02)
 - [polsia](https://x.com/polsia/status/2062988231151677690) (2026-06-05)

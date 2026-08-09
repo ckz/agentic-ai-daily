@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-08
-total_mentions: 268
+last_seen: 2026-08-09
+total_mentions: 270
 
 ## Related Tweets
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
@@ -202,6 +202,7 @@ total_mentions: 268
 - [jomatech](https://x.com/jomatech/status/2071058503805124918) (2026-06-28)
 - [jsolomonReports](https://x.com/jsolomonReports/status/2083874257189097789) (2026-08-05)
 - [kamath_sutra](https://x.com/kamath_sutra/status/2083224374728093907) (2026-08-01)
+- [kapilansh_twt](https://x.com/kapilansh_twt/status/2086328186393247796) (2026-08-09)
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)
 - [kmr_dilip](https://x.com/kmr_dilip/status/2084154599183929363) (2026-08-06)
@@ -215,6 +216,7 @@ total_mentions: 268
 - [mikenevermiss](https://x.com/mikenevermiss/status/2072226710448168991) (2026-07-05)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2070112027780280630) (2026-06-27)
 - [moneyacademyKE](https://x.com/moneyacademyKE/status/2080286044813926579) (2026-07-29)
+- [mr_bailando](https://x.com/mr_bailando/status/2086142677360226342) (2026-08-09)
 - [nanransohoff](https://x.com/nanransohoff/status/2069761661456601188) (2026-06-28)
 - [nextjs](https://x.com/nextjs/status/2071647669467201657) (2026-07-02)
 - [noah_schochet](https://x.com/noah_schochet/status/2077044441978737104) (2026-07-17)
