@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-09
-total_mentions: 85
+last_seen: 2026-08-10
+total_mentions: 86
 
 ## Related Tweets
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
@@ -87,6 +87,7 @@ total_mentions: 85
 - [tomgreenwald](https://x.com/tomgreenwald/status/2068008885018062868) (2026-06-20)
 - [unclejohnny101](https://x.com/unclejohnny101/status/2079728030310969809) (2026-07-22)
 - [undefinedKi](https://x.com/undefinedKi/status/2071931934012211642) (2026-07-02)
+- [undefinedKi](https://x.com/undefinedKi/status/2086440382808600645) (2026-08-10)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2082200846243143795) (2026-07-30)
 - [vechainofficial](https://x.com/vechainofficial/status/2062450242360885371) (2026-06-09)
 - [warpdotdev](https://x.com/warpdotdev/status/1937525185843752969) (2026-06-07)

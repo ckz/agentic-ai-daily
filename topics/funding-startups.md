@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-09
-total_mentions: 270
+last_seen: 2026-08-10
+total_mentions: 273
 
 ## Related Tweets
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
@@ -13,6 +13,7 @@ total_mentions: 270
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
 - [AlphaCapitalUK](https://x.com/AlphaCapitalUK/status/2079957138730848366) (2026-07-25)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2079915295230038426) (2026-07-23)
+- [AnishJaitwar](https://x.com/AnishJaitwar/status/2086661433593360839) (2026-08-10)
 - [Argona0x](https://x.com/Argona0x/status/2065525815106769169) (2026-06-13)
 - [ArrushAdityadev](https://x.com/ArrushAdityadev/status/2061674017929703768) (2026-06-08)
 - [ArslyTech](https://x.com/ArslyTech/status/2063153998518235584) (2026-06-06)
@@ -27,6 +28,7 @@ total_mentions: 270
 - [BullTheoryio](https://x.com/BullTheoryio/status/2062148017818419548) (2026-06-09)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2064249311492477082) (2026-06-09)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2070088724462084261) (2026-07-02)
+- [Calcalistech](https://x.com/Calcalistech/status/2086659776990110089) (2026-08-10)
 - [ChiefEngineerCE](https://x.com/ChiefEngineerCE/status/2080146134128021841) (2026-07-23)
 - [ChiemeOnah7812](https://x.com/ChiemeOnah7812/status/2068216698759475604) (2026-06-20)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2080009523952263295) (2026-07-29)
@@ -274,4 +276,5 @@ total_mentions: 270
 - [xandurglar](https://x.com/xandurglar/status/2070179038417821777) (2026-06-29)
 - [ycombinator](https://x.com/ycombinator/status/2062202902543016140) (2026-06-05)
 - [ycombinator](https://x.com/ycombinator/status/2069110874242252853) (2026-06-28)
+- [ycombinator](https://x.com/ycombinator/status/2085443781797785828) (2026-08-10)
 - [zerohedge](https://x.com/zerohedge/status/2062966281888756042) (2026-06-12)

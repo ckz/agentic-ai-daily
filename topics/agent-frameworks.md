@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-08-09
-total_mentions: 349
+last_seen: 2026-08-10
+total_mentions: 350
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -35,6 +35,7 @@ total_mentions: 349
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2082991648703930561) (2026-08-05)
 - [Av1dlive](https://x.com/Av1dlive/status/2082039763511673129) (2026-07-29)
 - [Av1dlive](https://x.com/Av1dlive/status/2082807521161654576) (2026-07-31)
+- [Av1dlive](https://x.com/Av1dlive/status/2085421980434698739) (2026-08-10)
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
 - [CSVisionPapers](https://x.com/CSVisionPapers/status/2072902537439481931) (2026-07-03)

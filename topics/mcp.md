@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-08-09
-total_mentions: 452
+last_seen: 2026-08-10
+total_mentions: 455
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -73,6 +73,7 @@ total_mentions: 452
 - [DataChaz](https://x.com/DataChaz/status/2062940997257212367) (2026-06-06)
 - [DataChaz](https://x.com/DataChaz/status/2063158890469196218) (2026-06-06)
 - [DataChaz](https://x.com/DataChaz/status/2068952350077698446) (2026-06-28)
+- [DataChaz](https://x.com/DataChaz/status/2086637810358866288) (2026-08-10)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [Diego_exits](https://x.com/Diego_exits/status/2082567388537536818) (2026-08-01)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
@@ -84,6 +85,7 @@ total_mentions: 452
 - [ErnestoSOFTWARE](https://x.com/ErnestoSOFTWARE/status/2082153329207951654) (2026-07-29)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
 - [FellMentKE](https://x.com/FellMentKE/status/2064573513642758328) (2026-06-10)
+- [FundamentEdge](https://x.com/FundamentEdge/status/2086632605466915006) (2026-08-10)
 - [GcodeXS](https://x.com/GcodeXS/status/2079666529579446545) (2026-07-28)
 - [GitTrend0x](https://x.com/GitTrend0x/status/2085190556674904253) (2026-08-07)
 - [GithubProjects](https://x.com/GithubProjects/status/2063327571698434443) (2026-06-07)
@@ -227,6 +229,7 @@ total_mentions: 452
 - [ameliahazelai](https://x.com/ameliahazelai/status/2073345751892062531) (2026-07-06)
 - [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)
 - [angeldot_](https://x.com/angeldot_/status/2068306517258907873) (2026-06-21)
+- [angeldot_](https://x.com/angeldot_/status/2086508729797619997) (2026-08-10)
 - [ansh_chokshi](https://x.com/ansh_chokshi/status/2076168556161757294) (2026-07-15)
 - [arcads_ai](https://x.com/arcads_ai/status/2065046759743635529) (2026-06-12)
 - [arceyul](https://x.com/arceyul/status/2074582079807881440) (2026-07-09)

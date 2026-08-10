@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-09
-total_mentions: 853
+last_seen: 2026-08-10
+total_mentions: 860
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -139,6 +139,7 @@ total_mentions: 853
 - [Bl0ckZer0](https://x.com/Bl0ckZer0/status/2086356362787770530) (2026-08-09)
 - [BradGroux](https://x.com/BradGroux/status/2065096482831659348) (2026-06-13)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
+- [BrianRoemmele](https://x.com/BrianRoemmele/status/2086625244098548066) (2026-08-10)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2071085098976637021) (2026-06-28)
 - [Bullshot911](https://x.com/Bullshot911/status/2083650189034930525) (2026-08-02)
 - [CSVisionPapers](https://x.com/CSVisionPapers/status/2072902537439481931) (2026-07-03)
@@ -197,6 +198,7 @@ total_mentions: 853
 - [Fetch_ai](https://x.com/Fetch_ai/status/2057083945125126565) (2026-06-05)
 - [Fetch_ai](https://x.com/Fetch_ai/status/2070096659929800893) (2026-06-29)
 - [Fetch_ai](https://x.com/Fetch_ai/status/2071271772326916508) (2026-06-29)
+- [FundamentEdge](https://x.com/FundamentEdge/status/2086632605466915006) (2026-08-10)
 - [FutureStacked](https://x.com/FutureStacked/status/2074159794030604515) (2026-07-07)
 - [GesoraMeshack](https://x.com/GesoraMeshack/status/2084521634937856338) (2026-08-04)
 - [GitTrend0x](https://x.com/GitTrend0x/status/2085190556674904253) (2026-08-07)
@@ -330,6 +332,7 @@ total_mentions: 853
 - [PrimeIntellect](https://x.com/PrimeIntellect/status/2085086999267144083) (2026-08-06)
 - [PrismML](https://x.com/PrismML/status/2077084891284721827) (2026-07-15)
 - [Priyannkaaaa](https://x.com/Priyannkaaaa/status/2083851157324046649) (2026-08-03)
+- [ProjectVEXai](https://x.com/ProjectVEXai/status/2085390880966594838) (2026-08-10)
 - [PythonDvz](https://x.com/PythonDvz/status/2063623261678698575) (2026-06-10)
 - [RATGPT_official](https://x.com/RATGPT_official/status/2070072449027494268) (2026-06-28)
 - [RachelTobac](https://x.com/RachelTobac/status/2082214795072225786) (2026-07-30)
@@ -373,6 +376,7 @@ total_mentions: 853
 - [SolanaHub_](https://x.com/SolanaHub_/status/2011906234765754646) (2026-07-10)
 - [SomieCITYY](https://x.com/SomieCITYY/status/2082672524169445396) (2026-08-01)
 - [Spectre__AI](https://x.com/Spectre__AI/status/2084677141870883158) (2026-08-07)
+- [Stefan_3D_AI](https://x.com/Stefan_3D_AI/status/2086350955520360613) (2026-08-10)
 - [Steve8708](https://x.com/Steve8708/status/2077051086234685641) (2026-07-15)
 - [StockMCatalysts](https://x.com/StockMCatalysts/status/2078855382777348425) (2026-07-23)
 - [StockSavvyShay](https://x.com/StockSavvyShay/status/2065801050154811741) (2026-06-14)
@@ -528,6 +532,8 @@ total_mentions: 853
 - [codewithimanshu](https://x.com/codewithimanshu/status/2082294302500385168) (2026-08-05)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2083493571177631967) (2026-08-02)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2085659695751299356) (2026-08-09)
+- [codewithimanshu](https://x.com/codewithimanshu/status/2086037593024794972) (2026-08-10)
+- [codewithimanshu](https://x.com/codewithimanshu/status/2086634789801730391) (2026-08-10)
 - [codyschneider](https://x.com/codyschneider/status/2081817171202920732) (2026-08-02)
 - [cohere](https://x.com/cohere/status/2064378058329526556) (2026-06-12)
 - [coinbureau](https://x.com/coinbureau/status/2031222262112858286) (2026-06-09)
@@ -604,6 +610,7 @@ total_mentions: 853
 - [eragon5121](https://x.com/eragon5121/status/2077283768704926200) (2026-07-15)
 - [ethermage](https://x.com/ethermage/status/1862725151349198879) (2026-06-05)
 - [ethy_agent](https://x.com/ethy_agent/status/2071902096354320438) (2026-07-01)
+- [evrendag1284](https://x.com/evrendag1284/status/2086665961638117757) (2026-08-10)
 - [f_rmsj](https://x.com/f_rmsj/status/2065330666368328129) (2026-06-12)
 - [femke_plantinga](https://x.com/femke_plantinga/status/2082375583363944873) (2026-07-30)
 - [finkd](https://x.com/finkd/status/2075218444056707458) (2026-07-11)
