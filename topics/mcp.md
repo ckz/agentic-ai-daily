@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-08-10
-total_mentions: 455
+last_seen: 2026-08-11
+total_mentions: 458
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -153,6 +153,7 @@ total_mentions: 455
 - [RhysSullivan](https://x.com/RhysSullivan/status/2073538819132207489) (2026-07-05)
 - [RobinHubHB](https://x.com/RobinHubHB/status/2080004956216611060) (2026-07-29)
 - [RobinHubHB](https://x.com/RobinHubHB/status/2080744829907267752) (2026-07-28)
+- [RohOnChain](https://x.com/RohOnChain/status/2086800845036040598) (2026-08-11)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2062961399387861119) (2026-06-06)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2065981298087530958) (2026-06-14)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2075433581539672149) (2026-07-10)
@@ -289,6 +290,7 @@ total_mentions: 455
 - [dr_cintas](https://x.com/dr_cintas/status/2065260939134280044) (2026-06-12)
 - [dr_cintas](https://x.com/dr_cintas/status/2072714904650359130) (2026-07-03)
 - [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
+- [ds_nakajima](https://x.com/ds_nakajima/status/2086799115904860483) (2026-08-11)
 - [dsp_](https://x.com/dsp_/status/2082173429399142616) (2026-07-29)
 - [e_opore](https://x.com/e_opore/status/2073977846448451776) (2026-07-06)
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
@@ -382,6 +384,7 @@ total_mentions: 455
 - [openart_ai](https://x.com/openart_ai/status/2067650953478652126) (2026-06-19)
 - [openshipio](https://x.com/openshipio/status/2078143909125923137) (2026-07-19)
 - [ossphere_dev](https://x.com/ossphere_dev/status/2068219798438461644) (2026-06-20)
+- [patilvishi](https://x.com/patilvishi/status/2085562458811638015) (2026-08-11)
 - [pcshipp](https://x.com/pcshipp/status/2086117731276095744) (2026-08-09)
 - [pederzh](https://x.com/pederzh/status/2082119638188712386) (2026-07-29)
 - [phosphenq](https://x.com/phosphenq/status/2072363705090666559) (2026-07-02)

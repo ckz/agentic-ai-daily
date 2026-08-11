@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-09
-total_mentions: 46
+last_seen: 2026-08-11
+total_mentions: 48
 
 ## Related Tweets
 - [0xDepressionn](https://x.com/0xDepressionn/status/2063987019068371128) (2026-06-10)
@@ -20,6 +20,7 @@ total_mentions: 46
 - [MarioNawfal](https://x.com/MarioNawfal/status/2085171754415038482) (2026-08-06)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2084978309532647780) (2026-08-08)
+- [NuryVittachi](https://x.com/NuryVittachi/status/2085178025055031587) (2026-08-11)
 - [Polymarket](https://x.com/Polymarket/status/2080838272033394996) (2026-07-25)
 - [Polymarket](https://x.com/Polymarket/status/2085186345040023989) (2026-08-06)
 - [RachelTobac](https://x.com/RachelTobac/status/2082214795072225786) (2026-07-30)
@@ -33,6 +34,7 @@ total_mentions: 46
 - [WatcherGuru](https://x.com/WatcherGuru/status/2080780405179904206) (2026-07-28)
 - [_0xpainn](https://x.com/_0xpainn/status/2070432605552451963) (2026-08-02)
 - [alex_verem](https://x.com/alex_verem/status/2075994424484732984) (2026-07-12)
+- [alexandr_wang](https://x.com/alexandr_wang/status/2086523558940028995) (2026-08-11)
 - [alexxubyte](https://x.com/alexxubyte/status/2062186586431987780) (2026-06-05)
 - [alexxubyte](https://x.com/alexxubyte/status/2079947947173933452) (2026-07-23)
 - [bindureddy](https://x.com/bindureddy/status/2070718551422591255) (2026-06-27)

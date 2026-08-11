@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-08-10
-total_mentions: 350
+last_seen: 2026-08-11
+total_mentions: 355
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -131,6 +131,7 @@ total_mentions: 350
 - [PalantirTech](https://x.com/PalantirTech/status/2077032712578199604) (2026-07-15)
 - [Peevibes007](https://x.com/Peevibes007/status/2047915508260073869) (2026-07-26)
 - [Priyannkaaaa](https://x.com/Priyannkaaaa/status/2083851157324046649) (2026-08-03)
+- [PyTorch](https://x.com/PyTorch/status/2086817394010280372) (2026-08-11)
 - [PythonDvz](https://x.com/PythonDvz/status/2063623261678698575) (2026-06-10)
 - [Rahul1539482](https://x.com/Rahul1539482/status/2068215799849091178) (2026-06-20)
 - [RaoulGMI](https://x.com/RaoulGMI/status/2085842971665351165) (2026-08-08)
@@ -151,6 +152,7 @@ total_mentions: 350
 - [Steve8708](https://x.com/Steve8708/status/2077051086234685641) (2026-07-15)
 - [StockMCatalysts](https://x.com/StockMCatalysts/status/2078855382777348425) (2026-07-23)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2084693098714599697) (2026-08-05)
+- [Suryanshti777](https://x.com/Suryanshti777/status/2085286044975476808) (2026-08-11)
 - [TeksCreate](https://x.com/TeksCreate/status/2068138970131632591) (2026-06-20)
 - [TheAIphiles](https://x.com/TheAIphiles/status/2079457181850636723) (2026-07-21)
 - [TheHackersNews](https://x.com/TheHackersNews/status/2074845892067426604) (2026-07-09)
@@ -188,6 +190,7 @@ total_mentions: 350
 - [aiteachme_ai](https://x.com/aiteachme_ai/status/2067775023541100666) (2026-06-19)
 - [aiteachme_ai](https://x.com/aiteachme_ai/status/2078646890137108586) (2026-07-19)
 - [aiteachme_ai](https://x.com/aiteachme_ai/status/2081183410941280635) (2026-07-26)
+- [aiteachme_ai](https://x.com/aiteachme_ai/status/2086981606355419606) (2026-08-11)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2070587039679185397) (2026-06-27)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2071509401224261823) (2026-06-30)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2078460229365408100) (2026-07-23)
@@ -269,6 +272,7 @@ total_mentions: 350
 - [gotuchintu](https://x.com/gotuchintu/status/2072165345771569372) (2026-07-01)
 - [goyalshaliniuk](https://x.com/goyalshaliniuk/status/2079529319765033276) (2026-07-22)
 - [gravitygotmeup](https://x.com/gravitygotmeup/status/2068193792780591353) (2026-06-20)
+- [gumterver100](https://x.com/gumterver100/status/2087078337235628286) (2026-08-11)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [hasantoxr](https://x.com/hasantoxr/status/2075864853542269183) (2026-07-15)
 - [helicerat0x](https://x.com/helicerat0x/status/2078252543634002084) (2026-07-18)
@@ -295,6 +299,7 @@ total_mentions: 350
 - [leopardracer](https://x.com/leopardracer/status/2074442479739318455) (2026-07-09)
 - [mardehaym](https://x.com/mardehaym/status/2081770600087847192) (2026-07-31)
 - [mardehaym](https://x.com/mardehaym/status/2082765372864770087) (2026-07-31)
+- [marfinxx](https://x.com/marfinxx/status/2086785974470668775) (2026-08-11)
 - [mastra](https://x.com/mastra/status/2062617888478183564) (2026-06-05)
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [michyexe](https://x.com/michyexe/status/2000613204116844826) (2026-06-15)

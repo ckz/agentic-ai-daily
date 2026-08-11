@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-10
-total_mentions: 273
+last_seen: 2026-08-11
+total_mentions: 274
 
 ## Related Tweets
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
@@ -90,6 +90,7 @@ total_mentions: 273
 - [RuntimeBRT](https://x.com/RuntimeBRT/status/2084874541864497469) (2026-08-05)
 - [SawyerMerritt](https://x.com/SawyerMerritt/status/2070711031094022508) (2026-07-02)
 - [SeedifyFund](https://x.com/SeedifyFund/status/1882843585470406990) (2026-06-08)
+- [SenAshleyMoody](https://x.com/SenAshleyMoody/status/2086020042362167308) (2026-08-11)
 - [SenMikeLee](https://x.com/SenMikeLee/status/2077145376960741857) (2026-07-18)
 - [ShaanVP](https://x.com/ShaanVP/status/2062657552220119538) (2026-06-07)
 - [Sheema_bakhtiar](https://x.com/Sheema_bakhtiar/status/2064945268563546427) (2026-06-11)

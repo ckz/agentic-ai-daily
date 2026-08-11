@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-10
-total_mentions: 84
+last_seen: 2026-08-11
+total_mentions: 85
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -45,6 +45,7 @@ total_mentions: 84
 - [LunarResearcher](https://x.com/LunarResearcher/status/2082804474116968791) (2026-08-01)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
 - [RhysSullivan](https://x.com/RhysSullivan/status/2073538819132207489) (2026-07-05)
+- [RohOnChain](https://x.com/RohOnChain/status/2086800845036040598) (2026-08-11)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2062274372388507726) (2026-06-05)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2080846750290784693) (2026-07-25)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2082945580012065191) (2026-08-04)
