@@ -1,14 +1,15 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-11
-total_mentions: 139
+last_seen: 2026-08-12
+total_mentions: 141
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
 - [0xCodez](https://x.com/0xCodez/status/2065097407965127142) (2026-06-12)
 - [0xCodez](https://x.com/0xCodez/status/2074527573116133425) (2026-07-08)
 - [0xCodez](https://x.com/0xCodez/status/2075932575147733290) (2026-07-12)
+- [0xCodila](https://x.com/0xCodila/status/2086870655719371248) (2026-08-12)
 - [0xMovez](https://x.com/0xMovez/status/2057103411783307293) (2026-06-10)
 - [0xMovez](https://x.com/0xMovez/status/2073765125958348964) (2026-07-06)
 - [0xchadx](https://x.com/0xchadx/status/2067862587174244810) (2026-06-19)
@@ -108,6 +109,7 @@ total_mentions: 139
 - [gokulr](https://x.com/gokulr/status/2062638283100930085) (2026-06-08)
 - [gokulr](https://x.com/gokulr/status/2071692278582890889) (2026-08-02)
 - [googlecloud](https://x.com/googlecloud/status/2064505329006653571) (2026-06-10)
+- [gregisenberg](https://x.com/gregisenberg/status/2086534549341610457) (2026-08-12)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [heynavtoor](https://x.com/heynavtoor/status/2083221614595051602) (2026-08-05)

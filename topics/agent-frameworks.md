@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-08-11
-total_mentions: 355
+last_seen: 2026-08-12
+total_mentions: 361
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -38,6 +38,7 @@ total_mentions: 355
 - [Av1dlive](https://x.com/Av1dlive/status/2085421980434698739) (2026-08-10)
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
+- [BridgingNews_](https://x.com/BridgingNews_/status/2087418050660483509) (2026-08-12)
 - [CSVisionPapers](https://x.com/CSVisionPapers/status/2072902537439481931) (2026-07-03)
 - [CapexAndChill](https://x.com/CapexAndChill/status/2073965340476768534) (2026-07-06)
 - [CherryEOrtega](https://x.com/CherryEOrtega/status/2085996021008748799) (2026-08-08)
@@ -161,6 +162,8 @@ total_mentions: 355
 - [ThomasOrTK](https://x.com/ThomasOrTK/status/2072005642727158247) (2026-07-01)
 - [UK_Daniel_Card](https://x.com/UK_Daniel_Card/status/2077623819913617526) (2026-07-16)
 - [USB](https://x.com/USB/status/2074401622730363082) (2026-07-07)
+- [Ukachukwu_CC](https://x.com/Ukachukwu_CC/status/2087412332565553387) (2026-08-12)
+- [VirtualElena](https://x.com/VirtualElena/status/2086890946634154185) (2026-08-12)
 - [VivekIntel](https://x.com/VivekIntel/status/2073810331827343525) (2026-07-09)
 - [VivekIntel](https://x.com/VivekIntel/status/2073996440326873221) (2026-07-13)
 - [WesRoth](https://x.com/WesRoth/status/2043871865513619560) (2026-07-24)
@@ -257,6 +260,7 @@ total_mentions: 355
 - [elizaOS](https://x.com/elizaOS/status/1874223078403682672) (2026-07-10)
 - [elora_khatun](https://x.com/elora_khatun/status/2074711871069032615) (2026-07-08)
 - [ethereum](https://x.com/ethereum/status/2079217433059996150) (2026-07-23)
+- [evanderburg](https://x.com/evanderburg/status/2087412401717359059) (2026-08-12)
 - [fin465](https://x.com/fin465/status/2080155147385102375) (2026-07-25)
 - [googlecloud](https://x.com/googlecloud/status/2063244517575200828) (2026-06-09)
 - [googlecloud](https://x.com/googlecloud/status/2064505329006653571) (2026-06-10)
@@ -297,6 +301,7 @@ total_mentions: 355
 - [lamhot_ai](https://x.com/lamhot_ai/status/2081986412086493408) (2026-07-28)
 - [lee_joey50709](https://x.com/lee_joey50709/status/2076867123654140209) (2026-07-14)
 - [leopardracer](https://x.com/leopardracer/status/2074442479739318455) (2026-07-09)
+- [manthanguptaa](https://x.com/manthanguptaa/status/2084895891559981558) (2026-08-12)
 - [mardehaym](https://x.com/mardehaym/status/2081770600087847192) (2026-07-31)
 - [mardehaym](https://x.com/mardehaym/status/2082765372864770087) (2026-07-31)
 - [marfinxx](https://x.com/marfinxx/status/2086785974470668775) (2026-08-11)
@@ -341,6 +346,7 @@ total_mentions: 355
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2072154763492544652) (2026-07-01)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2077223722654834863) (2026-07-16)
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
+- [stbenjam](https://x.com/stbenjam/status/2087340706599698783) (2026-08-12)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2077724941198533011) (2026-07-17)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2078449718414180393) (2026-07-19)

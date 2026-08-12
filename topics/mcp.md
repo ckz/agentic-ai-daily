@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-08-11
-total_mentions: 458
+last_seen: 2026-08-12
+total_mentions: 468
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -47,6 +47,7 @@ total_mentions: 458
 - [Av1dlive](https://x.com/Av1dlive/status/2077048656545628206) (2026-07-15)
 - [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2067914133576749325) (2026-06-21)
 - [Aykutuces](https://x.com/Aykutuces/status/2082167918138106256) (2026-07-29)
+- [Bha74142Shivani](https://x.com/Bha74142Shivani/status/2087441456726524324) (2026-08-12)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2062873857304752368) (2026-06-05)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2063598644293484741) (2026-06-08)
 - [BitBlitzBuzz](https://x.com/BitBlitzBuzz/status/2070751322715148478) (2026-06-27)
@@ -190,6 +191,7 @@ total_mentions: 458
 - [ThePrimeagen](https://x.com/ThePrimeagen/status/2070507324762947761) (2026-06-27)
 - [TheTuringPost](https://x.com/TheTuringPost/status/2081543865488855258) (2026-07-27)
 - [TopviewAIhq](https://x.com/TopviewAIhq/status/2080276190980444612) (2026-07-24)
+- [UnslothAI](https://x.com/UnslothAI/status/2087177146662072546) (2026-08-12)
 - [V8X_Team](https://x.com/V8X_Team/status/2076066812458885461) (2026-07-12)
 - [VadimStrizheus](https://x.com/VadimStrizheus/status/2063489178348703902) (2026-06-10)
 - [Veltrxai](https://x.com/Veltrxai/status/2064777828512469024) (2026-06-12)
@@ -226,6 +228,7 @@ total_mentions: 458
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2083815836003996033) (2026-08-07)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2085791632457433119) (2026-08-09)
 - [alex_prompter](https://x.com/alex_prompter/status/2071609730293022963) (2026-06-30)
+- [alextalksai](https://x.com/alextalksai/status/2087216799435628727) (2026-08-12)
 - [amasad](https://x.com/amasad/status/2080371567221944657) (2026-07-25)
 - [ameliahazelai](https://x.com/ameliahazelai/status/2073345751892062531) (2026-07-06)
 - [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)
@@ -282,11 +285,13 @@ total_mentions: 458
 - [davemccollough](https://x.com/davemccollough/status/2064154192856670213) (2026-06-09)
 - [dawoodkhan254](https://x.com/dawoodkhan254/status/2081031854371819912) (2026-07-26)
 - [dfinity](https://x.com/dfinity/status/2080201356347146261) (2026-07-26)
+- [dipakcgajjar](https://x.com/dipakcgajjar/status/2087424434349162689) (2026-08-12)
 - [divgarg](https://x.com/divgarg/status/2085452614033105298) (2026-08-07)
 - [dkare1009](https://x.com/dkare1009/status/2073383916832985331) (2026-07-05)
 - [dkare1009](https://x.com/dkare1009/status/2078880042336293212) (2026-07-20)
 - [dkare1009](https://x.com/dkare1009/status/2082805911949897985) (2026-08-01)
 - [dojintanuki](https://x.com/dojintanuki/status/2063832283736387900) (2026-06-08)
+- [dominionaiChi](https://x.com/dominionaiChi/status/2087251075191439649) (2026-08-12)
 - [dr_cintas](https://x.com/dr_cintas/status/2065260939134280044) (2026-06-12)
 - [dr_cintas](https://x.com/dr_cintas/status/2072714904650359130) (2026-07-03)
 - [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
@@ -321,6 +326,7 @@ total_mentions: 458
 - [gregisenberg](https://x.com/gregisenberg/status/1893687593755164940) (2026-07-03)
 - [gregisenberg](https://x.com/gregisenberg/status/2059274608759480367) (2026-07-16)
 - [gregisenberg](https://x.com/gregisenberg/status/2083954605533065561) (2026-08-08)
+- [gregisenberg](https://x.com/gregisenberg/status/2086534549341610457) (2026-08-12)
 - [hamster_wat](https://x.com/hamster_wat/status/2078996887361794149) (2026-07-27)
 - [hanakoxbt](https://x.com/hanakoxbt/status/2083932817738666010) (2026-08-04)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
@@ -353,6 +359,7 @@ total_mentions: 458
 - [maarcoofdezz](https://x.com/maarcoofdezz/status/2079543760585691543) (2026-07-22)
 - [maarcoofdezz](https://x.com/maarcoofdezz/status/2085055293608587681) (2026-08-06)
 - [mackody_](https://x.com/mackody_/status/2075285372515528906) (2026-07-11)
+- [macrodotcom](https://x.com/macrodotcom/status/2086843485898887523) (2026-08-12)
 - [magnific](https://x.com/magnific/status/2064346257330675798) (2026-06-10)
 - [marorhab](https://x.com/marorhab/status/2063163950850609431) (2026-06-06)
 - [meliasiih](https://x.com/meliasiih/status/2064702135305220483) (2026-06-12)
@@ -403,6 +410,7 @@ total_mentions: 458
 - [rom1trs](https://x.com/rom1trs/status/2075193811186172355) (2026-07-12)
 - [rom1trs](https://x.com/rom1trs/status/2077382083832340784) (2026-07-19)
 - [rom1trs](https://x.com/rom1trs/status/2080601402460590265) (2026-07-26)
+- [s1rozha_](https://x.com/s1rozha_/status/2087132684514455625) (2026-08-12)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [sairahul1](https://x.com/sairahul1/status/2075875493665198368) (2026-07-12)
@@ -431,12 +439,14 @@ total_mentions: 458
 - [tamrrat](https://x.com/tamrrat/status/2077136461489467450) (2026-07-15)
 - [tan_stack](https://x.com/tan_stack/status/2062961334061318189) (2026-06-06)
 - [tanayj](https://x.com/tanayj/status/2072108170080657729) (2026-07-01)
+- [tanayj](https://x.com/tanayj/status/2086898879359062142) (2026-08-12)
 - [taycaldwell](https://x.com/taycaldwell/status/2071753251360502131) (2026-06-30)
 - [techNmak](https://x.com/techNmak/status/2068884177383047439) (2026-06-27)
 - [techdevnotes](https://x.com/techdevnotes/status/2082546312608719207) (2026-07-30)
 - [tetsuoai](https://x.com/tetsuoai/status/2071775282420445427) (2026-06-30)
 - [tetsuoai](https://x.com/tetsuoai/status/2071817609742532884) (2026-06-30)
 - [tetsuoai](https://x.com/tetsuoai/status/2080255951274455118) (2026-07-30)
+- [theo](https://x.com/theo/status/2087280199406903762) (2026-08-12)
 - [therajansharma](https://x.com/therajansharma/status/2068578446100308157) (2026-06-21)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2070445026233172314) (2026-06-27)

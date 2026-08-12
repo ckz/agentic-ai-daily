@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-11
-total_mentions: 274
+last_seen: 2026-08-12
+total_mentions: 280
 
 ## Related Tweets
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
@@ -36,6 +36,7 @@ total_mentions: 274
 - [Cointelegraph](https://x.com/Cointelegraph/status/2063005594047467893) (2026-06-05)
 - [Dhruvam987](https://x.com/Dhruvam987/status/2067811478485582025) (2026-06-19)
 - [FishAudio](https://x.com/FishAudio/status/2082152596739862853) (2026-07-29)
+- [FoxNews](https://x.com/FoxNews/status/2085811250995372229) (2026-08-12)
 - [FundedPartners](https://x.com/FundedPartners/status/2066006946860110328) (2026-06-14)
 - [FundingPerps](https://x.com/FundingPerps/status/2079290842624279026) (2026-07-21)
 - [FundingPredicts](https://x.com/FundingPredicts/status/2074286339009229172) (2026-07-07)
@@ -51,6 +52,7 @@ total_mentions: 274
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2075516156161536088) (2026-07-13)
 - [JasonL_Capital](https://x.com/JasonL_Capital/status/2082434168235954267) (2026-08-05)
 - [Kappaemme1926](https://x.com/Kappaemme1926/status/2076637778734153857) (2026-07-14)
+- [KentonVarda](https://x.com/KentonVarda/status/2084990137180590572) (2026-08-12)
 - [KetchumNfts](https://x.com/KetchumNfts/status/2083457676202086669) (2026-08-02)
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
 - [LayoffAI](https://x.com/LayoffAI/status/2081727806652715211) (2026-07-30)
@@ -191,8 +193,10 @@ total_mentions: 274
 - [gregisenberg](https://x.com/gregisenberg/status/2081088155793465783) (2026-07-27)
 - [gregisenberg](https://x.com/gregisenberg/status/2081814601851900221) (2026-08-02)
 - [gregisenberg](https://x.com/gregisenberg/status/2083954605533065561) (2026-08-08)
+- [gregisenberg](https://x.com/gregisenberg/status/2086534549341610457) (2026-08-12)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [iam_elias1](https://x.com/iam_elias1/status/2062095528742240319) (2026-06-05)
+- [ibab](https://x.com/ibab/status/2087145290671468569) (2026-08-12)
 - [inter_link](https://x.com/inter_link/status/2081053524134125832) (2026-07-29)
 - [irfan3](https://x.com/irfan3/status/2082699425529638948) (2026-07-30)
 - [itsmichaelluu](https://x.com/itsmichaelluu/status/2064692678608990537) (2026-06-11)
@@ -237,9 +241,11 @@ total_mentions: 274
 - [richtosho](https://x.com/richtosho/status/2080930554782830700) (2026-07-31)
 - [ridark_eth](https://x.com/ridark_eth/status/2068120584047804649) (2026-06-20)
 - [rihntv](https://x.com/rihntv/status/2075390652284654046) (2026-07-10)
+- [river_ai_inc](https://x.com/river_ai_inc/status/2087138596155502908) (2026-08-12)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2065184524754112720) (2026-06-14)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2085089809371173362) (2026-08-08)
 - [rsngprad](https://x.com/rsngprad/status/2072630117218791745) (2026-07-05)
+- [s1rozha_](https://x.com/s1rozha_/status/2087132684514455625) (2026-08-12)
 - [sahil_seth](https://x.com/sahil_seth/status/2079716698840858930) (2026-07-22)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [sairahul1](https://x.com/sairahul1/status/2075934382284484997) (2026-07-14)

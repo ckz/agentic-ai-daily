@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-11
-total_mentions: 86
+last_seen: 2026-08-12
+total_mentions: 88
 
 ## Related Tweets
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
@@ -38,6 +38,7 @@ total_mentions: 86
 - [TeksEdge](https://x.com/TeksEdge/status/2075437935265190020) (2026-07-11)
 - [TermiusHQ](https://x.com/TermiusHQ/status/2082616764605874207) (2026-07-30)
 - [TheValueist](https://x.com/TheValueist/status/2072334968940900744) (2026-07-03)
+- [TimesOfAI_](https://x.com/TimesOfAI_/status/2085233016067211331) (2026-08-12)
 - [XFreeze](https://x.com/XFreeze/status/2065333739312590983) (2026-06-12)
 - [Ziven_Coder](https://x.com/Ziven_Coder/status/2078482313986642122) (2026-07-30)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
@@ -68,6 +69,7 @@ total_mentions: 86
 - [jahooma](https://x.com/jahooma/status/2069951731539349823) (2026-07-03)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)
 - [lemondooe](https://x.com/lemondooe/status/2073312103167840581) (2026-07-04)
+- [martinfowler](https://x.com/martinfowler/status/2087173563144912985) (2026-08-12)
 - [mattpocockuk](https://x.com/mattpocockuk/status/2064663221718425660) (2026-06-11)
 - [mfishbein](https://x.com/mfishbein/status/2081031938228232360) (2026-07-27)
 - [mikeldking](https://x.com/mikeldking/status/2076724129185866076) (2026-07-14)

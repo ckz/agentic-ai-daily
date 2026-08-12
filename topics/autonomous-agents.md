@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-11
-total_mentions: 883
+last_seen: 2026-08-12
+total_mentions: 893
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -75,6 +75,7 @@ total_mentions: 883
 - [AITECHio](https://x.com/AITECHio/status/2075852934966104133) (2026-07-12)
 - [AI_in_Asia](https://x.com/AI_in_Asia/status/2073665028629090615) (2026-07-05)
 - [AIatMeta](https://x.com/AIatMeta/status/2074577662840832382) (2026-07-08)
+- [AIatMeta](https://x.com/AIatMeta/status/2086757844544811485) (2026-08-12)
 - [AIdanSolves](https://x.com/AIdanSolves/status/2073162229533262290) (2026-07-04)
 - [AIonBase_](https://x.com/AIonBase_/status/2019752568595833185) (2026-07-10)
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
@@ -103,6 +104,7 @@ total_mentions: 883
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2077720293729091888) (2026-07-17)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2082835611921138029) (2026-07-31)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2084265153898373580) (2026-08-06)
+- [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2087236395425284481) (2026-08-12)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2062245225159111117) (2026-06-06)
 - [AndrewYNg](https://x.com/AndrewYNg/status/1975614372799283423) (2026-06-12)
 - [AndrewYNg](https://x.com/AndrewYNg/status/2061477558693384395) (2026-06-07)
@@ -278,6 +280,7 @@ total_mentions: 883
 - [LunarResearcher](https://x.com/LunarResearcher/status/2084407746330296679) (2026-08-05)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2085365001007558738) (2026-08-11)
 - [MTSlive](https://x.com/MTSlive/status/2085098975707996558) (2026-08-06)
+- [MTSlive](https://x.com/MTSlive/status/2086556207033266539) (2026-08-12)
 - [Magne_Ai](https://x.com/Magne_Ai/status/2073257996637896904) (2026-07-05)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2083264047299092486) (2026-08-02)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2085433401562308987) (2026-08-07)
@@ -406,6 +409,7 @@ total_mentions: 883
 - [TheTuringPost](https://x.com/TheTuringPost/status/2076827153665331469) (2026-07-19)
 - [TheValueist](https://x.com/TheValueist/status/2072334968940900744) (2026-07-03)
 - [TheYotg](https://x.com/TheYotg/status/2079150076392358363) (2026-07-27)
+- [TimesOfAI_](https://x.com/TimesOfAI_/status/2085233016067211331) (2026-08-12)
 - [Tipwotip](https://x.com/Tipwotip/status/2074019912897753093) (2026-07-06)
 - [TokenizedPod](https://x.com/TokenizedPod/status/2079219793299746929) (2026-07-22)
 - [Tolu_Atanda](https://x.com/Tolu_Atanda/status/2077969124701990988) (2026-07-17)
@@ -416,6 +420,7 @@ total_mentions: 883
 - [Tuteth_](https://x.com/Tuteth_/status/2085375892201652579) (2026-08-09)
 - [USB](https://x.com/USB/status/2074401622730363082) (2026-07-07)
 - [UTobyM](https://x.com/UTobyM/status/2073349386596483135) (2026-07-05)
+- [Ukachukwu_CC](https://x.com/Ukachukwu_CC/status/2087412332565553387) (2026-08-12)
 - [Uty_bby](https://x.com/Uty_bby/status/2078013819444420734) (2026-07-17)
 - [VaibhavSisinty](https://x.com/VaibhavSisinty/status/2070741416649850898) (2026-06-28)
 - [VaibhavSisinty](https://x.com/VaibhavSisinty/status/2079823267750408589) (2026-07-28)
@@ -500,6 +505,7 @@ total_mentions: 883
 - [ashpreetbedi](https://x.com/ashpreetbedi/status/2077169299777531942) (2026-07-16)
 - [asklivermore](https://x.com/asklivermore/status/2079592646188958064) (2026-07-22)
 - [asmah2107](https://x.com/asmah2107/status/2062870047903605109) (2026-06-06)
+- [aswinpy](https://x.com/aswinpy/status/2087449405242638482) (2026-08-12)
 - [athanzxyt](https://x.com/athanzxyt/status/2067660560607613032) (2026-06-19)
 - [avilewis](https://x.com/avilewis/status/2079969472614633662) (2026-07-24)
 - [axi_master](https://x.com/axi_master/status/2067655053050352041) (2026-06-19)
@@ -627,6 +633,7 @@ total_mentions: 883
 - [eragon5121](https://x.com/eragon5121/status/2077283768704926200) (2026-07-15)
 - [ethermage](https://x.com/ethermage/status/1862725151349198879) (2026-06-05)
 - [ethy_agent](https://x.com/ethy_agent/status/2071902096354320438) (2026-07-01)
+- [evanderburg](https://x.com/evanderburg/status/2087412401717359059) (2026-08-12)
 - [evrendag1284](https://x.com/evrendag1284/status/2086665961638117757) (2026-08-10)
 - [f_rmsj](https://x.com/f_rmsj/status/2065330666368328129) (2026-06-12)
 - [femke_plantinga](https://x.com/femke_plantinga/status/2082375583363944873) (2026-07-30)
@@ -720,6 +727,7 @@ total_mentions: 883
 - [lnmishra](https://x.com/lnmishra/status/2072047572600954992) (2026-07-01)
 - [lucas__crespo](https://x.com/lucas__crespo/status/2084990836446507153) (2026-08-09)
 - [magnusweb3](https://x.com/magnusweb3/status/2080921726582448588) (2026-07-25)
+- [manthanguptaa](https://x.com/manthanguptaa/status/2084895891559981558) (2026-08-12)
 - [mardehaym](https://x.com/mardehaym/status/2082765372864770087) (2026-07-31)
 - [marfinxx](https://x.com/marfinxx/status/2083523471846281590) (2026-08-02)
 - [marfinxx](https://x.com/marfinxx/status/2086785974470668775) (2026-08-11)
@@ -814,6 +822,7 @@ total_mentions: 883
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
 - [sentient_zh](https://x.com/sentient_zh/status/2066417986467189164) (2026-06-15)
 - [setyamickala](https://x.com/setyamickala/status/2066848520326480020) (2026-06-28)
+- [shamshudein](https://x.com/shamshudein/status/2087424449985523898) (2026-08-12)
 - [sharbel](https://x.com/sharbel/status/2065700640387436935) (2026-06-20)
 - [sharbel](https://x.com/sharbel/status/2070812435653464323) (2026-06-28)
 - [shawnchauhan1](https://x.com/shawnchauhan1/status/2082685120679657715) (2026-07-30)
@@ -833,6 +842,7 @@ total_mentions: 883
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2077223722654834863) (2026-07-16)
 - [star_okx](https://x.com/star_okx/status/2071915634401931644) (2026-07-07)
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
+- [stbenjam](https://x.com/stbenjam/status/2087340706599698783) (2026-08-12)
 - [stretchcloud](https://x.com/stretchcloud/status/2073597735371182133) (2026-07-05)
 - [stretchcloud](https://x.com/stretchcloud/status/2074649666608840706) (2026-07-08)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
