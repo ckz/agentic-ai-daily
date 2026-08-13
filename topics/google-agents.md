@@ -1,12 +1,13 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-12
-total_mentions: 85
+last_seen: 2026-08-13
+total_mentions: 87
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
 - [0xCodila](https://x.com/0xCodila/status/2082515252445655186) (2026-07-30)
+- [0xCodila](https://x.com/0xCodila/status/2085412493858377871) (2026-08-13)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2083305262035632347) (2026-08-02)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2083666109874753797) (2026-08-03)
 - [AiGenesisdotfun](https://x.com/AiGenesisdotfun/status/2079014502914195457) (2026-07-20)
@@ -83,6 +84,7 @@ total_mentions: 85
 - [mikenevermiss](https://x.com/mikenevermiss/status/2072629472306528655) (2026-07-03)
 - [sairahul1](https://x.com/sairahul1/status/2084557703226036536) (2026-08-05)
 - [sandy4kad](https://x.com/sandy4kad/status/2074948658953593102) (2026-07-09)
+- [seeconvm](https://x.com/seeconvm/status/2087453527190745345) (2026-08-13)
 - [sentient_agency](https://x.com/sentient_agency/status/2071538650425528367) (2026-07-01)
 - [sharbel](https://x.com/sharbel/status/2063369348828610886) (2026-06-11)
 - [shedoesai](https://x.com/shedoesai/status/2054227691671556145) (2026-06-12)

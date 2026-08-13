@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-12
-total_mentions: 280
+last_seen: 2026-08-13
+total_mentions: 287
 
 ## Related Tweets
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
@@ -22,6 +22,7 @@ total_mentions: 280
 - [AvinashSingh_20](https://x.com/AvinashSingh_20/status/2071233793311318133) (2026-07-05)
 - [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2078578545429991768) (2026-07-24)
 - [BernieSanders](https://x.com/BernieSanders/status/2080047245433438469) (2026-07-26)
+- [BestAIToolFind](https://x.com/BestAIToolFind/status/2087737224456732920) (2026-08-13)
 - [Bitget_TradFi](https://x.com/Bitget_TradFi/status/2084806593971962091) (2026-08-07)
 - [Brennan_Lup](https://x.com/Brennan_Lup/status/2064930712739090835) (2026-06-11)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
@@ -52,6 +53,7 @@ total_mentions: 280
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2075516156161536088) (2026-07-13)
 - [JasonL_Capital](https://x.com/JasonL_Capital/status/2082434168235954267) (2026-08-05)
 - [Kappaemme1926](https://x.com/Kappaemme1926/status/2076637778734153857) (2026-07-14)
+- [KenjiCapital](https://x.com/KenjiCapital/status/2087614637499941128) (2026-08-13)
 - [KentonVarda](https://x.com/KentonVarda/status/2084990137180590572) (2026-08-12)
 - [KetchumNfts](https://x.com/KetchumNfts/status/2083457676202086669) (2026-08-02)
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
@@ -80,6 +82,7 @@ total_mentions: 280
 - [Polymarket](https://x.com/Polymarket/status/2082677333454913849) (2026-08-02)
 - [Polymarket](https://x.com/Polymarket/status/2084097684617441653) (2026-08-03)
 - [Polymarket](https://x.com/Polymarket/status/2084876805488672819) (2026-08-05)
+- [Polymarket](https://x.com/Polymarket/status/2087762067063460143) (2026-08-13)
 - [Prasanjit_ui](https://x.com/Prasanjit_ui/status/2072617513079251312) (2026-07-07)
 - [PrimareApp](https://x.com/PrimareApp/status/2075974349173961017) (2026-07-12)
 - [ProfBrianCox](https://x.com/ProfBrianCox/status/2082427049109602580) (2026-08-03)
@@ -167,6 +170,7 @@ total_mentions: 280
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [deedydas](https://x.com/deedydas/status/2063075876452155728) (2026-06-06)
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
+- [dhh](https://x.com/dhh/status/2086590006898958752) (2026-08-13)
 - [djcows](https://x.com/djcows/status/2074245525021335998) (2026-07-12)
 - [ecomchigga](https://x.com/ecomchigga/status/2065176267637297566) (2026-06-13)
 - [elonmusk](https://x.com/elonmusk/status/2063319907849093544) (2026-06-12)
@@ -178,6 +182,7 @@ total_mentions: 280
 - [fin465](https://x.com/fin465/status/2081459766287888794) (2026-07-27)
 - [fundingtraders](https://x.com/fundingtraders/status/2072289577017000341) (2026-07-06)
 - [gdb](https://x.com/gdb/status/2076686329686171666) (2026-07-14)
+- [gfodor](https://x.com/gfodor/status/2087658547140276534) (2026-08-13)
 - [gkisokay](https://x.com/gkisokay/status/2020853629306212478) (2026-07-25)
 - [gnoble79](https://x.com/gnoble79/status/2062616388963844440) (2026-06-08)
 - [gokulr](https://x.com/gokulr/status/2071692278582890889) (2026-08-02)
@@ -284,4 +289,6 @@ total_mentions: 280
 - [ycombinator](https://x.com/ycombinator/status/2062202902543016140) (2026-06-05)
 - [ycombinator](https://x.com/ycombinator/status/2069110874242252853) (2026-06-28)
 - [ycombinator](https://x.com/ycombinator/status/2085443781797785828) (2026-08-10)
+- [zachbussey](https://x.com/zachbussey/status/2086833293417205910) (2026-08-13)
 - [zerohedge](https://x.com/zerohedge/status/2062966281888756042) (2026-06-12)
+- [zerohedge](https://x.com/zerohedge/status/2087712412216512913) (2026-08-13)

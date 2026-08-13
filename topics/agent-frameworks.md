@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-08-12
-total_mentions: 361
+last_seen: 2026-08-13
+total_mentions: 368
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -37,6 +37,7 @@ total_mentions: 361
 - [Av1dlive](https://x.com/Av1dlive/status/2082807521161654576) (2026-07-31)
 - [Av1dlive](https://x.com/Av1dlive/status/2085421980434698739) (2026-08-10)
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
+- [BestAIToolFind](https://x.com/BestAIToolFind/status/2087737224456732920) (2026-08-13)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
 - [BridgingNews_](https://x.com/BridgingNews_/status/2087418050660483509) (2026-08-12)
 - [CSVisionPapers](https://x.com/CSVisionPapers/status/2072902537439481931) (2026-07-03)
@@ -56,6 +57,7 @@ total_mentions: 361
 - [DanKornas](https://x.com/DanKornas/status/2072195733927706691) (2026-07-01)
 - [DanKornas](https://x.com/DanKornas/status/2077488623125971059) (2026-07-16)
 - [DanKornas](https://x.com/DanKornas/status/2077647155179782297) (2026-07-16)
+- [DanKornas](https://x.com/DanKornas/status/2087114536385937617) (2026-08-13)
 - [DataChaz](https://x.com/DataChaz/status/2068952350077698446) (2026-06-28)
 - [DataChaz](https://x.com/DataChaz/status/2070415564510785812) (2026-06-27)
 - [DataScienceDojo](https://x.com/DataScienceDojo/status/2071624804575093052) (2026-06-30)
@@ -118,6 +120,7 @@ total_mentions: 361
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
 - [MarioNawfal](https://x.com/MarioNawfal/status/2085171754415038482) (2026-08-06)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
+- [MattJamesBoyle](https://x.com/MattJamesBoyle/status/2087548943873839423) (2026-08-13)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
 - [MayaAscend9](https://x.com/MayaAscend9/status/2086244103835295965) (2026-08-09)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2081303563746398665) (2026-07-28)
@@ -128,6 +131,7 @@ total_mentions: 361
 - [NainsiDwiv50980](https://x.com/NainsiDwiv50980/status/2062154970229858372) (2026-06-06)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/1975269391244874103) (2026-06-08)
 - [OptimaiNetwork](https://x.com/OptimaiNetwork/status/2014178144429723810) (2026-06-10)
+- [OracleDevs](https://x.com/OracleDevs/status/2087315628935786848) (2026-08-13)
 - [OurTinTinLand](https://x.com/OurTinTinLand/status/2082351358876033195) (2026-07-29)
 - [PalantirTech](https://x.com/PalantirTech/status/2077032712578199604) (2026-07-15)
 - [Peevibes007](https://x.com/Peevibes007/status/2047915508260073869) (2026-07-26)
@@ -336,6 +340,7 @@ total_mentions: 361
 - [salesforce](https://x.com/salesforce/status/2066491445586858173) (2026-06-28)
 - [sandy4kad](https://x.com/sandy4kad/status/2074948658953593102) (2026-07-09)
 - [sauda_coder](https://x.com/sauda_coder/status/2078463245657211007) (2026-07-20)
+- [seeconvm](https://x.com/seeconvm/status/2087453527190745345) (2026-08-13)
 - [seelffff](https://x.com/seelffff/status/2071118707405816250) (2026-06-29)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
 - [sentient_agency](https://x.com/sentient_agency/status/2071538650425528367) (2026-07-01)
@@ -356,6 +361,8 @@ total_mentions: 361
 - [tom_doerr](https://x.com/tom_doerr/status/2071321553296412706) (2026-07-01)
 - [tom_doerr](https://x.com/tom_doerr/status/2078760579095753125) (2026-07-21)
 - [trikcode](https://x.com/trikcode/status/2084420246039851517) (2026-08-04)
+- [uaghazadae](https://x.com/uaghazadae/status/2087580062593823004) (2026-08-13)
+- [uiuxshasankodas](https://x.com/uiuxshasankodas/status/2087148581899870551) (2026-08-13)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2081851083119288719) (2026-07-28)
 - [vechainofficial](https://x.com/vechainofficial/status/2062450242360885371) (2026-06-09)
 - [vercel](https://x.com/vercel/status/2067180054979936413) (2026-06-20)

@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-08-12
-total_mentions: 468
+last_seen: 2026-08-13
+total_mentions: 477
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -32,6 +32,7 @@ total_mentions: 468
 - [AiwithDharmik](https://x.com/AiwithDharmik/status/2074701028499550480) (2026-07-08)
 - [Akasheth_](https://x.com/Akasheth_/status/2063933265954918837) (2026-06-10)
 - [Alacritic_Super](https://x.com/Alacritic_Super/status/2073340264895438850) (2026-07-05)
+- [Alacritic_Super](https://x.com/Alacritic_Super/status/2087574582375174459) (2026-08-13)
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2081962166127878526) (2026-07-28)
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2084100378703122840) (2026-08-03)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2075624719043166464) (2026-07-11)
@@ -47,6 +48,7 @@ total_mentions: 468
 - [Av1dlive](https://x.com/Av1dlive/status/2077048656545628206) (2026-07-15)
 - [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2067914133576749325) (2026-06-21)
 - [Aykutuces](https://x.com/Aykutuces/status/2082167918138106256) (2026-07-29)
+- [BTCqzy1](https://x.com/BTCqzy1/status/2087496242071056769) (2026-08-13)
 - [Bha74142Shivani](https://x.com/Bha74142Shivani/status/2087441456726524324) (2026-08-12)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2062873857304752368) (2026-06-05)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2063598644293484741) (2026-06-08)
@@ -69,6 +71,7 @@ total_mentions: 468
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DanKornas](https://x.com/DanKornas/status/2063154157511418092) (2026-06-06)
 - [DanKornas](https://x.com/DanKornas/status/2077488623125971059) (2026-07-16)
+- [DanKornas](https://x.com/DanKornas/status/2085970749110571165) (2026-08-13)
 - [DanKulkov](https://x.com/DanKulkov/status/2081035103036416368) (2026-07-26)
 - [DataChaz](https://x.com/DataChaz/status/2047633186394697853) (2026-06-09)
 - [DataChaz](https://x.com/DataChaz/status/2062940997257212367) (2026-06-06)
@@ -81,6 +84,7 @@ total_mentions: 468
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2081331200942362651) (2026-07-27)
 - [DotCSV](https://x.com/DotCSV/status/2076725628963783114) (2026-07-17)
 - [EHuanglu](https://x.com/EHuanglu/status/2077091952252875189) (2026-07-15)
+- [EXM7777](https://x.com/EXM7777/status/2087176716901023834) (2026-08-13)
 - [EngMoElgaraihy](https://x.com/EngMoElgaraihy/status/2083197718818611544) (2026-08-02)
 - [ErickSky](https://x.com/ErickSky/status/2063701338316292495) (2026-06-08)
 - [ErnestoSOFTWARE](https://x.com/ErnestoSOFTWARE/status/2082153329207951654) (2026-07-29)
@@ -171,6 +175,7 @@ total_mentions: 468
 - [SenthilRaj16078](https://x.com/SenthilRaj16078/status/2079078212173431259) (2026-07-20)
 - [ServerpodDev](https://x.com/ServerpodDev/status/2064307450392514790) (2026-06-10)
 - [ShenSeanChen](https://x.com/ShenSeanChen/status/2081118331097284801) (2026-07-27)
+- [ShenSeanChen](https://x.com/ShenSeanChen/status/2086931006376784130) (2026-08-13)
 - [SilenceCaPrompt](https://x.com/SilenceCaPrompt/status/2060769285224739159) (2026-06-06)
 - [Smartpigai](https://x.com/Smartpigai/status/2063095358075597009) (2026-06-08)
 - [Solvaix](https://x.com/Solvaix/status/2082190359539712344) (2026-07-29)
@@ -245,6 +250,7 @@ total_mentions: 468
 - [astridtgtz](https://x.com/astridtgtz/status/2076645768471908554) (2026-07-14)
 - [athrix_codes](https://x.com/athrix_codes/status/2079987918660333709) (2026-07-25)
 - [base](https://x.com/base/status/2083204522415960437) (2026-08-05)
+- [base](https://x.com/base/status/2087190317510336821) (2026-08-13)
 - [beamnxw](https://x.com/beamnxw/status/2084288199237517417) (2026-08-05)
 - [betomoedano](https://x.com/betomoedano/status/2071257935485788178) (2026-06-29)
 - [betomoedano](https://x.com/betomoedano/status/2075206572628705477) (2026-07-13)
@@ -420,6 +426,7 @@ total_mentions: 468
 - [sairahul1](https://x.com/sairahul1/status/2084557703226036536) (2026-08-05)
 - [sakhil_ai](https://x.com/sakhil_ai/status/2067798126279397885) (2026-06-19)
 - [seeconvm](https://x.com/seeconvm/status/2084114434973171763) (2026-08-04)
+- [seeconvm](https://x.com/seeconvm/status/2087453527190745345) (2026-08-13)
 - [sharbel](https://x.com/sharbel/status/2070812435653464323) (2026-06-28)
 - [shawnchauhan1](https://x.com/shawnchauhan1/status/2082685120679657715) (2026-07-30)
 - [shedntcare_](https://x.com/shedntcare_/status/2066124333559480395) (2026-06-21)
@@ -456,10 +463,12 @@ total_mentions: 468
 - [tom_doerr](https://x.com/tom_doerr/status/2066042496933662753) (2026-06-14)
 - [tom_doerr](https://x.com/tom_doerr/status/2071309381455519803) (2026-06-29)
 - [twetsfyp](https://x.com/twetsfyp/status/2078387675447328957) (2026-07-19)
+- [uaghazadae](https://x.com/uaghazadae/status/2087580062593823004) (2026-08-13)
 - [undefinedKi](https://x.com/undefinedKi/status/2066159485652025597) (2026-06-15)
 - [undefinedKi](https://x.com/undefinedKi/status/2071931934012211642) (2026-07-02)
 - [undefinedKi](https://x.com/undefinedKi/status/2074978611447365998) (2026-07-09)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2082200846243143795) (2026-07-30)
+- [unicodef1wn](https://x.com/unicodef1wn/status/2087461469881336049) (2026-08-13)
 - [unity](https://x.com/unity/status/2079389530260414898) (2026-07-24)
 - [viktoroddy](https://x.com/viktoroddy/status/2085737284692041743) (2026-08-08)
 - [vinayjain404](https://x.com/vinayjain404/status/2084326541631099270) (2026-08-04)
