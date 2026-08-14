@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-13
-total_mentions: 147
+last_seen: 2026-08-14
+total_mentions: 149
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -38,6 +38,7 @@ total_mentions: 147
 - [DealsDhamaka](https://x.com/DealsDhamaka/status/2074664290293080496) (2026-07-08)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
+- [EXM7777](https://x.com/EXM7777/status/2086512844594679820) (2026-08-14)
 - [Faazsh](https://x.com/Faazsh/status/2068572996076540315) (2026-06-21)
 - [FutureStacked](https://x.com/FutureStacked/status/2074159794030604515) (2026-07-07)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072410041945075729) (2026-07-04)
@@ -108,6 +109,7 @@ total_mentions: 147
 - [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
 - [ekcheungAI](https://x.com/ekcheungAI/status/2068544526084386969) (2026-06-21)
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
+- [eliebakouch](https://x.com/eliebakouch/status/2087904176357437820) (2026-08-14)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2061821319034143172) (2026-06-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2062244858686009455) (2026-06-08)
 - [gokulr](https://x.com/gokulr/status/2062638283100930085) (2026-06-08)

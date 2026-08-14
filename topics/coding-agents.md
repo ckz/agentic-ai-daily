@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-13
-total_mentions: 90
+last_seen: 2026-08-14
+total_mentions: 92
 
 ## Related Tweets
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
@@ -18,6 +18,7 @@ total_mentions: 90
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2076991866935845287) (2026-07-15)
+- [EXM7777](https://x.com/EXM7777/status/2086512844594679820) (2026-08-14)
 - [FareaNFts](https://x.com/FareaNFts/status/2072985538756317458) (2026-07-07)
 - [HelloRH_AI](https://x.com/HelloRH_AI/status/2077711932774105164) (2026-07-18)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
@@ -49,6 +50,7 @@ total_mentions: 90
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2085791632457433119) (2026-08-09)
 - [angeldot_](https://x.com/angeldot_/status/2071697398527881418) (2026-06-30)
 - [antinertia](https://x.com/antinertia/status/1907834094823616629) (2026-06-12)
+- [antpalkin](https://x.com/antpalkin/status/2087616668092801373) (2026-08-14)
 - [bcherny](https://x.com/bcherny/status/2064431111154053187) (2026-06-15)
 - [beamnxw](https://x.com/beamnxw/status/2080600136456060958) (2026-08-01)
 - [bindureddy](https://x.com/bindureddy/status/2076165296977858836) (2026-07-12)

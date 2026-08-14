@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-13
-total_mentions: 287
+last_seen: 2026-08-14
+total_mentions: 296
 
 ## Related Tweets
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
@@ -13,6 +13,7 @@ total_mentions: 287
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
 - [AlphaCapitalUK](https://x.com/AlphaCapitalUK/status/2079957138730848366) (2026-07-25)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2079915295230038426) (2026-07-23)
+- [Anaya_sharma876](https://x.com/Anaya_sharma876/status/2086431301498966480) (2026-08-14)
 - [AnishJaitwar](https://x.com/AnishJaitwar/status/2086661433593360839) (2026-08-10)
 - [Argona0x](https://x.com/Argona0x/status/2065525815106769169) (2026-06-13)
 - [ArrushAdityadev](https://x.com/ArrushAdityadev/status/2061674017929703768) (2026-06-08)
@@ -35,6 +36,7 @@ total_mentions: 287
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2080009523952263295) (2026-07-29)
 - [Codex_Changelog](https://x.com/Codex_Changelog/status/2062678248790589520) (2026-06-07)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2063005594047467893) (2026-06-05)
+- [DeRonin_](https://x.com/DeRonin_/status/2087555554830852538) (2026-08-14)
 - [Dhruvam987](https://x.com/Dhruvam987/status/2067811478485582025) (2026-06-19)
 - [FishAudio](https://x.com/FishAudio/status/2082152596739862853) (2026-07-29)
 - [FoxNews](https://x.com/FoxNews/status/2085811250995372229) (2026-08-12)
@@ -52,6 +54,7 @@ total_mentions: 287
 - [InTheAssembly](https://x.com/InTheAssembly/status/2073857255099773185) (2026-07-06)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2075516156161536088) (2026-07-13)
 - [JasonL_Capital](https://x.com/JasonL_Capital/status/2082434168235954267) (2026-08-05)
+- [Kalshi](https://x.com/Kalshi/status/2087547153736446426) (2026-08-14)
 - [Kappaemme1926](https://x.com/Kappaemme1926/status/2076637778734153857) (2026-07-14)
 - [KenjiCapital](https://x.com/KenjiCapital/status/2087614637499941128) (2026-08-13)
 - [KentonVarda](https://x.com/KentonVarda/status/2084990137180590572) (2026-08-12)
@@ -71,6 +74,7 @@ total_mentions: 287
 - [Okada_DeFi0x](https://x.com/Okada_DeFi0x/status/2070769365763449051) (2026-06-28)
 - [OpenAI](https://x.com/OpenAI/status/2082146058017321257) (2026-08-04)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
+- [PTrubey](https://x.com/PTrubey/status/2086293046489182599) (2026-08-14)
 - [PayGo402](https://x.com/PayGo402/status/2076560560162820116) (2026-07-13)
 - [Polymarket](https://x.com/Polymarket/status/2062960684309123535) (2026-06-05)
 - [Polymarket](https://x.com/Polymarket/status/2069569968258097367) (2026-06-28)
@@ -139,6 +143,7 @@ total_mentions: 287
 - [apnmrev](https://x.com/apnmrev/status/2082074585017823365) (2026-07-30)
 - [arthur__penn](https://x.com/arthur__penn/status/2074352731238916503) (2026-07-07)
 - [ashikruben369](https://x.com/ashikruben369/status/2083601432507478089) (2026-08-02)
+- [ashikruben369](https://x.com/ashikruben369/status/2086121193569153346) (2026-08-14)
 - [athanzxyt](https://x.com/athanzxyt/status/2067660560607613032) (2026-06-19)
 - [aw_trades_](https://x.com/aw_trades_/status/2073794807323889781) (2026-07-06)
 - [awwstn](https://x.com/awwstn/status/2067750610963939571) (2026-06-19)
@@ -157,6 +162,7 @@ total_mentions: 287
 - [cb_doge](https://x.com/cb_doge/status/2072009965389443374) (2026-07-03)
 - [cb_doge](https://x.com/cb_doge/status/2076291436283396496) (2026-07-18)
 - [chamath](https://x.com/chamath/status/2071571183665881515) (2026-07-01)
+- [chamath](https://x.com/chamath/status/2083463694931902561) (2026-08-14)
 - [christophersaum](https://x.com/christophersaum/status/2069813347420119217) (2026-06-28)
 - [christophersaum](https://x.com/christophersaum/status/2074608938046104035) (2026-07-08)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
@@ -221,6 +227,7 @@ total_mentions: 287
 - [kseniam0s](https://x.com/kseniam0s/status/2069540568615604610) (2026-06-27)
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
 - [lightspeedvp](https://x.com/lightspeedvp/status/2070182060224852105) (2026-06-27)
+- [marfinxx](https://x.com/marfinxx/status/2087950466244063718) (2026-08-14)
 - [markiewagner](https://x.com/markiewagner/status/2064778239164461316) (2026-06-11)
 - [marorhab](https://x.com/marorhab/status/2063163950850609431) (2026-06-06)
 - [mhp_guy](https://x.com/mhp_guy/status/2064453575594664169) (2026-06-12)
@@ -241,6 +248,7 @@ total_mentions: 287
 - [pelositracker](https://x.com/pelositracker/status/2080314321649746194) (2026-07-26)
 - [pierreeliottlal](https://x.com/pierreeliottlal/status/2066037831626362988) (2026-06-14)
 - [plpiaoliang](https://x.com/plpiaoliang/status/2082696373955346650) (2026-07-30)
+- [propxwealth](https://x.com/propxwealth/status/2086007408078549329) (2026-08-14)
 - [rahulbais136](https://x.com/rahulbais136/status/2077192536335192463) (2026-07-15)
 - [richtosho](https://x.com/richtosho/status/2078797686451409133) (2026-07-26)
 - [richtosho](https://x.com/richtosho/status/2080930554782830700) (2026-07-31)
@@ -256,6 +264,7 @@ total_mentions: 287
 - [sairahul1](https://x.com/sairahul1/status/2075934382284484997) (2026-07-14)
 - [samsenchal](https://x.com/samsenchal/status/2068605085089693994) (2026-06-21)
 - [sean_wallace_](https://x.com/sean_wallace_/status/2063994540873433201) (2026-06-09)
+- [sflorimm](https://x.com/sflorimm/status/2087060630696042736) (2026-08-14)
 - [shmidtqq](https://x.com/shmidtqq/status/2074446282303639911) (2026-07-09)
 - [signulll](https://x.com/signulll/status/2064053145580278163) (2026-06-09)
 - [singularityhack](https://x.com/singularityhack/status/2079237150764134528) (2026-07-22)
