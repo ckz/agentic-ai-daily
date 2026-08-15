@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-14
-total_mentions: 919
+last_seen: 2026-08-15
+total_mentions: 928
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -71,6 +71,7 @@ total_mentions: 919
 - [AIFrontliner](https://x.com/AIFrontliner/status/2083131049383428440) (2026-08-02)
 - [AIHighlight](https://x.com/AIHighlight/status/2072712459857645721) (2026-07-04)
 - [AISafetyMemes](https://x.com/AISafetyMemes/status/2080815177252114667) (2026-08-06)
+- [AISafetyMemes](https://x.com/AISafetyMemes/status/2087549262427263014) (2026-08-15)
 - [AIStockSavvy](https://x.com/AIStockSavvy/status/2079941971108405580) (2026-07-25)
 - [AITECHio](https://x.com/AITECHio/status/2075852934966104133) (2026-07-12)
 - [AI_in_Asia](https://x.com/AI_in_Asia/status/2073665028629090615) (2026-07-05)
@@ -127,6 +128,7 @@ total_mentions: 919
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065559824230957190) (2026-06-14)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2074194764510208230) (2026-07-12)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2087975627391717461) (2026-08-14)
+- [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2088440350734201149) (2026-08-15)
 - [Artificialunbox](https://x.com/Artificialunbox/status/2068215362114715908) (2026-06-20)
 - [Aurimas_Gr](https://x.com/Aurimas_Gr/status/2084608000610754903) (2026-08-06)
 - [Ausmi129124](https://x.com/Ausmi129124/status/2068589738534260929) (2026-06-21)
@@ -362,6 +364,7 @@ total_mentions: 919
 - [Revolt_Fi](https://x.com/Revolt_Fi/status/2079266777163522467) (2026-07-21)
 - [Ric_RTP](https://x.com/Ric_RTP/status/2079941508807921958) (2026-07-23)
 - [RishiUvaach](https://x.com/RishiUvaach/status/2087886901932159214) (2026-08-14)
+- [RitOnchain](https://x.com/RitOnchain/status/2088176264335208530) (2026-08-15)
 - [RobertTLange](https://x.com/RobertTLange/status/2081651553929494693) (2026-07-28)
 - [RobinHubHB](https://x.com/RobinHubHB/status/2080004956216611060) (2026-07-29)
 - [RobinHubHB](https://x.com/RobinHubHB/status/2080744829907267752) (2026-07-28)
@@ -469,6 +472,7 @@ total_mentions: 919
 - [_vmlops](https://x.com/_vmlops/status/2063841886193004672) (2026-06-09)
 - [_vmlops](https://x.com/_vmlops/status/2070449302116380680) (2026-06-27)
 - [a16z](https://x.com/a16z/status/2086906363947737406) (2026-08-11)
+- [aakashgupta](https://x.com/aakashgupta/status/2086637408620339508) (2026-08-15)
 - [aanandsivaraman](https://x.com/aanandsivaraman/status/2079771714964144432) (2026-07-22)
 - [abacusai](https://x.com/abacusai/status/2067833694665261522) (2026-06-19)
 - [abhishek__AI](https://x.com/abhishek__AI/status/2068588008648142910) (2026-06-21)
@@ -605,6 +609,7 @@ total_mentions: 919
 - [dair_ai](https://x.com/dair_ai/status/2028480209033568475) (2026-06-13)
 - [dair_ai](https://x.com/dair_ai/status/2081560214554419700) (2026-07-27)
 - [dair_ai](https://x.com/dair_ai/status/2081770344952803628) (2026-07-28)
+- [dair_ai](https://x.com/dair_ai/status/2088298364458930462) (2026-08-15)
 - [dan__rosenthal](https://x.com/dan__rosenthal/status/2086165641594048875) (2026-08-09)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [databricks](https://x.com/databricks/status/2070517714746012080) (2026-06-27)
@@ -615,6 +620,7 @@ total_mentions: 919
 - [degen_mike14](https://x.com/degen_mike14/status/2072413220703236391) (2026-07-03)
 - [dexhorthy](https://x.com/dexhorthy/status/2067286892786454855) (2026-06-19)
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
+- [divaagurlxw](https://x.com/divaagurlxw/status/2087756697469440442) (2026-08-15)
 - [dkare1009](https://x.com/dkare1009/status/2043335862264410288) (2026-06-06)
 - [dkare1009](https://x.com/dkare1009/status/2058646791348727997) (2026-06-30)
 - [dkare1009](https://x.com/dkare1009/status/2069518448627974397) (2026-06-30)
@@ -645,6 +651,8 @@ total_mentions: 919
 - [elonmusk](https://x.com/elonmusk/status/2086554608348873008) (2026-08-11)
 - [elora_khatun](https://x.com/elora_khatun/status/2074711871069032615) (2026-07-08)
 - [elune0x](https://x.com/elune0x/status/2081394220275814662) (2026-07-27)
+- [elune0x](https://x.com/elune0x/status/2086565685904211976) (2026-08-15)
+- [elune0x](https://x.com/elune0x/status/2086814848709517580) (2026-08-15)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2060824760859431275) (2026-06-05)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2064019609062101321) (2026-06-09)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2077696199486775764) (2026-07-18)
@@ -875,6 +883,7 @@ total_mentions: 919
 - [sundaebar_ai](https://x.com/sundaebar_ai/status/2077392523128132068) (2026-07-16)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2077724941198533011) (2026-07-17)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2078449718414180393) (2026-07-19)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)
 - [swyx](https://x.com/swyx/status/2076155833428431012) (2026-07-12)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
 - [tech0827](https://x.com/tech0827/status/2066035199607968063) (2026-06-14)

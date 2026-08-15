@@ -1,8 +1,8 @@
 # Browser Use
 
 first_seen: 2026-06-07
-last_seen: 2026-08-14
-total_mentions: 18
+last_seen: 2026-08-15
+total_mentions: 19
 
 ## Related Tweets
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
@@ -18,6 +18,7 @@ total_mentions: 18
 - [browser_use](https://x.com/browser_use/status/2072699513228378262) (2026-07-05)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
 - [clapilot](https://x.com/clapilot/status/2063510331716952191) (2026-06-07)
+- [cwmasaki](https://x.com/cwmasaki/status/2088433897445171301) (2026-08-15)
 - [gumterver100](https://x.com/gumterver100/status/2087078337235628286) (2026-08-11)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [jiang_kev](https://x.com/jiang_kev/status/2082496145994248488) (2026-07-30)

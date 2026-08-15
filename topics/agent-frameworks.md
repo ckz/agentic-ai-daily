@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-08-14
-total_mentions: 369
+last_seen: 2026-08-15
+total_mentions: 371
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -250,6 +250,7 @@ total_mentions: 369
 - [dair_ai](https://x.com/dair_ai/status/2081770344952803628) (2026-07-28)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [dexhorthy](https://x.com/dexhorthy/status/2067286892786454855) (2026-06-19)
+- [divaagurlxw](https://x.com/divaagurlxw/status/2087756697469440442) (2026-08-15)
 - [dkare1009](https://x.com/dkare1009/status/2043335862264410288) (2026-06-06)
 - [dkare1009](https://x.com/dkare1009/status/2058646791348727997) (2026-06-30)
 - [dkare1009](https://x.com/dkare1009/status/2069518448627974397) (2026-06-30)
@@ -330,6 +331,7 @@ total_mentions: 369
 - [randy_magruder](https://x.com/randy_magruder/status/2075453861754470569) (2026-07-10)
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)
 - [rewind02](https://x.com/rewind02/status/2083141563077574747) (2026-08-05)
+- [rileybrown](https://x.com/rileybrown/status/2087235887012749383) (2026-08-15)
 - [riskfreemyth](https://x.com/riskfreemyth/status/2074508129346486679) (2026-07-08)
 - [rohit4verse](https://x.com/rohit4verse/status/2083284519550136641) (2026-08-01)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)

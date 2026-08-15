@@ -1,13 +1,14 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-14
-total_mentions: 296
+last_seen: 2026-08-15
+total_mentions: 305
 
 ## Related Tweets
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
 - [5harath](https://x.com/5harath/status/2082161680516063294) (2026-07-29)
 - [AFpost](https://x.com/AFpost/status/2078881670162202801) (2026-07-20)
+- [AISafetyMemes](https://x.com/AISafetyMemes/status/2087549262427263014) (2026-08-15)
 - [AITECHLabs](https://x.com/AITECHLabs/status/2083070154548654199) (2026-07-31)
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
@@ -21,6 +22,7 @@ total_mentions: 296
 - [AtomsNotBits](https://x.com/AtomsNotBits/status/2072429730788413662) (2026-07-02)
 - [Av1dlive](https://x.com/Av1dlive/status/2082538087192908283) (2026-07-30)
 - [AvinashSingh_20](https://x.com/AvinashSingh_20/status/2071233793311318133) (2026-07-05)
+- [AvinashSingh_20](https://x.com/AvinashSingh_20/status/2088315936353010013) (2026-08-15)
 - [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2078578545429991768) (2026-07-24)
 - [BernieSanders](https://x.com/BernieSanders/status/2080047245433438469) (2026-07-26)
 - [BestAIToolFind](https://x.com/BestAIToolFind/status/2087737224456732920) (2026-08-13)
@@ -92,11 +94,13 @@ total_mentions: 296
 - [ProfBrianCox](https://x.com/ProfBrianCox/status/2082427049109602580) (2026-08-03)
 - [RITESHGHODELA](https://x.com/RITESHGHODELA/status/2063136905282429213) (2026-06-06)
 - [RafaelFQL](https://x.com/RafaelFQL/status/2079943052261457977) (2026-07-23)
+- [Ric_RTP](https://x.com/Ric_RTP/status/2088261230054060274) (2026-08-15)
 - [RichardSSutton](https://x.com/RichardSSutton/status/2076663628301058329) (2026-07-17)
 - [Romain_Lapeyre](https://x.com/Romain_Lapeyre/status/2079636276530037009) (2026-07-22)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2032664263882674275) (2026-06-09)
 - [RuntimeBRT](https://x.com/RuntimeBRT/status/2063848536958288128) (2026-06-10)
 - [RuntimeBRT](https://x.com/RuntimeBRT/status/2084874541864497469) (2026-08-05)
+- [Samaytwt](https://x.com/Samaytwt/status/2087456724165050716) (2026-08-15)
 - [SawyerMerritt](https://x.com/SawyerMerritt/status/2070711031094022508) (2026-07-02)
 - [SeedifyFund](https://x.com/SeedifyFund/status/1882843585470406990) (2026-06-08)
 - [SenAshleyMoody](https://x.com/SenAshleyMoody/status/2086020042362167308) (2026-08-11)
@@ -137,6 +141,7 @@ total_mentions: 296
 - [amitisinvesting](https://x.com/amitisinvesting/status/2079389181780832579) (2026-07-23)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2083018001557721309) (2026-08-04)
 - [amuse](https://x.com/amuse/status/2070118337607012363) (2026-07-02)
+- [angeldot_](https://x.com/angeldot_/status/2086839211856929184) (2026-08-15)
 - [ankurnagpal](https://x.com/ankurnagpal/status/2073858342196244665) (2026-07-06)
 - [anupamrjp](https://x.com/anupamrjp/status/2076558763071508656) (2026-07-13)
 - [anuraggoel](https://x.com/anuraggoel/status/2069218653137142074) (2026-06-30)
@@ -186,6 +191,7 @@ total_mentions: 296
 - [ethereum](https://x.com/ethereum/status/2079217433059996150) (2026-07-23)
 - [fin465](https://x.com/fin465/status/2079993565019795637) (2026-07-25)
 - [fin465](https://x.com/fin465/status/2081459766287888794) (2026-07-27)
+- [fin465](https://x.com/fin465/status/2088287274727301259) (2026-08-15)
 - [fundingtraders](https://x.com/fundingtraders/status/2072289577017000341) (2026-07-06)
 - [gdb](https://x.com/gdb/status/2076686329686171666) (2026-07-14)
 - [gfodor](https://x.com/gfodor/status/2087658547140276534) (2026-08-13)
@@ -227,6 +233,7 @@ total_mentions: 296
 - [kseniam0s](https://x.com/kseniam0s/status/2069540568615604610) (2026-06-27)
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
 - [lightspeedvp](https://x.com/lightspeedvp/status/2070182060224852105) (2026-06-27)
+- [marclou](https://x.com/marclou/status/2086700255949865456) (2026-08-15)
 - [marfinxx](https://x.com/marfinxx/status/2087950466244063718) (2026-08-14)
 - [markiewagner](https://x.com/markiewagner/status/2064778239164461316) (2026-06-11)
 - [marorhab](https://x.com/marorhab/status/2063163950850609431) (2026-06-06)
@@ -244,6 +251,7 @@ total_mentions: 296
 - [paulg](https://x.com/paulg/status/2069821293596148004) (2026-06-28)
 - [paulg](https://x.com/paulg/status/2076784398347968777) (2026-07-18)
 - [paulg](https://x.com/paulg/status/2083628660708561075) (2026-08-04)
+- [paulg](https://x.com/paulg/status/2086924675163345285) (2026-08-15)
 - [peer_rich](https://x.com/peer_rich/status/2062949788081897633) (2026-06-05)
 - [pelositracker](https://x.com/pelositracker/status/2080314321649746194) (2026-07-26)
 - [pierreeliottlal](https://x.com/pierreeliottlal/status/2066037831626362988) (2026-06-14)
@@ -284,6 +292,7 @@ total_mentions: 296
 - [thomasschulzz](https://x.com/thomasschulzz/status/2076002167702405584) (2026-07-12)
 - [ti_morse](https://x.com/ti_morse/status/2081068670478880854) (2026-08-01)
 - [tiovikram](https://x.com/tiovikram/status/2081559019978907975) (2026-07-27)
+- [trajektoriePL](https://x.com/trajektoriePL/status/2088167040175526258) (2026-08-15)
 - [trikcode](https://x.com/trikcode/status/2078755471205253481) (2026-07-20)
 - [twistartups](https://x.com/twistartups/status/2071744145119465724) (2026-07-02)
 - [tylerrwayne](https://x.com/tylerrwayne/status/2081620596862202335) (2026-07-27)

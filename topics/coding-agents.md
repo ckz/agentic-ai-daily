@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-14
-total_mentions: 92
+last_seen: 2026-08-15
+total_mentions: 95
 
 ## Related Tweets
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
@@ -48,6 +48,7 @@ total_mentions: 92
 - [a16z](https://x.com/a16z/status/2069869327411749012) (2026-06-29)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2071509401224261823) (2026-06-30)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2085791632457433119) (2026-08-09)
+- [alexandr_wang](https://x.com/alexandr_wang/status/2085081833121935745) (2026-08-15)
 - [angeldot_](https://x.com/angeldot_/status/2071697398527881418) (2026-06-30)
 - [antinertia](https://x.com/antinertia/status/1907834094823616629) (2026-06-12)
 - [antpalkin](https://x.com/antpalkin/status/2087616668092801373) (2026-08-14)
@@ -58,6 +59,7 @@ total_mentions: 92
 - [codyschneider](https://x.com/codyschneider/status/2084369982918406433) (2026-08-04)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2071058754905481234) (2026-06-28)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2071817627484250139) (2026-06-30)
+- [dair_ai](https://x.com/dair_ai/status/2088298364458930462) (2026-08-15)
 - [dexhorthy](https://x.com/dexhorthy/status/2080314136119091431) (2026-07-25)
 - [dr_cintas](https://x.com/dr_cintas/status/2040142054211117218) (2026-06-15)
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
@@ -87,6 +89,7 @@ total_mentions: 92
 - [sharbel](https://x.com/sharbel/status/2055680438417412359) (2026-06-29)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2077223722654834863) (2026-07-16)
 - [stretchcloud](https://x.com/stretchcloud/status/2079772421947560434) (2026-07-22)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)
 - [tamrrat](https://x.com/tamrrat/status/2077136461489467450) (2026-07-15)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2081680037544427793) (2026-07-28)
 - [tomgreenwald](https://x.com/tomgreenwald/status/2068008885018062868) (2026-06-20)
