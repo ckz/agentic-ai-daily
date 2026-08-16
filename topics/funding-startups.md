@@ -1,12 +1,13 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-15
-total_mentions: 305
+last_seen: 2026-08-16
+total_mentions: 311
 
 ## Related Tweets
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
 - [5harath](https://x.com/5harath/status/2082161680516063294) (2026-07-29)
+- [90daysliquidity](https://x.com/90daysliquidity/status/2088026533860409432) (2026-08-16)
 - [AFpost](https://x.com/AFpost/status/2078881670162202801) (2026-07-20)
 - [AISafetyMemes](https://x.com/AISafetyMemes/status/2087549262427263014) (2026-08-15)
 - [AITECHLabs](https://x.com/AITECHLabs/status/2083070154548654199) (2026-07-31)
@@ -55,6 +56,7 @@ total_mentions: 305
 - [IREN_Ltd](https://x.com/IREN_Ltd/status/2079162785804812622) (2026-07-26)
 - [InTheAssembly](https://x.com/InTheAssembly/status/2073857255099773185) (2026-07-06)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2075516156161536088) (2026-07-13)
+- [IntCyberDigest](https://x.com/IntCyberDigest/status/2082740804854985035) (2026-08-16)
 - [JasonL_Capital](https://x.com/JasonL_Capital/status/2082434168235954267) (2026-08-05)
 - [Kalshi](https://x.com/Kalshi/status/2087547153736446426) (2026-08-14)
 - [Kappaemme1926](https://x.com/Kappaemme1926/status/2076637778734153857) (2026-07-14)
@@ -251,13 +253,16 @@ total_mentions: 305
 - [paulg](https://x.com/paulg/status/2069821293596148004) (2026-06-28)
 - [paulg](https://x.com/paulg/status/2076784398347968777) (2026-07-18)
 - [paulg](https://x.com/paulg/status/2083628660708561075) (2026-08-04)
+- [paulg](https://x.com/paulg/status/2086554045750403478) (2026-08-16)
 - [paulg](https://x.com/paulg/status/2086924675163345285) (2026-08-15)
 - [peer_rich](https://x.com/peer_rich/status/2062949788081897633) (2026-06-05)
 - [pelositracker](https://x.com/pelositracker/status/2080314321649746194) (2026-07-26)
 - [pierreeliottlal](https://x.com/pierreeliottlal/status/2066037831626362988) (2026-06-14)
 - [plpiaoliang](https://x.com/plpiaoliang/status/2082696373955346650) (2026-07-30)
 - [propxwealth](https://x.com/propxwealth/status/2086007408078549329) (2026-08-14)
+- [pubity](https://x.com/pubity/status/2088354976359719140) (2026-08-16)
 - [rahulbais136](https://x.com/rahulbais136/status/2077192536335192463) (2026-07-15)
+- [ravikiran_dev7](https://x.com/ravikiran_dev7/status/2088373187981828420) (2026-08-16)
 - [richtosho](https://x.com/richtosho/status/2078797686451409133) (2026-07-26)
 - [richtosho](https://x.com/richtosho/status/2080930554782830700) (2026-07-31)
 - [ridark_eth](https://x.com/ridark_eth/status/2068120584047804649) (2026-06-20)
@@ -278,6 +283,7 @@ total_mentions: 305
 - [singularityhack](https://x.com/singularityhack/status/2079237150764134528) (2026-07-22)
 - [slash1sol](https://x.com/slash1sol/status/2033636802855374982) (2026-06-13)
 - [solovaultinfo](https://x.com/solovaultinfo/status/2068553835598241965) (2026-06-21)
+- [spaceandtech_](https://x.com/spaceandtech_/status/2087905670595223735) (2026-08-16)
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
 - [suni_code](https://x.com/suni_code/status/2073859515485974967) (2026-07-08)

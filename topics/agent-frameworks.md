@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-08-15
-total_mentions: 371
+last_seen: 2026-08-16
+total_mentions: 376
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -129,6 +129,7 @@ total_mentions: 371
 - [Mnilax](https://x.com/Mnilax/status/2087651578639470614) (2026-08-14)
 - [Mohansinha](https://x.com/Mohansinha/status/2079629691494060368) (2026-07-24)
 - [MrOnsase](https://x.com/MrOnsase/status/2075841247223165124) (2026-07-11)
+- [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
 - [NainsiDwiv50980](https://x.com/NainsiDwiv50980/status/2062154970229858372) (2026-06-06)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/1975269391244874103) (2026-06-08)
 - [OptimaiNetwork](https://x.com/OptimaiNetwork/status/2014178144429723810) (2026-06-10)
@@ -146,6 +147,7 @@ total_mentions: 371
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2062274372388507726) (2026-06-05)
 - [Rukkssss__](https://x.com/Rukkssss__/status/2068218163414642701) (2026-06-20)
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2063086140799012963) (2026-06-06)
+- [SciTechera](https://x.com/SciTechera/status/2087580473560269065) (2026-08-16)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
 - [ShawnYao77](https://x.com/ShawnYao77/status/2082343891689504790) (2026-07-29)
 - [SilenceCaPrompt](https://x.com/SilenceCaPrompt/status/2060769285224739159) (2026-06-06)
@@ -227,6 +229,7 @@ total_mentions: 371
 - [beamnxw](https://x.com/beamnxw/status/2084288199237517417) (2026-08-05)
 - [beamnxw](https://x.com/beamnxw/status/2084985269975928983) (2026-08-07)
 - [better_auth](https://x.com/better_auth/status/2074523839300513921) (2026-07-08)
+- [bettercalltonny](https://x.com/bettercalltonny/status/2087599007518302487) (2026-08-16)
 - [bindureddy](https://x.com/bindureddy/status/2076165296977858836) (2026-07-12)
 - [bizbreakdowns](https://x.com/bizbreakdowns/status/2081711200643985720) (2026-07-29)
 - [bonsaixbt](https://x.com/bonsaixbt/status/2077722769194615193) (2026-07-17)
@@ -255,6 +258,7 @@ total_mentions: 371
 - [dkare1009](https://x.com/dkare1009/status/2058646791348727997) (2026-06-30)
 - [dkare1009](https://x.com/dkare1009/status/2069518448627974397) (2026-06-30)
 - [dkare1009](https://x.com/dkare1009/status/2073383916832985331) (2026-07-05)
+- [dkare1009](https://x.com/dkare1009/status/2088483412919128437) (2026-08-16)
 - [dotta](https://x.com/dotta/status/2077029848602874009) (2026-07-15)
 - [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
 - [dr_cintas](https://x.com/dr_cintas/status/2082568767586894179) (2026-07-31)
@@ -311,6 +315,7 @@ total_mentions: 371
 - [mardehaym](https://x.com/mardehaym/status/2081770600087847192) (2026-07-31)
 - [mardehaym](https://x.com/mardehaym/status/2082765372864770087) (2026-07-31)
 - [marfinxx](https://x.com/marfinxx/status/2086785974470668775) (2026-08-11)
+- [marfinxx](https://x.com/marfinxx/status/2088756456661401946) (2026-08-16)
 - [mastra](https://x.com/mastra/status/2062617888478183564) (2026-06-05)
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [michyexe](https://x.com/michyexe/status/2000613204116844826) (2026-06-15)

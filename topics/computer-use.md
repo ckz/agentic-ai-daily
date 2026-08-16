@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-08-15
-total_mentions: 41
+last_seen: 2026-08-16
+total_mentions: 42
 
 ## Related Tweets
 - [AriX](https://x.com/AriX/status/2075282339782095163) (2026-07-13)
@@ -17,6 +17,7 @@ total_mentions: 41
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [Mascobot](https://x.com/Mascobot/status/2065102985362026958) (2026-06-12)
+- [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2075275868268789885) (2026-07-11)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2077166520392970529) (2026-07-15)
 - [TeksCreate](https://x.com/TeksCreate/status/2081499683571040408) (2026-07-27)
