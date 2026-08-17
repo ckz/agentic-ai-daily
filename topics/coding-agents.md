@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-16
-total_mentions: 95
+last_seen: 2026-08-17
+total_mentions: 97
 
 ## Related Tweets
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
@@ -64,6 +64,7 @@ total_mentions: 95
 - [dr_cintas](https://x.com/dr_cintas/status/2040142054211117218) (2026-06-15)
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
 - [finkd](https://x.com/finkd/status/2085080750034940201) (2026-08-06)
+- [gippp69](https://x.com/gippp69/status/2088943002467115352) (2026-08-17)
 - [gokulr](https://x.com/gokulr/status/2062638283100930085) (2026-06-08)
 - [gokulr](https://x.com/gokulr/status/2071692278582890889) (2026-08-02)
 - [gokulr](https://x.com/gokulr/status/2077203873069236394) (2026-07-15)
@@ -73,6 +74,7 @@ total_mentions: 95
 - [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)
 - [jahooma](https://x.com/jahooma/status/2069951731539349823) (2026-07-03)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)
+- [leerob](https://x.com/leerob/status/2089169319099777364) (2026-08-17)
 - [lemondooe](https://x.com/lemondooe/status/2073312103167840581) (2026-07-04)
 - [martinfowler](https://x.com/martinfowler/status/2087173563144912985) (2026-08-12)
 - [mattpocockuk](https://x.com/mattpocockuk/status/2064663221718425660) (2026-06-11)

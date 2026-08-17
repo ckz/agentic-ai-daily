@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-16
-total_mentions: 311
+last_seen: 2026-08-17
+total_mentions: 316
 
 ## Related Tweets
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
@@ -15,6 +15,7 @@ total_mentions: 311
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
 - [AlphaCapitalUK](https://x.com/AlphaCapitalUK/status/2079957138730848366) (2026-07-25)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2079915295230038426) (2026-07-23)
+- [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2088330041289494736) (2026-08-17)
 - [Anaya_sharma876](https://x.com/Anaya_sharma876/status/2086431301498966480) (2026-08-14)
 - [AnishJaitwar](https://x.com/AnishJaitwar/status/2086661433593360839) (2026-08-10)
 - [Argona0x](https://x.com/Argona0x/status/2065525815106769169) (2026-06-13)
@@ -58,6 +59,7 @@ total_mentions: 311
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2075516156161536088) (2026-07-13)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2082740804854985035) (2026-08-16)
 - [JasonL_Capital](https://x.com/JasonL_Capital/status/2082434168235954267) (2026-08-05)
+- [JonathanGeige18](https://x.com/JonathanGeige18/status/2088972748953461219) (2026-08-17)
 - [Kalshi](https://x.com/Kalshi/status/2087547153736446426) (2026-08-14)
 - [Kappaemme1926](https://x.com/Kappaemme1926/status/2076637778734153857) (2026-07-14)
 - [KenjiCapital](https://x.com/KenjiCapital/status/2087614637499941128) (2026-08-13)
@@ -116,6 +118,7 @@ total_mentions: 311
 - [SureLeverage](https://x.com/SureLeverage/status/2074846284838846589) (2026-07-11)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2062153533630415305) (2026-06-08)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2076764516764008524) (2026-07-14)
+- [Sydusm](https://x.com/Sydusm/status/2086887978752991649) (2026-08-17)
 - [TheStartupsMag](https://x.com/TheStartupsMag/status/2068604981318488305) (2026-06-21)
 - [TheoAugust8](https://x.com/TheoAugust8/status/2063166492519158257) (2026-06-06)
 - [TokenizedPod](https://x.com/TokenizedPod/status/2079219793299746929) (2026-07-22)
@@ -246,6 +249,7 @@ total_mentions: 311
 - [moneyacademyKE](https://x.com/moneyacademyKE/status/2080286044813926579) (2026-07-29)
 - [mr_bailando](https://x.com/mr_bailando/status/2086142677360226342) (2026-08-09)
 - [nanransohoff](https://x.com/nanransohoff/status/2069761661456601188) (2026-06-28)
+- [neerajjj6785](https://x.com/neerajjj6785/status/2088897032283181080) (2026-08-17)
 - [nextjs](https://x.com/nextjs/status/2071647669467201657) (2026-07-02)
 - [noah_schochet](https://x.com/noah_schochet/status/2077044441978737104) (2026-07-17)
 - [paulg](https://x.com/paulg/status/2063091245334044902) (2026-06-06)
@@ -303,6 +307,7 @@ total_mentions: 311
 - [twistartups](https://x.com/twistartups/status/2071744145119465724) (2026-07-02)
 - [tylerrwayne](https://x.com/tylerrwayne/status/2081620596862202335) (2026-07-27)
 - [undefinedKi](https://x.com/undefinedKi/status/2063615286301839698) (2026-06-08)
+- [undefinedKi](https://x.com/undefinedKi/status/2088700554310525370) (2026-08-17)
 - [unusual_whales](https://x.com/unusual_whales/status/2069766741404844484) (2026-07-01)
 - [unusual_whales](https://x.com/unusual_whales/status/2079702282443293037) (2026-07-24)
 - [vigneshxtech](https://x.com/vigneshxtech/status/2068597287010349323) (2026-06-21)

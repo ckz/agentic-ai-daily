@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-16
-total_mentions: 151
+last_seen: 2026-08-17
+total_mentions: 155
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -52,6 +52,7 @@ total_mentions: 151
 - [Jeyxbt](https://x.com/Jeyxbt/status/2067866973497868794) (2026-06-19)
 - [Krishnasagrawal](https://x.com/Krishnasagrawal/status/2076370564831486040) (2026-07-14)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
+- [MaxForAI](https://x.com/MaxForAI/status/2089184371886690760) (2026-08-17)
 - [Meituan_LongCat](https://x.com/Meituan_LongCat/status/2073768940078317713) (2026-07-06)
 - [MetaforDevs](https://x.com/MetaforDevs/status/2072474629852348684) (2026-07-02)
 - [MikeLongTerm](https://x.com/MikeLongTerm/status/2083580958519783522) (2026-08-07)
@@ -112,12 +113,15 @@ total_mentions: 151
 - [ekcheungAI](https://x.com/ekcheungAI/status/2068544526084386969) (2026-06-21)
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
 - [eliebakouch](https://x.com/eliebakouch/status/2087904176357437820) (2026-08-14)
+- [emollick](https://x.com/emollick/status/2089233231853785118) (2026-08-17)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2061821319034143172) (2026-06-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2062244858686009455) (2026-06-08)
+- [gippp69](https://x.com/gippp69/status/2088943002467115352) (2026-08-17)
 - [gokulr](https://x.com/gokulr/status/2062638283100930085) (2026-06-08)
 - [gokulr](https://x.com/gokulr/status/2071692278582890889) (2026-08-02)
 - [googlecloud](https://x.com/googlecloud/status/2064505329006653571) (2026-06-10)
 - [gregisenberg](https://x.com/gregisenberg/status/2086534549341610457) (2026-08-12)
+- [gregisenberg](https://x.com/gregisenberg/status/2088988857417044432) (2026-08-17)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [heynavtoor](https://x.com/heynavtoor/status/2083221614595051602) (2026-08-05)

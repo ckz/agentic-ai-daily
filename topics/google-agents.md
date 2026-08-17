@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-15
-total_mentions: 91
+last_seen: 2026-08-17
+total_mentions: 94
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -24,6 +24,7 @@ total_mentions: 91
 - [GMapsPlatform](https://x.com/GMapsPlatform/status/2084699430171680894) (2026-08-07)
 - [GeminiApp](https://x.com/GeminiApp/status/2069143097586700794) (2026-06-27)
 - [GoogleAI](https://x.com/GoogleAI/status/2062942864288387430) (2026-06-06)
+- [GoogleAI](https://x.com/GoogleAI/status/2088332438753681700) (2026-08-17)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2061578655050899715) (2026-06-07)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2062253446888063025) (2026-06-06)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2071989196122657141) (2026-07-07)
@@ -57,6 +58,7 @@ total_mentions: 91
 - [WesRoth](https://x.com/WesRoth/status/2043871865513619560) (2026-07-24)
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
+- [ajitcodes](https://x.com/ajitcodes/status/2089185456525381955) (2026-08-17)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2083815836003996033) (2026-08-07)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2084688207351087392) (2026-08-06)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2085791632457433119) (2026-08-09)
@@ -80,6 +82,7 @@ total_mentions: 91
 - [googledevs](https://x.com/googledevs/status/2083240029468455300) (2026-08-01)
 - [googlegemma](https://x.com/googlegemma/status/2064742570417180894) (2026-06-14)
 - [gregisenberg](https://x.com/gregisenberg/status/2052110589682749869) (2026-07-03)
+- [gregisenberg](https://x.com/gregisenberg/status/2088988857417044432) (2026-08-17)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [hot_town](https://x.com/hot_town/status/2084999228439376119) (2026-08-06)

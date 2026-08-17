@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-08-16
-total_mentions: 376
+last_seen: 2026-08-17
+total_mentions: 380
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -18,6 +18,7 @@ total_mentions: 376
 - [ANUBISCHAIN_](https://x.com/ANUBISCHAIN_/status/2072571906138706359) (2026-07-02)
 - [APACwebaijobs](https://x.com/APACwebaijobs/status/2064977490213474577) (2026-06-11)
 - [APompliano](https://x.com/APompliano/status/2079571863642984883) (2026-07-25)
+- [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2088179625642152198) (2026-08-17)
 - [AiCamila_](https://x.com/AiCamila_/status/2076911076885823887) (2026-07-15)
 - [AiNicolas75316](https://x.com/AiNicolas75316/status/2079199374819914080) (2026-07-22)
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2073021437963825410) (2026-07-05)
@@ -72,6 +73,7 @@ total_mentions: 376
 - [FastCompany](https://x.com/FastCompany/status/2063149004490149919) (2026-06-06)
 - [FourPillarsFP](https://x.com/FourPillarsFP/status/2079870751247609871) (2026-07-28)
 - [GoogleAI](https://x.com/GoogleAI/status/2062942864288387430) (2026-06-06)
+- [GoogleAI](https://x.com/GoogleAI/status/2088332438753681700) (2026-08-17)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2061578655050899715) (2026-06-07)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2062253446888063025) (2026-06-06)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2071989196122657141) (2026-07-07)
@@ -119,6 +121,7 @@ total_mentions: 376
 - [LuizaJarovsky](https://x.com/LuizaJarovsky/status/2072664971616383227) (2026-07-03)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
 - [MarioNawfal](https://x.com/MarioNawfal/status/2085171754415038482) (2026-08-06)
+- [Market_Mind_](https://x.com/Market_Mind_/status/2088651427962921304) (2026-08-17)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
 - [MattJamesBoyle](https://x.com/MattJamesBoyle/status/2087548943873839423) (2026-08-13)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
@@ -272,6 +275,7 @@ total_mentions: 376
 - [ethereum](https://x.com/ethereum/status/2079217433059996150) (2026-07-23)
 - [evanderburg](https://x.com/evanderburg/status/2087412401717359059) (2026-08-12)
 - [fin465](https://x.com/fin465/status/2080155147385102375) (2026-07-25)
+- [gippp69](https://x.com/gippp69/status/2088943002467115352) (2026-08-17)
 - [googlecloud](https://x.com/googlecloud/status/2063244517575200828) (2026-06-09)
 - [googlecloud](https://x.com/googlecloud/status/2064505329006653571) (2026-06-10)
 - [googlecloud_jp](https://x.com/googlecloud_jp/status/2064210883023118619) (2026-06-09)

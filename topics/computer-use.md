@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-08-16
-total_mentions: 42
+last_seen: 2026-08-17
+total_mentions: 45
 
 ## Related Tweets
 - [AriX](https://x.com/AriX/status/2075282339782095163) (2026-07-13)
@@ -17,9 +17,11 @@ total_mentions: 42
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [Mascobot](https://x.com/Mascobot/status/2065102985362026958) (2026-06-12)
+- [MaxForAI](https://x.com/MaxForAI/status/2089184371886690760) (2026-08-17)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2075275868268789885) (2026-07-11)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2077166520392970529) (2026-07-15)
+- [Ric_RTP](https://x.com/Ric_RTP/status/2089132632332251293) (2026-08-17)
 - [TeksCreate](https://x.com/TeksCreate/status/2081499683571040408) (2026-07-27)
 - [WesRoth](https://x.com/WesRoth/status/2063833395298533464) (2026-06-10)
 - [a16z](https://x.com/a16z/status/2086906363947737406) (2026-08-11)
@@ -30,6 +32,7 @@ total_mentions: 42
 - [amasad](https://x.com/amasad/status/2065452585964949831) (2026-06-15)
 - [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
+- [claudeebum](https://x.com/claudeebum/status/2088598997065969933) (2026-08-17)
 - [coder_surya](https://x.com/coder_surya/status/2073957608998715439) (2026-07-06)
 - [cursor_ai](https://x.com/cursor_ai/status/2084317547608911986) (2026-08-09)
 - [cwmasaki](https://x.com/cwmasaki/status/2088433897445171301) (2026-08-15)
