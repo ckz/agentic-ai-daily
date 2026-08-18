@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-17
-total_mentions: 97
+last_seen: 2026-08-18
+total_mentions: 98
 
 ## Related Tweets
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
@@ -28,6 +28,7 @@ total_mentions: 97
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2081303563746398665) (2026-07-28)
+- [N01ennn](https://x.com/N01ennn/status/2089455117716406706) (2026-08-18)
 - [NVIDIAAI](https://x.com/NVIDIAAI/status/2069858097930121319) (2026-06-30)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2075275868268789885) (2026-07-11)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)

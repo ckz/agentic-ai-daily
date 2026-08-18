@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-08-17
-total_mentions: 380
+last_seen: 2026-08-18
+total_mentions: 385
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -40,6 +40,7 @@ total_mentions: 380
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
 - [BestAIToolFind](https://x.com/BestAIToolFind/status/2087737224456732920) (2026-08-13)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
+- [BrianRoemmele](https://x.com/BrianRoemmele/status/2089511874824212925) (2026-08-18)
 - [BridgingNews_](https://x.com/BridgingNews_/status/2087418050660483509) (2026-08-12)
 - [CSVisionPapers](https://x.com/CSVisionPapers/status/2072902537439481931) (2026-07-03)
 - [CapexAndChill](https://x.com/CapexAndChill/status/2073965340476768534) (2026-07-06)
@@ -58,7 +59,9 @@ total_mentions: 380
 - [DanKornas](https://x.com/DanKornas/status/2072195733927706691) (2026-07-01)
 - [DanKornas](https://x.com/DanKornas/status/2077488623125971059) (2026-07-16)
 - [DanKornas](https://x.com/DanKornas/status/2077647155179782297) (2026-07-16)
+- [DanKornas](https://x.com/DanKornas/status/2086967308711284774) (2026-08-18)
 - [DanKornas](https://x.com/DanKornas/status/2087114536385937617) (2026-08-13)
+- [DanKornas](https://x.com/DanKornas/status/2088477020602696132) (2026-08-18)
 - [DataChaz](https://x.com/DataChaz/status/2068952350077698446) (2026-06-28)
 - [DataChaz](https://x.com/DataChaz/status/2070415564510785812) (2026-06-27)
 - [DataScienceDojo](https://x.com/DataScienceDojo/status/2071624804575093052) (2026-06-30)
@@ -72,6 +75,7 @@ total_mentions: 380
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
 - [FastCompany](https://x.com/FastCompany/status/2063149004490149919) (2026-06-06)
 - [FourPillarsFP](https://x.com/FourPillarsFP/status/2079870751247609871) (2026-07-28)
+- [GergelyOrosz](https://x.com/GergelyOrosz/status/2087121081098224122) (2026-08-18)
 - [GoogleAI](https://x.com/GoogleAI/status/2062942864288387430) (2026-06-06)
 - [GoogleAI](https://x.com/GoogleAI/status/2088332438753681700) (2026-08-17)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2061578655050899715) (2026-06-07)
@@ -338,6 +342,7 @@ total_mentions: 380
 - [py_kanade0404](https://x.com/py_kanade0404/status/2079825109083467821) (2026-07-22)
 - [radiyal_agency](https://x.com/radiyal_agency/status/2072183621176504669) (2026-07-01)
 - [randy_magruder](https://x.com/randy_magruder/status/2075453861754470569) (2026-07-10)
+- [ravikiran_dev7](https://x.com/ravikiran_dev7/status/2089558898886021423) (2026-08-18)
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)
 - [rewind02](https://x.com/rewind02/status/2083141563077574747) (2026-08-05)
 - [rileybrown](https://x.com/rileybrown/status/2087235887012749383) (2026-08-15)

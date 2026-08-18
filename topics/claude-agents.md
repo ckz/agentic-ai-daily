@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-17
-total_mentions: 155
+last_seen: 2026-08-18
+total_mentions: 159
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -34,6 +34,7 @@ total_mentions: 155
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DanKornas](https://x.com/DanKornas/status/2063154157511418092) (2026-06-06)
 - [DanKornas](https://x.com/DanKornas/status/2071847945373192192) (2026-06-30)
+- [DanKornas](https://x.com/DanKornas/status/2088477020602696132) (2026-08-18)
 - [DataChaz](https://x.com/DataChaz/status/2075204287223697636) (2026-07-11)
 - [DealsDhamaka](https://x.com/DealsDhamaka/status/2074664290293080496) (2026-07-08)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
@@ -57,6 +58,7 @@ total_mentions: 155
 - [MetaforDevs](https://x.com/MetaforDevs/status/2072474629852348684) (2026-07-02)
 - [MikeLongTerm](https://x.com/MikeLongTerm/status/2083580958519783522) (2026-08-07)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
+- [N01ennn](https://x.com/N01ennn/status/2089455117716406706) (2026-08-18)
 - [NoahTopper](https://x.com/NoahTopper/status/2081966112691089472) (2026-07-29)
 - [NousResearch](https://x.com/NousResearch/status/2026759005633183980) (2026-06-07)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
@@ -108,6 +110,7 @@ total_mentions: 155
 - [cyrilXBT](https://x.com/cyrilXBT/status/2084862461078077848) (2026-08-06)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2085683119320133685) (2026-08-08)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
+- [dee_hw](https://x.com/dee_hw/status/2089388227971219643) (2026-08-18)
 - [dr_cintas](https://x.com/dr_cintas/status/2072714904650359130) (2026-07-03)
 - [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
 - [ekcheungAI](https://x.com/ekcheungAI/status/2068544526084386969) (2026-06-21)
@@ -139,6 +142,7 @@ total_mentions: 155
 - [mikenevermiss](https://x.com/mikenevermiss/status/2072358721821221212) (2026-07-02)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2079276004430713195) (2026-07-21)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2080763866200645792) (2026-07-25)
+- [milesdeutscher](https://x.com/milesdeutscher/status/2089509583312339450) (2026-08-18)
 - [mojeskoqq](https://x.com/mojeskoqq/status/2085273824413503536) (2026-08-09)
 - [noisyb0y1](https://x.com/noisyb0y1/status/2087218720594706679) (2026-08-13)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)

@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-17
-total_mentions: 316
+last_seen: 2026-08-18
+total_mentions: 320
 
 ## Related Tweets
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
@@ -115,6 +115,7 @@ total_mentions: 316
 - [SpikeCalls](https://x.com/SpikeCalls/status/2063529090091532540) (2026-06-08)
 - [StartupArchive_](https://x.com/StartupArchive_/status/2061052571876520406) (2026-06-07)
 - [Steve8708](https://x.com/Steve8708/status/2041909436059615442) (2026-06-06)
+- [SultanAlFardan](https://x.com/SultanAlFardan/status/2089552684491657307) (2026-08-18)
 - [SureLeverage](https://x.com/SureLeverage/status/2074846284838846589) (2026-07-11)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2062153533630415305) (2026-06-08)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2076764516764008524) (2026-07-14)
@@ -187,6 +188,7 @@ total_mentions: 316
 - [deedydas](https://x.com/deedydas/status/2063075876452155728) (2026-06-06)
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
 - [dhh](https://x.com/dhh/status/2086590006898958752) (2026-08-13)
+- [divaagurlxw](https://x.com/divaagurlxw/status/2088625532070203557) (2026-08-18)
 - [djcows](https://x.com/djcows/status/2074245525021335998) (2026-07-12)
 - [ecomchigga](https://x.com/ecomchigga/status/2065176267637297566) (2026-06-13)
 - [elonmusk](https://x.com/elonmusk/status/2063319907849093544) (2026-06-12)
@@ -242,6 +244,7 @@ total_mentions: 316
 - [marfinxx](https://x.com/marfinxx/status/2087950466244063718) (2026-08-14)
 - [markiewagner](https://x.com/markiewagner/status/2064778239164461316) (2026-06-11)
 - [marorhab](https://x.com/marorhab/status/2063163950850609431) (2026-06-06)
+- [mcuban](https://x.com/mcuban/status/2088787419906576436) (2026-08-18)
 - [mhp_guy](https://x.com/mhp_guy/status/2064453575594664169) (2026-06-12)
 - [mikefutia](https://x.com/mikefutia/status/1932464486646001840) (2026-06-07)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2072226710448168991) (2026-07-05)
@@ -266,6 +269,7 @@ total_mentions: 316
 - [propxwealth](https://x.com/propxwealth/status/2086007408078549329) (2026-08-14)
 - [pubity](https://x.com/pubity/status/2088354976359719140) (2026-08-16)
 - [rahulbais136](https://x.com/rahulbais136/status/2077192536335192463) (2026-07-15)
+- [rauchg](https://x.com/rauchg/status/2088735125744070932) (2026-08-18)
 - [ravikiran_dev7](https://x.com/ravikiran_dev7/status/2088373187981828420) (2026-08-16)
 - [richtosho](https://x.com/richtosho/status/2078797686451409133) (2026-07-26)
 - [richtosho](https://x.com/richtosho/status/2080930554782830700) (2026-07-31)

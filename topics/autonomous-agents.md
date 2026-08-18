@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-17
-total_mentions: 951
+last_seen: 2026-08-18
+total_mentions: 960
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -27,6 +27,7 @@ total_mentions: 951
 - [0xCodez](https://x.com/0xCodez/status/2080669094743859408) (2026-07-25)
 - [0xCodez](https://x.com/0xCodez/status/2081017726261199185) (2026-07-26)
 - [0xCodez](https://x.com/0xCodez/status/2085731209397637233) (2026-08-09)
+- [0xCodez](https://x.com/0xCodez/status/2088263101158146337) (2026-08-18)
 - [0xCodila](https://x.com/0xCodila/status/2074639576107274693) (2026-07-08)
 - [0xCodila](https://x.com/0xCodila/status/2080689998848778523) (2026-07-25)
 - [0xCodila](https://x.com/0xCodila/status/2081068276977672340) (2026-07-26)
@@ -182,7 +183,9 @@ total_mentions: 951
 - [DanKornas](https://x.com/DanKornas/status/2072195733927706691) (2026-07-01)
 - [DanKornas](https://x.com/DanKornas/status/2077488623125971059) (2026-07-16)
 - [DanKornas](https://x.com/DanKornas/status/2085970749110571165) (2026-08-13)
+- [DanKornas](https://x.com/DanKornas/status/2086967308711284774) (2026-08-18)
 - [DanKornas](https://x.com/DanKornas/status/2087114536385937617) (2026-08-13)
+- [DanKornas](https://x.com/DanKornas/status/2088477020602696132) (2026-08-18)
 - [Daniel_Farinax](https://x.com/Daniel_Farinax/status/2088855024319258910) (2026-08-17)
 - [DataChaz](https://x.com/DataChaz/status/2020882442492747997) (2026-06-05)
 - [DataChaz](https://x.com/DataChaz/status/2063158890469196218) (2026-06-06)
@@ -215,6 +218,7 @@ total_mentions: 951
 - [Fetch_ai](https://x.com/Fetch_ai/status/2071271772326916508) (2026-06-29)
 - [FundamentEdge](https://x.com/FundamentEdge/status/2086632605466915006) (2026-08-10)
 - [FutureStacked](https://x.com/FutureStacked/status/2074159794030604515) (2026-07-07)
+- [GergelyOrosz](https://x.com/GergelyOrosz/status/2087121081098224122) (2026-08-18)
 - [GesoraMeshack](https://x.com/GesoraMeshack/status/2084521634937856338) (2026-08-04)
 - [GitTrend0x](https://x.com/GitTrend0x/status/2085190556674904253) (2026-08-07)
 - [GoogleAI](https://x.com/GoogleAI/status/2079589742535118985) (2026-07-25)
@@ -323,6 +327,7 @@ total_mentions: 951
 - [Mr_Salio](https://x.com/Mr_Salio/status/2079174410330935630) (2026-07-26)
 - [MunnaDomainer](https://x.com/MunnaDomainer/status/2068581514678518144) (2026-06-21)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
+- [N01ennn](https://x.com/N01ennn/status/2089455117716406706) (2026-08-18)
 - [NFTCPS](https://x.com/NFTCPS/status/2063088254560407926) (2026-06-13)
 - [NVIDIAAP](https://x.com/NVIDIAAP/status/2066370113733787732) (2026-06-15)
 - [NVIDIAAP](https://x.com/NVIDIAAP/status/2076879361504903645) (2026-07-21)
@@ -631,6 +636,7 @@ total_mentions: 951
 - [david1989_zhu](https://x.com/david1989_zhu/status/2065343518483136962) (2026-06-12)
 - [dawnsongtweets](https://x.com/dawnsongtweets/status/2087256652756172834) (2026-08-14)
 - [deanwball](https://x.com/deanwball/status/2078133895766114412) (2026-07-20)
+- [dee_hw](https://x.com/dee_hw/status/2089388227971219643) (2026-08-18)
 - [degen_mike14](https://x.com/degen_mike14/status/2072413220703236391) (2026-07-03)
 - [dexhorthy](https://x.com/dexhorthy/status/2067286892786454855) (2026-06-19)
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
@@ -805,6 +811,7 @@ total_mentions: 951
 - [mvanhorn](https://x.com/mvanhorn/status/2074955232728281432) (2026-07-09)
 - [myshell_ai](https://x.com/myshell_ai/status/1874804449023266943) (2026-07-10)
 - [neil_xbt](https://x.com/neil_xbt/status/2067822430014632239) (2026-06-19)
+- [neil_xbt](https://x.com/neil_xbt/status/2089566708839206979) (2026-08-18)
 - [neviannn](https://x.com/neviannn/status/2087254502210490739) (2026-08-13)
 - [nextplayso](https://x.com/nextplayso/status/2079686456101179538) (2026-07-28)
 - [nicbstme](https://x.com/nicbstme/status/2084918378368471150) (2026-08-06)
@@ -837,6 +844,7 @@ total_mentions: 951
 - [rauchg](https://x.com/rauchg/status/2073132174958841887) (2026-07-04)
 - [rauchg](https://x.com/rauchg/status/2083208578526314513) (2026-08-01)
 - [ravikiran_dev7](https://x.com/ravikiran_dev7/status/2068239519242154491) (2026-06-20)
+- [ravikiran_dev7](https://x.com/ravikiran_dev7/status/2089558898886021423) (2026-08-18)
 - [recogard](https://x.com/recogard/status/2081094239472214156) (2026-07-30)
 - [recogard](https://x.com/recogard/status/2085077708539560214) (2026-08-11)
 - [remp0x](https://x.com/remp0x/status/2065261778682937639) (2026-06-12)
@@ -920,6 +928,7 @@ total_mentions: 951
 - [therajansharma](https://x.com/therajansharma/status/2068578446100308157) (2026-06-21)
 - [thesupermanmx](https://x.com/thesupermanmx/status/2088659059008491594) (2026-08-16)
 - [thesupermanmx](https://x.com/thesupermanmx/status/2088977298989129826) (2026-08-17)
+- [thesupermanmx](https://x.com/thesupermanmx/status/2089170733260025866) (2026-08-18)
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)
 - [thompson_akhat](https://x.com/thompson_akhat/status/2065333327314276641) (2026-06-12)
 - [tiger_research_](https://x.com/tiger_research_/status/2080227252134879655) (2026-07-24)
