@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-18
-total_mentions: 159
+last_seen: 2026-08-19
+total_mentions: 162
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -46,6 +46,7 @@ total_mentions: 159
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2074600211364692029) (2026-07-08)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2080708199594823736) (2026-07-25)
 - [Guelug](https://x.com/Guelug/status/2072092575947989385) (2026-07-01)
+- [HowToPrompt__](https://x.com/HowToPrompt__/status/2089180119973990492) (2026-08-19)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2065062300218749172) (2026-06-13)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2073709900820099232) (2026-07-06)
@@ -119,6 +120,7 @@ total_mentions: 159
 - [emollick](https://x.com/emollick/status/2089233231853785118) (2026-08-17)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2061821319034143172) (2026-06-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2062244858686009455) (2026-06-08)
+- [freeCodeCamp](https://x.com/freeCodeCamp/status/2087449332119134430) (2026-08-19)
 - [gippp69](https://x.com/gippp69/status/2088943002467115352) (2026-08-17)
 - [gokulr](https://x.com/gokulr/status/2062638283100930085) (2026-06-08)
 - [gokulr](https://x.com/gokulr/status/2071692278582890889) (2026-08-02)
@@ -145,6 +147,7 @@ total_mentions: 159
 - [milesdeutscher](https://x.com/milesdeutscher/status/2089509583312339450) (2026-08-18)
 - [mojeskoqq](https://x.com/mojeskoqq/status/2085273824413503536) (2026-08-09)
 - [noisyb0y1](https://x.com/noisyb0y1/status/2087218720594706679) (2026-08-13)
+- [officialbunnyos](https://x.com/officialbunnyos/status/2089938164916060444) (2026-08-19)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)

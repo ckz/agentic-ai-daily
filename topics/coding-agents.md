@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-18
-total_mentions: 98
+last_seen: 2026-08-19
+total_mentions: 100
 
 ## Related Tweets
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
@@ -42,6 +42,7 @@ total_mentions: 98
 - [TermiusHQ](https://x.com/TermiusHQ/status/2082616764605874207) (2026-07-30)
 - [TheValueist](https://x.com/TheValueist/status/2072334968940900744) (2026-07-03)
 - [TimesOfAI_](https://x.com/TimesOfAI_/status/2085233016067211331) (2026-08-12)
+- [Voxyz_ai](https://x.com/Voxyz_ai/status/2089324197981950408) (2026-08-19)
 - [XFreeze](https://x.com/XFreeze/status/2065333739312590983) (2026-06-12)
 - [Ziven_Coder](https://x.com/Ziven_Coder/status/2078482313986642122) (2026-07-30)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
@@ -85,6 +86,7 @@ total_mentions: 98
 - [monmiglobal](https://x.com/monmiglobal/status/2071399421997359236) (2026-06-29)
 - [orbiteditor](https://x.com/orbiteditor/status/2075064330325041395) (2026-07-09)
 - [pushmeet](https://x.com/pushmeet/status/2065917699222560928) (2026-06-15)
+- [pushmeet](https://x.com/pushmeet/status/2089717134129565763) (2026-08-19)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
 - [rebel0x0](https://x.com/rebel0x0/status/2067186712758071385) (2026-06-19)
 - [sairahul1](https://x.com/sairahul1/status/2077326742218539296) (2026-07-18)

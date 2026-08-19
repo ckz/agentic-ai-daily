@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-18
-total_mentions: 320
+last_seen: 2026-08-19
+total_mentions: 326
 
 ## Related Tweets
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
@@ -28,6 +28,7 @@ total_mentions: 320
 - [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2078578545429991768) (2026-07-24)
 - [BernieSanders](https://x.com/BernieSanders/status/2080047245433438469) (2026-07-26)
 - [BestAIToolFind](https://x.com/BestAIToolFind/status/2087737224456732920) (2026-08-13)
+- [BillAckman](https://x.com/BillAckman/status/2089118514741129636) (2026-08-19)
 - [Bitget_TradFi](https://x.com/Bitget_TradFi/status/2084806593971962091) (2026-08-07)
 - [Brennan_Lup](https://x.com/Brennan_Lup/status/2064930712739090835) (2026-06-11)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
@@ -127,6 +128,7 @@ total_mentions: 320
 - [TommiPedruzzi](https://x.com/TommiPedruzzi/status/2079133234005155943) (2026-07-23)
 - [TracyWesterman](https://x.com/TracyWesterman/status/2068481367248384086) (2026-06-27)
 - [Variety](https://x.com/Variety/status/2078236164197322969) (2026-07-18)
+- [Voxyz_ai](https://x.com/Voxyz_ai/status/2089324197981950408) (2026-08-19)
 - [WaldronLewis](https://x.com/WaldronLewis/status/2072605320132575489) (2026-07-03)
 - [WallStreetApes](https://x.com/WallStreetApes/status/2072876695120658620) (2026-07-05)
 - [WatcherGuru](https://x.com/WatcherGuru/status/2066844381504561211) (2026-06-20)
@@ -166,8 +168,10 @@ total_mentions: 320
 - [bizbreakdowns](https://x.com/bizbreakdowns/status/2081711200643985720) (2026-07-29)
 - [blaire_pang](https://x.com/blaire_pang/status/2081545224372068594) (2026-07-27)
 - [bondaicommunity](https://x.com/bondaicommunity/status/2071466190359220413) (2026-06-29)
+- [brainrulax](https://x.com/brainrulax/status/2087647943444832495) (2026-08-19)
 - [business](https://x.com/business/status/2063849595688407299) (2026-06-08)
 - [business](https://x.com/business/status/2064560376595804273) (2026-06-10)
+- [business](https://x.com/business/status/2089077253778915636) (2026-08-19)
 - [bykahlil](https://x.com/bykahlil/status/2079265093607637030) (2026-07-21)
 - [cb_doge](https://x.com/cb_doge/status/2062681226633523250) (2026-06-08)
 - [cb_doge](https://x.com/cb_doge/status/2072009965389443374) (2026-07-03)
@@ -191,6 +195,7 @@ total_mentions: 320
 - [divaagurlxw](https://x.com/divaagurlxw/status/2088625532070203557) (2026-08-18)
 - [djcows](https://x.com/djcows/status/2074245525021335998) (2026-07-12)
 - [ecomchigga](https://x.com/ecomchigga/status/2065176267637297566) (2026-06-13)
+- [edinsoncode](https://x.com/edinsoncode/status/2089677825125368297) (2026-08-19)
 - [elonmusk](https://x.com/elonmusk/status/2063319907849093544) (2026-06-12)
 - [elonmusk](https://x.com/elonmusk/status/2071652181854343349) (2026-07-04)
 - [elonmusk](https://x.com/elonmusk/status/2071673460779041155) (2026-07-02)
@@ -255,6 +260,7 @@ total_mentions: 320
 - [neerajjj6785](https://x.com/neerajjj6785/status/2088897032283181080) (2026-08-17)
 - [nextjs](https://x.com/nextjs/status/2071647669467201657) (2026-07-02)
 - [noah_schochet](https://x.com/noah_schochet/status/2077044441978737104) (2026-07-17)
+- [patrick_oshag](https://x.com/patrick_oshag/status/2089713931183153293) (2026-08-19)
 - [paulg](https://x.com/paulg/status/2063091245334044902) (2026-06-06)
 - [paulg](https://x.com/paulg/status/2063644836981260638) (2026-06-12)
 - [paulg](https://x.com/paulg/status/2069821293596148004) (2026-06-28)

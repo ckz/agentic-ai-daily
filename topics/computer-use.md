@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-08-18
-total_mentions: 45
+last_seen: 2026-08-19
+total_mentions: 46
 
 ## Related Tweets
 - [AriX](https://x.com/AriX/status/2075282339782095163) (2026-07-13)
@@ -31,6 +31,7 @@ total_mentions: 45
 - [ajambrosino](https://x.com/ajambrosino/status/2075274357715427618) (2026-07-18)
 - [amasad](https://x.com/amasad/status/2065452585964949831) (2026-06-15)
 - [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)
+- [arturovilla](https://x.com/arturovilla/status/2087625765529461145) (2026-08-19)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
 - [claudeebum](https://x.com/claudeebum/status/2088598997065969933) (2026-08-17)
 - [coder_surya](https://x.com/coder_surya/status/2073957608998715439) (2026-07-06)

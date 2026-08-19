@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-08-18
-total_mentions: 385
+last_seen: 2026-08-19
+total_mentions: 388
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -156,6 +156,7 @@ total_mentions: 385
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2063086140799012963) (2026-06-06)
 - [SciTechera](https://x.com/SciTechera/status/2087580473560269065) (2026-08-16)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
+- [Seltaa_](https://x.com/Seltaa_/status/2088353576259314024) (2026-08-19)
 - [ShawnYao77](https://x.com/ShawnYao77/status/2082343891689504790) (2026-07-29)
 - [SilenceCaPrompt](https://x.com/SilenceCaPrompt/status/2060769285224739159) (2026-06-06)
 - [Slappjakke](https://x.com/Slappjakke/status/1924051973378314393) (2026-07-10)
@@ -361,6 +362,7 @@ total_mentions: 385
 - [seelffff](https://x.com/seelffff/status/2071118707405816250) (2026-06-29)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
 - [sentient_agency](https://x.com/sentient_agency/status/2071538650425528367) (2026-07-01)
+- [shikamarutsai](https://x.com/shikamarutsai/status/2088636457938280724) (2026-08-19)
 - [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)
 - [shushant_l](https://x.com/shushant_l/status/2078707411670704572) (2026-07-19)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
@@ -370,6 +372,7 @@ total_mentions: 385
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
 - [stbenjam](https://x.com/stbenjam/status/2087340706599698783) (2026-08-12)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
+- [sudoingX](https://x.com/sudoingX/status/2081453712149721457) (2026-08-19)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2077724941198533011) (2026-07-17)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2078449718414180393) (2026-07-19)
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)

@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-18
-total_mentions: 960
+last_seen: 2026-08-19
+total_mentions: 971
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -50,6 +50,7 @@ total_mentions: 960
 - [0xMovez](https://x.com/0xMovez/status/2079169729252491648) (2026-07-23)
 - [0xMovez](https://x.com/0xMovez/status/2079213454980686188) (2026-07-22)
 - [0xMovez](https://x.com/0xMovez/status/2080646952069288055) (2026-07-27)
+- [0xMovez](https://x.com/0xMovez/status/2089744087889142217) (2026-08-19)
 - [0xRiRoyal](https://x.com/0xRiRoyal/status/2085228220841083125) (2026-08-06)
 - [0xRicker](https://x.com/0xRicker/status/2065478241444639198) (2026-06-14)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
@@ -95,6 +96,7 @@ total_mentions: 960
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2073021437963825410) (2026-07-05)
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2081039269414793590) (2026-07-26)
 - [Akasheth_](https://x.com/Akasheth_/status/2063933265954918837) (2026-06-10)
+- [Alacritic_Super](https://x.com/Alacritic_Super/status/2088341517744361787) (2026-08-19)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2072719153107001836) (2026-07-03)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2076720209293893677) (2026-07-14)
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2069720365442719867) (2026-06-27)
@@ -133,6 +135,7 @@ total_mentions: 960
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2087564648325530099) (2026-08-16)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2087975627391717461) (2026-08-14)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2088440350734201149) (2026-08-15)
+- [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2089830890709135426) (2026-08-19)
 - [Artificialunbox](https://x.com/Artificialunbox/status/2068215362114715908) (2026-06-20)
 - [Aurimas_Gr](https://x.com/Aurimas_Gr/status/2084608000610754903) (2026-08-06)
 - [Ausmi129124](https://x.com/Ausmi129124/status/2068589738534260929) (2026-06-21)
@@ -173,6 +176,7 @@ total_mentions: 960
 - [Crypto__Haris](https://x.com/Crypto__Haris/status/2074037585341768082) (2026-07-06)
 - [Cypherpunkgod1](https://x.com/Cypherpunkgod1/status/2066407248859959700) (2026-06-15)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2066212008782172238) (2026-06-19)
+- [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2089423549379559718) (2026-08-19)
 - [DJ_CURFEW](https://x.com/DJ_CURFEW/status/2069499429292568919) (2026-06-29)
 - [DamiDefi](https://x.com/DamiDefi/status/2034210979475788197) (2026-06-10)
 - [DamiDefi](https://x.com/DamiDefi/status/2037456942684332232) (2026-07-10)
@@ -243,6 +247,7 @@ total_mentions: 960
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [HowToAI_](https://x.com/HowToAI_/status/2062105627204423994) (2026-06-06)
+- [HowToPrompt__](https://x.com/HowToPrompt__/status/2089180119973990492) (2026-08-19)
 - [Huawei](https://x.com/Huawei/status/2064239307838419399) (2026-06-09)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2065062300218749172) (2026-06-13)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2068205769002991901) (2026-06-20)
@@ -459,6 +464,7 @@ total_mentions: 960
 - [VaibhavSisinty](https://x.com/VaibhavSisinty/status/2070741416649850898) (2026-06-28)
 - [VaibhavSisinty](https://x.com/VaibhavSisinty/status/2079823267750408589) (2026-07-28)
 - [VenAiSol](https://x.com/VenAiSol/status/2067847260876996912) (2026-06-19)
+- [VibeMarketer_](https://x.com/VibeMarketer_/status/2089740376718610518) (2026-08-19)
 - [VivekIntel](https://x.com/VivekIntel/status/2073810331827343525) (2026-07-09)
 - [VivekIntel](https://x.com/VivekIntel/status/2073996440326873221) (2026-07-13)
 - [WasimxWeb3](https://x.com/WasimxWeb3/status/2064971624944964016) (2026-06-11)
@@ -661,6 +667,7 @@ total_mentions: 960
 - [e_opore](https://x.com/e_opore/status/2077277237334757636) (2026-07-16)
 - [e_opore](https://x.com/e_opore/status/2077591797727887532) (2026-07-22)
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
+- [edinsoncode](https://x.com/edinsoncode/status/2089677825125368297) (2026-08-19)
 - [efecim1sn](https://x.com/efecim1sn/status/2070586181566538161) (2026-06-27)
 - [ehsanik](https://x.com/ehsanik/status/2070544602164330561) (2026-06-27)
 - [eigenlabs](https://x.com/eigenlabs/status/2062540745601384785) (2026-06-08)
@@ -775,6 +782,7 @@ total_mentions: 960
 - [levie](https://x.com/levie/status/2061247380897579500) (2026-06-06)
 - [levie](https://x.com/levie/status/2079402164988895293) (2026-07-21)
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
+- [levie](https://x.com/levie/status/2089921630650925170) (2026-08-19)
 - [lewiscarhart](https://x.com/lewiscarhart/status/2083610805069611230) (2026-08-02)
 - [liquidai](https://x.com/liquidai/status/2084640701669613906) (2026-08-05)
 - [lnmishra](https://x.com/lnmishra/status/2072047572600954992) (2026-07-01)
@@ -824,6 +832,7 @@ total_mentions: 960
 - [nvidia](https://x.com/nvidia/status/2071654937335926864) (2026-06-30)
 - [nvidia](https://x.com/nvidia/status/2074979063106843131) (2026-07-13)
 - [obscaries](https://x.com/obscaries/status/2066019802016354811) (2026-06-14)
+- [officialbunnyos](https://x.com/officialbunnyos/status/2089938164916060444) (2026-08-19)
 - [olesovhcom](https://x.com/olesovhcom/status/2067840948797624766) (2026-06-19)
 - [ollama](https://x.com/ollama/status/2066949797316350361) (2026-06-19)
 - [omarsar0](https://x.com/omarsar0/status/1846930425849303424) (2026-06-27)
@@ -890,6 +899,7 @@ total_mentions: 960
 - [shawnchauhan1](https://x.com/shawnchauhan1/status/2082685120679657715) (2026-07-30)
 - [shedoesai](https://x.com/shedoesai/status/2054227691671556145) (2026-06-12)
 - [sherlockdefi](https://x.com/sherlockdefi/status/2079222748572697080) (2026-07-26)
+- [shikamarutsai](https://x.com/shikamarutsai/status/2088636457938280724) (2026-08-19)
 - [shiqway92](https://x.com/shiqway92/status/2081403424986239014) (2026-07-28)
 - [shiri_shh](https://x.com/shiri_shh/status/2060434223299998179) (2026-06-05)
 - [shiri_shh](https://x.com/shiri_shh/status/2061426931162288614) (2026-06-06)
@@ -909,6 +919,7 @@ total_mentions: 960
 - [stretchcloud](https://x.com/stretchcloud/status/2074649666608840706) (2026-07-08)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
 - [stretchcloud](https://x.com/stretchcloud/status/2079772421947560434) (2026-07-22)
+- [sudoingX](https://x.com/sudoingX/status/2081453712149721457) (2026-08-19)
 - [sundaebar_ai](https://x.com/sundaebar_ai/status/2077392523128132068) (2026-07-16)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2077724941198533011) (2026-07-17)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2078449718414180393) (2026-07-19)
