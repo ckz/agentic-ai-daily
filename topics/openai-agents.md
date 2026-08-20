@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-19
-total_mentions: 52
+last_seen: 2026-08-20
+total_mentions: 53
 
 ## Related Tweets
 - [0xDepressionn](https://x.com/0xDepressionn/status/2063987019068371128) (2026-06-10)
@@ -56,4 +56,5 @@ total_mentions: 52
 - [officialbunnyos](https://x.com/officialbunnyos/status/2089938164916060444) (2026-08-19)
 - [pankajkumar_dev](https://x.com/pankajkumar_dev/status/2083391622939815963) (2026-08-01)
 - [sharongoldman](https://x.com/sharongoldman/status/2085121826418831484) (2026-08-07)
+- [sonalshukla3377](https://x.com/sonalshukla3377/status/2089191836296654904) (2026-08-20)
 - [unusual_whales](https://x.com/unusual_whales/status/2079958900032655634) (2026-07-23)

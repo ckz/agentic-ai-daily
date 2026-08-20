@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-08-19
-total_mentions: 529
+last_seen: 2026-08-20
+total_mentions: 533
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -199,6 +199,7 @@ total_mentions: 529
 - [Spectre__AI](https://x.com/Spectre__AI/status/2084677141870883158) (2026-08-07)
 - [Star_Knight12](https://x.com/Star_Knight12/status/2076631428926972177) (2026-07-14)
 - [StatsWire](https://x.com/StatsWire/status/2073263718453149877) (2026-07-04)
+- [Stefan_3D_AI](https://x.com/Stefan_3D_AI/status/2089037153888334312) (2026-08-20)
 - [Steve8708](https://x.com/Steve8708/status/2077051086234685641) (2026-07-15)
 - [Sumanth_077](https://x.com/Sumanth_077/status/2063254456834372040) (2026-06-07)
 - [SvpChain](https://x.com/SvpChain/status/2064935788345974954) (2026-06-11)
@@ -224,6 +225,7 @@ total_mentions: 529
 - [XFreeze](https://x.com/XFreeze/status/2065327439476375760) (2026-06-13)
 - [XFreeze](https://x.com/XFreeze/status/2071801039167336638) (2026-06-30)
 - [XFreeze](https://x.com/XFreeze/status/2072891163502080053) (2026-07-06)
+- [XFreeze](https://x.com/XFreeze/status/2090213954744463691) (2026-08-20)
 - [XenBH](https://x.com/XenBH/status/2074583978984485192) (2026-07-08)
 - [XiaomiMiMo](https://x.com/XiaomiMiMo/status/2064799879352959085) (2026-06-11)
 - [ZHENXINYU](https://x.com/ZHENXINYU/status/2064950271906889746) (2026-06-11)
@@ -240,6 +242,7 @@ total_mentions: 529
 - [adamuchigabriel](https://x.com/adamuchigabriel/status/2066299409894109286) (2026-06-15)
 - [adxtyahq](https://x.com/adxtyahq/status/2062090077296283932) (2026-06-08)
 - [agentfxai](https://x.com/agentfxai/status/2068085567057772841) (2026-06-20)
+- [ai_xiaomu](https://x.com/ai_xiaomu/status/2089730538135556515) (2026-08-20)
 - [aiedge_](https://x.com/aiedge_/status/2065222563899572371) (2026-06-12)
 - [aiwithjainam](https://x.com/aiwithjainam/status/2069338947701080150) (2026-06-28)
 - [ajitcodes](https://x.com/ajitcodes/status/2081216341747671353) (2026-07-27)
@@ -251,6 +254,7 @@ total_mentions: 529
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2085791632457433119) (2026-08-09)
 - [alex_prompter](https://x.com/alex_prompter/status/2071609730293022963) (2026-06-30)
 - [alextalksai](https://x.com/alextalksai/status/2087216799435628727) (2026-08-12)
+- [alexxubyte](https://x.com/alexxubyte/status/2090087643895992435) (2026-08-20)
 - [amasad](https://x.com/amasad/status/2080371567221944657) (2026-07-25)
 - [ameliahazelai](https://x.com/ameliahazelai/status/2073345751892062531) (2026-07-06)
 - [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)

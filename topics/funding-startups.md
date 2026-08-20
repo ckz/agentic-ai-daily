@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-19
-total_mentions: 326
+last_seen: 2026-08-20
+total_mentions: 333
 
 ## Related Tweets
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
@@ -29,6 +29,7 @@ total_mentions: 326
 - [BernieSanders](https://x.com/BernieSanders/status/2080047245433438469) (2026-07-26)
 - [BestAIToolFind](https://x.com/BestAIToolFind/status/2087737224456732920) (2026-08-13)
 - [BillAckman](https://x.com/BillAckman/status/2089118514741129636) (2026-08-19)
+- [BillAckman](https://x.com/BillAckman/status/2090190151083532583) (2026-08-20)
 - [Bitget_TradFi](https://x.com/Bitget_TradFi/status/2084806593971962091) (2026-08-07)
 - [Brennan_Lup](https://x.com/Brennan_Lup/status/2064930712739090835) (2026-06-11)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
@@ -51,6 +52,7 @@ total_mentions: 326
 - [FundingPredicts](https://x.com/FundingPredicts/status/2076561972913475742) (2026-07-13)
 - [GAXEN10](https://x.com/GAXEN10/status/2068603068753596431) (2026-06-21)
 - [GrishinRobotics](https://x.com/GrishinRobotics/status/2067880410676187569) (2026-06-19)
+- [HVemasani](https://x.com/HVemasani/status/2089593578473574842) (2026-08-20)
 - [Helion_Energy](https://x.com/Helion_Energy/status/2062554317564108825) (2026-06-07)
 - [Hesamation](https://x.com/Hesamation/status/1970585800325640372) (2026-06-07)
 - [HeyRohhit](https://x.com/HeyRohhit/status/2079594120977527102) (2026-07-22)
@@ -136,6 +138,7 @@ total_mentions: 326
 - [WhaleInsider](https://x.com/WhaleInsider/status/2082791770182586833) (2026-08-02)
 - [XFreeze](https://x.com/XFreeze/status/2071993098641756518) (2026-07-06)
 - [XFreeze](https://x.com/XFreeze/status/2072891163502080053) (2026-07-06)
+- [XFreeze](https://x.com/XFreeze/status/2090213954744463691) (2026-08-20)
 - [YhungProf0](https://x.com/YhungProf0/status/2071829780270391531) (2026-07-02)
 - [_poolday_](https://x.com/_poolday_/status/2065097298946777226) (2026-06-12)
 - [_shikhar_jais](https://x.com/_shikhar_jais/status/2063133010074206331) (2026-06-06)
@@ -224,6 +227,7 @@ total_mentions: 326
 - [gregisenberg](https://x.com/gregisenberg/status/2083954605533065561) (2026-08-08)
 - [gregisenberg](https://x.com/gregisenberg/status/2086534549341610457) (2026-08-12)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
+- [heynavtoor](https://x.com/heynavtoor/status/2090103120399655356) (2026-08-20)
 - [iam_elias1](https://x.com/iam_elias1/status/2062095528742240319) (2026-06-05)
 - [ibab](https://x.com/ibab/status/2087145290671468569) (2026-08-12)
 - [inter_link](https://x.com/inter_link/status/2081053524134125832) (2026-07-29)
@@ -237,6 +241,7 @@ total_mentions: 326
 - [jiang_kev](https://x.com/jiang_kev/status/2082496145994248488) (2026-07-30)
 - [jomatech](https://x.com/jomatech/status/2071058503805124918) (2026-06-28)
 - [jsolomonReports](https://x.com/jsolomonReports/status/2083874257189097789) (2026-08-05)
+- [kaaaash____](https://x.com/kaaaash____/status/2090076085354676694) (2026-08-20)
 - [kamath_sutra](https://x.com/kamath_sutra/status/2083224374728093907) (2026-08-01)
 - [kapilansh_twt](https://x.com/kapilansh_twt/status/2086328186393247796) (2026-08-09)
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
@@ -329,5 +334,7 @@ total_mentions: 326
 - [ycombinator](https://x.com/ycombinator/status/2069110874242252853) (2026-06-28)
 - [ycombinator](https://x.com/ycombinator/status/2085443781797785828) (2026-08-10)
 - [zachbussey](https://x.com/zachbussey/status/2086833293417205910) (2026-08-13)
+- [zamdoteth](https://x.com/zamdoteth/status/2089289158145569013) (2026-08-20)
+- [zamdoteth](https://x.com/zamdoteth/status/2090000178073763951) (2026-08-20)
 - [zerohedge](https://x.com/zerohedge/status/2062966281888756042) (2026-06-12)
 - [zerohedge](https://x.com/zerohedge/status/2087712412216512913) (2026-08-13)

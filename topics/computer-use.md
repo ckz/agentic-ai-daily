@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-08-19
-total_mentions: 46
+last_seen: 2026-08-20
+total_mentions: 47
 
 ## Related Tweets
 - [AriX](https://x.com/AriX/status/2075282339782095163) (2026-07-13)
@@ -10,6 +10,7 @@ total_mentions: 46
 - [BullTheoryio](https://x.com/BullTheoryio/status/2064410897486160099) (2026-06-10)
 - [CodexReleases](https://x.com/CodexReleases/status/2075265220054782386) (2026-07-11)
 - [Codex_Changelog](https://x.com/Codex_Changelog/status/2062678248790589520) (2026-06-07)
+- [Da7_Tech](https://x.com/Da7_Tech/status/2088580089931866460) (2026-08-20)
 - [EXM7777](https://x.com/EXM7777/status/2087176716901023834) (2026-08-13)
 - [GoogleDeepMind](https://x.com/GoogleDeepMind/status/2070180509523546481) (2026-06-27)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)

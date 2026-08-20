@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-19
-total_mentions: 971
+last_seen: 2026-08-20
+total_mentions: 978
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -51,6 +51,7 @@ total_mentions: 971
 - [0xMovez](https://x.com/0xMovez/status/2079213454980686188) (2026-07-22)
 - [0xMovez](https://x.com/0xMovez/status/2080646952069288055) (2026-07-27)
 - [0xMovez](https://x.com/0xMovez/status/2089744087889142217) (2026-08-19)
+- [0xMovez](https://x.com/0xMovez/status/2090107443296498179) (2026-08-20)
 - [0xRiRoyal](https://x.com/0xRiRoyal/status/2085228220841083125) (2026-08-06)
 - [0xRicker](https://x.com/0xRicker/status/2065478241444639198) (2026-06-14)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
@@ -151,6 +152,7 @@ total_mentions: 971
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2064345389424324891) (2026-06-14)
 - [BitBlitzBuzz](https://x.com/BitBlitzBuzz/status/2070751322715148478) (2026-06-27)
 - [Bl0ckZer0](https://x.com/Bl0ckZer0/status/2086356362787770530) (2026-08-09)
+- [Bober_smart](https://x.com/Bober_smart/status/2090056811390861686) (2026-08-20)
 - [BradGroux](https://x.com/BradGroux/status/2065096482831659348) (2026-06-13)
 - [Brainm8ion](https://x.com/Brainm8ion/status/2087751034944803135) (2026-08-13)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
@@ -308,6 +310,7 @@ total_mentions: 971
 - [Mahaximus_](https://x.com/Mahaximus_/status/2083264047299092486) (2026-08-02)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2085433401562308987) (2026-08-07)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2087526534084997176) (2026-08-13)
+- [Mahaximus_](https://x.com/Mahaximus_/status/2090144098380353940) (2026-08-20)
 - [MarMarLabs](https://x.com/MarMarLabs/status/2067798374581960840) (2026-06-19)
 - [MarioNawfal](https://x.com/MarioNawfal/status/2085171754415038482) (2026-08-06)
 - [Market_Mind_](https://x.com/Market_Mind_/status/2088651427962921304) (2026-08-17)
@@ -349,6 +352,7 @@ total_mentions: 971
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/1975269391244874103) (2026-06-08)
 - [OpenAI](https://x.com/OpenAI/status/2062281977122996256) (2026-06-05)
 - [OpenAI](https://x.com/OpenAI/status/2069770172802773292) (2026-07-01)
+- [OpenAI](https://x.com/OpenAI/status/2090165328290701800) (2026-08-20)
 - [OpenAgents](https://x.com/OpenAgents/status/2067700091750879691) (2026-06-19)
 - [OpenWorldsAI](https://x.com/OpenWorldsAI/status/2077049628399112697) (2026-07-15)
 - [OptimaiNetwork](https://x.com/OptimaiNetwork/status/1937325015055368583) (2026-07-10)
@@ -399,6 +403,7 @@ total_mentions: 971
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2083700555059503573) (2026-08-07)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2083776052598321233) (2026-08-05)
 - [RuntimeBRT](https://x.com/RuntimeBRT/status/2084874541864497469) (2026-08-05)
+- [SCR01111](https://x.com/SCR01111/status/2090062553917603949) (2026-08-20)
 - [Saasnext_db](https://x.com/Saasnext_db/status/2080867659244347837) (2026-07-25)
 - [Safevano](https://x.com/Safevano/status/2087600615098601954) (2026-08-14)
 - [SaidAitmbarek](https://x.com/SaidAitmbarek/status/2066430249986908341) (2026-06-15)
@@ -694,6 +699,7 @@ total_mentions: 971
 - [f_rmsj](https://x.com/f_rmsj/status/2065330666368328129) (2026-06-12)
 - [femke_plantinga](https://x.com/femke_plantinga/status/2082375583363944873) (2026-07-30)
 - [finkd](https://x.com/finkd/status/2075218444056707458) (2026-07-11)
+- [fishkiller](https://x.com/fishkiller/status/2090257850635596126) (2026-08-20)
 - [francescoswiss](https://x.com/francescoswiss/status/2085369251372658880) (2026-08-08)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2076517228267155961) (2026-07-13)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2083584032122577255) (2026-08-02)
@@ -948,6 +954,7 @@ total_mentions: 971
 - [tom_doerr](https://x.com/tom_doerr/status/2071321553296412706) (2026-07-01)
 - [tom_doerr](https://x.com/tom_doerr/status/2072500678119817273) (2026-07-07)
 - [tom_doerr](https://x.com/tom_doerr/status/2072636601033715736) (2026-07-08)
+- [tomik99](https://x.com/tomik99/status/2090325415038489061) (2026-08-20)
 - [trending_repos](https://x.com/trending_repos/status/2086424362635206986) (2026-08-11)
 - [trikcode](https://x.com/trikcode/status/2084420246039851517) (2026-08-04)
 - [trythreews](https://x.com/trythreews/status/2075519714890334698) (2026-07-12)

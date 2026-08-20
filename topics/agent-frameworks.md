@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-08-19
-total_mentions: 388
+last_seen: 2026-08-20
+total_mentions: 390
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -369,6 +369,7 @@ total_mentions: 388
 - [socialwithaayan](https://x.com/socialwithaayan/status/2072044103492309425) (2026-07-02)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2072154763492544652) (2026-07-01)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2077223722654834863) (2026-07-16)
+- [sonalshukla3377](https://x.com/sonalshukla3377/status/2089191836296654904) (2026-08-20)
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
 - [stbenjam](https://x.com/stbenjam/status/2087340706599698783) (2026-08-12)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
@@ -380,6 +381,7 @@ total_mentions: 388
 - [tom_doerr](https://x.com/tom_doerr/status/2066365949926629733) (2026-06-15)
 - [tom_doerr](https://x.com/tom_doerr/status/2071321553296412706) (2026-07-01)
 - [tom_doerr](https://x.com/tom_doerr/status/2078760579095753125) (2026-07-21)
+- [tomik99](https://x.com/tomik99/status/2090325415038489061) (2026-08-20)
 - [trikcode](https://x.com/trikcode/status/2084420246039851517) (2026-08-04)
 - [uaghazadae](https://x.com/uaghazadae/status/2087580062593823004) (2026-08-13)
 - [uiuxshasankodas](https://x.com/uiuxshasankodas/status/2087148581899870551) (2026-08-13)
