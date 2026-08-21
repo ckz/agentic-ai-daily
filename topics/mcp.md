@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-08-20
-total_mentions: 533
+last_seen: 2026-08-21
+total_mentions: 543
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -147,6 +147,7 @@ total_mentions: 533
 - [MiniMax_AI](https://x.com/MiniMax_AI/status/2061266317815296322) (2026-06-05)
 - [MrDasOnX](https://x.com/MrDasOnX/status/2066029379512418431) (2026-06-14)
 - [MrOnsase](https://x.com/MrOnsase/status/2081599328058253340) (2026-07-27)
+- [N01ennn](https://x.com/N01ennn/status/2088606747531358505) (2026-08-21)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
 - [Nekt_0](https://x.com/Nekt_0/status/2066148234368524692) (2026-06-15)
 - [NotionHQ](https://x.com/NotionHQ/status/2072759315589652663) (2026-07-03)
@@ -194,6 +195,7 @@ total_mentions: 533
 - [Smartpigai](https://x.com/Smartpigai/status/2063095358075597009) (2026-06-08)
 - [Solvaix](https://x.com/Solvaix/status/2082190359539712344) (2026-07-29)
 - [Solvaix](https://x.com/Solvaix/status/2083282682746704013) (2026-08-02)
+- [Solvaix](https://x.com/Solvaix/status/2089779906125414600) (2026-08-21)
 - [SourabhGurwani](https://x.com/SourabhGurwani/status/2081721763428483158) (2026-07-28)
 - [Spectre__AI](https://x.com/Spectre__AI/status/2074395117297824093) (2026-07-07)
 - [Spectre__AI](https://x.com/Spectre__AI/status/2084677141870883158) (2026-08-07)
@@ -277,6 +279,7 @@ total_mentions: 533
 - [base](https://x.com/base/status/2083204522415960437) (2026-08-05)
 - [base](https://x.com/base/status/2087190317510336821) (2026-08-13)
 - [beamnxw](https://x.com/beamnxw/status/2084288199237517417) (2026-08-05)
+- [beamnxw](https://x.com/beamnxw/status/2090553472865419568) (2026-08-21)
 - [betomoedano](https://x.com/betomoedano/status/2071257935485788178) (2026-06-29)
 - [betomoedano](https://x.com/betomoedano/status/2075206572628705477) (2026-07-13)
 - [bettercalltonny](https://x.com/bettercalltonny/status/2087599007518302487) (2026-08-16)
@@ -294,6 +297,7 @@ total_mentions: 533
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
 - [chenzeling4](https://x.com/chenzeling4/status/2075581564088668195) (2026-07-12)
 - [chongdashu](https://x.com/chongdashu/status/2089139349371973645) (2026-08-17)
+- [claudecode84](https://x.com/claudecode84/status/2089916968132575288) (2026-08-21)
 - [cnemalek](https://x.com/cnemalek/status/2075124631090954361) (2026-07-10)
 - [coder_surya](https://x.com/coder_surya/status/2068597286230163759) (2026-06-21)
 - [coder_surya](https://x.com/coder_surya/status/2074093504188600351) (2026-07-07)
@@ -382,6 +386,7 @@ total_mentions: 533
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2062607081010864364) (2026-06-07)
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2064897496091140376) (2026-06-11)
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2072161434558201960) (2026-07-05)
+- [hiro44_pino](https://x.com/hiro44_pino/status/2090589913754517610) (2026-08-21)
 - [humafinance](https://x.com/humafinance/status/2062445243711279528) (2026-06-08)
 - [humzaakhalid](https://x.com/humzaakhalid/status/2076629724315697287) (2026-07-17)
 - [humzaakhalid](https://x.com/humzaakhalid/status/2078781740563460571) (2026-07-25)
@@ -389,6 +394,7 @@ total_mentions: 533
 - [iBenWills](https://x.com/iBenWills/status/2063840829773369626) (2026-06-08)
 - [iam_elias1](https://x.com/iam_elias1/status/2062095528742240319) (2026-06-05)
 - [iamlukethedev](https://x.com/iamlukethedev/status/2063081062473859097) (2026-06-06)
+- [iamlukethedev](https://x.com/iamlukethedev/status/2089478617478885532) (2026-08-21)
 - [iamriteshverma](https://x.com/iamriteshverma/status/2068569760196108667) (2026-06-21)
 - [icanvardar](https://x.com/icanvardar/status/2071613504688173355) (2026-07-01)
 - [imarun_chauhan](https://x.com/imarun_chauhan/status/2063878197457134003) (2026-06-08)
@@ -449,6 +455,7 @@ total_mentions: 533
 - [pk_iv](https://x.com/pk_iv/status/2086867025050349839) (2026-08-14)
 - [polsia](https://x.com/polsia/status/2062988231151677690) (2026-06-05)
 - [polydao](https://x.com/polydao/status/2071832672066830847) (2026-07-01)
+- [polydao](https://x.com/polydao/status/2088516287098159531) (2026-08-21)
 - [prasenx](https://x.com/prasenx/status/2076631428926972177) (2026-07-15)
 - [precisox](https://x.com/precisox/status/2063510053211054189) (2026-06-08)
 - [precisox](https://x.com/precisox/status/2074294583643848959) (2026-07-07)
@@ -463,6 +470,7 @@ total_mentions: 533
 - [rom1trs](https://x.com/rom1trs/status/2075193811186172355) (2026-07-12)
 - [rom1trs](https://x.com/rom1trs/status/2077382083832340784) (2026-07-19)
 - [rom1trs](https://x.com/rom1trs/status/2080601402460590265) (2026-07-26)
+- [runes_leo](https://x.com/runes_leo/status/2090442625820356780) (2026-08-21)
 - [s1rozha_](https://x.com/s1rozha_/status/2087132684514455625) (2026-08-12)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
@@ -488,6 +496,7 @@ total_mentions: 533
 - [silvanrec](https://x.com/silvanrec/status/2075996434961240505) (2026-07-12)
 - [silvanrec](https://x.com/silvanrec/status/2081044878796939747) (2026-07-26)
 - [simonw](https://x.com/simonw/status/2083330693313220615) (2026-08-02)
+- [simplifyinAI](https://x.com/simplifyinAI/status/2089398580561748312) (2026-08-21)
 - [sixtria](https://x.com/sixtria/status/2067853856709779883) (2026-06-19)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
 - [smratitiwa86867](https://x.com/smratitiwa86867/status/2081582605670187098) (2026-07-27)
@@ -505,6 +514,7 @@ total_mentions: 533
 - [tetsuoai](https://x.com/tetsuoai/status/2071775282420445427) (2026-06-30)
 - [tetsuoai](https://x.com/tetsuoai/status/2071817609742532884) (2026-06-30)
 - [tetsuoai](https://x.com/tetsuoai/status/2080255951274455118) (2026-07-30)
+- [thedankoe](https://x.com/thedankoe/status/2090507819229589650) (2026-08-21)
 - [theo](https://x.com/theo/status/2087280199406903762) (2026-08-12)
 - [therajansharma](https://x.com/therajansharma/status/2068578446100308157) (2026-06-21)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)

@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-08-20
-total_mentions: 214
+last_seen: 2026-08-21
+total_mentions: 219
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -37,6 +37,7 @@ total_mentions: 214
 - [AndrewYNg](https://x.com/AndrewYNg/status/1975614372799283423) (2026-06-12)
 - [AriaWestcott](https://x.com/AriaWestcott/status/2083996549357416566) (2026-08-04)
 - [Av1dlive](https://x.com/Av1dlive/status/2079996209448780202) (2026-07-25)
+- [Av1dlive](https://x.com/Av1dlive/status/2090468488704110701) (2026-08-21)
 - [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2078578545429991768) (2026-07-24)
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2062873857304752368) (2026-06-05)
@@ -50,6 +51,7 @@ total_mentions: 214
 - [DanKornas](https://x.com/DanKornas/status/2063154157511418092) (2026-06-06)
 - [DanKornas](https://x.com/DanKornas/status/2072195733927706691) (2026-07-01)
 - [DanKornas](https://x.com/DanKornas/status/2077488623125971059) (2026-07-16)
+- [DanKornas](https://x.com/DanKornas/status/2090130428896145417) (2026-08-21)
 - [DataChaz](https://x.com/DataChaz/status/2067867048651206753) (2026-06-19)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [Degen_calls_sol](https://x.com/Degen_calls_sol/status/2077084965209030808) (2026-07-15)
@@ -102,6 +104,7 @@ total_mentions: 214
 - [Svrkee01](https://x.com/Svrkee01/status/2066324814105866744) (2026-06-15)
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2065300113254388162) (2026-06-12)
 - [TencentAI_News](https://x.com/TencentAI_News/status/2084835629213577720) (2026-08-11)
+- [TheAhmadOsman](https://x.com/TheAhmadOsman/status/1993756423684264148) (2026-08-21)
 - [UTobyM](https://x.com/UTobyM/status/2073349386596483135) (2026-07-05)
 - [V8X_Team](https://x.com/V8X_Team/status/2076066812458885461) (2026-07-12)
 - [VirtualElena](https://x.com/VirtualElena/status/2086890946634154185) (2026-08-12)
@@ -165,12 +168,14 @@ total_mentions: 214
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2073646837894992126) (2026-07-05)
 - [marfinxx](https://x.com/marfinxx/status/2083523471846281590) (2026-08-02)
+- [marfinxx](https://x.com/marfinxx/status/2090409251940319349) (2026-08-21)
 - [marryevan999](https://x.com/marryevan999/status/2068200210745217463) (2026-06-20)
 - [matei_zaharia](https://x.com/matei_zaharia/status/2065827057624605146) (2026-06-14)
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [maverickecom](https://x.com/maverickecom/status/2081715179914412252) (2026-07-30)
 - [michaeljburry](https://x.com/michaeljburry/status/2075836197230813517) (2026-07-11)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2087754775496699923) (2026-08-13)
+- [monokern](https://x.com/monokern/status/2088233393817288974) (2026-08-21)
 - [neviannn](https://x.com/neviannn/status/2087254502210490739) (2026-08-13)
 - [nicbstme](https://x.com/nicbstme/status/2084918378368471150) (2026-08-06)
 - [opentensor](https://x.com/opentensor/status/2078858375081627985) (2026-07-21)

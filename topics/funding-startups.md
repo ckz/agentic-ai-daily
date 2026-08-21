@@ -1,10 +1,11 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-20
-total_mentions: 333
+last_seen: 2026-08-21
+total_mentions: 337
 
 ## Related Tweets
+- [0xvietnguyen](https://x.com/0xvietnguyen/status/2088504476865081410) (2026-08-21)
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
 - [5harath](https://x.com/5harath/status/2082161680516063294) (2026-07-29)
 - [90daysliquidity](https://x.com/90daysliquidity/status/2088026533860409432) (2026-08-16)
@@ -56,6 +57,7 @@ total_mentions: 333
 - [Helion_Energy](https://x.com/Helion_Energy/status/2062554317564108825) (2026-06-07)
 - [Hesamation](https://x.com/Hesamation/status/1970585800325640372) (2026-06-07)
 - [HeyRohhit](https://x.com/HeyRohhit/status/2079594120977527102) (2026-07-22)
+- [ILSecOfState](https://x.com/ILSecOfState/status/2088299276841439364) (2026-08-21)
 - [IPONewsroom_](https://x.com/IPONewsroom_/status/2065081323803267479) (2026-06-13)
 - [IREN_Ltd](https://x.com/IREN_Ltd/status/2079162785804812622) (2026-07-26)
 - [InTheAssembly](https://x.com/InTheAssembly/status/2073857255099773185) (2026-07-06)
@@ -65,6 +67,7 @@ total_mentions: 333
 - [JonathanGeige18](https://x.com/JonathanGeige18/status/2088972748953461219) (2026-08-17)
 - [Kalshi](https://x.com/Kalshi/status/2087547153736446426) (2026-08-14)
 - [Kappaemme1926](https://x.com/Kappaemme1926/status/2076637778734153857) (2026-07-14)
+- [Kavya_learns](https://x.com/Kavya_learns/status/2090383561635639754) (2026-08-21)
 - [KenjiCapital](https://x.com/KenjiCapital/status/2087614637499941128) (2026-08-13)
 - [KentonVarda](https://x.com/KentonVarda/status/2084990137180590572) (2026-08-12)
 - [KetchumNfts](https://x.com/KetchumNfts/status/2083457676202086669) (2026-08-02)
@@ -307,6 +310,7 @@ total_mentions: 333
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
 - [suni_code](https://x.com/suni_code/status/2073859515485974967) (2026-07-08)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
+- [tankots](https://x.com/tankots/status/2089372674644713664) (2026-08-21)
 - [tednotlasso](https://x.com/tednotlasso/status/2081022216381305275) (2026-07-28)
 - [tekbog](https://x.com/tekbog/status/2082787768162550105) (2026-08-02)
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)

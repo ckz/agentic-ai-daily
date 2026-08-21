@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-20
-total_mentions: 978
+last_seen: 2026-08-21
+total_mentions: 986
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -278,6 +278,7 @@ total_mentions: 978
 - [Kaffchad](https://x.com/Kaffchad/status/2066380271092662782) (2026-06-15)
 - [KarineRangel7](https://x.com/KarineRangel7/status/2063810800587018439) (2026-06-08)
 - [KaveraMolt](https://x.com/KaveraMolt/status/2066029700875739345) (2026-06-14)
+- [Kavya_learns](https://x.com/Kavya_learns/status/2090383561635639754) (2026-08-21)
 - [KhushiPatil25](https://x.com/KhushiPatil25/status/2068311907925430767) (2026-06-21)
 - [Kimi_Moonshot](https://x.com/Kimi_Moonshot/status/2081762978391843020) (2026-07-29)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2072425629627330995) (2026-07-02)
@@ -334,6 +335,7 @@ total_mentions: 978
 - [Mr_CryptoNest](https://x.com/Mr_CryptoNest/status/2077018071340912776) (2026-07-16)
 - [Mr_Salio](https://x.com/Mr_Salio/status/2079174410330935630) (2026-07-26)
 - [MunnaDomainer](https://x.com/MunnaDomainer/status/2068581514678518144) (2026-06-21)
+- [N01ennn](https://x.com/N01ennn/status/2088606747531358505) (2026-08-21)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
 - [N01ennn](https://x.com/N01ennn/status/2089455117716406706) (2026-08-18)
 - [NFTCPS](https://x.com/NFTCPS/status/2063088254560407926) (2026-06-13)
@@ -388,6 +390,8 @@ total_mentions: 978
 - [Ric_RTP](https://x.com/Ric_RTP/status/2079941508807921958) (2026-07-23)
 - [RishiUvaach](https://x.com/RishiUvaach/status/2087886901932159214) (2026-08-14)
 - [RitOnchain](https://x.com/RitOnchain/status/2088176264335208530) (2026-08-15)
+- [RitOnchain](https://x.com/RitOnchain/status/2090076460698787900) (2026-08-21)
+- [RitOnchain](https://x.com/RitOnchain/status/2090455054876864748) (2026-08-21)
 - [RobertTLange](https://x.com/RobertTLange/status/2081651553929494693) (2026-07-28)
 - [RobinHubHB](https://x.com/RobinHubHB/status/2080004956216611060) (2026-07-29)
 - [RobinHubHB](https://x.com/RobinHubHB/status/2080744829907267752) (2026-07-28)
@@ -791,6 +795,7 @@ total_mentions: 978
 - [levie](https://x.com/levie/status/2089921630650925170) (2026-08-19)
 - [lewiscarhart](https://x.com/lewiscarhart/status/2083610805069611230) (2026-08-02)
 - [liquidai](https://x.com/liquidai/status/2084640701669613906) (2026-08-05)
+- [liquidai](https://x.com/liquidai/status/2090491703652458564) (2026-08-21)
 - [lnmishra](https://x.com/lnmishra/status/2072047572600954992) (2026-07-01)
 - [lucas__crespo](https://x.com/lucas__crespo/status/2084990836446507153) (2026-08-09)
 - [magnusweb3](https://x.com/magnusweb3/status/2080921726582448588) (2026-07-25)
@@ -800,6 +805,7 @@ total_mentions: 978
 - [marfinxx](https://x.com/marfinxx/status/2086785974470668775) (2026-08-11)
 - [marfinxx](https://x.com/marfinxx/status/2087950466244063718) (2026-08-14)
 - [marfinxx](https://x.com/marfinxx/status/2088756456661401946) (2026-08-16)
+- [marfinxx](https://x.com/marfinxx/status/2090409251940319349) (2026-08-21)
 - [marryevan999](https://x.com/marryevan999/status/2077795286332952816) (2026-07-18)
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [maxescu](https://x.com/maxescu/status/2087195649561317511) (2026-08-13)
@@ -821,6 +827,7 @@ total_mentions: 978
 - [mnadirghafoor](https://x.com/mnadirghafoor/status/2071098524826268063) (2026-06-28)
 - [mojeskoqq](https://x.com/mojeskoqq/status/2085273824413503536) (2026-08-09)
 - [monmiglobal](https://x.com/monmiglobal/status/2071399421997359236) (2026-06-29)
+- [monokern](https://x.com/monokern/status/2088233393817288974) (2026-08-21)
 - [mvanhorn](https://x.com/mvanhorn/status/2061978364391592110) (2026-06-07)
 - [mvanhorn](https://x.com/mvanhorn/status/2074955232728281432) (2026-07-09)
 - [myshell_ai](https://x.com/myshell_ai/status/1874804449023266943) (2026-07-10)
@@ -942,6 +949,7 @@ total_mentions: 978
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)
 - [theagenticorg](https://x.com/theagenticorg/status/2073648296761946390) (2026-07-05)
 - [thealexker](https://x.com/thealexker/status/2077841378139426953) (2026-07-17)
+- [thedankoe](https://x.com/thedankoe/status/2090507819229589650) (2026-08-21)
 - [therajansharma](https://x.com/therajansharma/status/2068578446100308157) (2026-06-21)
 - [thesupermanmx](https://x.com/thesupermanmx/status/2088659059008491594) (2026-08-16)
 - [thesupermanmx](https://x.com/thesupermanmx/status/2088977298989129826) (2026-08-17)

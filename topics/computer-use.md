@@ -1,13 +1,14 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-08-20
-total_mentions: 47
+last_seen: 2026-08-21
+total_mentions: 49
 
 ## Related Tweets
 - [AriX](https://x.com/AriX/status/2075282339782095163) (2026-07-13)
 - [Bha74142Shivani](https://x.com/Bha74142Shivani/status/2087441456726524324) (2026-08-12)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2064410897486160099) (2026-06-10)
+- [ClaudeDevs](https://x.com/ClaudeDevs/status/2090540270219567575) (2026-08-21)
 - [CodexReleases](https://x.com/CodexReleases/status/2075265220054782386) (2026-07-11)
 - [Codex_Changelog](https://x.com/Codex_Changelog/status/2062678248790589520) (2026-06-07)
 - [Da7_Tech](https://x.com/Da7_Tech/status/2088580089931866460) (2026-08-20)
@@ -19,6 +20,7 @@ total_mentions: 47
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [Mascobot](https://x.com/Mascobot/status/2065102985362026958) (2026-06-12)
 - [MaxForAI](https://x.com/MaxForAI/status/2089184371886690760) (2026-08-17)
+- [MaxForAI](https://x.com/MaxForAI/status/2090569520717115493) (2026-08-21)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2075275868268789885) (2026-07-11)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2077166520392970529) (2026-07-15)
