@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-21
-total_mentions: 986
+last_seen: 2026-08-22
+total_mentions: 993
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -140,6 +140,7 @@ total_mentions: 986
 - [Artificialunbox](https://x.com/Artificialunbox/status/2068215362114715908) (2026-06-20)
 - [Aurimas_Gr](https://x.com/Aurimas_Gr/status/2084608000610754903) (2026-08-06)
 - [Ausmi129124](https://x.com/Ausmi129124/status/2068589738534260929) (2026-06-21)
+- [Austen](https://x.com/Austen/status/2090778095187849436) (2026-08-22)
 - [Av1dlive](https://x.com/Av1dlive/status/2074796427595874636) (2026-07-10)
 - [Av1dlive](https://x.com/Av1dlive/status/2079996209448780202) (2026-07-25)
 - [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2067914133576749325) (2026-06-21)
@@ -180,6 +181,7 @@ total_mentions: 986
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2066212008782172238) (2026-06-19)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2089423549379559718) (2026-08-19)
 - [DJ_CURFEW](https://x.com/DJ_CURFEW/status/2069499429292568919) (2026-06-29)
+- [DOLAK1NG](https://x.com/DOLAK1NG/status/2000543960943530044) (2026-08-22)
 - [DamiDefi](https://x.com/DamiDefi/status/2034210979475788197) (2026-06-10)
 - [DamiDefi](https://x.com/DamiDefi/status/2037456942684332232) (2026-07-10)
 - [DamiDefi](https://x.com/DamiDefi/status/2064977686263714069) (2026-06-15)
@@ -208,6 +210,7 @@ total_mentions: 986
 - [Devendra_116](https://x.com/Devendra_116/status/2066415805462646839) (2026-06-15)
 - [Dinosn](https://x.com/Dinosn/status/2063512654048608626) (2026-06-07)
 - [Dinosn](https://x.com/Dinosn/status/2070446054701490193) (2026-06-29)
+- [Dipanshu_AI](https://x.com/Dipanshu_AI/status/2090988836906213581) (2026-08-22)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2079620877151502483) (2026-07-23)
 - [DrDatta_AIIMS](https://x.com/DrDatta_AIIMS/status/2085258786403655808) (2026-08-13)
@@ -389,6 +392,7 @@ total_mentions: 986
 - [Revolt_Fi](https://x.com/Revolt_Fi/status/2079266777163522467) (2026-07-21)
 - [Ric_RTP](https://x.com/Ric_RTP/status/2079941508807921958) (2026-07-23)
 - [RishiUvaach](https://x.com/RishiUvaach/status/2087886901932159214) (2026-08-14)
+- [RishiUvaach](https://x.com/RishiUvaach/status/2090068768395248014) (2026-08-22)
 - [RitOnchain](https://x.com/RitOnchain/status/2088176264335208530) (2026-08-15)
 - [RitOnchain](https://x.com/RitOnchain/status/2090076460698787900) (2026-08-21)
 - [RitOnchain](https://x.com/RitOnchain/status/2090455054876864748) (2026-08-21)
@@ -486,6 +490,7 @@ total_mentions: 986
 - [WireNetwork](https://x.com/WireNetwork/status/2064029713421791646) (2026-06-09)
 - [WrangleAi](https://x.com/WrangleAi/status/2083825310982660098) (2026-08-02)
 - [XFreeze](https://x.com/XFreeze/status/2071801039167336638) (2026-06-30)
+- [Xudong07452910](https://x.com/Xudong07452910/status/2090968445378814364) (2026-08-22)
 - [Yaki_fomoArt](https://x.com/Yaki_fomoArt/status/2079623049037701529) (2026-07-26)
 - [Zai_org](https://x.com/Zai_org/status/2066938937344495629) (2026-06-20)
 - [Zev_ee](https://x.com/Zev_ee/status/2063508054641967536) (2026-06-07)
@@ -725,6 +730,7 @@ total_mentions: 986
 - [gotuchintu](https://x.com/gotuchintu/status/2071423007797526577) (2026-06-29)
 - [gotuchintu](https://x.com/gotuchintu/status/2072165345771569372) (2026-07-01)
 - [goyalshaliniuk](https://x.com/goyalshaliniuk/status/2086414689534410986) (2026-08-16)
+- [goyalshaliniuk](https://x.com/goyalshaliniuk/status/2089359091332166027) (2026-08-22)
 - [gravitygotmeup](https://x.com/gravitygotmeup/status/2068193792780591353) (2026-06-20)
 - [gregisenberg](https://x.com/gregisenberg/status/1984641062527197234) (2026-07-16)
 - [gregisenberg](https://x.com/gregisenberg/status/2074287887466582072) (2026-07-07)
@@ -970,6 +976,7 @@ total_mentions: 986
 - [unicity_labs](https://x.com/unicity_labs/status/2074864232621892083) (2026-07-10)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2081851083119288719) (2026-07-28)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2087461469881336049) (2026-08-13)
+- [unicodef1wn](https://x.com/unicodef1wn/status/2088581651332805021) (2026-08-22)
 - [useAtelier](https://x.com/useAtelier/status/2069432826827583560) (2026-06-29)
 - [useOttoAI](https://x.com/useOttoAI/status/2072002562748780717) (2026-07-01)
 - [usmanconsulting](https://x.com/usmanconsulting/status/2067820450856792274) (2026-06-19)

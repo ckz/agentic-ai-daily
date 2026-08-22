@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-08-21
-total_mentions: 49
+last_seen: 2026-08-22
+total_mentions: 51
 
 ## Related Tweets
 - [AriX](https://x.com/AriX/status/2075282339782095163) (2026-07-13)
@@ -22,11 +22,13 @@ total_mentions: 49
 - [MaxForAI](https://x.com/MaxForAI/status/2089184371886690760) (2026-08-17)
 - [MaxForAI](https://x.com/MaxForAI/status/2090569520717115493) (2026-08-21)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
+- [NickADobos](https://x.com/NickADobos/status/2090867101028540684) (2026-08-22)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2075275868268789885) (2026-07-11)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2077166520392970529) (2026-07-15)
 - [Ric_RTP](https://x.com/Ric_RTP/status/2089132632332251293) (2026-08-17)
 - [TeksCreate](https://x.com/TeksCreate/status/2081499683571040408) (2026-07-27)
 - [WesRoth](https://x.com/WesRoth/status/2063833395298533464) (2026-06-10)
+- [Xudong07452910](https://x.com/Xudong07452910/status/2090597249130635389) (2026-08-22)
 - [a16z](https://x.com/a16z/status/2086906363947737406) (2026-08-11)
 - [aakashgupta](https://x.com/aakashgupta/status/2075353796671090794) (2026-07-10)
 - [adcock_brett](https://x.com/adcock_brett/status/2070674685575209066) (2026-06-27)

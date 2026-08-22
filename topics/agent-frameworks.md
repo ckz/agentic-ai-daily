@@ -1,13 +1,14 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-08-21
-total_mentions: 392
+last_seen: 2026-08-22
+total_mentions: 398
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
+- [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
 - [0xMorlex](https://x.com/0xMorlex/status/2083551815895798048) (2026-08-02)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
@@ -50,6 +51,7 @@ total_mentions: 392
 - [Colhodm](https://x.com/Colhodm/status/2072373857999098214) (2026-07-02)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2066212008782172238) (2026-06-19)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2078888332424348158) (2026-07-22)
+- [DOLAK1NG](https://x.com/DOLAK1NG/status/2000543960943530044) (2026-08-22)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DamiDefi](https://x.com/DamiDefi/status/2034210979475788197) (2026-06-10)
 - [DamiDefi](https://x.com/DamiDefi/status/2037456942684332232) (2026-07-10)
@@ -150,6 +152,7 @@ total_mentions: 392
 - [Rahul1539482](https://x.com/Rahul1539482/status/2068215799849091178) (2026-06-20)
 - [RaoulGMI](https://x.com/RaoulGMI/status/2085842971665351165) (2026-08-08)
 - [RishiUvaach](https://x.com/RishiUvaach/status/2082699300648431635) (2026-07-30)
+- [RishiUvaach](https://x.com/RishiUvaach/status/2090068768395248014) (2026-08-22)
 - [RitOnchain](https://x.com/RitOnchain/status/2090076460698787900) (2026-08-21)
 - [RobertTLange](https://x.com/RobertTLange/status/2081651553929494693) (2026-07-28)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2062274372388507726) (2026-06-05)
@@ -295,6 +298,7 @@ total_mentions: 392
 - [gotuchintu](https://x.com/gotuchintu/status/2071423007797526577) (2026-06-29)
 - [gotuchintu](https://x.com/gotuchintu/status/2072165345771569372) (2026-07-01)
 - [goyalshaliniuk](https://x.com/goyalshaliniuk/status/2079529319765033276) (2026-07-22)
+- [goyalshaliniuk](https://x.com/goyalshaliniuk/status/2089359091332166027) (2026-08-22)
 - [gravitygotmeup](https://x.com/gravitygotmeup/status/2068193792780591353) (2026-06-20)
 - [gumterver100](https://x.com/gumterver100/status/2087078337235628286) (2026-08-11)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
@@ -364,6 +368,7 @@ total_mentions: 392
 - [seelffff](https://x.com/seelffff/status/2071118707405816250) (2026-06-29)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
 - [sentient_agency](https://x.com/sentient_agency/status/2071538650425528367) (2026-07-01)
+- [shahidux](https://x.com/shahidux/status/2091027585467605085) (2026-08-22)
 - [shikamarutsai](https://x.com/shikamarutsai/status/2088636457938280724) (2026-08-19)
 - [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)
 - [shushant_l](https://x.com/shushant_l/status/2078707411670704572) (2026-07-19)
@@ -388,6 +393,7 @@ total_mentions: 392
 - [uaghazadae](https://x.com/uaghazadae/status/2087580062593823004) (2026-08-13)
 - [uiuxshasankodas](https://x.com/uiuxshasankodas/status/2087148581899870551) (2026-08-13)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2081851083119288719) (2026-07-28)
+- [unicodef1wn](https://x.com/unicodef1wn/status/2088581651332805021) (2026-08-22)
 - [vechainofficial](https://x.com/vechainofficial/status/2062450242360885371) (2026-06-09)
 - [vercel](https://x.com/vercel/status/2067180054979936413) (2026-06-20)
 - [vicky_grok](https://x.com/vicky_grok/status/2070074685669470672) (2026-06-29)

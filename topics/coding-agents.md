@@ -1,10 +1,11 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-21
-total_mentions: 102
+last_seen: 2026-08-22
+total_mentions: 106
 
 ## Related Tweets
+- [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
 - [AiNicolas75316](https://x.com/AiNicolas75316/status/2079199374819914080) (2026-07-22)
 - [AlexFinn](https://x.com/AlexFinn/status/2076752798532931758) (2026-07-14)
@@ -31,6 +32,8 @@ total_mentions: 102
 - [N01ennn](https://x.com/N01ennn/status/2088606747531358505) (2026-08-21)
 - [N01ennn](https://x.com/N01ennn/status/2089455117716406706) (2026-08-18)
 - [NVIDIAAI](https://x.com/NVIDIAAI/status/2069858097930121319) (2026-06-30)
+- [NVIDIAAI](https://x.com/NVIDIAAI/status/2090786258981466231) (2026-08-22)
+- [NickADobos](https://x.com/NickADobos/status/2090867101028540684) (2026-08-22)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2075275868268789885) (2026-07-11)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
 - [Priyannkaaaa](https://x.com/Priyannkaaaa/status/2083851157324046649) (2026-08-03)
@@ -105,5 +108,6 @@ total_mentions: 102
 - [undefinedKi](https://x.com/undefinedKi/status/2086440382808600645) (2026-08-10)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2082200846243143795) (2026-07-30)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2087461469881336049) (2026-08-13)
+- [unicodef1wn](https://x.com/unicodef1wn/status/2088581651332805021) (2026-08-22)
 - [vechainofficial](https://x.com/vechainofficial/status/2062450242360885371) (2026-06-09)
 - [warpdotdev](https://x.com/warpdotdev/status/1937525185843752969) (2026-06-07)

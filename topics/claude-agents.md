@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-21
-total_mentions: 167
+last_seen: 2026-08-22
+total_mentions: 173
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -28,6 +28,7 @@ total_mentions: 167
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065328920514515037) (2026-06-13)
 - [BTCqzy1](https://x.com/BTCqzy1/status/2087496242071056769) (2026-08-13)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2064345389424324891) (2026-06-14)
+- [BinaryScriptar](https://x.com/BinaryScriptar/status/2090679698351391113) (2026-08-22)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2087190437299941811) (2026-08-21)
 - [CEOGuy](https://x.com/CEOGuy/status/2068212413309010231) (2026-06-20)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2061877349629759847) (2026-06-05)
@@ -63,6 +64,7 @@ total_mentions: 167
 - [N01ennn](https://x.com/N01ennn/status/2088606747531358505) (2026-08-21)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
 - [N01ennn](https://x.com/N01ennn/status/2089455117716406706) (2026-08-18)
+- [NickADobos](https://x.com/NickADobos/status/2090867101028540684) (2026-08-22)
 - [NoahTopper](https://x.com/NoahTopper/status/2081966112691089472) (2026-07-29)
 - [NousResearch](https://x.com/NousResearch/status/2026759005633183980) (2026-06-07)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
@@ -75,6 +77,7 @@ total_mentions: 167
 - [Steve8708](https://x.com/Steve8708/status/2077051086234685641) (2026-07-15)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2081761224241627420) (2026-07-28)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2085050709733495262) (2026-08-10)
+- [Tech_babby](https://x.com/Tech_babby/status/2090746253541810664) (2026-08-22)
 - [TermiusHQ](https://x.com/TermiusHQ/status/2082616764605874207) (2026-07-30)
 - [Ubermenscchh](https://x.com/Ubermenscchh/status/2082120061951856912) (2026-07-29)
 - [WesRoth](https://x.com/WesRoth/status/2043871865513619560) (2026-07-24)
@@ -84,6 +87,8 @@ total_mentions: 167
 - [_0xpainn](https://x.com/_0xpainn/status/2070432605552451963) (2026-08-02)
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
 - [_sarthak4](https://x.com/_sarthak4/status/2087578635670802806) (2026-08-13)
+- [_zheergen](https://x.com/_zheergen/status/2090966669204341076) (2026-08-22)
+- [abskoop](https://x.com/abskoop/status/2090701734138274062) (2026-08-22)
 - [agenticbrew](https://x.com/agenticbrew/status/2072848219084910646) (2026-07-03)
 - [aiedge_](https://x.com/aiedge_/status/2068204707139752359) (2026-06-20)
 - [aiedge_](https://x.com/aiedge_/status/2070016711341040054) (2026-06-27)
@@ -157,6 +162,7 @@ total_mentions: 167
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [sairahul1](https://x.com/sairahul1/status/2077326742218539296) (2026-07-18)
+- [sairahul1](https://x.com/sairahul1/status/2090807997253726488) (2026-08-22)
 - [shannholmberg](https://x.com/shannholmberg/status/2062652746508173796) (2026-06-06)
 - [sharbel](https://x.com/sharbel/status/2063369348828610886) (2026-06-11)
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)

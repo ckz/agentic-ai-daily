@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-21
-total_mentions: 337
+last_seen: 2026-08-22
+total_mentions: 343
 
 ## Related Tweets
 - [0xvietnguyen](https://x.com/0xvietnguyen/status/2088504476865081410) (2026-08-21)
@@ -14,6 +14,7 @@ total_mentions: 337
 - [AITECHLabs](https://x.com/AITECHLabs/status/2083070154548654199) (2026-07-31)
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
+- [AlexMasonCrypto](https://x.com/AlexMasonCrypto/status/2090133773081854263) (2026-08-22)
 - [AlphaCapitalUK](https://x.com/AlphaCapitalUK/status/2079957138730848366) (2026-07-25)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2079915295230038426) (2026-07-23)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2088330041289494736) (2026-08-17)
@@ -81,6 +82,7 @@ total_mentions: 337
 - [MeidasTouch](https://x.com/MeidasTouch/status/2077164264595288203) (2026-07-20)
 - [Mohansinha](https://x.com/Mohansinha/status/2079629691494060368) (2026-07-24)
 - [Motionsbyeddy](https://x.com/Motionsbyeddy/status/2071694912597479912) (2026-07-02)
+- [NFT_Chen](https://x.com/NFT_Chen/status/2090276530962461131) (2026-08-22)
 - [NextLvlFunded](https://x.com/NextLvlFunded/status/2061795412986728637) (2026-06-05)
 - [Nim_Ravid1](https://x.com/Nim_Ravid1/status/2077785419912188236) (2026-07-17)
 - [Okada_DeFi0x](https://x.com/Okada_DeFi0x/status/2070769365763449051) (2026-06-28)
@@ -150,6 +152,7 @@ total_mentions: 337
 - [aakrit](https://x.com/aakrit/status/2065778171912265899) (2026-06-14)
 - [abazwhyllzz](https://x.com/abazwhyllzz/status/2084175411714347129) (2026-08-03)
 - [adriablancafort](https://x.com/adriablancafort/status/2071688701651108309) (2026-06-30)
+- [alexwtlf](https://x.com/alexwtlf/status/2088666562580328570) (2026-08-22)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2074651564136894627) (2026-07-08)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2077570810978463823) (2026-07-16)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2079389181780832579) (2026-07-23)
@@ -163,6 +166,7 @@ total_mentions: 337
 - [arthur__penn](https://x.com/arthur__penn/status/2074352731238916503) (2026-07-07)
 - [ashikruben369](https://x.com/ashikruben369/status/2083601432507478089) (2026-08-02)
 - [ashikruben369](https://x.com/ashikruben369/status/2086121193569153346) (2026-08-14)
+- [askOkara](https://x.com/askOkara/status/2089641580634476718) (2026-08-22)
 - [athanzxyt](https://x.com/athanzxyt/status/2067660560607613032) (2026-06-19)
 - [aw_trades_](https://x.com/aw_trades_/status/2073794807323889781) (2026-07-06)
 - [awwstn](https://x.com/awwstn/status/2067750610963939571) (2026-06-19)
@@ -184,6 +188,7 @@ total_mentions: 337
 - [cb_doge](https://x.com/cb_doge/status/2076291436283396496) (2026-07-18)
 - [chamath](https://x.com/chamath/status/2071571183665881515) (2026-07-01)
 - [chamath](https://x.com/chamath/status/2083463694931902561) (2026-08-14)
+- [charliermarsh](https://x.com/charliermarsh/status/2090924566923067490) (2026-08-22)
 - [christophersaum](https://x.com/christophersaum/status/2069813347420119217) (2026-06-28)
 - [christophersaum](https://x.com/christophersaum/status/2074608938046104035) (2026-07-08)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
@@ -206,6 +211,7 @@ total_mentions: 337
 - [elonmusk](https://x.com/elonmusk/status/2071652181854343349) (2026-07-04)
 - [elonmusk](https://x.com/elonmusk/status/2071673460779041155) (2026-07-02)
 - [ericgudboy](https://x.com/ericgudboy/status/2073282068235321743) (2026-07-04)
+- [ethancole_ai](https://x.com/ethancole_ai/status/2090849492530512046) (2026-08-22)
 - [ethereum](https://x.com/ethereum/status/2079217433059996150) (2026-07-23)
 - [fin465](https://x.com/fin465/status/2079993565019795637) (2026-07-25)
 - [fin465](https://x.com/fin465/status/2081459766287888794) (2026-07-27)
