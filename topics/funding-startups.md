@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-22
-total_mentions: 343
+last_seen: 2026-08-23
+total_mentions: 348
 
 ## Related Tweets
 - [0xvietnguyen](https://x.com/0xvietnguyen/status/2088504476865081410) (2026-08-21)
@@ -80,6 +80,7 @@ total_mentions: 343
 - [Maker17368Maker](https://x.com/Maker17368Maker/status/2062810745210040366) (2026-06-07)
 - [MasashiAONO](https://x.com/MasashiAONO/status/2076147787713163280) (2026-07-12)
 - [MeidasTouch](https://x.com/MeidasTouch/status/2077164264595288203) (2026-07-20)
+- [MicronCEO](https://x.com/MicronCEO/status/2090533293519409610) (2026-08-23)
 - [Mohansinha](https://x.com/Mohansinha/status/2079629691494060368) (2026-07-24)
 - [Motionsbyeddy](https://x.com/Motionsbyeddy/status/2071694912597479912) (2026-07-02)
 - [NFT_Chen](https://x.com/NFT_Chen/status/2090276530962461131) (2026-08-22)
@@ -163,6 +164,7 @@ total_mentions: 343
 - [anupamrjp](https://x.com/anupamrjp/status/2076558763071508656) (2026-07-13)
 - [anuraggoel](https://x.com/anuraggoel/status/2069218653137142074) (2026-06-30)
 - [apnmrev](https://x.com/apnmrev/status/2082074585017823365) (2026-07-30)
+- [artchad](https://x.com/artchad/status/2090555717875015956) (2026-08-23)
 - [arthur__penn](https://x.com/arthur__penn/status/2074352731238916503) (2026-07-07)
 - [ashikruben369](https://x.com/ashikruben369/status/2083601432507478089) (2026-08-02)
 - [ashikruben369](https://x.com/ashikruben369/status/2086121193569153346) (2026-08-14)
@@ -179,6 +181,7 @@ total_mentions: 343
 - [blaire_pang](https://x.com/blaire_pang/status/2081545224372068594) (2026-07-27)
 - [bondaicommunity](https://x.com/bondaicommunity/status/2071466190359220413) (2026-06-29)
 - [brainrulax](https://x.com/brainrulax/status/2087647943444832495) (2026-08-19)
+- [braveben](https://x.com/braveben/status/2091026231269658694) (2026-08-23)
 - [business](https://x.com/business/status/2063849595688407299) (2026-06-08)
 - [business](https://x.com/business/status/2064560376595804273) (2026-06-10)
 - [business](https://x.com/business/status/2089077253778915636) (2026-08-19)
@@ -244,6 +247,7 @@ total_mentions: 343
 - [itsmichaelluu](https://x.com/itsmichaelluu/status/2064692678608990537) (2026-06-11)
 - [itsolelehmann](https://x.com/itsolelehmann/status/2062909345537634686) (2026-06-10)
 - [itsolelehmann](https://x.com/itsolelehmann/status/2084778165986300137) (2026-08-05)
+- [itsolelehmann](https://x.com/itsolelehmann/status/2089543156824146164) (2026-08-23)
 - [james406](https://x.com/james406/status/2055362680299434300) (2026-06-09)
 - [jason_coder0](https://x.com/jason_coder0/status/2072219162135666801) (2026-07-01)
 - [jiahanjimliu](https://x.com/jiahanjimliu/status/2075804539111043085) (2026-07-11)
@@ -321,6 +325,7 @@ total_mentions: 343
 - [tekbog](https://x.com/tekbog/status/2082787768162550105) (2026-08-02)
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)
 - [theaiportfolios](https://x.com/theaiportfolios/status/2074195013257273580) (2026-07-13)
+- [thejustinguo](https://x.com/thejustinguo/status/2091322374327251027) (2026-08-23)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2068965021514891696) (2026-06-27)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2079488476303773921) (2026-07-26)

@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-08-22
-total_mentions: 51
+last_seen: 2026-08-23
+total_mentions: 52
 
 ## Related Tweets
 - [AriX](https://x.com/AriX/status/2075282339782095163) (2026-07-13)
@@ -43,6 +43,7 @@ total_mentions: 51
 - [cursor_ai](https://x.com/cursor_ai/status/2084317547608911986) (2026-08-09)
 - [cwmasaki](https://x.com/cwmasaki/status/2088433897445171301) (2026-08-15)
 - [deedydas](https://x.com/deedydas/status/1898444603071795378) (2026-06-06)
+- [dummerspast39](https://x.com/dummerspast39/status/2091205904662249886) (2026-08-23)
 - [dwarkesh_sp](https://x.com/dwarkesh_sp/status/2070672008946589922) (2026-06-27)
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
 - [ehsanik](https://x.com/ehsanik/status/2070544602164330561) (2026-06-27)

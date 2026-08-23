@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-08-22
-total_mentions: 398
+last_seen: 2026-08-23
+total_mentions: 402
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -15,6 +15,7 @@ total_mentions: 398
 - [AIHighlight](https://x.com/AIHighlight/status/2072712459857645721) (2026-07-04)
 - [AIStockSavvy](https://x.com/AIStockSavvy/status/2079941971108405580) (2026-07-25)
 - [AI_in_Asia](https://x.com/AI_in_Asia/status/2073665028629090615) (2026-07-05)
+- [AIatMeta](https://x.com/AIatMeta/status/2090505413817246050) (2026-08-23)
 - [AIonBase_](https://x.com/AIonBase_/status/2019752568595833185) (2026-07-10)
 - [ANUBISCHAIN_](https://x.com/ANUBISCHAIN_/status/2072571906138706359) (2026-07-02)
 - [APACwebaijobs](https://x.com/APACwebaijobs/status/2064977490213474577) (2026-06-11)
@@ -27,6 +28,7 @@ total_mentions: 398
 - [Akasheth_](https://x.com/Akasheth_/status/2063933265954918837) (2026-06-10)
 - [Alacritic_Super](https://x.com/Alacritic_Super/status/2073340264895438850) (2026-07-05)
 - [AlchemyJ_io](https://x.com/AlchemyJ_io/status/2074319995035939293) (2026-07-07)
+- [AndrewBolis](https://x.com/AndrewBolis/status/2089672416847126974) (2026-08-23)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2062245225159111117) (2026-06-06)
 - [AndrewYNg](https://x.com/AndrewYNg/status/1975614372799283423) (2026-06-12)
 - [AnthropicAI](https://x.com/AnthropicAI/status/2066969532380721386) (2026-06-19)
@@ -73,6 +75,7 @@ total_mentions: 398
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2072415161374343198) (2026-07-08)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2079620877151502483) (2026-07-23)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2091414546103828822) (2026-08-23)
 - [EmmanuelInvest](https://x.com/EmmanuelInvest/status/2076724041302319246) (2026-07-14)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
 - [FastCompany](https://x.com/FastCompany/status/2063149004490149919) (2026-06-06)
@@ -328,6 +331,7 @@ total_mentions: 398
 - [manthanguptaa](https://x.com/manthanguptaa/status/2084895891559981558) (2026-08-12)
 - [mardehaym](https://x.com/mardehaym/status/2081770600087847192) (2026-07-31)
 - [mardehaym](https://x.com/mardehaym/status/2082765372864770087) (2026-07-31)
+- [mardehaym](https://x.com/mardehaym/status/2090391915296444482) (2026-08-23)
 - [marfinxx](https://x.com/marfinxx/status/2086785974470668775) (2026-08-11)
 - [marfinxx](https://x.com/marfinxx/status/2088756456661401946) (2026-08-16)
 - [marfinxx](https://x.com/marfinxx/status/2090409251940319349) (2026-08-21)
