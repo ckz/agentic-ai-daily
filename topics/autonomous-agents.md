@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-23
-total_mentions: 1001
+last_seen: 2026-08-24
+total_mentions: 1007
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -544,6 +544,7 @@ total_mentions: 1001
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2071509401224261823) (2026-06-30)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2078819660980764975) (2026-07-22)
 - [alex_prompter](https://x.com/alex_prompter/status/2077470394303627395) (2026-07-17)
+- [alex_prompter](https://x.com/alex_prompter/status/2091565591756980355) (2026-08-24)
 - [alexandr_wang](https://x.com/alexandr_wang/status/2072848108342677597) (2026-07-03)
 - [alexandr_wang](https://x.com/alexandr_wang/status/2075218936266998230) (2026-07-11)
 - [alexxubyte](https://x.com/alexxubyte/status/2076693603439817057) (2026-07-14)
@@ -651,6 +652,7 @@ total_mentions: 1001
 - [cyrilXBT](https://x.com/cyrilXBT/status/2085204705475748009) (2026-08-06)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2085261842625257870) (2026-08-06)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2085683119320133685) (2026-08-08)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2091746572086206737) (2026-08-24)
 - [d_vuln](https://x.com/d_vuln/status/2065305823631294810) (2026-06-12)
 - [dair_ai](https://x.com/dair_ai/status/2028480209033568475) (2026-06-13)
 - [dair_ai](https://x.com/dair_ai/status/2081560214554419700) (2026-07-27)
@@ -684,6 +686,7 @@ total_mentions: 1001
 - [doublenickk](https://x.com/doublenickk/status/2072088884423332153) (2026-07-01)
 - [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
 - [dr_cintas](https://x.com/dr_cintas/status/2082568767586894179) (2026-07-31)
+- [duty_1g](https://x.com/duty_1g/status/2091195144863158517) (2026-08-24)
 - [e_opore](https://x.com/e_opore/status/2073977846448451776) (2026-07-06)
 - [e_opore](https://x.com/e_opore/status/2077277237334757636) (2026-07-16)
 - [e_opore](https://x.com/e_opore/status/2077591797727887532) (2026-07-22)
@@ -782,6 +785,7 @@ total_mentions: 1001
 - [jargon_sol](https://x.com/jargon_sol/status/2076678485486211091) (2026-07-17)
 - [jasonlk](https://x.com/jasonlk/status/2074304139425931745) (2026-07-07)
 - [jerryjliu0](https://x.com/jerryjliu0/status/2082673383255216356) (2026-07-31)
+- [jerryjliu0](https://x.com/jerryjliu0/status/2091564183922077885) (2026-08-24)
 - [jiayq](https://x.com/jiayq/status/2082135245776920681) (2026-07-29)
 - [johniosifov](https://x.com/johniosifov/status/2081806958667960770) (2026-07-28)
 - [jpschroeder](https://x.com/jpschroeder/status/2085099179110703584) (2026-08-06)
@@ -790,6 +794,7 @@ total_mentions: 1001
 - [karlmehta](https://x.com/karlmehta/status/2071232274738344073) (2026-06-29)
 - [kenAI_domains](https://x.com/kenAI_domains/status/2080371618954490323) (2026-07-24)
 - [kimmonismus](https://x.com/kimmonismus/status/2085812651163296161) (2026-08-08)
+- [kirillk_web3](https://x.com/kirillk_web3/status/2090621157087064304) (2026-08-24)
 - [kuddus0356575](https://x.com/kuddus0356575/status/2073988400865227141) (2026-07-06)
 - [kuddus0356575](https://x.com/kuddus0356575/status/2076907414599962690) (2026-07-15)
 - [kunchenguid](https://x.com/kunchenguid/status/2068367773533667565) (2026-06-21)
@@ -955,6 +960,7 @@ total_mentions: 1001
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
 - [tech0827](https://x.com/tech0827/status/2066035199607968063) (2026-06-14)
 - [techNmak](https://x.com/techNmak/status/2068884177383047439) (2026-06-27)
+- [techNmak](https://x.com/techNmak/status/2091434187446439969) (2026-08-24)
 - [teneo_protocol](https://x.com/teneo_protocol/status/2085770833843167351) (2026-08-08)
 - [tetsuoai](https://x.com/tetsuoai/status/2071775282420445427) (2026-06-30)
 - [tetsuoai](https://x.com/tetsuoai/status/2071817609742532884) (2026-06-30)

@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-08-23
-total_mentions: 52
+last_seen: 2026-08-24
+total_mentions: 53
 
 ## Related Tweets
 - [AriX](https://x.com/AriX/status/2075282339782095163) (2026-07-13)
@@ -48,6 +48,7 @@ total_mentions: 52
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
 - [ehsanik](https://x.com/ehsanik/status/2070544602164330561) (2026-06-27)
 - [gkxspace](https://x.com/gkxspace/status/2068546908360999331) (2026-06-21)
+- [hzlzh](https://x.com/hzlzh/status/2091570012368863571) (2026-08-24)
 - [jxnlco](https://x.com/jxnlco/status/2070577704752267321) (2026-06-27)
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2073646837894992126) (2026-07-05)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2075469825514824153) (2026-07-10)

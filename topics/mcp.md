@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-08-23
-total_mentions: 565
+last_seen: 2026-08-24
+total_mentions: 571
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -104,6 +104,7 @@ total_mentions: 565
 - [FellMentKE](https://x.com/FellMentKE/status/2064573513642758328) (2026-06-10)
 - [FundamentEdge](https://x.com/FundamentEdge/status/2086632605466915006) (2026-08-10)
 - [GcodeXS](https://x.com/GcodeXS/status/2079666529579446545) (2026-07-28)
+- [GergelyOrosz](https://x.com/GergelyOrosz/status/2091248280365682688) (2026-08-24)
 - [GitTrend0x](https://x.com/GitTrend0x/status/2085190556674904253) (2026-08-07)
 - [GithubProjects](https://x.com/GithubProjects/status/2063327571698434443) (2026-06-07)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
@@ -268,6 +269,7 @@ total_mentions: 565
 - [amasad](https://x.com/amasad/status/2080371567221944657) (2026-07-25)
 - [ameliahazelai](https://x.com/ameliahazelai/status/2073345751892062531) (2026-07-06)
 - [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)
+- [amplifiedamp](https://x.com/amplifiedamp/status/2091639162122211601) (2026-08-24)
 - [angeldot_](https://x.com/angeldot_/status/2068306517258907873) (2026-06-21)
 - [angeldot_](https://x.com/angeldot_/status/2086508729797619997) (2026-08-10)
 - [angeldot_](https://x.com/angeldot_/status/2087278481516245168) (2026-08-18)
@@ -349,10 +351,12 @@ total_mentions: 565
 - [dr_cintas](https://x.com/dr_cintas/status/2065260939134280044) (2026-06-12)
 - [dr_cintas](https://x.com/dr_cintas/status/2072714904650359130) (2026-07-03)
 - [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
+- [dr_cintas](https://x.com/dr_cintas/status/2091564489967558674) (2026-08-24)
 - [ds_nakajima](https://x.com/ds_nakajima/status/2086799115904860483) (2026-08-11)
 - [dsp_](https://x.com/dsp_/status/2082173429399142616) (2026-07-29)
 - [dsp_](https://x.com/dsp_/status/2091077636608950581) (2026-08-23)
 - [dummerspast39](https://x.com/dummerspast39/status/2091205904662249886) (2026-08-23)
+- [duty_1g](https://x.com/duty_1g/status/2091195144863158517) (2026-08-24)
 - [e_opore](https://x.com/e_opore/status/2073977846448451776) (2026-07-06)
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
@@ -417,6 +421,7 @@ total_mentions: 565
 - [insomnia_vip](https://x.com/insomnia_vip/status/2065795417313325416) (2026-06-15)
 - [itsolelehmann](https://x.com/itsolelehmann/status/2064393407771095518) (2026-06-10)
 - [jacob_posel](https://x.com/jacob_posel/status/2079249123794972827) (2026-07-22)
+- [jerryjliu0](https://x.com/jerryjliu0/status/2091564183922077885) (2026-08-24)
 - [jorilallo](https://x.com/jorilallo/status/2087277823631204591) (2026-08-15)
 - [josesilesdata](https://x.com/josesilesdata/status/2082814804700319881) (2026-08-03)
 - [justmazer](https://x.com/justmazer/status/2088344886206705880) (2026-08-15)
@@ -531,6 +536,7 @@ total_mentions: 565
 - [tanayj](https://x.com/tanayj/status/2086898879359062142) (2026-08-12)
 - [taycaldwell](https://x.com/taycaldwell/status/2071753251360502131) (2026-06-30)
 - [techNmak](https://x.com/techNmak/status/2068884177383047439) (2026-06-27)
+- [techNmak](https://x.com/techNmak/status/2091434187446439969) (2026-08-24)
 - [techdevnotes](https://x.com/techdevnotes/status/2082546312608719207) (2026-07-30)
 - [tetsuoai](https://x.com/tetsuoai/status/2071775282420445427) (2026-06-30)
 - [tetsuoai](https://x.com/tetsuoai/status/2071817609742532884) (2026-06-30)

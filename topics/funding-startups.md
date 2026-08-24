@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-23
-total_mentions: 348
+last_seen: 2026-08-24
+total_mentions: 350
 
 ## Related Tweets
 - [0xvietnguyen](https://x.com/0xvietnguyen/status/2088504476865081410) (2026-08-21)
@@ -47,6 +47,7 @@ total_mentions: 348
 - [DeRonin_](https://x.com/DeRonin_/status/2087555554830852538) (2026-08-14)
 - [Dhruvam987](https://x.com/Dhruvam987/status/2067811478485582025) (2026-06-19)
 - [FishAudio](https://x.com/FishAudio/status/2082152596739862853) (2026-07-29)
+- [ForwardEditor](https://x.com/ForwardEditor/status/2091534492603220452) (2026-08-24)
 - [FoxNews](https://x.com/FoxNews/status/2085811250995372229) (2026-08-12)
 - [FundedPartners](https://x.com/FundedPartners/status/2066006946860110328) (2026-06-14)
 - [FundingPerps](https://x.com/FundingPerps/status/2079290842624279026) (2026-07-21)
@@ -129,6 +130,7 @@ total_mentions: 348
 - [Suryanshti777](https://x.com/Suryanshti777/status/2062153533630415305) (2026-06-08)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2076764516764008524) (2026-07-14)
 - [Sydusm](https://x.com/Sydusm/status/2086887978752991649) (2026-08-17)
+- [T3chFalcon](https://x.com/T3chFalcon/status/2089279849634439514) (2026-08-24)
 - [TheStartupsMag](https://x.com/TheStartupsMag/status/2068604981318488305) (2026-06-21)
 - [TheoAugust8](https://x.com/TheoAugust8/status/2063166492519158257) (2026-06-06)
 - [TokenizedPod](https://x.com/TokenizedPod/status/2079219793299746929) (2026-07-22)
