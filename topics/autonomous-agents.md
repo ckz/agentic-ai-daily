@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-24
-total_mentions: 1007
+last_seen: 2026-08-25
+total_mentions: 1012
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -123,6 +123,7 @@ total_mentions: 1007
 - [AnthonyNAguirre](https://x.com/AnthonyNAguirre/status/2080523331988500488) (2026-07-26)
 - [AnthropicAI](https://x.com/AnthropicAI/status/2077452646303006927) (2026-07-16)
 - [AnunnakiToken](https://x.com/AnunnakiToken/status/2065341689649037657) (2026-06-12)
+- [Apodex_AI](https://x.com/Apodex_AI/status/2091916791308313018) (2026-08-25)
 - [ApolloHermesX](https://x.com/ApolloHermesX/status/2076758346254667874) (2026-07-14)
 - [Appetiteldn](https://x.com/Appetiteldn/status/2063800638505361587) (2026-06-08)
 - [AravSrinivas](https://x.com/AravSrinivas/status/2067645893394968742) (2026-06-19)
@@ -215,6 +216,7 @@ total_mentions: 1007
 - [Dipanshu_AI](https://x.com/Dipanshu_AI/status/2090988836906213581) (2026-08-22)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2079620877151502483) (2026-07-23)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2091079100291076296) (2026-08-25)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2091414546103828822) (2026-08-23)
 - [DrDatta_AIIMS](https://x.com/DrDatta_AIIMS/status/2085258786403655808) (2026-08-13)
 - [ET_Edge](https://x.com/ET_Edge/status/2083446599729254520) (2026-08-01)
@@ -450,6 +452,7 @@ total_mentions: 1007
 - [StockSavvyShay](https://x.com/StockSavvyShay/status/2072731841204011114) (2026-07-03)
 - [SuiNetwork](https://x.com/SuiNetwork/status/2075716447062618312) (2026-07-11)
 - [Sumanth_077](https://x.com/Sumanth_077/status/2063254456834372040) (2026-06-07)
+- [Sumanth_077](https://x.com/Sumanth_077/status/2091169662956720527) (2026-08-25)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2084693098714599697) (2026-08-05)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2085286044975476808) (2026-08-11)
 - [SvpChain](https://x.com/SvpChain/status/2064935788345974954) (2026-06-11)
@@ -711,6 +714,7 @@ total_mentions: 1007
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2077751107531493523) (2026-07-17)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2084974440895410625) (2026-08-07)
 - [eragon5121](https://x.com/eragon5121/status/2077283768704926200) (2026-07-15)
+- [ericosiu](https://x.com/ericosiu/status/2091231428184822258) (2026-08-25)
 - [ethermage](https://x.com/ethermage/status/1862725151349198879) (2026-06-05)
 - [ethy_agent](https://x.com/ethy_agent/status/2071902096354320438) (2026-07-01)
 - [evanderburg](https://x.com/evanderburg/status/2087412401717359059) (2026-08-12)
@@ -894,6 +898,7 @@ total_mentions: 1007
 - [richardabish_ai](https://x.com/richardabish_ai/status/2065312390523359485) (2026-06-12)
 - [rickdeetweets](https://x.com/rickdeetweets/status/2082186121182925050) (2026-07-29)
 - [ricomaps](https://x.com/ricomaps/status/2079307588261585270) (2026-07-24)
+- [ridark_eth](https://x.com/ridark_eth/status/2091997146731938209) (2026-08-25)
 - [rishflips](https://x.com/rishflips/status/2064954076543205542) (2026-06-11)
 - [robbyant_brain](https://x.com/robbyant_brain/status/2074934394717151241) (2026-07-09)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/1951937837466595357) (2026-06-11)

@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-24
-total_mentions: 107
+last_seen: 2026-08-25
+total_mentions: 108
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -111,4 +111,5 @@ total_mentions: 107
 - [unicodef1wn](https://x.com/unicodef1wn/status/2087461469881336049) (2026-08-13)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2088581651332805021) (2026-08-22)
 - [vechainofficial](https://x.com/vechainofficial/status/2062450242360885371) (2026-06-09)
+- [vercel_dev](https://x.com/vercel_dev/status/2089828083415355806) (2026-08-25)
 - [warpdotdev](https://x.com/warpdotdev/status/1937525185843752969) (2026-06-07)

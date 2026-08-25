@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-24
-total_mentions: 350
+last_seen: 2026-08-25
+total_mentions: 353
 
 ## Related Tweets
 - [0xvietnguyen](https://x.com/0xvietnguyen/status/2088504476865081410) (2026-08-21)
@@ -87,6 +87,7 @@ total_mentions: 350
 - [NFT_Chen](https://x.com/NFT_Chen/status/2090276530962461131) (2026-08-22)
 - [NextLvlFunded](https://x.com/NextLvlFunded/status/2061795412986728637) (2026-06-05)
 - [Nim_Ravid1](https://x.com/Nim_Ravid1/status/2077785419912188236) (2026-07-17)
+- [OfficialNiya_Ng](https://x.com/OfficialNiya_Ng/status/2090025562467192889) (2026-08-25)
 - [Okada_DeFi0x](https://x.com/Okada_DeFi0x/status/2070769365763449051) (2026-06-28)
 - [OpenAI](https://x.com/OpenAI/status/2082146058017321257) (2026-08-04)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
@@ -131,6 +132,7 @@ total_mentions: 350
 - [Suryanshti777](https://x.com/Suryanshti777/status/2076764516764008524) (2026-07-14)
 - [Sydusm](https://x.com/Sydusm/status/2086887978752991649) (2026-08-17)
 - [T3chFalcon](https://x.com/T3chFalcon/status/2089279849634439514) (2026-08-24)
+- [TechCrunch](https://x.com/TechCrunch/status/2090976021600244044) (2026-08-25)
 - [TheStartupsMag](https://x.com/TheStartupsMag/status/2068604981318488305) (2026-06-21)
 - [TheoAugust8](https://x.com/TheoAugust8/status/2063166492519158257) (2026-06-06)
 - [TokenizedPod](https://x.com/TokenizedPod/status/2079219793299746929) (2026-07-22)
@@ -155,6 +157,7 @@ total_mentions: 350
 - [aakrit](https://x.com/aakrit/status/2065778171912265899) (2026-06-14)
 - [abazwhyllzz](https://x.com/abazwhyllzz/status/2084175411714347129) (2026-08-03)
 - [adriablancafort](https://x.com/adriablancafort/status/2071688701651108309) (2026-06-30)
+- [alex_verem](https://x.com/alex_verem/status/2090118956912939041) (2026-08-25)
 - [alexwtlf](https://x.com/alexwtlf/status/2088666562580328570) (2026-08-22)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2074651564136894627) (2026-07-08)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2077570810978463823) (2026-07-16)
