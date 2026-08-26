@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-08-25
-total_mentions: 405
+last_seen: 2026-08-26
+total_mentions: 406
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -262,6 +262,7 @@ total_mentions: 405
 - [coinbureau](https://x.com/coinbureau/status/2031222262112858286) (2026-06-09)
 - [coreyganim](https://x.com/coreyganim/status/2074426194418926020) (2026-07-08)
 - [csaba_kissi](https://x.com/csaba_kissi/status/2074745257099485319) (2026-07-09)
+- [cwolferesearch](https://x.com/cwolferesearch/status/2091872097723359673) (2026-08-26)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2085261842625257870) (2026-08-06)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2085683119320133685) (2026-08-08)
 - [dabit3](https://x.com/dabit3/status/2081841031528493220) (2026-07-29)

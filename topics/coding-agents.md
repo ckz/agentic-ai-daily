@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-25
-total_mentions: 108
+last_seen: 2026-08-26
+total_mentions: 110
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -69,6 +69,7 @@ total_mentions: 108
 - [cyrilXBT](https://x.com/cyrilXBT/status/2071817627484250139) (2026-06-30)
 - [dair_ai](https://x.com/dair_ai/status/2088298364458930462) (2026-08-15)
 - [dexhorthy](https://x.com/dexhorthy/status/2080314136119091431) (2026-07-25)
+- [dr_cintas](https://x.com/dr_cintas/status/1912954389221851524) (2026-08-26)
 - [dr_cintas](https://x.com/dr_cintas/status/2040142054211117218) (2026-06-15)
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
 - [finkd](https://x.com/finkd/status/2085080750034940201) (2026-08-06)
@@ -95,6 +96,7 @@ total_mentions: 108
 - [pushmeet](https://x.com/pushmeet/status/2089717134129565763) (2026-08-19)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
 - [rebel0x0](https://x.com/rebel0x0/status/2067186712758071385) (2026-06-19)
+- [rowancheung](https://x.com/rowancheung/status/1767582332964516243) (2026-08-26)
 - [sairahul1](https://x.com/sairahul1/status/2077326742218539296) (2026-07-18)
 - [seelffff](https://x.com/seelffff/status/2071118707405816250) (2026-06-29)
 - [sharbel](https://x.com/sharbel/status/2055680438417412359) (2026-06-29)

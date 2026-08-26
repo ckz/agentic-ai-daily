@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-25
-total_mentions: 353
+last_seen: 2026-08-26
+total_mentions: 357
 
 ## Related Tweets
 - [0xvietnguyen](https://x.com/0xvietnguyen/status/2088504476865081410) (2026-08-21)
@@ -44,6 +44,7 @@ total_mentions: 353
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2080009523952263295) (2026-07-29)
 - [Codex_Changelog](https://x.com/Codex_Changelog/status/2062678248790589520) (2026-06-07)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2063005594047467893) (2026-06-05)
+- [DavidayoAI](https://x.com/DavidayoAI/status/2091956043240599821) (2026-08-26)
 - [DeRonin_](https://x.com/DeRonin_/status/2087555554830852538) (2026-08-14)
 - [Dhruvam987](https://x.com/Dhruvam987/status/2067811478485582025) (2026-06-19)
 - [FishAudio](https://x.com/FishAudio/status/2082152596739862853) (2026-07-29)
@@ -225,6 +226,7 @@ total_mentions: 353
 - [fin465](https://x.com/fin465/status/2081459766287888794) (2026-07-27)
 - [fin465](https://x.com/fin465/status/2088287274727301259) (2026-08-15)
 - [fundingtraders](https://x.com/fundingtraders/status/2072289577017000341) (2026-07-06)
+- [gauravkheterpal](https://x.com/gauravkheterpal/status/2091523308173107449) (2026-08-26)
 - [gdb](https://x.com/gdb/status/2076686329686171666) (2026-07-14)
 - [gfodor](https://x.com/gfodor/status/2087658547140276534) (2026-08-13)
 - [gkisokay](https://x.com/gkisokay/status/2020853629306212478) (2026-07-25)
@@ -272,6 +274,7 @@ total_mentions: 353
 - [marfinxx](https://x.com/marfinxx/status/2087950466244063718) (2026-08-14)
 - [markiewagner](https://x.com/markiewagner/status/2064778239164461316) (2026-06-11)
 - [marorhab](https://x.com/marorhab/status/2063163950850609431) (2026-06-06)
+- [mattpocockuk](https://x.com/mattpocockuk/status/2091434155561107647) (2026-08-26)
 - [mcuban](https://x.com/mcuban/status/2088787419906576436) (2026-08-18)
 - [mhp_guy](https://x.com/mhp_guy/status/2064453575594664169) (2026-06-12)
 - [mikefutia](https://x.com/mikefutia/status/1932464486646001840) (2026-06-07)
@@ -331,6 +334,7 @@ total_mentions: 353
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)
 - [theaiportfolios](https://x.com/theaiportfolios/status/2074195013257273580) (2026-07-13)
 - [thejustinguo](https://x.com/thejustinguo/status/2091322374327251027) (2026-08-23)
+- [theo_jala](https://x.com/theo_jala/status/2092325621137305875) (2026-08-26)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2068965021514891696) (2026-06-27)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2079488476303773921) (2026-07-26)

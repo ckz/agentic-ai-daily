@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-25
-total_mentions: 1012
+last_seen: 2026-08-26
+total_mentions: 1019
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -87,6 +87,8 @@ total_mentions: 1012
 - [ANUBISCHAIN_](https://x.com/ANUBISCHAIN_/status/2072571906138706359) (2026-07-02)
 - [APompliano](https://x.com/APompliano/status/2079571863642984883) (2026-07-25)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2088179625642152198) (2026-08-17)
+- [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2091798147320127634) (2026-08-26)
+- [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
 - [AdelDeveloperX](https://x.com/AdelDeveloperX/status/2074195359199375745) (2026-07-07)
 - [AgenticAIFdn](https://x.com/AgenticAIFdn/status/2077740129284764108) (2026-07-17)
 - [Agentum_space](https://x.com/Agentum_space/status/2085270382777647471) (2026-08-06)
@@ -130,6 +132,7 @@ total_mentions: 1012
 - [ArcNova_ACI](https://x.com/ArcNova_ACI/status/2073013930440749245) (2026-07-05)
 - [ArchiveExplorer](https://x.com/ArchiveExplorer/status/2076666622043963789) (2026-07-14)
 - [Argona0x](https://x.com/Argona0x/status/2065525815106769169) (2026-06-13)
+- [Argona0x](https://x.com/Argona0x/status/2091946932037906774) (2026-08-26)
 - [AriaWestcott](https://x.com/AriaWestcott/status/2083996549357416566) (2026-08-04)
 - [AroNetwork](https://x.com/AroNetwork/status/2085350184708379001) (2026-08-09)
 - [ArrowFinanceio](https://x.com/ArrowFinanceio/status/2082866606925918282) (2026-08-04)
@@ -640,6 +643,7 @@ total_mentions: 1012
 - [crystal_farm1](https://x.com/crystal_farm1/status/2076198578448367666) (2026-07-12)
 - [csaba_kissi](https://x.com/csaba_kissi/status/2074745257099485319) (2026-07-09)
 - [cwolferesearch](https://x.com/cwolferesearch/status/2068471261441802514) (2026-06-21)
+- [cwolferesearch](https://x.com/cwolferesearch/status/2091872097723359673) (2026-08-26)
 - [cyberoxic_OG](https://x.com/cyberoxic_OG/status/2068229943604216187) (2026-06-20)
 - [cyberport_hk](https://x.com/cyberport_hk/status/2072680620116025411) (2026-07-03)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2060914969605189808) (2026-06-05)
@@ -687,6 +691,7 @@ total_mentions: 1012
 - [dotey](https://x.com/dotey/status/2080460993251951103) (2026-07-31)
 - [dotta](https://x.com/dotta/status/2077029848602874009) (2026-07-15)
 - [doublenickk](https://x.com/doublenickk/status/2072088884423332153) (2026-07-01)
+- [dr_cintas](https://x.com/dr_cintas/status/1912954389221851524) (2026-08-26)
 - [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
 - [dr_cintas](https://x.com/dr_cintas/status/2082568767586894179) (2026-07-31)
 - [duty_1g](https://x.com/duty_1g/status/2091195144863158517) (2026-08-24)
@@ -861,6 +866,7 @@ total_mentions: 1012
 - [nichxbt](https://x.com/nichxbt/status/2071763989030478016) (2026-07-01)
 - [nmkr_io](https://x.com/nmkr_io/status/1857069687034523933) (2026-06-06)
 - [norvex1029](https://x.com/norvex1029/status/2087230353035440452) (2026-08-13)
+- [norvex1029](https://x.com/norvex1029/status/2091528114534863055) (2026-08-26)
 - [nvidia](https://x.com/nvidia/status/2061483007249203644) (2026-06-08)
 - [nvidia](https://x.com/nvidia/status/2061885990705271191) (2026-06-07)
 - [nvidia](https://x.com/nvidia/status/2062557490210852947) (2026-06-09)
@@ -907,6 +913,7 @@ total_mentions: 1012
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2079318538100342854) (2026-07-23)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2085089809371173362) (2026-08-08)
 - [rohit4verse](https://x.com/rohit4verse/status/2083284519550136641) (2026-08-01)
+- [rowancheung](https://x.com/rowancheung/status/1767582332964516243) (2026-08-26)
 - [rushabh96975767](https://x.com/rushabh96975767/status/2075786236451758176) (2026-07-11)
 - [s1rozha_](https://x.com/s1rozha_/status/2072341012735791157) (2026-07-02)
 - [s1rozha_](https://x.com/s1rozha_/status/2078210026410303927) (2026-07-18)
