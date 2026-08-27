@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-08-26
-total_mentions: 55
+last_seen: 2026-08-27
+total_mentions: 56
 
 ## Related Tweets
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
@@ -60,3 +60,4 @@ total_mentions: 55
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
 - [sitinme](https://x.com/sitinme/status/2088172522063691892) (2026-08-15)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)
+- [zcode_ai](https://x.com/zcode_ai/status/2092635718766215590) (2026-08-27)

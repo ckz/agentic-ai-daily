@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-24
-total_mentions: 174
+last_seen: 2026-08-27
+total_mentions: 176
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -43,6 +43,7 @@ total_mentions: 174
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [EXM7777](https://x.com/EXM7777/status/2086512844594679820) (2026-08-14)
 - [Faazsh](https://x.com/Faazsh/status/2068572996076540315) (2026-06-21)
+- [FareaNFts](https://x.com/FareaNFts/status/2092673671676727314) (2026-08-27)
 - [FutureStacked](https://x.com/FutureStacked/status/2074159794030604515) (2026-07-07)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072410041945075729) (2026-07-04)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2074600211364692029) (2026-07-08)
@@ -178,4 +179,5 @@ total_mentions: 174
 - [undefinedKi](https://x.com/undefinedKi/status/2071931934012211642) (2026-07-02)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2087461469881336049) (2026-08-13)
 - [vercel_dev](https://x.com/vercel_dev/status/2065509970775519569) (2026-06-13)
+- [virgilxbt](https://x.com/virgilxbt/status/2092605992953332128) (2026-08-27)
 - [virtuals_io](https://x.com/virtuals_io/status/2063654910995145209) (2026-06-11)

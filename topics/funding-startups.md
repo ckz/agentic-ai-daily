@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-26
-total_mentions: 357
+last_seen: 2026-08-27
+total_mentions: 367
 
 ## Related Tweets
 - [0xvietnguyen](https://x.com/0xvietnguyen/status/2088504476865081410) (2026-08-21)
@@ -38,12 +38,15 @@ total_mentions: 357
 - [BullTheoryio](https://x.com/BullTheoryio/status/2062148017818419548) (2026-06-09)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2064249311492477082) (2026-06-09)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2070088724462084261) (2026-07-02)
+- [CAgovernor](https://x.com/CAgovernor/status/2092691014091939941) (2026-08-27)
 - [Calcalistech](https://x.com/Calcalistech/status/2086659776990110089) (2026-08-10)
 - [ChiefEngineerCE](https://x.com/ChiefEngineerCE/status/2080146134128021841) (2026-07-23)
 - [ChiemeOnah7812](https://x.com/ChiemeOnah7812/status/2068216698759475604) (2026-06-20)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2080009523952263295) (2026-07-29)
 - [Codex_Changelog](https://x.com/Codex_Changelog/status/2062678248790589520) (2026-06-07)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2063005594047467893) (2026-06-05)
+- [CyberRobooo](https://x.com/CyberRobooo/status/2092844038831690046) (2026-08-27)
+- [DNIGabbard](https://x.com/DNIGabbard/status/2065440568423944607) (2026-08-27)
 - [DavidayoAI](https://x.com/DavidayoAI/status/2091956043240599821) (2026-08-26)
 - [DeRonin_](https://x.com/DeRonin_/status/2087555554830852538) (2026-08-14)
 - [Dhruvam987](https://x.com/Dhruvam987/status/2067811478485582025) (2026-06-19)
@@ -84,6 +87,7 @@ total_mentions: 357
 - [MeidasTouch](https://x.com/MeidasTouch/status/2077164264595288203) (2026-07-20)
 - [MicronCEO](https://x.com/MicronCEO/status/2090533293519409610) (2026-08-23)
 - [Mohansinha](https://x.com/Mohansinha/status/2079629691494060368) (2026-07-24)
+- [MollySOShea](https://x.com/MollySOShea/status/2092606579732251060) (2026-08-27)
 - [Motionsbyeddy](https://x.com/Motionsbyeddy/status/2071694912597479912) (2026-07-02)
 - [NFT_Chen](https://x.com/NFT_Chen/status/2090276530962461131) (2026-08-22)
 - [NextLvlFunded](https://x.com/NextLvlFunded/status/2061795412986728637) (2026-06-05)
@@ -165,6 +169,7 @@ total_mentions: 357
 - [amitisinvesting](https://x.com/amitisinvesting/status/2079389181780832579) (2026-07-23)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2083018001557721309) (2026-08-04)
 - [amuse](https://x.com/amuse/status/2070118337607012363) (2026-07-02)
+- [andyburnham](https://x.com/andyburnham/status/2090528243430350885) (2026-08-27)
 - [angeldot_](https://x.com/angeldot_/status/2086839211856929184) (2026-08-15)
 - [ankurnagpal](https://x.com/ankurnagpal/status/2073858342196244665) (2026-07-06)
 - [anupamrjp](https://x.com/anupamrjp/status/2076558763071508656) (2026-07-13)
@@ -175,6 +180,7 @@ total_mentions: 357
 - [ashikruben369](https://x.com/ashikruben369/status/2083601432507478089) (2026-08-02)
 - [ashikruben369](https://x.com/ashikruben369/status/2086121193569153346) (2026-08-14)
 - [askOkara](https://x.com/askOkara/status/2089641580634476718) (2026-08-22)
+- [asklivermore](https://x.com/asklivermore/status/2092591892194381828) (2026-08-27)
 - [athanzxyt](https://x.com/athanzxyt/status/2067660560607613032) (2026-06-19)
 - [aw_trades_](https://x.com/aw_trades_/status/2073794807323889781) (2026-07-06)
 - [awwstn](https://x.com/awwstn/status/2067750610963939571) (2026-06-19)
@@ -195,6 +201,7 @@ total_mentions: 357
 - [cb_doge](https://x.com/cb_doge/status/2062681226633523250) (2026-06-08)
 - [cb_doge](https://x.com/cb_doge/status/2072009965389443374) (2026-07-03)
 - [cb_doge](https://x.com/cb_doge/status/2076291436283396496) (2026-07-18)
+- [cfaprenault](https://x.com/cfaprenault/status/2092667736711180300) (2026-08-27)
 - [chamath](https://x.com/chamath/status/2071571183665881515) (2026-07-01)
 - [chamath](https://x.com/chamath/status/2083463694931902561) (2026-08-14)
 - [charliermarsh](https://x.com/charliermarsh/status/2090924566923067490) (2026-08-22)
@@ -208,6 +215,7 @@ total_mentions: 357
 - [craigweiss](https://x.com/craigweiss/status/2072127436310110488) (2026-07-01)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1872809091799875592) (2026-06-29)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2076868034812096748) (2026-07-14)
+- [darbyw](https://x.com/darbyw/status/2092718828405096955) (2026-08-27)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [deedydas](https://x.com/deedydas/status/2063075876452155728) (2026-06-06)
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
@@ -321,6 +329,7 @@ total_mentions: 357
 - [shmidtqq](https://x.com/shmidtqq/status/2074446282303639911) (2026-07-09)
 - [signulll](https://x.com/signulll/status/2064053145580278163) (2026-06-09)
 - [singularityhack](https://x.com/singularityhack/status/2079237150764134528) (2026-07-22)
+- [skeptrune](https://x.com/skeptrune/status/2092294676594471062) (2026-08-27)
 - [slash1sol](https://x.com/slash1sol/status/2033636802855374982) (2026-06-13)
 - [solovaultinfo](https://x.com/solovaultinfo/status/2068553835598241965) (2026-06-21)
 - [spaceandtech_](https://x.com/spaceandtech_/status/2087905670595223735) (2026-08-16)
@@ -357,6 +366,7 @@ total_mentions: 357
 - [ycombinator](https://x.com/ycombinator/status/2062202902543016140) (2026-06-05)
 - [ycombinator](https://x.com/ycombinator/status/2069110874242252853) (2026-06-28)
 - [ycombinator](https://x.com/ycombinator/status/2085443781797785828) (2026-08-10)
+- [ycombinator](https://x.com/ycombinator/status/2092680754790891676) (2026-08-27)
 - [zachbussey](https://x.com/zachbussey/status/2086833293417205910) (2026-08-13)
 - [zamdoteth](https://x.com/zamdoteth/status/2089289158145569013) (2026-08-20)
 - [zamdoteth](https://x.com/zamdoteth/status/2090000178073763951) (2026-08-20)

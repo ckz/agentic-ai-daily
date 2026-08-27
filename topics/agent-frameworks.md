@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-08-26
-total_mentions: 406
+last_seen: 2026-08-27
+total_mentions: 407
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -358,6 +358,7 @@ total_mentions: 406
 - [ravikiran_dev7](https://x.com/ravikiran_dev7/status/2089558898886021423) (2026-08-18)
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)
 - [rewind02](https://x.com/rewind02/status/2083141563077574747) (2026-08-05)
+- [ridark_eth](https://x.com/ridark_eth/status/2090910472853762491) (2026-08-27)
 - [rileybrown](https://x.com/rileybrown/status/2087235887012749383) (2026-08-15)
 - [riskfreemyth](https://x.com/riskfreemyth/status/2074508129346486679) (2026-07-08)
 - [rohit4verse](https://x.com/rohit4verse/status/2083284519550136641) (2026-08-01)
