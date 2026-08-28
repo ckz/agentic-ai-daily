@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-27
-total_mentions: 176
+last_seen: 2026-08-28
+total_mentions: 177
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -73,6 +73,7 @@ total_mentions: 176
 - [Revolt_Fi](https://x.com/Revolt_Fi/status/2079266777163522467) (2026-07-21)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2074618209073078367) (2026-07-08)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2080046477322105256) (2026-07-23)
+- [RoundtableSpace](https://x.com/RoundtableSpace/status/2093183037475536942) (2026-08-28)
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2079048442073280524) (2026-07-21)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
 - [Steve8708](https://x.com/Steve8708/status/2077051086234685641) (2026-07-15)

@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-08-27
-total_mentions: 56
+last_seen: 2026-08-28
+total_mentions: 57
 
 ## Related Tweets
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
@@ -28,6 +28,7 @@ total_mentions: 56
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2077166520392970529) (2026-07-15)
 - [Ric_RTP](https://x.com/Ric_RTP/status/2089132632332251293) (2026-08-17)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2090382081209909576) (2026-08-26)
+- [SimularAI](https://x.com/SimularAI/status/2093009990663434361) (2026-08-28)
 - [TeksCreate](https://x.com/TeksCreate/status/2081499683571040408) (2026-07-27)
 - [WesRoth](https://x.com/WesRoth/status/2063833395298533464) (2026-06-10)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2090597249130635389) (2026-08-22)

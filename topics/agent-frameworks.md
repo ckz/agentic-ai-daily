@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-08-27
-total_mentions: 407
+last_seen: 2026-08-28
+total_mentions: 414
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -76,7 +76,9 @@ total_mentions: 407
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2079620877151502483) (2026-07-23)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2091414546103828822) (2026-08-23)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2091606495465242825) (2026-08-28)
 - [EmmanuelInvest](https://x.com/EmmanuelInvest/status/2076724041302319246) (2026-07-14)
+- [EthenaFndtn](https://x.com/EthenaFndtn/status/2092976592738001383) (2026-08-28)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
 - [FastCompany](https://x.com/FastCompany/status/2063149004490149919) (2026-06-06)
 - [FourPillarsFP](https://x.com/FourPillarsFP/status/2079870751247609871) (2026-07-28)
@@ -129,6 +131,7 @@ total_mentions: 407
 - [LimestoneHQ](https://x.com/LimestoneHQ/status/2076310897660772466) (2026-07-13)
 - [LuizaJarovsky](https://x.com/LuizaJarovsky/status/2072664971616383227) (2026-07-03)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
+- [MAXdeg0](https://x.com/MAXdeg0/status/2092142425879855254) (2026-08-28)
 - [MarioNawfal](https://x.com/MarioNawfal/status/2085171754415038482) (2026-08-06)
 - [Market_Mind_](https://x.com/Market_Mind_/status/2088651427962921304) (2026-08-17)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
@@ -158,7 +161,9 @@ total_mentions: 407
 - [RishiUvaach](https://x.com/RishiUvaach/status/2090068768395248014) (2026-08-22)
 - [RitOnchain](https://x.com/RitOnchain/status/2090076460698787900) (2026-08-21)
 - [RobertTLange](https://x.com/RobertTLange/status/2081651553929494693) (2026-07-28)
+- [RodmanAi](https://x.com/RodmanAi/status/2091888953037299825) (2026-08-28)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2062274372388507726) (2026-06-05)
+- [RoundtableSpace](https://x.com/RoundtableSpace/status/2093183037475536942) (2026-08-28)
 - [Rukkssss__](https://x.com/Rukkssss__/status/2068218163414642701) (2026-06-20)
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2063086140799012963) (2026-06-06)
 - [SciTechera](https://x.com/SciTechera/status/2087580473560269065) (2026-08-16)
@@ -166,6 +171,7 @@ total_mentions: 407
 - [Seltaa_](https://x.com/Seltaa_/status/2088353576259314024) (2026-08-19)
 - [ShawnYao77](https://x.com/ShawnYao77/status/2082343891689504790) (2026-07-29)
 - [SilenceCaPrompt](https://x.com/SilenceCaPrompt/status/2060769285224739159) (2026-06-06)
+- [SimularAI](https://x.com/SimularAI/status/2093009990663434361) (2026-08-28)
 - [Slappjakke](https://x.com/Slappjakke/status/1924051973378314393) (2026-07-10)
 - [SolanaHub_](https://x.com/SolanaHub_/status/2008992037417185560) (2026-07-10)
 - [SolanaHub_](https://x.com/SolanaHub_/status/2011906234765754646) (2026-07-10)
@@ -360,6 +366,7 @@ total_mentions: 407
 - [rewind02](https://x.com/rewind02/status/2083141563077574747) (2026-08-05)
 - [ridark_eth](https://x.com/ridark_eth/status/2090910472853762491) (2026-08-27)
 - [rileybrown](https://x.com/rileybrown/status/2087235887012749383) (2026-08-15)
+- [rileybrown](https://x.com/rileybrown/status/2092644889762599281) (2026-08-28)
 - [riskfreemyth](https://x.com/riskfreemyth/status/2074508129346486679) (2026-07-08)
 - [rohit4verse](https://x.com/rohit4verse/status/2083284519550136641) (2026-08-01)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)

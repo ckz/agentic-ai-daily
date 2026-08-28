@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-27
-total_mentions: 367
+last_seen: 2026-08-28
+total_mentions: 375
 
 ## Related Tweets
 - [0xvietnguyen](https://x.com/0xvietnguyen/status/2088504476865081410) (2026-08-21)
@@ -50,6 +50,7 @@ total_mentions: 367
 - [DavidayoAI](https://x.com/DavidayoAI/status/2091956043240599821) (2026-08-26)
 - [DeRonin_](https://x.com/DeRonin_/status/2087555554830852538) (2026-08-14)
 - [Dhruvam987](https://x.com/Dhruvam987/status/2067811478485582025) (2026-06-19)
+- [EthenaFndtn](https://x.com/EthenaFndtn/status/2092976592738001383) (2026-08-28)
 - [FishAudio](https://x.com/FishAudio/status/2082152596739862853) (2026-07-29)
 - [ForwardEditor](https://x.com/ForwardEditor/status/2091534492603220452) (2026-08-24)
 - [FoxNews](https://x.com/FoxNews/status/2085811250995372229) (2026-08-12)
@@ -219,6 +220,7 @@ total_mentions: 367
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [deedydas](https://x.com/deedydas/status/2063075876452155728) (2026-06-06)
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
+- [dharmesh](https://x.com/dharmesh/status/2093071931188597042) (2026-08-28)
 - [dhh](https://x.com/dhh/status/2086590006898958752) (2026-08-13)
 - [divaagurlxw](https://x.com/divaagurlxw/status/2088625532070203557) (2026-08-18)
 - [djcows](https://x.com/djcows/status/2074245525021335998) (2026-07-12)
@@ -253,11 +255,14 @@ total_mentions: 367
 - [gregisenberg](https://x.com/gregisenberg/status/2081814601851900221) (2026-08-02)
 - [gregisenberg](https://x.com/gregisenberg/status/2083954605533065561) (2026-08-08)
 - [gregisenberg](https://x.com/gregisenberg/status/2086534549341610457) (2026-08-12)
+- [gregisenberg](https://x.com/gregisenberg/status/2092699140803211682) (2026-08-28)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [heynavtoor](https://x.com/heynavtoor/status/2090103120399655356) (2026-08-20)
+- [hridoyreh](https://x.com/hridoyreh/status/2092152773148328214) (2026-08-28)
 - [iam_elias1](https://x.com/iam_elias1/status/2062095528742240319) (2026-06-05)
 - [ibab](https://x.com/ibab/status/2087145290671468569) (2026-08-12)
 - [inter_link](https://x.com/inter_link/status/2081053524134125832) (2026-07-29)
+- [irabukht](https://x.com/irabukht/status/2092743370804171081) (2026-08-28)
 - [irfan3](https://x.com/irfan3/status/2082699425529638948) (2026-07-30)
 - [itsmichaelluu](https://x.com/itsmichaelluu/status/2064692678608990537) (2026-06-11)
 - [itsolelehmann](https://x.com/itsolelehmann/status/2062909345537634686) (2026-06-10)
@@ -280,6 +285,7 @@ total_mentions: 367
 - [lightspeedvp](https://x.com/lightspeedvp/status/2070182060224852105) (2026-06-27)
 - [marclou](https://x.com/marclou/status/2086700255949865456) (2026-08-15)
 - [marfinxx](https://x.com/marfinxx/status/2087950466244063718) (2026-08-14)
+- [margelo_com](https://x.com/margelo_com/status/2092310982710235294) (2026-08-28)
 - [markiewagner](https://x.com/markiewagner/status/2064778239164461316) (2026-06-11)
 - [marorhab](https://x.com/marorhab/status/2063163950850609431) (2026-06-06)
 - [mattpocockuk](https://x.com/mattpocockuk/status/2091434155561107647) (2026-08-26)
@@ -308,6 +314,7 @@ total_mentions: 367
 - [plpiaoliang](https://x.com/plpiaoliang/status/2082696373955346650) (2026-07-30)
 - [propxwealth](https://x.com/propxwealth/status/2086007408078549329) (2026-08-14)
 - [pubity](https://x.com/pubity/status/2088354976359719140) (2026-08-16)
+- [pulkit_mittal_](https://x.com/pulkit_mittal_/status/2092132911919022181) (2026-08-28)
 - [rahulbais136](https://x.com/rahulbais136/status/2077192536335192463) (2026-07-15)
 - [rauchg](https://x.com/rauchg/status/2088735125744070932) (2026-08-18)
 - [ravikiran_dev7](https://x.com/ravikiran_dev7/status/2088373187981828420) (2026-08-16)
@@ -356,6 +363,7 @@ total_mentions: 367
 - [tylerrwayne](https://x.com/tylerrwayne/status/2081620596862202335) (2026-07-27)
 - [undefinedKi](https://x.com/undefinedKi/status/2063615286301839698) (2026-06-08)
 - [undefinedKi](https://x.com/undefinedKi/status/2088700554310525370) (2026-08-17)
+- [undefinedKi](https://x.com/undefinedKi/status/2092975165420220838) (2026-08-28)
 - [unusual_whales](https://x.com/unusual_whales/status/2069766741404844484) (2026-07-01)
 - [unusual_whales](https://x.com/unusual_whales/status/2079702282443293037) (2026-07-24)
 - [vigneshxtech](https://x.com/vigneshxtech/status/2068597287010349323) (2026-06-21)
