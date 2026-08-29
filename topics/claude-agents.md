@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-28
-total_mentions: 177
+last_seen: 2026-08-29
+total_mentions: 178
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -56,6 +56,7 @@ total_mentions: 177
 - [JJEnglert](https://x.com/JJEnglert/status/2064420538798260388) (2026-06-10)
 - [Jeyxbt](https://x.com/Jeyxbt/status/2067866973497868794) (2026-06-19)
 - [Krishnasagrawal](https://x.com/Krishnasagrawal/status/2076370564831486040) (2026-07-14)
+- [LunarResearcher](https://x.com/LunarResearcher/status/2093310429103558754) (2026-08-29)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
 - [MaxForAI](https://x.com/MaxForAI/status/2089184371886690760) (2026-08-17)
 - [MaxForAI](https://x.com/MaxForAI/status/2090569520717115493) (2026-08-21)

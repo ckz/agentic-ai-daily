@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-08-28
-total_mentions: 599
+last_seen: 2026-08-29
+total_mentions: 606
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -139,6 +139,7 @@ total_mentions: 599
 - [LunarResearcher](https://x.com/LunarResearcher/status/2080629030319980563) (2026-07-26)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2080991836504560095) (2026-07-26)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2082804474116968791) (2026-08-01)
+- [LunarResearcher](https://x.com/LunarResearcher/status/2093310429103558754) (2026-08-29)
 - [MCGlive](https://x.com/MCGlive/status/2063016512521441777) (2026-06-05)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2083264047299092486) (2026-08-02)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2085433401562308987) (2026-08-07)
@@ -206,6 +207,7 @@ total_mentions: 599
 - [ShenSeanChen](https://x.com/ShenSeanChen/status/2081118331097284801) (2026-07-27)
 - [ShenSeanChen](https://x.com/ShenSeanChen/status/2086931006376784130) (2026-08-13)
 - [SilenceCaPrompt](https://x.com/SilenceCaPrompt/status/2060769285224739159) (2026-06-06)
+- [SkyeSharkie](https://x.com/SkyeSharkie/status/2092122622834442581) (2026-08-29)
 - [Smartpigai](https://x.com/Smartpigai/status/2063095358075597009) (2026-06-08)
 - [Solvaix](https://x.com/Solvaix/status/2082190359539712344) (2026-07-29)
 - [Solvaix](https://x.com/Solvaix/status/2083282682746704013) (2026-08-02)
@@ -236,6 +238,7 @@ total_mentions: 599
 - [VivekIntel](https://x.com/VivekIntel/status/2073996440326873221) (2026-07-13)
 - [Voxyz_ai](https://x.com/Voxyz_ai/status/2082582856182989263) (2026-07-30)
 - [Voxyz_ai](https://x.com/Voxyz_ai/status/2089324197981950408) (2026-08-19)
+- [Voxyz_ai](https://x.com/Voxyz_ai/status/2092952771150680387) (2026-08-29)
 - [WenboGuo4](https://x.com/WenboGuo4/status/2074189902657544627) (2026-07-08)
 - [WhaleInsider](https://x.com/WhaleInsider/status/2083505184714473983) (2026-08-05)
 - [XDevelopers](https://x.com/XDevelopers/status/2071752389183647758) (2026-06-30)
@@ -315,6 +318,7 @@ total_mentions: 599
 - [bucket0dotcom](https://x.com/bucket0dotcom/status/2068553823635796170) (2026-06-21)
 - [cTrader](https://x.com/cTrader/status/2062503096375263532) (2026-06-05)
 - [cb_doge](https://x.com/cb_doge/status/2093024115620004154) (2026-08-28)
+- [cb_doge](https://x.com/cb_doge/status/2093481818544844864) (2026-08-29)
 - [chanducore](https://x.com/chanducore/status/2065670751781589413) (2026-06-13)
 - [charliejhills](https://x.com/charliejhills/status/2061702209310761142) (2026-06-06)
 - [charliejhills](https://x.com/charliejhills/status/2076221471375122811) (2026-07-14)
@@ -330,6 +334,7 @@ total_mentions: 599
 - [coder_surya](https://x.com/coder_surya/status/2068597286230163759) (2026-06-21)
 - [coder_surya](https://x.com/coder_surya/status/2074093504188600351) (2026-07-07)
 - [codyschneider](https://x.com/codyschneider/status/2084369982918406433) (2026-08-04)
+- [coinbureau](https://x.com/coinbureau/status/2093435450681909687) (2026-08-29)
 - [contextconor](https://x.com/contextconor/status/2092130691937157483) (2026-08-25)
 - [cooltechtipz](https://x.com/cooltechtipz/status/2066394613410406460) (2026-06-15)
 - [cryptobuzzer03](https://x.com/cryptobuzzer03/status/2067855094327001574) (2026-06-19)
@@ -371,6 +376,7 @@ total_mentions: 599
 - [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
 - [dr_cintas](https://x.com/dr_cintas/status/2091564489967558674) (2026-08-24)
 - [ds_nakajima](https://x.com/ds_nakajima/status/2086799115904860483) (2026-08-11)
+- [dschwarz26](https://x.com/dschwarz26/status/2093352278627684644) (2026-08-29)
 - [dsp_](https://x.com/dsp_/status/2082173429399142616) (2026-07-29)
 - [dsp_](https://x.com/dsp_/status/2091077636608950581) (2026-08-23)
 - [dummerspast39](https://x.com/dummerspast39/status/2091205904662249886) (2026-08-23)
@@ -578,6 +584,7 @@ total_mentions: 599
 - [tom_doerr](https://x.com/tom_doerr/status/2066042496933662753) (2026-06-14)
 - [tom_doerr](https://x.com/tom_doerr/status/2071309381455519803) (2026-06-29)
 - [tom_doerr](https://x.com/tom_doerr/status/2092279365937553887) (2026-08-26)
+- [tom_doerr](https://x.com/tom_doerr/status/2092436552924155960) (2026-08-29)
 - [twetsfyp](https://x.com/twetsfyp/status/2078387675447328957) (2026-07-19)
 - [uaghazadae](https://x.com/uaghazadae/status/2087580062593823004) (2026-08-13)
 - [undefinedKi](https://x.com/undefinedKi/status/2066159485652025597) (2026-06-15)

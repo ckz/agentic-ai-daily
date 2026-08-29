@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-08-28
-total_mentions: 414
+last_seen: 2026-08-29
+total_mentions: 416
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -41,6 +41,7 @@ total_mentions: 414
 - [Av1dlive](https://x.com/Av1dlive/status/2082807521161654576) (2026-07-31)
 - [Av1dlive](https://x.com/Av1dlive/status/2085421980434698739) (2026-08-10)
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
+- [Benioff](https://x.com/Benioff/status/2092705110082347011) (2026-08-29)
 - [BestAIToolFind](https://x.com/BestAIToolFind/status/2087737224456732920) (2026-08-13)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2089511874824212925) (2026-08-18)
@@ -50,6 +51,7 @@ total_mentions: 414
 - [CherryEOrtega](https://x.com/CherryEOrtega/status/2085996021008748799) (2026-08-08)
 - [ChiomaChukwura2](https://x.com/ChiomaChukwura2/status/2085162277288976842) (2026-08-09)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2064756984617021807) (2026-06-11)
+- [ColeMacro](https://x.com/ColeMacro/status/2092270223827325432) (2026-08-29)
 - [Colhodm](https://x.com/Colhodm/status/2072373857999098214) (2026-07-02)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2066212008782172238) (2026-06-19)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2078888332424348158) (2026-07-22)

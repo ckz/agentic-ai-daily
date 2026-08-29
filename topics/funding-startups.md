@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-28
-total_mentions: 375
+last_seen: 2026-08-29
+total_mentions: 380
 
 ## Related Tweets
 - [0xvietnguyen](https://x.com/0xvietnguyen/status/2088504476865081410) (2026-08-21)
@@ -43,6 +43,7 @@ total_mentions: 375
 - [ChiefEngineerCE](https://x.com/ChiefEngineerCE/status/2080146134128021841) (2026-07-23)
 - [ChiemeOnah7812](https://x.com/ChiemeOnah7812/status/2068216698759475604) (2026-06-20)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2080009523952263295) (2026-07-29)
+- [ClaudeDevs](https://x.com/ClaudeDevs/status/2093480630801858750) (2026-08-29)
 - [Codex_Changelog](https://x.com/Codex_Changelog/status/2062678248790589520) (2026-06-07)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2063005594047467893) (2026-06-05)
 - [CyberRobooo](https://x.com/CyberRobooo/status/2092844038831690046) (2026-08-27)
@@ -58,6 +59,7 @@ total_mentions: 375
 - [FundingPerps](https://x.com/FundingPerps/status/2079290842624279026) (2026-07-21)
 - [FundingPredicts](https://x.com/FundingPredicts/status/2074286339009229172) (2026-07-07)
 - [FundingPredicts](https://x.com/FundingPredicts/status/2076561972913475742) (2026-07-13)
+- [FundingPredicts](https://x.com/FundingPredicts/status/2093452683008979134) (2026-08-29)
 - [GAXEN10](https://x.com/GAXEN10/status/2068603068753596431) (2026-06-21)
 - [GrishinRobotics](https://x.com/GrishinRobotics/status/2067880410676187569) (2026-06-19)
 - [HVemasani](https://x.com/HVemasani/status/2089593578473574842) (2026-08-20)
@@ -93,6 +95,7 @@ total_mentions: 375
 - [NFT_Chen](https://x.com/NFT_Chen/status/2090276530962461131) (2026-08-22)
 - [NextLvlFunded](https://x.com/NextLvlFunded/status/2061795412986728637) (2026-06-05)
 - [Nim_Ravid1](https://x.com/Nim_Ravid1/status/2077785419912188236) (2026-07-17)
+- [Nitaj333](https://x.com/Nitaj333/status/2093342512911925392) (2026-08-29)
 - [OfficialNiya_Ng](https://x.com/OfficialNiya_Ng/status/2090025562467192889) (2026-08-25)
 - [Okada_DeFi0x](https://x.com/Okada_DeFi0x/status/2070769365763449051) (2026-06-28)
 - [OpenAI](https://x.com/OpenAI/status/2082146058017321257) (2026-08-04)
@@ -202,6 +205,7 @@ total_mentions: 375
 - [cb_doge](https://x.com/cb_doge/status/2062681226633523250) (2026-06-08)
 - [cb_doge](https://x.com/cb_doge/status/2072009965389443374) (2026-07-03)
 - [cb_doge](https://x.com/cb_doge/status/2076291436283396496) (2026-07-18)
+- [cb_doge](https://x.com/cb_doge/status/2093481818544844864) (2026-08-29)
 - [cfaprenault](https://x.com/cfaprenault/status/2092667736711180300) (2026-08-27)
 - [chamath](https://x.com/chamath/status/2071571183665881515) (2026-07-01)
 - [chamath](https://x.com/chamath/status/2083463694931902561) (2026-08-14)
@@ -284,6 +288,7 @@ total_mentions: 375
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
 - [lightspeedvp](https://x.com/lightspeedvp/status/2070182060224852105) (2026-06-27)
 - [marclou](https://x.com/marclou/status/2086700255949865456) (2026-08-15)
+- [marcrandolph](https://x.com/marcrandolph/status/2093141802610254231) (2026-08-29)
 - [marfinxx](https://x.com/marfinxx/status/2087950466244063718) (2026-08-14)
 - [margelo_com](https://x.com/margelo_com/status/2092310982710235294) (2026-08-28)
 - [markiewagner](https://x.com/markiewagner/status/2064778239164461316) (2026-06-11)

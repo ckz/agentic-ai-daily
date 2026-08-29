@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-28
-total_mentions: 1043
+last_seen: 2026-08-29
+total_mentions: 1049
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -122,6 +122,7 @@ total_mentions: 1043
 - [AndrewYNg](https://x.com/AndrewYNg/status/1975614372799283423) (2026-06-12)
 - [AndrewYNg](https://x.com/AndrewYNg/status/2061477558693384395) (2026-06-07)
 - [AndrewYNg](https://x.com/AndrewYNg/status/2071988145667928442) (2026-07-01)
+- [AndrewYNg](https://x.com/AndrewYNg/status/2093388974194872781) (2026-08-29)
 - [AnhNguyen136515](https://x.com/AnhNguyen136515/status/2073299705971536262) (2026-07-04)
 - [AnthonyNAguirre](https://x.com/AnthonyNAguirre/status/2080523331988500488) (2026-07-26)
 - [AnthropicAI](https://x.com/AnthropicAI/status/2077452646303006927) (2026-07-16)
@@ -323,6 +324,7 @@ total_mentions: 1043
 - [LunarResearcher](https://x.com/LunarResearcher/status/2082804474116968791) (2026-08-01)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2084407746330296679) (2026-08-05)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2085365001007558738) (2026-08-11)
+- [LunarResearcher](https://x.com/LunarResearcher/status/2093310429103558754) (2026-08-29)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2090697430756904964) (2026-08-23)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2092142425879855254) (2026-08-28)
 - [MTSlive](https://x.com/MTSlive/status/2085098975707996558) (2026-08-06)
@@ -610,6 +612,8 @@ total_mentions: 1043
 - [bindureddy](https://x.com/bindureddy/status/2087034287396938177) (2026-08-11)
 - [biswaasen](https://x.com/biswaasen/status/2072065994152145370) (2026-07-01)
 - [bizbreakdowns](https://x.com/bizbreakdowns/status/2081711200643985720) (2026-07-29)
+- [bl888m_eth](https://x.com/bl888m_eth/status/2092298671639691703) (2026-08-29)
+- [bl888m_eth](https://x.com/bl888m_eth/status/2092638536994587038) (2026-08-29)
 - [bondaicommunity](https://x.com/bondaicommunity/status/2071466190359220413) (2026-06-29)
 - [bonduelleioat](https://x.com/bonduelleioat/status/2075607394428617199) (2026-07-13)
 - [bonsaixbt](https://x.com/bonsaixbt/status/2077722769194615193) (2026-07-17)
@@ -688,6 +692,7 @@ total_mentions: 1043
 - [dawnsongtweets](https://x.com/dawnsongtweets/status/2087256652756172834) (2026-08-14)
 - [deanwball](https://x.com/deanwball/status/2078133895766114412) (2026-07-20)
 - [dee_hw](https://x.com/dee_hw/status/2089388227971219643) (2026-08-18)
+- [dee_naliaks](https://x.com/dee_naliaks/status/2093367019869773895) (2026-08-29)
 - [degen_mike14](https://x.com/degen_mike14/status/2072413220703236391) (2026-07-03)
 - [dexhorthy](https://x.com/dexhorthy/status/2067286892786454855) (2026-06-19)
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
@@ -710,6 +715,7 @@ total_mentions: 1043
 - [dr_cintas](https://x.com/dr_cintas/status/1912954389221851524) (2026-08-26)
 - [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
 - [dr_cintas](https://x.com/dr_cintas/status/2082568767586894179) (2026-07-31)
+- [dschwarz26](https://x.com/dschwarz26/status/2093352278627684644) (2026-08-29)
 - [duty_1g](https://x.com/duty_1g/status/2091195144863158517) (2026-08-24)
 - [e_opore](https://x.com/e_opore/status/2073977846448451776) (2026-07-06)
 - [e_opore](https://x.com/e_opore/status/2077277237334757636) (2026-07-16)
