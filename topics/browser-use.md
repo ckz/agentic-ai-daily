@@ -1,8 +1,8 @@
 # Browser Use
 
 first_seen: 2026-06-07
-last_seen: 2026-08-28
-total_mentions: 27
+last_seen: 2026-08-30
+total_mentions: 28
 
 ## Related Tweets
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
@@ -31,4 +31,5 @@ total_mentions: 27
 - [mfishbein](https://x.com/mfishbein/status/2081031938228232360) (2026-07-27)
 - [sauda_coder](https://x.com/sauda_coder/status/2078463245657211007) (2026-07-20)
 - [trevin](https://x.com/trevin/status/2091696470424686749) (2026-08-24)
+- [vellum_ai](https://x.com/vellum_ai/status/2093020764400136289) (2026-08-30)
 - [zcode_ai](https://x.com/zcode_ai/status/2092635718766215590) (2026-08-27)

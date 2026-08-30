@@ -1,10 +1,11 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-29
-total_mentions: 380
+last_seen: 2026-08-30
+total_mentions: 385
 
 ## Related Tweets
+- [0xmarginman](https://x.com/0xmarginman/status/2093147453058863316) (2026-08-30)
 - [0xvietnguyen](https://x.com/0xvietnguyen/status/2088504476865081410) (2026-08-21)
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
 - [5harath](https://x.com/5harath/status/2082161680516063294) (2026-07-29)
@@ -52,6 +53,7 @@ total_mentions: 380
 - [DeRonin_](https://x.com/DeRonin_/status/2087555554830852538) (2026-08-14)
 - [Dhruvam987](https://x.com/Dhruvam987/status/2067811478485582025) (2026-06-19)
 - [EthenaFndtn](https://x.com/EthenaFndtn/status/2092976592738001383) (2026-08-28)
+- [FT](https://x.com/FT/status/2092858183907741818) (2026-08-30)
 - [FishAudio](https://x.com/FishAudio/status/2082152596739862853) (2026-07-29)
 - [ForwardEditor](https://x.com/ForwardEditor/status/2091534492603220452) (2026-08-24)
 - [FoxNews](https://x.com/FoxNews/status/2085811250995372229) (2026-08-12)
@@ -304,6 +306,7 @@ total_mentions: 380
 - [nanransohoff](https://x.com/nanransohoff/status/2069761661456601188) (2026-06-28)
 - [neerajjj6785](https://x.com/neerajjj6785/status/2088897032283181080) (2026-08-17)
 - [nextjs](https://x.com/nextjs/status/2071647669467201657) (2026-07-02)
+- [nicochristie](https://x.com/nicochristie/status/2093729344871170219) (2026-08-30)
 - [noah_schochet](https://x.com/noah_schochet/status/2077044441978737104) (2026-07-17)
 - [patrick_oshag](https://x.com/patrick_oshag/status/2089713931183153293) (2026-08-19)
 - [paulg](https://x.com/paulg/status/2063091245334044902) (2026-06-06)
@@ -346,6 +349,7 @@ total_mentions: 380
 - [solovaultinfo](https://x.com/solovaultinfo/status/2068553835598241965) (2026-06-21)
 - [spaceandtech_](https://x.com/spaceandtech_/status/2087905670595223735) (2026-08-16)
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
+- [stevenfiorillo](https://x.com/stevenfiorillo/status/2093840650223358375) (2026-08-30)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
 - [suni_code](https://x.com/suni_code/status/2073859515485974967) (2026-07-08)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
@@ -376,6 +380,7 @@ total_mentions: 380
 - [wickedguro](https://x.com/wickedguro/status/2072654822449586327) (2026-07-09)
 - [wickedguro](https://x.com/wickedguro/status/2081582808041210156) (2026-07-27)
 - [xandurglar](https://x.com/xandurglar/status/2070179038417821777) (2026-06-29)
+- [yamanzdh](https://x.com/yamanzdh/status/2093504999158600161) (2026-08-30)
 - [ycombinator](https://x.com/ycombinator/status/2062202902543016140) (2026-06-05)
 - [ycombinator](https://x.com/ycombinator/status/2069110874242252853) (2026-06-28)
 - [ycombinator](https://x.com/ycombinator/status/2085443781797785828) (2026-08-10)

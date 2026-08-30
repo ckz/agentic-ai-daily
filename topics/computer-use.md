@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-08-29
-total_mentions: 58
+last_seen: 2026-08-30
+total_mentions: 60
 
 ## Related Tweets
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
@@ -38,6 +38,7 @@ total_mentions: 58
 - [adcock_brett](https://x.com/adcock_brett/status/2070674685575209066) (2026-06-27)
 - [aiedge_](https://x.com/aiedge_/status/2074320056008560691) (2026-07-14)
 - [ajambrosino](https://x.com/ajambrosino/status/2075274357715427618) (2026-07-18)
+- [akshay_pachaar](https://x.com/akshay_pachaar/status/2093749877272715636) (2026-08-30)
 - [amasad](https://x.com/amasad/status/2065452585964949831) (2026-06-15)
 - [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)
 - [arturovilla](https://x.com/arturovilla/status/2087625765529461145) (2026-08-19)
@@ -47,6 +48,7 @@ total_mentions: 58
 - [cursor_ai](https://x.com/cursor_ai/status/2084317547608911986) (2026-08-09)
 - [cwmasaki](https://x.com/cwmasaki/status/2088433897445171301) (2026-08-15)
 - [deedydas](https://x.com/deedydas/status/1898444603071795378) (2026-06-06)
+- [deviparikh](https://x.com/deviparikh/status/2092647579163251007) (2026-08-30)
 - [dummerspast39](https://x.com/dummerspast39/status/2091205904662249886) (2026-08-23)
 - [dwarkesh_sp](https://x.com/dwarkesh_sp/status/2070672008946589922) (2026-06-27)
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)

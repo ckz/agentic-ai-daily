@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-29
-total_mentions: 1049
+last_seen: 2026-08-30
+total_mentions: 1057
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -164,6 +164,7 @@ total_mentions: 1049
 - [BitBlitzBuzz](https://x.com/BitBlitzBuzz/status/2070751322715148478) (2026-06-27)
 - [Bl0ckZer0](https://x.com/Bl0ckZer0/status/2086356362787770530) (2026-08-09)
 - [Bober_smart](https://x.com/Bober_smart/status/2090056811390861686) (2026-08-20)
+- [Bober_smart](https://x.com/Bober_smart/status/2092960076642336816) (2026-08-30)
 - [BradGroux](https://x.com/BradGroux/status/2065096482831659348) (2026-06-13)
 - [Brainm8ion](https://x.com/Brainm8ion/status/2087751034944803135) (2026-08-13)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
@@ -372,6 +373,7 @@ total_mentions: 1049
 - [NotebookLM](https://x.com/NotebookLM/status/2064016460964585549) (2026-06-11)
 - [NousResearch](https://x.com/NousResearch/status/2026759005633183980) (2026-06-07)
 - [NuryVittachi](https://x.com/NuryVittachi/status/2085178025055031587) (2026-08-11)
+- [OSACrypto1](https://x.com/OSACrypto1/status/2093684531731603613) (2026-08-30)
 - [Okada_DeFi0x](https://x.com/Okada_DeFi0x/status/2070769365763449051) (2026-06-28)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/1975269391244874103) (2026-06-08)
 - [OpenAI](https://x.com/OpenAI/status/2062281977122996256) (2026-06-05)
@@ -605,6 +607,7 @@ total_mentions: 1049
 - [beamnxw](https://x.com/beamnxw/status/2083539500165149086) (2026-08-02)
 - [beamnxw](https://x.com/beamnxw/status/2084985269975928983) (2026-08-07)
 - [beamnxw](https://x.com/beamnxw/status/2085787859680637092) (2026-08-11)
+- [beamnxw](https://x.com/beamnxw/status/2093054521056665983) (2026-08-30)
 - [bhavesharora02](https://x.com/bhavesharora02/status/2068176324083298796) (2026-06-20)
 - [bijoyweb](https://x.com/bijoyweb/status/2078343865665503366) (2026-07-18)
 - [bindureddy](https://x.com/bindureddy/status/2019578857251393929) (2026-06-08)
@@ -684,6 +687,7 @@ total_mentions: 1049
 - [dair_ai](https://x.com/dair_ai/status/2081560214554419700) (2026-07-27)
 - [dair_ai](https://x.com/dair_ai/status/2081770344952803628) (2026-07-28)
 - [dair_ai](https://x.com/dair_ai/status/2088298364458930462) (2026-08-15)
+- [dair_ai](https://x.com/dair_ai/status/2092260466190106974) (2026-08-30)
 - [dan__rosenthal](https://x.com/dan__rosenthal/status/2086165641594048875) (2026-08-09)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [databricks](https://x.com/databricks/status/2070517714746012080) (2026-06-27)
@@ -790,6 +794,7 @@ total_mentions: 1049
 - [heyrimsha](https://x.com/heyrimsha/status/2079230095345209479) (2026-07-22)
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2072161434558201960) (2026-07-05)
 - [hijkzzz](https://x.com/hijkzzz/status/2076843539426836874) (2026-07-14)
+- [hossainriad64](https://x.com/hossainriad64/status/2093931756634448088) (2026-08-30)
 - [hot_town](https://x.com/hot_town/status/2084999228439376119) (2026-08-06)
 - [howietl](https://x.com/howietl/status/2057823823526014990) (2026-06-19)
 - [humafinance](https://x.com/humafinance/status/2062445243711279528) (2026-06-08)
@@ -898,6 +903,7 @@ total_mentions: 1049
 - [nvidia](https://x.com/nvidia/status/2062557490210852947) (2026-06-09)
 - [nvidia](https://x.com/nvidia/status/2071654937335926864) (2026-06-30)
 - [nvidia](https://x.com/nvidia/status/2074979063106843131) (2026-07-13)
+- [nvidia](https://x.com/nvidia/status/2092269109086126575) (2026-08-30)
 - [nvidianewsroom](https://x.com/nvidianewsroom/status/2092720651576414611) (2026-08-27)
 - [obscaries](https://x.com/obscaries/status/2066019802016354811) (2026-06-14)
 - [officialbunnyos](https://x.com/officialbunnyos/status/2089938164916060444) (2026-08-19)
@@ -914,6 +920,7 @@ total_mentions: 1049
 - [ordo_chain](https://x.com/ordo_chain/status/2073312746381181174) (2026-07-04)
 - [paywithmana](https://x.com/paywithmana/status/2074758476220473387) (2026-07-08)
 - [praveenTweets](https://x.com/praveenTweets/status/2074605343439810922) (2026-07-09)
+- [praveenTweets](https://x.com/praveenTweets/status/2093012409841774782) (2026-08-30)
 - [promptparag](https://x.com/promptparag/status/2064311991842574695) (2026-06-10)
 - [pushmeet](https://x.com/pushmeet/status/2065917699222560928) (2026-06-15)
 - [quantscience_](https://x.com/quantscience_/status/2073741980526313859) (2026-07-06)
@@ -1025,6 +1032,7 @@ total_mentions: 1049
 - [tom_doerr](https://x.com/tom_doerr/status/2072636601033715736) (2026-07-08)
 - [tomik99](https://x.com/tomik99/status/2090325415038489061) (2026-08-20)
 - [trending_repos](https://x.com/trending_repos/status/2086424362635206986) (2026-08-11)
+- [trevin](https://x.com/trevin/status/2092011026242027644) (2026-08-30)
 - [trikcode](https://x.com/trikcode/status/2084420246039851517) (2026-08-04)
 - [trythreews](https://x.com/trythreews/status/2075519714890334698) (2026-07-12)
 - [typesfast](https://x.com/typesfast/status/2086837223148962283) (2026-08-11)
