@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-30
-total_mentions: 385
+last_seen: 2026-08-31
+total_mentions: 388
 
 ## Related Tweets
 - [0xmarginman](https://x.com/0xmarginman/status/2093147453058863316) (2026-08-30)
@@ -224,6 +224,7 @@ total_mentions: 385
 - [cyrilXBT](https://x.com/cyrilXBT/status/2076868034812096748) (2026-07-14)
 - [darbyw](https://x.com/darbyw/status/2092718828405096955) (2026-08-27)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
+- [davidsenra](https://x.com/davidsenra/status/2093170027390222611) (2026-08-31)
 - [deedydas](https://x.com/deedydas/status/2063075876452155728) (2026-06-06)
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
 - [dharmesh](https://x.com/dharmesh/status/2093071931188597042) (2026-08-28)
@@ -261,6 +262,7 @@ total_mentions: 385
 - [gregisenberg](https://x.com/gregisenberg/status/2081814601851900221) (2026-08-02)
 - [gregisenberg](https://x.com/gregisenberg/status/2083954605533065561) (2026-08-08)
 - [gregisenberg](https://x.com/gregisenberg/status/2086534549341610457) (2026-08-12)
+- [gregisenberg](https://x.com/gregisenberg/status/2092665799332745220) (2026-08-31)
 - [gregisenberg](https://x.com/gregisenberg/status/2092699140803211682) (2026-08-28)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [heynavtoor](https://x.com/heynavtoor/status/2090103120399655356) (2026-08-20)
@@ -360,6 +362,7 @@ total_mentions: 385
 - [theaiportfolios](https://x.com/theaiportfolios/status/2074195013257273580) (2026-07-13)
 - [thejustinguo](https://x.com/thejustinguo/status/2091322374327251027) (2026-08-23)
 - [theo_jala](https://x.com/theo_jala/status/2092325621137305875) (2026-08-26)
+- [thesupermanmx](https://x.com/thesupermanmx/status/2094251628220334579) (2026-08-31)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2068965021514891696) (2026-06-27)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2079488476303773921) (2026-07-26)

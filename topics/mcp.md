@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-08-30
-total_mentions: 613
+last_seen: 2026-08-31
+total_mentions: 617
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -92,6 +92,7 @@ total_mentions: 613
 - [DataChaz](https://x.com/DataChaz/status/2086637810358866288) (2026-08-10)
 - [DavidKPiano](https://x.com/DavidKPiano/status/2088342902359429354) (2026-08-15)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
+- [Delroy715](https://x.com/Delroy715/status/2093274769290604846) (2026-08-31)
 - [Diego_exits](https://x.com/Diego_exits/status/2082567388537536818) (2026-08-01)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2081331200942362651) (2026-07-27)
@@ -106,6 +107,7 @@ total_mentions: 613
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
 - [FareaNFts](https://x.com/FareaNFts/status/2092673671676727314) (2026-08-27)
 - [FellMentKE](https://x.com/FellMentKE/status/2064573513642758328) (2026-06-10)
+- [FelpsCrypto](https://x.com/FelpsCrypto/status/2093580590641480134) (2026-08-31)
 - [FundamentEdge](https://x.com/FundamentEdge/status/2086632605466915006) (2026-08-10)
 - [GcodeXS](https://x.com/GcodeXS/status/2079666529579446545) (2026-07-28)
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2091248280365682688) (2026-08-24)
@@ -386,6 +388,7 @@ total_mentions: 613
 - [dsp_](https://x.com/dsp_/status/2091077636608950581) (2026-08-23)
 - [dummerspast39](https://x.com/dummerspast39/status/2091205904662249886) (2026-08-23)
 - [dummerspast39](https://x.com/dummerspast39/status/2093017322311053433) (2026-08-28)
+- [dummerspast39](https://x.com/dummerspast39/status/2093068591658926380) (2026-08-31)
 - [duty_1g](https://x.com/duty_1g/status/2091195144863158517) (2026-08-24)
 - [e_opore](https://x.com/e_opore/status/2073977846448451776) (2026-07-06)
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
@@ -465,6 +468,7 @@ total_mentions: 613
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2073646837894992126) (2026-07-05)
 - [maarcoofdezz](https://x.com/maarcoofdezz/status/2079543760585691543) (2026-07-22)
 - [maarcoofdezz](https://x.com/maarcoofdezz/status/2085055293608587681) (2026-08-06)
+- [maarcoofdezz](https://x.com/maarcoofdezz/status/2092314221992161620) (2026-08-31)
 - [mackody_](https://x.com/mackody_/status/2075285372515528906) (2026-07-11)
 - [macrodotcom](https://x.com/macrodotcom/status/2086843485898887523) (2026-08-12)
 - [magnific](https://x.com/magnific/status/2064346257330675798) (2026-06-10)

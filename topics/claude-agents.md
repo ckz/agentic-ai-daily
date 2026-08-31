@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-30
-total_mentions: 178
+last_seen: 2026-08-31
+total_mentions: 179
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -147,6 +147,7 @@ total_mentions: 178
 - [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)
 - [jamonholmgren](https://x.com/jamonholmgren/status/2076001786700394610) (2026-07-12)
 - [jaredrhod](https://x.com/jaredrhod/status/2073840273914728935) (2026-07-06)
+- [jasonlk](https://x.com/jasonlk/status/2093792483977376045) (2026-08-31)
 - [jiang_kev](https://x.com/jiang_kev/status/2082496145994248488) (2026-07-30)
 - [johnwhereareu](https://x.com/johnwhereareu/status/2077603117928153169) (2026-07-16)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
