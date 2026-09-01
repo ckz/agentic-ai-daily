@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-08-31
-total_mentions: 388
+last_seen: 2026-09-01
+total_mentions: 392
 
 ## Related Tweets
 - [0xmarginman](https://x.com/0xmarginman/status/2093147453058863316) (2026-08-30)
@@ -20,6 +20,7 @@ total_mentions: 388
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2079915295230038426) (2026-07-23)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2088330041289494736) (2026-08-17)
 - [Anaya_sharma876](https://x.com/Anaya_sharma876/status/2086431301498966480) (2026-08-14)
+- [AnimaAnandkumar](https://x.com/AnimaAnandkumar/status/2092236528898675014) (2026-09-01)
 - [AnishJaitwar](https://x.com/AnishJaitwar/status/2086661433593360839) (2026-08-10)
 - [Argona0x](https://x.com/Argona0x/status/2065525815106769169) (2026-06-13)
 - [ArrushAdityadev](https://x.com/ArrushAdityadev/status/2061674017929703768) (2026-06-08)
@@ -151,6 +152,7 @@ total_mentions: 388
 - [TommiPedruzzi](https://x.com/TommiPedruzzi/status/2079133234005155943) (2026-07-23)
 - [TracyWesterman](https://x.com/TracyWesterman/status/2068481367248384086) (2026-06-27)
 - [Variety](https://x.com/Variety/status/2078236164197322969) (2026-07-18)
+- [Vicmunro](https://x.com/Vicmunro/status/2093675879444402505) (2026-09-01)
 - [Voxyz_ai](https://x.com/Voxyz_ai/status/2089324197981950408) (2026-08-19)
 - [WaldronLewis](https://x.com/WaldronLewis/status/2072605320132575489) (2026-07-03)
 - [WallStreetApes](https://x.com/WallStreetApes/status/2072876695120658620) (2026-07-05)
@@ -178,6 +180,7 @@ total_mentions: 388
 - [andyburnham](https://x.com/andyburnham/status/2090528243430350885) (2026-08-27)
 - [angeldot_](https://x.com/angeldot_/status/2086839211856929184) (2026-08-15)
 - [ankurnagpal](https://x.com/ankurnagpal/status/2073858342196244665) (2026-07-06)
+- [annajmalayan](https://x.com/annajmalayan/status/2094550929504891060) (2026-09-01)
 - [anupamrjp](https://x.com/anupamrjp/status/2076558763071508656) (2026-07-13)
 - [anuraggoel](https://x.com/anuraggoel/status/2069218653137142074) (2026-06-30)
 - [apnmrev](https://x.com/apnmrev/status/2082074585017823365) (2026-07-30)
@@ -208,6 +211,7 @@ total_mentions: 388
 - [cb_doge](https://x.com/cb_doge/status/2072009965389443374) (2026-07-03)
 - [cb_doge](https://x.com/cb_doge/status/2076291436283396496) (2026-07-18)
 - [cb_doge](https://x.com/cb_doge/status/2093481818544844864) (2026-08-29)
+- [cb_doge](https://x.com/cb_doge/status/2094487192936776147) (2026-09-01)
 - [cfaprenault](https://x.com/cfaprenault/status/2092667736711180300) (2026-08-27)
 - [chamath](https://x.com/chamath/status/2071571183665881515) (2026-07-01)
 - [chamath](https://x.com/chamath/status/2083463694931902561) (2026-08-14)

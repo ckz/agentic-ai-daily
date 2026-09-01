@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-08-31
-total_mentions: 421
+last_seen: 2026-09-01
+total_mentions: 423
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -334,6 +334,7 @@ total_mentions: 421
 - [johnvirality](https://x.com/johnvirality/status/2070571963555152330) (2026-06-29)
 - [kenAI_domains](https://x.com/kenAI_domains/status/2080371618954490323) (2026-07-24)
 - [kimmonismus](https://x.com/kimmonismus/status/2085812651163296161) (2026-08-08)
+- [kloss_xyz](https://x.com/kloss_xyz/status/2094551333525447072) (2026-09-01)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [lablabai](https://x.com/lablabai/status/2011441661466042529) (2026-07-10)
 - [lagerskoy](https://x.com/lagerskoy/status/2078533407580311832) (2026-07-19)
@@ -395,6 +396,7 @@ total_mentions: 421
 - [shushant_l](https://x.com/shushant_l/status/2078707411670704572) (2026-07-19)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
 - [socialwithaayan](https://x.com/socialwithaayan/status/2072044103492309425) (2026-07-02)
+- [socialwithaayan](https://x.com/socialwithaayan/status/2094350331484516816) (2026-09-01)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2072154763492544652) (2026-07-01)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2077223722654834863) (2026-07-16)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2089191836296654904) (2026-08-20)

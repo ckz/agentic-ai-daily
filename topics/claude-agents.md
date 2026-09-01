@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-31
-total_mentions: 179
+last_seen: 2026-09-01
+total_mentions: 182
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -32,6 +32,7 @@ total_mentions: 179
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2087190437299941811) (2026-08-21)
 - [CEOGuy](https://x.com/CEOGuy/status/2068212413309010231) (2026-06-20)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2061877349629759847) (2026-06-05)
+- [ClaudeDevs](https://x.com/ClaudeDevs/status/2092984433649283284) (2026-09-01)
 - [ClementDelangue](https://x.com/ClementDelangue/status/2062982727729553913) (2026-06-05)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DanKornas](https://x.com/DanKornas/status/2063154157511418092) (2026-06-06)
@@ -107,6 +108,7 @@ total_mentions: 179
 - [bonduelleioat](https://x.com/bonduelleioat/status/2090015153739669554) (2026-08-23)
 - [candyyueliu](https://x.com/candyyueliu/status/2062178835689623592) (2026-06-29)
 - [carverfomo](https://x.com/carverfomo/status/2064338010242490662) (2026-06-10)
+- [celineodier](https://x.com/celineodier/status/2094079187904610504) (2026-09-01)
 - [clapilot](https://x.com/clapilot/status/2063509258461642879) (2026-06-07)
 - [clapilot](https://x.com/clapilot/status/2063510331716952191) (2026-06-07)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2076962984216412342) (2026-07-15)
@@ -127,6 +129,7 @@ total_mentions: 179
 - [dee_hw](https://x.com/dee_hw/status/2089388227971219643) (2026-08-18)
 - [dr_cintas](https://x.com/dr_cintas/status/2072714904650359130) (2026-07-03)
 - [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
+- [dreyethh](https://x.com/dreyethh/status/2094460468941218188) (2026-09-01)
 - [ekcheungAI](https://x.com/ekcheungAI/status/2068544526084386969) (2026-06-21)
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
 - [eliebakouch](https://x.com/eliebakouch/status/2087904176357437820) (2026-08-14)

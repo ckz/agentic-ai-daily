@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-08-31
-total_mentions: 617
+last_seen: 2026-09-01
+total_mentions: 620
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -57,6 +57,7 @@ total_mentions: 617
 - [Aykutuces](https://x.com/Aykutuces/status/2082167918138106256) (2026-07-29)
 - [BIGMayrr](https://x.com/BIGMayrr/status/2088258814554390943) (2026-08-17)
 - [BTCqzy1](https://x.com/BTCqzy1/status/2087496242071056769) (2026-08-13)
+- [Benioff](https://x.com/Benioff/status/2094618697520615868) (2026-09-01)
 - [Bha74142Shivani](https://x.com/Bha74142Shivani/status/2087441456726524324) (2026-08-12)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2062873857304752368) (2026-06-05)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2063598644293484741) (2026-06-08)
@@ -326,6 +327,7 @@ total_mentions: 617
 - [cTrader](https://x.com/cTrader/status/2062503096375263532) (2026-06-05)
 - [cb_doge](https://x.com/cb_doge/status/2093024115620004154) (2026-08-28)
 - [cb_doge](https://x.com/cb_doge/status/2093481818544844864) (2026-08-29)
+- [celineodier](https://x.com/celineodier/status/2094079187904610504) (2026-09-01)
 - [chanducore](https://x.com/chanducore/status/2065670751781589413) (2026-06-13)
 - [charliejhills](https://x.com/charliejhills/status/2061702209310761142) (2026-06-06)
 - [charliejhills](https://x.com/charliejhills/status/2076221471375122811) (2026-07-14)
@@ -565,6 +567,7 @@ total_mentions: 617
 - [sixtria](https://x.com/sixtria/status/2067853856709779883) (2026-06-19)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
 - [smratitiwa86867](https://x.com/smratitiwa86867/status/2081582605670187098) (2026-07-27)
+- [socialwithaayan](https://x.com/socialwithaayan/status/2094350331484516816) (2026-09-01)
 - [splinetool](https://x.com/splinetool/status/2090500256190603636) (2026-08-23)
 - [starmexxx](https://x.com/starmexxx/status/2089399623106355708) (2026-08-18)
 - [stretchcloud](https://x.com/stretchcloud/status/2072215124958740898) (2026-07-01)

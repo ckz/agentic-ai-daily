@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-31
-total_mentions: 1065
+last_seen: 2026-09-01
+total_mentions: 1076
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -28,6 +28,7 @@ total_mentions: 1065
 - [0xCodez](https://x.com/0xCodez/status/2081017726261199185) (2026-07-26)
 - [0xCodez](https://x.com/0xCodez/status/2085731209397637233) (2026-08-09)
 - [0xCodez](https://x.com/0xCodez/status/2088263101158146337) (2026-08-18)
+- [0xCodez](https://x.com/0xCodez/status/2093729390932672732) (2026-09-01)
 - [0xCodila](https://x.com/0xCodila/status/2074639576107274693) (2026-07-08)
 - [0xCodila](https://x.com/0xCodila/status/2080689998848778523) (2026-07-25)
 - [0xCodila](https://x.com/0xCodila/status/2081068276977672340) (2026-07-26)
@@ -159,6 +160,7 @@ total_mentions: 1065
 - [BSCNews](https://x.com/BSCNews/status/2075215645785141282) (2026-07-10)
 - [BSCNews](https://x.com/BSCNews/status/2085378308858868014) (2026-08-08)
 - [Badtheorylabs](https://x.com/Badtheorylabs/status/2085359932900082039) (2026-08-08)
+- [Benioff](https://x.com/Benioff/status/2094618697520615868) (2026-09-01)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2062873857304752368) (2026-06-05)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2063598644293484741) (2026-06-08)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2064345389424324891) (2026-06-14)
@@ -341,6 +343,7 @@ total_mentions: 1065
 - [Market_Mind_](https://x.com/Market_Mind_/status/2088651427962921304) (2026-08-17)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
+- [MaxForAI](https://x.com/MaxForAI/status/2094607306998841814) (2026-09-01)
 - [MdRahi444797](https://x.com/MdRahi444797/status/2068588886620844518) (2026-06-21)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2073950058677186755) (2026-07-06)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2081303563746398665) (2026-07-28)
@@ -487,6 +490,7 @@ total_mentions: 1065
 - [TheGlobalMinima](https://x.com/TheGlobalMinima/status/2070425560485077259) (2026-06-27)
 - [TheHackersNews](https://x.com/TheHackersNews/status/2074845892067426604) (2026-07-09)
 - [TheInsiderPaper](https://x.com/TheInsiderPaper/status/2082481271783964922) (2026-08-05)
+- [TheMrX](https://x.com/TheMrX/status/2094375456879542335) (2026-09-01)
 - [TheTuringPost](https://x.com/TheTuringPost/status/2071309540654743935) (2026-07-03)
 - [TheTuringPost](https://x.com/TheTuringPost/status/2076827153665331469) (2026-07-19)
 - [TheValueist](https://x.com/TheValueist/status/2072334968940900744) (2026-07-03)
@@ -521,8 +525,10 @@ total_mentions: 1065
 - [WireNetwork](https://x.com/WireNetwork/status/2064029713421791646) (2026-06-09)
 - [WrangleAi](https://x.com/WrangleAi/status/2083825310982660098) (2026-08-02)
 - [XFreeze](https://x.com/XFreeze/status/2071801039167336638) (2026-06-30)
+- [XammieCrypt](https://x.com/XammieCrypt/status/2094371878198489299) (2026-09-01)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2090968445378814364) (2026-08-22)
 - [Yaki_fomoArt](https://x.com/Yaki_fomoArt/status/2079623049037701529) (2026-07-26)
+- [Yosefphr](https://x.com/Yosefphr/status/2094074224839102549) (2026-09-01)
 - [Zai_org](https://x.com/Zai_org/status/2066938937344495629) (2026-06-20)
 - [Zev_ee](https://x.com/Zev_ee/status/2063508054641967536) (2026-06-07)
 - [Ziven_Coder](https://x.com/Ziven_Coder/status/2078482313986642122) (2026-07-30)
@@ -533,6 +539,7 @@ total_mentions: 1065
 - [__harsh020__](https://x.com/__harsh020__/status/2073518491844624630) (2026-07-05)
 - [_akhaliq](https://x.com/_akhaliq/status/2072347990337954042) (2026-07-03)
 - [_avichawla](https://x.com/_avichawla/status/2076952441728459082) (2026-07-15)
+- [_avichawla](https://x.com/_avichawla/status/2094678972344958984) (2026-09-01)
 - [_nat](https://x.com/_nat/status/2082320053626921372) (2026-07-29)
 - [_odsc](https://x.com/_odsc/status/2078254173938708527) (2026-07-20)
 - [_shikhar_jais](https://x.com/_shikhar_jais/status/2063133010074206331) (2026-06-06)
@@ -583,6 +590,7 @@ total_mentions: 1065
 - [amitisinvesting](https://x.com/amitisinvesting/status/2077570810978463823) (2026-07-16)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2079389181780832579) (2026-07-23)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2086983986031542710) (2026-08-14)
+- [annajmalayan](https://x.com/annajmalayan/status/2094550929504891060) (2026-09-01)
 - [antigravity](https://x.com/antigravity/status/2075265852992057448) (2026-07-11)
 - [antigravity](https://x.com/antigravity/status/2088030364539162744) (2026-08-14)
 - [antpalkin](https://x.com/antpalkin/status/2083984184637374655) (2026-08-03)
@@ -826,6 +834,7 @@ total_mentions: 1065
 - [jalajboy](https://x.com/jalajboy/status/2072538286875185334) (2026-07-02)
 - [jamonholmgren](https://x.com/jamonholmgren/status/2076001786700394610) (2026-07-12)
 - [jargon_sol](https://x.com/jargon_sol/status/2076678485486211091) (2026-07-17)
+- [jasonfreedman](https://x.com/jasonfreedman/status/2094460349298962594) (2026-09-01)
 - [jasonlk](https://x.com/jasonlk/status/2074304139425931745) (2026-07-07)
 - [jasonlk](https://x.com/jasonlk/status/2093792483977376045) (2026-08-31)
 - [jerryjliu0](https://x.com/jerryjliu0/status/2082673383255216356) (2026-07-31)
@@ -840,6 +849,7 @@ total_mentions: 1065
 - [keyserfaty](https://x.com/keyserfaty/status/2092679276168638954) (2026-08-27)
 - [kimmonismus](https://x.com/kimmonismus/status/2085812651163296161) (2026-08-08)
 - [kirillk_web3](https://x.com/kirillk_web3/status/2090621157087064304) (2026-08-24)
+- [kloss_xyz](https://x.com/kloss_xyz/status/2094551333525447072) (2026-09-01)
 - [kuddus0356575](https://x.com/kuddus0356575/status/2073988400865227141) (2026-07-06)
 - [kuddus0356575](https://x.com/kuddus0356575/status/2076907414599962690) (2026-07-15)
 - [kunchenguid](https://x.com/kunchenguid/status/2068367773533667565) (2026-06-21)
@@ -1030,6 +1040,7 @@ total_mentions: 1065
 - [thesupermanmx](https://x.com/thesupermanmx/status/2088977298989129826) (2026-08-17)
 - [thesupermanmx](https://x.com/thesupermanmx/status/2089170733260025866) (2026-08-18)
 - [thesupermanmx](https://x.com/thesupermanmx/status/2094251628220334579) (2026-08-31)
+- [thesupermanmx](https://x.com/thesupermanmx/status/2094396262053556304) (2026-09-01)
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)
 - [thompson_akhat](https://x.com/thompson_akhat/status/2065333327314276641) (2026-06-12)
 - [tiger_research_](https://x.com/tiger_research_/status/2080227252134879655) (2026-07-24)

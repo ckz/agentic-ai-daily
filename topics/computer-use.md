@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-08-31
-total_mentions: 60
+last_seen: 2026-09-01
+total_mentions: 63
 
 ## Related Tweets
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
@@ -31,6 +31,7 @@ total_mentions: 60
 - [SimularAI](https://x.com/SimularAI/status/2093009990663434361) (2026-08-28)
 - [SkyeSharkie](https://x.com/SkyeSharkie/status/2092122622834442581) (2026-08-29)
 - [TeksCreate](https://x.com/TeksCreate/status/2081499683571040408) (2026-07-27)
+- [VaibhavSisinty](https://x.com/VaibhavSisinty/status/2094315036995166499) (2026-09-01)
 - [WesRoth](https://x.com/WesRoth/status/2063833395298533464) (2026-06-10)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2090597249130635389) (2026-08-22)
 - [a16z](https://x.com/a16z/status/2086906363947737406) (2026-08-11)
@@ -60,8 +61,10 @@ total_mentions: 60
 - [milesdeutscher](https://x.com/milesdeutscher/status/2075469825514824153) (2026-07-10)
 - [milindlabs](https://x.com/milindlabs/status/2087289803964559746) (2026-08-14)
 - [nicbstme](https://x.com/nicbstme/status/2088014852954669300) (2026-08-14)
+- [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2094414982251413529) (2026-09-01)
 - [rubenhassid](https://x.com/rubenhassid/status/2063138819856101667) (2026-06-07)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
 - [sitinme](https://x.com/sitinme/status/2088172522063691892) (2026-08-15)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)
+- [wallstengine](https://x.com/wallstengine/status/2094155293261435063) (2026-09-01)
 - [zcode_ai](https://x.com/zcode_ai/status/2092635718766215590) (2026-08-27)

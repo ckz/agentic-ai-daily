@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-08-31
-total_mentions: 247
+last_seen: 2026-09-01
+total_mentions: 250
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -98,6 +98,7 @@ total_mentions: 247
 - [NVIDIAAP](https://x.com/NVIDIAAP/status/2076879361504903645) (2026-07-21)
 - [PrakashS720](https://x.com/PrakashS720/status/2065850652832694731) (2026-06-15)
 - [PrimeIntellect](https://x.com/PrimeIntellect/status/2085086999267144083) (2026-08-06)
+- [ProfBuehlerMIT](https://x.com/ProfBuehlerMIT/status/2093630309585531033) (2026-09-01)
 - [Rahul1539482](https://x.com/Rahul1539482/status/2068215799849091178) (2026-06-20)
 - [RamSingh_369](https://x.com/RamSingh_369/status/2094252362970099809) (2026-08-31)
 - [RishiUvaach](https://x.com/RishiUvaach/status/2090068768395248014) (2026-08-22)
@@ -210,6 +211,7 @@ total_mentions: 247
 - [polydao](https://x.com/polydao/status/2066048742625821003) (2026-06-14)
 - [poteto](https://x.com/poteto/status/2090141955695198633) (2026-08-20)
 - [promptparag](https://x.com/promptparag/status/2064311991842574695) (2026-06-10)
+- [rcbregman](https://x.com/rcbregman/status/2094019390270312719) (2026-09-01)
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)
 - [rewind02](https://x.com/rewind02/status/2062914280681271627) (2026-06-05)
 - [rishflips](https://x.com/rishflips/status/2064954076543205542) (2026-06-11)
@@ -245,6 +247,7 @@ total_mentions: 247
 - [techNmak](https://x.com/techNmak/status/2091434187446439969) (2026-08-24)
 - [thesupermanmx](https://x.com/thesupermanmx/status/2088659059008491594) (2026-08-16)
 - [thesupermanmx](https://x.com/thesupermanmx/status/2089170733260025866) (2026-08-18)
+- [thesupermanmx](https://x.com/thesupermanmx/status/2094396262053556304) (2026-09-01)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2081680037544427793) (2026-07-28)
 - [thsottiaux](https://x.com/thsottiaux/status/2075641131002700120) (2026-07-11)
 - [tom_doerr](https://x.com/tom_doerr/status/2066365949926629733) (2026-06-15)
