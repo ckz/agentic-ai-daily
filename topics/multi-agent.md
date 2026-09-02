@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-09-01
-total_mentions: 250
+last_seen: 2026-09-02
+total_mentions: 252
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -18,6 +18,7 @@ total_mentions: 250
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2086799737651400907) (2026-08-11)
 - [AIEconomicsUS](https://x.com/AIEconomicsUS/status/2066055790448837033) (2026-06-14)
+- [AISafetyMemes](https://x.com/AISafetyMemes/status/2092781128826618209) (2026-09-02)
 - [AIonBase_](https://x.com/AIonBase_/status/2019752568595833185) (2026-07-10)
 - [AIonBase_](https://x.com/AIonBase_/status/2063002925761237147) (2026-06-05)
 - [APompliano](https://x.com/APompliano/status/2079571863642984883) (2026-07-25)
@@ -138,6 +139,7 @@ total_mentions: 250
 - [_vmlops](https://x.com/_vmlops/status/2063916937055494571) (2026-06-09)
 - [adxtyahq](https://x.com/adxtyahq/status/2062090077296283932) (2026-06-08)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
+- [aidigest_](https://x.com/aidigest_/status/2093369236798550022) (2026-09-02)
 - [ajay_2512x](https://x.com/ajay_2512x/status/2062378424807928253) (2026-06-07)
 - [alexandr_wang](https://x.com/alexandr_wang/status/2086523558940028995) (2026-08-11)
 - [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)

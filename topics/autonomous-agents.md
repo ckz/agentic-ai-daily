@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-01
-total_mentions: 1076
+last_seen: 2026-09-02
+total_mentions: 1080
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -231,6 +231,7 @@ total_mentions: 1076
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2091079100291076296) (2026-08-25)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2091414546103828822) (2026-08-23)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2091606495465242825) (2026-08-28)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2093567702979998014) (2026-09-02)
 - [DrDatta_AIIMS](https://x.com/DrDatta_AIIMS/status/2085258786403655808) (2026-08-13)
 - [ET_Edge](https://x.com/ET_Edge/status/2083446599729254520) (2026-08-01)
 - [EmmanuelInvest](https://x.com/EmmanuelInvest/status/2072720009520873611) (2026-07-04)
@@ -561,6 +562,7 @@ total_mentions: 1076
 - [agtprpnabsrdty](https://x.com/agtprpnabsrdty/status/2083646314282139701) (2026-08-02)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
 - [aicryptoboss](https://x.com/aicryptoboss/status/2082348441506603086) (2026-07-29)
+- [aidigest_](https://x.com/aidigest_/status/2093369236798550022) (2026-09-02)
 - [aiexplorations](https://x.com/aiexplorations/status/2076531708690899009) (2026-07-13)
 - [ainunnajib](https://x.com/ainunnajib/status/2093233101321510937) (2026-08-28)
 - [aipaywithcrypto](https://x.com/aipaywithcrypto/status/2072243829789315540) (2026-07-03)
@@ -614,6 +616,7 @@ total_mentions: 1076
 - [axiomos_](https://x.com/axiomos_/status/2072983092365811940) (2026-07-04)
 - [azzabazazz](https://x.com/azzabazazz/status/2073518111974998284) (2026-07-05)
 - [base](https://x.com/base/status/2083204522415960437) (2026-08-05)
+- [baseten](https://x.com/baseten/status/2093489037608702118) (2026-09-02)
 - [beamnxw](https://x.com/beamnxw/status/2083539500165149086) (2026-08-02)
 - [beamnxw](https://x.com/beamnxw/status/2084985269975928983) (2026-08-07)
 - [beamnxw](https://x.com/beamnxw/status/2085787859680637092) (2026-08-11)
@@ -966,6 +969,7 @@ total_mentions: 1076
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2079318538100342854) (2026-07-23)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2085089809371173362) (2026-08-08)
 - [rohit4verse](https://x.com/rohit4verse/status/2083284519550136641) (2026-08-01)
+- [rosemoni18](https://x.com/rosemoni18/status/2094923340062622201) (2026-09-02)
 - [rowancheung](https://x.com/rowancheung/status/1767582332964516243) (2026-08-26)
 - [rushabh96975767](https://x.com/rushabh96975767/status/2075786236451758176) (2026-07-11)
 - [s1rozha_](https://x.com/s1rozha_/status/2072341012735791157) (2026-07-02)

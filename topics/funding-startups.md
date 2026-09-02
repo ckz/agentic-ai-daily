@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-01
-total_mentions: 392
+last_seen: 2026-09-02
+total_mentions: 397
 
 ## Related Tweets
 - [0xmarginman](https://x.com/0xmarginman/status/2093147453058863316) (2026-08-30)
@@ -52,6 +52,7 @@ total_mentions: 392
 - [DNIGabbard](https://x.com/DNIGabbard/status/2065440568423944607) (2026-08-27)
 - [DavidayoAI](https://x.com/DavidayoAI/status/2091956043240599821) (2026-08-26)
 - [DeRonin_](https://x.com/DeRonin_/status/2087555554830852538) (2026-08-14)
+- [DevanshuXi](https://x.com/DevanshuXi/status/2094134298266026161) (2026-09-02)
 - [Dhruvam987](https://x.com/Dhruvam987/status/2067811478485582025) (2026-06-19)
 - [EthenaFndtn](https://x.com/EthenaFndtn/status/2092976592738001383) (2026-08-28)
 - [FT](https://x.com/FT/status/2092858183907741818) (2026-08-30)
@@ -169,7 +170,9 @@ total_mentions: 392
 - [aakashgupta](https://x.com/aakashgupta/status/2036653323978420322) (2026-07-05)
 - [aakrit](https://x.com/aakrit/status/2065778171912265899) (2026-06-14)
 - [abazwhyllzz](https://x.com/abazwhyllzz/status/2084175411714347129) (2026-08-03)
+- [adiix_official](https://x.com/adiix_official/status/2093145821055221859) (2026-09-02)
 - [adriablancafort](https://x.com/adriablancafort/status/2071688701651108309) (2026-06-30)
+- [alex_prompter](https://x.com/alex_prompter/status/2094818827137581543) (2026-09-02)
 - [alex_verem](https://x.com/alex_verem/status/2090118956912939041) (2026-08-25)
 - [alexwtlf](https://x.com/alexwtlf/status/2088666562580328570) (2026-08-22)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2074651564136894627) (2026-07-08)
@@ -268,6 +271,7 @@ total_mentions: 392
 - [gregisenberg](https://x.com/gregisenberg/status/2086534549341610457) (2026-08-12)
 - [gregisenberg](https://x.com/gregisenberg/status/2092665799332745220) (2026-08-31)
 - [gregisenberg](https://x.com/gregisenberg/status/2092699140803211682) (2026-08-28)
+- [gregisenberg](https://x.com/gregisenberg/status/2094518013068484826) (2026-09-02)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [heynavtoor](https://x.com/heynavtoor/status/2090103120399655356) (2026-08-20)
 - [hridoyreh](https://x.com/hridoyreh/status/2092152773148328214) (2026-08-28)
@@ -360,6 +364,7 @@ total_mentions: 392
 - [suni_code](https://x.com/suni_code/status/2073859515485974967) (2026-07-08)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
 - [tankots](https://x.com/tankots/status/2089372674644713664) (2026-08-21)
+- [techsaleshackz](https://x.com/techsaleshackz/status/2094910371337244877) (2026-09-02)
 - [tednotlasso](https://x.com/tednotlasso/status/2081022216381305275) (2026-07-28)
 - [tekbog](https://x.com/tekbog/status/2082787768162550105) (2026-08-02)
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)

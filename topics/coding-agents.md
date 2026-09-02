@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-01
-total_mentions: 114
+last_seen: 2026-09-02
+total_mentions: 117
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -18,6 +18,7 @@ total_mentions: 114
 - [Colhodm](https://x.com/Colhodm/status/2072373857999098214) (2026-07-02)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2093567702979998014) (2026-09-02)
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2076991866935845287) (2026-07-15)
 - [EXM7777](https://x.com/EXM7777/status/2086512844594679820) (2026-08-14)
 - [FareaNFts](https://x.com/FareaNFts/status/2072985538756317458) (2026-07-07)
@@ -81,6 +82,7 @@ total_mentions: 114
 - [gokulr](https://x.com/gokulr/status/2077203873069236394) (2026-07-15)
 - [gokulr](https://x.com/gokulr/status/2082145789372137749) (2026-08-02)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
+- [hxiao](https://x.com/hxiao/status/2094519020531994639) (2026-09-02)
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
 - [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)
 - [jahooma](https://x.com/jahooma/status/2069951731539349823) (2026-07-03)
@@ -95,6 +97,7 @@ total_mentions: 114
 - [milesdeutscher](https://x.com/milesdeutscher/status/2074378380385067230) (2026-07-07)
 - [monmiglobal](https://x.com/monmiglobal/status/2071399421997359236) (2026-06-29)
 - [orbiteditor](https://x.com/orbiteditor/status/2075064330325041395) (2026-07-09)
+- [peterfriese](https://x.com/peterfriese/status/2092545094423601239) (2026-09-02)
 - [pushmeet](https://x.com/pushmeet/status/2065917699222560928) (2026-06-15)
 - [pushmeet](https://x.com/pushmeet/status/2089717134129565763) (2026-08-19)
 - [rammcodes](https://x.com/rammcodes/status/2093377746852511919) (2026-08-29)

@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-09-01
-total_mentions: 620
+last_seen: 2026-09-02
+total_mentions: 627
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -166,6 +166,7 @@ total_mentions: 620
 - [N01ennn](https://x.com/N01ennn/status/2088606747531358505) (2026-08-21)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
 - [Nekt_0](https://x.com/Nekt_0/status/2066148234368524692) (2026-06-15)
+- [NikkiSiapno](https://x.com/NikkiSiapno/status/2094772771758932366) (2026-09-02)
 - [NotionHQ](https://x.com/NotionHQ/status/2072759315589652663) (2026-07-03)
 - [NousResearch](https://x.com/NousResearch/status/2064760263224504719) (2026-06-11)
 - [NousResearch](https://x.com/NousResearch/status/2078168128693977291) (2026-07-19)
@@ -344,6 +345,7 @@ total_mentions: 620
 - [coder_surya](https://x.com/coder_surya/status/2074093504188600351) (2026-07-07)
 - [codyschneider](https://x.com/codyschneider/status/2084369982918406433) (2026-08-04)
 - [coinbureau](https://x.com/coinbureau/status/2093435450681909687) (2026-08-29)
+- [coledermo](https://x.com/coledermo/status/2093020717902176637) (2026-09-02)
 - [contextconor](https://x.com/contextconor/status/2092130691937157483) (2026-08-25)
 - [cooltechtipz](https://x.com/cooltechtipz/status/2066394613410406460) (2026-06-15)
 - [cryptobuzzer03](https://x.com/cryptobuzzer03/status/2067855094327001574) (2026-06-19)
@@ -448,6 +450,7 @@ total_mentions: 620
 - [humzaakhalid](https://x.com/humzaakhalid/status/2076629724315697287) (2026-07-17)
 - [humzaakhalid](https://x.com/humzaakhalid/status/2078781740563460571) (2026-07-25)
 - [huxlab](https://x.com/huxlab/status/2089564429054554267) (2026-08-19)
+- [hxiao](https://x.com/hxiao/status/2094519020531994639) (2026-09-02)
 - [iBenWills](https://x.com/iBenWills/status/2063840829773369626) (2026-06-08)
 - [iam_elias1](https://x.com/iam_elias1/status/2062095528742240319) (2026-06-05)
 - [iamlukethedev](https://x.com/iamlukethedev/status/2063081062473859097) (2026-06-06)
@@ -466,6 +469,7 @@ total_mentions: 620
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [kunalstwt](https://x.com/kunalstwt/status/2073978095644643520) (2026-07-06)
+- [louszbd](https://x.com/louszbd/status/2094867896250048705) (2026-09-02)
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2062918118503231694) (2026-06-07)
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2073646837894992126) (2026-07-05)
 - [maarcoofdezz](https://x.com/maarcoofdezz/status/2079543760585691543) (2026-07-22)
@@ -513,6 +517,7 @@ total_mentions: 620
 - [patilvishi](https://x.com/patilvishi/status/2085562458811638015) (2026-08-11)
 - [pcshipp](https://x.com/pcshipp/status/2086117731276095744) (2026-08-09)
 - [pederzh](https://x.com/pederzh/status/2082119638188712386) (2026-07-29)
+- [peterfriese](https://x.com/peterfriese/status/2092545094423601239) (2026-09-02)
 - [phosphenq](https://x.com/phosphenq/status/2072363705090666559) (2026-07-02)
 - [pidotdev](https://x.com/pidotdev/status/2090763462217551976) (2026-08-22)
 - [pk_iv](https://x.com/pk_iv/status/2086867025050349839) (2026-08-14)
@@ -536,6 +541,7 @@ total_mentions: 620
 - [rom1trs](https://x.com/rom1trs/status/2077382083832340784) (2026-07-19)
 - [rom1trs](https://x.com/rom1trs/status/2080601402460590265) (2026-07-26)
 - [romanftp](https://x.com/romanftp/status/2092265070310908152) (2026-08-26)
+- [rosemoni18](https://x.com/rosemoni18/status/2094923340062622201) (2026-09-02)
 - [runes_leo](https://x.com/runes_leo/status/2090442625820356780) (2026-08-21)
 - [s1rozha_](https://x.com/s1rozha_/status/2087132684514455625) (2026-08-12)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
@@ -581,6 +587,7 @@ total_mentions: 620
 - [techNmak](https://x.com/techNmak/status/2068884177383047439) (2026-06-27)
 - [techNmak](https://x.com/techNmak/status/2091434187446439969) (2026-08-24)
 - [techdevnotes](https://x.com/techdevnotes/status/2082546312608719207) (2026-07-30)
+- [tellenne_](https://x.com/tellenne_/status/2094833053025665048) (2026-09-02)
 - [tetsuoai](https://x.com/tetsuoai/status/2071775282420445427) (2026-06-30)
 - [tetsuoai](https://x.com/tetsuoai/status/2071817609742532884) (2026-06-30)
 - [tetsuoai](https://x.com/tetsuoai/status/2080255951274455118) (2026-07-30)

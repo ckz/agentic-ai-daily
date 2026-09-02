@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-09-01
-total_mentions: 423
+last_seen: 2026-09-02
+total_mentions: 425
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -150,6 +150,7 @@ total_mentions: 423
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
 - [NainsiDwiv50980](https://x.com/NainsiDwiv50980/status/2062154970229858372) (2026-06-06)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/1975269391244874103) (2026-06-08)
+- [OpenAI](https://x.com/OpenAI/status/2094885578173260259) (2026-09-02)
 - [OptimaiNetwork](https://x.com/OptimaiNetwork/status/2014178144429723810) (2026-06-10)
 - [OracleDevs](https://x.com/OracleDevs/status/2087315628935786848) (2026-08-13)
 - [OurTinTinLand](https://x.com/OurTinTinLand/status/2082351358876033195) (2026-07-29)
@@ -249,6 +250,7 @@ total_mentions: 423
 - [axiomos_](https://x.com/axiomos_/status/2072983092365811940) (2026-07-04)
 - [axon402](https://x.com/axon402/status/2064629815961854211) (2026-06-11)
 - [badidoyo](https://x.com/badidoyo/status/2071821032114061798) (2026-06-30)
+- [baseten](https://x.com/baseten/status/2093489037608702118) (2026-09-02)
 - [beamnxw](https://x.com/beamnxw/status/2081324327899746541) (2026-08-02)
 - [beamnxw](https://x.com/beamnxw/status/2082746025958150333) (2026-08-01)
 - [beamnxw](https://x.com/beamnxw/status/2083539500165149086) (2026-08-02)
