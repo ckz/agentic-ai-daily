@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-02
-total_mentions: 182
+last_seen: 2026-09-03
+total_mentions: 183
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -167,6 +167,7 @@ total_mentions: 182
 - [officialbunnyos](https://x.com/officialbunnyos/status/2089938164916060444) (2026-08-19)
 - [polydao](https://x.com/polydao/status/2088516287098159531) (2026-08-21)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
+- [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2092970481423192328) (2026-09-03)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [sairahul1](https://x.com/sairahul1/status/2077326742218539296) (2026-07-18)

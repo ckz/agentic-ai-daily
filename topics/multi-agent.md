@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-09-02
-total_mentions: 252
+last_seen: 2026-09-03
+total_mentions: 256
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -49,6 +49,7 @@ total_mentions: 252
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2063598644293484741) (2026-06-08)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2064345389424324891) (2026-06-14)
 - [Bober_smart](https://x.com/Bober_smart/status/2090056811390861686) (2026-08-20)
+- [CampedelliGian](https://x.com/CampedelliGian/status/2095171786715316233) (2026-09-03)
 - [ChainOpera_AI](https://x.com/ChainOpera_AI/status/2065431330910015978) (2026-06-13)
 - [ChainOpera_AI](https://x.com/ChainOpera_AI/status/2075270266784235590) (2026-07-11)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2066212008782172238) (2026-06-19)
@@ -69,8 +70,10 @@ total_mentions: 252
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2091414546103828822) (2026-08-23)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2091606495465242825) (2026-08-28)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2093456774875791460) (2026-08-31)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2094528029724950563) (2026-09-03)
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2076991866935845287) (2026-07-15)
 - [DrDatta_AIIMS](https://x.com/DrDatta_AIIMS/status/2085258786403655808) (2026-08-13)
+- [Dr_Singularity](https://x.com/Dr_Singularity/status/2094797783601414196) (2026-09-03)
 - [EXM7777](https://x.com/EXM7777/status/2079949851648053760) (2026-07-23)
 - [GoogleAI](https://x.com/GoogleAI/status/2062942864288387430) (2026-06-06)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
@@ -137,6 +140,7 @@ total_mentions: 252
 - [_vmlops](https://x.com/_vmlops/status/2055521746737156350) (2026-06-15)
 - [_vmlops](https://x.com/_vmlops/status/2063841886193004672) (2026-06-09)
 - [_vmlops](https://x.com/_vmlops/status/2063916937055494571) (2026-06-09)
+- [adiix_official](https://x.com/adiix_official/status/2095112166579839383) (2026-09-03)
 - [adxtyahq](https://x.com/adxtyahq/status/2062090077296283932) (2026-06-08)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
 - [aidigest_](https://x.com/aidigest_/status/2093369236798550022) (2026-09-02)

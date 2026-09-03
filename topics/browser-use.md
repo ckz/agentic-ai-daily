@@ -1,13 +1,14 @@
 # Browser Use
 
 first_seen: 2026-06-07
-last_seen: 2026-09-01
-total_mentions: 29
+last_seen: 2026-09-03
+total_mentions: 31
 
 ## Related Tweets
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2072415161374343198) (2026-07-08)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2093286019697418608) (2026-09-03)
 - [EXM7777](https://x.com/EXM7777/status/2094425738778964465) (2026-09-01)
 - [Kimi_Moonshot](https://x.com/Kimi_Moonshot/status/2063990409903112344) (2026-06-09)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2058615544048451842) (2026-07-04)
@@ -17,6 +18,7 @@ total_mentions: 29
 - [NousResearch](https://x.com/NousResearch/status/2086881660658663469) (2026-08-14)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2065226355495895521) (2026-06-15)
 - [RobKnight__](https://x.com/RobKnight__/status/2082859704955642254) (2026-08-01)
+- [SamSokolin](https://x.com/SamSokolin/status/2094824011427373415) (2026-09-03)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2090597249130635389) (2026-08-22)
 - [_vmlops](https://x.com/_vmlops/status/2055521746737156350) (2026-06-15)
 - [biswaasen](https://x.com/biswaasen/status/2072065994152145370) (2026-07-01)

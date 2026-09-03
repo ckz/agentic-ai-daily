@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-02
-total_mentions: 397
+last_seen: 2026-09-03
+total_mentions: 406
 
 ## Related Tweets
 - [0xmarginman](https://x.com/0xmarginman/status/2093147453058863316) (2026-08-30)
@@ -54,6 +54,7 @@ total_mentions: 397
 - [DeRonin_](https://x.com/DeRonin_/status/2087555554830852538) (2026-08-14)
 - [DevanshuXi](https://x.com/DevanshuXi/status/2094134298266026161) (2026-09-02)
 - [Dhruvam987](https://x.com/Dhruvam987/status/2067811478485582025) (2026-06-19)
+- [Dylan_txa_](https://x.com/Dylan_txa_/status/2095140253149352266) (2026-09-03)
 - [EthenaFndtn](https://x.com/EthenaFndtn/status/2092976592738001383) (2026-08-28)
 - [FT](https://x.com/FT/status/2092858183907741818) (2026-08-30)
 - [FishAudio](https://x.com/FishAudio/status/2082152596739862853) (2026-07-29)
@@ -194,6 +195,7 @@ total_mentions: 397
 - [askOkara](https://x.com/askOkara/status/2089641580634476718) (2026-08-22)
 - [asklivermore](https://x.com/asklivermore/status/2092591892194381828) (2026-08-27)
 - [athanzxyt](https://x.com/athanzxyt/status/2067660560607613032) (2026-06-19)
+- [austinc3301](https://x.com/austinc3301/status/2095301497718448268) (2026-09-03)
 - [aw_trades_](https://x.com/aw_trades_/status/2073794807323889781) (2026-07-06)
 - [awwstn](https://x.com/awwstn/status/2067750610963939571) (2026-06-19)
 - [axi_master](https://x.com/axi_master/status/2067655053050352041) (2026-06-19)
@@ -290,6 +292,7 @@ total_mentions: 397
 - [jiang_kev](https://x.com/jiang_kev/status/2082496145994248488) (2026-07-30)
 - [jomatech](https://x.com/jomatech/status/2071058503805124918) (2026-06-28)
 - [jsolomonReports](https://x.com/jsolomonReports/status/2083874257189097789) (2026-08-05)
+- [k2sbhai](https://x.com/k2sbhai/status/2095328927330025555) (2026-09-03)
 - [kaaaash____](https://x.com/kaaaash____/status/2090076085354676694) (2026-08-20)
 - [kamath_sutra](https://x.com/kamath_sutra/status/2083224374728093907) (2026-08-01)
 - [kapilansh_twt](https://x.com/kapilansh_twt/status/2086328186393247796) (2026-08-09)
@@ -300,6 +303,7 @@ total_mentions: 397
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
 - [lightspeedvp](https://x.com/lightspeedvp/status/2070182060224852105) (2026-06-27)
 - [marclou](https://x.com/marclou/status/2086700255949865456) (2026-08-15)
+- [marclou](https://x.com/marclou/status/2095153862818894109) (2026-09-03)
 - [marcrandolph](https://x.com/marcrandolph/status/2093141802610254231) (2026-08-29)
 - [marfinxx](https://x.com/marfinxx/status/2087950466244063718) (2026-08-14)
 - [margelo_com](https://x.com/margelo_com/status/2092310982710235294) (2026-08-28)
@@ -311,6 +315,7 @@ total_mentions: 397
 - [mikefutia](https://x.com/mikefutia/status/1932464486646001840) (2026-06-07)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2072226710448168991) (2026-07-05)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2070112027780280630) (2026-06-27)
+- [milesdeutscher](https://x.com/milesdeutscher/status/2095409961958514851) (2026-09-03)
 - [moneyacademyKE](https://x.com/moneyacademyKE/status/2080286044813926579) (2026-07-29)
 - [mr_bailando](https://x.com/mr_bailando/status/2086142677360226342) (2026-08-09)
 - [nanransohoff](https://x.com/nanransohoff/status/2069761661456601188) (2026-06-28)
@@ -340,9 +345,11 @@ total_mentions: 397
 - [richtosho](https://x.com/richtosho/status/2080930554782830700) (2026-07-31)
 - [ridark_eth](https://x.com/ridark_eth/status/2068120584047804649) (2026-06-20)
 - [rihntv](https://x.com/rihntv/status/2075390652284654046) (2026-07-10)
+- [rihntv](https://x.com/rihntv/status/2095182744372265095) (2026-09-03)
 - [river_ai_inc](https://x.com/river_ai_inc/status/2087138596155502908) (2026-08-12)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2065184524754112720) (2026-06-14)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2085089809371173362) (2026-08-08)
+- [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2095311437677883490) (2026-09-03)
 - [rsngprad](https://x.com/rsngprad/status/2072630117218791745) (2026-07-05)
 - [s1rozha_](https://x.com/s1rozha_/status/2087132684514455625) (2026-08-12)
 - [sahil_seth](https://x.com/sahil_seth/status/2079716698840858930) (2026-07-22)
@@ -376,6 +383,7 @@ total_mentions: 397
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2068965021514891696) (2026-06-27)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2079488476303773921) (2026-07-26)
 - [thomasschulzz](https://x.com/thomasschulzz/status/2076002167702405584) (2026-07-12)
+- [thsottiaux](https://x.com/thsottiaux/status/2095369901137654271) (2026-09-03)
 - [ti_morse](https://x.com/ti_morse/status/2081068670478880854) (2026-08-01)
 - [tiovikram](https://x.com/tiovikram/status/2081559019978907975) (2026-07-27)
 - [trajektoriePL](https://x.com/trajektoriePL/status/2088167040175526258) (2026-08-15)
@@ -391,6 +399,7 @@ total_mentions: 397
 - [vipulved](https://x.com/vipulved/status/2072321276094673083) (2026-07-02)
 - [wickedguro](https://x.com/wickedguro/status/2072654822449586327) (2026-07-09)
 - [wickedguro](https://x.com/wickedguro/status/2081582808041210156) (2026-07-27)
+- [wonderful_ai](https://x.com/wonderful_ai/status/2095125312929464388) (2026-09-03)
 - [xandurglar](https://x.com/xandurglar/status/2070179038417821777) (2026-06-29)
 - [yamanzdh](https://x.com/yamanzdh/status/2093504999158600161) (2026-08-30)
 - [ycombinator](https://x.com/ycombinator/status/2062202902543016140) (2026-06-05)

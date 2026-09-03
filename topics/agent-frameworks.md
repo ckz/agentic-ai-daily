@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-09-02
-total_mentions: 425
+last_seen: 2026-09-03
+total_mentions: 429
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -79,7 +79,9 @@ total_mentions: 425
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2079620877151502483) (2026-07-23)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2091414546103828822) (2026-08-23)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2091606495465242825) (2026-08-28)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2093286019697418608) (2026-09-03)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2093456774875791460) (2026-08-31)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2094528029724950563) (2026-09-03)
 - [EmmanuelInvest](https://x.com/EmmanuelInvest/status/2076724041302319246) (2026-07-14)
 - [EthenaFndtn](https://x.com/EthenaFndtn/status/2092976592738001383) (2026-08-28)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
@@ -140,6 +142,7 @@ total_mentions: 425
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
 - [MattJamesBoyle](https://x.com/MattJamesBoyle/status/2087548943873839423) (2026-08-13)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
+- [MaxForAI](https://x.com/MaxForAI/status/2095219932686590229) (2026-09-03)
 - [MayaAscend9](https://x.com/MayaAscend9/status/2086244103835295965) (2026-08-09)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2081303563746398665) (2026-07-28)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2084978309532647780) (2026-08-08)
@@ -429,4 +432,5 @@ total_mentions: 425
 - [wilsonnwafor_](https://x.com/wilsonnwafor_/status/2076919122479185990) (2026-07-14)
 - [xai](https://x.com/xai/status/2072342803787702422) (2026-07-02)
 - [xenovacom](https://x.com/xenovacom/status/2070210622239707568) (2026-06-27)
+- [y_sugi_it](https://x.com/y_sugi_it/status/2095302562505449951) (2026-09-03)
 - [ysiu](https://x.com/ysiu/status/2078728473909322189) (2026-07-19)

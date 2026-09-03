@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-08-31
-total_mentions: 102
+last_seen: 2026-09-03
+total_mentions: 103
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -20,6 +20,7 @@ total_mentions: 102
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2089423549379559718) (2026-08-19)
 - [DanKornas](https://x.com/DanKornas/status/2077647155179782297) (2026-07-16)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
+- [Dr_Singularity](https://x.com/Dr_Singularity/status/2094797783601414196) (2026-09-03)
 - [EXM7777](https://x.com/EXM7777/status/2079949851648053760) (2026-07-23)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
 - [GMapsPlatform](https://x.com/GMapsPlatform/status/2084699430171680894) (2026-08-07)
