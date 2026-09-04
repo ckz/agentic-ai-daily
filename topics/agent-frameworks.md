@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-09-03
-total_mentions: 429
+last_seen: 2026-09-04
+total_mentions: 433
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -21,6 +21,7 @@ total_mentions: 429
 - [APACwebaijobs](https://x.com/APACwebaijobs/status/2064977490213474577) (2026-06-11)
 - [APompliano](https://x.com/APompliano/status/2079571863642984883) (2026-07-25)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2088179625642152198) (2026-08-17)
+- [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2095414392557068291) (2026-09-04)
 - [AiCamila_](https://x.com/AiCamila_/status/2076911076885823887) (2026-07-15)
 - [AiNicolas75316](https://x.com/AiNicolas75316/status/2079199374819914080) (2026-07-22)
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2073021437963825410) (2026-07-05)
@@ -390,6 +391,7 @@ total_mentions: 429
 - [sairahul1](https://x.com/sairahul1/status/2084557703226036536) (2026-08-05)
 - [salesforce](https://x.com/salesforce/status/2066491445586858173) (2026-06-28)
 - [sandy4kad](https://x.com/sandy4kad/status/2074948658953593102) (2026-07-09)
+- [santtiagom_](https://x.com/santtiagom_/status/2095685798402064550) (2026-09-04)
 - [sauda_coder](https://x.com/sauda_coder/status/2078463245657211007) (2026-07-20)
 - [seeconvm](https://x.com/seeconvm/status/2087453527190745345) (2026-08-13)
 - [seelffff](https://x.com/seelffff/status/2071118707405816250) (2026-06-29)
@@ -411,6 +413,7 @@ total_mentions: 429
 - [sudoingX](https://x.com/sudoingX/status/2081453712149721457) (2026-08-19)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2077724941198533011) (2026-07-17)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2078449718414180393) (2026-07-19)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2095491337651179621) (2026-09-04)
 - [techNmak](https://x.com/techNmak/status/2090689729461411951) (2026-08-25)
 - [techNmak](https://x.com/techNmak/status/2091434187446439969) (2026-08-24)
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)
@@ -428,6 +431,7 @@ total_mentions: 429
 - [vercel](https://x.com/vercel/status/2067180054979936413) (2026-06-20)
 - [vicky_grok](https://x.com/vicky_grok/status/2070074685669470672) (2026-06-29)
 - [virtuals_io](https://x.com/virtuals_io/status/1881340149503857151) (2026-06-11)
+- [voidwarriorchan](https://x.com/voidwarriorchan/status/2095708889300033590) (2026-09-04)
 - [wallstengine](https://x.com/wallstengine/status/2062459661039894607) (2026-06-08)
 - [wilsonnwafor_](https://x.com/wilsonnwafor_/status/2076919122479185990) (2026-07-14)
 - [xai](https://x.com/xai/status/2072342803787702422) (2026-07-02)

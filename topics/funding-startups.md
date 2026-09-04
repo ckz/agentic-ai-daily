@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-03
-total_mentions: 406
+last_seen: 2026-09-04
+total_mentions: 407
 
 ## Related Tweets
 - [0xmarginman](https://x.com/0xmarginman/status/2093147453058863316) (2026-08-30)
@@ -406,6 +406,7 @@ total_mentions: 406
 - [ycombinator](https://x.com/ycombinator/status/2069110874242252853) (2026-06-28)
 - [ycombinator](https://x.com/ycombinator/status/2085443781797785828) (2026-08-10)
 - [ycombinator](https://x.com/ycombinator/status/2092680754790891676) (2026-08-27)
+- [ycombinator](https://x.com/ycombinator/status/2094110501475434666) (2026-09-04)
 - [zachbussey](https://x.com/zachbussey/status/2086833293417205910) (2026-08-13)
 - [zamdoteth](https://x.com/zamdoteth/status/2089289158145569013) (2026-08-20)
 - [zamdoteth](https://x.com/zamdoteth/status/2090000178073763951) (2026-08-20)

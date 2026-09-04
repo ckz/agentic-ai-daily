@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-03
-total_mentions: 183
+last_seen: 2026-09-04
+total_mentions: 191
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -14,9 +14,11 @@ total_mentions: 183
 - [0xMovez](https://x.com/0xMovez/status/2073765125958348964) (2026-07-06)
 - [0xchadx](https://x.com/0xchadx/status/2067862587174244810) (2026-06-19)
 - [0xclayn](https://x.com/0xclayn/status/2075292493218721894) (2026-07-11)
+- [0xwhrrari](https://x.com/0xwhrrari/status/2095134652688220236) (2026-09-04)
 - [51bodila](https://x.com/51bodila/status/2085020463290290504) (2026-08-06)
 - [AEON_Community](https://x.com/AEON_Community/status/2064694068677107745) (2026-06-11)
 - [AISecurityInst](https://x.com/AISecurityInst/status/2084746202579386632) (2026-08-06)
+- [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2095414392557068291) (2026-09-04)
 - [AdelDeveloperX](https://x.com/AdelDeveloperX/status/2074195359199375745) (2026-07-07)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2076720209293893677) (2026-07-14)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2065054167677170033) (2026-06-12)
@@ -26,6 +28,7 @@ total_mentions: 183
 - [ArchiveExplorer](https://x.com/ArchiveExplorer/status/2076666622043963789) (2026-07-14)
 - [Argona0x](https://x.com/Argona0x/status/2065525815106769169) (2026-06-13)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065328920514515037) (2026-06-13)
+- [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2095595489031000350) (2026-09-04)
 - [BTCqzy1](https://x.com/BTCqzy1/status/2087496242071056769) (2026-08-13)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2064345389424324891) (2026-06-14)
 - [BinaryScriptar](https://x.com/BinaryScriptar/status/2090679698351391113) (2026-08-22)
@@ -50,6 +53,8 @@ total_mentions: 183
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2074600211364692029) (2026-07-08)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2080708199594823736) (2026-07-25)
 - [Guelug](https://x.com/Guelug/status/2072092575947989385) (2026-07-01)
+- [HeyAnjula](https://x.com/HeyAnjula/status/2094462252107886731) (2026-09-04)
+- [HeyAnjula](https://x.com/HeyAnjula/status/2095164094630518922) (2026-09-04)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2089180119973990492) (2026-08-19)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2065062300218749172) (2026-06-13)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
@@ -101,6 +106,7 @@ total_mentions: 183
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2083815836003996033) (2026-08-07)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2085791632457433119) (2026-08-09)
 - [alliekmiller](https://x.com/alliekmiller/status/2064451731325415446) (2026-06-10)
+- [ashtom](https://x.com/ashtom/status/1925597395192357337) (2026-09-04)
 - [bcherny](https://x.com/bcherny/status/2064431111154053187) (2026-06-15)
 - [beamnxw](https://x.com/beamnxw/status/2080600136456060958) (2026-08-01)
 - [beamnxw](https://x.com/beamnxw/status/2090553472865419568) (2026-08-21)
@@ -115,6 +121,7 @@ total_mentions: 183
 - [codewithimanshu](https://x.com/codewithimanshu/status/2079864840055902389) (2026-07-23)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2082038438803738759) (2026-07-30)
 - [composio](https://x.com/composio/status/2085330847951970801) (2026-08-07)
+- [coreyganim](https://x.com/coreyganim/status/2095635699739554173) (2026-09-04)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1879706901170077978) (2026-06-11)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2062848159215493176) (2026-06-05)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2065324588054310985) (2026-06-12)
@@ -164,6 +171,7 @@ total_mentions: 183
 - [milesdeutscher](https://x.com/milesdeutscher/status/2089509583312339450) (2026-08-18)
 - [mojeskoqq](https://x.com/mojeskoqq/status/2085273824413503536) (2026-08-09)
 - [noisyb0y1](https://x.com/noisyb0y1/status/2087218720594706679) (2026-08-13)
+- [noisyb0y1](https://x.com/noisyb0y1/status/2093305554445738152) (2026-09-04)
 - [officialbunnyos](https://x.com/officialbunnyos/status/2089938164916060444) (2026-08-19)
 - [polydao](https://x.com/polydao/status/2088516287098159531) (2026-08-21)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
