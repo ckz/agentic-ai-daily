@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-04
-total_mentions: 407
+last_seen: 2026-09-05
+total_mentions: 412
 
 ## Related Tweets
 - [0xmarginman](https://x.com/0xmarginman/status/2093147453058863316) (2026-08-30)
@@ -35,6 +35,7 @@ total_mentions: 407
 - [BillAckman](https://x.com/BillAckman/status/2089118514741129636) (2026-08-19)
 - [BillAckman](https://x.com/BillAckman/status/2090190151083532583) (2026-08-20)
 - [Bitget_TradFi](https://x.com/Bitget_TradFi/status/2084806593971962091) (2026-08-07)
+- [BradfordHuber4](https://x.com/BradfordHuber4/status/2095221538979188899) (2026-09-05)
 - [Brennan_Lup](https://x.com/Brennan_Lup/status/2064930712739090835) (2026-06-11)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2062148017818419548) (2026-06-09)
@@ -55,6 +56,7 @@ total_mentions: 407
 - [DevanshuXi](https://x.com/DevanshuXi/status/2094134298266026161) (2026-09-02)
 - [Dhruvam987](https://x.com/Dhruvam987/status/2067811478485582025) (2026-06-19)
 - [Dylan_txa_](https://x.com/Dylan_txa_/status/2095140253149352266) (2026-09-03)
+- [Dylan_txa_](https://x.com/Dylan_txa_/status/2095443899015663890) (2026-09-05)
 - [EthenaFndtn](https://x.com/EthenaFndtn/status/2092976592738001383) (2026-08-28)
 - [FT](https://x.com/FT/status/2092858183907741818) (2026-08-30)
 - [FishAudio](https://x.com/FishAudio/status/2082152596739862853) (2026-07-29)
@@ -78,6 +80,7 @@ total_mentions: 407
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2075516156161536088) (2026-07-13)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2082740804854985035) (2026-08-16)
 - [JasonL_Capital](https://x.com/JasonL_Capital/status/2082434168235954267) (2026-08-05)
+- [JensenHuang](https://x.com/JensenHuang/status/2095482647355244762) (2026-09-05)
 - [JonathanGeige18](https://x.com/JonathanGeige18/status/2088972748953461219) (2026-08-17)
 - [Kalshi](https://x.com/Kalshi/status/2087547153736446426) (2026-08-14)
 - [Kappaemme1926](https://x.com/Kappaemme1926/status/2076637778734153857) (2026-07-14)
@@ -217,6 +220,7 @@ total_mentions: 407
 - [cb_doge](https://x.com/cb_doge/status/2076291436283396496) (2026-07-18)
 - [cb_doge](https://x.com/cb_doge/status/2093481818544844864) (2026-08-29)
 - [cb_doge](https://x.com/cb_doge/status/2094487192936776147) (2026-09-01)
+- [cb_doge](https://x.com/cb_doge/status/2095904642668618229) (2026-09-05)
 - [cfaprenault](https://x.com/cfaprenault/status/2092667736711180300) (2026-08-27)
 - [chamath](https://x.com/chamath/status/2071571183665881515) (2026-07-01)
 - [chamath](https://x.com/chamath/status/2083463694931902561) (2026-08-14)
@@ -274,6 +278,7 @@ total_mentions: 407
 - [gregisenberg](https://x.com/gregisenberg/status/2092665799332745220) (2026-08-31)
 - [gregisenberg](https://x.com/gregisenberg/status/2092699140803211682) (2026-08-28)
 - [gregisenberg](https://x.com/gregisenberg/status/2094518013068484826) (2026-09-02)
+- [gregisenberg](https://x.com/gregisenberg/status/2095538589543059535) (2026-09-05)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [heynavtoor](https://x.com/heynavtoor/status/2090103120399655356) (2026-08-20)
 - [hridoyreh](https://x.com/hridoyreh/status/2092152773148328214) (2026-08-28)

@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-04
-total_mentions: 121
+last_seen: 2026-09-05
+total_mentions: 122
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -53,6 +53,7 @@ total_mentions: 121
 - [TimesOfAI_](https://x.com/TimesOfAI_/status/2085233016067211331) (2026-08-12)
 - [Voxyz_ai](https://x.com/Voxyz_ai/status/2089324197981950408) (2026-08-19)
 - [XFreeze](https://x.com/XFreeze/status/2065333739312590983) (2026-06-12)
+- [Xudong07452910](https://x.com/Xudong07452910/status/2095668162624618959) (2026-09-05)
 - [Ziven_Coder](https://x.com/Ziven_Coder/status/2078482313986642122) (2026-07-30)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
 - [_0xpainn](https://x.com/_0xpainn/status/2075209862263222342) (2026-07-14)

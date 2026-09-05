@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-09-04
-total_mentions: 433
+last_seen: 2026-09-05
+total_mentions: 438
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -44,6 +44,7 @@ total_mentions: 433
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
 - [Benioff](https://x.com/Benioff/status/2092705110082347011) (2026-08-29)
 - [BestAIToolFind](https://x.com/BestAIToolFind/status/2087737224456732920) (2026-08-13)
+- [BradfordHuber4](https://x.com/BradfordHuber4/status/2095221538979188899) (2026-09-05)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2089511874824212925) (2026-08-18)
 - [BridgingNews_](https://x.com/BridgingNews_/status/2087418050660483509) (2026-08-12)
@@ -151,6 +152,7 @@ total_mentions: 433
 - [Mnilax](https://x.com/Mnilax/status/2087651578639470614) (2026-08-14)
 - [Mohansinha](https://x.com/Mohansinha/status/2079629691494060368) (2026-07-24)
 - [MrOnsase](https://x.com/MrOnsase/status/2075841247223165124) (2026-07-11)
+- [MstRokeyaK76792](https://x.com/MstRokeyaK76792/status/2096130494102737375) (2026-09-05)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
 - [NainsiDwiv50980](https://x.com/NainsiDwiv50980/status/2062154970229858372) (2026-06-06)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/1975269391244874103) (2026-06-08)
@@ -168,6 +170,7 @@ total_mentions: 433
 - [RishiUvaach](https://x.com/RishiUvaach/status/2082699300648431635) (2026-07-30)
 - [RishiUvaach](https://x.com/RishiUvaach/status/2090068768395248014) (2026-08-22)
 - [RitOnchain](https://x.com/RitOnchain/status/2090076460698787900) (2026-08-21)
+- [RitOnchain](https://x.com/RitOnchain/status/2094705814317752701) (2026-09-05)
 - [RobertTLange](https://x.com/RobertTLange/status/2081651553929494693) (2026-07-28)
 - [RodmanAi](https://x.com/RodmanAi/status/2091888953037299825) (2026-08-28)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2062274372388507726) (2026-06-05)
@@ -208,6 +211,7 @@ total_mentions: 433
 - [WrangleAi](https://x.com/WrangleAi/status/2083825310982660098) (2026-08-02)
 - [XFreeze](https://x.com/XFreeze/status/2072315431881453800) (2026-07-06)
 - [XiaomiMiMo](https://x.com/XiaomiMiMo/status/2064799879352959085) (2026-06-11)
+- [Xudong07452910](https://x.com/Xudong07452910/status/2095668162624618959) (2026-09-05)
 - [Yuchenj_UW](https://x.com/Yuchenj_UW/status/2070928299744972814) (2026-06-30)
 - [Zev_ee](https://x.com/Zev_ee/status/2068562546601476174) (2026-06-21)
 - [Ziven_Coder](https://x.com/Ziven_Coder/status/2078482313986642122) (2026-07-30)
@@ -391,6 +395,7 @@ total_mentions: 433
 - [sairahul1](https://x.com/sairahul1/status/2084557703226036536) (2026-08-05)
 - [salesforce](https://x.com/salesforce/status/2066491445586858173) (2026-06-28)
 - [sandy4kad](https://x.com/sandy4kad/status/2074948658953593102) (2026-07-09)
+- [sanjeevSab17827](https://x.com/sanjeevSab17827/status/2096081496448913595) (2026-09-05)
 - [santtiagom_](https://x.com/santtiagom_/status/2095685798402064550) (2026-09-04)
 - [sauda_coder](https://x.com/sauda_coder/status/2078463245657211007) (2026-07-20)
 - [seeconvm](https://x.com/seeconvm/status/2087453527190745345) (2026-08-13)

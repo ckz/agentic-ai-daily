@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-04
-total_mentions: 191
+last_seen: 2026-09-05
+total_mentions: 194
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -46,6 +46,7 @@ total_mentions: 191
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [EXM7777](https://x.com/EXM7777/status/2086512844594679820) (2026-08-14)
+- [FReza1984](https://x.com/FReza1984/status/2096123028774252831) (2026-09-05)
 - [Faazsh](https://x.com/Faazsh/status/2068572996076540315) (2026-06-21)
 - [FareaNFts](https://x.com/FareaNFts/status/2092673671676727314) (2026-08-27)
 - [FutureStacked](https://x.com/FutureStacked/status/2074159794030604515) (2026-07-07)
@@ -74,7 +75,9 @@ total_mentions: 191
 - [N01ennn](https://x.com/N01ennn/status/2089455117716406706) (2026-08-18)
 - [NickADobos](https://x.com/NickADobos/status/2090867101028540684) (2026-08-22)
 - [NoahTopper](https://x.com/NoahTopper/status/2081966112691089472) (2026-07-29)
+- [NotionHQ](https://x.com/NotionHQ/status/2095923091134206448) (2026-09-05)
 - [NousResearch](https://x.com/NousResearch/status/2026759005633183980) (2026-06-07)
+- [Origin_AI_01](https://x.com/Origin_AI_01/status/2096073337881641428) (2026-09-05)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
 - [RegalosDigitals](https://x.com/RegalosDigitals/status/2071263024212508813) (2026-06-29)
 - [Revolt_Fi](https://x.com/Revolt_Fi/status/2079266777163522467) (2026-07-21)

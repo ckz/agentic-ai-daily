@@ -1,7 +1,7 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-03
+last_seen: 2026-09-05
 total_mentions: 103
 
 ## Related Tweets
