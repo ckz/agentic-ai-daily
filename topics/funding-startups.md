@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-05
-total_mentions: 412
+last_seen: 2026-09-06
+total_mentions: 418
 
 ## Related Tweets
 - [0xmarginman](https://x.com/0xmarginman/status/2093147453058863316) (2026-08-30)
@@ -14,6 +14,7 @@ total_mentions: 412
 - [AISafetyMemes](https://x.com/AISafetyMemes/status/2087549262427263014) (2026-08-15)
 - [AITECHLabs](https://x.com/AITECHLabs/status/2083070154548654199) (2026-07-31)
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
+- [AgentChud](https://x.com/AgentChud/status/2096259218835718273) (2026-09-06)
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
 - [AlexMasonCrypto](https://x.com/AlexMasonCrypto/status/2090133773081854263) (2026-08-22)
 - [AlphaCapitalUK](https://x.com/AlphaCapitalUK/status/2079957138730848366) (2026-07-25)
@@ -143,6 +144,7 @@ total_mentions: 412
 - [SpikeCalls](https://x.com/SpikeCalls/status/2063529090091532540) (2026-06-08)
 - [StartupArchive_](https://x.com/StartupArchive_/status/2061052571876520406) (2026-06-07)
 - [Steve8708](https://x.com/Steve8708/status/2041909436059615442) (2026-06-06)
+- [Suhail](https://x.com/Suhail/status/2096400764126318843) (2026-09-06)
 - [SultanAlFardan](https://x.com/SultanAlFardan/status/2089552684491657307) (2026-08-18)
 - [SureLeverage](https://x.com/SureLeverage/status/2074846284838846589) (2026-07-11)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2062153533630415305) (2026-06-08)
@@ -173,6 +175,7 @@ total_mentions: 412
 - [a16z](https://x.com/a16z/status/2069869327411749012) (2026-06-29)
 - [aakashgupta](https://x.com/aakashgupta/status/2036653323978420322) (2026-07-05)
 - [aakrit](https://x.com/aakrit/status/2065778171912265899) (2026-06-14)
+- [aashna_doshi2](https://x.com/aashna_doshi2/status/2095182188870521192) (2026-09-06)
 - [abazwhyllzz](https://x.com/abazwhyllzz/status/2084175411714347129) (2026-08-03)
 - [adiix_official](https://x.com/adiix_official/status/2093145821055221859) (2026-09-02)
 - [adriablancafort](https://x.com/adriablancafort/status/2071688701651108309) (2026-06-30)
@@ -246,6 +249,7 @@ total_mentions: 412
 - [djcows](https://x.com/djcows/status/2074245525021335998) (2026-07-12)
 - [ecomchigga](https://x.com/ecomchigga/status/2065176267637297566) (2026-06-13)
 - [edinsoncode](https://x.com/edinsoncode/status/2089677825125368297) (2026-08-19)
+- [egraciani](https://x.com/egraciani/status/2096244534422253635) (2026-09-06)
 - [elonmusk](https://x.com/elonmusk/status/2063319907849093544) (2026-06-12)
 - [elonmusk](https://x.com/elonmusk/status/2071652181854343349) (2026-07-04)
 - [elonmusk](https://x.com/elonmusk/status/2071673460779041155) (2026-07-02)
@@ -357,6 +361,7 @@ total_mentions: 412
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2095311437677883490) (2026-09-03)
 - [rsngprad](https://x.com/rsngprad/status/2072630117218791745) (2026-07-05)
 - [s1rozha_](https://x.com/s1rozha_/status/2087132684514455625) (2026-08-12)
+- [sacha_io](https://x.com/sacha_io/status/2094745129714135343) (2026-09-06)
 - [sahil_seth](https://x.com/sahil_seth/status/2079716698840858930) (2026-07-22)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [sairahul1](https://x.com/sairahul1/status/2075934382284484997) (2026-07-14)
@@ -398,6 +403,7 @@ total_mentions: 412
 - [undefinedKi](https://x.com/undefinedKi/status/2063615286301839698) (2026-06-08)
 - [undefinedKi](https://x.com/undefinedKi/status/2088700554310525370) (2026-08-17)
 - [undefinedKi](https://x.com/undefinedKi/status/2092975165420220838) (2026-08-28)
+- [undefinedKi](https://x.com/undefinedKi/status/2096224107121516997) (2026-09-06)
 - [unusual_whales](https://x.com/unusual_whales/status/2069766741404844484) (2026-07-01)
 - [unusual_whales](https://x.com/unusual_whales/status/2079702282443293037) (2026-07-24)
 - [vigneshxtech](https://x.com/vigneshxtech/status/2068597287010349323) (2026-06-21)

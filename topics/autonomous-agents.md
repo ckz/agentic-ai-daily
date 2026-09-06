@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-05
-total_mentions: 1115
+last_seen: 2026-09-06
+total_mentions: 1124
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -177,6 +177,7 @@ total_mentions: 1115
 - [Bober_smart](https://x.com/Bober_smart/status/2092960076642336816) (2026-08-30)
 - [Bober_smart](https://x.com/Bober_smart/status/2093319806330015828) (2026-09-04)
 - [Bober_smart](https://x.com/Bober_smart/status/2095479502172295378) (2026-09-04)
+- [Bober_smart](https://x.com/Bober_smart/status/2096256460661358995) (2026-09-06)
 - [BradGroux](https://x.com/BradGroux/status/2065096482831659348) (2026-06-13)
 - [BradfordHuber4](https://x.com/BradfordHuber4/status/2095221538979188899) (2026-09-05)
 - [Brainm8ion](https://x.com/Brainm8ion/status/2087751034944803135) (2026-08-13)
@@ -261,11 +262,13 @@ total_mentions: 1115
 - [Fetch_ai](https://x.com/Fetch_ai/status/2071271772326916508) (2026-06-29)
 - [FundamentEdge](https://x.com/FundamentEdge/status/2086632605466915006) (2026-08-10)
 - [FutureStacked](https://x.com/FutureStacked/status/2074159794030604515) (2026-07-07)
+- [GavinSBaker](https://x.com/GavinSBaker/status/2096257640884027500) (2026-09-06)
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2087121081098224122) (2026-08-18)
 - [GesoraMeshack](https://x.com/GesoraMeshack/status/2084521634937856338) (2026-08-04)
 - [GitTrend0x](https://x.com/GitTrend0x/status/2085190556674904253) (2026-08-07)
 - [GoogleAI](https://x.com/GoogleAI/status/2079589742535118985) (2026-07-25)
 - [GoogleAI](https://x.com/GoogleAI/status/2088332438753681700) (2026-08-17)
+- [GoogleAI](https://x.com/GoogleAI/status/2095922185139364267) (2026-09-06)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2062253446888063025) (2026-06-06)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2067012903337664886) (2026-06-20)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2079635020134662654) (2026-07-22)
@@ -284,6 +287,7 @@ total_mentions: 1115
 - [HackingDave](https://x.com/HackingDave/status/2084367299104882779) (2026-08-04)
 - [HarryBee_Yhu](https://x.com/HarryBee_Yhu/status/2067864020527292535) (2026-06-19)
 - [HedgieMarkets](https://x.com/HedgieMarkets/status/2062198862090023293) (2026-06-08)
+- [HermesWatcher](https://x.com/HermesWatcher/status/2093891066508517425) (2026-09-06)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [HowToAI_](https://x.com/HowToAI_/status/2062105627204423994) (2026-06-06)
@@ -356,6 +360,7 @@ total_mentions: 1115
 - [Mahaximus_](https://x.com/Mahaximus_/status/2085433401562308987) (2026-08-07)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2087526534084997176) (2026-08-13)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2090144098380353940) (2026-08-20)
+- [Mahaximus_](https://x.com/Mahaximus_/status/2095867895448309868) (2026-09-06)
 - [MarMarLabs](https://x.com/MarMarLabs/status/2067798374581960840) (2026-06-19)
 - [MarioNawfal](https://x.com/MarioNawfal/status/2085171754415038482) (2026-08-06)
 - [Market_Mind_](https://x.com/Market_Mind_/status/2088651427962921304) (2026-08-17)
@@ -844,6 +849,7 @@ total_mentions: 1115
 - [iBenWills](https://x.com/iBenWills/status/2063840829773369626) (2026-06-08)
 - [iam_elias1](https://x.com/iam_elias1/status/2062095528742240319) (2026-06-05)
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
+- [iam_nafisahmed](https://x.com/iam_nafisahmed/status/2096214894345343135) (2026-09-06)
 - [iamfakeguru](https://x.com/iamfakeguru/status/2075196643314483424) (2026-07-13)
 - [iamrexei](https://x.com/iamrexei/status/2091465106303471964) (2026-08-28)
 - [iamriteshverma](https://x.com/iamriteshverma/status/2068569760196108667) (2026-06-21)
@@ -874,6 +880,7 @@ total_mentions: 1115
 - [jpschroeder](https://x.com/jpschroeder/status/2085099179110703584) (2026-08-06)
 - [kadsxr](https://x.com/kadsxr/status/2076728894363775220) (2026-07-15)
 - [kadsxr](https://x.com/kadsxr/status/2076781099120804218) (2026-07-15)
+- [kaorixbt](https://x.com/kaorixbt/status/2095534784734716405) (2026-09-06)
 - [karlmehta](https://x.com/karlmehta/status/2071232274738344073) (2026-06-29)
 - [kenAI_domains](https://x.com/kenAI_domains/status/2080371618954490323) (2026-07-24)
 - [keyserfaty](https://x.com/keyserfaty/status/2092679276168638954) (2026-08-27)
@@ -937,6 +944,7 @@ total_mentions: 1115
 - [mvanhorn](https://x.com/mvanhorn/status/2061978364391592110) (2026-06-07)
 - [mvanhorn](https://x.com/mvanhorn/status/2074955232728281432) (2026-07-09)
 - [myshell_ai](https://x.com/myshell_ai/status/1874804449023266943) (2026-07-10)
+- [nabeelqu](https://x.com/nabeelqu/status/2094208251688595676) (2026-09-06)
 - [neil_xbt](https://x.com/neil_xbt/status/2067822430014632239) (2026-06-19)
 - [neil_xbt](https://x.com/neil_xbt/status/2089566708839206979) (2026-08-18)
 - [neviannn](https://x.com/neviannn/status/2087254502210490739) (2026-08-13)
@@ -1059,6 +1067,7 @@ total_mentions: 1115
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2078449718414180393) (2026-07-19)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095491337651179621) (2026-09-04)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2095859430776533318) (2026-09-06)
 - [swyx](https://x.com/swyx/status/2076155833428431012) (2026-07-12)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
 - [tech0827](https://x.com/tech0827/status/2066035199607968063) (2026-06-14)

@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-09-05
-total_mentions: 72
+last_seen: 2026-09-06
+total_mentions: 75
 
 ## Related Tweets
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
@@ -49,6 +49,7 @@ total_mentions: 72
 - [amasad](https://x.com/amasad/status/2065452585964949831) (2026-06-15)
 - [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)
 - [arturovilla](https://x.com/arturovilla/status/2087625765529461145) (2026-08-19)
+- [bcherny](https://x.com/bcherny/status/2095378890370019683) (2026-09-06)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
 - [claudeebum](https://x.com/claudeebum/status/2088598997065969933) (2026-08-17)
 - [coder_surya](https://x.com/coder_surya/status/2073957608998715439) (2026-07-06)
@@ -72,8 +73,10 @@ total_mentions: 72
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2094414982251413529) (2026-09-01)
 - [rubenhassid](https://x.com/rubenhassid/status/2063138819856101667) (2026-06-07)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
+- [sama](https://x.com/sama/status/2095600005772104059) (2026-09-06)
 - [scaling01](https://x.com/scaling01/status/2095411747309953427) (2026-09-05)
 - [sitinme](https://x.com/sitinme/status/2088172522063691892) (2026-08-15)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2095859430776533318) (2026-09-06)
 - [wallstengine](https://x.com/wallstengine/status/2094155293261435063) (2026-09-01)
 - [zcode_ai](https://x.com/zcode_ai/status/2092635718766215590) (2026-08-27)
