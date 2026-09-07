@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-09-06
-total_mentions: 667
+last_seen: 2026-09-07
+total_mentions: 674
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -53,6 +53,7 @@ total_mentions: 667
 - [AnhNguyen136515](https://x.com/AnhNguyen136515/status/2073299705971536262) (2026-07-04)
 - [Appetiteldn](https://x.com/Appetiteldn/status/2063800638505361587) (2026-06-08)
 - [Artificialunbox](https://x.com/Artificialunbox/status/2068215362114715908) (2026-06-20)
+- [AssetLove](https://x.com/AssetLove/status/2095059157581733946) (2026-09-07)
 - [Atenov_D](https://x.com/Atenov_D/status/2063583110495707530) (2026-06-08)
 - [Aurimas_Gr](https://x.com/Aurimas_Gr/status/2084608000610754903) (2026-08-06)
 - [Av1dlive](https://x.com/Av1dlive/status/2077048656545628206) (2026-07-15)
@@ -242,6 +243,7 @@ total_mentions: 667
 - [SvpChain](https://x.com/SvpChain/status/2064935788345974954) (2026-06-11)
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2065300113254388162) (2026-06-12)
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2074344040125091936) (2026-07-07)
+- [Tech_by_Shweta](https://x.com/Tech_by_Shweta/status/2096800764526243897) (2026-09-07)
 - [Teknium](https://x.com/Teknium/status/2081450522608107816) (2026-07-28)
 - [TeksCreate](https://x.com/TeksCreate/status/2081499683571040408) (2026-07-27)
 - [TencentAI_News](https://x.com/TencentAI_News/status/2080564369130471512) (2026-07-26)
@@ -392,6 +394,7 @@ total_mentions: 667
 - [dawoodkhan254](https://x.com/dawoodkhan254/status/2081031854371819912) (2026-07-26)
 - [dfinity](https://x.com/dfinity/status/2080201356347146261) (2026-07-26)
 - [dharmesh](https://x.com/dharmesh/status/2093071931188597042) (2026-08-28)
+- [di_zhang_fdu](https://x.com/di_zhang_fdu/status/2096481849937945012) (2026-09-07)
 - [digital_jpn](https://x.com/digital_jpn/status/2087788744502075801) (2026-08-14)
 - [dipakcgajjar](https://x.com/dipakcgajjar/status/2087424434349162689) (2026-08-12)
 - [divaagurlxw](https://x.com/divaagurlxw/status/2087756697469440442) (2026-08-15)
@@ -532,6 +535,7 @@ total_mentions: 667
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [nrlartt](https://x.com/nrlartt/status/2082153925491249607) (2026-07-29)
 - [nubis_app](https://x.com/nubis_app/status/2065699995399881189) (2026-06-13)
+- [nutlope](https://x.com/nutlope/status/2095890193957962077) (2026-09-07)
 - [ocodista](https://x.com/ocodista/status/2064366920049004753) (2026-06-10)
 - [officialbunnyos](https://x.com/officialbunnyos/status/2089938164916060444) (2026-08-19)
 - [oldgamesnob](https://x.com/oldgamesnob/status/2070891527820509292) (2026-06-28)
@@ -558,6 +562,7 @@ total_mentions: 667
 - [precisox](https://x.com/precisox/status/2063510053211054189) (2026-06-08)
 - [precisox](https://x.com/precisox/status/2074294583643848959) (2026-07-07)
 - [promptparag](https://x.com/promptparag/status/2064311991842574695) (2026-06-10)
+- [rauchg](https://x.com/rauchg/status/2096065378598441431) (2026-09-07)
 - [ravikiran_dev7](https://x.com/ravikiran_dev7/status/2089558898886021423) (2026-08-18)
 - [rebel0x0](https://x.com/rebel0x0/status/2067186712758071385) (2026-06-19)
 - [ridark_eth](https://x.com/ridark_eth/status/2066216714644111431) (2026-06-15)
@@ -573,6 +578,7 @@ total_mentions: 667
 - [romanftp](https://x.com/romanftp/status/2092265070310908152) (2026-08-26)
 - [rosemoni18](https://x.com/rosemoni18/status/2094923340062622201) (2026-09-02)
 - [runes_leo](https://x.com/runes_leo/status/2090442625820356780) (2026-08-21)
+- [runwayml](https://x.com/runwayml/status/2095159754414813249) (2026-09-07)
 - [s1rozha_](https://x.com/s1rozha_/status/2087132684514455625) (2026-08-12)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
@@ -647,6 +653,7 @@ total_mentions: 667
 - [undefinedKi](https://x.com/undefinedKi/status/2071931934012211642) (2026-07-02)
 - [undefinedKi](https://x.com/undefinedKi/status/2074978611447365998) (2026-07-09)
 - [undefinedKi](https://x.com/undefinedKi/status/2089316817810465182) (2026-08-18)
+- [undefinedKi](https://x.com/undefinedKi/status/2094769939487809565) (2026-09-07)
 - [undefinedKi](https://x.com/undefinedKi/status/2096224107121516997) (2026-09-06)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2082200846243143795) (2026-07-30)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2087461469881336049) (2026-08-13)

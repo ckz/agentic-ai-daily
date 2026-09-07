@@ -1,7 +1,7 @@
 # Browser Use
 
 first_seen: 2026-06-07
-last_seen: 2026-09-03
+last_seen: 2026-09-07
 total_mentions: 31
 
 ## Related Tweets

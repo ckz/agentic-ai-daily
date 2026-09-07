@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-06
-total_mentions: 418
+last_seen: 2026-09-07
+total_mentions: 424
 
 ## Related Tweets
 - [0xmarginman](https://x.com/0xmarginman/status/2093147453058863316) (2026-08-30)
@@ -71,6 +71,7 @@ total_mentions: 418
 - [GAXEN10](https://x.com/GAXEN10/status/2068603068753596431) (2026-06-21)
 - [GrishinRobotics](https://x.com/GrishinRobotics/status/2067880410676187569) (2026-06-19)
 - [HVemasani](https://x.com/HVemasani/status/2089593578473574842) (2026-08-20)
+- [Hartdrawss](https://x.com/Hartdrawss/status/2096591974685946168) (2026-09-07)
 - [Helion_Energy](https://x.com/Helion_Energy/status/2062554317564108825) (2026-06-07)
 - [Hesamation](https://x.com/Hesamation/status/1970585800325640372) (2026-06-07)
 - [HeyRohhit](https://x.com/HeyRohhit/status/2079594120977527102) (2026-07-22)
@@ -131,6 +132,7 @@ total_mentions: 418
 - [RichardSSutton](https://x.com/RichardSSutton/status/2076663628301058329) (2026-07-17)
 - [Romain_Lapeyre](https://x.com/Romain_Lapeyre/status/2079636276530037009) (2026-07-22)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2032664263882674275) (2026-06-09)
+- [RoundtableSpace](https://x.com/RoundtableSpace/status/2096844664980832620) (2026-09-07)
 - [RuntimeBRT](https://x.com/RuntimeBRT/status/2063848536958288128) (2026-06-10)
 - [RuntimeBRT](https://x.com/RuntimeBRT/status/2084874541864497469) (2026-08-05)
 - [Samaytwt](https://x.com/Samaytwt/status/2087456724165050716) (2026-08-15)
@@ -145,6 +147,7 @@ total_mentions: 418
 - [StartupArchive_](https://x.com/StartupArchive_/status/2061052571876520406) (2026-06-07)
 - [Steve8708](https://x.com/Steve8708/status/2041909436059615442) (2026-06-06)
 - [Suhail](https://x.com/Suhail/status/2096400764126318843) (2026-09-06)
+- [Suhail](https://x.com/Suhail/status/2096611718445285438) (2026-09-07)
 - [SultanAlFardan](https://x.com/SultanAlFardan/status/2089552684491657307) (2026-08-18)
 - [SureLeverage](https://x.com/SureLeverage/status/2074846284838846589) (2026-07-11)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2062153533630415305) (2026-06-08)
@@ -340,6 +343,7 @@ total_mentions: 418
 - [paulg](https://x.com/paulg/status/2083628660708561075) (2026-08-04)
 - [paulg](https://x.com/paulg/status/2086554045750403478) (2026-08-16)
 - [paulg](https://x.com/paulg/status/2086924675163345285) (2026-08-15)
+- [paulg](https://x.com/paulg/status/2096387134768681471) (2026-09-07)
 - [peer_rich](https://x.com/peer_rich/status/2062949788081897633) (2026-06-05)
 - [pelositracker](https://x.com/pelositracker/status/2080314321649746194) (2026-07-26)
 - [pierreeliottlal](https://x.com/pierreeliottlal/status/2066037831626362988) (2026-06-14)
@@ -359,6 +363,7 @@ total_mentions: 418
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2065184524754112720) (2026-06-14)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2085089809371173362) (2026-08-08)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2095311437677883490) (2026-09-03)
+- [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2096117661172384137) (2026-09-07)
 - [rsngprad](https://x.com/rsngprad/status/2072630117218791745) (2026-07-05)
 - [s1rozha_](https://x.com/s1rozha_/status/2087132684514455625) (2026-08-12)
 - [sacha_io](https://x.com/sacha_io/status/2094745129714135343) (2026-09-06)
@@ -408,6 +413,7 @@ total_mentions: 418
 - [unusual_whales](https://x.com/unusual_whales/status/2079702282443293037) (2026-07-24)
 - [vigneshxtech](https://x.com/vigneshxtech/status/2068597287010349323) (2026-06-21)
 - [vipulved](https://x.com/vipulved/status/2072321276094673083) (2026-07-02)
+- [wh0sumit](https://x.com/wh0sumit/status/2096847253550063656) (2026-09-07)
 - [wickedguro](https://x.com/wickedguro/status/2072654822449586327) (2026-07-09)
 - [wickedguro](https://x.com/wickedguro/status/2081582808041210156) (2026-07-27)
 - [wonderful_ai](https://x.com/wonderful_ai/status/2095125312929464388) (2026-09-03)
