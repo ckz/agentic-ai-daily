@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-07
-total_mentions: 1132
+last_seen: 2026-09-08
+total_mentions: 1143
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -214,6 +214,7 @@ total_mentions: 1132
 - [DamiDefi](https://x.com/DamiDefi/status/2071641092479475737) (2026-07-01)
 - [DamiDefi](https://x.com/DamiDefi/status/2073791513092403440) (2026-07-06)
 - [DamiDefi](https://x.com/DamiDefi/status/2075256414616838532) (2026-07-11)
+- [DamiDefi](https://x.com/DamiDefi/status/2096629749003280476) (2026-09-08)
 - [DanKornas](https://x.com/DanKornas/status/2072195733927706691) (2026-07-01)
 - [DanKornas](https://x.com/DanKornas/status/2077488623125971059) (2026-07-16)
 - [DanKornas](https://x.com/DanKornas/status/2085970749110571165) (2026-08-13)
@@ -245,6 +246,7 @@ total_mentions: 1132
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2091606495465242825) (2026-08-28)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2093286019697418608) (2026-09-03)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2093567702979998014) (2026-09-02)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2096906995521450368) (2026-09-08)
 - [DrDatta_AIIMS](https://x.com/DrDatta_AIIMS/status/2085258786403655808) (2026-08-13)
 - [Dr_Singularity](https://x.com/Dr_Singularity/status/2094797783601414196) (2026-09-03)
 - [Dr_Singularity](https://x.com/Dr_Singularity/status/2095235432778813918) (2026-09-03)
@@ -329,6 +331,7 @@ total_mentions: 1132
 - [KirkDBorne](https://x.com/KirkDBorne/status/2076063035525845264) (2026-07-13)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2076503185225617544) (2026-07-13)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2084357801359347866) (2026-08-09)
+- [KirkDBorne](https://x.com/KirkDBorne/status/2097054388506251532) (2026-09-08)
 - [Krishnasagrawal](https://x.com/Krishnasagrawal/status/2075557881156657352) (2026-07-11)
 - [Krishnasagrawal](https://x.com/Krishnasagrawal/status/2076370564831486040) (2026-07-14)
 - [LayerAIorg](https://x.com/LayerAIorg/status/1877351069300179299) (2026-06-08)
@@ -408,6 +411,7 @@ total_mentions: 1132
 - [OpenAI](https://x.com/OpenAI/status/2069770172802773292) (2026-07-01)
 - [OpenAI](https://x.com/OpenAI/status/2090165328290701800) (2026-08-20)
 - [OpenAgents](https://x.com/OpenAgents/status/2067700091750879691) (2026-06-19)
+- [OpenBMB](https://x.com/OpenBMB/status/2096970974247956501) (2026-09-08)
 - [OpenWorldsAI](https://x.com/OpenWorldsAI/status/2077049628399112697) (2026-07-15)
 - [OptimaiNetwork](https://x.com/OptimaiNetwork/status/1937325015055368583) (2026-07-10)
 - [OptimaiNetwork](https://x.com/OptimaiNetwork/status/2014178144429723810) (2026-06-10)
@@ -734,6 +738,7 @@ total_mentions: 1132
 - [dair_ai](https://x.com/dair_ai/status/2081770344952803628) (2026-07-28)
 - [dair_ai](https://x.com/dair_ai/status/2088298364458930462) (2026-08-15)
 - [dair_ai](https://x.com/dair_ai/status/2092260466190106974) (2026-08-30)
+- [dair_ai](https://x.com/dair_ai/status/2097022152088445034) (2026-09-08)
 - [dan__rosenthal](https://x.com/dan__rosenthal/status/2086165641594048875) (2026-08-09)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [dashen_wang](https://x.com/dashen_wang/status/2094659177310269863) (2026-09-05)
@@ -879,6 +884,7 @@ total_mentions: 1132
 - [jiayq](https://x.com/jiayq/status/2082135245776920681) (2026-07-29)
 - [johniosifov](https://x.com/johniosifov/status/2081806958667960770) (2026-07-28)
 - [jpschroeder](https://x.com/jpschroeder/status/2085099179110703584) (2026-08-06)
+- [jshchnz](https://x.com/jshchnz/status/2095873634069831680) (2026-09-08)
 - [kadsxr](https://x.com/kadsxr/status/2076728894363775220) (2026-07-15)
 - [kadsxr](https://x.com/kadsxr/status/2076781099120804218) (2026-07-15)
 - [kaorixbt](https://x.com/kaorixbt/status/2095534784734716405) (2026-09-06)
@@ -921,6 +927,7 @@ total_mentions: 1132
 - [marfinxx](https://x.com/marfinxx/status/2087950466244063718) (2026-08-14)
 - [marfinxx](https://x.com/marfinxx/status/2088756456661401946) (2026-08-16)
 - [marfinxx](https://x.com/marfinxx/status/2090409251940319349) (2026-08-21)
+- [marfinxx](https://x.com/marfinxx/status/2096206860781031528) (2026-09-08)
 - [marryevan999](https://x.com/marryevan999/status/2077795286332952816) (2026-07-18)
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [maxescu](https://x.com/maxescu/status/2087195649561317511) (2026-08-13)
@@ -968,9 +975,11 @@ total_mentions: 1132
 - [officialbunnyos](https://x.com/officialbunnyos/status/2089938164916060444) (2026-08-19)
 - [olesovhcom](https://x.com/olesovhcom/status/2067840948797624766) (2026-06-19)
 - [ollama](https://x.com/ollama/status/2066949797316350361) (2026-06-19)
+- [omarsar0](https://x.com/omarsar0/status/1715491139053121839) (2026-09-08)
 - [omarsar0](https://x.com/omarsar0/status/1846930425849303424) (2026-06-27)
 - [omarsar0](https://x.com/omarsar0/status/2069907174252527816) (2026-06-27)
 - [omarsar0](https://x.com/omarsar0/status/2077792894459793714) (2026-07-17)
+- [omarsar0](https://x.com/omarsar0/status/2095873020778991918) (2026-09-08)
 - [openart_ai](https://x.com/openart_ai/status/2067650953478652126) (2026-06-19)
 - [openservai](https://x.com/openservai/status/2064795739369152670) (2026-06-11)
 - [opentensor](https://x.com/opentensor/status/2078858375081627985) (2026-07-21)
@@ -1086,6 +1095,7 @@ total_mentions: 1132
 - [tetsuoai](https://x.com/tetsuoai/status/2073653059314688465) (2026-07-05)
 - [tetsuoai](https://x.com/tetsuoai/status/2077605893802508479) (2026-07-16)
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)
+- [the_osps](https://x.com/the_osps/status/2097194727401717808) (2026-09-08)
 - [theagenticorg](https://x.com/theagenticorg/status/2073648296761946390) (2026-07-05)
 - [thealexker](https://x.com/thealexker/status/2077841378139426953) (2026-07-17)
 - [thedankoe](https://x.com/thedankoe/status/2090507819229589650) (2026-08-21)
@@ -1118,6 +1128,7 @@ total_mentions: 1132
 - [usmanconsulting](https://x.com/usmanconsulting/status/2067820450856792274) (2026-06-19)
 - [vicky_grok](https://x.com/vicky_grok/status/2070074685669470672) (2026-06-29)
 - [victor_explore](https://x.com/victor_explore/status/2068553997624201627) (2026-06-21)
+- [victorialslocum](https://x.com/victorialslocum/status/1993636038313443826) (2026-09-08)
 - [vincentweisser](https://x.com/vincentweisser/status/2085101151146696820) (2026-08-06)
 - [virtuals_io](https://x.com/virtuals_io/status/1881340149503857151) (2026-06-11)
 - [virtuals_io](https://x.com/virtuals_io/status/2063654910995145209) (2026-06-11)

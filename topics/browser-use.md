@@ -1,8 +1,8 @@
 # Browser Use
 
 first_seen: 2026-06-07
-last_seen: 2026-09-07
-total_mentions: 31
+last_seen: 2026-09-08
+total_mentions: 32
 
 ## Related Tweets
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
@@ -32,6 +32,7 @@ total_mentions: 31
 - [james406](https://x.com/james406/status/2087917558670172285) (2026-08-20)
 - [jiang_kev](https://x.com/jiang_kev/status/2082496145994248488) (2026-07-30)
 - [mfishbein](https://x.com/mfishbein/status/2081031938228232360) (2026-07-27)
+- [omarsar0](https://x.com/omarsar0/status/1715491139053121839) (2026-09-08)
 - [sauda_coder](https://x.com/sauda_coder/status/2078463245657211007) (2026-07-20)
 - [trevin](https://x.com/trevin/status/2091696470424686749) (2026-08-24)
 - [vellum_ai](https://x.com/vellum_ai/status/2093020764400136289) (2026-08-30)

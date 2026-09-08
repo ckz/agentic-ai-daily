@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-07
-total_mentions: 195
+last_seen: 2026-09-08
+total_mentions: 197
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -93,6 +93,7 @@ total_mentions: 195
 - [Tech_by_Shweta](https://x.com/Tech_by_Shweta/status/2096800764526243897) (2026-09-07)
 - [TermiusHQ](https://x.com/TermiusHQ/status/2082616764605874207) (2026-07-30)
 - [Ubermenscchh](https://x.com/Ubermenscchh/status/2082120061951856912) (2026-07-29)
+- [Voxyz_ai](https://x.com/Voxyz_ai/status/2097070213250372025) (2026-09-08)
 - [WesRoth](https://x.com/WesRoth/status/2043871865513619560) (2026-07-24)
 - [WesRoth](https://x.com/WesRoth/status/2062398945607725142) (2026-06-10)
 - [WesRoth](https://x.com/WesRoth/status/2088188889378836786) (2026-08-16)
@@ -109,6 +110,7 @@ total_mentions: 195
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2071509401224261823) (2026-06-30)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2083815836003996033) (2026-08-07)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2085791632457433119) (2026-08-09)
+- [alex_verem](https://x.com/alex_verem/status/2096977799873712631) (2026-09-08)
 - [alliekmiller](https://x.com/alliekmiller/status/2064451731325415446) (2026-06-10)
 - [ashtom](https://x.com/ashtom/status/1925597395192357337) (2026-09-04)
 - [bcherny](https://x.com/bcherny/status/2064431111154053187) (2026-06-15)

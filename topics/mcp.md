@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-09-07
-total_mentions: 674
+last_seen: 2026-09-08
+total_mentions: 682
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -276,6 +276,7 @@ total_mentions: 674
 - [_Engr_tariq](https://x.com/_Engr_tariq/status/2068603345229562006) (2026-06-21)
 - [_avichawla](https://x.com/_avichawla/status/2092688897558089897) (2026-08-30)
 - [_guillecasaus](https://x.com/_guillecasaus/status/2072701807290110212) (2026-07-03)
+- [_guillecasaus](https://x.com/_guillecasaus/status/2096983725489664103) (2026-09-08)
 - [_philschmid](https://x.com/_philschmid/status/2052781345831879145) (2026-06-09)
 - [_vmlops](https://x.com/_vmlops/status/2055521746737156350) (2026-06-15)
 - [_vmlops](https://x.com/_vmlops/status/2063841886193004672) (2026-06-09)
@@ -288,6 +289,9 @@ total_mentions: 674
 - [abskoop](https://x.com/abskoop/status/2090701734138274062) (2026-08-22)
 - [abyssallD](https://x.com/abyssallD/status/2082264319492804953) (2026-07-30)
 - [adamuchigabriel](https://x.com/adamuchigabriel/status/2066299409894109286) (2026-06-15)
+- [adilinthewild](https://x.com/adilinthewild/status/2095177775422538130) (2026-09-08)
+- [adilinthewild](https://x.com/adilinthewild/status/2096501790774817240) (2026-09-08)
+- [adocomplete](https://x.com/adocomplete/status/2095186019067048044) (2026-09-08)
 - [adxtyahq](https://x.com/adxtyahq/status/2062090077296283932) (2026-06-08)
 - [agentfxai](https://x.com/agentfxai/status/2068085567057772841) (2026-06-20)
 - [ai_xiaomu](https://x.com/ai_xiaomu/status/2089730538135556515) (2026-08-20)
@@ -304,6 +308,7 @@ total_mentions: 674
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2093749877272715636) (2026-08-30)
 - [alex_prompter](https://x.com/alex_prompter/status/2071609730293022963) (2026-06-30)
 - [alex_verem](https://x.com/alex_verem/status/2091165832592413114) (2026-08-25)
+- [alex_verem](https://x.com/alex_verem/status/2096977799873712631) (2026-09-08)
 - [alextalksai](https://x.com/alextalksai/status/2087216799435628727) (2026-08-12)
 - [alextalksai](https://x.com/alextalksai/status/2093407520639324611) (2026-09-03)
 - [alextalksai](https://x.com/alextalksai/status/2094165366989799933) (2026-09-03)
@@ -388,6 +393,7 @@ total_mentions: 674
 - [cyrilXBT](https://x.com/cyrilXBT/status/2081944669387137257) (2026-07-28)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2083762211718394276) (2026-08-03)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2085683119320133685) (2026-08-08)
+- [dair_ai](https://x.com/dair_ai/status/2097022152088445034) (2026-09-08)
 - [dannypostma](https://x.com/dannypostma/status/2082689872494755872) (2026-07-30)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [davemccollough](https://x.com/davemccollough/status/2064154192856670213) (2026-06-09)
@@ -491,6 +497,7 @@ total_mentions: 674
 - [jerryjliu0](https://x.com/jerryjliu0/status/2091564183922077885) (2026-08-24)
 - [jorilallo](https://x.com/jorilallo/status/2087277823631204591) (2026-08-15)
 - [josesilesdata](https://x.com/josesilesdata/status/2082814804700319881) (2026-08-03)
+- [jshchnz](https://x.com/jshchnz/status/2095873634069831680) (2026-09-08)
 - [justmazer](https://x.com/justmazer/status/2088344886206705880) (2026-08-15)
 - [k2sbhai](https://x.com/k2sbhai/status/2090007138567655564) (2026-08-22)
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
@@ -500,6 +507,7 @@ total_mentions: 674
 - [louszbd](https://x.com/louszbd/status/2094867896250048705) (2026-09-02)
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2062918118503231694) (2026-06-07)
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2073646837894992126) (2026-07-05)
+- [luccacerf](https://x.com/luccacerf/status/2097047098281672782) (2026-09-08)
 - [maarcoofdezz](https://x.com/maarcoofdezz/status/2079543760585691543) (2026-07-22)
 - [maarcoofdezz](https://x.com/maarcoofdezz/status/2085055293608587681) (2026-08-06)
 - [maarcoofdezz](https://x.com/maarcoofdezz/status/2092314221992161620) (2026-08-31)

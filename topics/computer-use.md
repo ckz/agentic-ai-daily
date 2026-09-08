@@ -1,11 +1,12 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-09-07
-total_mentions: 77
+last_seen: 2026-09-08
+total_mentions: 80
 
 ## Related Tweets
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
+- [AlejandroRomaan](https://x.com/AlejandroRomaan/status/2096610078837141569) (2026-09-08)
 - [AriX](https://x.com/AriX/status/2075282339782095163) (2026-07-13)
 - [Bha74142Shivani](https://x.com/Bha74142Shivani/status/2087441456726524324) (2026-08-12)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2064410897486160099) (2026-06-10)
@@ -39,6 +40,7 @@ total_mentions: 77
 - [TeksCreate](https://x.com/TeksCreate/status/2081499683571040408) (2026-07-27)
 - [VaibhavSisinty](https://x.com/VaibhavSisinty/status/2094315036995166499) (2026-09-01)
 - [WesRoth](https://x.com/WesRoth/status/2063833395298533464) (2026-06-10)
+- [XiaomiMiMoDevs](https://x.com/XiaomiMiMoDevs/status/2097217950700679503) (2026-09-08)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2090597249130635389) (2026-08-22)
 - [a16z](https://x.com/a16z/status/2086906363947737406) (2026-08-11)
 - [aakashgupta](https://x.com/aakashgupta/status/2075353796671090794) (2026-07-10)
@@ -72,6 +74,7 @@ total_mentions: 77
 - [milindlabs](https://x.com/milindlabs/status/2087289803964559746) (2026-08-14)
 - [nicbstme](https://x.com/nicbstme/status/2088014852954669300) (2026-08-14)
 - [norapsi](https://x.com/norapsi/status/2095180581550305503) (2026-09-03)
+- [rileybrown](https://x.com/rileybrown/status/2097080191163998488) (2026-09-08)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2094414982251413529) (2026-09-01)
 - [rubenhassid](https://x.com/rubenhassid/status/2063138819856101667) (2026-06-07)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)

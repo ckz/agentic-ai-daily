@@ -1,13 +1,14 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-07
-total_mentions: 424
+last_seen: 2026-09-08
+total_mentions: 430
 
 ## Related Tweets
 - [0xmarginman](https://x.com/0xmarginman/status/2093147453058863316) (2026-08-30)
 - [0xvietnguyen](https://x.com/0xvietnguyen/status/2088504476865081410) (2026-08-21)
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
+- [5eniorDeveloper](https://x.com/5eniorDeveloper/status/2097029277434757251) (2026-09-08)
 - [5harath](https://x.com/5harath/status/2082161680516063294) (2026-07-29)
 - [90daysliquidity](https://x.com/90daysliquidity/status/2088026533860409432) (2026-08-16)
 - [AFpost](https://x.com/AFpost/status/2078881670162202801) (2026-07-20)
@@ -164,6 +165,7 @@ total_mentions: 424
 - [Variety](https://x.com/Variety/status/2078236164197322969) (2026-07-18)
 - [Vicmunro](https://x.com/Vicmunro/status/2093675879444402505) (2026-09-01)
 - [Voxyz_ai](https://x.com/Voxyz_ai/status/2089324197981950408) (2026-08-19)
+- [WSJ](https://x.com/WSJ/status/2097199756711784561) (2026-09-08)
 - [WaldronLewis](https://x.com/WaldronLewis/status/2072605320132575489) (2026-07-03)
 - [WallStreetApes](https://x.com/WallStreetApes/status/2072876695120658620) (2026-07-05)
 - [WatcherGuru](https://x.com/WatcherGuru/status/2066844381504561211) (2026-06-20)
@@ -173,6 +175,7 @@ total_mentions: 424
 - [XFreeze](https://x.com/XFreeze/status/2072891163502080053) (2026-07-06)
 - [XFreeze](https://x.com/XFreeze/status/2090213954744463691) (2026-08-20)
 - [YhungProf0](https://x.com/YhungProf0/status/2071829780270391531) (2026-07-02)
+- [_baretto](https://x.com/_baretto/status/2096899523289522416) (2026-09-08)
 - [_poolday_](https://x.com/_poolday_/status/2065097298946777226) (2026-06-12)
 - [_shikhar_jais](https://x.com/_shikhar_jais/status/2063133010074206331) (2026-06-06)
 - [a16z](https://x.com/a16z/status/2069869327411749012) (2026-06-29)
@@ -220,6 +223,7 @@ total_mentions: 424
 - [business](https://x.com/business/status/2063849595688407299) (2026-06-08)
 - [business](https://x.com/business/status/2064560376595804273) (2026-06-10)
 - [business](https://x.com/business/status/2089077253778915636) (2026-08-19)
+- [business](https://x.com/business/status/2097139831302160849) (2026-09-08)
 - [bykahlil](https://x.com/bykahlil/status/2079265093607637030) (2026-07-21)
 - [cb_doge](https://x.com/cb_doge/status/2062681226633523250) (2026-06-08)
 - [cb_doge](https://x.com/cb_doge/status/2072009965389443374) (2026-07-03)
@@ -312,6 +316,7 @@ total_mentions: 424
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)
 - [kmr_dilip](https://x.com/kmr_dilip/status/2084154599183929363) (2026-08-06)
 - [kseniam0s](https://x.com/kseniam0s/status/2069540568615604610) (2026-06-27)
+- [lami_thefirst](https://x.com/lami_thefirst/status/2097224273853129017) (2026-09-08)
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
 - [lightspeedvp](https://x.com/lightspeedvp/status/2070182060224852105) (2026-06-27)
 - [marclou](https://x.com/marclou/status/2086700255949865456) (2026-08-15)
@@ -354,6 +359,7 @@ total_mentions: 424
 - [rahulbais136](https://x.com/rahulbais136/status/2077192536335192463) (2026-07-15)
 - [rauchg](https://x.com/rauchg/status/2088735125744070932) (2026-08-18)
 - [ravikiran_dev7](https://x.com/ravikiran_dev7/status/2088373187981828420) (2026-08-16)
+- [realEstateTrent](https://x.com/realEstateTrent/status/2096996751013982458) (2026-09-08)
 - [richtosho](https://x.com/richtosho/status/2078797686451409133) (2026-07-26)
 - [richtosho](https://x.com/richtosho/status/2080930554782830700) (2026-07-31)
 - [ridark_eth](https://x.com/ridark_eth/status/2068120584047804649) (2026-06-20)

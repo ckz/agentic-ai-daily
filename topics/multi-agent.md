@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-09-07
-total_mentions: 272
+last_seen: 2026-09-08
+total_mentions: 276
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -21,6 +21,7 @@ total_mentions: 272
 - [0xwhrrari](https://x.com/0xwhrrari/status/2095134652688220236) (2026-09-04)
 - [AIEconomicsUS](https://x.com/AIEconomicsUS/status/2066055790448837033) (2026-06-14)
 - [AISafetyMemes](https://x.com/AISafetyMemes/status/2092781128826618209) (2026-09-02)
+- [AISafetyMemes](https://x.com/AISafetyMemes/status/2096090691541545235) (2026-09-08)
 - [AIonBase_](https://x.com/AIonBase_/status/2019752568595833185) (2026-07-10)
 - [AIonBase_](https://x.com/AIonBase_/status/2063002925761237147) (2026-06-05)
 - [APompliano](https://x.com/APompliano/status/2079571863642984883) (2026-07-25)
@@ -91,6 +92,7 @@ total_mentions: 272
 - [Kimi_Moonshot](https://x.com/Kimi_Moonshot/status/2063990409903112344) (2026-06-09)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2072425629627330995) (2026-07-02)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2076503185225617544) (2026-07-13)
+- [KirkDBorne](https://x.com/KirkDBorne/status/2097054388506251532) (2026-09-08)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [LingoAI_io](https://x.com/LingoAI_io/status/2081748881914912793) (2026-07-28)
@@ -175,6 +177,7 @@ total_mentions: 272
 - [cyrilXBT](https://x.com/cyrilXBT/status/2077628796572741967) (2026-07-16)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2085261842625257870) (2026-08-06)
 - [d_vuln](https://x.com/d_vuln/status/2065305823631294810) (2026-06-12)
+- [dair_ai](https://x.com/dair_ai/status/2097022152088445034) (2026-09-08)
 - [dashen_wang](https://x.com/dashen_wang/status/2094659177310269863) (2026-09-05)
 - [divaagurlxw](https://x.com/divaagurlxw/status/2087756697469440442) (2026-08-15)
 - [dkare1009](https://x.com/dkare1009/status/2073383916832985331) (2026-07-05)
@@ -211,6 +214,7 @@ total_mentions: 272
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2073646837894992126) (2026-07-05)
 - [marfinxx](https://x.com/marfinxx/status/2083523471846281590) (2026-08-02)
 - [marfinxx](https://x.com/marfinxx/status/2090409251940319349) (2026-08-21)
+- [marfinxx](https://x.com/marfinxx/status/2096206860781031528) (2026-09-08)
 - [marryevan999](https://x.com/marryevan999/status/2068200210745217463) (2026-06-20)
 - [matei_zaharia](https://x.com/matei_zaharia/status/2065827057624605146) (2026-06-14)
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
