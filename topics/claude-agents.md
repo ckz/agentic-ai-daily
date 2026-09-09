@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-08
-total_mentions: 197
+last_seen: 2026-09-09
+total_mentions: 200
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -118,6 +118,7 @@ total_mentions: 197
 - [beamnxw](https://x.com/beamnxw/status/2090553472865419568) (2026-08-21)
 - [bindureddy](https://x.com/bindureddy/status/2087034287396938177) (2026-08-11)
 - [bonduelleioat](https://x.com/bonduelleioat/status/2090015153739669554) (2026-08-23)
+- [businessbarista](https://x.com/businessbarista/status/2097478065723162959) (2026-09-09)
 - [candyyueliu](https://x.com/candyyueliu/status/2062178835689623592) (2026-06-29)
 - [carverfomo](https://x.com/carverfomo/status/2064338010242490662) (2026-06-10)
 - [celineodier](https://x.com/celineodier/status/2094079187904610504) (2026-09-01)
@@ -169,6 +170,7 @@ total_mentions: 197
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [kunalstwt](https://x.com/kunalstwt/status/2073978095644643520) (2026-07-06)
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
+- [lksmlabc](https://x.com/lksmlabc/status/2096524556123115628) (2026-09-09)
 - [matei_zaharia](https://x.com/matei_zaharia/status/2065827057624605146) (2026-06-14)
 - [mikefutia](https://x.com/mikefutia/status/2069488510424531371) (2026-06-27)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2072358721821221212) (2026-07-02)
@@ -198,6 +200,7 @@ total_mentions: 197
 - [undefinedKi](https://x.com/undefinedKi/status/2070221446786215970) (2026-06-27)
 - [undefinedKi](https://x.com/undefinedKi/status/2070864207608684800) (2026-06-28)
 - [undefinedKi](https://x.com/undefinedKi/status/2071931934012211642) (2026-07-02)
+- [undefinedKi](https://x.com/undefinedKi/status/2097302662026870996) (2026-09-09)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2087461469881336049) (2026-08-13)
 - [vercel_dev](https://x.com/vercel_dev/status/2065509970775519569) (2026-06-13)
 - [virgilxbt](https://x.com/virgilxbt/status/2092605992953332128) (2026-08-27)

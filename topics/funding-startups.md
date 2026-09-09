@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-08
-total_mentions: 430
+last_seen: 2026-09-09
+total_mentions: 432
 
 ## Related Tweets
 - [0xmarginman](https://x.com/0xmarginman/status/2093147453058863316) (2026-08-30)
@@ -321,6 +321,7 @@ total_mentions: 430
 - [lightspeedvp](https://x.com/lightspeedvp/status/2070182060224852105) (2026-06-27)
 - [marclou](https://x.com/marclou/status/2086700255949865456) (2026-08-15)
 - [marclou](https://x.com/marclou/status/2095153862818894109) (2026-09-03)
+- [marclou](https://x.com/marclou/status/2097326512169222407) (2026-09-09)
 - [marcrandolph](https://x.com/marcrandolph/status/2093141802610254231) (2026-08-29)
 - [marfinxx](https://x.com/marfinxx/status/2087950466244063718) (2026-08-14)
 - [margelo_com](https://x.com/margelo_com/status/2092310982710235294) (2026-08-28)
@@ -340,6 +341,7 @@ total_mentions: 430
 - [nextjs](https://x.com/nextjs/status/2071647669467201657) (2026-07-02)
 - [nicochristie](https://x.com/nicochristie/status/2093729344871170219) (2026-08-30)
 - [noah_schochet](https://x.com/noah_schochet/status/2077044441978737104) (2026-07-17)
+- [opentensor](https://x.com/opentensor/status/2097575251597054345) (2026-09-09)
 - [patrick_oshag](https://x.com/patrick_oshag/status/2089713931183153293) (2026-08-19)
 - [paulg](https://x.com/paulg/status/2063091245334044902) (2026-06-06)
 - [paulg](https://x.com/paulg/status/2063644836981260638) (2026-06-12)

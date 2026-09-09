@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-09-08
-total_mentions: 80
+last_seen: 2026-09-09
+total_mentions: 81
 
 ## Related Tweets
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
@@ -27,6 +27,7 @@ total_mentions: 80
 - [MaxForAI](https://x.com/MaxForAI/status/2090569520717115493) (2026-08-21)
 - [MaxForAI](https://x.com/MaxForAI/status/2095954732938674377) (2026-09-05)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
+- [NexEcosystem](https://x.com/NexEcosystem/status/2097341149405151287) (2026-09-09)
 - [NickADobos](https://x.com/NickADobos/status/2090867101028540684) (2026-08-22)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2075275868268789885) (2026-07-11)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2077166520392970529) (2026-07-15)
