@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-09-09
-total_mentions: 694
+last_seen: 2026-09-10
+total_mentions: 701
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -51,12 +51,14 @@ total_mentions: 694
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2076366894655848871) (2026-07-13)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2084265153898373580) (2026-08-06)
 - [AnhNguyen136515](https://x.com/AnhNguyen136515/status/2073299705971536262) (2026-07-04)
+- [AnnatarXBT](https://x.com/AnnatarXBT/status/2096989076138168433) (2026-09-10)
 - [Appetiteldn](https://x.com/Appetiteldn/status/2063800638505361587) (2026-06-08)
 - [Artificialunbox](https://x.com/Artificialunbox/status/2068215362114715908) (2026-06-20)
 - [AssetLove](https://x.com/AssetLove/status/2095059157581733946) (2026-09-07)
 - [Atenov_D](https://x.com/Atenov_D/status/2063583110495707530) (2026-06-08)
 - [Aurimas_Gr](https://x.com/Aurimas_Gr/status/2084608000610754903) (2026-08-06)
 - [Av1dlive](https://x.com/Av1dlive/status/2077048656545628206) (2026-07-15)
+- [Av1dlive](https://x.com/Av1dlive/status/2097639365644279857) (2026-09-10)
 - [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2067914133576749325) (2026-06-21)
 - [Aykutuces](https://x.com/Aykutuces/status/2082167918138106256) (2026-07-29)
 - [BIGMayrr](https://x.com/BIGMayrr/status/2088258814554390943) (2026-08-17)
@@ -128,6 +130,7 @@ total_mentions: 694
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [HoodAI0x](https://x.com/HoodAI0x/status/2079228983309176849) (2026-07-21)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2076689880026096089) (2026-07-14)
+- [Hunter_Weiss](https://x.com/Hunter_Weiss/status/2097475932797751801) (2026-09-10)
 - [IBuzovskyi](https://x.com/IBuzovskyi/status/2065559839036637291) (2026-06-15)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2062485176358486507) (2026-06-09)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2063904128708022613) (2026-06-09)
@@ -512,6 +515,7 @@ total_mentions: 694
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [kunalstwt](https://x.com/kunalstwt/status/2073978095644643520) (2026-07-06)
+- [leopardracer](https://x.com/leopardracer/status/2096537453804876205) (2026-09-10)
 - [lifemaximised](https://x.com/lifemaximised/status/2094966852887687492) (2026-09-05)
 - [lksmlabc](https://x.com/lksmlabc/status/2096524556123115628) (2026-09-09)
 - [louszbd](https://x.com/louszbd/status/2094867896250048705) (2026-09-02)
@@ -575,6 +579,8 @@ total_mentions: 694
 - [polsia](https://x.com/polsia/status/2062988231151677690) (2026-06-05)
 - [polydao](https://x.com/polydao/status/2071832672066830847) (2026-07-01)
 - [polydao](https://x.com/polydao/status/2088516287098159531) (2026-08-21)
+- [polydao](https://x.com/polydao/status/2097307991875661876) (2026-09-10)
+- [polydao](https://x.com/polydao/status/2097642088506487020) (2026-09-10)
 - [prasenx](https://x.com/prasenx/status/2076631428926972177) (2026-07-15)
 - [praveenTweets](https://x.com/praveenTweets/status/2093012409841774782) (2026-08-30)
 - [precisox](https://x.com/precisox/status/2063510053211054189) (2026-06-08)
@@ -693,6 +699,7 @@ total_mentions: 694
 - [xiaoying_eth](https://x.com/xiaoying_eth/status/2064183483795460502) (2026-06-10)
 - [xikhar](https://x.com/xikhar/status/2082220460486639929) (2026-07-29)
 - [y_sugi_it](https://x.com/y_sugi_it/status/2095302562505449951) (2026-09-03)
+- [yousefrol](https://x.com/yousefrol/status/2095443270604108143) (2026-09-10)
 - [yozm_it](https://x.com/yozm_it/status/2071417501792211397) (2026-06-29)
 - [yulmu_coffee](https://x.com/yulmu_coffee/status/2090277176663048454) (2026-08-22)
 - [zackpaid](https://x.com/zackpaid/status/2065125827864678420) (2026-06-12)

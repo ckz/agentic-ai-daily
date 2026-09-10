@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-09
-total_mentions: 200
+last_seen: 2026-09-10
+total_mentions: 203
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -79,6 +79,7 @@ total_mentions: 200
 - [NousResearch](https://x.com/NousResearch/status/2026759005633183980) (2026-06-07)
 - [Origin_AI_01](https://x.com/Origin_AI_01/status/2096073337881641428) (2026-09-05)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
+- [Pirat_Nation](https://x.com/Pirat_Nation/status/2096267361066356859) (2026-09-10)
 - [RegalosDigitals](https://x.com/RegalosDigitals/status/2071263024212508813) (2026-06-29)
 - [Revolt_Fi](https://x.com/Revolt_Fi/status/2079266777163522467) (2026-07-21)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2074618209073078367) (2026-07-08)
@@ -110,6 +111,7 @@ total_mentions: 200
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2071509401224261823) (2026-06-30)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2083815836003996033) (2026-08-07)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2085791632457433119) (2026-08-09)
+- [alex_verem](https://x.com/alex_verem/status/2095920078231625991) (2026-09-10)
 - [alex_verem](https://x.com/alex_verem/status/2096977799873712631) (2026-09-08)
 - [alliekmiller](https://x.com/alliekmiller/status/2064451731325415446) (2026-06-10)
 - [ashtom](https://x.com/ashtom/status/1925597395192357337) (2026-09-04)
@@ -182,6 +184,7 @@ total_mentions: 200
 - [noisyb0y1](https://x.com/noisyb0y1/status/2093305554445738152) (2026-09-04)
 - [officialbunnyos](https://x.com/officialbunnyos/status/2089938164916060444) (2026-08-19)
 - [polydao](https://x.com/polydao/status/2088516287098159531) (2026-08-21)
+- [polydao](https://x.com/polydao/status/2097642088506487020) (2026-09-10)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2092970481423192328) (2026-09-03)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)

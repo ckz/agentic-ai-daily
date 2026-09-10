@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-09
-total_mentions: 432
+last_seen: 2026-09-10
+total_mentions: 437
 
 ## Related Tweets
 - [0xmarginman](https://x.com/0xmarginman/status/2093147453058863316) (2026-08-30)
@@ -97,6 +97,7 @@ total_mentions: 432
 - [MTSlive](https://x.com/MTSlive/status/2065073640182579322) (2026-06-12)
 - [MTSlive](https://x.com/MTSlive/status/2079701447084740739) (2026-07-22)
 - [Maker17368Maker](https://x.com/Maker17368Maker/status/2062810745210040366) (2026-06-07)
+- [Marsadist](https://x.com/Marsadist/status/2095333453956854216) (2026-09-10)
 - [MasashiAONO](https://x.com/MasashiAONO/status/2076147787713163280) (2026-07-12)
 - [MeidasTouch](https://x.com/MeidasTouch/status/2077164264595288203) (2026-07-20)
 - [MicronCEO](https://x.com/MicronCEO/status/2090533293519409610) (2026-08-23)
@@ -138,6 +139,7 @@ total_mentions: 432
 - [RuntimeBRT](https://x.com/RuntimeBRT/status/2084874541864497469) (2026-08-05)
 - [Samaytwt](https://x.com/Samaytwt/status/2087456724165050716) (2026-08-15)
 - [SawyerMerritt](https://x.com/SawyerMerritt/status/2070711031094022508) (2026-07-02)
+- [SawyerMerritt](https://x.com/SawyerMerritt/status/2097918541236208092) (2026-09-10)
 - [SeedifyFund](https://x.com/SeedifyFund/status/1882843585470406990) (2026-06-08)
 - [SenAshleyMoody](https://x.com/SenAshleyMoody/status/2086020042362167308) (2026-08-11)
 - [SenMikeLee](https://x.com/SenMikeLee/status/2077145376960741857) (2026-07-18)
@@ -218,6 +220,7 @@ total_mentions: 432
 - [bizbreakdowns](https://x.com/bizbreakdowns/status/2081711200643985720) (2026-07-29)
 - [blaire_pang](https://x.com/blaire_pang/status/2081545224372068594) (2026-07-27)
 - [bondaicommunity](https://x.com/bondaicommunity/status/2071466190359220413) (2026-06-29)
+- [boringcompany](https://x.com/boringcompany/status/2097916729246810158) (2026-09-10)
 - [brainrulax](https://x.com/brainrulax/status/2087647943444832495) (2026-08-19)
 - [braveben](https://x.com/braveben/status/2091026231269658694) (2026-08-23)
 - [business](https://x.com/business/status/2063849595688407299) (2026-06-08)
@@ -380,6 +383,7 @@ total_mentions: 432
 - [sairahul1](https://x.com/sairahul1/status/2075934382284484997) (2026-07-14)
 - [samsenchal](https://x.com/samsenchal/status/2068605085089693994) (2026-06-21)
 - [sean_wallace_](https://x.com/sean_wallace_/status/2063994540873433201) (2026-06-09)
+- [sethbannon](https://x.com/sethbannon/status/2097738103989645725) (2026-09-10)
 - [sflorimm](https://x.com/sflorimm/status/2087060630696042736) (2026-08-14)
 - [shmidtqq](https://x.com/shmidtqq/status/2074446282303639911) (2026-07-09)
 - [signulll](https://x.com/signulll/status/2064053145580278163) (2026-06-09)
@@ -387,6 +391,7 @@ total_mentions: 432
 - [skeptrune](https://x.com/skeptrune/status/2092294676594471062) (2026-08-27)
 - [slash1sol](https://x.com/slash1sol/status/2033636802855374982) (2026-06-13)
 - [solovaultinfo](https://x.com/solovaultinfo/status/2068553835598241965) (2026-06-21)
+- [soundboy](https://x.com/soundboy/status/2097607789929443537) (2026-09-10)
 - [spaceandtech_](https://x.com/spaceandtech_/status/2087905670595223735) (2026-08-16)
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
 - [stevenfiorillo](https://x.com/stevenfiorillo/status/2093840650223358375) (2026-08-30)

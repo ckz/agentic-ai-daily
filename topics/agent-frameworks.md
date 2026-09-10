@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-09-09
-total_mentions: 453
+last_seen: 2026-09-10
+total_mentions: 455
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -335,6 +335,7 @@ total_mentions: 453
 - [goyalshaliniuk](https://x.com/goyalshaliniuk/status/2079529319765033276) (2026-07-22)
 - [goyalshaliniuk](https://x.com/goyalshaliniuk/status/2089359091332166027) (2026-08-22)
 - [gravitygotmeup](https://x.com/gravitygotmeup/status/2068193792780591353) (2026-06-20)
+- [gregisenberg](https://x.com/gregisenberg/status/2097381384608166057) (2026-09-10)
 - [gumterver100](https://x.com/gumterver100/status/2087078337235628286) (2026-08-11)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [hasantoxr](https://x.com/hasantoxr/status/2075864853542269183) (2026-07-15)
@@ -388,6 +389,7 @@ total_mentions: 453
 - [paywithmana](https://x.com/paywithmana/status/2074758476220473387) (2026-07-08)
 - [petergyang](https://x.com/petergyang/status/2083917722765947284) (2026-08-04)
 - [piyascode9](https://x.com/piyascode9/status/2060204362497224790) (2026-06-05)
+- [polydao](https://x.com/polydao/status/2097642088506487020) (2026-09-10)
 - [py_kanade0404](https://x.com/py_kanade0404/status/2079825109083467821) (2026-07-22)
 - [radiyal_agency](https://x.com/radiyal_agency/status/2072183621176504669) (2026-07-01)
 - [randy_magruder](https://x.com/randy_magruder/status/2075453861754470569) (2026-07-10)

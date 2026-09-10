@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-09
-total_mentions: 127
+last_seen: 2026-09-10
+total_mentions: 132
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -15,6 +15,7 @@ total_mentions: 127
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065328920514515037) (2026-06-13)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065559824230957190) (2026-06-14)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2095595489031000350) (2026-09-04)
+- [Av1dlive](https://x.com/Av1dlive/status/2097639365644279857) (2026-09-10)
 - [ChromiumDev](https://x.com/ChromiumDev/status/2077874454105862423) (2026-07-17)
 - [Colhodm](https://x.com/Colhodm/status/2072373857999098214) (2026-07-02)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
@@ -24,6 +25,7 @@ total_mentions: 127
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2076991866935845287) (2026-07-15)
 - [EXM7777](https://x.com/EXM7777/status/2086512844594679820) (2026-08-14)
 - [FareaNFts](https://x.com/FareaNFts/status/2072985538756317458) (2026-07-07)
+- [Hartdrawss](https://x.com/Hartdrawss/status/2096924182260875471) (2026-09-10)
 - [HelloRH_AI](https://x.com/HelloRH_AI/status/2077711932774105164) (2026-07-18)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
@@ -31,6 +33,7 @@ total_mentions: 127
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2071971609183678544) (2026-07-01)
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
+- [Lummox_eth](https://x.com/Lummox_eth/status/2097351499575697477) (2026-09-10)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2081303563746398665) (2026-07-28)
 - [N01ennn](https://x.com/N01ennn/status/2088606747531358505) (2026-08-21)
 - [N01ennn](https://x.com/N01ennn/status/2089455117716406706) (2026-08-18)
@@ -39,6 +42,7 @@ total_mentions: 127
 - [NickADobos](https://x.com/NickADobos/status/2090867101028540684) (2026-08-22)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2075275868268789885) (2026-07-11)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
+- [Pirat_Nation](https://x.com/Pirat_Nation/status/2096267361066356859) (2026-09-10)
 - [Priyannkaaaa](https://x.com/Priyannkaaaa/status/2083851157324046649) (2026-08-03)
 - [SIGKITTEN](https://x.com/SIGKITTEN/status/1980809995823591805) (2026-06-12)
 - [SarvamAI](https://x.com/SarvamAI/status/2074116231461011764) (2026-07-07)
@@ -54,6 +58,7 @@ total_mentions: 127
 - [Voxyz_ai](https://x.com/Voxyz_ai/status/2089324197981950408) (2026-08-19)
 - [XFreeze](https://x.com/XFreeze/status/2065333739312590983) (2026-06-12)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2095668162624618959) (2026-09-05)
+- [Xudong07452910](https://x.com/Xudong07452910/status/2097846768323133559) (2026-09-10)
 - [Ziven_Coder](https://x.com/Ziven_Coder/status/2078482313986642122) (2026-07-30)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
 - [_0xpainn](https://x.com/_0xpainn/status/2075209862263222342) (2026-07-14)
