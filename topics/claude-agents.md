@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-10
-total_mentions: 203
+last_seen: 2026-09-11
+total_mentions: 205
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -24,6 +24,7 @@ total_mentions: 203
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2065054167677170033) (2026-06-12)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2086567854850384054) (2026-08-13)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2087730345173229657) (2026-08-13)
+- [Anujatk14](https://x.com/Anujatk14/status/2096628315700564293) (2026-09-11)
 - [Arcane_Aii](https://x.com/Arcane_Aii/status/2064316482071171261) (2026-06-11)
 - [ArchiveExplorer](https://x.com/ArchiveExplorer/status/2076666622043963789) (2026-07-14)
 - [Argona0x](https://x.com/Argona0x/status/2065525815106769169) (2026-06-13)
@@ -197,6 +198,7 @@ total_mentions: 203
 - [stretchcloud](https://x.com/stretchcloud/status/2072215124958740898) (2026-07-01)
 - [stretchcloud](https://x.com/stretchcloud/status/2074649666608840706) (2026-07-08)
 - [tanayj](https://x.com/tanayj/status/2072108170080657729) (2026-07-01)
+- [tetsuoai](https://x.com/tetsuoai/status/2098199890237247578) (2026-09-11)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2081680037544427793) (2026-07-28)
 - [timsneath](https://x.com/timsneath/status/2072479088661651612) (2026-07-02)

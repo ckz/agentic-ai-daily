@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-10
-total_mentions: 1169
+last_seen: 2026-09-11
+total_mentions: 1179
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -298,6 +298,7 @@ total_mentions: 1169
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [HowToAI_](https://x.com/HowToAI_/status/2062105627204423994) (2026-06-06)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2089180119973990492) (2026-08-19)
+- [HowToPrompt__](https://x.com/HowToPrompt__/status/2097489050332692836) (2026-09-11)
 - [Huawei](https://x.com/Huawei/status/2064239307838419399) (2026-06-09)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2065062300218749172) (2026-06-13)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2068205769002991901) (2026-06-20)
@@ -347,6 +348,7 @@ total_mentions: 1169
 - [LingoAI_io](https://x.com/LingoAI_io/status/2081748881914912793) (2026-07-28)
 - [LissaNFT2021](https://x.com/LissaNFT2021/status/2074512113058656420) (2026-07-09)
 - [LomashKumar52](https://x.com/LomashKumar52/status/2091396806068609513) (2026-08-28)
+- [LoopandPixels](https://x.com/LoopandPixels/status/2098261489203499127) (2026-09-11)
 - [LuizaJarovsky](https://x.com/LuizaJarovsky/status/2072664971616383227) (2026-07-03)
 - [LuminaXspace](https://x.com/LuminaXspace/status/2084599704097083823) (2026-08-06)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2097351499575697477) (2026-09-10)
@@ -428,6 +430,7 @@ total_mentions: 1169
 - [OracleDevs](https://x.com/OracleDevs/status/2087315628935786848) (2026-08-13)
 - [Origin_AI_01](https://x.com/Origin_AI_01/status/2096073337881641428) (2026-09-05)
 - [Orion_Agents](https://x.com/Orion_Agents/status/2081641109676028236) (2026-07-30)
+- [Orus_agent](https://x.com/Orus_agent/status/2098042936919310644) (2026-09-11)
 - [PTrubey](https://x.com/PTrubey/status/2086293046489182599) (2026-08-14)
 - [PalantirTech](https://x.com/PalantirTech/status/2077032712578199604) (2026-07-15)
 - [PayGo402](https://x.com/PayGo402/status/2068523046814859613) (2026-06-21)
@@ -482,6 +485,7 @@ total_mentions: 1169
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2083700555059503573) (2026-08-07)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2083776052598321233) (2026-08-05)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2093183037475536942) (2026-08-28)
+- [RoundtableSpace](https://x.com/RoundtableSpace/status/2098060174460424208) (2026-09-11)
 - [RuntimeBRT](https://x.com/RuntimeBRT/status/2084874541864497469) (2026-08-05)
 - [RyanGreenblatt](https://x.com/RyanGreenblatt/status/2092692685224325542) (2026-08-28)
 - [SCR01111](https://x.com/SCR01111/status/2090062553917603949) (2026-08-20)
@@ -528,6 +532,7 @@ total_mentions: 1169
 - [Tech_by_Shweta](https://x.com/Tech_by_Shweta/status/2096800764526243897) (2026-09-07)
 - [TeksCreate](https://x.com/TeksCreate/status/2081499683571040408) (2026-07-27)
 - [TeksEdge](https://x.com/TeksEdge/status/2075437935265190020) (2026-07-11)
+- [TencentAI_News](https://x.com/TencentAI_News/status/2098049042773397683) (2026-09-11)
 - [Tesla_Optimus_K](https://x.com/Tesla_Optimus_K/status/2081609686907056503) (2026-07-27)
 - [TheAIphiles](https://x.com/TheAIphiles/status/2079457181850636723) (2026-07-21)
 - [TheGlobalMinima](https://x.com/TheGlobalMinima/status/2070425560485077259) (2026-06-27)
@@ -568,6 +573,7 @@ total_mentions: 1169
 - [WireNetwork](https://x.com/WireNetwork/status/2064029713421791646) (2026-06-09)
 - [WrangleAi](https://x.com/WrangleAi/status/2083825310982660098) (2026-08-02)
 - [XFreeze](https://x.com/XFreeze/status/2071801039167336638) (2026-06-30)
+- [XQOPTRX](https://x.com/XQOPTRX/status/2098308310143238516) (2026-09-11)
 - [XammieCrypt](https://x.com/XammieCrypt/status/2094371878198489299) (2026-09-01)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2090968445378814364) (2026-08-22)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2097846768323133559) (2026-09-10)
@@ -646,6 +652,7 @@ total_mentions: 1169
 - [architeqtai](https://x.com/architeqtai/status/2065343364166299693) (2026-06-12)
 - [ardizor](https://x.com/ardizor/status/2062571108021215563) (2026-06-05)
 - [arena](https://x.com/arena/status/2071630464583151727) (2026-06-30)
+- [arle0x](https://x.com/arle0x/status/2097726809529811454) (2026-09-11)
 - [arnaudmercier](https://x.com/arnaudmercier/status/2072179223339348311) (2026-07-01)
 - [arrowpunt](https://x.com/arrowpunt/status/1950268955136061682) (2026-07-13)
 - [aryanXmahajan](https://x.com/aryanXmahajan/status/2067677589247082656) (2026-06-19)
@@ -696,6 +703,7 @@ total_mentions: 1169
 - [cb_doge](https://x.com/cb_doge/status/2095151987969155261) (2026-09-05)
 - [cecond_thoughts](https://x.com/cecond_thoughts/status/2072192741715443916) (2026-07-01)
 - [cerebras](https://x.com/cerebras/status/2080349251318530263) (2026-07-24)
+- [cfm_sol](https://x.com/cfm_sol/status/2098241212914565322) (2026-09-11)
 - [championswimmer](https://x.com/championswimmer/status/2084357787274891502) (2026-08-09)
 - [championswimmer](https://x.com/championswimmer/status/2087636883350122842) (2026-08-16)
 - [chandan1_](https://x.com/chandan1_/status/1874874423062278335) (2026-07-10)
@@ -929,6 +937,7 @@ total_mentions: 1169
 - [levie](https://x.com/levie/status/2079402164988895293) (2026-07-21)
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
 - [levie](https://x.com/levie/status/2089921630650925170) (2026-08-19)
+- [levie](https://x.com/levie/status/2098218284139311615) (2026-09-11)
 - [lewiscarhart](https://x.com/lewiscarhart/status/2083610805069611230) (2026-08-02)
 - [liambraus](https://x.com/liambraus/status/2096648475366539321) (2026-09-07)
 - [liquidai](https://x.com/liquidai/status/2084640701669613906) (2026-08-05)
@@ -1065,6 +1074,7 @@ total_mentions: 1169
 - [sairahul1](https://x.com/sairahul1/status/2084557703226036536) (2026-08-05)
 - [sairahul1](https://x.com/sairahul1/status/2096964706099700065) (2026-09-10)
 - [salesforce](https://x.com/salesforce/status/2066491445586858173) (2026-06-28)
+- [salesforce](https://x.com/salesforce/status/2098034380912365589) (2026-09-11)
 - [sanjeevSab17827](https://x.com/sanjeevSab17827/status/2096081496448913595) (2026-09-05)
 - [sauda_coder](https://x.com/sauda_coder/status/2085057854730600823) (2026-08-09)
 - [sauda_coder](https://x.com/sauda_coder/status/2087019793279041844) (2026-08-14)

@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-10
-total_mentions: 64
+last_seen: 2026-09-11
+total_mentions: 66
 
 ## Related Tweets
 - [0xDepressionn](https://x.com/0xDepressionn/status/2063987019068371128) (2026-06-10)
@@ -31,6 +31,7 @@ total_mentions: 64
 - [RegalosDigitals](https://x.com/RegalosDigitals/status/2071263024212508813) (2026-06-29)
 - [RishiUvaach](https://x.com/RishiUvaach/status/2082699300648431635) (2026-07-30)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2094119206132535493) (2026-08-31)
+- [SakanaAILabs](https://x.com/SakanaAILabs/status/2098233826816205275) (2026-09-11)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
 - [Sumanth_077](https://x.com/Sumanth_077/status/2091169662956720527) (2026-08-25)
 - [TeksCreate](https://x.com/TeksCreate/status/2081499683571040408) (2026-07-27)
@@ -38,6 +39,7 @@ total_mentions: 64
 - [VaibhavSisinty](https://x.com/VaibhavSisinty/status/2079823267750408589) (2026-07-28)
 - [Voxyz_ai](https://x.com/Voxyz_ai/status/2082582856182989263) (2026-07-30)
 - [WatcherGuru](https://x.com/WatcherGuru/status/2080780405179904206) (2026-07-28)
+- [XQOPTRX](https://x.com/XQOPTRX/status/2098308310143238516) (2026-09-11)
 - [_0xpainn](https://x.com/_0xpainn/status/2070432605552451963) (2026-08-02)
 - [alex_verem](https://x.com/alex_verem/status/2075994424484732984) (2026-07-12)
 - [alexandr_wang](https://x.com/alexandr_wang/status/2086523558940028995) (2026-08-11)

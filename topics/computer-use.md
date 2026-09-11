@@ -1,11 +1,12 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-09-10
-total_mentions: 83
+last_seen: 2026-09-11
+total_mentions: 86
 
 ## Related Tweets
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
+- [AdamShao](https://x.com/AdamShao/status/2097111709076910081) (2026-09-11)
 - [AlejandroRomaan](https://x.com/AlejandroRomaan/status/2096610078837141569) (2026-09-08)
 - [AriX](https://x.com/AriX/status/2075282339782095163) (2026-07-13)
 - [Bha74142Shivani](https://x.com/Bha74142Shivani/status/2087441456726524324) (2026-08-12)
@@ -68,6 +69,7 @@ total_mentions: 83
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2097085343967355190) (2026-09-10)
 - [hzlzh](https://x.com/hzlzh/status/2091570012368863571) (2026-08-24)
 - [jakevin7](https://x.com/jakevin7/status/2096850696964325472) (2026-09-07)
+- [jasonzhou1993](https://x.com/jasonzhou1993/status/2098251709214761387) (2026-09-11)
 - [jxnlco](https://x.com/jxnlco/status/2070577704752267321) (2026-06-27)
 - [lennysan](https://x.com/lennysan/status/2097392748244721911) (2026-09-10)
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2073646837894992126) (2026-07-05)
@@ -87,4 +89,5 @@ total_mentions: 83
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095859430776533318) (2026-09-06)
 - [wallstengine](https://x.com/wallstengine/status/2094155293261435063) (2026-09-01)
+- [wuyang_zhou](https://x.com/wuyang_zhou/status/2096548032128942370) (2026-09-11)
 - [zcode_ai](https://x.com/zcode_ai/status/2092635718766215590) (2026-08-27)
