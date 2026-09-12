@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-09-11
-total_mentions: 86
+last_seen: 2026-09-12
+total_mentions: 88
 
 ## Related Tweets
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
@@ -28,6 +28,7 @@ total_mentions: 86
 - [MaxForAI](https://x.com/MaxForAI/status/2090569520717115493) (2026-08-21)
 - [MaxForAI](https://x.com/MaxForAI/status/2095954732938674377) (2026-09-05)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
+- [NeoCognition](https://x.com/NeoCognition/status/2098147185657565391) (2026-09-12)
 - [NexEcosystem](https://x.com/NexEcosystem/status/2097341149405151287) (2026-09-09)
 - [NickADobos](https://x.com/NickADobos/status/2090867101028540684) (2026-08-22)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2075275868268789885) (2026-07-11)
@@ -88,6 +89,7 @@ total_mentions: 86
 - [sitinme](https://x.com/sitinme/status/2088172522063691892) (2026-08-15)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095859430776533318) (2026-09-06)
+- [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)
 - [wallstengine](https://x.com/wallstengine/status/2094155293261435063) (2026-09-01)
 - [wuyang_zhou](https://x.com/wuyang_zhou/status/2096548032128942370) (2026-09-11)
 - [zcode_ai](https://x.com/zcode_ai/status/2092635718766215590) (2026-08-27)

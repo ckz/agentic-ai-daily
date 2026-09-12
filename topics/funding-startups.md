@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-11
-total_mentions: 449
+last_seen: 2026-09-12
+total_mentions: 456
 
 ## Related Tweets
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
@@ -75,6 +75,7 @@ total_mentions: 449
 - [GrishinRobotics](https://x.com/GrishinRobotics/status/2067880410676187569) (2026-06-19)
 - [HVemasani](https://x.com/HVemasani/status/2089593578473574842) (2026-08-20)
 - [Hartdrawss](https://x.com/Hartdrawss/status/2096591974685946168) (2026-09-07)
+- [HedgieMarkets](https://x.com/HedgieMarkets/status/2096738798075830516) (2026-09-12)
 - [Helion_Energy](https://x.com/Helion_Energy/status/2062554317564108825) (2026-06-07)
 - [HerbalistChief](https://x.com/HerbalistChief/status/2097984218320003221) (2026-09-11)
 - [Hesamation](https://x.com/Hesamation/status/1970585800325640372) (2026-06-07)
@@ -100,6 +101,7 @@ total_mentions: 449
 - [MAGALieTracker](https://x.com/MAGALieTracker/status/2080726200213979290) (2026-08-01)
 - [MTSlive](https://x.com/MTSlive/status/2065073640182579322) (2026-06-12)
 - [MTSlive](https://x.com/MTSlive/status/2079701447084740739) (2026-07-22)
+- [MackenZ_arnold](https://x.com/MackenZ_arnold/status/2097773578921857101) (2026-09-12)
 - [Maker17368Maker](https://x.com/Maker17368Maker/status/2062810745210040366) (2026-06-07)
 - [Marsadist](https://x.com/Marsadist/status/2095333453956854216) (2026-09-10)
 - [MasashiAONO](https://x.com/MasashiAONO/status/2076147787713163280) (2026-07-12)
@@ -304,6 +306,7 @@ total_mentions: 449
 - [heynavtoor](https://x.com/heynavtoor/status/2090103120399655356) (2026-08-20)
 - [hridoyreh](https://x.com/hridoyreh/status/2092152773148328214) (2026-08-28)
 - [iam_elias1](https://x.com/iam_elias1/status/2062095528742240319) (2026-06-05)
+- [ianwong_](https://x.com/ianwong_/status/2098106891737977191) (2026-09-12)
 - [ibab](https://x.com/ibab/status/2087145290671468569) (2026-08-12)
 - [inter_link](https://x.com/inter_link/status/2081053524134125832) (2026-07-29)
 - [irabukht](https://x.com/irabukht/status/2092743370804171081) (2026-08-28)
@@ -354,6 +357,7 @@ total_mentions: 449
 - [nicochristie](https://x.com/nicochristie/status/2093729344871170219) (2026-08-30)
 - [noah_schochet](https://x.com/noah_schochet/status/2077044441978737104) (2026-07-17)
 - [opentensor](https://x.com/opentensor/status/2097575251597054345) (2026-09-09)
+- [owenthcarey](https://x.com/owenthcarey/status/2098634072159658105) (2026-09-12)
 - [patrick_oshag](https://x.com/patrick_oshag/status/2089713931183153293) (2026-08-19)
 - [paulg](https://x.com/paulg/status/2063091245334044902) (2026-06-06)
 - [paulg](https://x.com/paulg/status/2063644836981260638) (2026-06-12)
@@ -366,6 +370,7 @@ total_mentions: 449
 - [peer_rich](https://x.com/peer_rich/status/2062949788081897633) (2026-06-05)
 - [pelositracker](https://x.com/pelositracker/status/2080314321649746194) (2026-07-26)
 - [pierreeliottlal](https://x.com/pierreeliottlal/status/2066037831626362988) (2026-06-14)
+- [pitdesi](https://x.com/pitdesi/status/2098178397008781823) (2026-09-12)
 - [plpiaoliang](https://x.com/plpiaoliang/status/2082696373955346650) (2026-07-30)
 - [propxwealth](https://x.com/propxwealth/status/2086007408078549329) (2026-08-14)
 - [pubity](https://x.com/pubity/status/2088354976359719140) (2026-08-16)
@@ -384,6 +389,7 @@ total_mentions: 449
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2085089809371173362) (2026-08-08)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2095311437677883490) (2026-09-03)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2096117661172384137) (2026-09-07)
+- [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2098655241453687123) (2026-09-12)
 - [rsngprad](https://x.com/rsngprad/status/2072630117218791745) (2026-07-05)
 - [s1rozha_](https://x.com/s1rozha_/status/2087132684514455625) (2026-08-12)
 - [sacha_io](https://x.com/sacha_io/status/2094745129714135343) (2026-09-06)
@@ -395,6 +401,7 @@ total_mentions: 449
 - [sethbannon](https://x.com/sethbannon/status/2097738103989645725) (2026-09-10)
 - [sflorimm](https://x.com/sflorimm/status/2087060630696042736) (2026-08-14)
 - [shmidtqq](https://x.com/shmidtqq/status/2074446282303639911) (2026-07-09)
+- [siddharthwv](https://x.com/siddharthwv/status/2097921094858731836) (2026-09-12)
 - [signulll](https://x.com/signulll/status/2064053145580278163) (2026-06-09)
 - [sillymusicqueen](https://x.com/sillymusicqueen/status/2098234005975961741) (2026-09-11)
 - [singularityhack](https://x.com/singularityhack/status/2079237150764134528) (2026-07-22)

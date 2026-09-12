@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-09-11
-total_mentions: 460
+last_seen: 2026-09-12
+total_mentions: 464
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -207,6 +207,7 @@ total_mentions: 460
 - [TheHackersNews](https://x.com/TheHackersNews/status/2074845892067426604) (2026-07-09)
 - [TheTuringPost](https://x.com/TheTuringPost/status/2076827153665331469) (2026-07-19)
 - [TheValueist](https://x.com/TheValueist/status/2072334968940900744) (2026-07-03)
+- [The_Cyber_News](https://x.com/The_Cyber_News/status/2096594188003676213) (2026-09-12)
 - [Thom_Wolf](https://x.com/Thom_Wolf/status/2095889630306472127) (2026-09-06)
 - [ThomasOrTK](https://x.com/ThomasOrTK/status/2072005642727158247) (2026-07-01)
 - [UK_Daniel_Card](https://x.com/UK_Daniel_Card/status/2077623819913617526) (2026-07-16)
@@ -339,6 +340,7 @@ total_mentions: 460
 - [goyalshaliniuk](https://x.com/goyalshaliniuk/status/2089359091332166027) (2026-08-22)
 - [gravitygotmeup](https://x.com/gravitygotmeup/status/2068193792780591353) (2026-06-20)
 - [gregisenberg](https://x.com/gregisenberg/status/2097381384608166057) (2026-09-10)
+- [gregisenberg](https://x.com/gregisenberg/status/2098396069583319070) (2026-09-12)
 - [gumterver100](https://x.com/gumterver100/status/2087078337235628286) (2026-08-11)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [hasantoxr](https://x.com/hasantoxr/status/2075864853542269183) (2026-07-15)
@@ -439,6 +441,7 @@ total_mentions: 460
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2077724941198533011) (2026-07-17)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2078449718414180393) (2026-07-19)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095491337651179621) (2026-09-04)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2098026202464243908) (2026-09-12)
 - [techNmak](https://x.com/techNmak/status/2090689729461411951) (2026-08-25)
 - [techNmak](https://x.com/techNmak/status/2091434187446439969) (2026-08-24)
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)
@@ -458,6 +461,7 @@ total_mentions: 460
 - [vicky_grok](https://x.com/vicky_grok/status/2070074685669470672) (2026-06-29)
 - [victorialslocum](https://x.com/victorialslocum/status/1993636038313443826) (2026-09-08)
 - [virtuals_io](https://x.com/virtuals_io/status/1881340149503857151) (2026-06-11)
+- [vllm_project](https://x.com/vllm_project/status/2097427310513426721) (2026-09-12)
 - [voidwarriorchan](https://x.com/voidwarriorchan/status/2095708889300033590) (2026-09-04)
 - [wallstengine](https://x.com/wallstengine/status/2062459661039894607) (2026-06-08)
 - [wilsonnwafor_](https://x.com/wilsonnwafor_/status/2076919122479185990) (2026-07-14)

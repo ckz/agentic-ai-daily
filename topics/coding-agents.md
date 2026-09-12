@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-11
-total_mentions: 133
+last_seen: 2026-09-12
+total_mentions: 137
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -73,11 +73,13 @@ total_mentions: 133
 - [ashtom](https://x.com/ashtom/status/1925597395192357337) (2026-09-04)
 - [bcherny](https://x.com/bcherny/status/2064431111154053187) (2026-06-15)
 - [beamnxw](https://x.com/beamnxw/status/2080600136456060958) (2026-08-01)
+- [ben_burtenshaw](https://x.com/ben_burtenshaw/status/2098410420394451153) (2026-09-12)
 - [bindureddy](https://x.com/bindureddy/status/2076165296977858836) (2026-07-12)
 - [braintrust](https://x.com/braintrust/status/2095537795838144919) (2026-09-09)
 - [candyyueliu](https://x.com/candyyueliu/status/2062178835689623592) (2026-06-29)
 - [celineodier](https://x.com/celineodier/status/2094079187904610504) (2026-09-01)
 - [codyschneider](https://x.com/codyschneider/status/2084369982918406433) (2026-08-04)
+- [csaba_kissi](https://x.com/csaba_kissi/status/2097206925264118197) (2026-09-12)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2071058754905481234) (2026-06-28)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2071817627484250139) (2026-06-30)
 - [dair_ai](https://x.com/dair_ai/status/2088298364458930462) (2026-08-15)
@@ -120,10 +122,12 @@ total_mentions: 133
 - [runwayml](https://x.com/runwayml/status/2095159754414813249) (2026-09-07)
 - [sairahul1](https://x.com/sairahul1/status/2077326742218539296) (2026-07-18)
 - [seelffff](https://x.com/seelffff/status/2071118707405816250) (2026-06-29)
+- [shao__meng](https://x.com/shao__meng/status/2096528991285092700) (2026-09-12)
 - [sharbel](https://x.com/sharbel/status/2055680438417412359) (2026-06-29)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2077223722654834863) (2026-07-16)
 - [stretchcloud](https://x.com/stretchcloud/status/2079772421947560434) (2026-07-22)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)
+- [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)
 - [tamrrat](https://x.com/tamrrat/status/2077136461489467450) (2026-07-15)
 - [techNmak](https://x.com/techNmak/status/2096243571410276392) (2026-09-07)
 - [tetsuoai](https://x.com/tetsuoai/status/2098199890237247578) (2026-09-11)

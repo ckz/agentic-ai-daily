@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-09-11
-total_mentions: 710
+last_seen: 2026-09-12
+total_mentions: 714
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -29,6 +29,7 @@ total_mentions: 710
 - [AIdanSolves](https://x.com/AIdanSolves/status/2073162229533262290) (2026-07-04)
 - [AIonBase_](https://x.com/AIonBase_/status/2063002925761237147) (2026-06-05)
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
+- [AYi_AInotes](https://x.com/AYi_AInotes/status/2097642459341722045) (2026-09-12)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2095414392557068291) (2026-09-04)
 - [AgenticAIFdn](https://x.com/AgenticAIFdn/status/2077740129284764108) (2026-07-17)
@@ -521,6 +522,7 @@ total_mentions: 710
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [kunalstwt](https://x.com/kunalstwt/status/2073978095644643520) (2026-07-06)
 - [leopardracer](https://x.com/leopardracer/status/2096537453804876205) (2026-09-10)
+- [levelsio](https://x.com/levelsio/status/2098086977186705637) (2026-09-12)
 - [lifemaximised](https://x.com/lifemaximised/status/2094966852887687492) (2026-09-05)
 - [lksmlabc](https://x.com/lksmlabc/status/2096524556123115628) (2026-09-09)
 - [louszbd](https://x.com/louszbd/status/2094867896250048705) (2026-09-02)
@@ -538,6 +540,7 @@ total_mentions: 710
 - [meliasiih](https://x.com/meliasiih/status/2064702135305220483) (2026-06-12)
 - [melisx402](https://x.com/melisx402/status/2070835381684048269) (2026-06-29)
 - [michaelgold](https://x.com/michaelgold/status/2097072609351405641) (2026-09-11)
+- [michaelgold](https://x.com/michaelgold/status/2098516800107348175) (2026-09-12)
 - [midudev](https://x.com/midudev/status/2061463979927421084) (2026-06-07)
 - [midudev](https://x.com/midudev/status/2063607570179170572) (2026-06-08)
 - [midudev](https://x.com/midudev/status/2070902863115546721) (2026-06-29)
@@ -679,6 +682,7 @@ total_mentions: 710
 - [tom_doerr](https://x.com/tom_doerr/status/2071309381455519803) (2026-06-29)
 - [tom_doerr](https://x.com/tom_doerr/status/2092279365937553887) (2026-08-26)
 - [tom_doerr](https://x.com/tom_doerr/status/2092436552924155960) (2026-08-29)
+- [trythreews](https://x.com/trythreews/status/2096260452875644976) (2026-09-12)
 - [twetsfyp](https://x.com/twetsfyp/status/2078387675447328957) (2026-07-19)
 - [uaghazadae](https://x.com/uaghazadae/status/2087580062593823004) (2026-08-13)
 - [undefinedKi](https://x.com/undefinedKi/status/2066159485652025597) (2026-06-15)

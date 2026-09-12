@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-11
-total_mentions: 1179
+last_seen: 2026-09-12
+total_mentions: 1189
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -99,6 +99,7 @@ total_mentions: 1179
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2091798147320127634) (2026-08-26)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2095414392557068291) (2026-09-04)
+- [AdamTornhill](https://x.com/AdamTornhill/status/2097973404179583225) (2026-09-12)
 - [AdelDeveloperX](https://x.com/AdelDeveloperX/status/2074195359199375745) (2026-07-07)
 - [AgenticAIFdn](https://x.com/AgenticAIFdn/status/2077740129284764108) (2026-07-17)
 - [Agentum_space](https://x.com/Agentum_space/status/2085270382777647471) (2026-08-06)
@@ -292,6 +293,7 @@ total_mentions: 1179
 - [HackingDave](https://x.com/HackingDave/status/2069146467701256423) (2026-06-29)
 - [HackingDave](https://x.com/HackingDave/status/2084367299104882779) (2026-08-04)
 - [HarryBee_Yhu](https://x.com/HarryBee_Yhu/status/2067864020527292535) (2026-06-19)
+- [HedgieMarkets](https://x.com/HedgieMarkets/status/2022417260418122119) (2026-09-12)
 - [HedgieMarkets](https://x.com/HedgieMarkets/status/2062198862090023293) (2026-06-08)
 - [HermesWatcher](https://x.com/HermesWatcher/status/2093891066508517425) (2026-09-06)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
@@ -469,6 +471,7 @@ total_mentions: 1179
 - [RitOnchain](https://x.com/RitOnchain/status/2090076460698787900) (2026-08-21)
 - [RitOnchain](https://x.com/RitOnchain/status/2090455054876864748) (2026-08-21)
 - [RitOnchain](https://x.com/RitOnchain/status/2094705814317752701) (2026-09-05)
+- [RoKhanna](https://x.com/RoKhanna/status/2097754129489596612) (2026-09-12)
 - [RobertTLange](https://x.com/RobertTLange/status/2081651553929494693) (2026-07-28)
 - [RobinHubHB](https://x.com/RobinHubHB/status/2080004956216611060) (2026-07-29)
 - [RobinHubHB](https://x.com/RobinHubHB/status/2080744829907267752) (2026-07-28)
@@ -543,6 +546,7 @@ total_mentions: 1179
 - [TheTuringPost](https://x.com/TheTuringPost/status/2076827153665331469) (2026-07-19)
 - [TheValueist](https://x.com/TheValueist/status/2072334968940900744) (2026-07-03)
 - [TheYotg](https://x.com/TheYotg/status/2079150076392358363) (2026-07-27)
+- [The_Cyber_News](https://x.com/The_Cyber_News/status/2096594188003676213) (2026-09-12)
 - [TimesOfAI_](https://x.com/TimesOfAI_/status/2085233016067211331) (2026-08-12)
 - [Tipwotip](https://x.com/Tipwotip/status/2074019912897753093) (2026-07-06)
 - [TokenGremlin](https://x.com/TokenGremlin/status/2092701202303856785) (2026-08-27)
@@ -672,6 +676,7 @@ total_mentions: 1179
 - [beamnxw](https://x.com/beamnxw/status/2084985269975928983) (2026-08-07)
 - [beamnxw](https://x.com/beamnxw/status/2085787859680637092) (2026-08-11)
 - [beamnxw](https://x.com/beamnxw/status/2093054521056665983) (2026-08-30)
+- [ben_burtenshaw](https://x.com/ben_burtenshaw/status/2098410420394451153) (2026-09-12)
 - [bhavesharora02](https://x.com/bhavesharora02/status/2068176324083298796) (2026-06-20)
 - [bijoyweb](https://x.com/bijoyweb/status/2078343865665503366) (2026-07-18)
 - [bindureddy](https://x.com/bindureddy/status/2019578857251393929) (2026-06-08)
@@ -917,6 +922,7 @@ total_mentions: 1179
 - [kaorixbt](https://x.com/kaorixbt/status/2096622102455398594) (2026-09-07)
 - [karlmehta](https://x.com/karlmehta/status/2071232274738344073) (2026-06-29)
 - [kenAI_domains](https://x.com/kenAI_domains/status/2080371618954490323) (2026-07-24)
+- [kevinroose](https://x.com/kevinroose/status/2098454644234330364) (2026-09-12)
 - [keyserfaty](https://x.com/keyserfaty/status/2092679276168638954) (2026-08-27)
 - [kimmonismus](https://x.com/kimmonismus/status/2085812651163296161) (2026-08-08)
 - [kirillk_web3](https://x.com/kirillk_web3/status/2090621157087064304) (2026-08-24)
@@ -1053,6 +1059,7 @@ total_mentions: 1179
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2085089809371173362) (2026-08-08)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2094643661707649169) (2026-09-03)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2096117661172384137) (2026-09-07)
+- [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2098655241453687123) (2026-09-12)
 - [rohit4verse](https://x.com/rohit4verse/status/2083284519550136641) (2026-08-01)
 - [rosemoni18](https://x.com/rosemoni18/status/2094923340062622201) (2026-09-02)
 - [rowancheung](https://x.com/rowancheung/status/1767582332964516243) (2026-08-26)
@@ -1118,6 +1125,7 @@ total_mentions: 1179
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095491337651179621) (2026-09-04)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095859430776533318) (2026-09-06)
+- [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)
 - [swyx](https://x.com/swyx/status/2076155833428431012) (2026-07-12)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
 - [systemdesignone](https://x.com/systemdesignone/status/2097389489408594192) (2026-09-09)
@@ -1154,6 +1162,7 @@ total_mentions: 1179
 - [trevin](https://x.com/trevin/status/2092011026242027644) (2026-08-30)
 - [trikcode](https://x.com/trikcode/status/2084420246039851517) (2026-08-04)
 - [trythreews](https://x.com/trythreews/status/2075519714890334698) (2026-07-12)
+- [trythreews](https://x.com/trythreews/status/2096260452875644976) (2026-09-12)
 - [typesfast](https://x.com/typesfast/status/2086837223148962283) (2026-08-11)
 - [unicity_labs](https://x.com/unicity_labs/status/2074864232621892083) (2026-07-10)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2081851083119288719) (2026-07-28)
@@ -1169,6 +1178,7 @@ total_mentions: 1179
 - [virtuals_io](https://x.com/virtuals_io/status/1881340149503857151) (2026-06-11)
 - [virtuals_io](https://x.com/virtuals_io/status/2063654910995145209) (2026-06-11)
 - [virtuals_io](https://x.com/virtuals_io/status/2083239280508629254) (2026-08-02)
+- [vllm_project](https://x.com/vllm_project/status/2097427310513426721) (2026-09-12)
 - [voidwarriorchan](https://x.com/voidwarriorchan/status/2095708889300033590) (2026-09-04)
 - [wallstreetbets](https://x.com/wallstreetbets/status/2075690313528570071) (2026-07-13)
 - [warpdotdev](https://x.com/warpdotdev/status/1937525185843752969) (2026-06-07)
