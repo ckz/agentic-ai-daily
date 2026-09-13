@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-12
-total_mentions: 456
+last_seen: 2026-09-13
+total_mentions: 459
 
 ## Related Tweets
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
@@ -252,6 +252,7 @@ total_mentions: 456
 - [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
 - [codyschneider](https://x.com/codyschneider/status/2081817171202920732) (2026-08-02)
 - [codyschneider](https://x.com/codyschneider/status/2084369982918406433) (2026-08-04)
+- [coinbureau](https://x.com/coinbureau/status/2098641504767983918) (2026-09-13)
 - [coingecko](https://x.com/coingecko/status/2064572347433075107) (2026-06-10)
 - [coreyganim](https://x.com/coreyganim/status/2084312288786276484) (2026-08-04)
 - [craigweiss](https://x.com/craigweiss/status/2072127436310110488) (2026-07-01)
@@ -315,6 +316,7 @@ total_mentions: 456
 - [itsolelehmann](https://x.com/itsolelehmann/status/2062909345537634686) (2026-06-10)
 - [itsolelehmann](https://x.com/itsolelehmann/status/2084778165986300137) (2026-08-05)
 - [itsolelehmann](https://x.com/itsolelehmann/status/2089543156824146164) (2026-08-23)
+- [jackkuveke](https://x.com/jackkuveke/status/2098414956454568307) (2026-09-13)
 - [james406](https://x.com/james406/status/2055362680299434300) (2026-06-09)
 - [jamonholmgren](https://x.com/jamonholmgren/status/2098235125419135339) (2026-09-11)
 - [jason_coder0](https://x.com/jason_coder0/status/2072219162135666801) (2026-07-01)
@@ -374,6 +376,7 @@ total_mentions: 456
 - [plpiaoliang](https://x.com/plpiaoliang/status/2082696373955346650) (2026-07-30)
 - [propxwealth](https://x.com/propxwealth/status/2086007408078549329) (2026-08-14)
 - [pubity](https://x.com/pubity/status/2088354976359719140) (2026-08-16)
+- [pulkit_gupta2](https://x.com/pulkit_gupta2/status/2097777826292474042) (2026-09-13)
 - [pulkit_mittal_](https://x.com/pulkit_mittal_/status/2092132911919022181) (2026-08-28)
 - [rahulbais136](https://x.com/rahulbais136/status/2077192536335192463) (2026-07-15)
 - [rauchg](https://x.com/rauchg/status/2088735125744070932) (2026-08-18)

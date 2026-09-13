@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-09-12
-total_mentions: 464
+last_seen: 2026-09-13
+total_mentions: 466
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -86,6 +86,8 @@ total_mentions: 464
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2093286019697418608) (2026-09-03)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2093456774875791460) (2026-08-31)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2094528029724950563) (2026-09-03)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2096990554529955934) (2026-09-13)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2098120874524389776) (2026-09-13)
 - [EmmanuelInvest](https://x.com/EmmanuelInvest/status/2076724041302319246) (2026-07-14)
 - [EthenaFndtn](https://x.com/EthenaFndtn/status/2092976592738001383) (2026-08-28)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)

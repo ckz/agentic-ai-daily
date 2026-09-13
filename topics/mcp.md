@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-09-12
-total_mentions: 714
+last_seen: 2026-09-13
+total_mentions: 724
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -107,9 +107,11 @@ total_mentions: 714
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2081331200942362651) (2026-07-27)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2091414546103828822) (2026-08-23)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2098120874524389776) (2026-09-13)
 - [DotCSV](https://x.com/DotCSV/status/2076725628963783114) (2026-07-17)
 - [DrMaalfaifi](https://x.com/DrMaalfaifi/status/2095821023207633120) (2026-09-09)
 - [EHuanglu](https://x.com/EHuanglu/status/2077091952252875189) (2026-07-15)
+- [EHuanglu](https://x.com/EHuanglu/status/2097399073951322516) (2026-09-13)
 - [EXM7777](https://x.com/EXM7777/status/2087176716901023834) (2026-08-13)
 - [Emdad_AI](https://x.com/Emdad_AI/status/2091364911628910857) (2026-08-23)
 - [EngMoElgaraihy](https://x.com/EngMoElgaraihy/status/2083197718818611544) (2026-08-02)
@@ -121,6 +123,8 @@ total_mentions: 714
 - [FareaNFts](https://x.com/FareaNFts/status/2092673671676727314) (2026-08-27)
 - [FellMentKE](https://x.com/FellMentKE/status/2064573513642758328) (2026-06-10)
 - [FelpsCrypto](https://x.com/FelpsCrypto/status/2093580590641480134) (2026-08-31)
+- [ForwardEditor](https://x.com/ForwardEditor/status/2097877069334036941) (2026-09-13)
+- [ForwardEditor](https://x.com/ForwardEditor/status/2098707042072436786) (2026-09-13)
 - [FundamentEdge](https://x.com/FundamentEdge/status/2086632605466915006) (2026-08-10)
 - [GcodeXS](https://x.com/GcodeXS/status/2079666529579446545) (2026-07-28)
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2091248280365682688) (2026-08-24)
@@ -167,6 +171,7 @@ total_mentions: 714
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
 - [MaxForAI](https://x.com/MaxForAI/status/2089184371886690760) (2026-08-17)
 - [MaxForAI](https://x.com/MaxForAI/status/2095219932686590229) (2026-09-03)
+- [MaxForAI](https://x.com/MaxForAI/status/2098334720677282098) (2026-09-13)
 - [MdRahi444797](https://x.com/MdRahi444797/status/2071118756919787756) (2026-06-28)
 - [MengTo](https://x.com/MengTo/status/2077214374830445035) (2026-07-16)
 - [MengTo](https://x.com/MengTo/status/2090817187900780961) (2026-08-23)
@@ -385,6 +390,7 @@ total_mentions: 714
 - [chenzeling4](https://x.com/chenzeling4/status/2075581564088668195) (2026-07-12)
 - [chongdashu](https://x.com/chongdashu/status/2089139349371973645) (2026-08-17)
 - [claudecode84](https://x.com/claudecode84/status/2089916968132575288) (2026-08-21)
+- [claudecode84](https://x.com/claudecode84/status/2099010861822075198) (2026-09-13)
 - [cnemalek](https://x.com/cnemalek/status/2075124631090954361) (2026-07-10)
 - [coder_surya](https://x.com/coder_surya/status/2068597286230163759) (2026-06-21)
 - [coder_surya](https://x.com/coder_surya/status/2074093504188600351) (2026-07-07)
@@ -518,6 +524,7 @@ total_mentions: 714
 - [jshchnz](https://x.com/jshchnz/status/2095873634069831680) (2026-09-08)
 - [justmazer](https://x.com/justmazer/status/2088344886206705880) (2026-08-15)
 - [k2sbhai](https://x.com/k2sbhai/status/2090007138567655564) (2026-08-22)
+- [karlarboledas](https://x.com/karlarboledas/status/2098004038042186171) (2026-09-13)
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [kunalstwt](https://x.com/kunalstwt/status/2073978095644643520) (2026-07-06)
@@ -563,6 +570,7 @@ total_mentions: 714
 - [milesdeutscher](https://x.com/milesdeutscher/status/2080865392357208266) (2026-07-25)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2085244484888019336) (2026-08-06)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2088099793726017834) (2026-08-17)
+- [minchoi](https://x.com/minchoi/status/2098793589811691560) (2026-09-13)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [nrlartt](https://x.com/nrlartt/status/2082153925491249607) (2026-07-29)
 - [nubis_app](https://x.com/nubis_app/status/2065699995399881189) (2026-06-13)
@@ -644,6 +652,7 @@ total_mentions: 714
 - [sixtria](https://x.com/sixtria/status/2067853856709779883) (2026-06-19)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
 - [smratitiwa86867](https://x.com/smratitiwa86867/status/2081582605670187098) (2026-07-27)
+- [so_ainsight](https://x.com/so_ainsight/status/2096798121821131192) (2026-09-13)
 - [socialwithaayan](https://x.com/socialwithaayan/status/2094350331484516816) (2026-09-01)
 - [splinetool](https://x.com/splinetool/status/2090500256190603636) (2026-08-23)
 - [starmexxx](https://x.com/starmexxx/status/2089399623106355708) (2026-08-18)
@@ -692,6 +701,7 @@ total_mentions: 714
 - [undefinedKi](https://x.com/undefinedKi/status/2094769939487809565) (2026-09-07)
 - [undefinedKi](https://x.com/undefinedKi/status/2096224107121516997) (2026-09-06)
 - [undefinedKi](https://x.com/undefinedKi/status/2097302662026870996) (2026-09-09)
+- [undefinedKi](https://x.com/undefinedKi/status/2098760642526085164) (2026-09-13)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2082200846243143795) (2026-07-30)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2087461469881336049) (2026-08-13)
 - [unity](https://x.com/unity/status/2079389530260414898) (2026-07-24)

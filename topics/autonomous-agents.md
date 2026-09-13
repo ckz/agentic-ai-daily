@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-12
-total_mentions: 1189
+last_seen: 2026-09-13
+total_mentions: 1200
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -31,6 +31,7 @@ total_mentions: 1189
 - [0xCodez](https://x.com/0xCodez/status/2093729390932672732) (2026-09-01)
 - [0xCodez](https://x.com/0xCodez/status/2095185610390573536) (2026-09-03)
 - [0xCodez](https://x.com/0xCodez/status/2095987472328958435) (2026-09-05)
+- [0xCodez](https://x.com/0xCodez/status/2098782845183410287) (2026-09-13)
 - [0xCodila](https://x.com/0xCodila/status/2074639576107274693) (2026-07-08)
 - [0xCodila](https://x.com/0xCodila/status/2080689998848778523) (2026-07-25)
 - [0xCodila](https://x.com/0xCodila/status/2081068276977672340) (2026-07-26)
@@ -56,15 +57,18 @@ total_mentions: 1189
 - [0xMovez](https://x.com/0xMovez/status/2080646952069288055) (2026-07-27)
 - [0xMovez](https://x.com/0xMovez/status/2089744087889142217) (2026-08-19)
 - [0xMovez](https://x.com/0xMovez/status/2090107443296498179) (2026-08-20)
+- [0xMovez](https://x.com/0xMovez/status/2098512033675141286) (2026-09-13)
 - [0xRiRoyal](https://x.com/0xRiRoyal/status/2085228220841083125) (2026-08-06)
 - [0xRicker](https://x.com/0xRicker/status/2065478241444639198) (2026-06-14)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
 - [0xSammy](https://x.com/0xSammy/status/1882500633573609980) (2026-06-08)
+- [0xSero](https://x.com/0xSero/status/2097620672952344680) (2026-09-13)
 - [0xSlyth](https://x.com/0xSlyth/status/2070124131207860577) (2026-06-27)
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
 - [0xchadx](https://x.com/0xchadx/status/2067862587174244810) (2026-06-19)
 - [0xgilbert](https://x.com/0xgilbert/status/2062624582977179796) (2026-06-06)
 - [0xnicc0](https://x.com/0xnicc0/status/2093312280406397284) (2026-09-04)
+- [0xnicc0](https://x.com/0xnicc0/status/2098465525781217632) (2026-09-13)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2076773673898271123) (2026-07-14)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2083305262035632347) (2026-08-02)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2083666109874753797) (2026-08-03)
@@ -95,6 +99,7 @@ total_mentions: 1189
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
 - [ANUBISCHAIN_](https://x.com/ANUBISCHAIN_/status/2072571906138706359) (2026-07-02)
 - [APompliano](https://x.com/APompliano/status/2079571863642984883) (2026-07-25)
+- [AYi_AInotes](https://x.com/AYi_AInotes/status/2098777470040183030) (2026-09-13)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2088179625642152198) (2026-08-17)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2091798147320127634) (2026-08-26)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
@@ -252,6 +257,8 @@ total_mentions: 1189
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2093286019697418608) (2026-09-03)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2093567702979998014) (2026-09-02)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2096906995521450368) (2026-09-08)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2096990554529955934) (2026-09-13)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2098120874524389776) (2026-09-13)
 - [DrDatta_AIIMS](https://x.com/DrDatta_AIIMS/status/2085258786403655808) (2026-08-13)
 - [Dr_Singularity](https://x.com/Dr_Singularity/status/2094797783601414196) (2026-09-03)
 - [Dr_Singularity](https://x.com/Dr_Singularity/status/2095235432778813918) (2026-09-03)
@@ -527,6 +534,7 @@ total_mentions: 1189
 - [SuiNetwork](https://x.com/SuiNetwork/status/2075716447062618312) (2026-07-11)
 - [Sumanth_077](https://x.com/Sumanth_077/status/2063254456834372040) (2026-06-07)
 - [Sumanth_077](https://x.com/Sumanth_077/status/2091169662956720527) (2026-08-25)
+- [Sumanth_077](https://x.com/Sumanth_077/status/2097689190712692965) (2026-09-13)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2084693098714599697) (2026-08-05)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2085286044975476808) (2026-08-11)
 - [SvpChain](https://x.com/SvpChain/status/2064935788345974954) (2026-06-11)
@@ -638,6 +646,7 @@ total_mentions: 1189
 - [alexandr_wang](https://x.com/alexandr_wang/status/2075218936266998230) (2026-07-11)
 - [alexxubyte](https://x.com/alexxubyte/status/2076693603439817057) (2026-07-14)
 - [allen_lattimer](https://x.com/allen_lattimer/status/2095534151810338990) (2026-09-10)
+- [allen_lattimer](https://x.com/allen_lattimer/status/2098802988722815384) (2026-09-13)
 - [amankk_9](https://x.com/amankk_9/status/2065336699287429224) (2026-06-12)
 - [amasad](https://x.com/amasad/status/2080371567221944657) (2026-07-25)
 - [ameliahazelai](https://x.com/ameliahazelai/status/2073345751892062531) (2026-07-06)
@@ -821,6 +830,7 @@ total_mentions: 1189
 - [elune0x](https://x.com/elune0x/status/2081394220275814662) (2026-07-27)
 - [elune0x](https://x.com/elune0x/status/2086565685904211976) (2026-08-15)
 - [elune0x](https://x.com/elune0x/status/2086814848709517580) (2026-08-15)
+- [elune0x](https://x.com/elune0x/status/2098050255371518409) (2026-09-13)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2060824760859431275) (2026-06-05)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2064019609062101321) (2026-06-09)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2077696199486775764) (2026-07-18)
@@ -963,6 +973,7 @@ total_mentions: 1189
 - [marfinxx](https://x.com/marfinxx/status/2090409251940319349) (2026-08-21)
 - [marfinxx](https://x.com/marfinxx/status/2095482857258967228) (2026-09-09)
 - [marfinxx](https://x.com/marfinxx/status/2096206860781031528) (2026-09-08)
+- [marfinxx](https://x.com/marfinxx/status/2098546291164717071) (2026-09-13)
 - [marryevan999](https://x.com/marryevan999/status/2077795286332952816) (2026-07-18)
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [maxescu](https://x.com/maxescu/status/2087195649561317511) (2026-08-13)

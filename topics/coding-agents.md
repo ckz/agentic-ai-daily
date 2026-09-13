@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-12
-total_mentions: 137
+last_seen: 2026-09-13
+total_mentions: 140
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -22,6 +22,8 @@ total_mentions: 137
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2093286019697418608) (2026-09-03)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2093567702979998014) (2026-09-02)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2096990554529955934) (2026-09-13)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2098120874524389776) (2026-09-13)
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2076991866935845287) (2026-07-15)
 - [EXM7777](https://x.com/EXM7777/status/2086512844594679820) (2026-08-14)
 - [FareaNFts](https://x.com/FareaNFts/status/2072985538756317458) (2026-07-07)
@@ -136,6 +138,7 @@ total_mentions: 137
 - [unclejohnny101](https://x.com/unclejohnny101/status/2079728030310969809) (2026-07-22)
 - [undefinedKi](https://x.com/undefinedKi/status/2071931934012211642) (2026-07-02)
 - [undefinedKi](https://x.com/undefinedKi/status/2086440382808600645) (2026-08-10)
+- [undefinedKi](https://x.com/undefinedKi/status/2098760642526085164) (2026-09-13)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2082200846243143795) (2026-07-30)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2087461469881336049) (2026-08-13)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2088581651332805021) (2026-08-22)

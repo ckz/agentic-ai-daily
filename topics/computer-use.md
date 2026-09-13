@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-09-12
-total_mentions: 88
+last_seen: 2026-09-13
+total_mentions: 90
 
 ## Related Tweets
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
@@ -76,6 +76,7 @@ total_mentions: 88
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2073646837894992126) (2026-07-05)
 - [markchen90](https://x.com/markchen90/status/2095597534412673109) (2026-09-04)
 - [martin_casado](https://x.com/martin_casado/status/2096648261759389983) (2026-09-07)
+- [mikenevermiss](https://x.com/mikenevermiss/status/2098738486014537803) (2026-09-13)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2075469825514824153) (2026-07-10)
 - [milindlabs](https://x.com/milindlabs/status/2087289803964559746) (2026-08-14)
 - [nicbstme](https://x.com/nicbstme/status/2088014852954669300) (2026-08-14)
@@ -83,6 +84,7 @@ total_mentions: 88
 - [rileybrown](https://x.com/rileybrown/status/2097080191163998488) (2026-09-08)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2094414982251413529) (2026-09-01)
 - [rubenhassid](https://x.com/rubenhassid/status/2063138819856101667) (2026-06-07)
+- [ryanvogel](https://x.com/ryanvogel/status/2098875111558328570) (2026-09-13)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
 - [sama](https://x.com/sama/status/2095600005772104059) (2026-09-06)
 - [scaling01](https://x.com/scaling01/status/2095411747309953427) (2026-09-05)
