@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-09-13
-total_mentions: 291
+last_seen: 2026-09-14
+total_mentions: 293
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -16,6 +16,7 @@ total_mentions: 291
 - [0xMovez](https://x.com/0xMovez/status/2072317067689152585) (2026-07-04)
 - [0xMovez](https://x.com/0xMovez/status/2080646952069288055) (2026-07-27)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
+- [0xSweep](https://x.com/0xSweep/status/2098822616907940241) (2026-09-14)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2086799737651400907) (2026-08-11)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2093700205015081210) (2026-09-04)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2095134652688220236) (2026-09-04)
@@ -203,6 +204,7 @@ total_mentions: 291
 - [elora_khatun](https://x.com/elora_khatun/status/2074711871069032615) (2026-07-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2063633896517022014) (2026-06-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2084974440895410625) (2026-08-07)
+- [exQUIZitely](https://x.com/exQUIZitely/status/2099121418092900473) (2026-09-14)
 - [expertwith_AI](https://x.com/expertwith_AI/status/2070094109109567845) (2026-06-27)
 - [forecast_agents](https://x.com/forecast_agents/status/2079822864614555806) (2026-07-22)
 - [gippp69](https://x.com/gippp69/status/2062224522237890675) (2026-06-08)

@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-09-13
-total_mentions: 90
+last_seen: 2026-09-14
+total_mentions: 93
 
 ## Related Tweets
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
@@ -48,6 +48,7 @@ total_mentions: 90
 - [a16z](https://x.com/a16z/status/2086906363947737406) (2026-08-11)
 - [aakashgupta](https://x.com/aakashgupta/status/2075353796671090794) (2026-07-10)
 - [adcock_brett](https://x.com/adcock_brett/status/2070674685575209066) (2026-06-27)
+- [adiix_official](https://x.com/adiix_official/status/2098425574377107724) (2026-09-14)
 - [aiedge_](https://x.com/aiedge_/status/2074320056008560691) (2026-07-14)
 - [ajambrosino](https://x.com/ajambrosino/status/2075274357715427618) (2026-07-18)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2093749877272715636) (2026-08-30)
@@ -72,11 +73,13 @@ total_mentions: 90
 - [jakevin7](https://x.com/jakevin7/status/2096850696964325472) (2026-09-07)
 - [jasonzhou1993](https://x.com/jasonzhou1993/status/2098251709214761387) (2026-09-11)
 - [jxnlco](https://x.com/jxnlco/status/2070577704752267321) (2026-06-27)
+- [kylejeong](https://x.com/kylejeong/status/2098478826464702556) (2026-09-14)
 - [lennysan](https://x.com/lennysan/status/2097392748244721911) (2026-09-10)
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2073646837894992126) (2026-07-05)
 - [markchen90](https://x.com/markchen90/status/2095597534412673109) (2026-09-04)
 - [martin_casado](https://x.com/martin_casado/status/2096648261759389983) (2026-09-07)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2098738486014537803) (2026-09-13)
+- [mikoto2000](https://x.com/mikoto2000/status/2099270333522186365) (2026-09-14)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2075469825514824153) (2026-07-10)
 - [milindlabs](https://x.com/milindlabs/status/2087289803964559746) (2026-08-14)
 - [nicbstme](https://x.com/nicbstme/status/2088014852954669300) (2026-08-14)

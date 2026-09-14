@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-13
-total_mentions: 459
+last_seen: 2026-09-14
+total_mentions: 471
 
 ## Related Tweets
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
@@ -19,6 +19,7 @@ total_mentions: 459
 - [AgentChud](https://x.com/AgentChud/status/2096259218835718273) (2026-09-06)
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
 - [AlexMasonCrypto](https://x.com/AlexMasonCrypto/status/2090133773081854263) (2026-08-22)
+- [Alexkphillips](https://x.com/Alexkphillips/status/2099142554407051336) (2026-09-14)
 - [AlphaCapitalUK](https://x.com/AlphaCapitalUK/status/2079957138730848366) (2026-07-25)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2079915295230038426) (2026-07-23)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2088330041289494736) (2026-08-17)
@@ -34,6 +35,7 @@ total_mentions: 459
 - [AvinashSingh_20](https://x.com/AvinashSingh_20/status/2088315936353010013) (2026-08-15)
 - [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2078578545429991768) (2026-07-24)
 - [BernieSanders](https://x.com/BernieSanders/status/2080047245433438469) (2026-07-26)
+- [BernieSanders](https://x.com/BernieSanders/status/2095617679235088569) (2026-09-14)
 - [BestAIToolFind](https://x.com/BestAIToolFind/status/2087737224456732920) (2026-08-13)
 - [BillAckman](https://x.com/BillAckman/status/2089118514741129636) (2026-08-19)
 - [BillAckman](https://x.com/BillAckman/status/2090190151083532583) (2026-08-20)
@@ -61,8 +63,10 @@ total_mentions: 459
 - [Dhruvam987](https://x.com/Dhruvam987/status/2067811478485582025) (2026-06-19)
 - [Dylan_txa_](https://x.com/Dylan_txa_/status/2095140253149352266) (2026-09-03)
 - [Dylan_txa_](https://x.com/Dylan_txa_/status/2095443899015663890) (2026-09-05)
+- [EricTrump](https://x.com/EricTrump/status/2095360389227630607) (2026-09-14)
 - [EthenaFndtn](https://x.com/EthenaFndtn/status/2092976592738001383) (2026-08-28)
 - [FT](https://x.com/FT/status/2092858183907741818) (2026-08-30)
+- [FinanceLancelot](https://x.com/FinanceLancelot/status/2098902773655806267) (2026-09-14)
 - [FishAudio](https://x.com/FishAudio/status/2082152596739862853) (2026-07-29)
 - [ForwardEditor](https://x.com/ForwardEditor/status/2091534492603220452) (2026-08-24)
 - [FoxNews](https://x.com/FoxNews/status/2085811250995372229) (2026-08-12)
@@ -72,6 +76,7 @@ total_mentions: 459
 - [FundingPredicts](https://x.com/FundingPredicts/status/2076561972913475742) (2026-07-13)
 - [FundingPredicts](https://x.com/FundingPredicts/status/2093452683008979134) (2026-08-29)
 - [GAXEN10](https://x.com/GAXEN10/status/2068603068753596431) (2026-06-21)
+- [GrantWarr1](https://x.com/GrantWarr1/status/2099136532477055246) (2026-09-14)
 - [GrishinRobotics](https://x.com/GrishinRobotics/status/2067880410676187569) (2026-06-19)
 - [HVemasani](https://x.com/HVemasani/status/2089593578473574842) (2026-08-20)
 - [Hartdrawss](https://x.com/Hartdrawss/status/2096591974685946168) (2026-09-07)
@@ -80,6 +85,7 @@ total_mentions: 459
 - [HerbalistChief](https://x.com/HerbalistChief/status/2097984218320003221) (2026-09-11)
 - [Hesamation](https://x.com/Hesamation/status/1970585800325640372) (2026-06-07)
 - [HeyRohhit](https://x.com/HeyRohhit/status/2079594120977527102) (2026-07-22)
+- [IBVMCHAIN](https://x.com/IBVMCHAIN/status/2099351342238359725) (2026-09-14)
 - [ILSecOfState](https://x.com/ILSecOfState/status/2088299276841439364) (2026-08-21)
 - [IPONewsroom_](https://x.com/IPONewsroom_/status/2065081323803267479) (2026-06-13)
 - [IREN_Ltd](https://x.com/IREN_Ltd/status/2079162785804812622) (2026-07-26)
@@ -92,6 +98,7 @@ total_mentions: 459
 - [Kalshi](https://x.com/Kalshi/status/2087547153736446426) (2026-08-14)
 - [Kappaemme1926](https://x.com/Kappaemme1926/status/2076637778734153857) (2026-07-14)
 - [Kavya_learns](https://x.com/Kavya_learns/status/2090383561635639754) (2026-08-21)
+- [Keanaalabre](https://x.com/Keanaalabre/status/2099274965237608638) (2026-09-14)
 - [KenjiCapital](https://x.com/KenjiCapital/status/2087614637499941128) (2026-08-13)
 - [KentonVarda](https://x.com/KentonVarda/status/2084990137180590572) (2026-08-12)
 - [KetchumNfts](https://x.com/KetchumNfts/status/2083457676202086669) (2026-08-02)
@@ -136,8 +143,10 @@ total_mentions: 459
 - [ProfBrianCox](https://x.com/ProfBrianCox/status/2082427049109602580) (2026-08-03)
 - [RITESHGHODELA](https://x.com/RITESHGHODELA/status/2063136905282429213) (2026-06-06)
 - [RafaelFQL](https://x.com/RafaelFQL/status/2079943052261457977) (2026-07-23)
+- [RepThomasMassie](https://x.com/RepThomasMassie/status/2088582666157232308) (2026-09-14)
 - [Ric_RTP](https://x.com/Ric_RTP/status/2088261230054060274) (2026-08-15)
 - [RichardSSutton](https://x.com/RichardSSutton/status/2076663628301058329) (2026-07-17)
+- [RodDMartin](https://x.com/RodDMartin/status/2092603407446020536) (2026-09-14)
 - [Romain_Lapeyre](https://x.com/Romain_Lapeyre/status/2079636276530037009) (2026-07-22)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2032664263882674275) (2026-06-09)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2096844664980832620) (2026-09-07)
@@ -149,6 +158,7 @@ total_mentions: 459
 - [SeedifyFund](https://x.com/SeedifyFund/status/1882843585470406990) (2026-06-08)
 - [SenAshleyMoody](https://x.com/SenAshleyMoody/status/2086020042362167308) (2026-08-11)
 - [SenMikeLee](https://x.com/SenMikeLee/status/2077145376960741857) (2026-07-18)
+- [SenSanders](https://x.com/SenSanders/status/2099182729048830438) (2026-09-14)
 - [ShaanVP](https://x.com/ShaanVP/status/2062657552220119538) (2026-06-07)
 - [SharmaShradha](https://x.com/SharmaShradha/status/2098317823999398206) (2026-09-11)
 - [Sheema_bakhtiar](https://x.com/Sheema_bakhtiar/status/2064945268563546427) (2026-06-11)
@@ -305,6 +315,7 @@ total_mentions: 459
 - [gregisenberg](https://x.com/gregisenberg/status/2095538589543059535) (2026-09-05)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [heynavtoor](https://x.com/heynavtoor/status/2090103120399655356) (2026-08-20)
+- [holonabove](https://x.com/holonabove/status/2098020577269141795) (2026-09-14)
 - [hridoyreh](https://x.com/hridoyreh/status/2092152773148328214) (2026-08-28)
 - [iam_elias1](https://x.com/iam_elias1/status/2062095528742240319) (2026-06-05)
 - [ianwong_](https://x.com/ianwong_/status/2098106891737977191) (2026-09-12)
@@ -329,6 +340,7 @@ total_mentions: 459
 - [kamath_sutra](https://x.com/kamath_sutra/status/2083224374728093907) (2026-08-01)
 - [kapilansh_twt](https://x.com/kapilansh_twt/status/2086328186393247796) (2026-08-09)
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
+- [kirillk_web3](https://x.com/kirillk_web3/status/2098902710120743088) (2026-09-14)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)
 - [kmr_dilip](https://x.com/kmr_dilip/status/2084154599183929363) (2026-08-06)
 - [kseniam0s](https://x.com/kseniam0s/status/2069540568615604610) (2026-06-27)

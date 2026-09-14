@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-13
-total_mentions: 1200
+last_seen: 2026-09-14
+total_mentions: 1206
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -153,6 +153,7 @@ total_mentions: 1200
 - [Argona0x](https://x.com/Argona0x/status/2091946932037906774) (2026-08-26)
 - [Argona0x](https://x.com/Argona0x/status/2093075254990033049) (2026-08-28)
 - [AriaWestcott](https://x.com/AriaWestcott/status/2083996549357416566) (2026-08-04)
+- [Arifx0001](https://x.com/Arifx0001/status/2099353560656060785) (2026-09-14)
 - [AroNetwork](https://x.com/AroNetwork/status/2085350184708379001) (2026-08-09)
 - [ArrowFinanceio](https://x.com/ArrowFinanceio/status/2082866606925918282) (2026-08-04)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2064500150069030992) (2026-06-10)
@@ -277,6 +278,7 @@ total_mentions: 1200
 - [FundamentEdge](https://x.com/FundamentEdge/status/2086632605466915006) (2026-08-10)
 - [FutureStacked](https://x.com/FutureStacked/status/2074159794030604515) (2026-07-07)
 - [GavinSBaker](https://x.com/GavinSBaker/status/2096257640884027500) (2026-09-06)
+- [George_Kurtz](https://x.com/George_Kurtz/status/2099263605900255575) (2026-09-14)
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2087121081098224122) (2026-08-18)
 - [GesoraMeshack](https://x.com/GesoraMeshack/status/2084521634937856338) (2026-08-04)
 - [GitTrend0x](https://x.com/GitTrend0x/status/2085190556674904253) (2026-08-07)
@@ -644,6 +646,7 @@ total_mentions: 1200
 - [alex_prompter](https://x.com/alex_prompter/status/2091565591756980355) (2026-08-24)
 - [alexandr_wang](https://x.com/alexandr_wang/status/2072848108342677597) (2026-07-03)
 - [alexandr_wang](https://x.com/alexandr_wang/status/2075218936266998230) (2026-07-11)
+- [alexandr_wang](https://x.com/alexandr_wang/status/2099337296487333978) (2026-09-14)
 - [alexxubyte](https://x.com/alexxubyte/status/2076693603439817057) (2026-07-14)
 - [allen_lattimer](https://x.com/allen_lattimer/status/2095534151810338990) (2026-09-10)
 - [allen_lattimer](https://x.com/allen_lattimer/status/2098802988722815384) (2026-09-13)
@@ -920,6 +923,7 @@ total_mentions: 1200
 - [jasonfreedman](https://x.com/jasonfreedman/status/2094460349298962594) (2026-09-01)
 - [jasonlk](https://x.com/jasonlk/status/2074304139425931745) (2026-07-07)
 - [jasonlk](https://x.com/jasonlk/status/2093792483977376045) (2026-08-31)
+- [jeffhollan](https://x.com/jeffhollan/status/2099222521451311254) (2026-09-14)
 - [jerryjliu0](https://x.com/jerryjliu0/status/2082673383255216356) (2026-07-31)
 - [jerryjliu0](https://x.com/jerryjliu0/status/2091564183922077885) (2026-08-24)
 - [jiayq](https://x.com/jiayq/status/2082135245776920681) (2026-07-29)
@@ -1101,6 +1105,8 @@ total_mentions: 1200
 - [sentient_zh](https://x.com/sentient_zh/status/2066417986467189164) (2026-06-15)
 - [setyamickala](https://x.com/setyamickala/status/2066848520326480020) (2026-06-28)
 - [shamshudein](https://x.com/shamshudein/status/2087424449985523898) (2026-08-12)
+- [shanyanggm](https://x.com/shanyanggm/status/2098941338297458746) (2026-09-14)
+- [shanyanggm](https://x.com/shanyanggm/status/2099226614844256653) (2026-09-14)
 - [sharbel](https://x.com/sharbel/status/2065700640387436935) (2026-06-20)
 - [sharbel](https://x.com/sharbel/status/2070812435653464323) (2026-06-28)
 - [shawnchauhan1](https://x.com/shawnchauhan1/status/2082685120679657715) (2026-07-30)
