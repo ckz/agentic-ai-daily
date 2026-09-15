@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-14
-total_mentions: 209
+last_seen: 2026-09-15
+total_mentions: 211
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -164,6 +164,7 @@ total_mentions: 209
 - [googlecloud](https://x.com/googlecloud/status/2064505329006653571) (2026-06-10)
 - [gregisenberg](https://x.com/gregisenberg/status/2086534549341610457) (2026-08-12)
 - [gregisenberg](https://x.com/gregisenberg/status/2088988857417044432) (2026-08-17)
+- [gregisenberg](https://x.com/gregisenberg/status/2099202686377742576) (2026-09-15)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [heynavtoor](https://x.com/heynavtoor/status/2083221614595051602) (2026-08-05)
@@ -198,6 +199,7 @@ total_mentions: 209
 - [sairahul1](https://x.com/sairahul1/status/2090807997253726488) (2026-08-22)
 - [shannholmberg](https://x.com/shannholmberg/status/2062652746508173796) (2026-06-06)
 - [sharbel](https://x.com/sharbel/status/2063369348828610886) (2026-06-11)
+- [sohmehta](https://x.com/sohmehta/status/2097374528175526083) (2026-09-15)
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
 - [stretchcloud](https://x.com/stretchcloud/status/2072215124958740898) (2026-07-01)
 - [stretchcloud](https://x.com/stretchcloud/status/2074649666608840706) (2026-07-08)

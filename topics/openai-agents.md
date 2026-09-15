@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-14
-total_mentions: 68
+last_seen: 2026-09-15
+total_mentions: 70
 
 ## Related Tweets
 - [0xDepressionn](https://x.com/0xDepressionn/status/2063987019068371128) (2026-06-10)
@@ -16,6 +16,7 @@ total_mentions: 68
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2095595489031000350) (2026-09-04)
 - [Brainm8ion](https://x.com/Brainm8ion/status/2087751034944803135) (2026-08-13)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2064900509933175066) (2026-06-11)
+- [DKokotajlo](https://x.com/DKokotajlo/status/2099600298855829616) (2026-09-15)
 - [EugenioFierro3](https://x.com/EugenioFierro3/status/2070777655926906996) (2026-06-27)
 - [FT](https://x.com/FT/status/2079768250804535342) (2026-07-29)
 - [Gustafssonkotte](https://x.com/Gustafssonkotte/status/2082309711785849067) (2026-08-01)
@@ -56,6 +57,7 @@ total_mentions: 68
 - [doodlestein](https://x.com/doodlestein/status/2090862143402860859) (2026-08-22)
 - [dr_cintas](https://x.com/dr_cintas/status/1912954389221851524) (2026-08-26)
 - [dschwarz26](https://x.com/dschwarz26/status/2093352278627684644) (2026-08-29)
+- [gregisenberg](https://x.com/gregisenberg/status/2099202686377742576) (2026-09-15)
 - [hot_town](https://x.com/hot_town/status/2084999228439376119) (2026-08-06)
 - [iamrexei](https://x.com/iamrexei/status/2091465106303471964) (2026-08-28)
 - [israfill](https://x.com/israfill/status/2068936531780555013) (2026-06-27)

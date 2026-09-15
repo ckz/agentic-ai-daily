@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-09-14
-total_mentions: 467
+last_seen: 2026-09-15
+total_mentions: 471
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -222,6 +222,8 @@ total_mentions: 467
 - [WesRoth](https://x.com/WesRoth/status/2063244515989713206) (2026-06-08)
 - [WrangleAi](https://x.com/WrangleAi/status/2083825310982660098) (2026-08-02)
 - [XFreeze](https://x.com/XFreeze/status/2072315431881453800) (2026-07-06)
+- [XFreeze](https://x.com/XFreeze/status/2099660997724135828) (2026-09-15)
+- [XFreeze](https://x.com/XFreeze/status/2099741633868865621) (2026-09-15)
 - [XiaomiMiMo](https://x.com/XiaomiMiMo/status/2064799879352959085) (2026-06-11)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2095668162624618959) (2026-09-05)
 - [Yuchenj_UW](https://x.com/Yuchenj_UW/status/2070928299744972814) (2026-06-30)
@@ -343,6 +345,7 @@ total_mentions: 467
 - [gravitygotmeup](https://x.com/gravitygotmeup/status/2068193792780591353) (2026-06-20)
 - [gregisenberg](https://x.com/gregisenberg/status/2097381384608166057) (2026-09-10)
 - [gregisenberg](https://x.com/gregisenberg/status/2098396069583319070) (2026-09-12)
+- [gregisenberg](https://x.com/gregisenberg/status/2099202686377742576) (2026-09-15)
 - [gumterver100](https://x.com/gumterver100/status/2087078337235628286) (2026-08-11)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [hasantoxr](https://x.com/hasantoxr/status/2075864853542269183) (2026-07-15)
@@ -392,6 +395,7 @@ total_mentions: 467
 - [nomadcoderai](https://x.com/nomadcoderai/status/2075460970848416075) (2026-07-10)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [omarsar0](https://x.com/omarsar0/status/1846930425849303424) (2026-06-27)
+- [omarsar0](https://x.com/omarsar0/status/2098809969252450451) (2026-09-15)
 - [ordo_chain](https://x.com/ordo_chain/status/2073312746381181174) (2026-07-04)
 - [paywithmana](https://x.com/paywithmana/status/2074758476220473387) (2026-07-08)
 - [petergyang](https://x.com/petergyang/status/2083917722765947284) (2026-08-04)

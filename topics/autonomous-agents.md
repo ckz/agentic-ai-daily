@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-14
-total_mentions: 1206
+last_seen: 2026-09-15
+total_mentions: 1211
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -217,6 +217,7 @@ total_mentions: 1206
 - [Cypherpunkgod1](https://x.com/Cypherpunkgod1/status/2066407248859959700) (2026-06-15)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2066212008782172238) (2026-06-19)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2089423549379559718) (2026-08-19)
+- [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2099434845558730923) (2026-09-15)
 - [DJ_CURFEW](https://x.com/DJ_CURFEW/status/2069499429292568919) (2026-06-29)
 - [DOLAK1NG](https://x.com/DOLAK1NG/status/2000543960943530044) (2026-08-22)
 - [DamiDefi](https://x.com/DamiDefi/status/2034210979475788197) (2026-06-10)
@@ -806,6 +807,7 @@ total_mentions: 1206
 - [dkare1009](https://x.com/dkare1009/status/2087577350779379866) (2026-08-14)
 - [dkare1009](https://x.com/dkare1009/status/2088483412919128437) (2026-08-16)
 - [dmokafa](https://x.com/dmokafa/status/2066400400308154773) (2026-06-15)
+- [dogacel0](https://x.com/dogacel0/status/2099720607160004886) (2026-09-15)
 - [dojintanuki](https://x.com/dojintanuki/status/2063832283736387900) (2026-06-08)
 - [dotey](https://x.com/dotey/status/2080460993251951103) (2026-07-31)
 - [dotta](https://x.com/dotta/status/2077029848602874009) (2026-07-15)
@@ -958,6 +960,7 @@ total_mentions: 1206
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
 - [levie](https://x.com/levie/status/2089921630650925170) (2026-08-19)
 - [levie](https://x.com/levie/status/2098218284139311615) (2026-09-11)
+- [levie](https://x.com/levie/status/2099739019517235618) (2026-09-15)
 - [lewiscarhart](https://x.com/lewiscarhart/status/2083610805069611230) (2026-08-02)
 - [liambraus](https://x.com/liambraus/status/2096648475366539321) (2026-09-07)
 - [liquidai](https://x.com/liquidai/status/2084640701669613906) (2026-08-05)
@@ -1032,6 +1035,7 @@ total_mentions: 1206
 - [omarsar0](https://x.com/omarsar0/status/2069907174252527816) (2026-06-27)
 - [omarsar0](https://x.com/omarsar0/status/2077792894459793714) (2026-07-17)
 - [omarsar0](https://x.com/omarsar0/status/2095873020778991918) (2026-09-08)
+- [omarsar0](https://x.com/omarsar0/status/2098809969252450451) (2026-09-15)
 - [openart_ai](https://x.com/openart_ai/status/2067650953478652126) (2026-06-19)
 - [openservai](https://x.com/openservai/status/2064795739369152670) (2026-06-11)
 - [opentensor](https://x.com/opentensor/status/2078858375081627985) (2026-07-21)
@@ -1111,6 +1115,7 @@ total_mentions: 1206
 - [sharbel](https://x.com/sharbel/status/2070812435653464323) (2026-06-28)
 - [shawnchauhan1](https://x.com/shawnchauhan1/status/2082685120679657715) (2026-07-30)
 - [shedoesai](https://x.com/shedoesai/status/2054227691671556145) (2026-06-12)
+- [sheemamoto](https://x.com/sheemamoto/status/2099571838514864241) (2026-09-15)
 - [sherlockdefi](https://x.com/sherlockdefi/status/2079222748572697080) (2026-07-26)
 - [shikamarutsai](https://x.com/shikamarutsai/status/2088636457938280724) (2026-08-19)
 - [shiqway92](https://x.com/shiqway92/status/2081403424986239014) (2026-07-28)

@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-14
-total_mentions: 471
+last_seen: 2026-09-15
+total_mentions: 477
 
 ## Related Tweets
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
@@ -108,6 +108,7 @@ total_mentions: 471
 - [MAGALieTracker](https://x.com/MAGALieTracker/status/2080726200213979290) (2026-08-01)
 - [MTSlive](https://x.com/MTSlive/status/2065073640182579322) (2026-06-12)
 - [MTSlive](https://x.com/MTSlive/status/2079701447084740739) (2026-07-22)
+- [MabreyTed](https://x.com/MabreyTed/status/2099549711103349178) (2026-09-15)
 - [MackenZ_arnold](https://x.com/MackenZ_arnold/status/2097773578921857101) (2026-09-12)
 - [Maker17368Maker](https://x.com/Maker17368Maker/status/2062810745210040366) (2026-06-07)
 - [Marsadist](https://x.com/Marsadist/status/2095333453956854216) (2026-09-10)
@@ -116,6 +117,7 @@ total_mentions: 471
 - [MicronCEO](https://x.com/MicronCEO/status/2090533293519409610) (2026-08-23)
 - [Mohansinha](https://x.com/Mohansinha/status/2079629691494060368) (2026-07-24)
 - [MollySOShea](https://x.com/MollySOShea/status/2092606579732251060) (2026-08-27)
+- [MollySOShea](https://x.com/MollySOShea/status/2099495482775289908) (2026-09-15)
 - [Motionsbyeddy](https://x.com/Motionsbyeddy/status/2071694912597479912) (2026-07-02)
 - [NFT_Chen](https://x.com/NFT_Chen/status/2090276530962461131) (2026-08-22)
 - [NextLvlFunded](https://x.com/NextLvlFunded/status/2061795412986728637) (2026-06-05)
@@ -219,6 +221,7 @@ total_mentions: 471
 - [annajmalayan](https://x.com/annajmalayan/status/2094550929504891060) (2026-09-01)
 - [anupamrjp](https://x.com/anupamrjp/status/2076558763071508656) (2026-07-13)
 - [anuraggoel](https://x.com/anuraggoel/status/2069218653137142074) (2026-06-30)
+- [anushankjain](https://x.com/anushankjain/status/2099371656833896850) (2026-09-15)
 - [apnmrev](https://x.com/apnmrev/status/2082074585017823365) (2026-07-30)
 - [artchad](https://x.com/artchad/status/2090555717875015956) (2026-08-23)
 - [arthur__penn](https://x.com/arthur__penn/status/2074352731238916503) (2026-07-07)
@@ -257,6 +260,7 @@ total_mentions: 471
 - [chamath](https://x.com/chamath/status/2071571183665881515) (2026-07-01)
 - [chamath](https://x.com/chamath/status/2083463694931902561) (2026-08-14)
 - [charliermarsh](https://x.com/charliermarsh/status/2090924566923067490) (2026-08-22)
+- [chasewoolard](https://x.com/chasewoolard/status/2099676141854589366) (2026-09-15)
 - [christophersaum](https://x.com/christophersaum/status/2069813347420119217) (2026-06-28)
 - [christophersaum](https://x.com/christophersaum/status/2074608938046104035) (2026-07-08)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
@@ -406,6 +410,7 @@ total_mentions: 471
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2096117661172384137) (2026-09-07)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2098655241453687123) (2026-09-12)
 - [rsngprad](https://x.com/rsngprad/status/2072630117218791745) (2026-07-05)
+- [rtwlz](https://x.com/rtwlz/status/2099608957698617356) (2026-09-15)
 - [s1rozha_](https://x.com/s1rozha_/status/2087132684514455625) (2026-08-12)
 - [sacha_io](https://x.com/sacha_io/status/2094745129714135343) (2026-09-06)
 - [sahil_seth](https://x.com/sahil_seth/status/2079716698840858930) (2026-07-22)
@@ -428,6 +433,7 @@ total_mentions: 471
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
 - [stevenfiorillo](https://x.com/stevenfiorillo/status/2093840650223358375) (2026-08-30)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
+- [subahwadhwani](https://x.com/subahwadhwani/status/2097331593790792035) (2026-09-15)
 - [suni_code](https://x.com/suni_code/status/2073859515485974967) (2026-07-08)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
 - [tankots](https://x.com/tankots/status/2089372674644713664) (2026-08-21)

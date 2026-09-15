@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-09-14
-total_mentions: 93
+last_seen: 2026-09-15
+total_mentions: 94
 
 ## Related Tweets
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
@@ -75,6 +75,7 @@ total_mentions: 93
 - [jxnlco](https://x.com/jxnlco/status/2070577704752267321) (2026-06-27)
 - [kylejeong](https://x.com/kylejeong/status/2098478826464702556) (2026-09-14)
 - [lennysan](https://x.com/lennysan/status/2097392748244721911) (2026-09-10)
+- [levie](https://x.com/levie/status/2099739019517235618) (2026-09-15)
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2073646837894992126) (2026-07-05)
 - [markchen90](https://x.com/markchen90/status/2095597534412673109) (2026-09-04)
 - [martin_casado](https://x.com/martin_casado/status/2096648261759389983) (2026-09-07)
