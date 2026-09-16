@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-15
-total_mentions: 1211
+last_seen: 2026-09-16
+total_mentions: 1216
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -233,6 +233,7 @@ total_mentions: 1211
 - [DanKornas](https://x.com/DanKornas/status/2086967308711284774) (2026-08-18)
 - [DanKornas](https://x.com/DanKornas/status/2087114536385937617) (2026-08-13)
 - [DanKornas](https://x.com/DanKornas/status/2088477020602696132) (2026-08-18)
+- [DanKornas](https://x.com/DanKornas/status/2099962470857048270) (2026-09-16)
 - [Daniel_Farinax](https://x.com/Daniel_Farinax/status/2088855024319258910) (2026-08-17)
 - [DataChaz](https://x.com/DataChaz/status/2020882442492747997) (2026-06-05)
 - [DataChaz](https://x.com/DataChaz/status/2063158890469196218) (2026-06-06)
@@ -427,6 +428,7 @@ total_mentions: 1211
 - [NotebookLM](https://x.com/NotebookLM/status/2064016460964585549) (2026-06-11)
 - [NousResearch](https://x.com/NousResearch/status/2026759005633183980) (2026-06-07)
 - [NousResearch](https://x.com/NousResearch/status/2097403926072987986) (2026-09-09)
+- [Nozelcode](https://x.com/Nozelcode/status/2098804780659286041) (2026-09-16)
 - [NuryVittachi](https://x.com/NuryVittachi/status/2085178025055031587) (2026-08-11)
 - [OSACrypto1](https://x.com/OSACrypto1/status/2093684531731603613) (2026-08-30)
 - [Okada_DeFi0x](https://x.com/Okada_DeFi0x/status/2070769365763449051) (2026-06-28)
@@ -1016,6 +1018,7 @@ total_mentions: 1211
 - [nextplayso](https://x.com/nextplayso/status/2079686456101179538) (2026-07-28)
 - [nicbstme](https://x.com/nicbstme/status/2084918378368471150) (2026-08-06)
 - [nichxbt](https://x.com/nichxbt/status/2071763989030478016) (2026-07-01)
+- [nikesharora](https://x.com/nikesharora/status/2097775700627578963) (2026-09-16)
 - [nmkr_io](https://x.com/nmkr_io/status/1857069687034523933) (2026-06-06)
 - [norvex1029](https://x.com/norvex1029/status/2087230353035440452) (2026-08-13)
 - [norvex1029](https://x.com/norvex1029/status/2091528114534863055) (2026-08-26)
@@ -1028,6 +1031,7 @@ total_mentions: 1211
 - [nvidianewsroom](https://x.com/nvidianewsroom/status/2092720651576414611) (2026-08-27)
 - [obscaries](https://x.com/obscaries/status/2066019802016354811) (2026-06-14)
 - [officialbunnyos](https://x.com/officialbunnyos/status/2089938164916060444) (2026-08-19)
+- [oleg_murk](https://x.com/oleg_murk/status/2099652501645775041) (2026-09-16)
 - [olesovhcom](https://x.com/olesovhcom/status/2067840948797624766) (2026-06-19)
 - [ollama](https://x.com/ollama/status/2066949797316350361) (2026-06-19)
 - [omarsar0](https://x.com/omarsar0/status/1715491139053121839) (2026-09-08)
@@ -1140,6 +1144,7 @@ total_mentions: 1211
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
 - [stretchcloud](https://x.com/stretchcloud/status/2079772421947560434) (2026-07-22)
 - [sudoingX](https://x.com/sudoingX/status/2081453712149721457) (2026-08-19)
+- [sudoingX](https://x.com/sudoingX/status/2100013545928933875) (2026-09-16)
 - [sundaebar_ai](https://x.com/sundaebar_ai/status/2077392523128132068) (2026-07-16)
 - [sundarpichai](https://x.com/sundarpichai/status/2095181765082292334) (2026-09-03)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2077724941198533011) (2026-07-17)

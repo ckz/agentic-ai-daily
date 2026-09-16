@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-15
-total_mentions: 211
+last_seen: 2026-09-16
+total_mentions: 214
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -108,6 +108,7 @@ total_mentions: 211
 - [_zheergen](https://x.com/_zheergen/status/2090966669204341076) (2026-08-22)
 - [abskoop](https://x.com/abskoop/status/2090701734138274062) (2026-08-22)
 - [agenticbrew](https://x.com/agenticbrew/status/2072848219084910646) (2026-07-03)
+- [agenticgirl](https://x.com/agenticgirl/status/2099087022900367845) (2026-09-16)
 - [aiedge_](https://x.com/aiedge_/status/2068204707139752359) (2026-06-20)
 - [aiedge_](https://x.com/aiedge_/status/2070016711341040054) (2026-06-27)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2029534926828388537) (2026-06-06)
@@ -124,6 +125,7 @@ total_mentions: 211
 - [bindureddy](https://x.com/bindureddy/status/2087034287396938177) (2026-08-11)
 - [bonduelleioat](https://x.com/bonduelleioat/status/2090015153739669554) (2026-08-23)
 - [businessbarista](https://x.com/businessbarista/status/2097478065723162959) (2026-09-09)
+- [businessbarista](https://x.com/businessbarista/status/2099565601312166157) (2026-09-16)
 - [candyyueliu](https://x.com/candyyueliu/status/2062178835689623592) (2026-06-29)
 - [carverfomo](https://x.com/carverfomo/status/2064338010242490662) (2026-06-10)
 - [celineodier](https://x.com/celineodier/status/2094079187904610504) (2026-09-01)
@@ -198,6 +200,7 @@ total_mentions: 211
 - [sairahul1](https://x.com/sairahul1/status/2077326742218539296) (2026-07-18)
 - [sairahul1](https://x.com/sairahul1/status/2090807997253726488) (2026-08-22)
 - [shannholmberg](https://x.com/shannholmberg/status/2062652746508173796) (2026-06-06)
+- [shannholmberg](https://x.com/shannholmberg/status/2099166725396922524) (2026-09-16)
 - [sharbel](https://x.com/sharbel/status/2063369348828610886) (2026-06-11)
 - [sohmehta](https://x.com/sohmehta/status/2097374528175526083) (2026-09-15)
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)

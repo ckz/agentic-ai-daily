@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-15
-total_mentions: 477
+last_seen: 2026-09-16
+total_mentions: 485
 
 ## Related Tweets
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
@@ -54,6 +54,7 @@ total_mentions: 477
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2093480630801858750) (2026-08-29)
 - [ClearpoolFin](https://x.com/ClearpoolFin/status/2098294816534876180) (2026-09-11)
 - [Codex_Changelog](https://x.com/Codex_Changelog/status/2062678248790589520) (2026-06-07)
+- [Codie_Sanchez](https://x.com/Codie_Sanchez/status/2099491915381006477) (2026-09-16)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2063005594047467893) (2026-06-05)
 - [CyberRobooo](https://x.com/CyberRobooo/status/2092844038831690046) (2026-08-27)
 - [DNIGabbard](https://x.com/DNIGabbard/status/2065440568423944607) (2026-08-27)
@@ -66,6 +67,7 @@ total_mentions: 477
 - [EricTrump](https://x.com/EricTrump/status/2095360389227630607) (2026-09-14)
 - [EthenaFndtn](https://x.com/EthenaFndtn/status/2092976592738001383) (2026-08-28)
 - [FT](https://x.com/FT/status/2092858183907741818) (2026-08-30)
+- [FT](https://x.com/FT/status/2099983566016794629) (2026-09-16)
 - [FinanceLancelot](https://x.com/FinanceLancelot/status/2098902773655806267) (2026-09-14)
 - [FishAudio](https://x.com/FishAudio/status/2082152596739862853) (2026-07-29)
 - [ForwardEditor](https://x.com/ForwardEditor/status/2091534492603220452) (2026-08-24)
@@ -140,6 +142,7 @@ total_mentions: 477
 - [Polymarket](https://x.com/Polymarket/status/2084097684617441653) (2026-08-03)
 - [Polymarket](https://x.com/Polymarket/status/2084876805488672819) (2026-08-05)
 - [Polymarket](https://x.com/Polymarket/status/2087762067063460143) (2026-08-13)
+- [Polymarket](https://x.com/Polymarket/status/2099993393963102216) (2026-09-16)
 - [Prasanjit_ui](https://x.com/Prasanjit_ui/status/2072617513079251312) (2026-07-07)
 - [PrimareApp](https://x.com/PrimareApp/status/2075974349173961017) (2026-07-12)
 - [ProfBrianCox](https://x.com/ProfBrianCox/status/2082427049109602580) (2026-08-03)
@@ -276,6 +279,7 @@ total_mentions: 477
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [davidsenra](https://x.com/davidsenra/status/2093170027390222611) (2026-08-31)
 - [deedydas](https://x.com/deedydas/status/2063075876452155728) (2026-06-06)
+- [deedydas](https://x.com/deedydas/status/2099880100770849001) (2026-09-16)
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
 - [dharmesh](https://x.com/dharmesh/status/2093071931188597042) (2026-08-28)
 - [dhh](https://x.com/dhh/status/2086590006898958752) (2026-08-13)
@@ -348,6 +352,9 @@ total_mentions: 477
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)
 - [kmr_dilip](https://x.com/kmr_dilip/status/2084154599183929363) (2026-08-06)
 - [kseniam0s](https://x.com/kseniam0s/status/2069540568615604610) (2026-06-27)
+- [kseniam0s](https://x.com/kseniam0s/status/2099194454758523021) (2026-09-16)
+- [kseniam0s](https://x.com/kseniam0s/status/2099593754659459507) (2026-09-16)
+- [kseniam0s](https://x.com/kseniam0s/status/2099928304786829692) (2026-09-16)
 - [lami_thefirst](https://x.com/lami_thefirst/status/2097224273853129017) (2026-09-08)
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
 - [lightspeedvp](https://x.com/lightspeedvp/status/2070182060224852105) (2026-06-27)
@@ -367,6 +374,7 @@ total_mentions: 477
 - [mikenevermiss](https://x.com/mikenevermiss/status/2072226710448168991) (2026-07-05)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2070112027780280630) (2026-06-27)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2095409961958514851) (2026-09-03)
+- [milesdeutscher](https://x.com/milesdeutscher/status/2100041731614150901) (2026-09-16)
 - [moneyacademyKE](https://x.com/moneyacademyKE/status/2080286044813926579) (2026-07-29)
 - [mr_bailando](https://x.com/mr_bailando/status/2086142677360226342) (2026-08-09)
 - [nanransohoff](https://x.com/nanransohoff/status/2069761661456601188) (2026-06-28)

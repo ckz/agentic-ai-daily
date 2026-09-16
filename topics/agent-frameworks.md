@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-09-15
-total_mentions: 471
+last_seen: 2026-09-16
+total_mentions: 475
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -72,9 +72,11 @@ total_mentions: 471
 - [DanKornas](https://x.com/DanKornas/status/2087114536385937617) (2026-08-13)
 - [DanKornas](https://x.com/DanKornas/status/2088477020602696132) (2026-08-18)
 - [DanKornas](https://x.com/DanKornas/status/2098059930246754551) (2026-09-11)
+- [DanKornas](https://x.com/DanKornas/status/2099962470857048270) (2026-09-16)
 - [DataChaz](https://x.com/DataChaz/status/2068952350077698446) (2026-06-28)
 - [DataChaz](https://x.com/DataChaz/status/2070415564510785812) (2026-06-27)
 - [DataScienceDojo](https://x.com/DataScienceDojo/status/2071624804575093052) (2026-06-30)
+- [DavidSacks](https://x.com/DavidSacks/status/2098973625252708460) (2026-09-16)
 - [DeRonin_](https://x.com/DeRonin_/status/2074134276551918043) (2026-07-07)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [Degen_calls_sol](https://x.com/Degen_calls_sol/status/2077084965209030808) (2026-07-15)
@@ -392,6 +394,7 @@ total_mentions: 471
 - [mojeskoqq](https://x.com/mojeskoqq/status/2085273824413503536) (2026-08-09)
 - [myshell_ai](https://x.com/myshell_ai/status/1874804449023266943) (2026-07-10)
 - [neuralnow](https://x.com/neuralnow/status/2067804236231160299) (2026-06-19)
+- [nikesharora](https://x.com/nikesharora/status/2097775700627578963) (2026-09-16)
 - [nomadcoderai](https://x.com/nomadcoderai/status/2075460970848416075) (2026-07-10)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [omarsar0](https://x.com/omarsar0/status/1846930425849303424) (2026-06-27)
@@ -426,6 +429,7 @@ total_mentions: 471
 - [sanjeevSab17827](https://x.com/sanjeevSab17827/status/2096081496448913595) (2026-09-05)
 - [santtiagom_](https://x.com/santtiagom_/status/2095685798402064550) (2026-09-04)
 - [sauda_coder](https://x.com/sauda_coder/status/2078463245657211007) (2026-07-20)
+- [sauda_coder](https://x.com/sauda_coder/status/2099333079567671797) (2026-09-16)
 - [seeconvm](https://x.com/seeconvm/status/2087453527190745345) (2026-08-13)
 - [seelffff](https://x.com/seelffff/status/2071118707405816250) (2026-06-29)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)

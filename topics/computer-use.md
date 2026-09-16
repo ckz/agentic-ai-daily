@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-09-15
-total_mentions: 94
+last_seen: 2026-09-16
+total_mentions: 96
 
 ## Related Tweets
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
@@ -35,6 +35,7 @@ total_mentions: 94
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2077166520392970529) (2026-07-15)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2095596020638036311) (2026-09-05)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2095978095379673102) (2026-09-05)
+- [RhysSullivan](https://x.com/RhysSullivan/status/2099970035137794430) (2026-09-16)
 - [Ric_RTP](https://x.com/Ric_RTP/status/2089132632332251293) (2026-08-17)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2090382081209909576) (2026-08-26)
 - [SamSokolin](https://x.com/SamSokolin/status/2094824011427373415) (2026-09-03)
@@ -62,6 +63,7 @@ total_mentions: 94
 - [cursor_ai](https://x.com/cursor_ai/status/2084317547608911986) (2026-08-09)
 - [cwmasaki](https://x.com/cwmasaki/status/2088433897445171301) (2026-08-15)
 - [deedydas](https://x.com/deedydas/status/1898444603071795378) (2026-06-06)
+- [deedydas](https://x.com/deedydas/status/2099880100770849001) (2026-09-16)
 - [deviparikh](https://x.com/deviparikh/status/2092647579163251007) (2026-08-30)
 - [dummerspast39](https://x.com/dummerspast39/status/2091205904662249886) (2026-08-23)
 - [dwarkesh_sp](https://x.com/dwarkesh_sp/status/2070672008946589922) (2026-06-27)

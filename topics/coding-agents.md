@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-15
-total_mentions: 141
+last_seen: 2026-09-16
+total_mentions: 143
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -114,6 +114,7 @@ total_mentions: 141
 - [milesdeutscher](https://x.com/milesdeutscher/status/2074378380385067230) (2026-07-07)
 - [monmiglobal](https://x.com/monmiglobal/status/2071399421997359236) (2026-06-29)
 - [nutlope](https://x.com/nutlope/status/2095890193957962077) (2026-09-07)
+- [nutlope](https://x.com/nutlope/status/2099547343112564921) (2026-09-16)
 - [orbiteditor](https://x.com/orbiteditor/status/2075064330325041395) (2026-07-09)
 - [peterfriese](https://x.com/peterfriese/status/2092545094423601239) (2026-09-02)
 - [pushmeet](https://x.com/pushmeet/status/2065917699222560928) (2026-06-15)
@@ -124,6 +125,7 @@ total_mentions: 141
 - [rowancheung](https://x.com/rowancheung/status/1767582332964516243) (2026-08-26)
 - [runwayml](https://x.com/runwayml/status/2095159754414813249) (2026-09-07)
 - [sairahul1](https://x.com/sairahul1/status/2077326742218539296) (2026-07-18)
+- [sauda_coder](https://x.com/sauda_coder/status/2099333079567671797) (2026-09-16)
 - [seelffff](https://x.com/seelffff/status/2071118707405816250) (2026-06-29)
 - [shao__meng](https://x.com/shao__meng/status/2096528991285092700) (2026-09-12)
 - [sharbel](https://x.com/sharbel/status/2055680438417412359) (2026-06-29)
