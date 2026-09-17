@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-16
-total_mentions: 485
+last_seen: 2026-09-17
+total_mentions: 490
 
 ## Related Tweets
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
@@ -68,6 +68,7 @@ total_mentions: 485
 - [EthenaFndtn](https://x.com/EthenaFndtn/status/2092976592738001383) (2026-08-28)
 - [FT](https://x.com/FT/status/2092858183907741818) (2026-08-30)
 - [FT](https://x.com/FT/status/2099983566016794629) (2026-09-16)
+- [FactoryAI](https://x.com/FactoryAI/status/2099907042123403466) (2026-09-17)
 - [FinanceLancelot](https://x.com/FinanceLancelot/status/2098902773655806267) (2026-09-14)
 - [FishAudio](https://x.com/FishAudio/status/2082152596739862853) (2026-07-29)
 - [ForwardEditor](https://x.com/ForwardEditor/status/2091534492603220452) (2026-08-24)
@@ -78,6 +79,7 @@ total_mentions: 485
 - [FundingPredicts](https://x.com/FundingPredicts/status/2076561972913475742) (2026-07-13)
 - [FundingPredicts](https://x.com/FundingPredicts/status/2093452683008979134) (2026-08-29)
 - [GAXEN10](https://x.com/GAXEN10/status/2068603068753596431) (2026-06-21)
+- [GergelyOrosz](https://x.com/GergelyOrosz/status/2100342582626668971) (2026-09-17)
 - [GrantWarr1](https://x.com/GrantWarr1/status/2099136532477055246) (2026-09-14)
 - [GrishinRobotics](https://x.com/GrishinRobotics/status/2067880410676187569) (2026-06-19)
 - [HVemasani](https://x.com/HVemasani/status/2089593578473574842) (2026-08-20)
@@ -304,6 +306,7 @@ total_mentions: 485
 - [gkisokay](https://x.com/gkisokay/status/2020853629306212478) (2026-07-25)
 - [gnoble79](https://x.com/gnoble79/status/2062616388963844440) (2026-06-08)
 - [gokulr](https://x.com/gokulr/status/2071692278582890889) (2026-08-02)
+- [gpumaxxer](https://x.com/gpumaxxer/status/2100307886408912985) (2026-09-17)
 - [gregisenberg](https://x.com/gregisenberg/status/1893687593755164940) (2026-07-03)
 - [gregisenberg](https://x.com/gregisenberg/status/1906697683089101113) (2026-07-20)
 - [gregisenberg](https://x.com/gregisenberg/status/1913582333229142177) (2026-06-21)
@@ -382,6 +385,7 @@ total_mentions: 485
 - [nextjs](https://x.com/nextjs/status/2071647669467201657) (2026-07-02)
 - [nicochristie](https://x.com/nicochristie/status/2093729344871170219) (2026-08-30)
 - [noah_schochet](https://x.com/noah_schochet/status/2077044441978737104) (2026-07-17)
+- [om_patel5](https://x.com/om_patel5/status/2099683744781111419) (2026-09-17)
 - [opentensor](https://x.com/opentensor/status/2097575251597054345) (2026-09-09)
 - [owenthcarey](https://x.com/owenthcarey/status/2098634072159658105) (2026-09-12)
 - [patrick_oshag](https://x.com/patrick_oshag/status/2089713931183153293) (2026-08-19)
@@ -470,6 +474,7 @@ total_mentions: 485
 - [undefinedKi](https://x.com/undefinedKi/status/2096224107121516997) (2026-09-06)
 - [unusual_whales](https://x.com/unusual_whales/status/2069766741404844484) (2026-07-01)
 - [unusual_whales](https://x.com/unusual_whales/status/2079702282443293037) (2026-07-24)
+- [vanshuETH](https://x.com/vanshuETH/status/2098766183726227823) (2026-09-17)
 - [vigneshxtech](https://x.com/vigneshxtech/status/2068597287010349323) (2026-06-21)
 - [vipulved](https://x.com/vipulved/status/2072321276094673083) (2026-07-02)
 - [wh0sumit](https://x.com/wh0sumit/status/2096847253550063656) (2026-09-07)

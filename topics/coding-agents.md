@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-16
-total_mentions: 143
+last_seen: 2026-09-17
+total_mentions: 145
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -81,10 +81,12 @@ total_mentions: 143
 - [candyyueliu](https://x.com/candyyueliu/status/2062178835689623592) (2026-06-29)
 - [cb_doge](https://x.com/cb_doge/status/2098446690806362589) (2026-09-15)
 - [celineodier](https://x.com/celineodier/status/2094079187904610504) (2026-09-01)
+- [charliejhills](https://x.com/charliejhills/status/2098351074755457321) (2026-09-17)
 - [codyschneider](https://x.com/codyschneider/status/2084369982918406433) (2026-08-04)
 - [csaba_kissi](https://x.com/csaba_kissi/status/2097206925264118197) (2026-09-12)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2071058754905481234) (2026-06-28)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2071817627484250139) (2026-06-30)
+- [dabit3](https://x.com/dabit3/status/2098557144580735156) (2026-09-17)
 - [dair_ai](https://x.com/dair_ai/status/2088298364458930462) (2026-08-15)
 - [dexhorthy](https://x.com/dexhorthy/status/2080314136119091431) (2026-07-25)
 - [di_zhang_fdu](https://x.com/di_zhang_fdu/status/2096481849937945012) (2026-09-07)

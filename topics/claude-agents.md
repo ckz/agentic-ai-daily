@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-16
-total_mentions: 214
+last_seen: 2026-09-17
+total_mentions: 216
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -147,6 +147,7 @@ total_mentions: 214
 - [cyrilXBT](https://x.com/cyrilXBT/status/2079147805856374832) (2026-07-21)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2084862461078077848) (2026-08-06)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2085683119320133685) (2026-08-08)
+- [dabit3](https://x.com/dabit3/status/2098557144580735156) (2026-09-17)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [davidim](https://x.com/davidim/status/2098353617816461689) (2026-09-12)
 - [dee_hw](https://x.com/dee_hw/status/2089388227971219643) (2026-08-18)
@@ -191,6 +192,7 @@ total_mentions: 214
 - [noisyb0y1](https://x.com/noisyb0y1/status/2087218720594706679) (2026-08-13)
 - [noisyb0y1](https://x.com/noisyb0y1/status/2093305554445738152) (2026-09-04)
 - [officialbunnyos](https://x.com/officialbunnyos/status/2089938164916060444) (2026-08-19)
+- [om_patel5](https://x.com/om_patel5/status/2099683744781111419) (2026-09-17)
 - [polydao](https://x.com/polydao/status/2088516287098159531) (2026-08-21)
 - [polydao](https://x.com/polydao/status/2097642088506487020) (2026-09-10)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)

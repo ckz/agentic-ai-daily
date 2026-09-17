@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-09-16
-total_mentions: 475
+last_seen: 2026-09-17
+total_mentions: 479
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -135,6 +135,7 @@ total_mentions: 475
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2073709900820099232) (2026-07-06)
 - [Jadzo1_](https://x.com/Jadzo1_/status/2072437174071636126) (2026-07-02)
 - [JaynitMakwana](https://x.com/JaynitMakwana/status/2078419436554625340) (2026-07-19)
+- [Jiacheng_Miao](https://x.com/Jiacheng_Miao/status/2100296661427999222) (2026-09-17)
 - [Kaffchad](https://x.com/Kaffchad/status/2059932680813183175) (2026-07-10)
 - [Kaffchad](https://x.com/Kaffchad/status/2066380271092662782) (2026-06-15)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2072425629627330995) (2026-07-02)
@@ -173,6 +174,7 @@ total_mentions: 475
 - [Priyannkaaaa](https://x.com/Priyannkaaaa/status/2083851157324046649) (2026-08-03)
 - [PyTorch](https://x.com/PyTorch/status/2086817394010280372) (2026-08-11)
 - [PythonDvz](https://x.com/PythonDvz/status/2063623261678698575) (2026-06-10)
+- [PythonDvz](https://x.com/PythonDvz/status/2099725396895727629) (2026-09-17)
 - [PythonHub](https://x.com/PythonHub/status/2095425383000650201) (2026-09-09)
 - [Rahul1539482](https://x.com/Rahul1539482/status/2068215799849091178) (2026-06-20)
 - [RaoulGMI](https://x.com/RaoulGMI/status/2085842971665351165) (2026-08-08)
@@ -291,6 +293,7 @@ total_mentions: 475
 - [businessbarista](https://x.com/businessbarista/status/2097478065723162959) (2026-09-09)
 - [cb_doge](https://x.com/cb_doge/status/2076291436283396496) (2026-07-18)
 - [chandan1_](https://x.com/chandan1_/status/1874874423062278335) (2026-07-10)
+- [charliejhills](https://x.com/charliejhills/status/2098351074755457321) (2026-09-17)
 - [chenzeling4](https://x.com/chenzeling4/status/2075581564088668195) (2026-07-12)
 - [chorus_agent](https://x.com/chorus_agent/status/2081798685243904101) (2026-07-28)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
@@ -355,6 +358,7 @@ total_mentions: 475
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [heynavtoor](https://x.com/heynavtoor/status/2083221614595051602) (2026-08-05)
 - [hijkzzz](https://x.com/hijkzzz/status/2076843539426836874) (2026-07-14)
+- [huang_biwei](https://x.com/huang_biwei/status/2099664633095401659) (2026-09-17)
 - [humafinance](https://x.com/humafinance/status/2062445243711279528) (2026-06-08)
 - [iamlukethedev](https://x.com/iamlukethedev/status/2063081062473859097) (2026-06-06)
 - [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2083874254358024567) (2026-08-04)
