@@ -1,10 +1,11 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-09-17
-total_mentions: 97
+last_seen: 2026-09-18
+total_mentions: 100
 
 ## Related Tweets
+- [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
 - [AdamShao](https://x.com/AdamShao/status/2097111709076910081) (2026-09-11)
 - [AlejandroRomaan](https://x.com/AlejandroRomaan/status/2096610078837141569) (2026-09-08)
@@ -53,6 +54,8 @@ total_mentions: 97
 - [aiedge_](https://x.com/aiedge_/status/2074320056008560691) (2026-07-14)
 - [ajambrosino](https://x.com/ajambrosino/status/2075274357715427618) (2026-07-18)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2093749877272715636) (2026-08-30)
+- [alex_prompter](https://x.com/alex_prompter/status/2100615854454874610) (2026-09-18)
+- [alexandr_wang](https://x.com/alexandr_wang/status/2100717269861167524) (2026-09-18)
 - [amasad](https://x.com/amasad/status/2065452585964949831) (2026-06-15)
 - [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)
 - [arturovilla](https://x.com/arturovilla/status/2087625765529461145) (2026-08-19)

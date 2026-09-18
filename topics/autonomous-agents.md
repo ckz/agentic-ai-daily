@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-17
-total_mentions: 1226
+last_seen: 2026-09-18
+total_mentions: 1234
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -388,6 +388,7 @@ total_mentions: 1226
 - [Mahaximus_](https://x.com/Mahaximus_/status/2090144098380353940) (2026-08-20)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2095867895448309868) (2026-09-06)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2097686992351862851) (2026-09-10)
+- [Mahaximus_](https://x.com/Mahaximus_/status/2099512757343182989) (2026-09-18)
 - [MarMarLabs](https://x.com/MarMarLabs/status/2067798374581960840) (2026-06-19)
 - [MarioNawfal](https://x.com/MarioNawfal/status/2085171754415038482) (2026-08-06)
 - [Market_Mind_](https://x.com/Market_Mind_/status/2088651427962921304) (2026-08-17)
@@ -648,14 +649,17 @@ total_mentions: 1226
 - [ajay4ai](https://x.com/ajay4ai/status/2086871658070167843) (2026-08-11)
 - [ajitcodes](https://x.com/ajitcodes/status/2081216341747671353) (2026-07-27)
 - [ajitcodes](https://x.com/ajitcodes/status/2089185456525381955) (2026-08-17)
+- [ajitcodes](https://x.com/ajitcodes/status/2100419472477519907) (2026-09-18)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2070587039679185397) (2026-06-27)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2071509401224261823) (2026-06-30)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2078819660980764975) (2026-07-22)
 - [alex_prompter](https://x.com/alex_prompter/status/2077470394303627395) (2026-07-17)
 - [alex_prompter](https://x.com/alex_prompter/status/2091565591756980355) (2026-08-24)
+- [alex_prompter](https://x.com/alex_prompter/status/2100615854454874610) (2026-09-18)
 - [alexandr_wang](https://x.com/alexandr_wang/status/2072848108342677597) (2026-07-03)
 - [alexandr_wang](https://x.com/alexandr_wang/status/2075218936266998230) (2026-07-11)
 - [alexandr_wang](https://x.com/alexandr_wang/status/2099337296487333978) (2026-09-14)
+- [alexandr_wang](https://x.com/alexandr_wang/status/2100717269861167524) (2026-09-18)
 - [alexxubyte](https://x.com/alexxubyte/status/2076693603439817057) (2026-07-14)
 - [allen_lattimer](https://x.com/allen_lattimer/status/2095534151810338990) (2026-09-10)
 - [allen_lattimer](https://x.com/allen_lattimer/status/2098802988722815384) (2026-09-13)
@@ -949,6 +953,7 @@ total_mentions: 1226
 - [kaorixbt](https://x.com/kaorixbt/status/2099853269191311760) (2026-09-17)
 - [karlmehta](https://x.com/karlmehta/status/2071232274738344073) (2026-06-29)
 - [kenAI_domains](https://x.com/kenAI_domains/status/2080371618954490323) (2026-07-24)
+- [kevin_parker_ai](https://x.com/kevin_parker_ai/status/2100419530648703015) (2026-09-18)
 - [kevinroose](https://x.com/kevinroose/status/2098454644234330364) (2026-09-12)
 - [keyserfaty](https://x.com/keyserfaty/status/2092679276168638954) (2026-08-27)
 - [kimmonismus](https://x.com/kimmonismus/status/2085812651163296161) (2026-08-08)
@@ -965,6 +970,7 @@ total_mentions: 1226
 - [lamhot_ai](https://x.com/lamhot_ai/status/2081986412086493408) (2026-07-28)
 - [leanpub](https://x.com/leanpub/status/2065188595590209868) (2026-06-12)
 - [lee_joey50709](https://x.com/lee_joey50709/status/2076867123654140209) (2026-07-14)
+- [lennysan](https://x.com/lennysan/status/2100657334771237106) (2026-09-18)
 - [leopardracer](https://x.com/leopardracer/status/2074442479739318455) (2026-07-09)
 - [levie](https://x.com/levie/status/2061247380897579500) (2026-06-06)
 - [levie](https://x.com/levie/status/2079402164988895293) (2026-07-21)
@@ -1115,8 +1121,10 @@ total_mentions: 1226
 - [salesforce](https://x.com/salesforce/status/2066491445586858173) (2026-06-28)
 - [salesforce](https://x.com/salesforce/status/2098034380912365589) (2026-09-11)
 - [sanjeevSab17827](https://x.com/sanjeevSab17827/status/2096081496448913595) (2026-09-05)
+- [sat0oshi](https://x.com/sat0oshi/status/2099452256311550100) (2026-09-18)
 - [sauda_coder](https://x.com/sauda_coder/status/2085057854730600823) (2026-08-09)
 - [sauda_coder](https://x.com/sauda_coder/status/2087019793279041844) (2026-08-14)
+- [sauda_coder](https://x.com/sauda_coder/status/2100195671039160435) (2026-09-18)
 - [seeconvm](https://x.com/seeconvm/status/2096406550839537729) (2026-09-07)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
 - [sentient_zh](https://x.com/sentient_zh/status/2066417986467189164) (2026-06-15)

@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-17
-total_mentions: 145
+last_seen: 2026-09-18
+total_mentions: 146
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -128,6 +128,7 @@ total_mentions: 145
 - [runwayml](https://x.com/runwayml/status/2095159754414813249) (2026-09-07)
 - [sairahul1](https://x.com/sairahul1/status/2077326742218539296) (2026-07-18)
 - [sauda_coder](https://x.com/sauda_coder/status/2099333079567671797) (2026-09-16)
+- [sauda_coder](https://x.com/sauda_coder/status/2100421722629722256) (2026-09-18)
 - [seelffff](https://x.com/seelffff/status/2071118707405816250) (2026-06-29)
 - [shao__meng](https://x.com/shao__meng/status/2096528991285092700) (2026-09-12)
 - [sharbel](https://x.com/sharbel/status/2055680438417412359) (2026-06-29)

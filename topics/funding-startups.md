@@ -1,7 +1,7 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-17
+last_seen: 2026-09-18
 total_mentions: 490
 
 ## Related Tweets

@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-09-17
-total_mentions: 479
+last_seen: 2026-09-18
+total_mentions: 484
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -56,6 +56,7 @@ total_mentions: 479
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2064756984617021807) (2026-06-11)
 - [ColeMacro](https://x.com/ColeMacro/status/2092270223827325432) (2026-08-29)
 - [Colhodm](https://x.com/Colhodm/status/2072373857999098214) (2026-07-02)
+- [Connect_Mani](https://x.com/Connect_Mani/status/2100219151956754712) (2026-09-18)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2066212008782172238) (2026-06-19)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2078888332424348158) (2026-07-22)
 - [DOLAK1NG](https://x.com/DOLAK1NG/status/2000543960943530044) (2026-08-22)
@@ -247,6 +248,7 @@ total_mentions: 479
 - [afahmy_dev](https://x.com/afahmy_dev/status/2085986863119040984) (2026-08-08)
 - [agenticbrew](https://x.com/agenticbrew/status/2072848219084910646) (2026-07-03)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
+- [ai_with_jyoti](https://x.com/ai_with_jyoti/status/2099175125639942611) (2026-09-18)
 - [aicryptoboss](https://x.com/aicryptoboss/status/2082348441506603086) (2026-07-29)
 - [aiedge_](https://x.com/aiedge_/status/2070016711341040054) (2026-06-27)
 - [aiexplorations](https://x.com/aiexplorations/status/2076531708690899009) (2026-07-13)
@@ -432,8 +434,11 @@ total_mentions: 479
 - [sandy4kad](https://x.com/sandy4kad/status/2074948658953593102) (2026-07-09)
 - [sanjeevSab17827](https://x.com/sanjeevSab17827/status/2096081496448913595) (2026-09-05)
 - [santtiagom_](https://x.com/santtiagom_/status/2095685798402064550) (2026-09-04)
+- [sat0oshi](https://x.com/sat0oshi/status/2099452256311550100) (2026-09-18)
 - [sauda_coder](https://x.com/sauda_coder/status/2078463245657211007) (2026-07-20)
 - [sauda_coder](https://x.com/sauda_coder/status/2099333079567671797) (2026-09-16)
+- [sauda_coder](https://x.com/sauda_coder/status/2100195671039160435) (2026-09-18)
+- [sauda_coder](https://x.com/sauda_coder/status/2100421722629722256) (2026-09-18)
 - [seeconvm](https://x.com/seeconvm/status/2087453527190745345) (2026-08-13)
 - [seelffff](https://x.com/seelffff/status/2071118707405816250) (2026-06-29)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
