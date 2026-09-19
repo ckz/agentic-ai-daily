@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-09-18
-total_mentions: 764
+last_seen: 2026-09-19
+total_mentions: 774
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -228,6 +228,7 @@ total_mentions: 764
 - [RobinHubHB](https://x.com/RobinHubHB/status/2080744829907267752) (2026-07-28)
 - [RohOnChain](https://x.com/RohOnChain/status/2086800845036040598) (2026-08-11)
 - [RohOnChain](https://x.com/RohOnChain/status/2096239869916065802) (2026-09-06)
+- [RohOnChain](https://x.com/RohOnChain/status/2100979190850097174) (2026-09-19)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2062961399387861119) (2026-06-06)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2065981298087530958) (2026-06-14)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2075433581539672149) (2026-07-10)
@@ -512,6 +513,7 @@ total_mentions: 764
 - [gregisenberg](https://x.com/gregisenberg/status/2059274608759480367) (2026-07-16)
 - [gregisenberg](https://x.com/gregisenberg/status/2083954605533065561) (2026-08-08)
 - [gregisenberg](https://x.com/gregisenberg/status/2086534549341610457) (2026-08-12)
+- [greptile](https://x.com/greptile/status/2100268607477273048) (2026-09-19)
 - [hamster_wat](https://x.com/hamster_wat/status/2078996887361794149) (2026-07-27)
 - [hanakoxbt](https://x.com/hanakoxbt/status/2083932817738666010) (2026-08-04)
 - [hanifproduktif](https://x.com/hanifproduktif/status/2095768590850912424) (2026-09-04)
@@ -539,6 +541,7 @@ total_mentions: 764
 - [icanvardar](https://x.com/icanvardar/status/2071613504688173355) (2026-07-01)
 - [imarun_chauhan](https://x.com/imarun_chauhan/status/2063878197457134003) (2026-06-08)
 - [insomnia_vip](https://x.com/insomnia_vip/status/2065795417313325416) (2026-06-15)
+- [irabukht](https://x.com/irabukht/status/2101090579127951694) (2026-09-19)
 - [itsolelehmann](https://x.com/itsolelehmann/status/2064393407771095518) (2026-06-10)
 - [jacob_posel](https://x.com/jacob_posel/status/2079249123794972827) (2026-07-22)
 - [jaimintf](https://x.com/jaimintf/status/2098137053821071642) (2026-09-11)
@@ -552,6 +555,7 @@ total_mentions: 764
 - [justmazer](https://x.com/justmazer/status/2088344886206705880) (2026-08-15)
 - [k2sbhai](https://x.com/k2sbhai/status/2090007138567655564) (2026-08-22)
 - [karlarboledas](https://x.com/karlarboledas/status/2098004038042186171) (2026-09-13)
+- [karpathy](https://x.com/karpathy/status/2015883857489522876) (2026-09-19)
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [kunalstwt](https://x.com/kunalstwt/status/2073978095644643520) (2026-07-06)
@@ -567,6 +571,7 @@ total_mentions: 764
 - [maarcoofdezz](https://x.com/maarcoofdezz/status/2079543760585691543) (2026-07-22)
 - [maarcoofdezz](https://x.com/maarcoofdezz/status/2085055293608587681) (2026-08-06)
 - [maarcoofdezz](https://x.com/maarcoofdezz/status/2092314221992161620) (2026-08-31)
+- [maarcoofdezz](https://x.com/maarcoofdezz/status/2100933169872507024) (2026-09-19)
 - [mackody_](https://x.com/mackody_/status/2075285372515528906) (2026-07-11)
 - [macrodotcom](https://x.com/macrodotcom/status/2086843485898887523) (2026-08-12)
 - [magnific](https://x.com/magnific/status/2064346257330675798) (2026-06-10)
@@ -602,6 +607,9 @@ total_mentions: 764
 - [milesdeutscher](https://x.com/milesdeutscher/status/2100619626149511293) (2026-09-18)
 - [minchoi](https://x.com/minchoi/status/2098793589811691560) (2026-09-13)
 - [motion_so](https://x.com/motion_so/status/2099542179697902025) (2026-09-16)
+- [motion_so](https://x.com/motion_so/status/2100280160234721660) (2026-09-19)
+- [mxstbr](https://x.com/mxstbr/status/2100966048132718786) (2026-09-19)
+- [nateberkopec](https://x.com/nateberkopec/status/2099995262802641129) (2026-09-19)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [nrlartt](https://x.com/nrlartt/status/2082153925491249607) (2026-07-29)
 - [nubis_app](https://x.com/nubis_app/status/2065699995399881189) (2026-06-13)
@@ -653,6 +661,7 @@ total_mentions: 764
 - [rosemoni18](https://x.com/rosemoni18/status/2094923340062622201) (2026-09-02)
 - [runes_leo](https://x.com/runes_leo/status/2090442625820356780) (2026-08-21)
 - [runwayml](https://x.com/runwayml/status/2095159754414813249) (2026-09-07)
+- [ryanvogel](https://x.com/ryanvogel/status/2099229934250050033) (2026-09-19)
 - [s1rozha_](https://x.com/s1rozha_/status/2087132684514455625) (2026-08-12)
 - [sabanci_ata](https://x.com/sabanci_ata/status/2099927513346547961) (2026-09-16)
 - [sabanci_ata](https://x.com/sabanci_ata/status/2100107329614016540) (2026-09-16)
@@ -723,6 +732,7 @@ total_mentions: 764
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2070445026233172314) (2026-06-27)
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)
 - [thsottiaux](https://x.com/thsottiaux/status/2093801758665715784) (2026-08-30)
+- [thsottiaux](https://x.com/thsottiaux/status/2100645454245720513) (2026-09-19)
 - [timsneath](https://x.com/timsneath/status/2072479088661651612) (2026-07-02)
 - [tom_doerr](https://x.com/tom_doerr/status/2062864987970797651) (2026-06-12)
 - [tom_doerr](https://x.com/tom_doerr/status/2066042496933662753) (2026-06-14)

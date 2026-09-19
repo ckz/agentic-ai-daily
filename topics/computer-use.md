@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-09-18
-total_mentions: 100
+last_seen: 2026-09-19
+total_mentions: 104
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -21,6 +21,7 @@ total_mentions: 100
 - [GoogleDeepMind](https://x.com/GoogleDeepMind/status/2070180509523546481) (2026-06-27)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
+- [IndraVahan](https://x.com/IndraVahan/status/2100452129978871822) (2026-09-19)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2094218161532940367) (2026-09-05)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
@@ -74,6 +75,7 @@ total_mentions: 100
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
 - [ehsanik](https://x.com/ehsanik/status/2070544602164330561) (2026-06-27)
 - [gkxspace](https://x.com/gkxspace/status/2068546908360999331) (2026-06-21)
+- [hanghuang_](https://x.com/hanghuang_/status/2099559078687088854) (2026-09-19)
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2097085343967355190) (2026-09-10)
 - [hzlzh](https://x.com/hzlzh/status/2091570012368863571) (2026-08-24)
 - [jakevin7](https://x.com/jakevin7/status/2096850696964325472) (2026-09-07)
@@ -97,11 +99,13 @@ total_mentions: 100
 - [ryanvogel](https://x.com/ryanvogel/status/2098875111558328570) (2026-09-13)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
 - [sama](https://x.com/sama/status/2095600005772104059) (2026-09-06)
+- [savboj](https://x.com/savboj/status/2100545295201288678) (2026-09-19)
 - [scaling01](https://x.com/scaling01/status/2095411747309953427) (2026-09-05)
 - [sitinme](https://x.com/sitinme/status/2088172522063691892) (2026-08-15)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095859430776533318) (2026-09-06)
 - [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)
+- [trycua](https://x.com/trycua/status/2101014004927729737) (2026-09-19)
 - [wallstengine](https://x.com/wallstengine/status/2094155293261435063) (2026-09-01)
 - [wuyang_zhou](https://x.com/wuyang_zhou/status/2096548032128942370) (2026-09-11)
 - [zcode_ai](https://x.com/zcode_ai/status/2092635718766215590) (2026-08-27)

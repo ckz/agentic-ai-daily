@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-09-18
-total_mentions: 301
+last_seen: 2026-09-19
+total_mentions: 304
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -54,6 +54,7 @@ total_mentions: 301
 - [Av1dlive](https://x.com/Av1dlive/status/2090468488704110701) (2026-08-21)
 - [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2078578545429991768) (2026-07-24)
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
+- [BasicProtein26](https://x.com/BasicProtein26/status/2099320269391228973) (2026-09-19)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2062873857304752368) (2026-06-05)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2063598644293484741) (2026-06-08)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2064345389424324891) (2026-06-14)
@@ -196,6 +197,7 @@ total_mentions: 301
 - [cyrilXBT](https://x.com/cyrilXBT/status/2085261842625257870) (2026-08-06)
 - [d_vuln](https://x.com/d_vuln/status/2065305823631294810) (2026-06-12)
 - [dair_ai](https://x.com/dair_ai/status/2097022152088445034) (2026-09-08)
+- [danshipper](https://x.com/danshipper/status/2098812095093452969) (2026-09-19)
 - [dashen_wang](https://x.com/dashen_wang/status/2094659177310269863) (2026-09-05)
 - [divaagurlxw](https://x.com/divaagurlxw/status/2087756697469440442) (2026-08-15)
 - [dkare1009](https://x.com/dkare1009/status/2073383916832985331) (2026-07-05)
@@ -226,6 +228,7 @@ total_mentions: 301
 - [jun_song](https://x.com/jun_song/status/2091903964413657474) (2026-08-26)
 - [kaorixbt](https://x.com/kaorixbt/status/2095534784734716405) (2026-09-06)
 - [kaorixbt](https://x.com/kaorixbt/status/2096622102455398594) (2026-09-07)
+- [karpathy](https://x.com/karpathy/status/2015883857489522876) (2026-09-19)
 - [kenAI_domains](https://x.com/kenAI_domains/status/2080371618954490323) (2026-07-24)
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
 - [kirillk_web3](https://x.com/kirillk_web3/status/2090621157087064304) (2026-08-24)

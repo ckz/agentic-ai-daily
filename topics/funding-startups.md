@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-18
-total_mentions: 490
+last_seen: 2026-09-19
+total_mentions: 493
 
 ## Related Tweets
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
@@ -145,6 +145,7 @@ total_mentions: 490
 - [Polymarket](https://x.com/Polymarket/status/2084876805488672819) (2026-08-05)
 - [Polymarket](https://x.com/Polymarket/status/2087762067063460143) (2026-08-13)
 - [Polymarket](https://x.com/Polymarket/status/2099993393963102216) (2026-09-16)
+- [Polymarket](https://x.com/Polymarket/status/2100013238352052365) (2026-09-19)
 - [Prasanjit_ui](https://x.com/Prasanjit_ui/status/2072617513079251312) (2026-07-07)
 - [PrimareApp](https://x.com/PrimareApp/status/2075974349173961017) (2026-07-12)
 - [ProfBrianCox](https://x.com/ProfBrianCox/status/2082427049109602580) (2026-08-03)
@@ -282,6 +283,7 @@ total_mentions: 490
 - [davidsenra](https://x.com/davidsenra/status/2093170027390222611) (2026-08-31)
 - [deedydas](https://x.com/deedydas/status/2063075876452155728) (2026-06-06)
 - [deedydas](https://x.com/deedydas/status/2099880100770849001) (2026-09-16)
+- [deedydas](https://x.com/deedydas/status/2100287208209146309) (2026-09-19)
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
 - [dharmesh](https://x.com/dharmesh/status/2093071931188597042) (2026-08-28)
 - [dhh](https://x.com/dhh/status/2086590006898958752) (2026-08-13)
@@ -474,6 +476,7 @@ total_mentions: 490
 - [undefinedKi](https://x.com/undefinedKi/status/2096224107121516997) (2026-09-06)
 - [unusual_whales](https://x.com/unusual_whales/status/2069766741404844484) (2026-07-01)
 - [unusual_whales](https://x.com/unusual_whales/status/2079702282443293037) (2026-07-24)
+- [vahidf24](https://x.com/vahidf24/status/2101063577838764467) (2026-09-19)
 - [vanshuETH](https://x.com/vanshuETH/status/2098766183726227823) (2026-09-17)
 - [vigneshxtech](https://x.com/vigneshxtech/status/2068597287010349323) (2026-06-21)
 - [vipulved](https://x.com/vipulved/status/2072321276094673083) (2026-07-02)

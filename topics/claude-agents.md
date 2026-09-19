@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-18
-total_mentions: 217
+last_seen: 2026-09-19
+total_mentions: 221
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -148,6 +148,7 @@ total_mentions: 217
 - [cyrilXBT](https://x.com/cyrilXBT/status/2084862461078077848) (2026-08-06)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2085683119320133685) (2026-08-08)
 - [dabit3](https://x.com/dabit3/status/2098557144580735156) (2026-09-17)
+- [danshipper](https://x.com/danshipper/status/2098812095093452969) (2026-09-19)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [davidim](https://x.com/davidim/status/2098353617816461689) (2026-09-12)
 - [dee_hw](https://x.com/dee_hw/status/2089388227971219643) (2026-08-18)
@@ -178,6 +179,8 @@ total_mentions: 217
 - [jasonlk](https://x.com/jasonlk/status/2093792483977376045) (2026-08-31)
 - [jiang_kev](https://x.com/jiang_kev/status/2082496145994248488) (2026-07-30)
 - [johnwhereareu](https://x.com/johnwhereareu/status/2077603117928153169) (2026-07-16)
+- [karpathy](https://x.com/karpathy/status/2015883857489522876) (2026-09-19)
+- [kloss_xyz](https://x.com/kloss_xyz/status/2099714012867178531) (2026-09-19)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [kunalstwt](https://x.com/kunalstwt/status/2073978095644643520) (2026-07-06)
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
@@ -197,6 +200,7 @@ total_mentions: 217
 - [polydao](https://x.com/polydao/status/2088516287098159531) (2026-08-21)
 - [polydao](https://x.com/polydao/status/2097642088506487020) (2026-09-10)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
+- [rileybrown](https://x.com/rileybrown/status/2101027402369335382) (2026-09-19)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2092970481423192328) (2026-09-03)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)

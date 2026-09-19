@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-18
-total_mentions: 146
+last_seen: 2026-09-19
+total_mentions: 149
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -105,7 +105,9 @@ total_mentions: 146
 - [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)
 - [jahooma](https://x.com/jahooma/status/2069951731539349823) (2026-07-03)
 - [jahooma](https://x.com/jahooma/status/2093137551918051624) (2026-08-29)
+- [kimmonismus](https://x.com/kimmonismus/status/2090814903133098211) (2026-09-19)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)
+- [kloss_xyz](https://x.com/kloss_xyz/status/2099714012867178531) (2026-09-19)
 - [leerob](https://x.com/leerob/status/2089169319099777364) (2026-08-17)
 - [lemondooe](https://x.com/lemondooe/status/2073312103167840581) (2026-07-04)
 - [martinfowler](https://x.com/martinfowler/status/2087173563144912985) (2026-08-12)
@@ -132,6 +134,7 @@ total_mentions: 146
 - [seelffff](https://x.com/seelffff/status/2071118707405816250) (2026-06-29)
 - [shao__meng](https://x.com/shao__meng/status/2096528991285092700) (2026-09-12)
 - [sharbel](https://x.com/sharbel/status/2055680438417412359) (2026-06-29)
+- [silasalberti](https://x.com/silasalberti/status/2101042815426060339) (2026-09-19)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2077223722654834863) (2026-07-16)
 - [stretchcloud](https://x.com/stretchcloud/status/2079772421947560434) (2026-07-22)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)
