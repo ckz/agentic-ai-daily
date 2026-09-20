@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-19
-total_mentions: 149
+last_seen: 2026-09-20
+total_mentions: 154
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -18,6 +18,7 @@ total_mentions: 149
 - [Av1dlive](https://x.com/Av1dlive/status/2097639365644279857) (2026-09-10)
 - [ChromiumDev](https://x.com/ChromiumDev/status/2077874454105862423) (2026-07-17)
 - [Colhodm](https://x.com/Colhodm/status/2072373857999098214) (2026-07-02)
+- [Da7_Tech](https://x.com/Da7_Tech/status/2101526202783576510) (2026-09-20)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2093286019697418608) (2026-09-03)
@@ -34,6 +35,7 @@ total_mentions: 149
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2071971609183678544) (2026-07-01)
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
+- [LLMpsycho](https://x.com/LLMpsycho/status/2099473233787388049) (2026-09-20)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2097351499575697477) (2026-09-10)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2081303563746398665) (2026-07-28)
@@ -44,6 +46,7 @@ total_mentions: 149
 - [NickADobos](https://x.com/NickADobos/status/2090867101028540684) (2026-08-22)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2075275868268789885) (2026-07-11)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
+- [PetrBrzek](https://x.com/PetrBrzek/status/2100231804032610657) (2026-09-20)
 - [Pirat_Nation](https://x.com/Pirat_Nation/status/2096267361066356859) (2026-09-10)
 - [Priyannkaaaa](https://x.com/Priyannkaaaa/status/2083851157324046649) (2026-08-03)
 - [SIGKITTEN](https://x.com/SIGKITTEN/status/1980809995823591805) (2026-06-12)
@@ -100,11 +103,13 @@ total_mentions: 149
 - [gokulr](https://x.com/gokulr/status/2077203873069236394) (2026-07-15)
 - [gokulr](https://x.com/gokulr/status/2082145789372137749) (2026-08-02)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
+- [himanshubuildss](https://x.com/himanshubuildss/status/2101255618313302146) (2026-09-20)
 - [hxiao](https://x.com/hxiao/status/2094519020531994639) (2026-09-02)
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
 - [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)
 - [jahooma](https://x.com/jahooma/status/2069951731539349823) (2026-07-03)
 - [jahooma](https://x.com/jahooma/status/2093137551918051624) (2026-08-29)
+- [jkelleyrtp](https://x.com/jkelleyrtp/status/2101364551296143772) (2026-09-20)
 - [kimmonismus](https://x.com/kimmonismus/status/2090814903133098211) (2026-09-19)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2099714012867178531) (2026-09-19)

@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-09-19
-total_mentions: 104
+last_seen: 2026-09-20
+total_mentions: 106
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -80,6 +80,7 @@ total_mentions: 104
 - [hzlzh](https://x.com/hzlzh/status/2091570012368863571) (2026-08-24)
 - [jakevin7](https://x.com/jakevin7/status/2096850696964325472) (2026-09-07)
 - [jasonzhou1993](https://x.com/jasonzhou1993/status/2098251709214761387) (2026-09-11)
+- [jkelleyrtp](https://x.com/jkelleyrtp/status/2101364551296143772) (2026-09-20)
 - [jxnlco](https://x.com/jxnlco/status/2070577704752267321) (2026-06-27)
 - [kylejeong](https://x.com/kylejeong/status/2098478826464702556) (2026-09-14)
 - [lennysan](https://x.com/lennysan/status/2097392748244721911) (2026-09-10)
@@ -105,6 +106,7 @@ total_mentions: 104
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095859430776533318) (2026-09-06)
 - [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)
+- [trycua](https://x.com/trycua/status/2100649543079502213) (2026-09-20)
 - [trycua](https://x.com/trycua/status/2101014004927729737) (2026-09-19)
 - [wallstengine](https://x.com/wallstengine/status/2094155293261435063) (2026-09-01)
 - [wuyang_zhou](https://x.com/wuyang_zhou/status/2096548032128942370) (2026-09-11)

@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-09-19
-total_mentions: 304
+last_seen: 2026-09-20
+total_mentions: 306
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -93,6 +93,7 @@ total_mentions: 304
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2074384746076135575) (2026-07-07)
 - [GoshawkTrades](https://x.com/GoshawkTrades/status/2099540726216597900) (2026-09-16)
+- [GpaAndy](https://x.com/GpaAndy/status/2101129153172910212) (2026-09-20)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2097489050332692836) (2026-09-11)
@@ -147,6 +148,7 @@ total_mentions: 304
 - [Suryanshti777](https://x.com/Suryanshti777/status/2085286044975476808) (2026-08-11)
 - [Svrkee01](https://x.com/Svrkee01/status/2066324814105866744) (2026-06-15)
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2065300113254388162) (2026-06-12)
+- [TeddyinMedia](https://x.com/TeddyinMedia/status/2101311604797145483) (2026-09-20)
 - [TencentAI_News](https://x.com/TencentAI_News/status/2084835629213577720) (2026-08-11)
 - [TheAhmadOsman](https://x.com/TheAhmadOsman/status/1993756423684264148) (2026-08-21)
 - [Thom_Wolf](https://x.com/Thom_Wolf/status/2095889630306472127) (2026-09-06)

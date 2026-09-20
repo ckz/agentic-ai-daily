@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-19
-total_mentions: 1244
+last_seen: 2026-09-20
+total_mentions: 1250
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -117,6 +117,7 @@ total_mentions: 1244
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2081039269414793590) (2026-07-26)
 - [Akasheth_](https://x.com/Akasheth_/status/2063933265954918837) (2026-06-10)
 - [Alacritic_Super](https://x.com/Alacritic_Super/status/2088341517744361787) (2026-08-19)
+- [AleksDoesCode](https://x.com/AleksDoesCode/status/2100500636940849250) (2026-09-20)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2072719153107001836) (2026-07-03)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2076720209293893677) (2026-07-14)
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2069720365442719867) (2026-06-27)
@@ -298,6 +299,7 @@ total_mentions: 1244
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
 - [Google](https://x.com/Google/status/2062203526588088452) (2026-06-05)
 - [Google](https://x.com/Google/status/2095175518068904380) (2026-09-03)
+- [GpaAndy](https://x.com/GpaAndy/status/2101129153172910212) (2026-09-20)
 - [GrishinRobotics](https://x.com/GrishinRobotics/status/2067880410676187569) (2026-06-19)
 - [GrowAIHub](https://x.com/GrowAIHub/status/2071849281712234663) (2026-06-30)
 - [Guelug](https://x.com/Guelug/status/2072092575947989385) (2026-07-01)
@@ -543,6 +545,7 @@ total_mentions: 1244
 - [StockMKTNewz](https://x.com/StockMKTNewz/status/2094422639313850703) (2026-09-05)
 - [StockSavvyShay](https://x.com/StockSavvyShay/status/2065801050154811741) (2026-06-14)
 - [StockSavvyShay](https://x.com/StockSavvyShay/status/2072731841204011114) (2026-07-03)
+- [StockSavvyShay](https://x.com/StockSavvyShay/status/2101312580358930720) (2026-09-20)
 - [SuiNetwork](https://x.com/SuiNetwork/status/2075716447062618312) (2026-07-11)
 - [Sumanth_077](https://x.com/Sumanth_077/status/2063254456834372040) (2026-06-07)
 - [Sumanth_077](https://x.com/Sumanth_077/status/2091169662956720527) (2026-08-25)
@@ -553,6 +556,7 @@ total_mentions: 1244
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2065300113254388162) (2026-06-12)
 - [TechCrunch](https://x.com/TechCrunch/status/2062622464362881423) (2026-06-08)
 - [Tech_by_Shweta](https://x.com/Tech_by_Shweta/status/2096800764526243897) (2026-09-07)
+- [TeddyinMedia](https://x.com/TeddyinMedia/status/2101311604797145483) (2026-09-20)
 - [TeksCreate](https://x.com/TeksCreate/status/2081499683571040408) (2026-07-27)
 - [TeksEdge](https://x.com/TeksEdge/status/2075437935265190020) (2026-07-11)
 - [TencentAI_News](https://x.com/TencentAI_News/status/2098049042773397683) (2026-09-11)
@@ -927,6 +931,7 @@ total_mentions: 1244
 - [ibab](https://x.com/ibab/status/1955741698690322585) (2026-07-12)
 - [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2077068944997761333) (2026-07-15)
 - [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2097752959526330501) (2026-09-10)
+- [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2100676098057032106) (2026-09-20)
 - [imarun_chauhan](https://x.com/imarun_chauhan/status/2063878197457134003) (2026-06-08)
 - [injective](https://x.com/injective/status/1867794623843958899) (2026-06-05)
 - [injective](https://x.com/injective/status/1881721788834672928) (2026-06-05)
@@ -1159,6 +1164,7 @@ total_mentions: 1244
 - [singularityhack](https://x.com/singularityhack/status/2079237150764134528) (2026-07-22)
 - [sirbayes](https://x.com/sirbayes/status/2065804371011457087) (2026-06-14)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
+- [slash1sol](https://x.com/slash1sol/status/2101244375925723559) (2026-09-20)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2072154763492544652) (2026-07-01)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2077223722654834863) (2026-07-16)
 - [soumithchintala](https://x.com/soumithchintala/status/2095544501657895312) (2026-09-07)

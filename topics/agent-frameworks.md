@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-09-19
-total_mentions: 485
+last_seen: 2026-09-20
+total_mentions: 488
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -60,6 +60,7 @@ total_mentions: 485
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2066212008782172238) (2026-06-19)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2078888332424348158) (2026-07-22)
 - [DOLAK1NG](https://x.com/DOLAK1NG/status/2000543960943530044) (2026-08-22)
+- [Da7_Tech](https://x.com/Da7_Tech/status/2101526202783576510) (2026-09-20)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DamiDefi](https://x.com/DamiDefi/status/2034210979475788197) (2026-06-10)
 - [DamiDefi](https://x.com/DamiDefi/status/2037456942684332232) (2026-07-10)
@@ -118,6 +119,7 @@ total_mentions: 485
 - [GoogleCloud_IL](https://x.com/GoogleCloud_IL/status/2075120271111954818) (2026-07-09)
 - [GoogleCloud_IL](https://x.com/GoogleCloud_IL/status/2079831311980564832) (2026-07-22)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
+- [GpaAndy](https://x.com/GpaAndy/status/2101129153172910212) (2026-09-20)
 - [Gustafssonkotte](https://x.com/Gustafssonkotte/status/2082309711785849067) (2026-08-01)
 - [HackingDave](https://x.com/HackingDave/status/2069146467701256423) (2026-06-29)
 - [HarryBee_Yhu](https://x.com/HarryBee_Yhu/status/2067864020527292535) (2026-06-19)
@@ -208,6 +210,7 @@ total_mentions: 485
 - [Sumanth_077](https://x.com/Sumanth_077/status/2091169662956720527) (2026-08-25)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2084693098714599697) (2026-08-05)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2085286044975476808) (2026-08-11)
+- [TeddyinMedia](https://x.com/TeddyinMedia/status/2101311604797145483) (2026-09-20)
 - [TeksCreate](https://x.com/TeksCreate/status/2068138970131632591) (2026-06-20)
 - [TencentAI_News](https://x.com/TencentAI_News/status/2098049042773397683) (2026-09-11)
 - [TheAIphiles](https://x.com/TheAIphiles/status/2079457181850636723) (2026-07-21)
