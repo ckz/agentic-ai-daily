@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-09-20
-total_mentions: 781
+last_seen: 2026-09-21
+total_mentions: 787
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -97,6 +97,7 @@ total_mentions: 781
 - [DanKornas](https://x.com/DanKornas/status/2077488623125971059) (2026-07-16)
 - [DanKornas](https://x.com/DanKornas/status/2085970749110571165) (2026-08-13)
 - [DanKornas](https://x.com/DanKornas/status/2099962470857048270) (2026-09-16)
+- [DanKornas](https://x.com/DanKornas/status/2101763058657853813) (2026-09-21)
 - [DanKulkov](https://x.com/DanKulkov/status/2081035103036416368) (2026-07-26)
 - [DataChaz](https://x.com/DataChaz/status/2047633186394697853) (2026-06-09)
 - [DataChaz](https://x.com/DataChaz/status/2062940997257212367) (2026-06-06)
@@ -271,6 +272,7 @@ total_mentions: 781
 - [Stefan_3D_AI](https://x.com/Stefan_3D_AI/status/2089037153888334312) (2026-08-20)
 - [Stefan_3D_AI](https://x.com/Stefan_3D_AI/status/2096481425050743048) (2026-09-09)
 - [Steve8708](https://x.com/Steve8708/status/2077051086234685641) (2026-07-15)
+- [SultanAlsafran](https://x.com/SultanAlsafran/status/2101254033067434359) (2026-09-21)
 - [Sumanth_077](https://x.com/Sumanth_077/status/2063254456834372040) (2026-06-07)
 - [SvpChain](https://x.com/SvpChain/status/2064935788345974954) (2026-06-11)
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2065300113254388162) (2026-06-12)
@@ -348,6 +350,7 @@ total_mentions: 781
 - [alex_prompter](https://x.com/alex_prompter/status/2071609730293022963) (2026-06-30)
 - [alex_verem](https://x.com/alex_verem/status/2091165832592413114) (2026-08-25)
 - [alex_verem](https://x.com/alex_verem/status/2096977799873712631) (2026-09-08)
+- [alexandr_wang](https://x.com/alexandr_wang/status/2101914181696114821) (2026-09-21)
 - [alextalksai](https://x.com/alextalksai/status/2087216799435628727) (2026-08-12)
 - [alextalksai](https://x.com/alextalksai/status/2093407520639324611) (2026-09-03)
 - [alextalksai](https://x.com/alextalksai/status/2094165366989799933) (2026-09-03)
@@ -373,6 +376,7 @@ total_mentions: 781
 - [aresotik](https://x.com/aresotik/status/2085055029140979860) (2026-08-06)
 - [arle0x](https://x.com/arle0x/status/2092990555923914804) (2026-08-28)
 - [arnaudmercier](https://x.com/arnaudmercier/status/2072179223339348311) (2026-07-01)
+- [arvidkahl](https://x.com/arvidkahl/status/2100687572171153758) (2026-09-21)
 - [aryanXmahajan](https://x.com/aryanXmahajan/status/2067677589247082656) (2026-06-19)
 - [ashiqur_ai](https://x.com/ashiqur_ai/status/2068572009676804246) (2026-06-21)
 - [ashnichrist](https://x.com/ashnichrist/status/2098803247410467229) (2026-09-14)
@@ -546,6 +550,7 @@ total_mentions: 781
 - [imarun_chauhan](https://x.com/imarun_chauhan/status/2063878197457134003) (2026-06-08)
 - [insomnia_vip](https://x.com/insomnia_vip/status/2065795417313325416) (2026-06-15)
 - [irabukht](https://x.com/irabukht/status/2101090579127951694) (2026-09-19)
+- [irabukht](https://x.com/irabukht/status/2101375295152652372) (2026-09-21)
 - [itsolelehmann](https://x.com/itsolelehmann/status/2064393407771095518) (2026-06-10)
 - [jacob_posel](https://x.com/jacob_posel/status/2079249123794972827) (2026-07-22)
 - [jaimintf](https://x.com/jaimintf/status/2098137053821071642) (2026-09-11)
@@ -746,6 +751,7 @@ total_mentions: 781
 - [tom_doerr](https://x.com/tom_doerr/status/2071309381455519803) (2026-06-29)
 - [tom_doerr](https://x.com/tom_doerr/status/2092279365937553887) (2026-08-26)
 - [tom_doerr](https://x.com/tom_doerr/status/2092436552924155960) (2026-08-29)
+- [triptitips](https://x.com/triptitips/status/2101682470655758391) (2026-09-21)
 - [trq212](https://x.com/trq212/status/2099958388230873165) (2026-09-16)
 - [trythreews](https://x.com/trythreews/status/2096260452875644976) (2026-09-12)
 - [twetsfyp](https://x.com/twetsfyp/status/2078387675447328957) (2026-07-19)

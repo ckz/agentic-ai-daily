@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-09-20
-total_mentions: 106
+last_seen: 2026-09-21
+total_mentions: 109
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -43,6 +43,7 @@ total_mentions: 106
 - [SamSokolin](https://x.com/SamSokolin/status/2094824011427373415) (2026-09-03)
 - [SimularAI](https://x.com/SimularAI/status/2093009990663434361) (2026-08-28)
 - [SkyeSharkie](https://x.com/SkyeSharkie/status/2092122622834442581) (2026-08-29)
+- [SultanAlsafran](https://x.com/SultanAlsafran/status/2101254033067434359) (2026-09-21)
 - [TeksCreate](https://x.com/TeksCreate/status/2081499683571040408) (2026-07-27)
 - [VaibhavSisinty](https://x.com/VaibhavSisinty/status/2094315036995166499) (2026-09-01)
 - [WesRoth](https://x.com/WesRoth/status/2063833395298533464) (2026-06-10)
@@ -94,6 +95,7 @@ total_mentions: 106
 - [milindlabs](https://x.com/milindlabs/status/2087289803964559746) (2026-08-14)
 - [nicbstme](https://x.com/nicbstme/status/2088014852954669300) (2026-08-14)
 - [norapsi](https://x.com/norapsi/status/2095180581550305503) (2026-09-03)
+- [petergyang](https://x.com/petergyang/status/2101862331345154469) (2026-09-21)
 - [rileybrown](https://x.com/rileybrown/status/2097080191163998488) (2026-09-08)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2094414982251413529) (2026-09-01)
 - [rubenhassid](https://x.com/rubenhassid/status/2063138819856101667) (2026-06-07)
@@ -106,6 +108,7 @@ total_mentions: 106
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095859430776533318) (2026-09-06)
 - [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)
+- [sxhivs](https://x.com/sxhivs/status/2101729362194432184) (2026-09-21)
 - [trycua](https://x.com/trycua/status/2100649543079502213) (2026-09-20)
 - [trycua](https://x.com/trycua/status/2101014004927729737) (2026-09-19)
 - [wallstengine](https://x.com/wallstengine/status/2094155293261435063) (2026-09-01)

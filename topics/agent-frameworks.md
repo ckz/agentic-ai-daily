@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-09-20
-total_mentions: 488
+last_seen: 2026-09-21
+total_mentions: 491
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -75,6 +75,7 @@ total_mentions: 488
 - [DanKornas](https://x.com/DanKornas/status/2088477020602696132) (2026-08-18)
 - [DanKornas](https://x.com/DanKornas/status/2098059930246754551) (2026-09-11)
 - [DanKornas](https://x.com/DanKornas/status/2099962470857048270) (2026-09-16)
+- [DanKornas](https://x.com/DanKornas/status/2101763058657853813) (2026-09-21)
 - [DataChaz](https://x.com/DataChaz/status/2068952350077698446) (2026-06-28)
 - [DataChaz](https://x.com/DataChaz/status/2070415564510785812) (2026-06-27)
 - [DataScienceDojo](https://x.com/DataScienceDojo/status/2071624804575093052) (2026-06-30)
@@ -264,6 +265,7 @@ total_mentions: 488
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2078460229365408100) (2026-07-23)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2083815836003996033) (2026-08-07)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2084688207351087392) (2026-08-06)
+- [alamincryptox](https://x.com/alamincryptox/status/2101702938519367955) (2026-09-21)
 - [alex_prompter](https://x.com/alex_prompter/status/2071609730293022963) (2026-06-30)
 - [alex_prompter](https://x.com/alex_prompter/status/2077470394303627395) (2026-07-17)
 - [alex_verem](https://x.com/alex_verem/status/2075994424484732984) (2026-07-12)
@@ -476,6 +478,7 @@ total_mentions: 488
 - [tom_doerr](https://x.com/tom_doerr/status/2078760579095753125) (2026-07-21)
 - [tomik99](https://x.com/tomik99/status/2090325415038489061) (2026-08-20)
 - [trikcode](https://x.com/trikcode/status/2084420246039851517) (2026-08-04)
+- [triptitips](https://x.com/triptitips/status/2101682470655758391) (2026-09-21)
 - [uaghazadae](https://x.com/uaghazadae/status/2087580062593823004) (2026-08-13)
 - [uiuxshasankodas](https://x.com/uiuxshasankodas/status/2087148581899870551) (2026-08-13)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2081851083119288719) (2026-07-28)

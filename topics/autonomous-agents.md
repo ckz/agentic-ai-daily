@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-20
-total_mentions: 1250
+last_seen: 2026-09-21
+total_mentions: 1258
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -59,6 +59,7 @@ total_mentions: 1250
 - [0xMovez](https://x.com/0xMovez/status/2090107443296498179) (2026-08-20)
 - [0xMovez](https://x.com/0xMovez/status/2098512033675141286) (2026-09-13)
 - [0xRiRoyal](https://x.com/0xRiRoyal/status/2085228220841083125) (2026-08-06)
+- [0xRiRoyal](https://x.com/0xRiRoyal/status/2101894204758839756) (2026-09-21)
 - [0xRicker](https://x.com/0xRicker/status/2065478241444639198) (2026-06-14)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
 - [0xSammy](https://x.com/0xSammy/status/1882500633573609980) (2026-06-08)
@@ -69,6 +70,7 @@ total_mentions: 1250
 - [0xgilbert](https://x.com/0xgilbert/status/2062624582977179796) (2026-06-06)
 - [0xnicc0](https://x.com/0xnicc0/status/2093312280406397284) (2026-09-04)
 - [0xnicc0](https://x.com/0xnicc0/status/2098465525781217632) (2026-09-13)
+- [0xnicc0](https://x.com/0xnicc0/status/2101358312797171817) (2026-09-21)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2076773673898271123) (2026-07-14)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2083305262035632347) (2026-08-02)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2083666109874753797) (2026-08-03)
@@ -532,6 +534,7 @@ total_mentions: 1250
 - [ShawnYao77](https://x.com/ShawnYao77/status/2082343891689504790) (2026-07-29)
 - [ShenSeanChen](https://x.com/ShenSeanChen/status/2086931006376784130) (2026-08-13)
 - [ShinkaIoT](https://x.com/ShinkaIoT/status/2082668875263385771) (2026-07-30)
+- [Sirhassan21](https://x.com/Sirhassan21/status/2100448401154339293) (2026-09-21)
 - [Slappjakke](https://x.com/Slappjakke/status/1924051973378314393) (2026-07-10)
 - [SolanaHub_](https://x.com/SolanaHub_/status/2008992037417185560) (2026-07-10)
 - [SolanaHub_](https://x.com/SolanaHub_/status/2011906234765754646) (2026-07-10)
@@ -663,6 +666,7 @@ total_mentions: 1250
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2070587039679185397) (2026-06-27)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2071509401224261823) (2026-06-30)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2078819660980764975) (2026-07-22)
+- [alamincryptox](https://x.com/alamincryptox/status/2101702938519367955) (2026-09-21)
 - [alex_prompter](https://x.com/alex_prompter/status/2077470394303627395) (2026-07-17)
 - [alex_prompter](https://x.com/alex_prompter/status/2091565591756980355) (2026-08-24)
 - [alex_prompter](https://x.com/alex_prompter/status/2100615854454874610) (2026-09-18)
@@ -841,6 +845,7 @@ total_mentions: 1250
 - [dr_cintas](https://x.com/dr_cintas/status/2082568767586894179) (2026-07-31)
 - [dschwarz26](https://x.com/dschwarz26/status/2093352278627684644) (2026-08-29)
 - [duty_1g](https://x.com/duty_1g/status/2091195144863158517) (2026-08-24)
+- [e4ma_officiall](https://x.com/e4ma_officiall/status/2101889325449261187) (2026-09-21)
 - [e_opore](https://x.com/e_opore/status/2073977846448451776) (2026-07-06)
 - [e_opore](https://x.com/e_opore/status/2077277237334757636) (2026-07-16)
 - [e_opore](https://x.com/e_opore/status/2077591797727887532) (2026-07-22)
@@ -867,6 +872,7 @@ total_mentions: 1250
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2084974440895410625) (2026-08-07)
 - [eragon5121](https://x.com/eragon5121/status/2077283768704926200) (2026-07-15)
 - [ericosiu](https://x.com/ericosiu/status/2091231428184822258) (2026-08-25)
+- [ericosiu](https://x.com/ericosiu/status/2101657640753570113) (2026-09-21)
 - [ethermage](https://x.com/ethermage/status/1862725151349198879) (2026-06-05)
 - [ethy_agent](https://x.com/ethy_agent/status/2071902096354320438) (2026-07-01)
 - [evanderburg](https://x.com/evanderburg/status/2087412401717359059) (2026-08-12)
@@ -1078,6 +1084,7 @@ total_mentions: 1250
 - [ordo_chain](https://x.com/ordo_chain/status/2073312746381181174) (2026-07-04)
 - [ox_aryan1](https://x.com/ox_aryan1/status/2096104089600000320) (2026-09-05)
 - [paywithmana](https://x.com/paywithmana/status/2074758476220473387) (2026-07-08)
+- [petergyang](https://x.com/petergyang/status/2101862331345154469) (2026-09-21)
 - [polydao](https://x.com/polydao/status/2097642088506487020) (2026-09-10)
 - [praveenTweets](https://x.com/praveenTweets/status/2074605343439810922) (2026-07-09)
 - [praveenTweets](https://x.com/praveenTweets/status/2093012409841774782) (2026-08-30)
@@ -1221,6 +1228,7 @@ total_mentions: 1250
 - [trending_repos](https://x.com/trending_repos/status/2086424362635206986) (2026-08-11)
 - [trevin](https://x.com/trevin/status/2092011026242027644) (2026-08-30)
 - [trikcode](https://x.com/trikcode/status/2084420246039851517) (2026-08-04)
+- [triptitips](https://x.com/triptitips/status/2101682470655758391) (2026-09-21)
 - [trythreews](https://x.com/trythreews/status/2075519714890334698) (2026-07-12)
 - [trythreews](https://x.com/trythreews/status/2096260452875644976) (2026-09-12)
 - [typesfast](https://x.com/typesfast/status/2086837223148962283) (2026-08-11)

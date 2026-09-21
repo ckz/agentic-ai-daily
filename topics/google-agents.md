@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-18
-total_mentions: 108
+last_seen: 2026-09-21
+total_mentions: 110
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -99,6 +99,7 @@ total_mentions: 108
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
 - [marfinxx](https://x.com/marfinxx/status/2090409251940319349) (2026-08-21)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2072629472306528655) (2026-07-03)
+- [petergyang](https://x.com/petergyang/status/2101862331345154469) (2026-09-21)
 - [pitdesi](https://x.com/pitdesi/status/2090579987778937159) (2026-08-25)
 - [pushmeet](https://x.com/pushmeet/status/2089717134129565763) (2026-08-19)
 - [sairahul1](https://x.com/sairahul1/status/2084557703226036536) (2026-08-05)
@@ -109,6 +110,7 @@ total_mentions: 108
 - [shedoesai](https://x.com/shedoesai/status/2054227691671556145) (2026-06-12)
 - [sheemamoto](https://x.com/sheemamoto/status/2099571838514864241) (2026-09-15)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
+- [triptitips](https://x.com/triptitips/status/2101682470655758391) (2026-09-21)
 - [undefinedKi](https://x.com/undefinedKi/status/2070221446786215970) (2026-06-27)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2084267503950143998) (2026-08-10)
 - [waynoir](https://x.com/waynoir/status/2087566812309598287) (2026-08-14)

@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-20
-total_mentions: 154
+last_seen: 2026-09-21
+total_mentions: 155
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -52,6 +52,7 @@ total_mentions: 154
 - [SIGKITTEN](https://x.com/SIGKITTEN/status/1980809995823591805) (2026-06-12)
 - [SarvamAI](https://x.com/SarvamAI/status/2074116231461011764) (2026-07-07)
 - [ShenSeanChen](https://x.com/ShenSeanChen/status/2086931006376784130) (2026-08-13)
+- [Sirhassan21](https://x.com/Sirhassan21/status/2100448401154339293) (2026-09-21)
 - [SlackHQ](https://x.com/SlackHQ/status/2090417108559548554) (2026-08-23)
 - [SourabhGurwani](https://x.com/SourabhGurwani/status/2081721763428483158) (2026-07-28)
 - [TeksCreate](https://x.com/TeksCreate/status/2068138970131632591) (2026-06-20)

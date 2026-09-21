@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-19
-total_mentions: 72
+last_seen: 2026-09-21
+total_mentions: 75
 
 ## Related Tweets
 - [0xDepressionn](https://x.com/0xDepressionn/status/2063987019068371128) (2026-06-10)
@@ -42,6 +42,7 @@ total_mentions: 72
 - [Voxyz_ai](https://x.com/Voxyz_ai/status/2082582856182989263) (2026-07-30)
 - [WatcherGuru](https://x.com/WatcherGuru/status/2080780405179904206) (2026-07-28)
 - [XQOPTRX](https://x.com/XQOPTRX/status/2098308310143238516) (2026-09-11)
+- [ZaStocks](https://x.com/ZaStocks/status/2101864007338459217) (2026-09-21)
 - [_0xpainn](https://x.com/_0xpainn/status/2070432605552451963) (2026-08-02)
 - [adiix_official](https://x.com/adiix_official/status/2098425574377107724) (2026-09-14)
 - [alex_verem](https://x.com/alex_verem/status/2075994424484732984) (2026-07-12)
@@ -72,8 +73,10 @@ total_mentions: 72
 - [officialbunnyos](https://x.com/officialbunnyos/status/2089938164916060444) (2026-08-19)
 - [oleg_murk](https://x.com/oleg_murk/status/2099652501645775041) (2026-09-16)
 - [pankajkumar_dev](https://x.com/pankajkumar_dev/status/2083391622939815963) (2026-08-01)
+- [petergyang](https://x.com/petergyang/status/2101862331345154469) (2026-09-21)
 - [sairahul1](https://x.com/sairahul1/status/2090807997253726488) (2026-08-22)
 - [sharongoldman](https://x.com/sharongoldman/status/2085121826418831484) (2026-08-07)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2089191836296654904) (2026-08-20)
 - [testingcatalog](https://x.com/testingcatalog/status/2096949150755471510) (2026-09-08)
+- [triptitips](https://x.com/triptitips/status/2101682470655758391) (2026-09-21)
 - [unusual_whales](https://x.com/unusual_whales/status/2079958900032655634) (2026-07-23)

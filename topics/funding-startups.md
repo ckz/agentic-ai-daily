@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-20
-total_mentions: 503
+last_seen: 2026-09-21
+total_mentions: 508
 
 ## Related Tweets
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
@@ -16,6 +16,7 @@ total_mentions: 503
 - [AISafetyMemes](https://x.com/AISafetyMemes/status/2087549262427263014) (2026-08-15)
 - [AITECHLabs](https://x.com/AITECHLabs/status/2083070154548654199) (2026-07-31)
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
+- [AIwithSajid](https://x.com/AIwithSajid/status/2101849697564659742) (2026-09-21)
 - [AgentChud](https://x.com/AgentChud/status/2096259218835718273) (2026-09-06)
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
 - [AlexMasonCrypto](https://x.com/AlexMasonCrypto/status/2090133773081854263) (2026-08-22)
@@ -247,6 +248,7 @@ total_mentions: 503
 - [axisrobotics](https://x.com/axisrobotics/status/2081711331791827387) (2026-07-28)
 - [base](https://x.com/base/status/2083204522415960437) (2026-08-05)
 - [bella_quack](https://x.com/bella_quack/status/2101483665620627781) (2026-09-20)
+- [benhylak](https://x.com/benhylak/status/2100630323382088033) (2026-09-21)
 - [benln](https://x.com/benln/status/2062927277759893629) (2026-06-06)
 - [benln](https://x.com/benln/status/2068756286435389467) (2026-06-28)
 - [bitfunded](https://x.com/bitfunded/status/2098100987818811835) (2026-09-11)
@@ -295,6 +297,7 @@ total_mentions: 503
 - [dhh](https://x.com/dhh/status/2086590006898958752) (2026-08-13)
 - [divaagurlxw](https://x.com/divaagurlxw/status/2088625532070203557) (2026-08-18)
 - [djcows](https://x.com/djcows/status/2074245525021335998) (2026-07-12)
+- [e4ma_officiall](https://x.com/e4ma_officiall/status/2101889325449261187) (2026-09-21)
 - [ecomchigga](https://x.com/ecomchigga/status/2065176267637297566) (2026-06-13)
 - [edinsoncode](https://x.com/edinsoncode/status/2089677825125368297) (2026-08-19)
 - [edinsoncode](https://x.com/edinsoncode/status/2101265656498782671) (2026-09-20)
@@ -390,6 +393,7 @@ total_mentions: 503
 - [milesdeutscher](https://x.com/milesdeutscher/status/2095409961958514851) (2026-09-03)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2100041731614150901) (2026-09-16)
 - [moneyacademyKE](https://x.com/moneyacademyKE/status/2080286044813926579) (2026-07-29)
+- [mpopv](https://x.com/mpopv/status/2101308984791798189) (2026-09-21)
 - [mr_bailando](https://x.com/mr_bailando/status/2086142677360226342) (2026-08-09)
 - [nanransohoff](https://x.com/nanransohoff/status/2069761661456601188) (2026-06-28)
 - [neerajjj6785](https://x.com/neerajjj6785/status/2088897032283181080) (2026-08-17)
@@ -459,6 +463,7 @@ total_mentions: 503
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
 - [subahwadhwani](https://x.com/subahwadhwani/status/2097331593790792035) (2026-09-15)
 - [suni_code](https://x.com/suni_code/status/2073859515485974967) (2026-07-08)
+- [superteam](https://x.com/superteam/status/2101924701241331858) (2026-09-21)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
 - [tankots](https://x.com/tankots/status/2089372674644713664) (2026-08-21)
 - [techsaleshackz](https://x.com/techsaleshackz/status/2094910371337244877) (2026-09-02)
