@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-09-21
-total_mentions: 306
+last_seen: 2026-09-22
+total_mentions: 308
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -48,6 +48,7 @@ total_mentions: 306
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2087730345173229657) (2026-08-13)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2098578161877549550) (2026-09-12)
 - [AndrewYNg](https://x.com/AndrewYNg/status/1975614372799283423) (2026-06-12)
+- [AndrewYNg](https://x.com/AndrewYNg/status/2102140576498065758) (2026-09-22)
 - [Apodex_AI](https://x.com/Apodex_AI/status/2091916791308313018) (2026-08-25)
 - [AriaWestcott](https://x.com/AriaWestcott/status/2083996549357416566) (2026-08-04)
 - [Av1dlive](https://x.com/Av1dlive/status/2079996209448780202) (2026-07-25)
@@ -62,6 +63,7 @@ total_mentions: 306
 - [Bober_smart](https://x.com/Bober_smart/status/2095479502172295378) (2026-09-04)
 - [Bober_smart](https://x.com/Bober_smart/status/2096196102823260548) (2026-09-06)
 - [Bober_smart](https://x.com/Bober_smart/status/2096256460661358995) (2026-09-06)
+- [BrianRoemmele](https://x.com/BrianRoemmele/status/2099871292619215200) (2026-09-22)
 - [CampedelliGian](https://x.com/CampedelliGian/status/2095171786715316233) (2026-09-03)
 - [ChainOpera_AI](https://x.com/ChainOpera_AI/status/2065431330910015978) (2026-06-13)
 - [ChainOpera_AI](https://x.com/ChainOpera_AI/status/2075270266784235590) (2026-07-11)

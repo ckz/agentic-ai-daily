@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-21
-total_mentions: 508
+last_seen: 2026-09-22
+total_mentions: 512
 
 ## Related Tweets
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
@@ -54,6 +54,7 @@ total_mentions: 508
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2080009523952263295) (2026-07-29)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2093480630801858750) (2026-08-29)
 - [ClearpoolFin](https://x.com/ClearpoolFin/status/2098294816534876180) (2026-09-11)
+- [ClementDelangue](https://x.com/ClementDelangue/status/2102046770947613026) (2026-09-22)
 - [Codex_Changelog](https://x.com/Codex_Changelog/status/2062678248790589520) (2026-06-07)
 - [Codie_Sanchez](https://x.com/Codie_Sanchez/status/2099491915381006477) (2026-09-16)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2063005594047467893) (2026-06-05)
@@ -272,6 +273,7 @@ total_mentions: 508
 - [cfaprenault](https://x.com/cfaprenault/status/2092667736711180300) (2026-08-27)
 - [chamath](https://x.com/chamath/status/2071571183665881515) (2026-07-01)
 - [chamath](https://x.com/chamath/status/2083463694931902561) (2026-08-14)
+- [charliejhills](https://x.com/charliejhills/status/2101957500669169711) (2026-09-22)
 - [charliermarsh](https://x.com/charliermarsh/status/2090924566923067490) (2026-08-22)
 - [chasewoolard](https://x.com/chasewoolard/status/2099676141854589366) (2026-09-15)
 - [christophersaum](https://x.com/christophersaum/status/2069813347420119217) (2026-06-28)
@@ -360,6 +362,7 @@ total_mentions: 508
 - [johnrush](https://x.com/johnrush/status/2100322424386429223) (2026-09-20)
 - [jomatech](https://x.com/jomatech/status/2071058503805124918) (2026-06-28)
 - [jsolomonReports](https://x.com/jsolomonReports/status/2083874257189097789) (2026-08-05)
+- [judegomila](https://x.com/judegomila/status/2100293405834453355) (2026-09-22)
 - [k2sbhai](https://x.com/k2sbhai/status/2095328927330025555) (2026-09-03)
 - [kaaaash____](https://x.com/kaaaash____/status/2090076085354676694) (2026-08-20)
 - [kamath_sutra](https://x.com/kamath_sutra/status/2083224374728093907) (2026-08-01)
@@ -380,6 +383,7 @@ total_mentions: 508
 - [marclou](https://x.com/marclou/status/2097326512169222407) (2026-09-09)
 - [marcrandolph](https://x.com/marcrandolph/status/2093141802610254231) (2026-08-29)
 - [marcushan_](https://x.com/marcushan_/status/2098222906673090570) (2026-09-11)
+- [mardehaym](https://x.com/mardehaym/status/2100945418221769097) (2026-09-22)
 - [marfinxx](https://x.com/marfinxx/status/2087950466244063718) (2026-08-14)
 - [margelo_com](https://x.com/margelo_com/status/2092310982710235294) (2026-08-28)
 - [markiewagner](https://x.com/markiewagner/status/2064778239164461316) (2026-06-11)

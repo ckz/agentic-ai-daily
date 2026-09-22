@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-09-21
-total_mentions: 491
+last_seen: 2026-09-22
+total_mentions: 493
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -99,6 +99,7 @@ total_mentions: 491
 - [FastCompany](https://x.com/FastCompany/status/2063149004490149919) (2026-06-06)
 - [FourPillarsFP](https://x.com/FourPillarsFP/status/2079870751247609871) (2026-07-28)
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2087121081098224122) (2026-08-18)
+- [GodsBoy7777](https://x.com/GodsBoy7777/status/2102146460821152070) (2026-09-22)
 - [GoogleAI](https://x.com/GoogleAI/status/2062942864288387430) (2026-06-06)
 - [GoogleAI](https://x.com/GoogleAI/status/2088332438753681700) (2026-08-17)
 - [GoogleAI](https://x.com/GoogleAI/status/2095922185139364267) (2026-09-06)
@@ -455,6 +456,7 @@ total_mentions: 491
 - [shushant_l](https://x.com/shushant_l/status/2078707411670704572) (2026-07-19)
 - [simonbs](https://x.com/simonbs/status/2098246318124650855) (2026-09-11)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
+- [snwiki238337](https://x.com/snwiki238337/status/2099736240048226688) (2026-09-22)
 - [socialwithaayan](https://x.com/socialwithaayan/status/2072044103492309425) (2026-07-02)
 - [socialwithaayan](https://x.com/socialwithaayan/status/2094350331484516816) (2026-09-01)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2072154763492544652) (2026-07-01)

@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-09-21
-total_mentions: 109
+last_seen: 2026-09-22
+total_mentions: 112
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -23,6 +23,7 @@ total_mentions: 109
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [IndraVahan](https://x.com/IndraVahan/status/2100452129978871822) (2026-09-19)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2094218161532940367) (2026-09-05)
+- [KicksCharlie](https://x.com/KicksCharlie/status/2102201908383686787) (2026-09-22)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [Mascobot](https://x.com/Mascobot/status/2065102985362026958) (2026-06-12)
@@ -63,6 +64,7 @@ total_mentions: 109
 - [arturovilla](https://x.com/arturovilla/status/2087625765529461145) (2026-08-19)
 - [awlevin](https://x.com/awlevin/status/2100262612428894676) (2026-09-17)
 - [bcherny](https://x.com/bcherny/status/2095378890370019683) (2026-09-06)
+- [businessbarista](https://x.com/businessbarista/status/2101061801571938529) (2026-09-22)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
 - [claudeebum](https://x.com/claudeebum/status/2088598997065969933) (2026-08-17)
 - [coder_surya](https://x.com/coder_surya/status/2073957608998715439) (2026-07-06)
@@ -101,6 +103,7 @@ total_mentions: 109
 - [rubenhassid](https://x.com/rubenhassid/status/2063138819856101667) (2026-06-07)
 - [ryanvogel](https://x.com/ryanvogel/status/2098875111558328570) (2026-09-13)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
+- [sai_borg](https://x.com/sai_borg/status/2102069767079354526) (2026-09-22)
 - [sama](https://x.com/sama/status/2095600005772104059) (2026-09-06)
 - [savboj](https://x.com/savboj/status/2100545295201288678) (2026-09-19)
 - [scaling01](https://x.com/scaling01/status/2095411747309953427) (2026-09-05)

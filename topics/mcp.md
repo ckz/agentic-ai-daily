@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-09-21
-total_mentions: 787
+last_seen: 2026-09-22
+total_mentions: 791
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -121,6 +121,7 @@ total_mentions: 787
 - [ElevenLabs](https://x.com/ElevenLabs/status/2099547227223908568) (2026-09-18)
 - [Emdad_AI](https://x.com/Emdad_AI/status/2091364911628910857) (2026-08-23)
 - [EngMoElgaraihy](https://x.com/EngMoElgaraihy/status/2083197718818611544) (2026-08-02)
+- [Enno_Insinuator](https://x.com/Enno_Insinuator/status/2100459162996023773) (2026-09-22)
 - [ErickSky](https://x.com/ErickSky/status/2063701338316292495) (2026-06-08)
 - [ErickSky](https://x.com/ErickSky/status/2093524595965886900) (2026-09-05)
 - [ErnestoSOFTWARE](https://x.com/ErnestoSOFTWARE/status/2082153329207951654) (2026-07-29)
@@ -400,6 +401,7 @@ total_mentions: 787
 - [bonsaixbt](https://x.com/bonsaixbt/status/2077722769194615193) (2026-07-17)
 - [bountywriteups](https://x.com/bountywriteups/status/2095142679764226142) (2026-09-03)
 - [bucket0dotcom](https://x.com/bucket0dotcom/status/2068553823635796170) (2026-06-21)
+- [businessbarista](https://x.com/businessbarista/status/2101061801571938529) (2026-09-22)
 - [cTrader](https://x.com/cTrader/status/2062503096375263532) (2026-06-05)
 - [cb_doge](https://x.com/cb_doge/status/2093024115620004154) (2026-08-28)
 - [cb_doge](https://x.com/cb_doge/status/2093481818544844864) (2026-08-29)
@@ -411,6 +413,7 @@ total_mentions: 787
 - [charliejhills](https://x.com/charliejhills/status/2076221471375122811) (2026-07-14)
 - [charliejhills](https://x.com/charliejhills/status/2091160209142292982) (2026-08-25)
 - [charliejhills](https://x.com/charliejhills/status/2092256296242438236) (2026-08-26)
+- [charliejhills](https://x.com/charliejhills/status/2101957500669169711) (2026-09-22)
 - [chddaniel](https://x.com/chddaniel/status/2078869144171380763) (2026-07-20)
 - [chddaniel](https://x.com/chddaniel/status/2087212602376192381) (2026-08-17)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
@@ -710,6 +713,7 @@ total_mentions: 787
 - [sixtria](https://x.com/sixtria/status/2067853856709779883) (2026-06-19)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
 - [smratitiwa86867](https://x.com/smratitiwa86867/status/2081582605670187098) (2026-07-27)
+- [snwiki238337](https://x.com/snwiki238337/status/2099736240048226688) (2026-09-22)
 - [so_ainsight](https://x.com/so_ainsight/status/2096798121821131192) (2026-09-13)
 - [socialwithaayan](https://x.com/socialwithaayan/status/2094350331484516816) (2026-09-01)
 - [sohmehta](https://x.com/sohmehta/status/2097374528175526083) (2026-09-15)
