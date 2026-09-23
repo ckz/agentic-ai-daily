@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-22
-total_mentions: 223
+last_seen: 2026-09-23
+total_mentions: 227
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -14,6 +14,7 @@ total_mentions: 223
 - [0xMovez](https://x.com/0xMovez/status/2073765125958348964) (2026-07-06)
 - [0xchadx](https://x.com/0xchadx/status/2067862587174244810) (2026-06-19)
 - [0xclayn](https://x.com/0xclayn/status/2075292493218721894) (2026-07-11)
+- [0xvati](https://x.com/0xvati/status/2102325309978927184) (2026-09-23)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2095134652688220236) (2026-09-04)
 - [51bodila](https://x.com/51bodila/status/2085020463290290504) (2026-08-06)
 - [AEON_Community](https://x.com/AEON_Community/status/2064694068677107745) (2026-06-11)
@@ -31,6 +32,7 @@ total_mentions: 223
 - [Argona0x](https://x.com/Argona0x/status/2065525815106769169) (2026-06-13)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065328920514515037) (2026-06-13)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2095595489031000350) (2026-09-04)
+- [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2102438210798514391) (2026-09-23)
 - [BTCqzy1](https://x.com/BTCqzy1/status/2087496242071056769) (2026-08-13)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2064345389424324891) (2026-06-14)
 - [BinaryScriptar](https://x.com/BinaryScriptar/status/2090679698351391113) (2026-08-22)
@@ -151,6 +153,7 @@ total_mentions: 223
 - [cyrilXBT](https://x.com/cyrilXBT/status/2085683119320133685) (2026-08-08)
 - [dabit3](https://x.com/dabit3/status/2098557144580735156) (2026-09-17)
 - [danshipper](https://x.com/danshipper/status/2098812095093452969) (2026-09-19)
+- [danshipper](https://x.com/danshipper/status/2102461471716483208) (2026-09-23)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [davidim](https://x.com/davidim/status/2098353617816461689) (2026-09-12)
 - [dee_hw](https://x.com/dee_hw/status/2089388227971219643) (2026-08-18)
@@ -197,6 +200,7 @@ total_mentions: 223
 - [noisyb0y1](https://x.com/noisyb0y1/status/2087218720594706679) (2026-08-13)
 - [noisyb0y1](https://x.com/noisyb0y1/status/2093305554445738152) (2026-09-04)
 - [noisyb0y1](https://x.com/noisyb0y1/status/2100505456129019911) (2026-09-18)
+- [nukonuko](https://x.com/nukonuko/status/2102459898911203813) (2026-09-23)
 - [officialbunnyos](https://x.com/officialbunnyos/status/2089938164916060444) (2026-08-19)
 - [om_patel5](https://x.com/om_patel5/status/2099683744781111419) (2026-09-17)
 - [polydao](https://x.com/polydao/status/2088516287098159531) (2026-08-21)

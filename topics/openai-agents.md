@@ -1,13 +1,14 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-22
-total_mentions: 78
+last_seen: 2026-09-23
+total_mentions: 80
 
 ## Related Tweets
 - [0xDepressionn](https://x.com/0xDepressionn/status/2063987019068371128) (2026-06-10)
 - [0xSammy](https://x.com/0xSammy/status/1882500633573609980) (2026-06-08)
 - [0xchadx](https://x.com/0xchadx/status/2067862587174244810) (2026-06-19)
+- [0xvati](https://x.com/0xvati/status/2102325309978927184) (2026-09-23)
 - [AISafetyMemes](https://x.com/AISafetyMemes/status/2080815177252114667) (2026-08-06)
 - [AISafetyMemes](https://x.com/AISafetyMemes/status/2087549262427263014) (2026-08-15)
 - [AISecurityInst](https://x.com/AISecurityInst/status/2084746202579386632) (2026-08-06)
@@ -15,6 +16,7 @@ total_mentions: 78
 - [AndrewYNg](https://x.com/AndrewYNg/status/2102140576498065758) (2026-09-22)
 - [AnthonyNAguirre](https://x.com/AnthonyNAguirre/status/2080523331988500488) (2026-07-26)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2095595489031000350) (2026-09-04)
+- [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2102438210798514391) (2026-09-23)
 - [Brainm8ion](https://x.com/Brainm8ion/status/2087751034944803135) (2026-08-13)
 - [ChrisGPT](https://x.com/ChrisGPT/status/2102252424232648898) (2026-09-22)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2064900509933175066) (2026-06-11)

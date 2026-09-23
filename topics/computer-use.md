@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-09-22
-total_mentions: 112
+last_seen: 2026-09-23
+total_mentions: 116
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -11,6 +11,7 @@ total_mentions: 112
 - [AlejandroRomaan](https://x.com/AlejandroRomaan/status/2096610078837141569) (2026-09-08)
 - [AriX](https://x.com/AriX/status/2075282339782095163) (2026-07-13)
 - [Bha74142Shivani](https://x.com/Bha74142Shivani/status/2087441456726524324) (2026-08-12)
+- [BuildwithOmkarr](https://x.com/BuildwithOmkarr/status/2102603427297755264) (2026-09-23)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2064410897486160099) (2026-06-10)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2090540270219567575) (2026-08-21)
 - [CodexReleases](https://x.com/CodexReleases/status/2075265220054782386) (2026-07-11)
@@ -62,6 +63,7 @@ total_mentions: 112
 - [amasad](https://x.com/amasad/status/2065452585964949831) (2026-06-15)
 - [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)
 - [arturovilla](https://x.com/arturovilla/status/2087625765529461145) (2026-08-19)
+- [ataiiam](https://x.com/ataiiam/status/2102400431519592581) (2026-09-23)
 - [awlevin](https://x.com/awlevin/status/2100262612428894676) (2026-09-17)
 - [bcherny](https://x.com/bcherny/status/2095378890370019683) (2026-09-06)
 - [businessbarista](https://x.com/businessbarista/status/2101061801571938529) (2026-09-22)
@@ -70,6 +72,7 @@ total_mentions: 112
 - [coder_surya](https://x.com/coder_surya/status/2073957608998715439) (2026-07-06)
 - [cursor_ai](https://x.com/cursor_ai/status/2084317547608911986) (2026-08-09)
 - [cwmasaki](https://x.com/cwmasaki/status/2088433897445171301) (2026-08-15)
+- [danshipper](https://x.com/danshipper/status/2102461471716483208) (2026-09-23)
 - [deedydas](https://x.com/deedydas/status/1898444603071795378) (2026-06-06)
 - [deedydas](https://x.com/deedydas/status/2099880100770849001) (2026-09-16)
 - [deviparikh](https://x.com/deviparikh/status/2092647579163251007) (2026-08-30)
@@ -81,6 +84,7 @@ total_mentions: 112
 - [hanghuang_](https://x.com/hanghuang_/status/2099559078687088854) (2026-09-19)
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2097085343967355190) (2026-09-10)
 - [hzlzh](https://x.com/hzlzh/status/2091570012368863571) (2026-08-24)
+- [instantricecook](https://x.com/instantricecook/status/2100814590300889426) (2026-09-23)
 - [jakevin7](https://x.com/jakevin7/status/2096850696964325472) (2026-09-07)
 - [jasonzhou1993](https://x.com/jasonzhou1993/status/2098251709214761387) (2026-09-11)
 - [jkelleyrtp](https://x.com/jkelleyrtp/status/2101364551296143772) (2026-09-20)

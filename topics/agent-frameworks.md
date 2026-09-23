@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-09-22
-total_mentions: 493
+last_seen: 2026-09-23
+total_mentions: 494
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -466,6 +466,7 @@ total_mentions: 493
 - [stbenjam](https://x.com/stbenjam/status/2087340706599698783) (2026-08-12)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
 - [sudoingX](https://x.com/sudoingX/status/2081453712149721457) (2026-08-19)
+- [superpobe](https://x.com/superpobe/status/2102293399688679575) (2026-09-23)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2077724941198533011) (2026-07-17)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2078449718414180393) (2026-07-19)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095491337651179621) (2026-09-04)

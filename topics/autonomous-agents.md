@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-22
-total_mentions: 1271
+last_seen: 2026-09-23
+total_mentions: 1279
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -169,6 +169,7 @@ total_mentions: 1271
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2089830890709135426) (2026-08-19)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2092663573021606119) (2026-08-27)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2095247787277553929) (2026-09-03)
+- [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2102438210798514391) (2026-09-23)
 - [Artificialunbox](https://x.com/Artificialunbox/status/2068215362114715908) (2026-06-20)
 - [Aurimas_Gr](https://x.com/Aurimas_Gr/status/2084608000610754903) (2026-08-06)
 - [Ausmi129124](https://x.com/Ausmi129124/status/2068589738534260929) (2026-06-21)
@@ -224,6 +225,8 @@ total_mentions: 1271
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2066212008782172238) (2026-06-19)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2089423549379559718) (2026-08-19)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2099434845558730923) (2026-09-15)
+- [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2100804507240132984) (2026-09-23)
+- [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2101285539580371431) (2026-09-23)
 - [DJ_CURFEW](https://x.com/DJ_CURFEW/status/2069499429292568919) (2026-06-29)
 - [DOLAK1NG](https://x.com/DOLAK1NG/status/2000543960943530044) (2026-08-22)
 - [DamiDefi](https://x.com/DamiDefi/status/2034210979475788197) (2026-06-10)
@@ -817,7 +820,9 @@ total_mentions: 1271
 - [dair_ai](https://x.com/dair_ai/status/2088298364458930462) (2026-08-15)
 - [dair_ai](https://x.com/dair_ai/status/2092260466190106974) (2026-08-30)
 - [dair_ai](https://x.com/dair_ai/status/2097022152088445034) (2026-09-08)
+- [daisy_btc988](https://x.com/daisy_btc988/status/2102284082973663268) (2026-09-23)
 - [dan__rosenthal](https://x.com/dan__rosenthal/status/2086165641594048875) (2026-08-09)
+- [danshipper](https://x.com/danshipper/status/2102461471716483208) (2026-09-23)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [dashen_wang](https://x.com/dashen_wang/status/2094659177310269863) (2026-09-05)
 - [databricks](https://x.com/databricks/status/2070517714746012080) (2026-06-27)
@@ -833,6 +838,7 @@ total_mentions: 1271
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
 - [dharmesh](https://x.com/dharmesh/status/2093071931188597042) (2026-08-28)
 - [dhh](https://x.com/dhh/status/2097317603186229297) (2026-09-09)
+- [dhh](https://x.com/dhh/status/2102366320369016915) (2026-09-23)
 - [divaagurlxw](https://x.com/divaagurlxw/status/2087756697469440442) (2026-08-15)
 - [dkare1009](https://x.com/dkare1009/status/2043335862264410288) (2026-06-06)
 - [dkare1009](https://x.com/dkare1009/status/2058646791348727997) (2026-06-30)
@@ -1067,6 +1073,7 @@ total_mentions: 1271
 - [nmkr_io](https://x.com/nmkr_io/status/1857069687034523933) (2026-06-06)
 - [norvex1029](https://x.com/norvex1029/status/2087230353035440452) (2026-08-13)
 - [norvex1029](https://x.com/norvex1029/status/2091528114534863055) (2026-08-26)
+- [nukonuko](https://x.com/nukonuko/status/2102459898911203813) (2026-09-23)
 - [nvidia](https://x.com/nvidia/status/2061483007249203644) (2026-06-08)
 - [nvidia](https://x.com/nvidia/status/2061885990705271191) (2026-06-07)
 - [nvidia](https://x.com/nvidia/status/2062557490210852947) (2026-06-09)
@@ -1199,6 +1206,7 @@ total_mentions: 1271
 - [sudoingX](https://x.com/sudoingX/status/2100013545928933875) (2026-09-16)
 - [sundaebar_ai](https://x.com/sundaebar_ai/status/2077392523128132068) (2026-07-16)
 - [sundarpichai](https://x.com/sundarpichai/status/2095181765082292334) (2026-09-03)
+- [superpobe](https://x.com/superpobe/status/2102293399688679575) (2026-09-23)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2077724941198533011) (2026-07-17)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2078449718414180393) (2026-07-19)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)

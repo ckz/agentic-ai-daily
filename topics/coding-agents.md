@@ -1,14 +1,15 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-22
-total_mentions: 157
+last_seen: 2026-09-23
+total_mentions: 160
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
 - [AiNicolas75316](https://x.com/AiNicolas75316/status/2079199374819914080) (2026-07-22)
 - [AlexFinn](https://x.com/AlexFinn/status/2076752798532931758) (2026-07-14)
+- [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2057450220708147250) (2026-09-23)
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2061506641120641494) (2026-06-05)
 - [Amospikins](https://x.com/Amospikins/status/2085433223589359921) (2026-08-07)
 - [AndrewYNg](https://x.com/AndrewYNg/status/2071988145667928442) (2026-07-01)
@@ -92,6 +93,7 @@ total_mentions: 157
 - [cyrilXBT](https://x.com/cyrilXBT/status/2071058754905481234) (2026-06-28)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2071817627484250139) (2026-06-30)
 - [dabit3](https://x.com/dabit3/status/2098557144580735156) (2026-09-17)
+- [dabit3](https://x.com/dabit3/status/2102473356121620896) (2026-09-23)
 - [dair_ai](https://x.com/dair_ai/status/2088298364458930462) (2026-08-15)
 - [dexhorthy](https://x.com/dexhorthy/status/2080314136119091431) (2026-07-25)
 - [di_zhang_fdu](https://x.com/di_zhang_fdu/status/2096481849937945012) (2026-09-07)
@@ -120,6 +122,7 @@ total_mentions: 157
 - [lemondooe](https://x.com/lemondooe/status/2073312103167840581) (2026-07-04)
 - [martinfowler](https://x.com/martinfowler/status/2087173563144912985) (2026-08-12)
 - [mattpocockuk](https://x.com/mattpocockuk/status/2064663221718425660) (2026-06-11)
+- [mattpocockuk](https://x.com/mattpocockuk/status/2089701313676284316) (2026-09-23)
 - [mfishbein](https://x.com/mfishbein/status/2081031938228232360) (2026-07-27)
 - [mihail_eric](https://x.com/mihail_eric/status/2095166860740174273) (2026-09-03)
 - [mikeldking](https://x.com/mikeldking/status/2076724129185866076) (2026-07-14)
