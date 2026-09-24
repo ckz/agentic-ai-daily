@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-23
-total_mentions: 227
+last_seen: 2026-09-24
+total_mentions: 231
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -69,6 +69,7 @@ total_mentions: 227
 - [JJEnglert](https://x.com/JJEnglert/status/2064420538798260388) (2026-06-10)
 - [Jeyxbt](https://x.com/Jeyxbt/status/2067866973497868794) (2026-06-19)
 - [Krishnasagrawal](https://x.com/Krishnasagrawal/status/2076370564831486040) (2026-07-14)
+- [LomashKumar52](https://x.com/LomashKumar52/status/2103013165009363358) (2026-09-24)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2093310429103558754) (2026-08-29)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
 - [MaxForAI](https://x.com/MaxForAI/status/2089184371886690760) (2026-08-17)
@@ -86,6 +87,7 @@ total_mentions: 227
 - [Origin_AI_01](https://x.com/Origin_AI_01/status/2096073337881641428) (2026-09-05)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
 - [Pirat_Nation](https://x.com/Pirat_Nation/status/2096267361066356859) (2026-09-10)
+- [RLanceMartin](https://x.com/RLanceMartin/status/2102575471502528989) (2026-09-24)
 - [RegalosDigitals](https://x.com/RegalosDigitals/status/2071263024212508813) (2026-06-29)
 - [Revolt_Fi](https://x.com/Revolt_Fi/status/2079266777163522467) (2026-07-21)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2074618209073078367) (2026-07-08)
@@ -157,6 +159,7 @@ total_mentions: 227
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [davidim](https://x.com/davidim/status/2098353617816461689) (2026-09-12)
 - [dee_hw](https://x.com/dee_hw/status/2089388227971219643) (2026-08-18)
+- [digitalocean](https://x.com/digitalocean/status/2102414817797550320) (2026-09-24)
 - [dr_cintas](https://x.com/dr_cintas/status/2072714904650359130) (2026-07-03)
 - [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
 - [dreyethh](https://x.com/dreyethh/status/2094460468941218188) (2026-09-01)
@@ -190,6 +193,7 @@ total_mentions: 227
 - [kunalstwt](https://x.com/kunalstwt/status/2073978095644643520) (2026-07-06)
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
 - [lksmlabc](https://x.com/lksmlabc/status/2096524556123115628) (2026-09-09)
+- [marfinxx](https://x.com/marfinxx/status/2102729802708918385) (2026-09-24)
 - [matei_zaharia](https://x.com/matei_zaharia/status/2065827057624605146) (2026-06-14)
 - [mikefutia](https://x.com/mikefutia/status/2069488510424531371) (2026-06-27)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2072358721821221212) (2026-07-02)

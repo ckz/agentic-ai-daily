@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-23
-total_mentions: 160
+last_seen: 2026-09-24
+total_mentions: 161
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -120,6 +120,7 @@ total_mentions: 160
 - [kloss_xyz](https://x.com/kloss_xyz/status/2099714012867178531) (2026-09-19)
 - [leerob](https://x.com/leerob/status/2089169319099777364) (2026-08-17)
 - [lemondooe](https://x.com/lemondooe/status/2073312103167840581) (2026-07-04)
+- [lennysan](https://x.com/lennysan/status/2102422882341322779) (2026-09-24)
 - [martinfowler](https://x.com/martinfowler/status/2087173563144912985) (2026-08-12)
 - [mattpocockuk](https://x.com/mattpocockuk/status/2064663221718425660) (2026-06-11)
 - [mattpocockuk](https://x.com/mattpocockuk/status/2089701313676284316) (2026-09-23)

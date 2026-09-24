@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-23
-total_mentions: 80
+last_seen: 2026-09-24
+total_mentions: 82
 
 ## Related Tweets
 - [0xDepressionn](https://x.com/0xDepressionn/status/2063987019068371128) (2026-06-10)
@@ -31,6 +31,7 @@ total_mentions: 80
 - [MaxForAI](https://x.com/MaxForAI/status/2098334720677282098) (2026-09-13)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2084978309532647780) (2026-08-08)
 - [NuryVittachi](https://x.com/NuryVittachi/status/2085178025055031587) (2026-08-11)
+- [Paul__Walsh](https://x.com/Paul__Walsh/status/2102900907033669792) (2026-09-24)
 - [Polymarket](https://x.com/Polymarket/status/2080838272033394996) (2026-07-25)
 - [Polymarket](https://x.com/Polymarket/status/2085186345040023989) (2026-08-06)
 - [RachelTobac](https://x.com/RachelTobac/status/2082214795072225786) (2026-07-30)
@@ -72,6 +73,7 @@ total_mentions: 80
 - [jiang_kev](https://x.com/jiang_kev/status/2082496145994248488) (2026-07-30)
 - [jietang](https://x.com/jietang/status/2067022641949814893) (2026-06-19)
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
+- [marfinxx](https://x.com/marfinxx/status/2102729802708918385) (2026-09-24)
 - [moneyacademyKE](https://x.com/moneyacademyKE/status/2081618955064455539) (2026-08-01)
 - [monmiglobal](https://x.com/monmiglobal/status/2071399421997359236) (2026-06-29)
 - [officialbunnyos](https://x.com/officialbunnyos/status/2089938164916060444) (2026-08-19)

@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-09-23
-total_mentions: 116
+last_seen: 2026-09-24
+total_mentions: 119
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -60,6 +60,7 @@ total_mentions: 116
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2093749877272715636) (2026-08-30)
 - [alex_prompter](https://x.com/alex_prompter/status/2100615854454874610) (2026-09-18)
 - [alexandr_wang](https://x.com/alexandr_wang/status/2100717269861167524) (2026-09-18)
+- [alexandr_wang](https://x.com/alexandr_wang/status/2102916057006764370) (2026-09-24)
 - [amasad](https://x.com/amasad/status/2065452585964949831) (2026-06-15)
 - [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)
 - [arturovilla](https://x.com/arturovilla/status/2087625765529461145) (2026-08-19)
@@ -85,6 +86,7 @@ total_mentions: 116
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2097085343967355190) (2026-09-10)
 - [hzlzh](https://x.com/hzlzh/status/2091570012368863571) (2026-08-24)
 - [instantricecook](https://x.com/instantricecook/status/2100814590300889426) (2026-09-23)
+- [jackyk02](https://x.com/jackyk02/status/2102905335925424285) (2026-09-24)
 - [jakevin7](https://x.com/jakevin7/status/2096850696964325472) (2026-09-07)
 - [jasonzhou1993](https://x.com/jasonzhou1993/status/2098251709214761387) (2026-09-11)
 - [jkelleyrtp](https://x.com/jkelleyrtp/status/2101364551296143772) (2026-09-20)
@@ -118,6 +120,7 @@ total_mentions: 116
 - [sxhivs](https://x.com/sxhivs/status/2101729362194432184) (2026-09-21)
 - [trycua](https://x.com/trycua/status/2100649543079502213) (2026-09-20)
 - [trycua](https://x.com/trycua/status/2101014004927729737) (2026-09-19)
+- [trycua](https://x.com/trycua/status/2102800643794591833) (2026-09-24)
 - [wallstengine](https://x.com/wallstengine/status/2094155293261435063) (2026-09-01)
 - [wuyang_zhou](https://x.com/wuyang_zhou/status/2096548032128942370) (2026-09-11)
 - [zcode_ai](https://x.com/zcode_ai/status/2092635718766215590) (2026-08-27)

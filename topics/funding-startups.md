@@ -1,11 +1,12 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-23
-total_mentions: 525
+last_seen: 2026-09-24
+total_mentions: 534
 
 ## Related Tweets
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
+- [0x_rody](https://x.com/0x_rody/status/2102403963865759871) (2026-09-24)
 - [0xmarginman](https://x.com/0xmarginman/status/2093147453058863316) (2026-08-30)
 - [0xvietnguyen](https://x.com/0xvietnguyen/status/2088504476865081410) (2026-08-21)
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
@@ -112,6 +113,7 @@ total_mentions: 525
 - [KetchumNfts](https://x.com/KetchumNfts/status/2083457676202086669) (2026-08-02)
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
 - [LayoffAI](https://x.com/LayoffAI/status/2081727806652715211) (2026-07-30)
+- [LomashKumar52](https://x.com/LomashKumar52/status/2103013165009363358) (2026-09-24)
 - [LoopandPixels](https://x.com/LoopandPixels/status/2098261489203499127) (2026-09-11)
 - [MAGALieTracker](https://x.com/MAGALieTracker/status/2080726200213979290) (2026-08-01)
 - [MTSlive](https://x.com/MTSlive/status/2065073640182579322) (2026-06-12)
@@ -119,6 +121,7 @@ total_mentions: 525
 - [MabreyTed](https://x.com/MabreyTed/status/2099549711103349178) (2026-09-15)
 - [MackenZ_arnold](https://x.com/MackenZ_arnold/status/2097773578921857101) (2026-09-12)
 - [Maker17368Maker](https://x.com/Maker17368Maker/status/2062810745210040366) (2026-06-07)
+- [MarieMartens](https://x.com/MarieMartens/status/2102313804927246639) (2026-09-24)
 - [Marsadist](https://x.com/Marsadist/status/2095333453956854216) (2026-09-10)
 - [MasashiAONO](https://x.com/MasashiAONO/status/2076147787713163280) (2026-07-12)
 - [MeidasTouch](https://x.com/MeidasTouch/status/2077164264595288203) (2026-07-20)
@@ -237,6 +240,7 @@ total_mentions: 525
 - [ankurnagpal](https://x.com/ankurnagpal/status/2073858342196244665) (2026-07-06)
 - [annajmalayan](https://x.com/annajmalayan/status/2094550929504891060) (2026-09-01)
 - [annatonger](https://x.com/annatonger/status/2102507865785417892) (2026-09-23)
+- [annatonger](https://x.com/annatonger/status/2102551815716065777) (2026-09-24)
 - [anupamrjp](https://x.com/anupamrjp/status/2076558763071508656) (2026-07-13)
 - [anuraggoel](https://x.com/anuraggoel/status/2069218653137142074) (2026-06-30)
 - [anushankjain](https://x.com/anushankjain/status/2099371656833896850) (2026-09-15)
@@ -300,6 +304,7 @@ total_mentions: 525
 - [deedydas](https://x.com/deedydas/status/2063075876452155728) (2026-06-06)
 - [deedydas](https://x.com/deedydas/status/2099880100770849001) (2026-09-16)
 - [deedydas](https://x.com/deedydas/status/2100287208209146309) (2026-09-19)
+- [deedydas](https://x.com/deedydas/status/2102787937482252537) (2026-09-24)
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
 - [dharmesh](https://x.com/dharmesh/status/2093071931188597042) (2026-08-28)
 - [dhh](https://x.com/dhh/status/2086590006898958752) (2026-08-13)
@@ -322,6 +327,7 @@ total_mentions: 525
 - [fin465](https://x.com/fin465/status/2081459766287888794) (2026-07-27)
 - [fin465](https://x.com/fin465/status/2088287274727301259) (2026-08-15)
 - [fundingtraders](https://x.com/fundingtraders/status/2072289577017000341) (2026-07-06)
+- [gaganbiyani](https://x.com/gaganbiyani/status/2102404344351973825) (2026-09-24)
 - [gauravkheterpal](https://x.com/gauravkheterpal/status/2091523308173107449) (2026-08-26)
 - [gdb](https://x.com/gdb/status/2076686329686171666) (2026-07-14)
 - [gfodor](https://x.com/gfodor/status/2087658547140276534) (2026-08-13)
@@ -370,6 +376,7 @@ total_mentions: 525
 - [johnrush](https://x.com/johnrush/status/2100322424386429223) (2026-09-20)
 - [jomatech](https://x.com/jomatech/status/2071058503805124918) (2026-06-28)
 - [jsolomonReports](https://x.com/jsolomonReports/status/2083874257189097789) (2026-08-05)
+- [juampitech](https://x.com/juampitech/status/2102849501002150206) (2026-09-24)
 - [judegomila](https://x.com/judegomila/status/2100293405834453355) (2026-09-22)
 - [k2sbhai](https://x.com/k2sbhai/status/2095328927330025555) (2026-09-03)
 - [kaaaash____](https://x.com/kaaaash____/status/2090076085354676694) (2026-08-20)
@@ -429,6 +436,7 @@ total_mentions: 525
 - [paulg](https://x.com/paulg/status/2096387134768681471) (2026-09-07)
 - [peer_rich](https://x.com/peer_rich/status/2062949788081897633) (2026-06-05)
 - [pelositracker](https://x.com/pelositracker/status/2080314321649746194) (2026-07-26)
+- [pengsonal](https://x.com/pengsonal/status/2102668006023410105) (2026-09-24)
 - [pierreeliottlal](https://x.com/pierreeliottlal/status/2066037831626362988) (2026-06-14)
 - [pitdesi](https://x.com/pitdesi/status/2098178397008781823) (2026-09-12)
 - [plpiaoliang](https://x.com/plpiaoliang/status/2082696373955346650) (2026-07-30)
@@ -512,6 +520,7 @@ total_mentions: 525
 - [vanshuETH](https://x.com/vanshuETH/status/2098766183726227823) (2026-09-17)
 - [vigneshxtech](https://x.com/vigneshxtech/status/2068597287010349323) (2026-06-21)
 - [vipulved](https://x.com/vipulved/status/2072321276094673083) (2026-07-02)
+- [wallstengine](https://x.com/wallstengine/status/2102904194604937232) (2026-09-24)
 - [wh0sumit](https://x.com/wh0sumit/status/2096847253550063656) (2026-09-07)
 - [wickedguro](https://x.com/wickedguro/status/2072654822449586327) (2026-07-09)
 - [wickedguro](https://x.com/wickedguro/status/2081582808041210156) (2026-07-27)

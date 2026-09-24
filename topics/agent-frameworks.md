@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-09-23
-total_mentions: 494
+last_seen: 2026-09-24
+total_mentions: 497
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -315,12 +315,14 @@ total_mentions: 494
 - [cwolferesearch](https://x.com/cwolferesearch/status/2091872097723359673) (2026-08-26)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2085261842625257870) (2026-08-06)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2085683119320133685) (2026-08-08)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2101578357725081745) (2026-09-24)
 - [dabit3](https://x.com/dabit3/status/2081841031528493220) (2026-07-29)
 - [dair_ai](https://x.com/dair_ai/status/2028480209033568475) (2026-06-13)
 - [dair_ai](https://x.com/dair_ai/status/2081770344952803628) (2026-07-28)
 - [dair_ai](https://x.com/dair_ai/status/2097022152088445034) (2026-09-08)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [dexhorthy](https://x.com/dexhorthy/status/2067286892786454855) (2026-06-19)
+- [digitalocean](https://x.com/digitalocean/status/2102414817797550320) (2026-09-24)
 - [divaagurlxw](https://x.com/divaagurlxw/status/2087756697469440442) (2026-08-15)
 - [dkare1009](https://x.com/dkare1009/status/2043335862264410288) (2026-06-06)
 - [dkare1009](https://x.com/dkare1009/status/2058646791348727997) (2026-06-30)
@@ -330,6 +332,7 @@ total_mentions: 494
 - [dotta](https://x.com/dotta/status/2077029848602874009) (2026-07-15)
 - [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
 - [dr_cintas](https://x.com/dr_cintas/status/2082568767586894179) (2026-07-31)
+- [e4ma_officiall](https://x.com/e4ma_officiall/status/2102372289383661675) (2026-09-24)
 - [e_opore](https://x.com/e_opore/status/2073977846448451776) (2026-07-06)
 - [e_opore](https://x.com/e_opore/status/2077277237334757636) (2026-07-16)
 - [e_opore](https://x.com/e_opore/status/2077591797727887532) (2026-07-22)
