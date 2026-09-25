@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-24
-total_mentions: 1289
+last_seen: 2026-09-25
+total_mentions: 1299
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -113,6 +113,7 @@ total_mentions: 1289
 - [AhaanRaizada](https://x.com/AhaanRaizada/status/2087569650976776659) (2026-08-13)
 - [AiCamila_](https://x.com/AiCamila_/status/2076911076885823887) (2026-07-15)
 - [AiCamila_](https://x.com/AiCamila_/status/2079402809397846321) (2026-07-24)
+- [AiForAmericans](https://x.com/AiForAmericans/status/2102751457279918346) (2026-09-25)
 - [AiNicolas75316](https://x.com/AiNicolas75316/status/2079199374819914080) (2026-07-22)
 - [Aileverager](https://x.com/Aileverager/status/2079291494335205865) (2026-07-21)
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2073021437963825410) (2026-07-05)
@@ -221,6 +222,7 @@ total_mentions: 1289
 - [Cortex_Network_](https://x.com/Cortex_Network_/status/2071913826216554612) (2026-07-01)
 - [Cortex_Network_](https://x.com/Cortex_Network_/status/2075590628134760625) (2026-07-11)
 - [Crowdreply_io](https://x.com/Crowdreply_io/status/2082844304981282878) (2026-07-31)
+- [CryptoKing_2020](https://x.com/CryptoKing_2020/status/2103189315866206663) (2026-09-25)
 - [Crypto__Haris](https://x.com/Crypto__Haris/status/2074037585341768082) (2026-07-06)
 - [Cypherpunkgod1](https://x.com/Cypherpunkgod1/status/2066407248859959700) (2026-06-15)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2066212008782172238) (2026-06-19)
@@ -322,6 +324,7 @@ total_mentions: 1289
 - [HedgieMarkets](https://x.com/HedgieMarkets/status/2022417260418122119) (2026-09-12)
 - [HedgieMarkets](https://x.com/HedgieMarkets/status/2062198862090023293) (2026-06-08)
 - [HermesWatcher](https://x.com/HermesWatcher/status/2093891066508517425) (2026-09-06)
+- [HermesWatcher](https://x.com/HermesWatcher/status/2103031686418006166) (2026-09-25)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [HowToAI_](https://x.com/HowToAI_/status/2062105627204423994) (2026-06-06)
@@ -547,6 +550,7 @@ total_mentions: 1289
 - [ShinkaIoT](https://x.com/ShinkaIoT/status/2082668875263385771) (2026-07-30)
 - [Sirhassan21](https://x.com/Sirhassan21/status/2100448401154339293) (2026-09-21)
 - [Slappjakke](https://x.com/Slappjakke/status/1924051973378314393) (2026-07-10)
+- [SmartScience](https://x.com/SmartScience/status/2101936419497242624) (2026-09-25)
 - [SolanaHub_](https://x.com/SolanaHub_/status/2008992037417185560) (2026-07-10)
 - [SolanaHub_](https://x.com/SolanaHub_/status/2011906234765754646) (2026-07-10)
 - [SolanasAgents](https://x.com/SolanasAgents/status/2086876312615129103) (2026-08-11)
@@ -635,6 +639,7 @@ total_mentions: 1289
 - [Zuesthekreator](https://x.com/Zuesthekreator/status/2087104886240374996) (2026-08-13)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
 - [_0xpainn](https://x.com/_0xpainn/status/2070432605552451963) (2026-08-02)
+- [_LuoFuli](https://x.com/_LuoFuli/status/2102162926802968749) (2026-09-25)
 - [___frye](https://x.com/___frye/status/2085140391591133625) (2026-08-09)
 - [__harsh020__](https://x.com/__harsh020__/status/2073518491844624630) (2026-07-05)
 - [_akhaliq](https://x.com/_akhaliq/status/2072347990337954042) (2026-07-03)
@@ -692,6 +697,7 @@ total_mentions: 1289
 - [alexxubyte](https://x.com/alexxubyte/status/2076693603439817057) (2026-07-14)
 - [allen_lattimer](https://x.com/allen_lattimer/status/2095534151810338990) (2026-09-10)
 - [allen_lattimer](https://x.com/allen_lattimer/status/2098802988722815384) (2026-09-13)
+- [allen_lattimer](https://x.com/allen_lattimer/status/2102788618637226032) (2026-09-25)
 - [amankk_9](https://x.com/amankk_9/status/2065336699287429224) (2026-06-12)
 - [amasad](https://x.com/amasad/status/2080371567221944657) (2026-07-25)
 - [ameliahazelai](https://x.com/ameliahazelai/status/2073345751892062531) (2026-07-06)
@@ -788,6 +794,7 @@ total_mentions: 1289
 - [codewithimanshu](https://x.com/codewithimanshu/status/2085659695751299356) (2026-08-09)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2086037593024794972) (2026-08-10)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2086634789801730391) (2026-08-10)
+- [codewithimanshu](https://x.com/codewithimanshu/status/2102949092972482668) (2026-09-25)
 - [codyschneider](https://x.com/codyschneider/status/2081817171202920732) (2026-08-02)
 - [cohere](https://x.com/cohere/status/2064378058329526556) (2026-06-12)
 - [coinbureau](https://x.com/coinbureau/status/2031222262112858286) (2026-06-09)
@@ -882,6 +889,7 @@ total_mentions: 1289
 - [elizaok_bsc](https://x.com/elizaok_bsc/status/2066001664071643412) (2026-06-14)
 - [elonmusk](https://x.com/elonmusk/status/2083029580453966241) (2026-07-31)
 - [elonmusk](https://x.com/elonmusk/status/2086554608348873008) (2026-08-11)
+- [elonmusk](https://x.com/elonmusk/status/2102082011233931762) (2026-09-25)
 - [elora_khatun](https://x.com/elora_khatun/status/2074711871069032615) (2026-07-08)
 - [elune0x](https://x.com/elune0x/status/2081394220275814662) (2026-07-27)
 - [elune0x](https://x.com/elune0x/status/2086565685904211976) (2026-08-15)
@@ -1063,6 +1071,7 @@ total_mentions: 1289
 - [milesdeutscher](https://x.com/milesdeutscher/status/2080865392357208266) (2026-07-25)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2088099793726017834) (2026-08-17)
 - [milocodes_](https://x.com/milocodes_/status/2097527775490101720) (2026-09-10)
+- [miyataArcHack](https://x.com/miyataArcHack/status/2100743410076598752) (2026-09-25)
 - [mnadirghafoor](https://x.com/mnadirghafoor/status/2071098524826268063) (2026-06-28)
 - [mojeskoqq](https://x.com/mojeskoqq/status/2085273824413503536) (2026-08-09)
 - [monmiglobal](https://x.com/monmiglobal/status/2071399421997359236) (2026-06-29)
@@ -1203,6 +1212,7 @@ total_mentions: 1289
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2072154763492544652) (2026-07-01)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2077223722654834863) (2026-07-16)
 - [soumithchintala](https://x.com/soumithchintala/status/2095544501657895312) (2026-09-07)
+- [spectnfa](https://x.com/spectnfa/status/2102093640650588632) (2026-09-25)
 - [splinetool](https://x.com/splinetool/status/2090500256190603636) (2026-08-23)
 - [star_okx](https://x.com/star_okx/status/2071915634401931644) (2026-07-07)
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)

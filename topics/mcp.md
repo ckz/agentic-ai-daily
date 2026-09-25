@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-09-24
-total_mentions: 805
+last_seen: 2026-09-25
+total_mentions: 809
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -423,6 +423,7 @@ total_mentions: 805
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
 - [chenzeling4](https://x.com/chenzeling4/status/2075581564088668195) (2026-07-12)
 - [chetaslua](https://x.com/chetaslua/status/2101520407950237821) (2026-09-20)
+- [chetaslua](https://x.com/chetaslua/status/2102501773705670994) (2026-09-25)
 - [chongdashu](https://x.com/chongdashu/status/2089139349371973645) (2026-08-17)
 - [claudecode84](https://x.com/claudecode84/status/2089916968132575288) (2026-08-21)
 - [claudecode84](https://x.com/claudecode84/status/2099010861822075198) (2026-09-13)
@@ -462,6 +463,7 @@ total_mentions: 805
 - [di_zhang_fdu](https://x.com/di_zhang_fdu/status/2096481849937945012) (2026-09-07)
 - [digital_jpn](https://x.com/digital_jpn/status/2087788744502075801) (2026-08-14)
 - [dipakcgajjar](https://x.com/dipakcgajjar/status/2087424434349162689) (2026-08-12)
+- [ditangongyuan](https://x.com/ditangongyuan/status/2102999175415910662) (2026-09-25)
 - [divaagurlxw](https://x.com/divaagurlxw/status/2087756697469440442) (2026-08-15)
 - [divgarg](https://x.com/divgarg/status/2085452614033105298) (2026-08-07)
 - [dkare1009](https://x.com/dkare1009/status/2073383916832985331) (2026-07-05)
@@ -731,6 +733,7 @@ total_mentions: 805
 - [so_ainsight](https://x.com/so_ainsight/status/2096798121821131192) (2026-09-13)
 - [socialwithaayan](https://x.com/socialwithaayan/status/2094350331484516816) (2026-09-01)
 - [sohmehta](https://x.com/sohmehta/status/2097374528175526083) (2026-09-15)
+- [spect3ral](https://x.com/spect3ral/status/2103214059772363156) (2026-09-25)
 - [splinetool](https://x.com/splinetool/status/2090500256190603636) (2026-08-23)
 - [starmexxx](https://x.com/starmexxx/status/2089399623106355708) (2026-08-18)
 - [stretchcloud](https://x.com/stretchcloud/status/2072215124958740898) (2026-07-01)
@@ -792,6 +795,7 @@ total_mentions: 805
 - [vinayjain404](https://x.com/vinayjain404/status/2084326541631099270) (2026-08-04)
 - [vinayjain404](https://x.com/vinayjain404/status/2085046962777121180) (2026-08-06)
 - [virgilxbt](https://x.com/virgilxbt/status/2092605992953332128) (2026-08-27)
+- [vmg](https://x.com/vmg/status/2103174972357091743) (2026-09-25)
 - [voidwarriorchan](https://x.com/voidwarriorchan/status/2095708889300033590) (2026-09-04)
 - [waveking1314](https://x.com/waveking1314/status/2063261659259400349) (2026-06-07)
 - [waynoir](https://x.com/waynoir/status/2087566812309598287) (2026-08-14)

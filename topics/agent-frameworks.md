@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-09-24
-total_mentions: 497
+last_seen: 2026-09-25
+total_mentions: 500
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -121,6 +121,7 @@ total_mentions: 497
 - [GoogleCloud_IL](https://x.com/GoogleCloud_IL/status/2075120271111954818) (2026-07-09)
 - [GoogleCloud_IL](https://x.com/GoogleCloud_IL/status/2079831311980564832) (2026-07-22)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
+- [GoogleResearch](https://x.com/GoogleResearch/status/2103208899650437286) (2026-09-25)
 - [GpaAndy](https://x.com/GpaAndy/status/2101129153172910212) (2026-09-20)
 - [Gustafssonkotte](https://x.com/Gustafssonkotte/status/2082309711785849067) (2026-08-01)
 - [HackingDave](https://x.com/HackingDave/status/2069146467701256423) (2026-06-29)
@@ -239,6 +240,7 @@ total_mentions: 497
 - [Yuchenj_UW](https://x.com/Yuchenj_UW/status/2070928299744972814) (2026-06-30)
 - [Zev_ee](https://x.com/Zev_ee/status/2068562546601476174) (2026-06-21)
 - [Ziven_Coder](https://x.com/Ziven_Coder/status/2078482313986642122) (2026-07-30)
+- [_LuoFuli](https://x.com/_LuoFuli/status/2102162926802968749) (2026-09-25)
 - [_akhaliq](https://x.com/_akhaliq/status/2072347990337954042) (2026-07-03)
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
 - [_avichawla](https://x.com/_avichawla/status/2076952441728459082) (2026-07-15)
@@ -308,6 +310,7 @@ total_mentions: 497
 - [codewithimanshu](https://x.com/codewithimanshu/status/2076962984216412342) (2026-07-15)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2079864840055902389) (2026-07-23)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2082038438803738759) (2026-07-30)
+- [codewithimanshu](https://x.com/codewithimanshu/status/2102949092972482668) (2026-09-25)
 - [codyschneider](https://x.com/codyschneider/status/2095934965049360760) (2026-09-06)
 - [coinbureau](https://x.com/coinbureau/status/2031222262112858286) (2026-06-09)
 - [coreyganim](https://x.com/coreyganim/status/2074426194418926020) (2026-07-08)

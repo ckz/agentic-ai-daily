@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-09-24
-total_mentions: 310
+last_seen: 2026-09-25
+total_mentions: 313
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -95,6 +95,7 @@ total_mentions: 310
 - [GoogleAI](https://x.com/GoogleAI/status/2062942864288387430) (2026-06-06)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2074384746076135575) (2026-07-07)
+- [GoogleResearch](https://x.com/GoogleResearch/status/2103208899650437286) (2026-09-25)
 - [GoshawkTrades](https://x.com/GoshawkTrades/status/2099540726216597900) (2026-09-16)
 - [GpaAndy](https://x.com/GpaAndy/status/2101129153172910212) (2026-09-20)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
@@ -142,6 +143,7 @@ total_mentions: 310
 - [SakanaAILabs](https://x.com/SakanaAILabs/status/2077528494775603313) (2026-07-16)
 - [SakanaAILabs](https://x.com/SakanaAILabs/status/2098233826816205275) (2026-09-11)
 - [SatOnchain](https://x.com/SatOnchain/status/2083859468560048472) (2026-08-04)
+- [ScienceMagazine](https://x.com/ScienceMagazine/status/2103339484787933562) (2026-09-25)
 - [Skoorbkaz](https://x.com/Skoorbkaz/status/2089459332173689292) (2026-08-24)
 - [SolanaHub_](https://x.com/SolanaHub_/status/2008992037417185560) (2026-07-10)
 - [SolanaHub_](https://x.com/SolanaHub_/status/2011906234765754646) (2026-07-10)
@@ -181,6 +183,7 @@ total_mentions: 310
 - [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)
 - [antigravity](https://x.com/antigravity/status/2070930161785069927) (2026-06-29)
 - [antpalkin](https://x.com/antpalkin/status/2083984184637374655) (2026-08-03)
+- [antpalkin](https://x.com/antpalkin/status/2102103070112936071) (2026-09-25)
 - [appliedcompute](https://x.com/appliedcompute/status/2082197728243880226) (2026-08-03)
 - [asmah2107](https://x.com/asmah2107/status/2062870047903605109) (2026-06-06)
 - [beamnxw](https://x.com/beamnxw/status/2081324327899746541) (2026-08-02)

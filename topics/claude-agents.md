@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-24
-total_mentions: 231
+last_seen: 2026-09-25
+total_mentions: 234
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -21,6 +21,7 @@ total_mentions: 231
 - [AISecurityInst](https://x.com/AISecurityInst/status/2084746202579386632) (2026-08-06)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2095414392557068291) (2026-09-04)
 - [AdelDeveloperX](https://x.com/AdelDeveloperX/status/2074195359199375745) (2026-07-07)
+- [AiForAmericans](https://x.com/AiForAmericans/status/2102751457279918346) (2026-09-25)
 - [AleksDoesCode](https://x.com/AleksDoesCode/status/2100500636940849250) (2026-09-20)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2076720209293893677) (2026-07-14)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2065054167677170033) (2026-06-12)
@@ -90,6 +91,7 @@ total_mentions: 231
 - [RLanceMartin](https://x.com/RLanceMartin/status/2102575471502528989) (2026-09-24)
 - [RegalosDigitals](https://x.com/RegalosDigitals/status/2071263024212508813) (2026-06-29)
 - [Revolt_Fi](https://x.com/Revolt_Fi/status/2079266777163522467) (2026-07-21)
+- [RohOnChain](https://x.com/RohOnChain/status/2102790572281139213) (2026-09-25)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2074618209073078367) (2026-07-08)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2080046477322105256) (2026-07-23)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2093183037475536942) (2026-08-28)
@@ -140,6 +142,7 @@ total_mentions: 231
 - [codewithimanshu](https://x.com/codewithimanshu/status/2076962984216412342) (2026-07-15)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2079864840055902389) (2026-07-23)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2082038438803738759) (2026-07-30)
+- [codewithimanshu](https://x.com/codewithimanshu/status/2102949092972482668) (2026-09-25)
 - [composio](https://x.com/composio/status/2085330847951970801) (2026-08-07)
 - [coreyganim](https://x.com/coreyganim/status/2095635699739554173) (2026-09-04)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1879706901170077978) (2026-06-11)

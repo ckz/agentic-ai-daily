@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-24
-total_mentions: 534
+last_seen: 2026-09-25
+total_mentions: 537
 
 ## Related Tweets
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
@@ -131,6 +131,7 @@ total_mentions: 534
 - [MollySOShea](https://x.com/MollySOShea/status/2099495482775289908) (2026-09-15)
 - [Motionsbyeddy](https://x.com/Motionsbyeddy/status/2071694912597479912) (2026-07-02)
 - [NFT_Chen](https://x.com/NFT_Chen/status/2090276530962461131) (2026-08-22)
+- [NKLinhzk](https://x.com/NKLinhzk/status/2102924602301350339) (2026-09-25)
 - [NextLvlFunded](https://x.com/NextLvlFunded/status/2061795412986728637) (2026-06-05)
 - [Nim_Ravid1](https://x.com/Nim_Ravid1/status/2077785419912188236) (2026-07-17)
 - [Nitaj333](https://x.com/Nitaj333/status/2093342512911925392) (2026-08-29)
@@ -323,6 +324,7 @@ total_mentions: 534
 - [ethancole_ai](https://x.com/ethancole_ai/status/2090849492530512046) (2026-08-22)
 - [ethereum](https://x.com/ethereum/status/2079217433059996150) (2026-07-23)
 - [fado_fft](https://x.com/fado_fft/status/2101366268137721992) (2026-09-20)
+- [featherrobotics](https://x.com/featherrobotics/status/2103199788217057728) (2026-09-25)
 - [fin465](https://x.com/fin465/status/2079993565019795637) (2026-07-25)
 - [fin465](https://x.com/fin465/status/2081459766287888794) (2026-07-27)
 - [fin465](https://x.com/fin465/status/2088287274727301259) (2026-08-15)
@@ -391,6 +393,7 @@ total_mentions: 534
 - [kseniam0s](https://x.com/kseniam0s/status/2099593754659459507) (2026-09-16)
 - [kseniam0s](https://x.com/kseniam0s/status/2099928304786829692) (2026-09-16)
 - [lami_thefirst](https://x.com/lami_thefirst/status/2097224273853129017) (2026-09-08)
+- [levelsio](https://x.com/levelsio/status/2102739359715774665) (2026-09-25)
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
 - [lightspeedvp](https://x.com/lightspeedvp/status/2070182060224852105) (2026-06-27)
 - [maheerpips](https://x.com/maheerpips/status/2102658482142949518) (2026-09-23)
