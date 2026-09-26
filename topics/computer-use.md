@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-09-25
-total_mentions: 119
+last_seen: 2026-09-26
+total_mentions: 123
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -10,6 +10,7 @@ total_mentions: 119
 - [AdamShao](https://x.com/AdamShao/status/2097111709076910081) (2026-09-11)
 - [AlejandroRomaan](https://x.com/AlejandroRomaan/status/2096610078837141569) (2026-09-08)
 - [AriX](https://x.com/AriX/status/2075282339782095163) (2026-07-13)
+- [Azaliamirh](https://x.com/Azaliamirh/status/2102958024323428362) (2026-09-26)
 - [Bha74142Shivani](https://x.com/Bha74142Shivani/status/2087441456726524324) (2026-08-12)
 - [BuildwithOmkarr](https://x.com/BuildwithOmkarr/status/2102603427297755264) (2026-09-23)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2064410897486160099) (2026-06-10)
@@ -42,6 +43,7 @@ total_mentions: 119
 - [RhysSullivan](https://x.com/RhysSullivan/status/2099970035137794430) (2026-09-16)
 - [Ric_RTP](https://x.com/Ric_RTP/status/2089132632332251293) (2026-08-17)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2090382081209909576) (2026-08-26)
+- [RoundtableSpace](https://x.com/RoundtableSpace/status/2103533741251416342) (2026-09-26)
 - [SamSokolin](https://x.com/SamSokolin/status/2094824011427373415) (2026-09-03)
 - [SimularAI](https://x.com/SimularAI/status/2093009990663434361) (2026-08-28)
 - [SkyeSharkie](https://x.com/SkyeSharkie/status/2092122622834442581) (2026-08-29)
@@ -97,6 +99,7 @@ total_mentions: 119
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2073646837894992126) (2026-07-05)
 - [markchen90](https://x.com/markchen90/status/2095597534412673109) (2026-09-04)
 - [martin_casado](https://x.com/martin_casado/status/2096648261759389983) (2026-09-07)
+- [mattdeitke](https://x.com/mattdeitke/status/2102912355638382997) (2026-09-26)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2098738486014537803) (2026-09-13)
 - [mikoto2000](https://x.com/mikoto2000/status/2099270333522186365) (2026-09-14)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2075469825514824153) (2026-07-10)
@@ -121,6 +124,7 @@ total_mentions: 119
 - [trycua](https://x.com/trycua/status/2100649543079502213) (2026-09-20)
 - [trycua](https://x.com/trycua/status/2101014004927729737) (2026-09-19)
 - [trycua](https://x.com/trycua/status/2102800643794591833) (2026-09-24)
+- [trycua](https://x.com/trycua/status/2103498682532253734) (2026-09-26)
 - [wallstengine](https://x.com/wallstengine/status/2094155293261435063) (2026-09-01)
 - [wuyang_zhou](https://x.com/wuyang_zhou/status/2096548032128942370) (2026-09-11)
 - [zcode_ai](https://x.com/zcode_ai/status/2092635718766215590) (2026-08-27)

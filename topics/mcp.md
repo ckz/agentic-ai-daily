@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-09-25
-total_mentions: 809
+last_seen: 2026-09-26
+total_mentions: 817
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -82,6 +82,7 @@ total_mentions: 809
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2077489907350856038) (2026-07-16)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2082164248697069935) (2026-07-29)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2091953609185657251) (2026-08-25)
+- [ClaudeDevs](https://x.com/ClaudeDevs/status/2103577007938228300) (2026-09-26)
 - [Clawnch_Bot](https://x.com/Clawnch_Bot/status/2069463550788067626) (2026-06-29)
 - [Cloudflare](https://x.com/Cloudflare/status/2072311802285723953) (2026-07-04)
 - [Codestudiopjbk](https://x.com/Codestudiopjbk/status/2099855757600756008) (2026-09-18)
@@ -197,6 +198,7 @@ total_mentions: 809
 - [MoureDev](https://x.com/MoureDev/status/2092961532766212193) (2026-09-03)
 - [MrDasOnX](https://x.com/MrDasOnX/status/2066029379512418431) (2026-06-14)
 - [MrOnsase](https://x.com/MrOnsase/status/2081599328058253340) (2026-07-27)
+- [MrOnsase](https://x.com/MrOnsase/status/2103541968219570688) (2026-09-26)
 - [N01ennn](https://x.com/N01ennn/status/2088606747531358505) (2026-08-21)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
 - [Nekt_0](https://x.com/Nekt_0/status/2066148234368524692) (2026-06-15)
@@ -208,6 +210,7 @@ total_mentions: 809
 - [NousResearch](https://x.com/NousResearch/status/2078168128693977291) (2026-07-19)
 - [NousResearch](https://x.com/NousResearch/status/2092326815193055681) (2026-08-27)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2085398373511918022) (2026-08-07)
+- [OpenCodeLog](https://x.com/OpenCodeLog/status/2102579844521328822) (2026-09-26)
 - [OpenRouter](https://x.com/OpenRouter/status/2070160491360780798) (2026-06-27)
 - [OpenRouter](https://x.com/OpenRouter/status/2070630667663163875) (2026-06-27)
 - [OptimaiNetwork](https://x.com/OptimaiNetwork/status/2064012781658009804) (2026-06-09)
@@ -363,6 +366,7 @@ total_mentions: 809
 - [alexxubyte](https://x.com/alexxubyte/status/2094432042251604427) (2026-09-06)
 - [amasad](https://x.com/amasad/status/2080371567221944657) (2026-07-25)
 - [ameliahazelai](https://x.com/ameliahazelai/status/2073345751892062531) (2026-07-06)
+- [amisha_explains](https://x.com/amisha_explains/status/2103526005193199869) (2026-09-26)
 - [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)
 - [amplifiedamp](https://x.com/amplifiedamp/status/2091639162122211601) (2026-08-24)
 - [andrelandgraf](https://x.com/andrelandgraf/status/2097425311545897174) (2026-09-14)
@@ -501,6 +505,7 @@ total_mentions: 809
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2064019609062101321) (2026-06-09)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2077696199486775764) (2026-07-18)
 - [epicmnw](https://x.com/epicmnw/status/2065311091027251222) (2026-06-12)
+- [ericzakariasson](https://x.com/ericzakariasson/status/2102853511637774551) (2026-09-26)
 - [evanjconrad](https://x.com/evanjconrad/status/2084819797133721679) (2026-08-06)
 - [evisdrenova](https://x.com/evisdrenova/status/2068551161263894776) (2026-06-21)
 - [expertwith_AI](https://x.com/expertwith_AI/status/2070094109109567845) (2026-06-27)
@@ -565,6 +570,7 @@ total_mentions: 809
 - [itsolelehmann](https://x.com/itsolelehmann/status/2064393407771095518) (2026-06-10)
 - [jacob_posel](https://x.com/jacob_posel/status/2079249123794972827) (2026-07-22)
 - [jaimintf](https://x.com/jaimintf/status/2098137053821071642) (2026-09-11)
+- [jaimintf](https://x.com/jaimintf/status/2103529624257073238) (2026-09-26)
 - [jerryjliu0](https://x.com/jerryjliu0/status/2091564183922077885) (2026-08-24)
 - [jescalan](https://x.com/jescalan/status/2098166165000306728) (2026-09-11)
 - [jkudish](https://x.com/jkudish/status/2100413576284712999) (2026-09-23)
@@ -676,6 +682,7 @@ total_mentions: 809
 - [rauchg](https://x.com/rauchg/status/2096065378598441431) (2026-09-07)
 - [ravikiran_dev7](https://x.com/ravikiran_dev7/status/2089558898886021423) (2026-08-18)
 - [rebel0x0](https://x.com/rebel0x0/status/2067186712758071385) (2026-06-19)
+- [res1dualedge](https://x.com/res1dualedge/status/2103237038778835331) (2026-09-26)
 - [ridark_eth](https://x.com/ridark_eth/status/2066216714644111431) (2026-06-15)
 - [ridark_eth](https://x.com/ridark_eth/status/2070966184967864667) (2026-06-29)
 - [ridark_eth](https://x.com/ridark_eth/status/2074254440861753628) (2026-07-07)
@@ -702,6 +709,7 @@ total_mentions: 809
 - [sairahul1](https://x.com/sairahul1/status/2078004461218484440) (2026-07-18)
 - [sairahul1](https://x.com/sairahul1/status/2079929959959998829) (2026-07-23)
 - [sairahul1](https://x.com/sairahul1/status/2084557703226036536) (2026-08-05)
+- [sairahul1](https://x.com/sairahul1/status/2102100799212146720) (2026-09-26)
 - [sakhil_ai](https://x.com/sakhil_ai/status/2067798126279397885) (2026-06-19)
 - [samgrows](https://x.com/samgrows/status/2088347296014446772) (2026-08-16)
 - [sanjeevSab17827](https://x.com/sanjeevSab17827/status/2096081496448913595) (2026-09-05)

@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-25
-total_mentions: 1299
+last_seen: 2026-09-26
+total_mentions: 1305
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -180,6 +180,7 @@ total_mentions: 1299
 - [Av1dlive](https://x.com/Av1dlive/status/2097639365644279857) (2026-09-10)
 - [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2067914133576749325) (2026-06-21)
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
+- [Azaliamirh](https://x.com/Azaliamirh/status/2102958024323428362) (2026-09-26)
 - [BSCNews](https://x.com/BSCNews/status/2075215645785141282) (2026-07-10)
 - [BSCNews](https://x.com/BSCNews/status/2085378308858868014) (2026-08-08)
 - [Badtheorylabs](https://x.com/Badtheorylabs/status/2085359932900082039) (2026-08-08)
@@ -218,6 +219,7 @@ total_mentions: 1299
 - [Cloudflare](https://x.com/Cloudflare/status/2065279639535456392) (2026-06-12)
 - [Cloudflare](https://x.com/Cloudflare/status/2083947187457667276) (2026-08-04)
 - [Coinmaster100x](https://x.com/Coinmaster100x/status/2092835612827300333) (2026-08-27)
+- [Coinmaster100x](https://x.com/Coinmaster100x/status/2102690846147572021) (2026-09-26)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2081565399347323127) (2026-08-02)
 - [Cortex_Network_](https://x.com/Cortex_Network_/status/2071913826216554612) (2026-07-01)
 - [Cortex_Network_](https://x.com/Cortex_Network_/status/2075590628134760625) (2026-07-11)
@@ -351,6 +353,7 @@ total_mentions: 1299
 - [JCMH_ETH](https://x.com/JCMH_ETH/status/2076935191226916990) (2026-07-14)
 - [JJEnglert](https://x.com/JJEnglert/status/2064420538798260388) (2026-06-10)
 - [Jadzo1_](https://x.com/Jadzo1_/status/2072437174071636126) (2026-07-02)
+- [JasonPLowery](https://x.com/JasonPLowery/status/2103619213579653220) (2026-09-26)
 - [JessicaMetaEra](https://x.com/JessicaMetaEra/status/2068553406206341418) (2026-06-21)
 - [Jiacheng_Miao](https://x.com/Jiacheng_Miao/status/2100296661427999222) (2026-09-17)
 - [Joeyy_0x](https://x.com/Joeyy_0x/status/2079565467963068586) (2026-07-22)
@@ -701,6 +704,7 @@ total_mentions: 1299
 - [amankk_9](https://x.com/amankk_9/status/2065336699287429224) (2026-06-12)
 - [amasad](https://x.com/amasad/status/2080371567221944657) (2026-07-25)
 - [ameliahazelai](https://x.com/ameliahazelai/status/2073345751892062531) (2026-07-06)
+- [amisha_explains](https://x.com/amisha_explains/status/2103526005193199869) (2026-09-26)
 - [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2074651564136894627) (2026-07-08)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2077570810978463823) (2026-07-16)
@@ -1114,6 +1118,7 @@ total_mentions: 1299
 - [opentensor](https://x.com/opentensor/status/2078858375081627985) (2026-07-21)
 - [opheliaapi](https://x.com/opheliaapi/status/2064413598131126526) (2026-06-11)
 - [orbiodotso](https://x.com/orbiodotso/status/2094805455352836138) (2026-09-03)
+- [orbiodotso](https://x.com/orbiodotso/status/2103545168423227835) (2026-09-26)
 - [orbiteditor](https://x.com/orbiteditor/status/2075064330325041395) (2026-07-09)
 - [ordo_chain](https://x.com/ordo_chain/status/2073312746381181174) (2026-07-04)
 - [ox_aryan1](https://x.com/ox_aryan1/status/2096104089600000320) (2026-09-05)
@@ -1137,6 +1142,7 @@ total_mentions: 1299
 - [remp0x](https://x.com/remp0x/status/2065261778682937639) (2026-06-12)
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)
 - [res1dualedge](https://x.com/res1dualedge/status/2102492495674221032) (2026-09-24)
+- [res1dualedge](https://x.com/res1dualedge/status/2103237038778835331) (2026-09-26)
 - [rewind02](https://x.com/rewind02/status/2062914280681271627) (2026-06-05)
 - [rewind02](https://x.com/rewind02/status/2083141563077574747) (2026-08-05)
 - [richardabish_ai](https://x.com/richardabish_ai/status/2065312390523359485) (2026-06-12)

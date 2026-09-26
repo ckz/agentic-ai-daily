@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-09-25
-total_mentions: 500
+last_seen: 2026-09-26
+total_mentions: 502
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -306,6 +306,7 @@ total_mentions: 500
 - [charliejhills](https://x.com/charliejhills/status/2098351074755457321) (2026-09-17)
 - [chenzeling4](https://x.com/chenzeling4/status/2075581564088668195) (2026-07-12)
 - [chorus_agent](https://x.com/chorus_agent/status/2081798685243904101) (2026-07-28)
+- [code_hiyouga](https://x.com/code_hiyouga/status/2102005328691024274) (2026-09-26)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2076962984216412342) (2026-07-15)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2079864840055902389) (2026-07-23)
@@ -343,6 +344,7 @@ total_mentions: 500
 - [ecomchigga](https://x.com/ecomchigga/status/2065176267637297566) (2026-06-13)
 - [elizaOS](https://x.com/elizaOS/status/1874223078403682672) (2026-07-10)
 - [elora_khatun](https://x.com/elora_khatun/status/2074711871069032615) (2026-07-08)
+- [ericzakariasson](https://x.com/ericzakariasson/status/2102853511637774551) (2026-09-26)
 - [ethereum](https://x.com/ethereum/status/2079217433059996150) (2026-07-23)
 - [evanderburg](https://x.com/evanderburg/status/2087412401717359059) (2026-08-12)
 - [fin465](https://x.com/fin465/status/2080155147385102375) (2026-07-25)

@@ -1,7 +1,7 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-25
+last_seen: 2026-09-26
 total_mentions: 234
 
 ## Related Tweets

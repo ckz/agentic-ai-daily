@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-25
-total_mentions: 537
+last_seen: 2026-09-26
+total_mentions: 543
 
 ## Related Tweets
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
@@ -68,6 +68,7 @@ total_mentions: 537
 - [Dhruvam987](https://x.com/Dhruvam987/status/2067811478485582025) (2026-06-19)
 - [Dylan_txa_](https://x.com/Dylan_txa_/status/2095140253149352266) (2026-09-03)
 - [Dylan_txa_](https://x.com/Dylan_txa_/status/2095443899015663890) (2026-09-05)
+- [Emiliano0o0o0o0](https://x.com/Emiliano0o0o0o0/status/2102182430153007232) (2026-09-26)
 - [EricTrump](https://x.com/EricTrump/status/2095360389227630607) (2026-09-14)
 - [EthenaFndtn](https://x.com/EthenaFndtn/status/2092976592738001383) (2026-08-28)
 - [FT](https://x.com/FT/status/2092858183907741818) (2026-08-30)
@@ -182,6 +183,7 @@ total_mentions: 537
 - [Sheema_bakhtiar](https://x.com/Sheema_bakhtiar/status/2064945268563546427) (2026-06-11)
 - [Sherl2718](https://x.com/Sherl2718/status/2100323661542494278) (2026-09-20)
 - [Solvaix](https://x.com/Solvaix/status/2083282682746704013) (2026-08-02)
+- [SpamRoss](https://x.com/SpamRoss/status/2102750773612253585) (2026-09-26)
 - [SpikeCalls](https://x.com/SpikeCalls/status/2063529090091532540) (2026-06-08)
 - [StartupArchive_](https://x.com/StartupArchive_/status/2061052571876520406) (2026-06-07)
 - [Steve8708](https://x.com/Steve8708/status/2041909436059615442) (2026-06-06)
@@ -246,6 +248,7 @@ total_mentions: 537
 - [anuraggoel](https://x.com/anuraggoel/status/2069218653137142074) (2026-06-30)
 - [anushankjain](https://x.com/anushankjain/status/2099371656833896850) (2026-09-15)
 - [apnmrev](https://x.com/apnmrev/status/2082074585017823365) (2026-07-30)
+- [araseb_](https://x.com/araseb_/status/2103436900560261564) (2026-09-26)
 - [artchad](https://x.com/artchad/status/2090555717875015956) (2026-08-23)
 - [arthur__penn](https://x.com/arthur__penn/status/2074352731238916503) (2026-07-07)
 - [ashikruben369](https://x.com/ashikruben369/status/2083601432507478089) (2026-08-02)
@@ -407,6 +410,7 @@ total_mentions: 537
 - [margelo_com](https://x.com/margelo_com/status/2092310982710235294) (2026-08-28)
 - [markiewagner](https://x.com/markiewagner/status/2064778239164461316) (2026-06-11)
 - [marorhab](https://x.com/marorhab/status/2063163950850609431) (2026-06-06)
+- [mattdeitke](https://x.com/mattdeitke/status/2102912355638382997) (2026-09-26)
 - [mattpocockuk](https://x.com/mattpocockuk/status/2091434155561107647) (2026-08-26)
 - [mcuban](https://x.com/mcuban/status/2088787419906576436) (2026-08-18)
 - [mhp_guy](https://x.com/mhp_guy/status/2064453575594664169) (2026-06-12)
@@ -453,6 +457,7 @@ total_mentions: 537
 - [realDonaldTrump](https://x.com/realDonaldTrump/status/1007671131841671169) (2026-09-23)
 - [realDonaldTrump](https://x.com/realDonaldTrump/status/1925548216243703820) (2026-09-23)
 - [realEstateTrent](https://x.com/realEstateTrent/status/2096996751013982458) (2026-09-08)
+- [rexan_wong](https://x.com/rexan_wong/status/2103707054108299437) (2026-09-26)
 - [richtosho](https://x.com/richtosho/status/2078797686451409133) (2026-07-26)
 - [richtosho](https://x.com/richtosho/status/2080930554782830700) (2026-07-31)
 - [ridark_eth](https://x.com/ridark_eth/status/2068120584047804649) (2026-06-20)
@@ -472,6 +477,7 @@ total_mentions: 537
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [sairahul1](https://x.com/sairahul1/status/2075934382284484997) (2026-07-14)
 - [samsenchal](https://x.com/samsenchal/status/2068605085089693994) (2026-06-21)
+- [samuelcolvin](https://x.com/samuelcolvin/status/2103469459981619243) (2026-09-26)
 - [sean_wallace_](https://x.com/sean_wallace_/status/2063994540873433201) (2026-06-09)
 - [sethbannon](https://x.com/sethbannon/status/2097738103989645725) (2026-09-10)
 - [sflorimm](https://x.com/sflorimm/status/2087060630696042736) (2026-08-14)
