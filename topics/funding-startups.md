@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-26
-total_mentions: 543
+last_seen: 2026-09-27
+total_mentions: 550
 
 ## Related Tweets
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
@@ -89,6 +89,7 @@ total_mentions: 543
 - [GrantWarr1](https://x.com/GrantWarr1/status/2099136532477055246) (2026-09-14)
 - [GrishinRobotics](https://x.com/GrishinRobotics/status/2067880410676187569) (2026-06-19)
 - [HVemasani](https://x.com/HVemasani/status/2089593578473574842) (2026-08-20)
+- [HarryStebbings](https://x.com/HarryStebbings/status/2103865670081384790) (2026-09-27)
 - [Hartdrawss](https://x.com/Hartdrawss/status/2096591974685946168) (2026-09-07)
 - [HedgieMarkets](https://x.com/HedgieMarkets/status/2096738798075830516) (2026-09-12)
 - [Helion_Energy](https://x.com/Helion_Energy/status/2062554317564108825) (2026-06-07)
@@ -105,6 +106,7 @@ total_mentions: 543
 - [JasonL_Capital](https://x.com/JasonL_Capital/status/2082434168235954267) (2026-08-05)
 - [JensenHuang](https://x.com/JensenHuang/status/2095482647355244762) (2026-09-05)
 - [JonathanGeige18](https://x.com/JonathanGeige18/status/2088972748953461219) (2026-08-17)
+- [KGeNazeemali12](https://x.com/KGeNazeemali12/status/2104059721334632768) (2026-09-27)
 - [Kalshi](https://x.com/Kalshi/status/2087547153736446426) (2026-08-14)
 - [Kappaemme1926](https://x.com/Kappaemme1926/status/2076637778734153857) (2026-07-14)
 - [Kavya_learns](https://x.com/Kavya_learns/status/2090383561635639754) (2026-08-21)
@@ -295,6 +297,7 @@ total_mentions: 543
 - [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
 - [codyschneider](https://x.com/codyschneider/status/2081817171202920732) (2026-08-02)
 - [codyschneider](https://x.com/codyschneider/status/2084369982918406433) (2026-08-04)
+- [codyschneider](https://x.com/codyschneider/status/2103907470322143521) (2026-09-27)
 - [coinbureau](https://x.com/coinbureau/status/2098641504767983918) (2026-09-13)
 - [coingecko](https://x.com/coingecko/status/2064572347433075107) (2026-06-10)
 - [coreyganim](https://x.com/coreyganim/status/2084312288786276484) (2026-08-04)
@@ -302,6 +305,7 @@ total_mentions: 543
 - [creem_io](https://x.com/creem_io/status/2100479871466020889) (2026-09-20)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1872809091799875592) (2026-06-29)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2076868034812096748) (2026-07-14)
+- [danmall](https://x.com/danmall/status/2103615627323727941) (2026-09-27)
 - [darbyw](https://x.com/darbyw/status/2092718828405096955) (2026-08-27)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [davidsenra](https://x.com/davidsenra/status/2093170027390222611) (2026-08-31)
@@ -309,6 +313,7 @@ total_mentions: 543
 - [deedydas](https://x.com/deedydas/status/2099880100770849001) (2026-09-16)
 - [deedydas](https://x.com/deedydas/status/2100287208209146309) (2026-09-19)
 - [deedydas](https://x.com/deedydas/status/2102787937482252537) (2026-09-24)
+- [deedydas](https://x.com/deedydas/status/2103903382822089010) (2026-09-27)
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
 - [dharmesh](https://x.com/dharmesh/status/2093071931188597042) (2026-08-28)
 - [dhh](https://x.com/dhh/status/2086590006898958752) (2026-08-13)
@@ -324,6 +329,7 @@ total_mentions: 543
 - [elonmusk](https://x.com/elonmusk/status/2071652181854343349) (2026-07-04)
 - [elonmusk](https://x.com/elonmusk/status/2071673460779041155) (2026-07-02)
 - [ericgudboy](https://x.com/ericgudboy/status/2073282068235321743) (2026-07-04)
+- [eriktorenberg](https://x.com/eriktorenberg/status/2103493671866060958) (2026-09-27)
 - [ethancole_ai](https://x.com/ethancole_ai/status/2090849492530512046) (2026-08-22)
 - [ethereum](https://x.com/ethereum/status/2079217433059996150) (2026-07-23)
 - [fado_fft](https://x.com/fado_fft/status/2101366268137721992) (2026-09-20)
@@ -469,6 +475,7 @@ total_mentions: 543
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2095311437677883490) (2026-09-03)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2096117661172384137) (2026-09-07)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2098655241453687123) (2026-09-12)
+- [royaltymsc](https://x.com/royaltymsc/status/2103765261954502989) (2026-09-27)
 - [rsngprad](https://x.com/rsngprad/status/2072630117218791745) (2026-07-05)
 - [rtwlz](https://x.com/rtwlz/status/2099608957698617356) (2026-09-15)
 - [s1rozha_](https://x.com/s1rozha_/status/2087132684514455625) (2026-08-12)

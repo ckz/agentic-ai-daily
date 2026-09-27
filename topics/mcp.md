@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-09-26
-total_mentions: 817
+last_seen: 2026-09-27
+total_mentions: 820
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -141,6 +141,7 @@ total_mentions: 817
 - [GitTrend0x](https://x.com/GitTrend0x/status/2085190556674904253) (2026-08-07)
 - [GithubProjects](https://x.com/GithubProjects/status/2063327571698434443) (2026-06-07)
 - [He1s_Sammy](https://x.com/He1s_Sammy/status/2091799479720497402) (2026-08-28)
+- [HexRaysSA](https://x.com/HexRaysSA/status/2103896696027807843) (2026-09-27)
 - [HeyAbhishek](https://x.com/HeyAbhishek/status/2093718063946637316) (2026-08-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
@@ -435,6 +436,7 @@ total_mentions: 817
 - [coder_surya](https://x.com/coder_surya/status/2068597286230163759) (2026-06-21)
 - [coder_surya](https://x.com/coder_surya/status/2074093504188600351) (2026-07-07)
 - [codyschneider](https://x.com/codyschneider/status/2084369982918406433) (2026-08-04)
+- [codyschneider](https://x.com/codyschneider/status/2103907470322143521) (2026-09-27)
 - [coinbureau](https://x.com/coinbureau/status/2093435450681909687) (2026-08-29)
 - [coledermo](https://x.com/coledermo/status/2093020717902176637) (2026-09-02)
 - [contextconor](https://x.com/contextconor/status/2092130691937157483) (2026-08-25)
@@ -522,6 +524,7 @@ total_mentions: 817
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2087449332119134430) (2026-08-19)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2087510073853481001) (2026-08-16)
 - [garrytan](https://x.com/garrytan/status/2099876434114494962) (2026-09-17)
+- [gavinpurcell](https://x.com/gavinpurcell/status/2103304514329854102) (2026-09-27)
 - [gippp69](https://x.com/gippp69/status/2061110941509419435) (2026-06-07)
 - [gippp69](https://x.com/gippp69/status/2088997859400032707) (2026-08-17)
 - [gippp69](https://x.com/gippp69/status/2089315791669805154) (2026-08-18)

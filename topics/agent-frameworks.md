@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-09-26
-total_mentions: 502
+last_seen: 2026-09-27
+total_mentions: 506
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -23,6 +23,7 @@ total_mentions: 502
 - [APompliano](https://x.com/APompliano/status/2079571863642984883) (2026-07-25)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2088179625642152198) (2026-08-17)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2095414392557068291) (2026-09-04)
+- [AaronxShepherd](https://x.com/AaronxShepherd/status/2103922782400590334) (2026-09-27)
 - [AiCamila_](https://x.com/AiCamila_/status/2076911076885823887) (2026-07-15)
 - [AiNicolas75316](https://x.com/AiNicolas75316/status/2079199374819914080) (2026-07-22)
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2073021437963825410) (2026-07-05)
@@ -128,6 +129,7 @@ total_mentions: 502
 - [HarryBee_Yhu](https://x.com/HarryBee_Yhu/status/2067864020527292535) (2026-06-19)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
+- [HowToPrompt__](https://x.com/HowToPrompt__/status/2103804240866976237) (2026-09-27)
 - [Huawei](https://x.com/Huawei/status/2064239307838419399) (2026-06-09)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2068205769002991901) (2026-06-20)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2070489753573548365) (2026-07-03)
@@ -483,6 +485,8 @@ total_mentions: 502
 - [techNmak](https://x.com/techNmak/status/2091434187446439969) (2026-08-24)
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)
 - [the_osps](https://x.com/the_osps/status/2097194727401717808) (2026-09-08)
+- [thegreatest_sv](https://x.com/thegreatest_sv/status/2103095101165633624) (2026-09-27)
+- [themahmud5](https://x.com/themahmud5/status/2104070146709168142) (2026-09-27)
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)
 - [tom_doerr](https://x.com/tom_doerr/status/2066365949926629733) (2026-06-15)
 - [tom_doerr](https://x.com/tom_doerr/status/2071321553296412706) (2026-07-01)

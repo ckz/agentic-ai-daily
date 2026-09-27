@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-26
-total_mentions: 234
+last_seen: 2026-09-27
+total_mentions: 236
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -173,6 +173,7 @@ total_mentions: 234
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2061821319034143172) (2026-06-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2062244858686009455) (2026-06-08)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2087449332119134430) (2026-08-19)
+- [gavinpurcell](https://x.com/gavinpurcell/status/2103304514329854102) (2026-09-27)
 - [gippp69](https://x.com/gippp69/status/2088943002467115352) (2026-08-17)
 - [gokulr](https://x.com/gokulr/status/2062638283100930085) (2026-06-08)
 - [gokulr](https://x.com/gokulr/status/2071692278582890889) (2026-08-02)
@@ -201,6 +202,7 @@ total_mentions: 234
 - [mikefutia](https://x.com/mikefutia/status/2069488510424531371) (2026-06-27)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2072358721821221212) (2026-07-02)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2079276004430713195) (2026-07-21)
+- [mikenevermiss](https://x.com/mikenevermiss/status/2103853848431595593) (2026-09-27)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2080763866200645792) (2026-07-25)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2089509583312339450) (2026-08-18)
 - [mojeskoqq](https://x.com/mojeskoqq/status/2085273824413503536) (2026-08-09)

@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-26
-total_mentions: 1305
+last_seen: 2026-09-27
+total_mentions: 1317
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -60,6 +60,7 @@ total_mentions: 1305
 - [0xMovez](https://x.com/0xMovez/status/2098512033675141286) (2026-09-13)
 - [0xRiRoyal](https://x.com/0xRiRoyal/status/2085228220841083125) (2026-08-06)
 - [0xRiRoyal](https://x.com/0xRiRoyal/status/2101894204758839756) (2026-09-21)
+- [0xRiRoyal](https://x.com/0xRiRoyal/status/2103713431786320262) (2026-09-27)
 - [0xRicker](https://x.com/0xRicker/status/2065478241444639198) (2026-06-14)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
 - [0xSammy](https://x.com/0xSammy/status/1882500633573609980) (2026-06-08)
@@ -241,6 +242,7 @@ total_mentions: 1305
 - [DamiDefi](https://x.com/DamiDefi/status/2073791513092403440) (2026-07-06)
 - [DamiDefi](https://x.com/DamiDefi/status/2075256414616838532) (2026-07-11)
 - [DamiDefi](https://x.com/DamiDefi/status/2096629749003280476) (2026-09-08)
+- [DamiDefi](https://x.com/DamiDefi/status/2103870712708788238) (2026-09-27)
 - [DanKornas](https://x.com/DanKornas/status/2072195733927706691) (2026-07-01)
 - [DanKornas](https://x.com/DanKornas/status/2077488623125971059) (2026-07-16)
 - [DanKornas](https://x.com/DanKornas/status/2085970749110571165) (2026-08-13)
@@ -280,6 +282,7 @@ total_mentions: 1305
 - [DrDatta_AIIMS](https://x.com/DrDatta_AIIMS/status/2085258786403655808) (2026-08-13)
 - [Dr_Singularity](https://x.com/Dr_Singularity/status/2094797783601414196) (2026-09-03)
 - [Dr_Singularity](https://x.com/Dr_Singularity/status/2095235432778813918) (2026-09-03)
+- [Dzola17](https://x.com/Dzola17/status/2103778564072239219) (2026-09-27)
 - [ET_Edge](https://x.com/ET_Edge/status/2083446599729254520) (2026-08-01)
 - [EmmanuelInvest](https://x.com/EmmanuelInvest/status/2072720009520873611) (2026-07-04)
 - [EmmanuelInvest](https://x.com/EmmanuelInvest/status/2076724041302319246) (2026-07-14)
@@ -332,6 +335,7 @@ total_mentions: 1305
 - [HowToAI_](https://x.com/HowToAI_/status/2062105627204423994) (2026-06-06)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2089180119973990492) (2026-08-19)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2097489050332692836) (2026-09-11)
+- [HowToPrompt__](https://x.com/HowToPrompt__/status/2103804240866976237) (2026-09-27)
 - [Huawei](https://x.com/Huawei/status/2064239307838419399) (2026-06-09)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2065062300218749172) (2026-06-13)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2068205769002991901) (2026-06-20)
@@ -437,6 +441,7 @@ total_mentions: 1305
 - [Mr_CryptoNest](https://x.com/Mr_CryptoNest/status/2077018071340912776) (2026-07-16)
 - [Mr_Salio](https://x.com/Mr_Salio/status/2079174410330935630) (2026-07-26)
 - [MunnaDomainer](https://x.com/MunnaDomainer/status/2068581514678518144) (2026-06-21)
+- [Musty_hasheedu](https://x.com/Musty_hasheedu/status/2103529971197067435) (2026-09-27)
 - [N01ennn](https://x.com/N01ennn/status/2088606747531358505) (2026-08-21)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
 - [N01ennn](https://x.com/N01ennn/status/2089455117716406706) (2026-08-18)
@@ -535,6 +540,7 @@ total_mentions: 1305
 - [Saasnext_db](https://x.com/Saasnext_db/status/2080867659244347837) (2026-07-25)
 - [Safevano](https://x.com/Safevano/status/2087600615098601954) (2026-08-14)
 - [SaidAitmbarek](https://x.com/SaidAitmbarek/status/2066430249986908341) (2026-06-15)
+- [Sainoleno](https://x.com/Sainoleno/status/2103681716833615944) (2026-09-27)
 - [SakanaAILabs](https://x.com/SakanaAILabs/status/2077528494775603313) (2026-07-16)
 - [SandeepanNandi](https://x.com/SandeepanNandi/status/2068236605144580536) (2026-06-20)
 - [Saronic](https://x.com/Saronic/status/2077801200477421981) (2026-07-19)
@@ -643,6 +649,7 @@ total_mentions: 1305
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
 - [_0xpainn](https://x.com/_0xpainn/status/2070432605552451963) (2026-08-02)
 - [_LuoFuli](https://x.com/_LuoFuli/status/2102162926802968749) (2026-09-25)
+- [__Vik_tor](https://x.com/__Vik_tor/status/2104042202053648805) (2026-09-27)
 - [___frye](https://x.com/___frye/status/2085140391591133625) (2026-08-09)
 - [__harsh020__](https://x.com/__harsh020__/status/2073518491844624630) (2026-07-05)
 - [_akhaliq](https://x.com/_akhaliq/status/2072347990337954042) (2026-07-03)
@@ -770,6 +777,7 @@ total_mentions: 1305
 - [businessbarista](https://x.com/businessbarista/status/2097478065723162959) (2026-09-09)
 - [bybardiia](https://x.com/bybardiia/status/2090762007569936869) (2026-08-23)
 - [callmeperry3](https://x.com/callmeperry3/status/2087011930993020953) (2026-08-11)
+- [catqpx](https://x.com/catqpx/status/2103695053843501265) (2026-09-27)
 - [cb_doge](https://x.com/cb_doge/status/2076291436283396496) (2026-07-18)
 - [cb_doge](https://x.com/cb_doge/status/2080065417473905040) (2026-07-26)
 - [cb_doge](https://x.com/cb_doge/status/2095151987969155261) (2026-09-05)
@@ -855,6 +863,7 @@ total_mentions: 1305
 - [dharmesh](https://x.com/dharmesh/status/2093071931188597042) (2026-08-28)
 - [dhh](https://x.com/dhh/status/2097317603186229297) (2026-09-09)
 - [dhh](https://x.com/dhh/status/2102366320369016915) (2026-09-23)
+- [dhh](https://x.com/dhh/status/2103880596841783698) (2026-09-27)
 - [divaagurlxw](https://x.com/divaagurlxw/status/2087756697469440442) (2026-08-15)
 - [dkare1009](https://x.com/dkare1009/status/2043335862264410288) (2026-06-06)
 - [dkare1009](https://x.com/dkare1009/status/2058646791348727997) (2026-06-30)
@@ -933,6 +942,7 @@ total_mentions: 1305
 - [gokulr](https://x.com/gokulr/status/2071692278582890889) (2026-08-02)
 - [googleaidevs](https://x.com/googleaidevs/status/2069464402118820154) (2026-06-30)
 - [googledevs](https://x.com/googledevs/status/2075251776606093457) (2026-07-11)
+- [gothburz](https://x.com/gothburz/status/2103767313749061921) (2026-09-27)
 - [gotuchintu](https://x.com/gotuchintu/status/2071034383012618319) (2026-06-28)
 - [gotuchintu](https://x.com/gotuchintu/status/2071048019907064019) (2026-06-28)
 - [gotuchintu](https://x.com/gotuchintu/status/2071423007797526577) (2026-06-29)
@@ -1256,6 +1266,8 @@ total_mentions: 1305
 - [theagenticorg](https://x.com/theagenticorg/status/2073648296761946390) (2026-07-05)
 - [thealexker](https://x.com/thealexker/status/2077841378139426953) (2026-07-17)
 - [thedankoe](https://x.com/thedankoe/status/2090507819229589650) (2026-08-21)
+- [thegreatest_sv](https://x.com/thegreatest_sv/status/2103095101165633624) (2026-09-27)
+- [themahmud5](https://x.com/themahmud5/status/2102980278893551670) (2026-09-27)
 - [therajansharma](https://x.com/therajansharma/status/2068578446100308157) (2026-06-21)
 - [thesupermanmx](https://x.com/thesupermanmx/status/2088659059008491594) (2026-08-16)
 - [thesupermanmx](https://x.com/thesupermanmx/status/2088977298989129826) (2026-08-17)
