@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-27
-total_mentions: 550
+last_seen: 2026-09-28
+total_mentions: 554
 
 ## Related Tweets
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
@@ -240,6 +240,7 @@ total_mentions: 550
 - [amitisinvesting](https://x.com/amitisinvesting/status/2079389181780832579) (2026-07-23)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2083018001557721309) (2026-08-04)
 - [amuse](https://x.com/amuse/status/2070118337607012363) (2026-07-02)
+- [anah_sahh](https://x.com/anah_sahh/status/2103839341453688877) (2026-09-28)
 - [andyburnham](https://x.com/andyburnham/status/2090528243430350885) (2026-08-27)
 - [angeldot_](https://x.com/angeldot_/status/2086839211856929184) (2026-08-15)
 - [ankurnagpal](https://x.com/ankurnagpal/status/2073858342196244665) (2026-07-06)
@@ -453,6 +454,7 @@ total_mentions: 550
 - [pierreeliottlal](https://x.com/pierreeliottlal/status/2066037831626362988) (2026-06-14)
 - [pitdesi](https://x.com/pitdesi/status/2098178397008781823) (2026-09-12)
 - [plpiaoliang](https://x.com/plpiaoliang/status/2082696373955346650) (2026-07-30)
+- [polydao](https://x.com/polydao/status/2103362362015199286) (2026-09-28)
 - [propxwealth](https://x.com/propxwealth/status/2086007408078549329) (2026-08-14)
 - [pubity](https://x.com/pubity/status/2088354976359719140) (2026-08-16)
 - [pulkit_gupta2](https://x.com/pulkit_gupta2/status/2097777826292474042) (2026-09-13)
@@ -534,6 +536,8 @@ total_mentions: 550
 - [unusual_whales](https://x.com/unusual_whales/status/2079702282443293037) (2026-07-24)
 - [vahidf24](https://x.com/vahidf24/status/2101063577838764467) (2026-09-19)
 - [vanshuETH](https://x.com/vanshuETH/status/2098766183726227823) (2026-09-17)
+- [verbove](https://x.com/verbove/status/2104175469289693516) (2026-09-28)
+- [verbove](https://x.com/verbove/status/2104187810807005566) (2026-09-28)
 - [vigneshxtech](https://x.com/vigneshxtech/status/2068597287010349323) (2026-06-21)
 - [vipulved](https://x.com/vipulved/status/2072321276094673083) (2026-07-02)
 - [wallstengine](https://x.com/wallstengine/status/2102904194604937232) (2026-09-24)

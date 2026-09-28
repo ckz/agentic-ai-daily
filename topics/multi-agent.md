@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-09-27
-total_mentions: 317
+last_seen: 2026-09-28
+total_mentions: 318
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -257,6 +257,7 @@ total_mentions: 317
 - [maverickecom](https://x.com/maverickecom/status/2081715179914412252) (2026-07-30)
 - [michaeljburry](https://x.com/michaeljburry/status/2075836197230813517) (2026-07-11)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2087754775496699923) (2026-08-13)
+- [mirku21](https://x.com/mirku21/status/2103952805715492895) (2026-09-28)
 - [monokern](https://x.com/monokern/status/2088233393817288974) (2026-08-21)
 - [nabeelqu](https://x.com/nabeelqu/status/2094208251688595676) (2026-09-06)
 - [neviannn](https://x.com/neviannn/status/2087254502210490739) (2026-08-13)

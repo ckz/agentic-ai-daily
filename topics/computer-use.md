@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-09-27
-total_mentions: 124
+last_seen: 2026-09-28
+total_mentions: 125
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -109,6 +109,7 @@ total_mentions: 124
 - [norapsi](https://x.com/norapsi/status/2095180581550305503) (2026-09-03)
 - [petergyang](https://x.com/petergyang/status/2101862331345154469) (2026-09-21)
 - [rileybrown](https://x.com/rileybrown/status/2097080191163998488) (2026-09-08)
+- [rileybrown](https://x.com/rileybrown/status/2104329604471398616) (2026-09-28)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2094414982251413529) (2026-09-01)
 - [rubenhassid](https://x.com/rubenhassid/status/2063138819856101667) (2026-06-07)
 - [ryanvogel](https://x.com/ryanvogel/status/2098875111558328570) (2026-09-13)
