@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-28
-total_mentions: 1326
+last_seen: 2026-09-29
+total_mentions: 1332
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -727,6 +727,7 @@ total_mentions: 1326
 - [antigravity](https://x.com/antigravity/status/2088030364539162744) (2026-08-14)
 - [antpalkin](https://x.com/antpalkin/status/2083984184637374655) (2026-08-03)
 - [antpalkin](https://x.com/antpalkin/status/2085456534159634640) (2026-08-09)
+- [apimasteratai](https://x.com/apimasteratai/status/2104842470953799838) (2026-09-29)
 - [arbitrum](https://x.com/arbitrum/status/1907530213119885730) (2026-07-10)
 - [arc](https://x.com/arc/status/2084997753550368837) (2026-08-07)
 - [architeqtai](https://x.com/architeqtai/status/2065343364166299693) (2026-06-12)
@@ -990,6 +991,7 @@ total_mentions: 1326
 - [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2100676098057032106) (2026-09-20)
 - [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2103142402047287534) (2026-09-28)
 - [imarun_chauhan](https://x.com/imarun_chauhan/status/2063878197457134003) (2026-06-08)
+- [inflectaa](https://x.com/inflectaa/status/2104822745376911723) (2026-09-29)
 - [injective](https://x.com/injective/status/1867794623843958899) (2026-06-05)
 - [injective](https://x.com/injective/status/1881721788834672928) (2026-06-05)
 - [injective](https://x.com/injective/status/2077049278401323248) (2026-07-15)
@@ -1057,6 +1059,7 @@ total_mentions: 1326
 - [lucas__crespo](https://x.com/lucas__crespo/status/2084990836446507153) (2026-08-09)
 - [magnusweb3](https://x.com/magnusweb3/status/2080921726582448588) (2026-07-25)
 - [maheshnani122](https://x.com/maheshnani122/status/2098977720445387058) (2026-09-19)
+- [makiriss](https://x.com/makiriss/status/2102723889893609514) (2026-09-29)
 - [manthanguptaa](https://x.com/manthanguptaa/status/2084895891559981558) (2026-08-12)
 - [mardehaym](https://x.com/mardehaym/status/2082765372864770087) (2026-07-31)
 - [mardehaym](https://x.com/mardehaym/status/2091963865718231069) (2026-08-31)
@@ -1120,6 +1123,7 @@ total_mentions: 1326
 - [nvidia](https://x.com/nvidia/status/2074979063106843131) (2026-07-13)
 - [nvidia](https://x.com/nvidia/status/2092269109086126575) (2026-08-30)
 - [nvidianewsroom](https://x.com/nvidianewsroom/status/2092720651576414611) (2026-08-27)
+- [o_kwasniewski](https://x.com/o_kwasniewski/status/2104593565200392428) (2026-09-29)
 - [obscaries](https://x.com/obscaries/status/2066019802016354811) (2026-06-14)
 - [officialbunnyos](https://x.com/officialbunnyos/status/2089938164916060444) (2026-08-19)
 - [oleg_murk](https://x.com/oleg_murk/status/2099652501645775041) (2026-09-16)
@@ -1264,6 +1268,7 @@ total_mentions: 1326
 - [techNmak](https://x.com/techNmak/status/2068884177383047439) (2026-06-27)
 - [techNmak](https://x.com/techNmak/status/2091434187446439969) (2026-08-24)
 - [teneo_protocol](https://x.com/teneo_protocol/status/2085770833843167351) (2026-08-08)
+- [testingcatalog](https://x.com/testingcatalog/status/2104715471841034537) (2026-09-29)
 - [tetsuoai](https://x.com/tetsuoai/status/2071775282420445427) (2026-06-30)
 - [tetsuoai](https://x.com/tetsuoai/status/2071817609742532884) (2026-06-30)
 - [tetsuoai](https://x.com/tetsuoai/status/2073653059314688465) (2026-07-05)
@@ -1297,6 +1302,7 @@ total_mentions: 1326
 - [trevin](https://x.com/trevin/status/2092011026242027644) (2026-08-30)
 - [trikcode](https://x.com/trikcode/status/2084420246039851517) (2026-08-04)
 - [triptitips](https://x.com/triptitips/status/2101682470655758391) (2026-09-21)
+- [triptitips](https://x.com/triptitips/status/2103681542602265021) (2026-09-29)
 - [trythreews](https://x.com/trythreews/status/2075519714890334698) (2026-07-12)
 - [trythreews](https://x.com/trythreews/status/2096260452875644976) (2026-09-12)
 - [typesfast](https://x.com/typesfast/status/2086837223148962283) (2026-08-11)

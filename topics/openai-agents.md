@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-28
-total_mentions: 85
+last_seen: 2026-09-29
+total_mentions: 89
 
 ## Related Tweets
 - [0xDepressionn](https://x.com/0xDepressionn/status/2063987019068371128) (2026-06-10)
@@ -18,7 +18,9 @@ total_mentions: 85
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2095595489031000350) (2026-09-04)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2102438210798514391) (2026-09-23)
 - [Brainm8ion](https://x.com/Brainm8ion/status/2087751034944803135) (2026-08-13)
+- [CNBC](https://x.com/CNBC/status/2104511561335181591) (2026-09-29)
 - [ChrisGPT](https://x.com/ChrisGPT/status/2102252424232648898) (2026-09-22)
+- [ClementDelangue](https://x.com/ClementDelangue/status/2104597818606338298) (2026-09-29)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2064900509933175066) (2026-06-11)
 - [DKokotajlo](https://x.com/DKokotajlo/status/2099600298855829616) (2026-09-15)
 - [EugenioFierro3](https://x.com/EugenioFierro3/status/2070777655926906996) (2026-06-27)
@@ -86,7 +88,9 @@ total_mentions: 85
 - [sharongoldman](https://x.com/sharongoldman/status/2085121826418831484) (2026-08-07)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2089191836296654904) (2026-08-20)
 - [testingcatalog](https://x.com/testingcatalog/status/2096949150755471510) (2026-09-08)
+- [testingcatalog](https://x.com/testingcatalog/status/2104715471841034537) (2026-09-29)
 - [triptitips](https://x.com/triptitips/status/2101682470655758391) (2026-09-21)
+- [triptitips](https://x.com/triptitips/status/2103681542602265021) (2026-09-29)
 - [unusual_whales](https://x.com/unusual_whales/status/2079958900032655634) (2026-07-23)
 - [viticci](https://x.com/viticci/status/2103942910165287369) (2026-09-27)
 - [zhodonx](https://x.com/zhodonx/status/2102302540633162036) (2026-09-22)

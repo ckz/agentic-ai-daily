@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-28
-total_mentions: 164
+last_seen: 2026-09-29
+total_mentions: 166
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -41,6 +41,7 @@ total_mentions: 164
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2097351499575697477) (2026-09-10)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2081303563746398665) (2026-07-28)
+- [MiaAI_lab](https://x.com/MiaAI_lab/status/2104505550281039892) (2026-09-29)
 - [N01ennn](https://x.com/N01ennn/status/2088606747531358505) (2026-08-21)
 - [N01ennn](https://x.com/N01ennn/status/2089455117716406706) (2026-08-18)
 - [NVIDIAAI](https://x.com/NVIDIAAI/status/2069858097930121319) (2026-06-30)
@@ -51,6 +52,7 @@ total_mentions: 164
 - [PetrBrzek](https://x.com/PetrBrzek/status/2100231804032610657) (2026-09-20)
 - [Pirat_Nation](https://x.com/Pirat_Nation/status/2096267361066356859) (2026-09-10)
 - [Priyannkaaaa](https://x.com/Priyannkaaaa/status/2083851157324046649) (2026-08-03)
+- [RoundtableSpace](https://x.com/RoundtableSpace/status/2102318232296415677) (2026-09-29)
 - [SIGKITTEN](https://x.com/SIGKITTEN/status/1980809995823591805) (2026-06-12)
 - [SarvamAI](https://x.com/SarvamAI/status/2074116231461011764) (2026-07-07)
 - [ShenSeanChen](https://x.com/ShenSeanChen/status/2086931006376784130) (2026-08-13)

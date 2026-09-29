@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-09-28
-total_mentions: 508
+last_seen: 2026-09-29
+total_mentions: 510
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -421,6 +421,7 @@ total_mentions: 508
 - [nikesharora](https://x.com/nikesharora/status/2097775700627578963) (2026-09-16)
 - [nomadcoderai](https://x.com/nomadcoderai/status/2075460970848416075) (2026-07-10)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
+- [o_kwasniewski](https://x.com/o_kwasniewski/status/2104593565200392428) (2026-09-29)
 - [omarsar0](https://x.com/omarsar0/status/1846930425849303424) (2026-06-27)
 - [omarsar0](https://x.com/omarsar0/status/2098809969252450451) (2026-09-15)
 - [ordo_chain](https://x.com/ordo_chain/status/2073312746381181174) (2026-07-04)
@@ -496,6 +497,7 @@ total_mentions: 508
 - [tomik99](https://x.com/tomik99/status/2090325415038489061) (2026-08-20)
 - [trikcode](https://x.com/trikcode/status/2084420246039851517) (2026-08-04)
 - [triptitips](https://x.com/triptitips/status/2101682470655758391) (2026-09-21)
+- [triptitips](https://x.com/triptitips/status/2103681542602265021) (2026-09-29)
 - [uaghazadae](https://x.com/uaghazadae/status/2087580062593823004) (2026-08-13)
 - [uiuxshasankodas](https://x.com/uiuxshasankodas/status/2087148581899870551) (2026-08-13)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2081851083119288719) (2026-07-28)

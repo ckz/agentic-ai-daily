@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-28
-total_mentions: 554
+last_seen: 2026-09-29
+total_mentions: 559
 
 ## Related Tweets
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
@@ -225,6 +225,7 @@ total_mentions: 554
 - [_poolday_](https://x.com/_poolday_/status/2065097298946777226) (2026-06-12)
 - [_shikhar_jais](https://x.com/_shikhar_jais/status/2063133010074206331) (2026-06-06)
 - [a16z](https://x.com/a16z/status/2069869327411749012) (2026-06-29)
+- [a16z](https://x.com/a16z/status/2102533548779671854) (2026-09-29)
 - [aakashgupta](https://x.com/aakashgupta/status/2036653323978420322) (2026-07-05)
 - [aakrit](https://x.com/aakrit/status/2065778171912265899) (2026-06-14)
 - [aashna_doshi2](https://x.com/aashna_doshi2/status/2095182188870521192) (2026-09-06)
@@ -234,6 +235,7 @@ total_mentions: 554
 - [agazdecki](https://x.com/agazdecki/status/2099895431547572656) (2026-09-20)
 - [alex_prompter](https://x.com/alex_prompter/status/2094818827137581543) (2026-09-02)
 - [alex_verem](https://x.com/alex_verem/status/2090118956912939041) (2026-08-25)
+- [alexisohanian](https://x.com/alexisohanian/status/2103856308890017955) (2026-09-29)
 - [alexwtlf](https://x.com/alexwtlf/status/2088666562580328570) (2026-08-22)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2074651564136894627) (2026-07-08)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2077570810978463823) (2026-07-16)
@@ -333,11 +335,13 @@ total_mentions: 554
 - [eriktorenberg](https://x.com/eriktorenberg/status/2103493671866060958) (2026-09-27)
 - [ethancole_ai](https://x.com/ethancole_ai/status/2090849492530512046) (2026-08-22)
 - [ethereum](https://x.com/ethereum/status/2079217433059996150) (2026-07-23)
+- [euniceajim](https://x.com/euniceajim/status/2104677782496145481) (2026-09-29)
 - [fado_fft](https://x.com/fado_fft/status/2101366268137721992) (2026-09-20)
 - [featherrobotics](https://x.com/featherrobotics/status/2103199788217057728) (2026-09-25)
 - [fin465](https://x.com/fin465/status/2079993565019795637) (2026-07-25)
 - [fin465](https://x.com/fin465/status/2081459766287888794) (2026-07-27)
 - [fin465](https://x.com/fin465/status/2088287274727301259) (2026-08-15)
+- [freedomcaucus](https://x.com/freedomcaucus/status/2104651223009759602) (2026-09-29)
 - [fundingtraders](https://x.com/fundingtraders/status/2072289577017000341) (2026-07-06)
 - [gaganbiyani](https://x.com/gaganbiyani/status/2102404344351973825) (2026-09-24)
 - [gauravkheterpal](https://x.com/gauravkheterpal/status/2091523308173107449) (2026-08-26)
@@ -436,6 +440,7 @@ total_mentions: 554
 - [noah_schochet](https://x.com/noah_schochet/status/2077044441978737104) (2026-07-17)
 - [okxafrica](https://x.com/okxafrica/status/2102644632350085140) (2026-09-23)
 - [om_patel5](https://x.com/om_patel5/status/2099683744781111419) (2026-09-17)
+- [openmarket_xyz](https://x.com/openmarket_xyz/status/2104622481080525138) (2026-09-29)
 - [opentensor](https://x.com/opentensor/status/2097575251597054345) (2026-09-09)
 - [orbinumnetwork](https://x.com/orbinumnetwork/status/2102516025757520352) (2026-09-23)
 - [owenthcarey](https://x.com/owenthcarey/status/2098634072159658105) (2026-09-12)

@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-28
-total_mentions: 116
+last_seen: 2026-09-29
+total_mentions: 118
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -17,6 +17,7 @@ total_mentions: 116
 - [Arcane_Aii](https://x.com/Arcane_Aii/status/2064316482071171261) (2026-06-11)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2076747075036045645) (2026-07-14)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2082991648703930561) (2026-08-05)
+- [CNBC](https://x.com/CNBC/status/2104511561335181591) (2026-09-29)
 - [Creatify_AI](https://x.com/Creatify_AI/status/2064400985288802621) (2026-06-11)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2089423549379559718) (2026-08-19)
 - [DanKornas](https://x.com/DanKornas/status/2077647155179782297) (2026-07-16)
@@ -117,6 +118,7 @@ total_mentions: 116
 - [sheemamoto](https://x.com/sheemamoto/status/2099571838514864241) (2026-09-15)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
 - [triptitips](https://x.com/triptitips/status/2101682470655758391) (2026-09-21)
+- [triptitips](https://x.com/triptitips/status/2103681542602265021) (2026-09-29)
 - [undefinedKi](https://x.com/undefinedKi/status/2070221446786215970) (2026-06-27)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2084267503950143998) (2026-08-10)
 - [waynoir](https://x.com/waynoir/status/2087566812309598287) (2026-08-14)
