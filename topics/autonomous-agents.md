@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-29
-total_mentions: 1332
+last_seen: 2026-09-30
+total_mentions: 1341
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -173,6 +173,7 @@ total_mentions: 1332
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2092663573021606119) (2026-08-27)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2095247787277553929) (2026-09-03)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2102438210798514391) (2026-09-23)
+- [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2105025585332605357) (2026-09-30)
 - [Artificialunbox](https://x.com/Artificialunbox/status/2068215362114715908) (2026-06-20)
 - [Aurimas_Gr](https://x.com/Aurimas_Gr/status/2084608000610754903) (2026-08-06)
 - [Ausmi129124](https://x.com/Ausmi129124/status/2068589738534260929) (2026-06-21)
@@ -186,6 +187,7 @@ total_mentions: 1332
 - [BSCNews](https://x.com/BSCNews/status/2075215645785141282) (2026-07-10)
 - [BSCNews](https://x.com/BSCNews/status/2085378308858868014) (2026-08-08)
 - [Badtheorylabs](https://x.com/Badtheorylabs/status/2085359932900082039) (2026-08-08)
+- [Base_EUR](https://x.com/Base_EUR/status/2104873827645997562) (2026-09-30)
 - [BasicProtein26](https://x.com/BasicProtein26/status/2099320269391228973) (2026-09-19)
 - [Benioff](https://x.com/Benioff/status/2094618697520615868) (2026-09-01)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2062873857304752368) (2026-06-05)
@@ -326,6 +328,7 @@ total_mentions: 1332
 - [Guelug](https://x.com/Guelug/status/2072092575947989385) (2026-07-01)
 - [Gustafssonkotte](https://x.com/Gustafssonkotte/status/2082309711785849067) (2026-08-01)
 - [Gyokeres_eth](https://x.com/Gyokeres_eth/status/2081330941096583465) (2026-08-02)
+- [HZoete](https://x.com/HZoete/status/2104954372866085007) (2026-09-30)
 - [HackingDave](https://x.com/HackingDave/status/2069146467701256423) (2026-06-29)
 - [HackingDave](https://x.com/HackingDave/status/2084367299104882779) (2026-08-04)
 - [HarryBee_Yhu](https://x.com/HarryBee_Yhu/status/2067864020527292535) (2026-06-19)
@@ -733,6 +736,7 @@ total_mentions: 1332
 - [architeqtai](https://x.com/architeqtai/status/2065343364166299693) (2026-06-12)
 - [ardizor](https://x.com/ardizor/status/2062571108021215563) (2026-06-05)
 - [arena](https://x.com/arena/status/2071630464583151727) (2026-06-30)
+- [arlanoska](https://x.com/arlanoska/status/2105001306503139816) (2026-09-30)
 - [arle0x](https://x.com/arle0x/status/2097726809529811454) (2026-09-11)
 - [arle0x](https://x.com/arle0x/status/2100983195508367747) (2026-09-19)
 - [arnaudmercier](https://x.com/arnaudmercier/status/2072179223339348311) (2026-07-01)
@@ -793,6 +797,7 @@ total_mentions: 1332
 - [championswimmer](https://x.com/championswimmer/status/2084357787274891502) (2026-08-09)
 - [championswimmer](https://x.com/championswimmer/status/2087636883350122842) (2026-08-16)
 - [chandan1_](https://x.com/chandan1_/status/1874874423062278335) (2026-07-10)
+- [charlesliang](https://x.com/charlesliang/status/2104648526450057257) (2026-09-30)
 - [charliejhills](https://x.com/charliejhills/status/2098351074755457321) (2026-09-17)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
 - [chorus_agent](https://x.com/chorus_agent/status/2081798685243904101) (2026-07-28)
@@ -931,6 +936,7 @@ total_mentions: 1332
 - [femke_plantinga](https://x.com/femke_plantinga/status/2082375583363944873) (2026-07-30)
 - [finkd](https://x.com/finkd/status/2075218444056707458) (2026-07-11)
 - [fishkiller](https://x.com/fishkiller/status/2090257850635596126) (2026-08-20)
+- [francescoX222](https://x.com/francescoX222/status/2104870718408184121) (2026-09-30)
 - [francescoswiss](https://x.com/francescoswiss/status/2085369251372658880) (2026-08-08)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2076517228267155961) (2026-07-13)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2083584032122577255) (2026-08-02)
@@ -1018,6 +1024,7 @@ total_mentions: 1332
 - [johniosifov](https://x.com/johniosifov/status/2081806958667960770) (2026-07-28)
 - [jpschroeder](https://x.com/jpschroeder/status/2085099179110703584) (2026-08-06)
 - [jshchnz](https://x.com/jshchnz/status/2095873634069831680) (2026-09-08)
+- [jwang633](https://x.com/jwang633/status/2105012942601367940) (2026-09-30)
 - [kadsxr](https://x.com/kadsxr/status/2076728894363775220) (2026-07-15)
 - [kadsxr](https://x.com/kadsxr/status/2076781099120804218) (2026-07-15)
 - [kaorixbt](https://x.com/kaorixbt/status/2095534784734716405) (2026-09-06)
@@ -1035,6 +1042,7 @@ total_mentions: 1332
 - [kuddus0356575](https://x.com/kuddus0356575/status/2073988400865227141) (2026-07-06)
 - [kuddus0356575](https://x.com/kuddus0356575/status/2076907414599962690) (2026-07-15)
 - [kunchenguid](https://x.com/kunchenguid/status/2068367773533667565) (2026-06-21)
+- [kunchenguid](https://x.com/kunchenguid/status/2104998134279762141) (2026-09-30)
 - [kuvilabs](https://x.com/kuvilabs/status/2072272288687280594) (2026-07-02)
 - [kuvilabs](https://x.com/kuvilabs/status/2072673985163120922) (2026-07-03)
 - [lablabai](https://x.com/lablabai/status/2011441661466042529) (2026-07-10)
@@ -1099,6 +1107,7 @@ total_mentions: 1332
 - [miyataArcHack](https://x.com/miyataArcHack/status/2100743410076598752) (2026-09-25)
 - [mnadirghafoor](https://x.com/mnadirghafoor/status/2071098524826268063) (2026-06-28)
 - [mojeskoqq](https://x.com/mojeskoqq/status/2085273824413503536) (2026-08-09)
+- [moninvestor](https://x.com/moninvestor/status/2104516036619853917) (2026-09-30)
 - [monmiglobal](https://x.com/monmiglobal/status/2071399421997359236) (2026-06-29)
 - [monokern](https://x.com/monokern/status/2088233393817288974) (2026-08-21)
 - [mvanhorn](https://x.com/mvanhorn/status/2061978364391592110) (2026-06-07)

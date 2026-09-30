@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-09-29
-total_mentions: 126
+last_seen: 2026-09-30
+total_mentions: 128
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -70,6 +70,7 @@ total_mentions: 126
 - [awlevin](https://x.com/awlevin/status/2100262612428894676) (2026-09-17)
 - [bcherny](https://x.com/bcherny/status/2095378890370019683) (2026-09-06)
 - [businessbarista](https://x.com/businessbarista/status/2101061801571938529) (2026-09-22)
+- [chaotictransfem](https://x.com/chaotictransfem/status/2105011559756181620) (2026-09-30)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
 - [claudeebum](https://x.com/claudeebum/status/2088598997065969933) (2026-08-17)
 - [coder_surya](https://x.com/coder_surya/status/2073957608998715439) (2026-07-06)
@@ -101,6 +102,7 @@ total_mentions: 126
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2073646837894992126) (2026-07-05)
 - [markchen90](https://x.com/markchen90/status/2095597534412673109) (2026-09-04)
 - [martin_casado](https://x.com/martin_casado/status/2096648261759389983) (2026-09-07)
+- [matchaman11](https://x.com/matchaman11/status/2105009171976610030) (2026-09-30)
 - [mattdeitke](https://x.com/mattdeitke/status/2102912355638382997) (2026-09-26)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2098738486014537803) (2026-09-13)
 - [mikoto2000](https://x.com/mikoto2000/status/2099270333522186365) (2026-09-14)

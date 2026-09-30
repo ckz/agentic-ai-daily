@@ -1,8 +1,8 @@
 # Browser Use
 
 first_seen: 2026-06-07
-last_seen: 2026-09-27
-total_mentions: 38
+last_seen: 2026-09-30
+total_mentions: 39
 
 ## Related Tweets
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
@@ -27,6 +27,7 @@ total_mentions: 38
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
 - [clapilot](https://x.com/clapilot/status/2063510331716952191) (2026-06-07)
 - [cwmasaki](https://x.com/cwmasaki/status/2088433897445171301) (2026-08-15)
+- [davidmarcus](https://x.com/davidmarcus/status/2103915341751685283) (2026-09-30)
 - [garrytan](https://x.com/garrytan/status/2099876434114494962) (2026-09-17)
 - [gregpr07](https://x.com/gregpr07/status/2100411066966749359) (2026-09-17)
 - [gumterver100](https://x.com/gumterver100/status/2087078337235628286) (2026-08-11)

@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-09-29
-total_mentions: 835
+last_seen: 2026-09-30
+total_mentions: 843
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -12,6 +12,7 @@ total_mentions: 835
 - [0xCodez](https://x.com/0xCodez/status/2077758938938818714) (2026-07-17)
 - [0xCodez](https://x.com/0xCodez/status/2088263101158146337) (2026-08-18)
 - [0xCodila](https://x.com/0xCodila/status/2082515252445655186) (2026-07-30)
+- [0xDesigner](https://x.com/0xDesigner/status/2105028261558493219) (2026-09-30)
 - [0xJokker](https://x.com/0xJokker/status/2079215128621338703) (2026-07-23)
 - [0xMiraqle](https://x.com/0xMiraqle/status/2078063315767460057) (2026-07-18)
 - [0xMorlex](https://x.com/0xMorlex/status/2083551815895798048) (2026-08-02)
@@ -207,6 +208,7 @@ total_mentions: 835
 - [Nekt_0](https://x.com/Nekt_0/status/2066148234368524692) (2026-06-15)
 - [NikkiSiapno](https://x.com/NikkiSiapno/status/2094772771758932366) (2026-09-02)
 - [NikkiSiapno](https://x.com/NikkiSiapno/status/2095036695767134413) (2026-09-06)
+- [NikkiSiapno](https://x.com/NikkiSiapno/status/2104557312019152930) (2026-09-30)
 - [NotionHQ](https://x.com/NotionHQ/status/2072759315589652663) (2026-07-03)
 - [NotionHQ](https://x.com/NotionHQ/status/2095923091134206448) (2026-09-05)
 - [NousResearch](https://x.com/NousResearch/status/2064760263224504719) (2026-06-11)
@@ -223,6 +225,7 @@ total_mentions: 835
 - [Pokee_AI](https://x.com/Pokee_AI/status/2087211800777654378) (2026-08-14)
 - [Polymarket](https://x.com/Polymarket/status/2071786298713756104) (2026-06-30)
 - [PrajwalTomar_](https://x.com/PrajwalTomar_/status/2071934532178337884) (2026-07-01)
+- [PrajwalTomar_](https://x.com/PrajwalTomar_/status/2103862956211704144) (2026-09-30)
 - [PrakashS720](https://x.com/PrakashS720/status/2065850652832694731) (2026-06-15)
 - [Professor_134](https://x.com/Professor_134/status/2066004108725846403) (2026-06-14)
 - [ProgrammerDude](https://x.com/ProgrammerDude/status/2062854392915603924) (2026-06-06)
@@ -653,6 +656,8 @@ total_mentions: 835
 - [motion_so](https://x.com/motion_so/status/2099542179697902025) (2026-09-16)
 - [motion_so](https://x.com/motion_so/status/2100280160234721660) (2026-09-19)
 - [mxstbr](https://x.com/mxstbr/status/2100966048132718786) (2026-09-19)
+- [mxstbr](https://x.com/mxstbr/status/2104992334438154414) (2026-09-30)
+- [mxstbr](https://x.com/mxstbr/status/2105091392011948221) (2026-09-30)
 - [nateberkopec](https://x.com/nateberkopec/status/2099995262802641129) (2026-09-19)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [nrlartt](https://x.com/nrlartt/status/2082153925491249607) (2026-07-29)
@@ -698,6 +703,7 @@ total_mentions: 835
 - [ravikiran_dev7](https://x.com/ravikiran_dev7/status/2089558898886021423) (2026-08-18)
 - [rebel0x0](https://x.com/rebel0x0/status/2067186712758071385) (2026-06-19)
 - [recat_125](https://x.com/recat_125/status/2104497208997576725) (2026-09-29)
+- [rehan_shei](https://x.com/rehan_shei/status/2104662849624981571) (2026-09-30)
 - [res1dualedge](https://x.com/res1dualedge/status/2103237038778835331) (2026-09-26)
 - [ridark_eth](https://x.com/ridark_eth/status/2066216714644111431) (2026-06-15)
 - [ridark_eth](https://x.com/ridark_eth/status/2070966184967864667) (2026-06-29)
@@ -791,6 +797,7 @@ total_mentions: 835
 - [thsottiaux](https://x.com/thsottiaux/status/2093801758665715784) (2026-08-30)
 - [thsottiaux](https://x.com/thsottiaux/status/2100645454245720513) (2026-09-19)
 - [timsneath](https://x.com/timsneath/status/2072479088661651612) (2026-07-02)
+- [timsneath](https://x.com/timsneath/status/2103559230888513905) (2026-09-30)
 - [tom_doerr](https://x.com/tom_doerr/status/2062864987970797651) (2026-06-12)
 - [tom_doerr](https://x.com/tom_doerr/status/2066042496933662753) (2026-06-14)
 - [tom_doerr](https://x.com/tom_doerr/status/2071309381455519803) (2026-06-29)
@@ -811,6 +818,7 @@ total_mentions: 835
 - [undefinedKi](https://x.com/undefinedKi/status/2096224107121516997) (2026-09-06)
 - [undefinedKi](https://x.com/undefinedKi/status/2097302662026870996) (2026-09-09)
 - [undefinedKi](https://x.com/undefinedKi/status/2098760642526085164) (2026-09-13)
+- [undefinedKi](https://x.com/undefinedKi/status/2104235566921379944) (2026-09-30)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2082200846243143795) (2026-07-30)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2087461469881336049) (2026-08-13)
 - [unity](https://x.com/unity/status/2079389530260414898) (2026-07-24)

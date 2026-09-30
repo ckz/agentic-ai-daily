@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-29
-total_mentions: 89
+last_seen: 2026-09-30
+total_mentions: 93
 
 ## Related Tweets
 - [0xDepressionn](https://x.com/0xDepressionn/status/2063987019068371128) (2026-06-10)
@@ -17,6 +17,8 @@ total_mentions: 89
 - [AnthonyNAguirre](https://x.com/AnthonyNAguirre/status/2080523331988500488) (2026-07-26)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2095595489031000350) (2026-09-04)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2102438210798514391) (2026-09-23)
+- [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2105025585332605357) (2026-09-30)
+- [Base_EUR](https://x.com/Base_EUR/status/2104873827645997562) (2026-09-30)
 - [Brainm8ion](https://x.com/Brainm8ion/status/2087751034944803135) (2026-08-13)
 - [CNBC](https://x.com/CNBC/status/2104511561335181591) (2026-09-29)
 - [ChrisGPT](https://x.com/ChrisGPT/status/2102252424232648898) (2026-09-22)
@@ -43,6 +45,8 @@ total_mentions: 89
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2094119206132535493) (2026-08-31)
 - [SakanaAILabs](https://x.com/SakanaAILabs/status/2098233826816205275) (2026-09-11)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
+- [StockSavvyShay](https://x.com/StockSavvyShay/status/2104989538066305148) (2026-09-30)
+- [StockSavvyShay](https://x.com/StockSavvyShay/status/2105104103299035382) (2026-09-30)
 - [Sumanth_077](https://x.com/Sumanth_077/status/2091169662956720527) (2026-08-25)
 - [TeksCreate](https://x.com/TeksCreate/status/2081499683571040408) (2026-07-27)
 - [TheInsiderPaper](https://x.com/TheInsiderPaper/status/2082481271783964922) (2026-08-05)

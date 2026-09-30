@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-09-29
-total_mentions: 510
+last_seen: 2026-09-30
+total_mentions: 512
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -389,6 +389,7 @@ total_mentions: 510
 - [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)
 - [jakezward](https://x.com/jakezward/status/2077014538000482693) (2026-07-16)
 - [johnvirality](https://x.com/johnvirality/status/2070571963555152330) (2026-06-29)
+- [jwang633](https://x.com/jwang633/status/2105012942601367940) (2026-09-30)
 - [kenAI_domains](https://x.com/kenAI_domains/status/2080371618954490323) (2026-07-24)
 - [kimmonismus](https://x.com/kimmonismus/status/2085812651163296161) (2026-08-08)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2094551333525447072) (2026-09-01)
@@ -511,6 +512,7 @@ total_mentions: 510
 - [voidwarriorchan](https://x.com/voidwarriorchan/status/2095708889300033590) (2026-09-04)
 - [wallstengine](https://x.com/wallstengine/status/2062459661039894607) (2026-06-08)
 - [wilsonnwafor_](https://x.com/wilsonnwafor_/status/2076919122479185990) (2026-07-14)
+- [xCryptoParadise](https://x.com/xCryptoParadise/status/2104917457332736098) (2026-09-30)
 - [xai](https://x.com/xai/status/2072342803787702422) (2026-07-02)
 - [xenovacom](https://x.com/xenovacom/status/2070210622239707568) (2026-06-27)
 - [y_sugi_it](https://x.com/y_sugi_it/status/2095302562505449951) (2026-09-03)

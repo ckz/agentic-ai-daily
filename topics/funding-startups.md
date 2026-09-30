@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-09-29
-total_mentions: 559
+last_seen: 2026-09-30
+total_mentions: 567
 
 ## Related Tweets
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
@@ -62,6 +62,7 @@ total_mentions: 559
 - [Cointelegraph](https://x.com/Cointelegraph/status/2063005594047467893) (2026-06-05)
 - [CyberRobooo](https://x.com/CyberRobooo/status/2092844038831690046) (2026-08-27)
 - [DNIGabbard](https://x.com/DNIGabbard/status/2065440568423944607) (2026-08-27)
+- [Dan_Jeffries1](https://x.com/Dan_Jeffries1/status/2102813387176501568) (2026-09-30)
 - [DavidayoAI](https://x.com/DavidayoAI/status/2091956043240599821) (2026-08-26)
 - [DeRonin_](https://x.com/DeRonin_/status/2087555554830852538) (2026-08-14)
 - [DevanshuXi](https://x.com/DevanshuXi/status/2094134298266026161) (2026-09-02)
@@ -92,6 +93,7 @@ total_mentions: 559
 - [HarryStebbings](https://x.com/HarryStebbings/status/2103865670081384790) (2026-09-27)
 - [Hartdrawss](https://x.com/Hartdrawss/status/2096591974685946168) (2026-09-07)
 - [HedgieMarkets](https://x.com/HedgieMarkets/status/2096738798075830516) (2026-09-12)
+- [HedgieMarkets](https://x.com/HedgieMarkets/status/2105074896271257857) (2026-09-30)
 - [Helion_Energy](https://x.com/Helion_Energy/status/2062554317564108825) (2026-06-07)
 - [HerbalistChief](https://x.com/HerbalistChief/status/2097984218320003221) (2026-09-11)
 - [Hesamation](https://x.com/Hesamation/status/1970585800325640372) (2026-06-07)
@@ -236,6 +238,7 @@ total_mentions: 559
 - [alex_prompter](https://x.com/alex_prompter/status/2094818827137581543) (2026-09-02)
 - [alex_verem](https://x.com/alex_verem/status/2090118956912939041) (2026-08-25)
 - [alexisohanian](https://x.com/alexisohanian/status/2103856308890017955) (2026-09-29)
+- [alexmashrabov](https://x.com/alexmashrabov/status/2103239620532351295) (2026-09-30)
 - [alexwtlf](https://x.com/alexwtlf/status/2088666562580328570) (2026-08-22)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2074651564136894627) (2026-07-08)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2077570810978463823) (2026-07-16)
@@ -266,6 +269,7 @@ total_mentions: 559
 - [awwstn](https://x.com/awwstn/status/2067750610963939571) (2026-06-19)
 - [axi_master](https://x.com/axi_master/status/2067655053050352041) (2026-06-19)
 - [axisrobotics](https://x.com/axisrobotics/status/2081711331791827387) (2026-07-28)
+- [balajis](https://x.com/balajis/status/2104986787743719861) (2026-09-30)
 - [base](https://x.com/base/status/2083204522415960437) (2026-08-05)
 - [bella_quack](https://x.com/bella_quack/status/2101483665620627781) (2026-09-20)
 - [benhylak](https://x.com/benhylak/status/2100630323382088033) (2026-09-21)
@@ -289,6 +293,7 @@ total_mentions: 559
 - [cb_doge](https://x.com/cb_doge/status/2093481818544844864) (2026-08-29)
 - [cb_doge](https://x.com/cb_doge/status/2094487192936776147) (2026-09-01)
 - [cb_doge](https://x.com/cb_doge/status/2095904642668618229) (2026-09-05)
+- [cb_doge](https://x.com/cb_doge/status/2105052248263016558) (2026-09-30)
 - [cfaprenault](https://x.com/cfaprenault/status/2092667736711180300) (2026-08-27)
 - [chamath](https://x.com/chamath/status/2071571183665881515) (2026-07-01)
 - [chamath](https://x.com/chamath/status/2083463694931902561) (2026-08-14)
@@ -411,6 +416,7 @@ total_mentions: 559
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
 - [lightspeedvp](https://x.com/lightspeedvp/status/2070182060224852105) (2026-06-27)
 - [maheerpips](https://x.com/maheerpips/status/2102658482142949518) (2026-09-23)
+- [manxlab](https://x.com/manxlab/status/2104648664413012176) (2026-09-30)
 - [marclou](https://x.com/marclou/status/2086700255949865456) (2026-08-15)
 - [marclou](https://x.com/marclou/status/2095153862818894109) (2026-09-03)
 - [marclou](https://x.com/marclou/status/2097326512169222407) (2026-09-09)
@@ -467,6 +473,7 @@ total_mentions: 559
 - [rahulbais136](https://x.com/rahulbais136/status/2077192536335192463) (2026-07-15)
 - [rauchg](https://x.com/rauchg/status/2088735125744070932) (2026-08-18)
 - [ravikiran_dev7](https://x.com/ravikiran_dev7/status/2088373187981828420) (2026-08-16)
+- [rayansadri](https://x.com/rayansadri/status/2103479955392741620) (2026-09-30)
 - [realDonaldTrump](https://x.com/realDonaldTrump/status/1007671131841671169) (2026-09-23)
 - [realDonaldTrump](https://x.com/realDonaldTrump/status/1925548216243703820) (2026-09-23)
 - [realEstateTrent](https://x.com/realEstateTrent/status/2096996751013982458) (2026-09-08)
@@ -529,6 +536,7 @@ total_mentions: 559
 - [thsottiaux](https://x.com/thsottiaux/status/2095369901137654271) (2026-09-03)
 - [ti_morse](https://x.com/ti_morse/status/2081068670478880854) (2026-08-01)
 - [tiovikram](https://x.com/tiovikram/status/2081559019978907975) (2026-07-27)
+- [tradeifyforex](https://x.com/tradeifyforex/status/2103469713619648770) (2026-09-30)
 - [trajektoriePL](https://x.com/trajektoriePL/status/2088167040175526258) (2026-08-15)
 - [trikcode](https://x.com/trikcode/status/2078755471205253481) (2026-07-20)
 - [twistartups](https://x.com/twistartups/status/2071744145119465724) (2026-07-02)

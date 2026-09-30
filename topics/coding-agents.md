@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-29
-total_mentions: 166
+last_seen: 2026-09-30
+total_mentions: 168
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -16,6 +16,7 @@ total_mentions: 166
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065328920514515037) (2026-06-13)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065559824230957190) (2026-06-14)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2095595489031000350) (2026-09-04)
+- [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2105025585332605357) (2026-09-30)
 - [Av1dlive](https://x.com/Av1dlive/status/2097639365644279857) (2026-09-10)
 - [ChromiumDev](https://x.com/ChromiumDev/status/2077874454105862423) (2026-07-17)
 - [Colhodm](https://x.com/Colhodm/status/2072373857999098214) (2026-07-02)
@@ -80,6 +81,7 @@ total_mentions: 166
 - [angeldot_](https://x.com/angeldot_/status/2071697398527881418) (2026-06-30)
 - [antinertia](https://x.com/antinertia/status/1907834094823616629) (2026-06-12)
 - [antpalkin](https://x.com/antpalkin/status/2087616668092801373) (2026-08-14)
+- [arlanoska](https://x.com/arlanoska/status/2105001306503139816) (2026-09-30)
 - [ashtom](https://x.com/ashtom/status/1925597395192357337) (2026-09-04)
 - [bcherny](https://x.com/bcherny/status/2064431111154053187) (2026-06-15)
 - [beamnxw](https://x.com/beamnxw/status/2080600136456060958) (2026-08-01)

@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-29
-total_mentions: 237
+last_seen: 2026-09-30
+total_mentions: 239
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -35,6 +35,7 @@ total_mentions: 237
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2095595489031000350) (2026-09-04)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2102438210798514391) (2026-09-23)
 - [BTCqzy1](https://x.com/BTCqzy1/status/2087496242071056769) (2026-08-13)
+- [Base_EUR](https://x.com/Base_EUR/status/2104873827645997562) (2026-09-30)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2064345389424324891) (2026-06-14)
 - [BinaryScriptar](https://x.com/BinaryScriptar/status/2090679698351391113) (2026-08-22)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2087190437299941811) (2026-08-21)
@@ -163,6 +164,7 @@ total_mentions: 237
 - [davidim](https://x.com/davidim/status/2098353617816461689) (2026-09-12)
 - [dee_hw](https://x.com/dee_hw/status/2089388227971219643) (2026-08-18)
 - [digitalocean](https://x.com/digitalocean/status/2102414817797550320) (2026-09-24)
+- [dioscuri](https://x.com/dioscuri/status/2103848836469084516) (2026-09-30)
 - [dr_cintas](https://x.com/dr_cintas/status/2072714904650359130) (2026-07-03)
 - [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
 - [dreyethh](https://x.com/dreyethh/status/2094460468941218188) (2026-09-01)
