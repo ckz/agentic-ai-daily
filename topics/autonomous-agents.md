@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-30
-total_mentions: 1341
+last_seen: 2026-10-01
+total_mentions: 1346
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -154,6 +154,7 @@ total_mentions: 1341
 - [ApolloHermesX](https://x.com/ApolloHermesX/status/2076758346254667874) (2026-07-14)
 - [Appetiteldn](https://x.com/Appetiteldn/status/2063800638505361587) (2026-06-08)
 - [AravSrinivas](https://x.com/AravSrinivas/status/2067645893394968742) (2026-06-19)
+- [ArcAlphaa](https://x.com/ArcAlphaa/status/2103818386115534912) (2026-10-01)
 - [ArcNova_ACI](https://x.com/ArcNova_ACI/status/2073013930440749245) (2026-07-05)
 - [ArchiveExplorer](https://x.com/ArchiveExplorer/status/2076666622043963789) (2026-07-14)
 - [Argona0x](https://x.com/Argona0x/status/2065525815106769169) (2026-06-13)
@@ -174,6 +175,7 @@ total_mentions: 1341
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2095247787277553929) (2026-09-03)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2102438210798514391) (2026-09-23)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2105025585332605357) (2026-09-30)
+- [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2105392625788637299) (2026-10-01)
 - [Artificialunbox](https://x.com/Artificialunbox/status/2068215362114715908) (2026-06-20)
 - [Aurimas_Gr](https://x.com/Aurimas_Gr/status/2084608000610754903) (2026-08-06)
 - [Ausmi129124](https://x.com/Ausmi129124/status/2068589738534260929) (2026-06-21)
@@ -364,6 +366,7 @@ total_mentions: 1341
 - [JJEnglert](https://x.com/JJEnglert/status/2064420538798260388) (2026-06-10)
 - [Jadzo1_](https://x.com/Jadzo1_/status/2072437174071636126) (2026-07-02)
 - [JasonPLowery](https://x.com/JasonPLowery/status/2103619213579653220) (2026-09-26)
+- [JesseisCooking](https://x.com/JesseisCooking/status/2103383326543495485) (2026-10-01)
 - [JessicaMetaEra](https://x.com/JessicaMetaEra/status/2068553406206341418) (2026-06-21)
 - [Jiacheng_Miao](https://x.com/Jiacheng_Miao/status/2100296661427999222) (2026-09-17)
 - [Joeyy_0x](https://x.com/Joeyy_0x/status/2079565467963068586) (2026-07-22)
@@ -479,6 +482,7 @@ total_mentions: 1341
 - [OptimaiNetwork](https://x.com/OptimaiNetwork/status/2014178144429723810) (2026-06-10)
 - [OracleDevs](https://x.com/OracleDevs/status/2087315628935786848) (2026-08-13)
 - [Origin_AI_01](https://x.com/Origin_AI_01/status/2096073337881641428) (2026-09-05)
+- [Origin_AI_01](https://x.com/Origin_AI_01/status/2104877229868208508) (2026-10-01)
 - [Orion_Agents](https://x.com/Orion_Agents/status/2081641109676028236) (2026-07-30)
 - [Orus_agent](https://x.com/Orus_agent/status/2098042936919310644) (2026-09-11)
 - [OsMo999](https://x.com/OsMo999/status/2101658633444454559) (2026-09-22)
@@ -1002,6 +1006,7 @@ total_mentions: 1341
 - [injective](https://x.com/injective/status/1881721788834672928) (2026-06-05)
 - [injective](https://x.com/injective/status/2077049278401323248) (2026-07-15)
 - [ipfconline1](https://x.com/ipfconline1/status/2066408115369656823) (2026-06-15)
+- [ishaan_jaff](https://x.com/ishaan_jaff/status/2105495463638270115) (2026-10-01)
 - [islam_naserr](https://x.com/islam_naserr/status/2065299167560257970) (2026-06-12)
 - [itsPaulAi](https://x.com/itsPaulAi/status/2097737959273591226) (2026-09-10)
 - [itsharmanjot](https://x.com/itsharmanjot/status/2071136482891530447) (2026-06-28)

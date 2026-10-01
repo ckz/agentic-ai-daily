@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-30
-total_mentions: 119
+last_seen: 2026-10-01
+total_mentions: 121
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -21,6 +21,7 @@ total_mentions: 119
 - [Creatify_AI](https://x.com/Creatify_AI/status/2064400985288802621) (2026-06-11)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2089423549379559718) (2026-08-19)
 - [DanKornas](https://x.com/DanKornas/status/2077647155179782297) (2026-07-16)
+- [DanKornas](https://x.com/DanKornas/status/2103427788145381798) (2026-10-01)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [Dr_Singularity](https://x.com/Dr_Singularity/status/2094797783601414196) (2026-09-03)
 - [EXM7777](https://x.com/EXM7777/status/2079949851648053760) (2026-07-23)
@@ -66,6 +67,7 @@ total_mentions: 119
 - [WesRoth](https://x.com/WesRoth/status/2043871865513619560) (2026-07-24)
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
 - [_avichawla](https://x.com/_avichawla/status/2092688897558089897) (2026-08-30)
+- [_philschmid](https://x.com/_philschmid/status/2105299152796029055) (2026-10-01)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
 - [ajitcodes](https://x.com/ajitcodes/status/2089185456525381955) (2026-08-17)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2083815836003996033) (2026-08-07)

@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-30
-total_mentions: 93
+last_seen: 2026-10-01
+total_mentions: 96
 
 ## Related Tweets
 - [0xDepressionn](https://x.com/0xDepressionn/status/2063987019068371128) (2026-06-10)
@@ -12,6 +12,7 @@ total_mentions: 93
 - [AISafetyMemes](https://x.com/AISafetyMemes/status/2080815177252114667) (2026-08-06)
 - [AISafetyMemes](https://x.com/AISafetyMemes/status/2087549262427263014) (2026-08-15)
 - [AISecurityInst](https://x.com/AISecurityInst/status/2084746202579386632) (2026-08-06)
+- [AIcastmedia](https://x.com/AIcastmedia/status/2105530650660835350) (2026-10-01)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2080793930279625134) (2026-07-28)
 - [AndrewYNg](https://x.com/AndrewYNg/status/2102140576498065758) (2026-09-22)
 - [AnthonyNAguirre](https://x.com/AnthonyNAguirre/status/2080523331988500488) (2026-07-26)
@@ -25,6 +26,7 @@ total_mentions: 93
 - [ClementDelangue](https://x.com/ClementDelangue/status/2104597818606338298) (2026-09-29)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2064900509933175066) (2026-06-11)
 - [DKokotajlo](https://x.com/DKokotajlo/status/2099600298855829616) (2026-09-15)
+- [DanKornas](https://x.com/DanKornas/status/2103427788145381798) (2026-10-01)
 - [EugenioFierro3](https://x.com/EugenioFierro3/status/2070777655926906996) (2026-06-27)
 - [FT](https://x.com/FT/status/2079768250804535342) (2026-07-29)
 - [Gustafssonkotte](https://x.com/Gustafssonkotte/status/2082309711785849067) (2026-08-01)
@@ -79,6 +81,7 @@ total_mentions: 93
 - [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)
 - [jiang_kev](https://x.com/jiang_kev/status/2082496145994248488) (2026-07-30)
 - [jietang](https://x.com/jietang/status/2067022641949814893) (2026-06-19)
+- [latentspacepod](https://x.com/latentspacepod/status/2105442037042663491) (2026-10-01)
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
 - [marfinxx](https://x.com/marfinxx/status/2102729802708918385) (2026-09-24)
 - [moneyacademyKE](https://x.com/moneyacademyKE/status/2081618955064455539) (2026-08-01)

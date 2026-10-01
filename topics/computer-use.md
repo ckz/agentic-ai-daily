@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-09-30
-total_mentions: 128
+last_seen: 2026-10-01
+total_mentions: 130
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -88,6 +88,7 @@ total_mentions: 128
 - [hanghuang_](https://x.com/hanghuang_/status/2099559078687088854) (2026-09-19)
 - [hcompany_ai](https://x.com/hcompany_ai/status/2104508207582367807) (2026-09-29)
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2097085343967355190) (2026-09-10)
+- [higgsfield_ai](https://x.com/higgsfield_ai/status/2105499083431698547) (2026-10-01)
 - [hzlzh](https://x.com/hzlzh/status/2091570012368863571) (2026-08-24)
 - [illscience](https://x.com/illscience/status/2103941433883557983) (2026-09-27)
 - [instantricecook](https://x.com/instantricecook/status/2100814590300889426) (2026-09-23)
@@ -97,6 +98,7 @@ total_mentions: 128
 - [jkelleyrtp](https://x.com/jkelleyrtp/status/2101364551296143772) (2026-09-20)
 - [jxnlco](https://x.com/jxnlco/status/2070577704752267321) (2026-06-27)
 - [kylejeong](https://x.com/kylejeong/status/2098478826464702556) (2026-09-14)
+- [latentspacepod](https://x.com/latentspacepod/status/2105442037042663491) (2026-10-01)
 - [lennysan](https://x.com/lennysan/status/2097392748244721911) (2026-09-10)
 - [levie](https://x.com/levie/status/2099739019517235618) (2026-09-15)
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2073646837894992126) (2026-07-05)

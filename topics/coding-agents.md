@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-30
-total_mentions: 168
+last_seen: 2026-10-01
+total_mentions: 171
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -93,6 +93,7 @@ total_mentions: 168
 - [celineodier](https://x.com/celineodier/status/2094079187904610504) (2026-09-01)
 - [charliejhills](https://x.com/charliejhills/status/2098351074755457321) (2026-09-17)
 - [codyschneider](https://x.com/codyschneider/status/2084369982918406433) (2026-08-04)
+- [convequity](https://x.com/convequity/status/2105431360500301981) (2026-10-01)
 - [csaba_kissi](https://x.com/csaba_kissi/status/2097206925264118197) (2026-09-12)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2071058754905481234) (2026-06-28)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2071817627484250139) (2026-06-30)
@@ -156,6 +157,7 @@ total_mentions: 168
 - [silasalberti](https://x.com/silasalberti/status/2101042815426060339) (2026-09-19)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2077223722654834863) (2026-07-16)
 - [stretchcloud](https://x.com/stretchcloud/status/2079772421947560434) (2026-07-22)
+- [superalesha](https://x.com/superalesha/status/2101940249735634998) (2026-10-01)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)
 - [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)
 - [tamrrat](https://x.com/tamrrat/status/2077136461489467450) (2026-07-15)
@@ -173,3 +175,4 @@ total_mentions: 168
 - [vechainofficial](https://x.com/vechainofficial/status/2062450242360885371) (2026-06-09)
 - [vercel_dev](https://x.com/vercel_dev/status/2089828083415355806) (2026-08-25)
 - [warpdotdev](https://x.com/warpdotdev/status/1937525185843752969) (2026-06-07)
+- [zachbruggeman](https://x.com/zachbruggeman/status/2010728444771074493) (2026-10-01)

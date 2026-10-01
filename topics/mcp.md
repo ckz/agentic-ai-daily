@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-09-30
-total_mentions: 843
+last_seen: 2026-10-01
+total_mentions: 853
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -28,6 +28,7 @@ total_mentions: 843
 - [0xwhrrari](https://x.com/0xwhrrari/status/2083305262035632347) (2026-08-02)
 - [51bodila](https://x.com/51bodila/status/2085020463290290504) (2026-08-06)
 - [AIWarper](https://x.com/AIWarper/status/2070535586075885912) (2026-06-27)
+- [AI_DVD6](https://x.com/AI_DVD6/status/2105299460007878989) (2026-10-01)
 - [AIdanSolves](https://x.com/AIdanSolves/status/2073162229533262290) (2026-07-04)
 - [AIonBase_](https://x.com/AIonBase_/status/2063002925761237147) (2026-06-05)
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
@@ -104,6 +105,7 @@ total_mentions: 843
 - [DanKornas](https://x.com/DanKornas/status/2099962470857048270) (2026-09-16)
 - [DanKornas](https://x.com/DanKornas/status/2101221215788486861) (2026-09-23)
 - [DanKornas](https://x.com/DanKornas/status/2101763058657853813) (2026-09-21)
+- [DanKornas](https://x.com/DanKornas/status/2105047204297613517) (2026-10-01)
 - [DanKulkov](https://x.com/DanKulkov/status/2081035103036416368) (2026-07-26)
 - [DataChaz](https://x.com/DataChaz/status/2047633186394697853) (2026-06-09)
 - [DataChaz](https://x.com/DataChaz/status/2062940997257212367) (2026-06-06)
@@ -155,6 +157,7 @@ total_mentions: 843
 - [InduTripat82427](https://x.com/InduTripat82427/status/2062485176358486507) (2026-06-09)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2063904128708022613) (2026-06-09)
 - [InfosecVandana](https://x.com/InfosecVandana/status/2096568141451297103) (2026-09-09)
+- [JesseisCooking](https://x.com/JesseisCooking/status/2103383326543495485) (2026-10-01)
 - [Jiacheng_Miao](https://x.com/Jiacheng_Miao/status/2100296661427999222) (2026-09-17)
 - [JulianGoldieSEO](https://x.com/JulianGoldieSEO/status/2067820667794559045) (2026-06-19)
 - [KanikaBK](https://x.com/KanikaBK/status/2072606006971081213) (2026-07-03)
@@ -341,6 +344,7 @@ total_mentions: 843
 - [aakashgupta](https://x.com/aakashgupta/status/2036653323978420322) (2026-07-05)
 - [abhishek__AI](https://x.com/abhishek__AI/status/2068588008648142910) (2026-06-21)
 - [abskoop](https://x.com/abskoop/status/2090701734138274062) (2026-08-22)
+- [abxxai](https://x.com/abxxai/status/2104558006818296006) (2026-10-01)
 - [abyssallD](https://x.com/abyssallD/status/2082264319492804953) (2026-07-30)
 - [adamuchigabriel](https://x.com/adamuchigabriel/status/2066299409894109286) (2026-06-15)
 - [adilinthewild](https://x.com/adilinthewild/status/2095177775422538130) (2026-09-08)
@@ -417,6 +421,7 @@ total_mentions: 843
 - [bonduelleioat](https://x.com/bonduelleioat/status/2090015153739669554) (2026-08-23)
 - [bonsaixbt](https://x.com/bonsaixbt/status/2077722769194615193) (2026-07-17)
 - [bountywriteups](https://x.com/bountywriteups/status/2095142679764226142) (2026-09-03)
+- [brunopinheiroms](https://x.com/brunopinheiroms/status/2103443289760289015) (2026-10-01)
 - [bucket0dotcom](https://x.com/bucket0dotcom/status/2068553823635796170) (2026-06-21)
 - [businessbarista](https://x.com/businessbarista/status/2101061801571938529) (2026-09-22)
 - [cTrader](https://x.com/cTrader/status/2062503096375263532) (2026-06-05)
@@ -550,9 +555,11 @@ total_mentions: 843
 - [greptile](https://x.com/greptile/status/2100268607477273048) (2026-09-19)
 - [hamster_wat](https://x.com/hamster_wat/status/2078996887361794149) (2026-07-27)
 - [hanakoxbt](https://x.com/hanakoxbt/status/2083932817738666010) (2026-08-04)
+- [hanghuang_](https://x.com/hanghuang_/status/2104949571789148416) (2026-10-01)
 - [hanifproduktif](https://x.com/hanifproduktif/status/2095768590850912424) (2026-09-04)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [hcompany_ai](https://x.com/hcompany_ai/status/2104508207582367807) (2026-09-29)
+- [hedra_labs](https://x.com/hedra_labs/status/2105342577725546681) (2026-10-01)
 - [hellorob](https://x.com/hellorob/status/2074237901060399360) (2026-07-08)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [hieuSSR](https://x.com/hieuSSR/status/2104169084241981504) (2026-09-28)
@@ -562,10 +569,12 @@ total_mentions: 843
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2062607081010864364) (2026-06-07)
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2064897496091140376) (2026-06-11)
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2072161434558201960) (2026-07-05)
+- [higgsfield_ai](https://x.com/higgsfield_ai/status/2105412853914284117) (2026-10-01)
 - [himanshubuildss](https://x.com/himanshubuildss/status/2101255618313302146) (2026-09-20)
 - [himanshubuildss](https://x.com/himanshubuildss/status/2103374896147378635) (2026-09-29)
 - [hiro44_pino](https://x.com/hiro44_pino/status/2090589913754517610) (2026-08-21)
 - [howardting](https://x.com/howardting/status/2100607288000324065) (2026-09-18)
+- [huacnlee](https://x.com/huacnlee/status/2105550545939484751) (2026-10-01)
 - [humafinance](https://x.com/humafinance/status/2062445243711279528) (2026-06-08)
 - [humzaakhalid](https://x.com/humzaakhalid/status/2076629724315697287) (2026-07-17)
 - [humzaakhalid](https://x.com/humzaakhalid/status/2078781740563460571) (2026-07-25)
@@ -598,6 +607,7 @@ total_mentions: 843
 - [karlarboledas](https://x.com/karlarboledas/status/2098004038042186171) (2026-09-13)
 - [karlarboledas](https://x.com/karlarboledas/status/2100215460306256148) (2026-09-20)
 - [karpathy](https://x.com/karpathy/status/2015883857489522876) (2026-09-19)
+- [kevinzhow](https://x.com/kevinzhow/status/2105187162069291334) (2026-10-01)
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [kunalstwt](https://x.com/kunalstwt/status/2073978095644643520) (2026-07-06)

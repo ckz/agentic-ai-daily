@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-09-30
-total_mentions: 512
+last_seen: 2026-10-01
+total_mentions: 516
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -78,6 +78,7 @@ total_mentions: 512
 - [DanKornas](https://x.com/DanKornas/status/2098059930246754551) (2026-09-11)
 - [DanKornas](https://x.com/DanKornas/status/2099962470857048270) (2026-09-16)
 - [DanKornas](https://x.com/DanKornas/status/2101763058657853813) (2026-09-21)
+- [DanKornas](https://x.com/DanKornas/status/2103427788145381798) (2026-10-01)
 - [DataChaz](https://x.com/DataChaz/status/2068952350077698446) (2026-06-28)
 - [DataChaz](https://x.com/DataChaz/status/2070415564510785812) (2026-06-27)
 - [DataScienceDojo](https://x.com/DataScienceDojo/status/2071624804575093052) (2026-06-30)
@@ -144,6 +145,7 @@ total_mentions: 512
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2073709900820099232) (2026-07-06)
 - [Jadzo1_](https://x.com/Jadzo1_/status/2072437174071636126) (2026-07-02)
 - [JaynitMakwana](https://x.com/JaynitMakwana/status/2078419436554625340) (2026-07-19)
+- [JesseisCooking](https://x.com/JesseisCooking/status/2103383326543495485) (2026-10-01)
 - [Jiacheng_Miao](https://x.com/Jiacheng_Miao/status/2100296661427999222) (2026-09-17)
 - [Kaffchad](https://x.com/Kaffchad/status/2059932680813183175) (2026-07-10)
 - [Kaffchad](https://x.com/Kaffchad/status/2066380271092662782) (2026-06-15)
@@ -177,6 +179,7 @@ total_mentions: 512
 - [OpenAI](https://x.com/OpenAI/status/2094885578173260259) (2026-09-02)
 - [OptimaiNetwork](https://x.com/OptimaiNetwork/status/2014178144429723810) (2026-06-10)
 - [OracleDevs](https://x.com/OracleDevs/status/2087315628935786848) (2026-08-13)
+- [Origin_AI_01](https://x.com/Origin_AI_01/status/2104877229868208508) (2026-10-01)
 - [OurTinTinLand](https://x.com/OurTinTinLand/status/2082351358876033195) (2026-07-29)
 - [PalantirTech](https://x.com/PalantirTech/status/2077032712578199604) (2026-07-15)
 - [Peevibes007](https://x.com/Peevibes007/status/2047915508260073869) (2026-07-26)
@@ -250,6 +253,7 @@ total_mentions: 512
 - [_avichawla](https://x.com/_avichawla/status/2076952441728459082) (2026-07-15)
 - [_avichawla](https://x.com/_avichawla/status/2092688897558089897) (2026-08-30)
 - [_nat](https://x.com/_nat/status/2082320053626921372) (2026-07-29)
+- [_philschmid](https://x.com/_philschmid/status/2105299152796029055) (2026-10-01)
 - [_vmlops](https://x.com/_vmlops/status/2063841886193004672) (2026-06-09)
 - [_vmlops](https://x.com/_vmlops/status/2070449302116380680) (2026-06-27)
 - [aanandsivaraman](https://x.com/aanandsivaraman/status/2079771714964144432) (2026-07-22)

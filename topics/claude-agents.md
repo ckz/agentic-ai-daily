@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-09-30
-total_mentions: 239
+last_seen: 2026-10-01
+total_mentions: 243
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -48,6 +48,7 @@ total_mentions: 239
 - [DanKornas](https://x.com/DanKornas/status/2063154157511418092) (2026-06-06)
 - [DanKornas](https://x.com/DanKornas/status/2071847945373192192) (2026-06-30)
 - [DanKornas](https://x.com/DanKornas/status/2088477020602696132) (2026-08-18)
+- [DanKornas](https://x.com/DanKornas/status/2103427788145381798) (2026-10-01)
 - [DataChaz](https://x.com/DataChaz/status/2075204287223697636) (2026-07-11)
 - [DealsDhamaka](https://x.com/DealsDhamaka/status/2074664290293080496) (2026-07-08)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
@@ -69,6 +70,7 @@ total_mentions: 239
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2073709900820099232) (2026-07-06)
 - [JJEnglert](https://x.com/JJEnglert/status/2064420538798260388) (2026-06-10)
+- [JesseisCooking](https://x.com/JesseisCooking/status/2103383326543495485) (2026-10-01)
 - [Jeyxbt](https://x.com/Jeyxbt/status/2067866973497868794) (2026-06-19)
 - [Krishnasagrawal](https://x.com/Krishnasagrawal/status/2076370564831486040) (2026-07-14)
 - [LomashKumar52](https://x.com/LomashKumar52/status/2103013165009363358) (2026-09-24)
@@ -87,6 +89,7 @@ total_mentions: 239
 - [NotionHQ](https://x.com/NotionHQ/status/2095923091134206448) (2026-09-05)
 - [NousResearch](https://x.com/NousResearch/status/2026759005633183980) (2026-06-07)
 - [Origin_AI_01](https://x.com/Origin_AI_01/status/2096073337881641428) (2026-09-05)
+- [Origin_AI_01](https://x.com/Origin_AI_01/status/2104877229868208508) (2026-10-01)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
 - [Pirat_Nation](https://x.com/Pirat_Nation/status/2096267361066356859) (2026-09-10)
 - [RLanceMartin](https://x.com/RLanceMartin/status/2102575471502528989) (2026-09-24)
@@ -186,6 +189,7 @@ total_mentions: 239
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [heynavtoor](https://x.com/heynavtoor/status/2083221614595051602) (2026-08-05)
+- [huacnlee](https://x.com/huacnlee/status/2105550545939484751) (2026-10-01)
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
 - [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)
 - [jamonholmgren](https://x.com/jamonholmgren/status/2076001786700394610) (2026-07-12)
