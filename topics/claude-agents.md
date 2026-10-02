@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-01
-total_mentions: 243
+last_seen: 2026-10-02
+total_mentions: 246
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -38,6 +38,7 @@ total_mentions: 243
 - [Base_EUR](https://x.com/Base_EUR/status/2104873827645997562) (2026-09-30)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2064345389424324891) (2026-06-14)
 - [BinaryScriptar](https://x.com/BinaryScriptar/status/2090679698351391113) (2026-08-22)
+- [Blockworks](https://x.com/Blockworks/status/2105663711373631730) (2026-10-02)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2087190437299941811) (2026-08-21)
 - [CEOGuy](https://x.com/CEOGuy/status/2068212413309010231) (2026-06-20)
 - [CharlieDFilm](https://x.com/CharlieDFilm/status/2098929162735997071) (2026-09-14)
@@ -166,6 +167,7 @@ total_mentions: 243
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [davidim](https://x.com/davidim/status/2098353617816461689) (2026-09-12)
 - [dee_hw](https://x.com/dee_hw/status/2089388227971219643) (2026-08-18)
+- [dhruvalgolakiya](https://x.com/dhruvalgolakiya/status/2105224441357840830) (2026-10-02)
 - [digitalocean](https://x.com/digitalocean/status/2102414817797550320) (2026-09-24)
 - [dioscuri](https://x.com/dioscuri/status/2103848836469084516) (2026-09-30)
 - [dr_cintas](https://x.com/dr_cintas/status/2072714904650359130) (2026-07-03)
@@ -177,6 +179,7 @@ total_mentions: 243
 - [emollick](https://x.com/emollick/status/2089233231853785118) (2026-08-17)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2061821319034143172) (2026-06-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2062244858686009455) (2026-06-08)
+- [eng_khairallah1](https://x.com/eng_khairallah1/status/2105406253740740846) (2026-10-02)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2087449332119134430) (2026-08-19)
 - [gavinpurcell](https://x.com/gavinpurcell/status/2103304514329854102) (2026-09-27)
 - [gippp69](https://x.com/gippp69/status/2088943002467115352) (2026-08-17)

@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-10-01
-total_mentions: 324
+last_seen: 2026-10-02
+total_mentions: 326
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -117,6 +117,7 @@ total_mentions: 324
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [LingoAI_io](https://x.com/LingoAI_io/status/2081748881914912793) (2026-07-28)
 - [LomashKumar52](https://x.com/LomashKumar52/status/2091396806068609513) (2026-08-28)
+- [Lummox_eth](https://x.com/Lummox_eth/status/2105607355262009622) (2026-10-02)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2085365001007558738) (2026-08-11)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2085468711167615253) (2026-08-07)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2095483630961275019) (2026-09-04)
@@ -227,6 +228,7 @@ total_mentions: 324
 - [elora_khatun](https://x.com/elora_khatun/status/2074711871069032615) (2026-07-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2063633896517022014) (2026-06-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2084974440895410625) (2026-08-07)
+- [eng_khairallah1](https://x.com/eng_khairallah1/status/2105406253740740846) (2026-10-02)
 - [ericzakariasson](https://x.com/ericzakariasson/status/2102853511637774551) (2026-09-26)
 - [exQUIZitely](https://x.com/exQUIZitely/status/2099121418092900473) (2026-09-14)
 - [expertwith_AI](https://x.com/expertwith_AI/status/2070094109109567845) (2026-06-27)

@@ -1,8 +1,8 @@
 # Browser Use
 
 first_seen: 2026-06-07
-last_seen: 2026-09-30
-total_mentions: 39
+last_seen: 2026-10-02
+total_mentions: 40
 
 ## Related Tweets
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
@@ -12,6 +12,7 @@ total_mentions: 39
 - [EXM7777](https://x.com/EXM7777/status/2094425738778964465) (2026-09-01)
 - [Kimi_Moonshot](https://x.com/Kimi_Moonshot/status/2063990409903112344) (2026-06-09)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2058615544048451842) (2026-07-04)
+- [Lummox_eth](https://x.com/Lummox_eth/status/2105607355262009622) (2026-10-02)
 - [MaxForAI](https://x.com/MaxForAI/status/2089184371886690760) (2026-08-17)
 - [MaxForAI](https://x.com/MaxForAI/status/2090569520717115493) (2026-08-21)
 - [NickADobos](https://x.com/NickADobos/status/2090867101028540684) (2026-08-22)

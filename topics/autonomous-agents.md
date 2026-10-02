@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-01
-total_mentions: 1346
+last_seen: 2026-10-02
+total_mentions: 1352
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -255,6 +255,7 @@ total_mentions: 1346
 - [DanKornas](https://x.com/DanKornas/status/2087114536385937617) (2026-08-13)
 - [DanKornas](https://x.com/DanKornas/status/2088477020602696132) (2026-08-18)
 - [DanKornas](https://x.com/DanKornas/status/2099962470857048270) (2026-09-16)
+- [DanKornas](https://x.com/DanKornas/status/2104095939187097741) (2026-10-02)
 - [Daniel_Farinax](https://x.com/Daniel_Farinax/status/2088855024319258910) (2026-08-17)
 - [DataChaz](https://x.com/DataChaz/status/2020882442492747997) (2026-06-05)
 - [DataChaz](https://x.com/DataChaz/status/2063158890469196218) (2026-06-06)
@@ -266,6 +267,7 @@ total_mentions: 1346
 - [DavidOndrej1](https://x.com/DavidOndrej1/status/2067842298667225185) (2026-06-19)
 - [DealsDhamaka](https://x.com/DealsDhamaka/status/2074664290293080496) (2026-07-08)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
+- [DegenSynth](https://x.com/DegenSynth/status/2105885297279983933) (2026-10-02)
 - [Degen_calls_sol](https://x.com/Degen_calls_sol/status/2077084965209030808) (2026-07-15)
 - [DehumanoaDeus](https://x.com/DehumanoaDeus/status/2094786190042083430) (2026-09-03)
 - [DestraNetwork](https://x.com/DestraNetwork/status/1906074225016017400) (2026-07-10)
@@ -401,6 +403,7 @@ total_mentions: 1346
 - [LuizaJarovsky](https://x.com/LuizaJarovsky/status/2072664971616383227) (2026-07-03)
 - [LuminaXspace](https://x.com/LuminaXspace/status/2084599704097083823) (2026-08-06)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2097351499575697477) (2026-09-10)
+- [Lummox_eth](https://x.com/Lummox_eth/status/2105607355262009622) (2026-10-02)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2079548712888435060) (2026-07-22)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2080629030319980563) (2026-07-26)
@@ -472,6 +475,7 @@ total_mentions: 1346
 - [OSACrypto1](https://x.com/OSACrypto1/status/2093684531731603613) (2026-08-30)
 - [Okada_DeFi0x](https://x.com/Okada_DeFi0x/status/2070769365763449051) (2026-06-28)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/1975269391244874103) (2026-06-08)
+- [OpenAIDevs](https://x.com/OpenAIDevs/status/2104993035507712318) (2026-10-02)
 - [OpenAI](https://x.com/OpenAI/status/2062281977122996256) (2026-06-05)
 - [OpenAI](https://x.com/OpenAI/status/2069770172802773292) (2026-07-01)
 - [OpenAI](https://x.com/OpenAI/status/2090165328290701800) (2026-08-20)
@@ -1138,6 +1142,7 @@ total_mentions: 1346
 - [nvidia](https://x.com/nvidia/status/2092269109086126575) (2026-08-30)
 - [nvidianewsroom](https://x.com/nvidianewsroom/status/2092720651576414611) (2026-08-27)
 - [o_kwasniewski](https://x.com/o_kwasniewski/status/2104593565200392428) (2026-09-29)
+- [o_kwasniewski](https://x.com/o_kwasniewski/status/2105675143464763540) (2026-10-02)
 - [obscaries](https://x.com/obscaries/status/2066019802016354811) (2026-06-14)
 - [officialbunnyos](https://x.com/officialbunnyos/status/2089938164916060444) (2026-08-19)
 - [oleg_murk](https://x.com/oleg_murk/status/2099652501645775041) (2026-09-16)
@@ -1149,6 +1154,7 @@ total_mentions: 1346
 - [omarsar0](https://x.com/omarsar0/status/2077792894459793714) (2026-07-17)
 - [omarsar0](https://x.com/omarsar0/status/2095873020778991918) (2026-09-08)
 - [omarsar0](https://x.com/omarsar0/status/2098809969252450451) (2026-09-15)
+- [open_founder](https://x.com/open_founder/status/2104953677031055649) (2026-10-02)
 - [openart_ai](https://x.com/openart_ai/status/2067650953478652126) (2026-06-19)
 - [openservai](https://x.com/openservai/status/2064795739369152670) (2026-06-11)
 - [opentensor](https://x.com/opentensor/status/2078858375081627985) (2026-07-21)

@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-10-01
-total_mentions: 130
+last_seen: 2026-10-02
+total_mentions: 132
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -40,6 +40,7 @@ total_mentions: 130
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2077166520392970529) (2026-07-15)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2095596020638036311) (2026-09-05)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2095978095379673102) (2026-09-05)
+- [OpenAIDevs](https://x.com/OpenAIDevs/status/2104993035507712318) (2026-10-02)
 - [RhysSullivan](https://x.com/RhysSullivan/status/2099970035137794430) (2026-09-16)
 - [Ric_RTP](https://x.com/Ric_RTP/status/2089132632332251293) (2026-08-17)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2090382081209909576) (2026-08-26)
@@ -67,6 +68,7 @@ total_mentions: 130
 - [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)
 - [arturovilla](https://x.com/arturovilla/status/2087625765529461145) (2026-08-19)
 - [ataiiam](https://x.com/ataiiam/status/2102400431519592581) (2026-09-23)
+- [ataiiam](https://x.com/ataiiam/status/2105710796198322659) (2026-10-02)
 - [awlevin](https://x.com/awlevin/status/2100262612428894676) (2026-09-17)
 - [bcherny](https://x.com/bcherny/status/2095378890370019683) (2026-09-06)
 - [businessbarista](https://x.com/businessbarista/status/2101061801571938529) (2026-09-22)

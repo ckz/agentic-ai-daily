@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-01
-total_mentions: 516
+last_seen: 2026-10-02
+total_mentions: 520
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -79,6 +79,7 @@ total_mentions: 516
 - [DanKornas](https://x.com/DanKornas/status/2099962470857048270) (2026-09-16)
 - [DanKornas](https://x.com/DanKornas/status/2101763058657853813) (2026-09-21)
 - [DanKornas](https://x.com/DanKornas/status/2103427788145381798) (2026-10-01)
+- [DanKornas](https://x.com/DanKornas/status/2104095939187097741) (2026-10-02)
 - [DataChaz](https://x.com/DataChaz/status/2068952350077698446) (2026-06-28)
 - [DataChaz](https://x.com/DataChaz/status/2070415564510785812) (2026-06-27)
 - [DataScienceDojo](https://x.com/DataScienceDojo/status/2071624804575093052) (2026-06-30)
@@ -157,6 +158,7 @@ total_mentions: 516
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [LimestoneHQ](https://x.com/LimestoneHQ/status/2076310897660772466) (2026-07-13)
 - [LuizaJarovsky](https://x.com/LuizaJarovsky/status/2072664971616383227) (2026-07-03)
+- [Lummox_eth](https://x.com/Lummox_eth/status/2105607355262009622) (2026-10-02)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2092142425879855254) (2026-08-28)
 - [MarioNawfal](https://x.com/MarioNawfal/status/2085171754415038482) (2026-08-06)
@@ -214,6 +216,7 @@ total_mentions: 516
 - [SolanaHub_](https://x.com/SolanaHub_/status/2011906234765754646) (2026-07-10)
 - [SourabhGurwani](https://x.com/SourabhGurwani/status/2081721763428483158) (2026-07-28)
 - [SpaceXAI](https://x.com/SpaceXAI/status/2072342803787702422) (2026-07-07)
+- [SpaceXAI](https://x.com/SpaceXAI/status/2105744399179383124) (2026-10-02)
 - [Spectre__AI](https://x.com/Spectre__AI/status/2084677141870883158) (2026-08-07)
 - [Steve8708](https://x.com/Steve8708/status/2077051086234685641) (2026-07-15)
 - [StockMCatalysts](https://x.com/StockMCatalysts/status/2078855382777348425) (2026-07-23)
@@ -427,6 +430,7 @@ total_mentions: 516
 - [nomadcoderai](https://x.com/nomadcoderai/status/2075460970848416075) (2026-07-10)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [o_kwasniewski](https://x.com/o_kwasniewski/status/2104593565200392428) (2026-09-29)
+- [o_kwasniewski](https://x.com/o_kwasniewski/status/2105675143464763540) (2026-10-02)
 - [omarsar0](https://x.com/omarsar0/status/1846930425849303424) (2026-06-27)
 - [omarsar0](https://x.com/omarsar0/status/2098809969252450451) (2026-09-15)
 - [ordo_chain](https://x.com/ordo_chain/status/2073312746381181174) (2026-07-04)

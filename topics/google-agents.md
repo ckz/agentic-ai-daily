@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-01
-total_mentions: 121
+last_seen: 2026-10-02
+total_mentions: 122
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -63,6 +63,7 @@ total_mentions: 121
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2082945580012065191) (2026-08-04)
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2063086140799012963) (2026-06-06)
 - [SaurabhDub28465](https://x.com/SaurabhDub28465/status/2063452536972124604) (2026-06-07)
+- [SpaceXAI](https://x.com/SpaceXAI/status/2105744399179383124) (2026-10-02)
 - [ThomasOrTK](https://x.com/ThomasOrTK/status/2072005642727158247) (2026-07-01)
 - [WesRoth](https://x.com/WesRoth/status/2043871865513619560) (2026-07-24)
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
