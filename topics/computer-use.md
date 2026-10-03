@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-10-02
-total_mentions: 132
+last_seen: 2026-10-03
+total_mentions: 134
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -115,6 +115,7 @@ total_mentions: 132
 - [nicbstme](https://x.com/nicbstme/status/2088014852954669300) (2026-08-14)
 - [norapsi](https://x.com/norapsi/status/2095180581550305503) (2026-09-03)
 - [petergyang](https://x.com/petergyang/status/2101862331345154469) (2026-09-21)
+- [pierceboggan](https://x.com/pierceboggan/status/2105740520828043738) (2026-10-03)
 - [rileybrown](https://x.com/rileybrown/status/2097080191163998488) (2026-09-08)
 - [rileybrown](https://x.com/rileybrown/status/2104329604471398616) (2026-09-28)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2094414982251413529) (2026-09-01)
@@ -126,6 +127,7 @@ total_mentions: 132
 - [savboj](https://x.com/savboj/status/2100545295201288678) (2026-09-19)
 - [scaling01](https://x.com/scaling01/status/2095411747309953427) (2026-09-05)
 - [sitinme](https://x.com/sitinme/status/2088172522063691892) (2026-08-15)
+- [stevendcoffey](https://x.com/stevendcoffey/status/2106159012538442068) (2026-10-03)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095859430776533318) (2026-09-06)
 - [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)

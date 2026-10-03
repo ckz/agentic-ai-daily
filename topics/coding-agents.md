@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-02
-total_mentions: 171
+last_seen: 2026-10-03
+total_mentions: 172
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -22,6 +22,7 @@ total_mentions: 171
 - [Colhodm](https://x.com/Colhodm/status/2072373857999098214) (2026-07-02)
 - [Da7_Tech](https://x.com/Da7_Tech/status/2101526202783576510) (2026-09-20)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
+- [DamiDefi](https://x.com/DamiDefi/status/2104496839064178804) (2026-10-03)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2093286019697418608) (2026-09-03)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2093567702979998014) (2026-09-02)

@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-02
-total_mentions: 1352
+last_seen: 2026-10-03
+total_mentions: 1357
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -248,6 +248,7 @@ total_mentions: 1352
 - [DamiDefi](https://x.com/DamiDefi/status/2075256414616838532) (2026-07-11)
 - [DamiDefi](https://x.com/DamiDefi/status/2096629749003280476) (2026-09-08)
 - [DamiDefi](https://x.com/DamiDefi/status/2103870712708788238) (2026-09-27)
+- [DamiDefi](https://x.com/DamiDefi/status/2104496839064178804) (2026-10-03)
 - [DanKornas](https://x.com/DanKornas/status/2072195733927706691) (2026-07-01)
 - [DanKornas](https://x.com/DanKornas/status/2077488623125971059) (2026-07-16)
 - [DanKornas](https://x.com/DanKornas/status/2085970749110571165) (2026-08-13)
@@ -394,6 +395,7 @@ total_mentions: 1352
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2058615544048451842) (2026-07-04)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2063314848843485526) (2026-06-07)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
+- [LearnWithBrij](https://x.com/LearnWithBrij/status/2103900910292472051) (2026-10-03)
 - [LimestoneHQ](https://x.com/LimestoneHQ/status/2076310897660772466) (2026-07-13)
 - [LingoAI_io](https://x.com/LingoAI_io/status/2081748881914912793) (2026-07-28)
 - [LissaNFT2021](https://x.com/LissaNFT2021/status/2074512113058656420) (2026-07-09)
@@ -962,6 +964,7 @@ total_mentions: 1352
 - [gokulr](https://x.com/gokulr/status/2071692278582890889) (2026-08-02)
 - [googleaidevs](https://x.com/googleaidevs/status/2069464402118820154) (2026-06-30)
 - [googledevs](https://x.com/googledevs/status/2075251776606093457) (2026-07-11)
+- [googlegemma](https://x.com/googlegemma/status/2104619611417391289) (2026-10-03)
 - [gothburz](https://x.com/gothburz/status/2103767313749061921) (2026-09-27)
 - [gotuchintu](https://x.com/gotuchintu/status/2071034383012618319) (2026-06-28)
 - [gotuchintu](https://x.com/gotuchintu/status/2071048019907064019) (2026-06-28)
@@ -1113,6 +1116,7 @@ total_mentions: 1352
 - [milesdeutscher](https://x.com/milesdeutscher/status/2088099793726017834) (2026-08-17)
 - [milocodes_](https://x.com/milocodes_/status/2097527775490101720) (2026-09-10)
 - [mirku21](https://x.com/mirku21/status/2103952805715492895) (2026-09-28)
+- [mirku21](https://x.com/mirku21/status/2105764769479455043) (2026-10-03)
 - [miyataArcHack](https://x.com/miyataArcHack/status/2100743410076598752) (2026-09-25)
 - [mnadirghafoor](https://x.com/mnadirghafoor/status/2071098524826268063) (2026-06-28)
 - [mojeskoqq](https://x.com/mojeskoqq/status/2085273824413503536) (2026-08-09)
@@ -1337,6 +1341,7 @@ total_mentions: 1352
 - [victor_explore](https://x.com/victor_explore/status/2068553997624201627) (2026-06-21)
 - [victorialslocum](https://x.com/victorialslocum/status/1993636038313443826) (2026-09-08)
 - [vincentweisser](https://x.com/vincentweisser/status/2085101151146696820) (2026-08-06)
+- [vincentweisser](https://x.com/vincentweisser/status/2104623970662371472) (2026-10-03)
 - [virtuals_io](https://x.com/virtuals_io/status/1881340149503857151) (2026-06-11)
 - [virtuals_io](https://x.com/virtuals_io/status/2063654910995145209) (2026-06-11)
 - [virtuals_io](https://x.com/virtuals_io/status/2083239280508629254) (2026-08-02)

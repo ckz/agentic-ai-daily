@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-10-02
-total_mentions: 863
+last_seen: 2026-10-03
+total_mentions: 866
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -175,6 +175,7 @@ total_mentions: 863
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2063314848843485526) (2026-06-07)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2071929838265630850) (2026-07-04)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
+- [LearnWithBrij](https://x.com/LearnWithBrij/status/2103900910292472051) (2026-10-03)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2078455834325995532) (2026-07-20)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2079912100575563781) (2026-07-23)
@@ -347,6 +348,7 @@ total_mentions: 863
 - [aakashgupta](https://x.com/aakashgupta/status/2036653323978420322) (2026-07-05)
 - [abhishek__AI](https://x.com/abhishek__AI/status/2068588008648142910) (2026-06-21)
 - [abskoop](https://x.com/abskoop/status/2090701734138274062) (2026-08-22)
+- [abstrakt314](https://x.com/abstrakt314/status/2105756028935504032) (2026-10-03)
 - [abxxai](https://x.com/abxxai/status/2104558006818296006) (2026-10-01)
 - [abyssallD](https://x.com/abyssallD/status/2082264319492804953) (2026-07-30)
 - [adamuchigabriel](https://x.com/adamuchigabriel/status/2066299409894109286) (2026-06-15)
@@ -790,6 +792,7 @@ total_mentions: 863
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095491337651179621) (2026-09-04)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095859430776533318) (2026-09-06)
 - [svpino](https://x.com/svpino/status/2065079108959363290) (2026-06-12)
+- [swarms_corp](https://x.com/swarms_corp/status/2106141570047054003) (2026-10-03)
 - [systemdesignone](https://x.com/systemdesignone/status/2097389489408594192) (2026-09-09)
 - [tamrrat](https://x.com/tamrrat/status/2077136461489467450) (2026-07-15)
 - [tan_stack](https://x.com/tan_stack/status/2062961334061318189) (2026-06-06)

@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-02
-total_mentions: 246
+last_seen: 2026-10-03
+total_mentions: 247
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -214,6 +214,7 @@ total_mentions: 246
 - [mikenevermiss](https://x.com/mikenevermiss/status/2103853848431595593) (2026-09-27)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2080763866200645792) (2026-07-25)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2089509583312339450) (2026-08-18)
+- [mirku21](https://x.com/mirku21/status/2105764769479455043) (2026-10-03)
 - [mojeskoqq](https://x.com/mojeskoqq/status/2085273824413503536) (2026-08-09)
 - [noisyb0y1](https://x.com/noisyb0y1/status/2087218720594706679) (2026-08-13)
 - [noisyb0y1](https://x.com/noisyb0y1/status/2093305554445738152) (2026-09-04)

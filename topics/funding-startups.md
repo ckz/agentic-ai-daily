@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-02
-total_mentions: 599
+last_seen: 2026-10-03
+total_mentions: 604
 
 ## Related Tweets
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
@@ -62,6 +62,7 @@ total_mentions: 599
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2093480630801858750) (2026-08-29)
 - [ClearpoolFin](https://x.com/ClearpoolFin/status/2098294816534876180) (2026-09-11)
 - [ClementDelangue](https://x.com/ClementDelangue/status/2102046770947613026) (2026-09-22)
+- [ClementDelangue](https://x.com/ClementDelangue/status/2104960836796342729) (2026-10-03)
 - [Codex_Changelog](https://x.com/Codex_Changelog/status/2062678248790589520) (2026-06-07)
 - [Codie_Sanchez](https://x.com/Codie_Sanchez/status/2099491915381006477) (2026-09-16)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2063005594047467893) (2026-06-05)
@@ -93,6 +94,7 @@ total_mentions: 599
 - [FundingPredicts](https://x.com/FundingPredicts/status/2093452683008979134) (2026-08-29)
 - [GAXEN10](https://x.com/GAXEN10/status/2068603068753596431) (2026-06-21)
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2100342582626668971) (2026-09-17)
+- [GlobalMoveHub](https://x.com/GlobalMoveHub/status/2104122775770178013) (2026-10-03)
 - [GpaAndy](https://x.com/GpaAndy/status/2101129153172910212) (2026-09-20)
 - [GrantWarr1](https://x.com/GrantWarr1/status/2099136532477055246) (2026-09-14)
 - [GrishinRobotics](https://x.com/GrishinRobotics/status/2067880410676187569) (2026-06-19)
@@ -396,6 +398,7 @@ total_mentions: 599
 - [gregisenberg](https://x.com/gregisenberg/status/2092699140803211682) (2026-08-28)
 - [gregisenberg](https://x.com/gregisenberg/status/2094518013068484826) (2026-09-02)
 - [gregisenberg](https://x.com/gregisenberg/status/2095538589543059535) (2026-09-05)
+- [gregisenberg](https://x.com/gregisenberg/status/2105397216374403561) (2026-10-03)
 - [hanghuang_](https://x.com/hanghuang_/status/2104949571789148416) (2026-10-01)
 - [harbingerofwoke](https://x.com/harbingerofwoke/status/2090178064399613976) (2026-10-01)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
@@ -413,6 +416,7 @@ total_mentions: 599
 - [itsolelehmann](https://x.com/itsolelehmann/status/2062909345537634686) (2026-06-10)
 - [itsolelehmann](https://x.com/itsolelehmann/status/2084778165986300137) (2026-08-05)
 - [itsolelehmann](https://x.com/itsolelehmann/status/2089543156824146164) (2026-08-23)
+- [itsolelehmann](https://x.com/itsolelehmann/status/2105709191692538365) (2026-10-03)
 - [jackkuveke](https://x.com/jackkuveke/status/2098414956454568307) (2026-09-13)
 - [james406](https://x.com/james406/status/2055362680299434300) (2026-06-09)
 - [jamonholmgren](https://x.com/jamonholmgren/status/2098235125419135339) (2026-09-11)
@@ -545,6 +549,7 @@ total_mentions: 599
 - [spaceandtech_](https://x.com/spaceandtech_/status/2087905670595223735) (2026-08-16)
 - [sridharfyi](https://x.com/sridharfyi/status/2100562893758718127) (2026-09-20)
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
+- [starter_story](https://x.com/starter_story/status/2106053639123140814) (2026-10-03)
 - [stevenfiorillo](https://x.com/stevenfiorillo/status/2093840650223358375) (2026-08-30)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
 - [subahwadhwani](https://x.com/subahwadhwani/status/2097331593790792035) (2026-09-15)
