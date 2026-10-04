@@ -1,12 +1,13 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-03
-total_mentions: 604
+last_seen: 2026-10-04
+total_mentions: 611
 
 ## Related Tweets
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
 - [0x_rody](https://x.com/0x_rody/status/2102403963865759871) (2026-09-24)
+- [0x_rody](https://x.com/0x_rody/status/2106413848982880695) (2026-10-04)
 - [0xmarginman](https://x.com/0xmarginman/status/2093147453058863316) (2026-08-30)
 - [0xvietnguyen](https://x.com/0xvietnguyen/status/2088504476865081410) (2026-08-21)
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
@@ -111,6 +112,7 @@ total_mentions: 604
 - [ILSecOfState](https://x.com/ILSecOfState/status/2088299276841439364) (2026-08-21)
 - [IPONewsroom_](https://x.com/IPONewsroom_/status/2065081323803267479) (2026-06-13)
 - [IREN_Ltd](https://x.com/IREN_Ltd/status/2079162785804812622) (2026-07-26)
+- [IVANKA___Q](https://x.com/IVANKA___Q/status/2104008968582422591) (2026-10-04)
 - [InTheAssembly](https://x.com/InTheAssembly/status/2073857255099773185) (2026-07-06)
 - [InsiderWire](https://x.com/InsiderWire/status/2105514967009210747) (2026-10-01)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2075516156161536088) (2026-07-13)
@@ -205,6 +207,7 @@ total_mentions: 604
 - [SpikeCalls](https://x.com/SpikeCalls/status/2063529090091532540) (2026-06-08)
 - [StartupArchive_](https://x.com/StartupArchive_/status/2061052571876520406) (2026-06-07)
 - [Steve8708](https://x.com/Steve8708/status/2041909436059615442) (2026-06-06)
+- [StockSavvyShay](https://x.com/StockSavvyShay/status/2106121027948605702) (2026-10-04)
 - [Suhail](https://x.com/Suhail/status/2096400764126318843) (2026-09-06)
 - [Suhail](https://x.com/Suhail/status/2096611718445285438) (2026-09-07)
 - [SultanAlFardan](https://x.com/SultanAlFardan/status/2089552684491657307) (2026-08-18)
@@ -446,6 +449,7 @@ total_mentions: 604
 - [levelsio](https://x.com/levelsio/status/2102739359715774665) (2026-09-25)
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
 - [lightspeedvp](https://x.com/lightspeedvp/status/2070182060224852105) (2026-06-27)
+- [lillyemira](https://x.com/lillyemira/status/2106529187091935656) (2026-10-04)
 - [maheerpips](https://x.com/maheerpips/status/2102658482142949518) (2026-09-23)
 - [manxlab](https://x.com/manxlab/status/2104648664413012176) (2026-09-30)
 - [marclou](https://x.com/marclou/status/2086700255949865456) (2026-08-15)
@@ -461,6 +465,7 @@ total_mentions: 604
 - [mattdeitke](https://x.com/mattdeitke/status/2102912355638382997) (2026-09-26)
 - [mattpocockuk](https://x.com/mattpocockuk/status/2091434155561107647) (2026-08-26)
 - [mcuban](https://x.com/mcuban/status/2088787419906576436) (2026-08-18)
+- [mehulg10](https://x.com/mehulg10/status/2104998810774818817) (2026-10-04)
 - [menhguin](https://x.com/menhguin/status/2105381911741051175) (2026-10-02)
 - [mhp_guy](https://x.com/mhp_guy/status/2064453575594664169) (2026-06-12)
 - [mikefutia](https://x.com/mikefutia/status/1932464486646001840) (2026-06-07)
@@ -557,6 +562,7 @@ total_mentions: 604
 - [superteam](https://x.com/superteam/status/2101924701241331858) (2026-09-21)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
 - [tankots](https://x.com/tankots/status/2089372674644713664) (2026-08-21)
+- [techbyhez](https://x.com/techbyhez/status/2106056726067675287) (2026-10-04)
 - [techsaleshackz](https://x.com/techsaleshackz/status/2094910371337244877) (2026-09-02)
 - [tednotlasso](https://x.com/tednotlasso/status/2081022216381305275) (2026-07-28)
 - [tekbog](https://x.com/tekbog/status/2082787768162550105) (2026-08-02)
@@ -576,6 +582,7 @@ total_mentions: 604
 - [tradeifyforex](https://x.com/tradeifyforex/status/2103469713619648770) (2026-09-30)
 - [trajektoriePL](https://x.com/trajektoriePL/status/2088167040175526258) (2026-08-15)
 - [trikcode](https://x.com/trikcode/status/2078755471205253481) (2026-07-20)
+- [tryagency](https://x.com/tryagency/status/2106555654194290835) (2026-10-04)
 - [twistartups](https://x.com/twistartups/status/2071744145119465724) (2026-07-02)
 - [tylerrwayne](https://x.com/tylerrwayne/status/2081620596862202335) (2026-07-27)
 - [undefinedKi](https://x.com/undefinedKi/status/2063615286301839698) (2026-06-08)

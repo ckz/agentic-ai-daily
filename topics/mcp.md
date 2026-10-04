@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-10-03
-total_mentions: 866
+last_seen: 2026-10-04
+total_mentions: 874
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -28,6 +28,7 @@ total_mentions: 866
 - [0xwhrrari](https://x.com/0xwhrrari/status/2083305262035632347) (2026-08-02)
 - [51bodila](https://x.com/51bodila/status/2085020463290290504) (2026-08-06)
 - [AIWarper](https://x.com/AIWarper/status/2070535586075885912) (2026-06-27)
+- [AIWarper](https://x.com/AIWarper/status/2106466745661980904) (2026-10-04)
 - [AI_DVD6](https://x.com/AI_DVD6/status/2105299460007878989) (2026-10-01)
 - [AIdanSolves](https://x.com/AIdanSolves/status/2073162229533262290) (2026-07-04)
 - [AIonBase_](https://x.com/AIonBase_/status/2063002925761237147) (2026-06-05)
@@ -139,6 +140,7 @@ total_mentions: 866
 - [FareaNFts](https://x.com/FareaNFts/status/2092673671676727314) (2026-08-27)
 - [FellMentKE](https://x.com/FellMentKE/status/2064573513642758328) (2026-06-10)
 - [FelpsCrypto](https://x.com/FelpsCrypto/status/2093580590641480134) (2026-08-31)
+- [ForkedPush](https://x.com/ForkedPush/status/2106313584829431901) (2026-10-04)
 - [ForwardEditor](https://x.com/ForwardEditor/status/2097877069334036941) (2026-09-13)
 - [ForwardEditor](https://x.com/ForwardEditor/status/2098707042072436786) (2026-09-13)
 - [FundamentEdge](https://x.com/FundamentEdge/status/2086632605466915006) (2026-08-10)
@@ -169,6 +171,7 @@ total_mentions: 866
 - [KirkDBorne](https://x.com/KirkDBorne/status/2072425629627330995) (2026-07-02)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2076503185225617544) (2026-07-13)
 - [Kling_ai](https://x.com/Kling_ai/status/2079944555718435124) (2026-07-24)
+- [LCSlates](https://x.com/LCSlates/status/2106066169702580719) (2026-10-04)
 - [LearnWithBishal](https://x.com/LearnWithBishal/status/2093017657423565037) (2026-08-28)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2058615544048451842) (2026-07-04)
@@ -332,6 +335,7 @@ total_mentions: 866
 - [XiaomiMiMo](https://x.com/XiaomiMiMo/status/2064799879352959085) (2026-06-11)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2090968445378814364) (2026-08-22)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2095668162624618959) (2026-09-05)
+- [YassirL2o](https://x.com/YassirL2o/status/2106032588892615142) (2026-10-04)
 - [ZHENXINYU](https://x.com/ZHENXINYU/status/2064950271906889746) (2026-06-11)
 - [_Engr_tariq](https://x.com/_Engr_tariq/status/2068603345229562006) (2026-06-21)
 - [_avichawla](https://x.com/_avichawla/status/2092688897558089897) (2026-08-30)
@@ -523,6 +527,7 @@ total_mentions: 866
 - [elune0x](https://x.com/elune0x/status/2080710242929697122) (2026-07-26)
 - [elune0x](https://x.com/elune0x/status/2086814848709517580) (2026-08-15)
 - [elune0x](https://x.com/elune0x/status/2091175947374391776) (2026-08-23)
+- [emmanuel_2m](https://x.com/emmanuel_2m/status/2105720329842860097) (2026-10-04)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2060824760859431275) (2026-06-05)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2064019609062101321) (2026-06-09)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2077696199486775764) (2026-07-18)
@@ -570,6 +575,7 @@ total_mentions: 866
 - [hcompany_ai](https://x.com/hcompany_ai/status/2104508207582367807) (2026-09-29)
 - [hedra_labs](https://x.com/hedra_labs/status/2105342577725546681) (2026-10-01)
 - [hellorob](https://x.com/hellorob/status/2074237901060399360) (2026-07-08)
+- [heyDhavall](https://x.com/heyDhavall/status/2106620712966656448) (2026-10-04)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [hieuSSR](https://x.com/hieuSSR/status/2104169084241981504) (2026-09-28)
 - [higgsfield](https://x.com/higgsfield/status/2064780036234969131) (2026-06-11)
@@ -581,6 +587,7 @@ total_mentions: 866
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2105412853914284117) (2026-10-01)
 - [himanshubuildss](https://x.com/himanshubuildss/status/2101255618313302146) (2026-09-20)
 - [himanshubuildss](https://x.com/himanshubuildss/status/2103374896147378635) (2026-09-29)
+- [himanshubuildss](https://x.com/himanshubuildss/status/2106411655055974640) (2026-10-04)
 - [hiro44_pino](https://x.com/hiro44_pino/status/2090589913754517610) (2026-08-21)
 - [howardting](https://x.com/howardting/status/2100607288000324065) (2026-09-18)
 - [huacnlee](https://x.com/huacnlee/status/2105550545939484751) (2026-10-01)
@@ -832,6 +839,7 @@ total_mentions: 866
 - [trythreews](https://x.com/trythreews/status/2096260452875644976) (2026-09-12)
 - [twetsfyp](https://x.com/twetsfyp/status/2078387675447328957) (2026-07-19)
 - [twoclipping](https://x.com/twoclipping/status/2103835273813496100) (2026-09-28)
+- [twoclipping](https://x.com/twoclipping/status/2106526359589675085) (2026-10-04)
 - [uaghazadae](https://x.com/uaghazadae/status/2087580062593823004) (2026-08-13)
 - [undefinedKi](https://x.com/undefinedKi/status/2066159485652025597) (2026-06-15)
 - [undefinedKi](https://x.com/undefinedKi/status/2071931934012211642) (2026-07-02)

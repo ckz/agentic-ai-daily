@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-03
-total_mentions: 172
+last_seen: 2026-10-04
+total_mentions: 174
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -117,6 +117,7 @@ total_mentions: 172
 - [gokulr](https://x.com/gokulr/status/2082145789372137749) (2026-08-02)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [himanshubuildss](https://x.com/himanshubuildss/status/2101255618313302146) (2026-09-20)
+- [himanshubuildss](https://x.com/himanshubuildss/status/2106411655055974640) (2026-10-04)
 - [hxiao](https://x.com/hxiao/status/2094519020531994639) (2026-09-02)
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
 - [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)
@@ -130,6 +131,7 @@ total_mentions: 172
 - [leerob](https://x.com/leerob/status/2089169319099777364) (2026-08-17)
 - [lemondooe](https://x.com/lemondooe/status/2073312103167840581) (2026-07-04)
 - [lennysan](https://x.com/lennysan/status/2102422882341322779) (2026-09-24)
+- [liamottley_](https://x.com/liamottley_/status/2106542593597198765) (2026-10-04)
 - [martinfowler](https://x.com/martinfowler/status/2087173563144912985) (2026-08-12)
 - [mattpocockuk](https://x.com/mattpocockuk/status/2064663221718425660) (2026-06-11)
 - [mattpocockuk](https://x.com/mattpocockuk/status/2089701313676284316) (2026-09-23)

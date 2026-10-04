@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-03
-total_mentions: 247
+last_seen: 2026-10-04
+total_mentions: 248
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -39,6 +39,7 @@ total_mentions: 247
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2064345389424324891) (2026-06-14)
 - [BinaryScriptar](https://x.com/BinaryScriptar/status/2090679698351391113) (2026-08-22)
 - [Blockworks](https://x.com/Blockworks/status/2105663711373631730) (2026-10-02)
+- [Bober_smart](https://x.com/Bober_smart/status/2106444298849796475) (2026-10-04)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2087190437299941811) (2026-08-21)
 - [CEOGuy](https://x.com/CEOGuy/status/2068212413309010231) (2026-06-20)
 - [CharlieDFilm](https://x.com/CharlieDFilm/status/2098929162735997071) (2026-09-14)

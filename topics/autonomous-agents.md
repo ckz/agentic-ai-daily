@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-03
-total_mentions: 1357
+last_seen: 2026-10-04
+total_mentions: 1365
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -203,6 +203,7 @@ total_mentions: 1357
 - [Bober_smart](https://x.com/Bober_smart/status/2093319806330015828) (2026-09-04)
 - [Bober_smart](https://x.com/Bober_smart/status/2095479502172295378) (2026-09-04)
 - [Bober_smart](https://x.com/Bober_smart/status/2096256460661358995) (2026-09-06)
+- [Bober_smart](https://x.com/Bober_smart/status/2106444298849796475) (2026-10-04)
 - [BradGroux](https://x.com/BradGroux/status/2065096482831659348) (2026-06-13)
 - [BradfordHuber4](https://x.com/BradfordHuber4/status/2095221538979188899) (2026-09-05)
 - [Brainm8ion](https://x.com/Brainm8ion/status/2087751034944803135) (2026-08-13)
@@ -514,11 +515,13 @@ total_mentions: 1357
 - [PythonDvz](https://x.com/PythonDvz/status/2086415444894749008) (2026-08-11)
 - [PythonDvz](https://x.com/PythonDvz/status/2099725396895727629) (2026-09-17)
 - [PythonHub](https://x.com/PythonHub/status/2095425383000650201) (2026-09-09)
+- [PythonHub](https://x.com/PythonHub/status/2106055428903665761) (2026-10-04)
 - [QwenDevs](https://x.com/QwenDevs/status/2093175583286968499) (2026-08-28)
 - [RATGPT_official](https://x.com/RATGPT_official/status/2070072449027494268) (2026-06-28)
 - [RachelTobac](https://x.com/RachelTobac/status/2082214795072225786) (2026-07-30)
 - [Rahul1539482](https://x.com/Rahul1539482/status/2068215799849091178) (2026-06-20)
 - [RamSingh_369](https://x.com/RamSingh_369/status/2094252362970099809) (2026-08-31)
+- [RangerCov_175](https://x.com/RangerCov_175/status/2106619342838214855) (2026-10-04)
 - [RaoulGMI](https://x.com/RaoulGMI/status/2082875102631186508) (2026-08-16)
 - [RaoulGMI](https://x.com/RaoulGMI/status/2085842971665351165) (2026-08-08)
 - [RaoulGMI](https://x.com/RaoulGMI/status/2091979579363586074) (2026-08-27)
@@ -592,6 +595,7 @@ total_mentions: 1357
 - [StockSavvyShay](https://x.com/StockSavvyShay/status/2065801050154811741) (2026-06-14)
 - [StockSavvyShay](https://x.com/StockSavvyShay/status/2072731841204011114) (2026-07-03)
 - [StockSavvyShay](https://x.com/StockSavvyShay/status/2101312580358930720) (2026-09-20)
+- [StockSavvyShay](https://x.com/StockSavvyShay/status/2104984508487651718) (2026-10-04)
 - [SuiNetwork](https://x.com/SuiNetwork/status/2075716447062618312) (2026-07-11)
 - [Sumanth_077](https://x.com/Sumanth_077/status/2063254456834372040) (2026-06-07)
 - [Sumanth_077](https://x.com/Sumanth_077/status/2091169662956720527) (2026-08-25)
@@ -640,6 +644,7 @@ total_mentions: 1357
 - [VivekIntel](https://x.com/VivekIntel/status/2073810331827343525) (2026-07-09)
 - [VivekIntel](https://x.com/VivekIntel/status/2073996440326873221) (2026-07-13)
 - [Vtrivedy10](https://x.com/Vtrivedy10/status/2098150319305715997) (2026-09-17)
+- [WOLF_Financial](https://x.com/WOLF_Financial/status/2104501885202026764) (2026-10-04)
 - [WasimxWeb3](https://x.com/WasimxWeb3/status/2064971624944964016) (2026-06-11)
 - [WaymarkMoney](https://x.com/WaymarkMoney/status/2081914932237369514) (2026-07-30)
 - [WesRoth](https://x.com/WesRoth/status/2043871865513619560) (2026-07-24)
@@ -833,6 +838,7 @@ total_mentions: 1357
 - [coinbureau](https://x.com/coinbureau/status/2031222262112858286) (2026-06-09)
 - [composio](https://x.com/composio/status/2085330847951970801) (2026-08-07)
 - [composio](https://x.com/composio/status/2086814488162972027) (2026-08-11)
+- [connectwithveee](https://x.com/connectwithveee/status/2106329490771067000) (2026-10-04)
 - [cryptobrass](https://x.com/cryptobrass/status/2084245832363130941) (2026-08-04)
 - [cryptobuzzer03](https://x.com/cryptobuzzer03/status/2067855094327001574) (2026-06-19)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1872809091799875592) (2026-06-29)
@@ -878,6 +884,7 @@ total_mentions: 1357
 - [deanwball](https://x.com/deanwball/status/2078133895766114412) (2026-07-20)
 - [dee_hw](https://x.com/dee_hw/status/2089388227971219643) (2026-08-18)
 - [dee_naliaks](https://x.com/dee_naliaks/status/2093367019869773895) (2026-08-29)
+- [degenApe22](https://x.com/degenApe22/status/2106517300576960799) (2026-10-04)
 - [degen_mike14](https://x.com/degen_mike14/status/2072413220703236391) (2026-07-03)
 - [dexhorthy](https://x.com/dexhorthy/status/2067286892786454855) (2026-06-19)
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
@@ -1297,6 +1304,7 @@ total_mentions: 1357
 - [tetsuoai](https://x.com/tetsuoai/status/2071817609742532884) (2026-06-30)
 - [tetsuoai](https://x.com/tetsuoai/status/2073653059314688465) (2026-07-05)
 - [tetsuoai](https://x.com/tetsuoai/status/2077605893802508479) (2026-07-16)
+- [thanhtuan16495](https://x.com/thanhtuan16495/status/2106611896740954251) (2026-10-04)
 - [thatguybg](https://x.com/thatguybg/status/2097466072601362741) (2026-09-09)
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)
 - [the_osps](https://x.com/the_osps/status/2097194727401717808) (2026-09-08)

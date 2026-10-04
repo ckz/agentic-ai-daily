@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-03
-total_mentions: 522
+last_seen: 2026-10-04
+total_mentions: 526
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -191,7 +191,9 @@ total_mentions: 522
 - [PythonDvz](https://x.com/PythonDvz/status/2063623261678698575) (2026-06-10)
 - [PythonDvz](https://x.com/PythonDvz/status/2099725396895727629) (2026-09-17)
 - [PythonHub](https://x.com/PythonHub/status/2095425383000650201) (2026-09-09)
+- [PythonHub](https://x.com/PythonHub/status/2106055428903665761) (2026-10-04)
 - [Rahul1539482](https://x.com/Rahul1539482/status/2068215799849091178) (2026-06-20)
+- [RangerCov_175](https://x.com/RangerCov_175/status/2106619342838214855) (2026-10-04)
 - [RaoulGMI](https://x.com/RaoulGMI/status/2085842971665351165) (2026-08-08)
 - [RishiUvaach](https://x.com/RishiUvaach/status/2082699300648431635) (2026-07-30)
 - [RishiUvaach](https://x.com/RishiUvaach/status/2090068768395248014) (2026-08-22)
@@ -266,6 +268,7 @@ total_mentions: 522
 - [adxtyahq](https://x.com/adxtyahq/status/2062090077296283932) (2026-06-08)
 - [afahmy_dev](https://x.com/afahmy_dev/status/2085986863119040984) (2026-08-08)
 - [agenticbrew](https://x.com/agenticbrew/status/2072848219084910646) (2026-07-03)
+- [agentnative_](https://x.com/agentnative_/status/2104992892393497037) (2026-10-04)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
 - [ai_with_jyoti](https://x.com/ai_with_jyoti/status/2099175125639942611) (2026-09-18)
 - [aicryptoboss](https://x.com/aicryptoboss/status/2082348441506603086) (2026-07-29)
@@ -499,6 +502,7 @@ total_mentions: 522
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)
 - [the_osps](https://x.com/the_osps/status/2097194727401717808) (2026-09-08)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2103095101165633624) (2026-09-27)
+- [thegreatest_sv](https://x.com/thegreatest_sv/status/2106403149162455349) (2026-10-04)
 - [themahmud5](https://x.com/themahmud5/status/2104070146709168142) (2026-09-27)
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)
 - [tibo_maker](https://x.com/tibo_maker/status/2105047952419094963) (2026-10-03)

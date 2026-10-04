@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-10-03
-total_mentions: 134
+last_seen: 2026-10-04
+total_mentions: 137
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -78,6 +78,7 @@ total_mentions: 134
 - [coder_surya](https://x.com/coder_surya/status/2073957608998715439) (2026-07-06)
 - [cursor_ai](https://x.com/cursor_ai/status/2084317547608911986) (2026-08-09)
 - [cwmasaki](https://x.com/cwmasaki/status/2088433897445171301) (2026-08-15)
+- [daniel_mac8](https://x.com/daniel_mac8/status/2106486954351001652) (2026-10-04)
 - [danshipper](https://x.com/danshipper/status/2102461471716483208) (2026-09-23)
 - [deedydas](https://x.com/deedydas/status/1898444603071795378) (2026-06-06)
 - [deedydas](https://x.com/deedydas/status/2099880100770849001) (2026-09-16)
@@ -103,6 +104,7 @@ total_mentions: 134
 - [latentspacepod](https://x.com/latentspacepod/status/2105442037042663491) (2026-10-01)
 - [lennysan](https://x.com/lennysan/status/2097392748244721911) (2026-09-10)
 - [levie](https://x.com/levie/status/2099739019517235618) (2026-09-15)
+- [liamottley_](https://x.com/liamottley_/status/2106542593597198765) (2026-10-04)
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2073646837894992126) (2026-07-05)
 - [markchen90](https://x.com/markchen90/status/2095597534412673109) (2026-09-04)
 - [martin_casado](https://x.com/martin_casado/status/2096648261759389983) (2026-09-07)
@@ -112,6 +114,7 @@ total_mentions: 134
 - [mikoto2000](https://x.com/mikoto2000/status/2099270333522186365) (2026-09-14)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2075469825514824153) (2026-07-10)
 - [milindlabs](https://x.com/milindlabs/status/2087289803964559746) (2026-08-14)
+- [nealkhosla](https://x.com/nealkhosla/status/2106494469118013844) (2026-10-04)
 - [nicbstme](https://x.com/nicbstme/status/2088014852954669300) (2026-08-14)
 - [norapsi](https://x.com/norapsi/status/2095180581550305503) (2026-09-03)
 - [petergyang](https://x.com/petergyang/status/2101862331345154469) (2026-09-21)
