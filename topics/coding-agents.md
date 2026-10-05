@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-04
-total_mentions: 174
+last_seen: 2026-10-05
+total_mentions: 176
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -42,6 +42,7 @@ total_mentions: 174
 - [LLMpsycho](https://x.com/LLMpsycho/status/2099473233787388049) (2026-09-20)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2097351499575697477) (2026-09-10)
+- [Lummox_eth](https://x.com/Lummox_eth/status/2106062601289408549) (2026-10-05)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2081303563746398665) (2026-07-28)
 - [MiaAI_lab](https://x.com/MiaAI_lab/status/2104505550281039892) (2026-09-29)
 - [N01ennn](https://x.com/N01ennn/status/2088606747531358505) (2026-08-21)
@@ -133,6 +134,7 @@ total_mentions: 174
 - [lennysan](https://x.com/lennysan/status/2102422882341322779) (2026-09-24)
 - [liamottley_](https://x.com/liamottley_/status/2106542593597198765) (2026-10-04)
 - [martinfowler](https://x.com/martinfowler/status/2087173563144912985) (2026-08-12)
+- [matanSF](https://x.com/matanSF/status/2105335179502064038) (2026-10-05)
 - [mattpocockuk](https://x.com/mattpocockuk/status/2064663221718425660) (2026-06-11)
 - [mattpocockuk](https://x.com/mattpocockuk/status/2089701313676284316) (2026-09-23)
 - [mfishbein](https://x.com/mfishbein/status/2081031938228232360) (2026-07-27)

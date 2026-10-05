@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-10-04
-total_mentions: 137
+last_seen: 2026-10-05
+total_mentions: 142
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -45,6 +45,7 @@ total_mentions: 137
 - [Ric_RTP](https://x.com/Ric_RTP/status/2089132632332251293) (2026-08-17)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2090382081209909576) (2026-08-26)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2103533741251416342) (2026-09-26)
+- [RoundtableSpace](https://x.com/RoundtableSpace/status/2106319598492545245) (2026-10-05)
 - [SamSokolin](https://x.com/SamSokolin/status/2094824011427373415) (2026-09-03)
 - [SimularAI](https://x.com/SimularAI/status/2093009990663434361) (2026-08-28)
 - [SkyeSharkie](https://x.com/SkyeSharkie/status/2092122622834442581) (2026-08-29)
@@ -66,6 +67,8 @@ total_mentions: 137
 - [alexandr_wang](https://x.com/alexandr_wang/status/2102916057006764370) (2026-09-24)
 - [amasad](https://x.com/amasad/status/2065452585964949831) (2026-06-15)
 - [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)
+- [argofowl](https://x.com/argofowl/status/2106389732322091475) (2026-10-05)
+- [argofowl](https://x.com/argofowl/status/2106789987907940538) (2026-10-05)
 - [arturovilla](https://x.com/arturovilla/status/2087625765529461145) (2026-08-19)
 - [ataiiam](https://x.com/ataiiam/status/2102400431519592581) (2026-09-23)
 - [ataiiam](https://x.com/ataiiam/status/2105710796198322659) (2026-10-02)
@@ -88,6 +91,7 @@ total_mentions: 137
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
 - [ehsanik](https://x.com/ehsanik/status/2070544602164330561) (2026-06-27)
 - [gkxspace](https://x.com/gkxspace/status/2068546908360999331) (2026-06-21)
+- [gregisenberg](https://x.com/gregisenberg/status/2104613420460822745) (2026-10-05)
 - [hanghuang_](https://x.com/hanghuang_/status/2099559078687088854) (2026-09-19)
 - [hcompany_ai](https://x.com/hcompany_ai/status/2104508207582367807) (2026-09-29)
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2097085343967355190) (2026-09-10)
@@ -139,6 +143,7 @@ total_mentions: 137
 - [trycua](https://x.com/trycua/status/2101014004927729737) (2026-09-19)
 - [trycua](https://x.com/trycua/status/2102800643794591833) (2026-09-24)
 - [trycua](https://x.com/trycua/status/2103498682532253734) (2026-09-26)
+- [vista8](https://x.com/vista8/status/2106647309102825969) (2026-10-05)
 - [wallstengine](https://x.com/wallstengine/status/2094155293261435063) (2026-09-01)
 - [wuyang_zhou](https://x.com/wuyang_zhou/status/2096548032128942370) (2026-09-11)
 - [zcode_ai](https://x.com/zcode_ai/status/2092635718766215590) (2026-08-27)

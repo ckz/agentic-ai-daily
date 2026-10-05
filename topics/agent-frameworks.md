@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-04
-total_mentions: 526
+last_seen: 2026-10-05
+total_mentions: 532
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -35,6 +35,7 @@ total_mentions: 526
 - [AndrewBolis](https://x.com/AndrewBolis/status/2089672416847126974) (2026-08-23)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2062245225159111117) (2026-06-06)
 - [AndrewYNg](https://x.com/AndrewYNg/status/1975614372799283423) (2026-06-12)
+- [AnnuKumari35786](https://x.com/AnnuKumari35786/status/2106358936635085267) (2026-10-05)
 - [AnthropicAI](https://x.com/AnthropicAI/status/2066969532380721386) (2026-06-19)
 - [AnthropicAI](https://x.com/AnthropicAI/status/2072163884430229756) (2026-07-01)
 - [ArslyTech](https://x.com/ArslyTech/status/2063153998518235584) (2026-06-06)
@@ -45,6 +46,7 @@ total_mentions: 526
 - [Av1dlive](https://x.com/Av1dlive/status/2082807521161654576) (2026-07-31)
 - [Av1dlive](https://x.com/Av1dlive/status/2085421980434698739) (2026-08-10)
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
+- [BenBajarin](https://x.com/BenBajarin/status/2105015734888013995) (2026-10-05)
 - [Benioff](https://x.com/Benioff/status/2092705110082347011) (2026-08-29)
 - [BestAIToolFind](https://x.com/BestAIToolFind/status/2087737224456732920) (2026-08-13)
 - [BradfordHuber4](https://x.com/BradfordHuber4/status/2095221538979188899) (2026-09-05)
@@ -160,6 +162,7 @@ total_mentions: 526
 - [LuizaJarovsky](https://x.com/LuizaJarovsky/status/2072664971616383227) (2026-07-03)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2105607355262009622) (2026-10-02)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2105661924482359788) (2026-10-03)
+- [Lummox_eth](https://x.com/Lummox_eth/status/2106062601289408549) (2026-10-05)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2092142425879855254) (2026-08-28)
 - [MarioNawfal](https://x.com/MarioNawfal/status/2085171754415038482) (2026-08-06)
@@ -174,6 +177,7 @@ total_mentions: 526
 - [MilkRoadAI](https://x.com/MilkRoadAI/status/2072187752402346407) (2026-07-08)
 - [Mnilax](https://x.com/Mnilax/status/2087651578639470614) (2026-08-14)
 - [Mohansinha](https://x.com/Mohansinha/status/2079629691494060368) (2026-07-24)
+- [Mohiniuni](https://x.com/Mohiniuni/status/2106601226276118967) (2026-10-05)
 - [MrOnsase](https://x.com/MrOnsase/status/2075841247223165124) (2026-07-11)
 - [MstRokeyaK76792](https://x.com/MstRokeyaK76792/status/2096130494102737375) (2026-09-05)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
@@ -297,6 +301,7 @@ total_mentions: 526
 - [ashpreetbedi](https://x.com/ashpreetbedi/status/2072857622575751271) (2026-07-03)
 - [ashpreetbedi](https://x.com/ashpreetbedi/status/2077169299777531942) (2026-07-16)
 - [asmah2107](https://x.com/asmah2107/status/2062870047903605109) (2026-06-06)
+- [ataiiam](https://x.com/ataiiam/status/2106731156691615978) (2026-10-05)
 - [augmentcode](https://x.com/augmentcode/status/2064401015957492202) (2026-06-10)
 - [axiomos_](https://x.com/axiomos_/status/2072983092365811940) (2026-07-04)
 - [axon402](https://x.com/axon402/status/2064629815961854211) (2026-06-11)
@@ -503,6 +508,7 @@ total_mentions: 526
 - [the_osps](https://x.com/the_osps/status/2097194727401717808) (2026-09-08)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2103095101165633624) (2026-09-27)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2106403149162455349) (2026-10-04)
+- [thegreatest_sv](https://x.com/thegreatest_sv/status/2106715907519062379) (2026-10-05)
 - [themahmud5](https://x.com/themahmud5/status/2104070146709168142) (2026-09-27)
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)
 - [tibo_maker](https://x.com/tibo_maker/status/2105047952419094963) (2026-10-03)

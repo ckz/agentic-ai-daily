@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-04
-total_mentions: 1365
+last_seen: 2026-10-05
+total_mentions: 1370
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -191,6 +191,7 @@ total_mentions: 1365
 - [Badtheorylabs](https://x.com/Badtheorylabs/status/2085359932900082039) (2026-08-08)
 - [Base_EUR](https://x.com/Base_EUR/status/2104873827645997562) (2026-09-30)
 - [BasicProtein26](https://x.com/BasicProtein26/status/2099320269391228973) (2026-09-19)
+- [BenBajarin](https://x.com/BenBajarin/status/2105015734888013995) (2026-10-05)
 - [Benioff](https://x.com/Benioff/status/2094618697520615868) (2026-09-01)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2062873857304752368) (2026-06-05)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2063598644293484741) (2026-06-08)
@@ -407,6 +408,7 @@ total_mentions: 1365
 - [LuminaXspace](https://x.com/LuminaXspace/status/2084599704097083823) (2026-08-06)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2097351499575697477) (2026-09-10)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2105607355262009622) (2026-10-02)
+- [Lummox_eth](https://x.com/Lummox_eth/status/2106062601289408549) (2026-10-05)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2079548712888435060) (2026-07-22)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2080629030319980563) (2026-07-26)
@@ -437,6 +439,7 @@ total_mentions: 1365
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
 - [MaxForAI](https://x.com/MaxForAI/status/2094607306998841814) (2026-09-01)
 - [MaxForAI](https://x.com/MaxForAI/status/2095219932686590229) (2026-09-03)
+- [Mayhem4Markets](https://x.com/Mayhem4Markets/status/2106488648203980988) (2026-10-05)
 - [MdRahi444797](https://x.com/MdRahi444797/status/2068588886620844518) (2026-06-21)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2073950058677186755) (2026-07-06)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2081303563746398665) (2026-07-28)
@@ -450,6 +453,7 @@ total_mentions: 1365
 - [MiniMax_AI](https://x.com/MiniMax_AI/status/2061266317815296322) (2026-06-05)
 - [MithilaStack](https://x.com/MithilaStack/status/2072557584536776834) (2026-07-02)
 - [Mnilax](https://x.com/Mnilax/status/2087651578639470614) (2026-08-14)
+- [Mohiniuni](https://x.com/Mohiniuni/status/2106601226276118967) (2026-10-05)
 - [MoonDevOnYT](https://x.com/MoonDevOnYT/status/2072462757379612916) (2026-07-07)
 - [Motionfly_co](https://x.com/Motionfly_co/status/2089054633121419468) (2026-08-17)
 - [MrOnsase](https://x.com/MrOnsase/status/2075841247223165124) (2026-07-11)
@@ -761,6 +765,7 @@ total_mentions: 1365
 - [asklivermore](https://x.com/asklivermore/status/2079592646188958064) (2026-07-22)
 - [asmah2107](https://x.com/asmah2107/status/2062870047903605109) (2026-06-06)
 - [aswinpy](https://x.com/aswinpy/status/2087449405242638482) (2026-08-12)
+- [ataiiam](https://x.com/ataiiam/status/2106731156691615978) (2026-10-05)
 - [athanzxyt](https://x.com/athanzxyt/status/2067660560607613032) (2026-06-19)
 - [atishayhyperke](https://x.com/atishayhyperke/status/2091163553893925326) (2026-08-23)
 - [avilewis](https://x.com/avilewis/status/2079969472614633662) (2026-07-24)

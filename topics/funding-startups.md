@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-04
-total_mentions: 611
+last_seen: 2026-10-05
+total_mentions: 619
 
 ## Related Tweets
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
@@ -13,6 +13,7 @@ total_mentions: 611
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
 - [5eniorDeveloper](https://x.com/5eniorDeveloper/status/2097029277434757251) (2026-09-08)
 - [5harath](https://x.com/5harath/status/2082161680516063294) (2026-07-29)
+- [60Minutes](https://x.com/60Minutes/status/2106897544764678602) (2026-10-05)
 - [90daysliquidity](https://x.com/90daysliquidity/status/2088026533860409432) (2026-08-16)
 - [AFpost](https://x.com/AFpost/status/2078881670162202801) (2026-07-20)
 - [AISafetyMemes](https://x.com/AISafetyMemes/status/2087549262427263014) (2026-08-15)
@@ -151,6 +152,7 @@ total_mentions: 611
 - [Motionsbyeddy](https://x.com/Motionsbyeddy/status/2071694912597479912) (2026-07-02)
 - [NFT_Chen](https://x.com/NFT_Chen/status/2090276530962461131) (2026-08-22)
 - [NKLinhzk](https://x.com/NKLinhzk/status/2102924602301350339) (2026-09-25)
+- [Nancy__Diazz](https://x.com/Nancy__Diazz/status/2106851598924403130) (2026-10-05)
 - [NextLvlFunded](https://x.com/NextLvlFunded/status/2061795412986728637) (2026-06-05)
 - [Nim_Ravid1](https://x.com/Nim_Ravid1/status/2077785419912188236) (2026-07-17)
 - [Nitaj333](https://x.com/Nitaj333/status/2093342512911925392) (2026-08-29)
@@ -287,11 +289,13 @@ total_mentions: 611
 - [askOkara](https://x.com/askOkara/status/2089641580634476718) (2026-08-22)
 - [asklivermore](https://x.com/asklivermore/status/2092591892194381828) (2026-08-27)
 - [athanzxyt](https://x.com/athanzxyt/status/2067660560607613032) (2026-06-19)
+- [austin_rief](https://x.com/austin_rief/status/2106091150566142416) (2026-10-05)
 - [austinc3301](https://x.com/austinc3301/status/2095301497718448268) (2026-09-03)
 - [aw_trades_](https://x.com/aw_trades_/status/2073794807323889781) (2026-07-06)
 - [awwstn](https://x.com/awwstn/status/2067750610963939571) (2026-06-19)
 - [axi_master](https://x.com/axi_master/status/2067655053050352041) (2026-06-19)
 - [axisrobotics](https://x.com/axisrobotics/status/2081711331791827387) (2026-07-28)
+- [badger69420](https://x.com/badger69420/status/2106391122893324446) (2026-10-05)
 - [balajis](https://x.com/balajis/status/2104986787743719861) (2026-09-30)
 - [base](https://x.com/base/status/2083204522415960437) (2026-08-05)
 - [bella_quack](https://x.com/bella_quack/status/2101483665620627781) (2026-09-20)
@@ -444,6 +448,7 @@ total_mentions: 611
 - [kseniam0s](https://x.com/kseniam0s/status/2099593754659459507) (2026-09-16)
 - [kseniam0s](https://x.com/kseniam0s/status/2099928304786829692) (2026-09-16)
 - [kseniam0s](https://x.com/kseniam0s/status/2105370329434489265) (2026-10-02)
+- [kseniam0s](https://x.com/kseniam0s/status/2106788298240729286) (2026-10-05)
 - [lami_thefirst](https://x.com/lami_thefirst/status/2097224273853129017) (2026-09-08)
 - [launchwhasmik](https://x.com/launchwhasmik/status/2104542307680719043) (2026-10-02)
 - [levelsio](https://x.com/levelsio/status/2102739359715774665) (2026-09-25)
@@ -462,6 +467,7 @@ total_mentions: 611
 - [margelo_com](https://x.com/margelo_com/status/2092310982710235294) (2026-08-28)
 - [markiewagner](https://x.com/markiewagner/status/2064778239164461316) (2026-06-11)
 - [marorhab](https://x.com/marorhab/status/2063163950850609431) (2026-06-06)
+- [matanSF](https://x.com/matanSF/status/2105335179502064038) (2026-10-05)
 - [mattdeitke](https://x.com/mattdeitke/status/2102912355638382997) (2026-09-26)
 - [mattpocockuk](https://x.com/mattpocockuk/status/2091434155561107647) (2026-08-26)
 - [mcuban](https://x.com/mcuban/status/2088787419906576436) (2026-08-18)
@@ -501,6 +507,7 @@ total_mentions: 611
 - [pengsonal](https://x.com/pengsonal/status/2102668006023410105) (2026-09-24)
 - [pierreeliottlal](https://x.com/pierreeliottlal/status/2066037831626362988) (2026-06-14)
 - [pitdesi](https://x.com/pitdesi/status/2098178397008781823) (2026-09-12)
+- [piyascode9](https://x.com/piyascode9/status/2106945216154669240) (2026-10-05)
 - [plpiaoliang](https://x.com/plpiaoliang/status/2082696373955346650) (2026-07-30)
 - [polydao](https://x.com/polydao/status/2103362362015199286) (2026-09-28)
 - [propxwealth](https://x.com/propxwealth/status/2086007408078549329) (2026-08-14)
@@ -560,6 +567,7 @@ total_mentions: 611
 - [subahwadhwani](https://x.com/subahwadhwani/status/2097331593790792035) (2026-09-15)
 - [suni_code](https://x.com/suni_code/status/2073859515485974967) (2026-07-08)
 - [superteam](https://x.com/superteam/status/2101924701241331858) (2026-09-21)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2106315825586331880) (2026-10-05)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
 - [tankots](https://x.com/tankots/status/2089372674644713664) (2026-08-21)
 - [techbyhez](https://x.com/techbyhez/status/2106056726067675287) (2026-10-04)
