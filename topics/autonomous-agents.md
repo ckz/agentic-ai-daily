@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-05
-total_mentions: 1370
+last_seen: 2026-10-06
+total_mentions: 1381
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -66,6 +66,7 @@ total_mentions: 1370
 - [0xSammy](https://x.com/0xSammy/status/1882500633573609980) (2026-06-08)
 - [0xSero](https://x.com/0xSero/status/2097620672952344680) (2026-09-13)
 - [0xSlyth](https://x.com/0xSlyth/status/2070124131207860577) (2026-06-27)
+- [0x_aster](https://x.com/0x_aster/status/2106467164408758656) (2026-10-06)
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
 - [0xchadx](https://x.com/0xchadx/status/2067862587174244810) (2026-06-19)
 - [0xgilbert](https://x.com/0xgilbert/status/2062624582977179796) (2026-06-06)
@@ -218,6 +219,7 @@ total_mentions: 1370
 - [CapexAndChill](https://x.com/CapexAndChill/status/2073438257879097642) (2026-07-05)
 - [CapexAndChill](https://x.com/CapexAndChill/status/2073965340476768534) (2026-07-06)
 - [Captainmetax](https://x.com/Captainmetax/status/2101853923078545537) (2026-09-24)
+- [Changxiu_leo_ji](https://x.com/Changxiu_leo_ji/status/2107153972859695222) (2026-10-06)
 - [ChemistDeFi](https://x.com/ChemistDeFi/status/2079486844257833203) (2026-07-28)
 - [ChiomaChukwura2](https://x.com/ChiomaChukwura2/status/2085162277288976842) (2026-08-09)
 - [ChiomaChukwura2](https://x.com/ChiomaChukwura2/status/2085542169385836992) (2026-08-09)
@@ -226,6 +228,7 @@ total_mentions: 1370
 - [ClementDelangue](https://x.com/ClementDelangue/status/2082201245813514613) (2026-07-30)
 - [Cloudflare](https://x.com/Cloudflare/status/2065279639535456392) (2026-06-12)
 - [Cloudflare](https://x.com/Cloudflare/status/2083947187457667276) (2026-08-04)
+- [CodexResets1](https://x.com/CodexResets1/status/2106453466034078101) (2026-10-06)
 - [Coinmaster100x](https://x.com/Coinmaster100x/status/2092835612827300333) (2026-08-27)
 - [Coinmaster100x](https://x.com/Coinmaster100x/status/2102690846147572021) (2026-09-26)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2081565399347323127) (2026-08-02)
@@ -332,6 +335,7 @@ total_mentions: 1370
 - [GpaAndy](https://x.com/GpaAndy/status/2101129153172910212) (2026-09-20)
 - [GrishinRobotics](https://x.com/GrishinRobotics/status/2067880410676187569) (2026-06-19)
 - [GrowAIHub](https://x.com/GrowAIHub/status/2071849281712234663) (2026-06-30)
+- [Grow_withAI](https://x.com/Grow_withAI/status/2106731541221306757) (2026-10-06)
 - [Guelug](https://x.com/Guelug/status/2072092575947989385) (2026-07-01)
 - [Gustafssonkotte](https://x.com/Gustafssonkotte/status/2082309711785849067) (2026-08-01)
 - [Gyokeres_eth](https://x.com/Gyokeres_eth/status/2081330941096583465) (2026-08-02)
@@ -630,6 +634,7 @@ total_mentions: 1370
 - [TimesOfAI_](https://x.com/TimesOfAI_/status/2085233016067211331) (2026-08-12)
 - [Tipwotip](https://x.com/Tipwotip/status/2074019912897753093) (2026-07-06)
 - [TokenGremlin](https://x.com/TokenGremlin/status/2092701202303856785) (2026-08-27)
+- [TokenGremlin](https://x.com/TokenGremlin/status/2104985693319500226) (2026-10-06)
 - [TokenizedPod](https://x.com/TokenizedPod/status/2079219793299746929) (2026-07-22)
 - [Tolu_Atanda](https://x.com/Tolu_Atanda/status/2077969124701990988) (2026-07-17)
 - [TonyTheAristotl](https://x.com/TonyTheAristotl/status/2075243763891364291) (2026-07-10)
@@ -637,6 +642,7 @@ total_mentions: 1370
 - [TradingTerminal](https://x.com/TradingTerminal/status/2032473191214358925) (2026-06-07)
 - [Tuteth_](https://x.com/Tuteth_/status/2082578543947472946) (2026-07-30)
 - [Tuteth_](https://x.com/Tuteth_/status/2085375892201652579) (2026-08-09)
+- [UFCS](https://x.com/UFCS/status/2107356066719621508) (2026-10-06)
 - [USB](https://x.com/USB/status/2074401622730363082) (2026-07-07)
 - [UTobyM](https://x.com/UTobyM/status/2073349386596483135) (2026-07-05)
 - [Ukachukwu_CC](https://x.com/Ukachukwu_CC/status/2087412332565553387) (2026-08-12)
@@ -889,6 +895,8 @@ total_mentions: 1370
 - [deanwball](https://x.com/deanwball/status/2078133895766114412) (2026-07-20)
 - [dee_hw](https://x.com/dee_hw/status/2089388227971219643) (2026-08-18)
 - [dee_naliaks](https://x.com/dee_naliaks/status/2093367019869773895) (2026-08-29)
+- [deepcabinwala](https://x.com/deepcabinwala/status/2107095904474075536) (2026-10-06)
+- [defyneric](https://x.com/defyneric/status/2107171778661384197) (2026-10-06)
 - [degenApe22](https://x.com/degenApe22/status/2106517300576960799) (2026-10-04)
 - [degen_mike14](https://x.com/degen_mike14/status/2072413220703236391) (2026-07-03)
 - [dexhorthy](https://x.com/dexhorthy/status/2067286892786454855) (2026-06-19)
@@ -1197,6 +1205,7 @@ total_mentions: 1370
 - [rcbregman](https://x.com/rcbregman/status/2095834084098334958) (2026-09-07)
 - [recogard](https://x.com/recogard/status/2081094239472214156) (2026-07-30)
 - [recogard](https://x.com/recogard/status/2085077708539560214) (2026-08-11)
+- [reflection_ai](https://x.com/reflection_ai/status/2107186849370247235) (2026-10-06)
 - [remp0x](https://x.com/remp0x/status/2065261778682937639) (2026-06-12)
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)
 - [res1dualedge](https://x.com/res1dualedge/status/2102492495674221032) (2026-09-24)
@@ -1268,6 +1277,7 @@ total_mentions: 1370
 - [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)
 - [shushant_l](https://x.com/shushant_l/status/2071096264339620159) (2026-06-28)
 - [shushant_l](https://x.com/shushant_l/status/2078707411670704572) (2026-07-19)
+- [sigf_ai](https://x.com/sigf_ai/status/2106178810463023319) (2026-10-06)
 - [silvana_book](https://x.com/silvana_book/status/2075636698210324826) (2026-07-11)
 - [singularityhack](https://x.com/singularityhack/status/2079237150764134528) (2026-07-22)
 - [sirbayes](https://x.com/sirbayes/status/2065804371011457087) (2026-06-14)
@@ -1317,6 +1327,7 @@ total_mentions: 1370
 - [thealexker](https://x.com/thealexker/status/2077841378139426953) (2026-07-17)
 - [thedankoe](https://x.com/thedankoe/status/2090507819229589650) (2026-08-21)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2103095101165633624) (2026-09-27)
+- [thegreatest_sv](https://x.com/thegreatest_sv/status/2107169457365725616) (2026-10-06)
 - [themahmud5](https://x.com/themahmud5/status/2102980278893551670) (2026-09-27)
 - [therajansharma](https://x.com/therajansharma/status/2068578446100308157) (2026-06-21)
 - [thesupermanmx](https://x.com/thesupermanmx/status/2088659059008491594) (2026-08-16)

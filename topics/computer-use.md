@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-10-05
-total_mentions: 142
+last_seen: 2026-10-06
+total_mentions: 144
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -51,6 +51,7 @@ total_mentions: 142
 - [SkyeSharkie](https://x.com/SkyeSharkie/status/2092122622834442581) (2026-08-29)
 - [SultanAlsafran](https://x.com/SultanAlsafran/status/2101254033067434359) (2026-09-21)
 - [TeksCreate](https://x.com/TeksCreate/status/2081499683571040408) (2026-07-27)
+- [TokenGremlin](https://x.com/TokenGremlin/status/2104985693319500226) (2026-10-06)
 - [VaibhavSisinty](https://x.com/VaibhavSisinty/status/2094315036995166499) (2026-09-01)
 - [WesRoth](https://x.com/WesRoth/status/2063833395298533464) (2026-06-10)
 - [XiaomiMiMoDevs](https://x.com/XiaomiMiMoDevs/status/2097217950700679503) (2026-09-08)
@@ -86,6 +87,7 @@ total_mentions: 142
 - [deedydas](https://x.com/deedydas/status/1898444603071795378) (2026-06-06)
 - [deedydas](https://x.com/deedydas/status/2099880100770849001) (2026-09-16)
 - [deviparikh](https://x.com/deviparikh/status/2092647579163251007) (2026-08-30)
+- [dotey](https://x.com/dotey/status/2105035958831718416) (2026-10-06)
 - [dummerspast39](https://x.com/dummerspast39/status/2091205904662249886) (2026-08-23)
 - [dwarkesh_sp](https://x.com/dwarkesh_sp/status/2070672008946589922) (2026-06-27)
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)

@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-04
-total_mentions: 98
+last_seen: 2026-10-06
+total_mentions: 102
 
 ## Related Tweets
 - [0xDepressionn](https://x.com/0xDepressionn/status/2063987019068371128) (2026-06-10)
@@ -54,6 +54,7 @@ total_mentions: 98
 - [Sumanth_077](https://x.com/Sumanth_077/status/2091169662956720527) (2026-08-25)
 - [TeksCreate](https://x.com/TeksCreate/status/2081499683571040408) (2026-07-27)
 - [TheInsiderPaper](https://x.com/TheInsiderPaper/status/2082481271783964922) (2026-08-05)
+- [TokenGremlin](https://x.com/TokenGremlin/status/2104985693319500226) (2026-10-06)
 - [VaibhavSisinty](https://x.com/VaibhavSisinty/status/2079823267750408589) (2026-07-28)
 - [Voxyz_ai](https://x.com/Voxyz_ai/status/2082582856182989263) (2026-07-30)
 - [WatcherGuru](https://x.com/WatcherGuru/status/2080780405179904206) (2026-07-28)
@@ -73,8 +74,10 @@ total_mentions: 98
 - [dabit3](https://x.com/dabit3/status/2098557144580735156) (2026-09-17)
 - [divaagurlxw](https://x.com/divaagurlxw/status/2087756697469440442) (2026-08-15)
 - [doodlestein](https://x.com/doodlestein/status/2090862143402860859) (2026-08-22)
+- [dotey](https://x.com/dotey/status/2105035958831718416) (2026-10-06)
 - [dr_cintas](https://x.com/dr_cintas/status/1912954389221851524) (2026-08-26)
 - [dschwarz26](https://x.com/dschwarz26/status/2093352278627684644) (2026-08-29)
+- [ekkostudio](https://x.com/ekkostudio/status/2107329859580047871) (2026-10-06)
 - [gregisenberg](https://x.com/gregisenberg/status/2099202686377742576) (2026-09-15)
 - [hot_town](https://x.com/hot_town/status/2084999228439376119) (2026-08-06)
 - [iamrexei](https://x.com/iamrexei/status/2091465106303471964) (2026-08-28)
@@ -85,6 +88,7 @@ total_mentions: 98
 - [jietang](https://x.com/jietang/status/2067022641949814893) (2026-06-19)
 - [latentspacepod](https://x.com/latentspacepod/status/2105442037042663491) (2026-10-01)
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
+- [marcopapa99](https://x.com/marcopapa99/status/2107379003581665628) (2026-10-06)
 - [marfinxx](https://x.com/marfinxx/status/2102729802708918385) (2026-09-24)
 - [moneyacademyKE](https://x.com/moneyacademyKE/status/2081618955064455539) (2026-08-01)
 - [monmiglobal](https://x.com/monmiglobal/status/2071399421997359236) (2026-06-29)

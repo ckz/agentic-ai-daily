@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-05
-total_mentions: 248
+last_seen: 2026-10-06
+total_mentions: 250
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -121,6 +121,7 @@ total_mentions: 248
 - [_sarthak4](https://x.com/_sarthak4/status/2087578635670802806) (2026-08-13)
 - [_zheergen](https://x.com/_zheergen/status/2090966669204341076) (2026-08-22)
 - [abskoop](https://x.com/abskoop/status/2090701734138274062) (2026-08-22)
+- [adithya_s_k](https://x.com/adithya_s_k/status/2105684965891703141) (2026-10-06)
 - [agenticbrew](https://x.com/agenticbrew/status/2072848219084910646) (2026-07-03)
 - [agenticgirl](https://x.com/agenticgirl/status/2099087022900367845) (2026-09-16)
 - [aiedge_](https://x.com/aiedge_/status/2068204707139752359) (2026-06-20)
@@ -240,6 +241,7 @@ total_mentions: 248
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
 - [stretchcloud](https://x.com/stretchcloud/status/2072215124958740898) (2026-07-01)
 - [stretchcloud](https://x.com/stretchcloud/status/2074649666608840706) (2026-07-08)
+- [stretchcloud](https://x.com/stretchcloud/status/2107375555788345677) (2026-10-06)
 - [tanayj](https://x.com/tanayj/status/2072108170080657729) (2026-07-01)
 - [tetsuoai](https://x.com/tetsuoai/status/2098199890237247578) (2026-09-11)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)

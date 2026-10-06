@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-05
-total_mentions: 532
+last_seen: 2026-10-06
+total_mentions: 538
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -12,6 +12,7 @@ total_mentions: 532
 - [0xMorlex](https://x.com/0xMorlex/status/2083551815895798048) (2026-08-02)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
+- [0x_aster](https://x.com/0x_aster/status/2106467164408758656) (2026-10-06)
 - [5eniorDeveloper](https://x.com/5eniorDeveloper/status/2097029277434757251) (2026-09-08)
 - [AIHighlight](https://x.com/AIHighlight/status/2072712459857645721) (2026-07-04)
 - [AIStockSavvy](https://x.com/AIStockSavvy/status/2079941971108405580) (2026-07-25)
@@ -55,6 +56,7 @@ total_mentions: 532
 - [BridgingNews_](https://x.com/BridgingNews_/status/2087418050660483509) (2026-08-12)
 - [CSVisionPapers](https://x.com/CSVisionPapers/status/2072902537439481931) (2026-07-03)
 - [CapexAndChill](https://x.com/CapexAndChill/status/2073965340476768534) (2026-07-06)
+- [Changxiu_leo_ji](https://x.com/Changxiu_leo_ji/status/2107153972859695222) (2026-10-06)
 - [CherryEOrtega](https://x.com/CherryEOrtega/status/2085996021008748799) (2026-08-08)
 - [ChiomaChukwura2](https://x.com/ChiomaChukwura2/status/2085162277288976842) (2026-08-09)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2064756984617021807) (2026-06-11)
@@ -240,6 +242,7 @@ total_mentions: 532
 - [The_Cyber_News](https://x.com/The_Cyber_News/status/2096594188003676213) (2026-09-12)
 - [Thom_Wolf](https://x.com/Thom_Wolf/status/2095889630306472127) (2026-09-06)
 - [ThomasOrTK](https://x.com/ThomasOrTK/status/2072005642727158247) (2026-07-01)
+- [UFCS](https://x.com/UFCS/status/2107356066719621508) (2026-10-06)
 - [UK_Daniel_Card](https://x.com/UK_Daniel_Card/status/2077623819913617526) (2026-07-16)
 - [USB](https://x.com/USB/status/2074401622730363082) (2026-07-07)
 - [Ukachukwu_CC](https://x.com/Ukachukwu_CC/status/2087412332565553387) (2026-08-12)
@@ -362,6 +365,7 @@ total_mentions: 532
 - [e_opore](https://x.com/e_opore/status/2077591797727887532) (2026-07-22)
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
 - [ecomchigga](https://x.com/ecomchigga/status/2065176267637297566) (2026-06-13)
+- [ekkostudio](https://x.com/ekkostudio/status/2107329859580047871) (2026-10-06)
 - [elizaOS](https://x.com/elizaOS/status/1874223078403682672) (2026-07-10)
 - [elora_khatun](https://x.com/elora_khatun/status/2074711871069032615) (2026-07-08)
 - [ericzakariasson](https://x.com/ericzakariasson/status/2102853511637774551) (2026-09-26)
@@ -496,6 +500,7 @@ total_mentions: 532
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
 - [stbenjam](https://x.com/stbenjam/status/2087340706599698783) (2026-08-12)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
+- [stretchcloud](https://x.com/stretchcloud/status/2107375555788345677) (2026-10-06)
 - [sudoingX](https://x.com/sudoingX/status/2081453712149721457) (2026-08-19)
 - [superpobe](https://x.com/superpobe/status/2102293399688679575) (2026-09-23)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2077724941198533011) (2026-07-17)
@@ -509,6 +514,7 @@ total_mentions: 532
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2103095101165633624) (2026-09-27)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2106403149162455349) (2026-10-04)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2106715907519062379) (2026-10-05)
+- [thegreatest_sv](https://x.com/thegreatest_sv/status/2107169457365725616) (2026-10-06)
 - [themahmud5](https://x.com/themahmud5/status/2104070146709168142) (2026-09-27)
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)
 - [tibo_maker](https://x.com/tibo_maker/status/2105047952419094963) (2026-10-03)

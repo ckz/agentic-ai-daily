@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-10-05
-total_mentions: 885
+last_seen: 2026-10-06
+total_mentions: 893
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -19,6 +19,7 @@ total_mentions: 885
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xMovez](https://x.com/0xMovez/status/2057103411783307293) (2026-06-10)
 - [0xMovez](https://x.com/0xMovez/status/2075295372423868917) (2026-07-10)
+- [0xPrajwal_](https://x.com/0xPrajwal_/status/2106950580212228204) (2026-10-06)
 - [0xRafy](https://x.com/0xRafy/status/2088017750992073006) (2026-08-14)
 - [0xSoural](https://x.com/0xSoural/status/2104209622059958759) (2026-09-28)
 - [0xWast3](https://x.com/0xWast3/status/2077395455005131005) (2026-07-16)
@@ -149,6 +150,7 @@ total_mentions: 885
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2091248280365682688) (2026-08-24)
 - [GitTrend0x](https://x.com/GitTrend0x/status/2085190556674904253) (2026-08-07)
 - [GithubProjects](https://x.com/GithubProjects/status/2063327571698434443) (2026-06-07)
+- [Grow_withAI](https://x.com/Grow_withAI/status/2106731541221306757) (2026-10-06)
 - [He1s_Sammy](https://x.com/He1s_Sammy/status/2091799479720497402) (2026-08-28)
 - [HexRaysSA](https://x.com/HexRaysSA/status/2103896696027807843) (2026-09-27)
 - [HeyAbhishek](https://x.com/HeyAbhishek/status/2093718063946637316) (2026-08-30)
@@ -280,6 +282,7 @@ total_mentions: 885
 - [Scenario_gg](https://x.com/Scenario_gg/status/2100161753564713405) (2026-09-18)
 - [ScottyBeamIO](https://x.com/ScottyBeamIO/status/2103856238014378000) (2026-10-02)
 - [SenthilRaj16078](https://x.com/SenthilRaj16078/status/2079078212173431259) (2026-07-20)
+- [SergioPaniego](https://x.com/SergioPaniego/status/2107115844350427607) (2026-10-06)
 - [ServerpodDev](https://x.com/ServerpodDev/status/2064307450392514790) (2026-06-10)
 - [ShenSeanChen](https://x.com/ShenSeanChen/status/2081118331097284801) (2026-07-27)
 - [ShenSeanChen](https://x.com/ShenSeanChen/status/2086931006376784130) (2026-08-13)
@@ -302,6 +305,7 @@ total_mentions: 885
 - [SultanAlsafran](https://x.com/SultanAlsafran/status/2101254033067434359) (2026-09-21)
 - [Sumanth_077](https://x.com/Sumanth_077/status/2063254456834372040) (2026-06-07)
 - [SvpChain](https://x.com/SvpChain/status/2064935788345974954) (2026-06-11)
+- [TablePlus](https://x.com/TablePlus/status/2107323861205491790) (2026-10-06)
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2065300113254388162) (2026-06-12)
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2074344040125091936) (2026-07-07)
 - [TechCrunch](https://x.com/TechCrunch/status/2099955188467405227) (2026-09-16)
@@ -350,6 +354,7 @@ total_mentions: 885
 - [_vmlops](https://x.com/_vmlops/status/2063916937055494571) (2026-06-09)
 - [_vmlops](https://x.com/_vmlops/status/2064642351394656760) (2026-06-12)
 - [_vmlops](https://x.com/_vmlops/status/2106690704244420687) (2026-10-05)
+- [_vmlops](https://x.com/_vmlops/status/2107154174404403655) (2026-10-06)
 - [_zheergen](https://x.com/_zheergen/status/2090966669204341076) (2026-08-22)
 - [a16z](https://x.com/a16z/status/2092774816596259111) (2026-08-27)
 - [aaassa120](https://x.com/aaassa120/status/2099585833787371714) (2026-09-18)
@@ -493,6 +498,7 @@ total_mentions: 885
 - [davemccollough](https://x.com/davemccollough/status/2064154192856670213) (2026-06-09)
 - [dawoodkhan254](https://x.com/dawoodkhan254/status/2081031854371819912) (2026-07-26)
 - [deanwperkins](https://x.com/deanwperkins/status/2099488798572687489) (2026-09-16)
+- [deweytn](https://x.com/deweytn/status/2106499269322559970) (2026-10-06)
 - [dfinity](https://x.com/dfinity/status/2080201356347146261) (2026-07-26)
 - [dharmesh](https://x.com/dharmesh/status/2093071931188597042) (2026-08-28)
 - [di_zhang_fdu](https://x.com/di_zhang_fdu/status/2096481849937945012) (2026-09-07)
@@ -534,6 +540,7 @@ total_mentions: 885
 - [elune0x](https://x.com/elune0x/status/2086814848709517580) (2026-08-15)
 - [elune0x](https://x.com/elune0x/status/2091175947374391776) (2026-08-23)
 - [emmanuel_2m](https://x.com/emmanuel_2m/status/2105720329842860097) (2026-10-04)
+- [emmanuel_2m](https://x.com/emmanuel_2m/status/2107142680782438466) (2026-10-06)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2060824760859431275) (2026-06-05)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2064019609062101321) (2026-06-09)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2077696199486775764) (2026-07-18)
@@ -618,6 +625,7 @@ total_mentions: 885
 - [jaimintf](https://x.com/jaimintf/status/2098137053821071642) (2026-09-11)
 - [jaimintf](https://x.com/jaimintf/status/2103529624257073238) (2026-09-26)
 - [jaimintf](https://x.com/jaimintf/status/2106554887513498066) (2026-10-05)
+- [jasontheadams](https://x.com/jasontheadams/status/2107119026191348128) (2026-10-06)
 - [jerryjliu0](https://x.com/jerryjliu0/status/2091564183922077885) (2026-08-24)
 - [jescalan](https://x.com/jescalan/status/2098166165000306728) (2026-09-11)
 - [jkudish](https://x.com/jkudish/status/2100413576284712999) (2026-09-23)

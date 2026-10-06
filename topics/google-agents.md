@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-04
-total_mentions: 122
+last_seen: 2026-10-06
+total_mentions: 123
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -83,6 +83,7 @@ total_mentions: 122
 - [coreyganim](https://x.com/coreyganim/status/2084312288786276484) (2026-08-04)
 - [divaagurlxw](https://x.com/divaagurlxw/status/2087756697469440442) (2026-08-15)
 - [eigenlabs](https://x.com/eigenlabs/status/2062540745601384785) (2026-06-08)
+- [ekkostudio](https://x.com/ekkostudio/status/2107329859580047871) (2026-10-06)
 - [elune0x](https://x.com/elune0x/status/2086565685904211976) (2026-08-15)
 - [firstadopter](https://x.com/firstadopter/status/2102758807189197006) (2026-09-25)
 - [fromzerotomill](https://x.com/fromzerotomill/status/2081100925641367899) (2026-07-26)

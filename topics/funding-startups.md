@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-05
-total_mentions: 619
+last_seen: 2026-10-06
+total_mentions: 630
 
 ## Related Tweets
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
@@ -78,6 +78,7 @@ total_mentions: 619
 - [Dhruvam987](https://x.com/Dhruvam987/status/2067811478485582025) (2026-06-19)
 - [Dylan_txa_](https://x.com/Dylan_txa_/status/2095140253149352266) (2026-09-03)
 - [Dylan_txa_](https://x.com/Dylan_txa_/status/2095443899015663890) (2026-09-05)
+- [Dylan_txa_](https://x.com/Dylan_txa_/status/2106877880416215342) (2026-10-06)
 - [Emiliano0o0o0o0](https://x.com/Emiliano0o0o0o0/status/2102182430153007232) (2026-09-26)
 - [EricLDaugh](https://x.com/EricLDaugh/status/2104671461265101147) (2026-10-01)
 - [EricTrump](https://x.com/EricTrump/status/2095360389227630607) (2026-09-14)
@@ -119,6 +120,7 @@ total_mentions: 619
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2075516156161536088) (2026-07-13)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2082740804854985035) (2026-08-16)
 - [JackPosobiec](https://x.com/JackPosobiec/status/2104592761051587037) (2026-10-01)
+- [Jacobsklug](https://x.com/Jacobsklug/status/2104914597606273395) (2026-10-06)
 - [JasonL_Capital](https://x.com/JasonL_Capital/status/2082434168235954267) (2026-08-05)
 - [JensenHuang](https://x.com/JensenHuang/status/2095482647355244762) (2026-09-05)
 - [JonathanGeige18](https://x.com/JonathanGeige18/status/2088972748953461219) (2026-08-17)
@@ -132,10 +134,12 @@ total_mentions: 619
 - [KetchumNfts](https://x.com/KetchumNfts/status/2083457676202086669) (2026-08-02)
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
 - [LayoffAI](https://x.com/LayoffAI/status/2081727806652715211) (2026-07-30)
+- [Lisa__Rodin](https://x.com/Lisa__Rodin/status/2107029235110138084) (2026-10-06)
 - [Logically_JC](https://x.com/Logically_JC/status/2103837834767421657) (2026-10-02)
 - [LomashKumar52](https://x.com/LomashKumar52/status/2103013165009363358) (2026-09-24)
 - [LoopandPixels](https://x.com/LoopandPixels/status/2098261489203499127) (2026-09-11)
 - [MAGALieTracker](https://x.com/MAGALieTracker/status/2080726200213979290) (2026-08-01)
+- [MFlynn_Official](https://x.com/MFlynn_Official/status/2105740013808079153) (2026-10-06)
 - [MTSlive](https://x.com/MTSlive/status/2065073640182579322) (2026-06-12)
 - [MTSlive](https://x.com/MTSlive/status/2079701447084740739) (2026-07-22)
 - [MabreyTed](https://x.com/MabreyTed/status/2099549711103349178) (2026-09-15)
@@ -197,6 +201,7 @@ total_mentions: 619
 - [SawyerMerritt](https://x.com/SawyerMerritt/status/2070711031094022508) (2026-07-02)
 - [SawyerMerritt](https://x.com/SawyerMerritt/status/2097918541236208092) (2026-09-10)
 - [SeedifyFund](https://x.com/SeedifyFund/status/1882843585470406990) (2026-06-08)
+- [SelflessCricket](https://x.com/SelflessCricket/status/2107362603664375885) (2026-10-06)
 - [SenAshleyMoody](https://x.com/SenAshleyMoody/status/2086020042362167308) (2026-08-11)
 - [SenMikeLee](https://x.com/SenMikeLee/status/2077145376960741857) (2026-07-18)
 - [SenSanders](https://x.com/SenSanders/status/2099182729048830438) (2026-09-14)
@@ -206,6 +211,7 @@ total_mentions: 619
 - [Sherl2718](https://x.com/Sherl2718/status/2100323661542494278) (2026-09-20)
 - [Solvaix](https://x.com/Solvaix/status/2083282682746704013) (2026-08-02)
 - [SpamRoss](https://x.com/SpamRoss/status/2102750773612253585) (2026-09-26)
+- [Spec__Tech](https://x.com/Spec__Tech/status/2107121832440812029) (2026-10-06)
 - [SpikeCalls](https://x.com/SpikeCalls/status/2063529090091532540) (2026-06-08)
 - [StartupArchive_](https://x.com/StartupArchive_/status/2061052571876520406) (2026-06-07)
 - [Steve8708](https://x.com/Steve8708/status/2041909436059615442) (2026-06-06)
@@ -220,6 +226,7 @@ total_mentions: 619
 - [T3chFalcon](https://x.com/T3chFalcon/status/2089279849634439514) (2026-08-24)
 - [TRHLofficial](https://x.com/TRHLofficial/status/2104165736365134051) (2026-10-01)
 - [TechCrunch](https://x.com/TechCrunch/status/2090976021600244044) (2026-08-25)
+- [TechCrunch](https://x.com/TechCrunch/status/2107205456351354910) (2026-10-06)
 - [TheStartupsMag](https://x.com/TheStartupsMag/status/2068604981318488305) (2026-06-21)
 - [TheoAugust8](https://x.com/TheoAugust8/status/2063166492519158257) (2026-06-06)
 - [ThiaBallerina](https://x.com/ThiaBallerina/status/2103870579577434455) (2026-10-01)
@@ -253,6 +260,7 @@ total_mentions: 619
 - [_shikhar_jais](https://x.com/_shikhar_jais/status/2063133010074206331) (2026-06-06)
 - [a16z](https://x.com/a16z/status/2069869327411749012) (2026-06-29)
 - [a16z](https://x.com/a16z/status/2102533548779671854) (2026-09-29)
+- [a16z](https://x.com/a16z/status/2106064267770573281) (2026-10-06)
 - [aakashgupta](https://x.com/aakashgupta/status/2036653323978420322) (2026-07-05)
 - [aakrit](https://x.com/aakrit/status/2065778171912265899) (2026-06-14)
 - [aashna_doshi2](https://x.com/aashna_doshi2/status/2095182188870521192) (2026-09-06)
@@ -260,6 +268,7 @@ total_mentions: 619
 - [adiix_official](https://x.com/adiix_official/status/2093145821055221859) (2026-09-02)
 - [adriablancafort](https://x.com/adriablancafort/status/2071688701651108309) (2026-06-30)
 - [agazdecki](https://x.com/agazdecki/status/2099895431547572656) (2026-09-20)
+- [agazdecki](https://x.com/agazdecki/status/2106497043921502295) (2026-10-06)
 - [alex_prompter](https://x.com/alex_prompter/status/2094818827137581543) (2026-09-02)
 - [alex_verem](https://x.com/alex_verem/status/2090118956912939041) (2026-08-25)
 - [alexisohanian](https://x.com/alexisohanian/status/2103856308890017955) (2026-09-29)
@@ -289,6 +298,7 @@ total_mentions: 619
 - [askOkara](https://x.com/askOkara/status/2089641580634476718) (2026-08-22)
 - [asklivermore](https://x.com/asklivermore/status/2092591892194381828) (2026-08-27)
 - [athanzxyt](https://x.com/athanzxyt/status/2067660560607613032) (2026-06-19)
+- [atul_rajput05](https://x.com/atul_rajput05/status/2106371536835981515) (2026-10-06)
 - [austin_rief](https://x.com/austin_rief/status/2106091150566142416) (2026-10-05)
 - [austinc3301](https://x.com/austinc3301/status/2095301497718448268) (2026-09-03)
 - [aw_trades_](https://x.com/aw_trades_/status/2073794807323889781) (2026-07-06)
@@ -460,6 +470,7 @@ total_mentions: 619
 - [marclou](https://x.com/marclou/status/2086700255949865456) (2026-08-15)
 - [marclou](https://x.com/marclou/status/2095153862818894109) (2026-09-03)
 - [marclou](https://x.com/marclou/status/2097326512169222407) (2026-09-09)
+- [marcopapa99](https://x.com/marcopapa99/status/2107379003581665628) (2026-10-06)
 - [marcrandolph](https://x.com/marcrandolph/status/2093141802610254231) (2026-08-29)
 - [marcushan_](https://x.com/marcushan_/status/2098222906673090570) (2026-09-11)
 - [mardehaym](https://x.com/mardehaym/status/2100945418221769097) (2026-09-22)
