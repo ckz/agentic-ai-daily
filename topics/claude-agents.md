@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-06
-total_mentions: 250
+last_seen: 2026-10-07
+total_mentions: 254
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -46,11 +46,13 @@ total_mentions: 250
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2061877349629759847) (2026-06-05)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2092984433649283284) (2026-09-01)
 - [ClementDelangue](https://x.com/ClementDelangue/status/2062982727729553913) (2026-06-05)
+- [ClementDelangue](https://x.com/ClementDelangue/status/2107120717980471638) (2026-10-07)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DanKornas](https://x.com/DanKornas/status/2063154157511418092) (2026-06-06)
 - [DanKornas](https://x.com/DanKornas/status/2071847945373192192) (2026-06-30)
 - [DanKornas](https://x.com/DanKornas/status/2088477020602696132) (2026-08-18)
 - [DanKornas](https://x.com/DanKornas/status/2103427788145381798) (2026-10-01)
+- [DanKornas](https://x.com/DanKornas/status/2107368759723766234) (2026-10-07)
 - [DataChaz](https://x.com/DataChaz/status/2075204287223697636) (2026-07-11)
 - [DealsDhamaka](https://x.com/DealsDhamaka/status/2074664290293080496) (2026-07-08)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
@@ -192,6 +194,7 @@ total_mentions: 250
 - [gregisenberg](https://x.com/gregisenberg/status/2088988857417044432) (2026-08-17)
 - [gregisenberg](https://x.com/gregisenberg/status/2099202686377742576) (2026-09-15)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
+- [hayatomaruu](https://x.com/hayatomaruu/status/2107560089833849101) (2026-10-07)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [heynavtoor](https://x.com/heynavtoor/status/2083221614595051602) (2026-08-05)
 - [huacnlee](https://x.com/huacnlee/status/2105550545939484751) (2026-10-01)
@@ -229,6 +232,7 @@ total_mentions: 250
 - [polydao](https://x.com/polydao/status/2104090661041369397) (2026-09-28)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
 - [rileybrown](https://x.com/rileybrown/status/2101027402369335382) (2026-09-19)
+- [rileybrown](https://x.com/rileybrown/status/2107320826575937563) (2026-10-07)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2092970481423192328) (2026-09-03)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)

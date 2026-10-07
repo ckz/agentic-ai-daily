@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-06
-total_mentions: 538
+last_seen: 2026-10-07
+total_mentions: 540
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -245,6 +245,7 @@ total_mentions: 538
 - [UFCS](https://x.com/UFCS/status/2107356066719621508) (2026-10-06)
 - [UK_Daniel_Card](https://x.com/UK_Daniel_Card/status/2077623819913617526) (2026-07-16)
 - [USB](https://x.com/USB/status/2074401622730363082) (2026-07-07)
+- [UberEng](https://x.com/UberEng/status/2107546431854707085) (2026-10-07)
 - [Ukachukwu_CC](https://x.com/Ukachukwu_CC/status/2087412332565553387) (2026-08-12)
 - [VirtualElena](https://x.com/VirtualElena/status/2086890946634154185) (2026-08-12)
 - [VivekIntel](https://x.com/VivekIntel/status/2073810331827343525) (2026-07-09)
@@ -447,6 +448,7 @@ total_mentions: 538
 - [omarsar0](https://x.com/omarsar0/status/1846930425849303424) (2026-06-27)
 - [omarsar0](https://x.com/omarsar0/status/2098809969252450451) (2026-09-15)
 - [ordo_chain](https://x.com/ordo_chain/status/2073312746381181174) (2026-07-04)
+- [oscarsuiza](https://x.com/oscarsuiza/status/2107727744029073859) (2026-10-07)
 - [paywithmana](https://x.com/paywithmana/status/2074758476220473387) (2026-07-08)
 - [petergyang](https://x.com/petergyang/status/2083917722765947284) (2026-08-04)
 - [petergyang](https://x.com/petergyang/status/2099139853170733280) (2026-09-14)

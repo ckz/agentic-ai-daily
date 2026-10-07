@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-06
-total_mentions: 1381
+last_seen: 2026-10-07
+total_mentions: 1391
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -108,6 +108,7 @@ total_mentions: 1381
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2091798147320127634) (2026-08-26)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2095414392557068291) (2026-09-04)
+- [ActionModelAI](https://x.com/ActionModelAI/status/2107492691420266808) (2026-10-07)
 - [AdamTornhill](https://x.com/AdamTornhill/status/2097973404179583225) (2026-09-12)
 - [AdelDeveloperX](https://x.com/AdelDeveloperX/status/2074195359199375745) (2026-07-07)
 - [AgenticAIFdn](https://x.com/AgenticAIFdn/status/2077740129284764108) (2026-07-17)
@@ -336,6 +337,7 @@ total_mentions: 1381
 - [GrishinRobotics](https://x.com/GrishinRobotics/status/2067880410676187569) (2026-06-19)
 - [GrowAIHub](https://x.com/GrowAIHub/status/2071849281712234663) (2026-06-30)
 - [Grow_withAI](https://x.com/Grow_withAI/status/2106731541221306757) (2026-10-06)
+- [Grow_withAI](https://x.com/Grow_withAI/status/2107455691632062637) (2026-10-07)
 - [Guelug](https://x.com/Guelug/status/2072092575947989385) (2026-07-01)
 - [Gustafssonkotte](https://x.com/Gustafssonkotte/status/2082309711785849067) (2026-08-01)
 - [Gyokeres_eth](https://x.com/Gyokeres_eth/status/2081330941096583465) (2026-08-02)
@@ -593,6 +595,7 @@ total_mentions: 1381
 - [SolanasAgents](https://x.com/SolanasAgents/status/2086876312615129103) (2026-08-11)
 - [SomieCITYY](https://x.com/SomieCITYY/status/2082672524169445396) (2026-08-01)
 - [Spectre__AI](https://x.com/Spectre__AI/status/2084677141870883158) (2026-08-07)
+- [Spectre__AI](https://x.com/Spectre__AI/status/2107138516492689556) (2026-10-07)
 - [Sprytixl](https://x.com/Sprytixl/status/2086533982385033355) (2026-08-11)
 - [Stefan_3D_AI](https://x.com/Stefan_3D_AI/status/2086350955520360613) (2026-08-10)
 - [Steve8708](https://x.com/Steve8708/status/2077051086234685641) (2026-07-15)
@@ -645,6 +648,7 @@ total_mentions: 1381
 - [UFCS](https://x.com/UFCS/status/2107356066719621508) (2026-10-06)
 - [USB](https://x.com/USB/status/2074401622730363082) (2026-07-07)
 - [UTobyM](https://x.com/UTobyM/status/2073349386596483135) (2026-07-05)
+- [UberEng](https://x.com/UberEng/status/2107546431854707085) (2026-10-07)
 - [Ukachukwu_CC](https://x.com/Ukachukwu_CC/status/2087412332565553387) (2026-08-12)
 - [Uty_bby](https://x.com/Uty_bby/status/2078013819444420734) (2026-07-17)
 - [VaibhavSisinty](https://x.com/VaibhavSisinty/status/2070741416649850898) (2026-06-28)
@@ -672,6 +676,7 @@ total_mentions: 1381
 - [Xudong07452910](https://x.com/Xudong07452910/status/2090968445378814364) (2026-08-22)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2097846768323133559) (2026-09-10)
 - [Yaki_fomoArt](https://x.com/Yaki_fomoArt/status/2079623049037701529) (2026-07-26)
+- [YorichiiCrypto](https://x.com/YorichiiCrypto/status/2107563475555823957) (2026-10-07)
 - [Yosefphr](https://x.com/Yosefphr/status/2094074224839102549) (2026-09-01)
 - [Zai_org](https://x.com/Zai_org/status/2066938937344495629) (2026-06-20)
 - [Zainabiliyasu10](https://x.com/Zainabiliyasu10/status/2099324482468958581) (2026-09-19)
@@ -774,10 +779,12 @@ total_mentions: 1381
 - [ataiiam](https://x.com/ataiiam/status/2106731156691615978) (2026-10-05)
 - [athanzxyt](https://x.com/athanzxyt/status/2067660560607613032) (2026-06-19)
 - [atishayhyperke](https://x.com/atishayhyperke/status/2091163553893925326) (2026-08-23)
+- [autonxyz](https://x.com/autonxyz/status/2107540605203034490) (2026-10-07)
 - [avilewis](https://x.com/avilewis/status/2079969472614633662) (2026-07-24)
 - [awesomekling](https://x.com/awesomekling/status/2102089363631059199) (2026-09-22)
 - [axi_master](https://x.com/axi_master/status/2067655053050352041) (2026-06-19)
 - [axiomos_](https://x.com/axiomos_/status/2072983092365811940) (2026-07-04)
+- [ayanb](https://x.com/ayanb/status/2107501360031924549) (2026-10-07)
 - [azzabazazz](https://x.com/azzabazazz/status/2073518111974998284) (2026-07-05)
 - [base](https://x.com/base/status/2083204522415960437) (2026-08-05)
 - [baseten](https://x.com/baseten/status/2093489037608702118) (2026-09-02)
@@ -884,6 +891,7 @@ total_mentions: 1381
 - [dair_ai](https://x.com/dair_ai/status/2097022152088445034) (2026-09-08)
 - [daisy_btc988](https://x.com/daisy_btc988/status/2102284082973663268) (2026-09-23)
 - [dan__rosenthal](https://x.com/dan__rosenthal/status/2086165641594048875) (2026-08-09)
+- [dankimxyz](https://x.com/dankimxyz/status/2107199865004634605) (2026-10-07)
 - [danshipper](https://x.com/danshipper/status/2102461471716483208) (2026-09-23)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [dashen_wang](https://x.com/dashen_wang/status/2094659177310269863) (2026-09-05)
@@ -1049,6 +1057,7 @@ total_mentions: 1381
 - [jasonfreedman](https://x.com/jasonfreedman/status/2094460349298962594) (2026-09-01)
 - [jasonlk](https://x.com/jasonlk/status/2074304139425931745) (2026-07-07)
 - [jasonlk](https://x.com/jasonlk/status/2093792483977376045) (2026-08-31)
+- [jasonlk](https://x.com/jasonlk/status/2106392098400272660) (2026-10-07)
 - [jeffhollan](https://x.com/jeffhollan/status/2099222521451311254) (2026-09-14)
 - [jerryjliu0](https://x.com/jerryjliu0/status/2082673383255216356) (2026-07-31)
 - [jerryjliu0](https://x.com/jerryjliu0/status/2091564183922077885) (2026-08-24)
@@ -1257,6 +1266,7 @@ total_mentions: 1381
 - [sauda_coder](https://x.com/sauda_coder/status/2087019793279041844) (2026-08-14)
 - [sauda_coder](https://x.com/sauda_coder/status/2100195671039160435) (2026-09-18)
 - [seeconvm](https://x.com/seeconvm/status/2096406550839537729) (2026-09-07)
+- [semrush](https://x.com/semrush/status/2107038587866804617) (2026-10-07)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
 - [sentient_zh](https://x.com/sentient_zh/status/2066417986467189164) (2026-06-15)
 - [setyamickala](https://x.com/setyamickala/status/2066848520326480020) (2026-06-28)
