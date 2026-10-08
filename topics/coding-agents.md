@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-07
-total_mentions: 179
+last_seen: 2026-10-08
+total_mentions: 180
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -98,6 +98,7 @@ total_mentions: 179
 - [charliejhills](https://x.com/charliejhills/status/2098351074755457321) (2026-09-17)
 - [codyschneider](https://x.com/codyschneider/status/2084369982918406433) (2026-08-04)
 - [convequity](https://x.com/convequity/status/2105431360500301981) (2026-10-01)
+- [cryptopunk7213](https://x.com/cryptopunk7213/status/2038666497254433045) (2026-10-08)
 - [csaba_kissi](https://x.com/csaba_kissi/status/2097206925264118197) (2026-09-12)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2071058754905481234) (2026-06-28)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2071817627484250139) (2026-06-30)

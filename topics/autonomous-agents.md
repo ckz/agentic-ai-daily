@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-07
-total_mentions: 1391
+last_seen: 2026-10-08
+total_mentions: 1401
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -338,6 +338,7 @@ total_mentions: 1391
 - [GrowAIHub](https://x.com/GrowAIHub/status/2071849281712234663) (2026-06-30)
 - [Grow_withAI](https://x.com/Grow_withAI/status/2106731541221306757) (2026-10-06)
 - [Grow_withAI](https://x.com/Grow_withAI/status/2107455691632062637) (2026-10-07)
+- [Grow_withAI](https://x.com/Grow_withAI/status/2107637211441316288) (2026-10-08)
 - [Guelug](https://x.com/Guelug/status/2072092575947989385) (2026-07-01)
 - [Gustafssonkotte](https://x.com/Gustafssonkotte/status/2082309711785849067) (2026-08-01)
 - [Gyokeres_eth](https://x.com/Gyokeres_eth/status/2081330941096583465) (2026-08-02)
@@ -587,6 +588,7 @@ total_mentions: 1391
 - [ShawnYao77](https://x.com/ShawnYao77/status/2082343891689504790) (2026-07-29)
 - [ShenSeanChen](https://x.com/ShenSeanChen/status/2086931006376784130) (2026-08-13)
 - [ShinkaIoT](https://x.com/ShinkaIoT/status/2082668875263385771) (2026-07-30)
+- [SimularAI](https://x.com/SimularAI/status/2107168861388980400) (2026-10-08)
 - [Sirhassan21](https://x.com/Sirhassan21/status/2100448401154339293) (2026-09-21)
 - [Slappjakke](https://x.com/Slappjakke/status/1924051973378314393) (2026-07-10)
 - [SmartScience](https://x.com/SmartScience/status/2101936419497242624) (2026-09-25)
@@ -615,6 +617,7 @@ total_mentions: 1391
 - [Suryanshti777](https://x.com/Suryanshti777/status/2085286044975476808) (2026-08-11)
 - [SvpChain](https://x.com/SvpChain/status/2064935788345974954) (2026-06-11)
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2065300113254388162) (2026-06-12)
+- [TeachTheMachine](https://x.com/TeachTheMachine/status/2107883727473062003) (2026-10-08)
 - [TechByArti](https://x.com/TechByArti/status/2102669545131712912) (2026-09-24)
 - [TechCrunch](https://x.com/TechCrunch/status/2062622464362881423) (2026-06-08)
 - [Tech_by_Shweta](https://x.com/Tech_by_Shweta/status/2096800764526243897) (2026-09-07)
@@ -653,6 +656,7 @@ total_mentions: 1391
 - [Uty_bby](https://x.com/Uty_bby/status/2078013819444420734) (2026-07-17)
 - [VaibhavSisinty](https://x.com/VaibhavSisinty/status/2070741416649850898) (2026-06-28)
 - [VaibhavSisinty](https://x.com/VaibhavSisinty/status/2079823267750408589) (2026-07-28)
+- [Vanquan_titans](https://x.com/Vanquan_titans/status/2107697678654017725) (2026-10-08)
 - [VenAiSol](https://x.com/VenAiSol/status/2067847260876996912) (2026-06-19)
 - [VibeMarketer_](https://x.com/VibeMarketer_/status/2089740376718610518) (2026-08-19)
 - [VivekIntel](https://x.com/VivekIntel/status/2073810331827343525) (2026-07-09)
@@ -668,6 +672,7 @@ total_mentions: 1391
 - [Wilsonpablo108](https://x.com/Wilsonpablo108/status/2082805933504151951) (2026-08-01)
 - [WinnersTier](https://x.com/WinnersTier/status/2100414028711362968) (2026-09-17)
 - [WireNetwork](https://x.com/WireNetwork/status/2064029713421791646) (2026-06-09)
+- [WireNetwork](https://x.com/WireNetwork/status/2107878801732722867) (2026-10-08)
 - [WrangleAi](https://x.com/WrangleAi/status/2083825310982660098) (2026-08-02)
 - [XFreeze](https://x.com/XFreeze/status/2071801039167336638) (2026-06-30)
 - [XGEN_labs](https://x.com/XGEN_labs/status/2100648317722206255) (2026-09-19)
@@ -862,6 +867,7 @@ total_mentions: 1391
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1872809091799875592) (2026-06-29)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1879706901170077978) (2026-06-11)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1890778947736027621) (2026-06-10)
+- [cryptopunk7213](https://x.com/cryptopunk7213/status/2038666497254433045) (2026-10-08)
 - [crystal_farm1](https://x.com/crystal_farm1/status/2076198578448367666) (2026-07-12)
 - [csaba_kissi](https://x.com/csaba_kissi/status/2074745257099485319) (2026-07-09)
 - [cwolferesearch](https://x.com/cwolferesearch/status/2068471261441802514) (2026-06-21)
@@ -1000,6 +1006,7 @@ total_mentions: 1391
 - [gotuchintu](https://x.com/gotuchintu/status/2072165345771569372) (2026-07-01)
 - [goyalshaliniuk](https://x.com/goyalshaliniuk/status/2086414689534410986) (2026-08-16)
 - [goyalshaliniuk](https://x.com/goyalshaliniuk/status/2089359091332166027) (2026-08-22)
+- [goyalshaliniuk](https://x.com/goyalshaliniuk/status/2106753712672608341) (2026-10-08)
 - [gravitygotmeup](https://x.com/gravitygotmeup/status/2068193792780591353) (2026-06-20)
 - [gregisenberg](https://x.com/gregisenberg/status/1984641062527197234) (2026-07-16)
 - [gregisenberg](https://x.com/gregisenberg/status/2074287887466582072) (2026-07-07)
@@ -1146,6 +1153,7 @@ total_mentions: 1391
 - [milocodes_](https://x.com/milocodes_/status/2097527775490101720) (2026-09-10)
 - [mirku21](https://x.com/mirku21/status/2103952805715492895) (2026-09-28)
 - [mirku21](https://x.com/mirku21/status/2105764769479455043) (2026-10-03)
+- [mirku21](https://x.com/mirku21/status/2106127135278612573) (2026-10-08)
 - [miyataArcHack](https://x.com/miyataArcHack/status/2100743410076598752) (2026-09-25)
 - [mnadirghafoor](https://x.com/mnadirghafoor/status/2071098524826268063) (2026-06-28)
 - [mojeskoqq](https://x.com/mojeskoqq/status/2085273824413503536) (2026-08-09)
@@ -1284,6 +1292,7 @@ total_mentions: 1391
 - [shiqway92](https://x.com/shiqway92/status/2081403424986239014) (2026-07-28)
 - [shiri_shh](https://x.com/shiri_shh/status/2060434223299998179) (2026-06-05)
 - [shiri_shh](https://x.com/shiri_shh/status/2061426931162288614) (2026-06-06)
+- [shmidtqq](https://x.com/shmidtqq/status/2106020975724658989) (2026-10-08)
 - [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)
 - [shushant_l](https://x.com/shushant_l/status/2071096264339620159) (2026-06-28)
 - [shushant_l](https://x.com/shushant_l/status/2078707411670704572) (2026-07-19)
@@ -1311,6 +1320,7 @@ total_mentions: 1391
 - [sundaebar_ai](https://x.com/sundaebar_ai/status/2077392523128132068) (2026-07-16)
 - [sundarpichai](https://x.com/sundarpichai/status/2095181765082292334) (2026-09-03)
 - [superpobe](https://x.com/superpobe/status/2102293399688679575) (2026-09-23)
+- [superpobe](https://x.com/superpobe/status/2107624194091434192) (2026-10-08)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2077724941198533011) (2026-07-17)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2078449718414180393) (2026-07-19)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)

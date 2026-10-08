@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-10-07
-total_mentions: 146
+last_seen: 2026-10-08
+total_mentions: 151
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -15,6 +15,7 @@ total_mentions: 146
 - [BuildwithOmkarr](https://x.com/BuildwithOmkarr/status/2102603427297755264) (2026-09-23)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2064410897486160099) (2026-06-10)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2090540270219567575) (2026-08-21)
+- [ClaudeDevs](https://x.com/ClaudeDevs/status/2107925762720326090) (2026-10-08)
 - [CodexReleases](https://x.com/CodexReleases/status/2075265220054782386) (2026-07-11)
 - [Codex_Changelog](https://x.com/Codex_Changelog/status/2062678248790589520) (2026-06-07)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2094244045421728069) (2026-09-05)
@@ -48,6 +49,7 @@ total_mentions: 146
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2106319598492545245) (2026-10-05)
 - [SamSokolin](https://x.com/SamSokolin/status/2094824011427373415) (2026-09-03)
 - [SimularAI](https://x.com/SimularAI/status/2093009990663434361) (2026-08-28)
+- [SimularAI](https://x.com/SimularAI/status/2107168861388980400) (2026-10-08)
 - [SkyeSharkie](https://x.com/SkyeSharkie/status/2092122622834442581) (2026-08-29)
 - [SultanAlsafran](https://x.com/SultanAlsafran/status/2101254033067434359) (2026-09-21)
 - [SyntheticBeef](https://x.com/SyntheticBeef/status/2107559197370138824) (2026-10-07)
@@ -60,6 +62,7 @@ total_mentions: 146
 - [a16z](https://x.com/a16z/status/2086906363947737406) (2026-08-11)
 - [aakashgupta](https://x.com/aakashgupta/status/2075353796671090794) (2026-07-10)
 - [adcock_brett](https://x.com/adcock_brett/status/2070674685575209066) (2026-06-27)
+- [adcock_brett](https://x.com/adcock_brett/status/2107589968541659555) (2026-10-08)
 - [adiix_official](https://x.com/adiix_official/status/2098425574377107724) (2026-09-14)
 - [aiedge_](https://x.com/aiedge_/status/2074320056008560691) (2026-07-14)
 - [ajambrosino](https://x.com/ajambrosino/status/2075274357715427618) (2026-07-18)
@@ -79,6 +82,7 @@ total_mentions: 146
 - [businessbarista](https://x.com/businessbarista/status/2101061801571938529) (2026-09-22)
 - [chaotictransfem](https://x.com/chaotictransfem/status/2105011559756181620) (2026-09-30)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
+- [claudeai](https://x.com/claudeai/status/2107894042235166750) (2026-10-08)
 - [claudeebum](https://x.com/claudeebum/status/2088598997065969933) (2026-08-17)
 - [coder_surya](https://x.com/coder_surya/status/2073957608998715439) (2026-07-06)
 - [cursor_ai](https://x.com/cursor_ai/status/2084317547608911986) (2026-08-09)
@@ -138,6 +142,7 @@ total_mentions: 146
 - [scaling01](https://x.com/scaling01/status/2095411747309953427) (2026-09-05)
 - [sitinme](https://x.com/sitinme/status/2088172522063691892) (2026-08-15)
 - [stevendcoffey](https://x.com/stevendcoffey/status/2106159012538442068) (2026-10-03)
+- [stevenheidel](https://x.com/stevenheidel/status/2107577453971693887) (2026-10-08)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095859430776533318) (2026-09-06)
 - [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)

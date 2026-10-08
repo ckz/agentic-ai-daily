@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-06
-total_mentions: 102
+last_seen: 2026-10-08
+total_mentions: 103
 
 ## Related Tweets
 - [0xDepressionn](https://x.com/0xDepressionn/status/2063987019068371128) (2026-06-10)
@@ -90,6 +90,7 @@ total_mentions: 102
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
 - [marcopapa99](https://x.com/marcopapa99/status/2107379003581665628) (2026-10-06)
 - [marfinxx](https://x.com/marfinxx/status/2102729802708918385) (2026-09-24)
+- [mirku21](https://x.com/mirku21/status/2106127135278612573) (2026-10-08)
 - [moneyacademyKE](https://x.com/moneyacademyKE/status/2081618955064455539) (2026-08-01)
 - [monmiglobal](https://x.com/monmiglobal/status/2071399421997359236) (2026-06-29)
 - [officialbunnyos](https://x.com/officialbunnyos/status/2089938164916060444) (2026-08-19)

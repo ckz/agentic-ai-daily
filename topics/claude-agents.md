@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-07
-total_mentions: 254
+last_seen: 2026-10-08
+total_mentions: 256
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -148,6 +148,7 @@ total_mentions: 254
 - [celineodier](https://x.com/celineodier/status/2094079187904610504) (2026-09-01)
 - [clapilot](https://x.com/clapilot/status/2063509258461642879) (2026-06-07)
 - [clapilot](https://x.com/clapilot/status/2063510331716952191) (2026-06-07)
+- [claudeai](https://x.com/claudeai/status/2107574195978641911) (2026-10-08)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2076962984216412342) (2026-07-15)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2079864840055902389) (2026-07-23)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2082038438803738759) (2026-07-30)
@@ -155,6 +156,7 @@ total_mentions: 254
 - [composio](https://x.com/composio/status/2085330847951970801) (2026-08-07)
 - [coreyganim](https://x.com/coreyganim/status/2095635699739554173) (2026-09-04)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1879706901170077978) (2026-06-11)
+- [cryptopunk7213](https://x.com/cryptopunk7213/status/2038666497254433045) (2026-10-08)
 - [csaba_kissi](https://x.com/csaba_kissi/status/2097206925264118197) (2026-09-12)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2062848159215493176) (2026-06-05)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2065324588054310985) (2026-06-12)
