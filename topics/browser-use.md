@@ -1,10 +1,11 @@
 # Browser Use
 
 first_seen: 2026-06-07
-last_seen: 2026-10-08
-total_mentions: 42
+last_seen: 2026-10-09
+total_mentions: 43
 
 ## Related Tweets
+- [0xSero](https://x.com/0xSero/status/2106844590376645117) (2026-10-09)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2107925762720326090) (2026-10-08)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2072415161374343198) (2026-07-08)

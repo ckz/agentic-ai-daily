@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-10-08
-total_mentions: 151
+last_seen: 2026-10-09
+total_mentions: 153
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -97,6 +97,7 @@ total_mentions: 151
 - [dwarkesh_sp](https://x.com/dwarkesh_sp/status/2070672008946589922) (2026-06-27)
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
 - [ehsanik](https://x.com/ehsanik/status/2070544602164330561) (2026-06-27)
+- [finnvoorhees](https://x.com/finnvoorhees/status/2108279639538012265) (2026-10-09)
 - [gkxspace](https://x.com/gkxspace/status/2068546908360999331) (2026-06-21)
 - [gregisenberg](https://x.com/gregisenberg/status/2104613420460822745) (2026-10-05)
 - [hanghuang_](https://x.com/hanghuang_/status/2099559078687088854) (2026-09-19)
@@ -145,6 +146,7 @@ total_mentions: 151
 - [stevenheidel](https://x.com/stevenheidel/status/2107577453971693887) (2026-10-08)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095859430776533318) (2026-09-06)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2107327491702509755) (2026-10-09)
 - [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)
 - [sxhivs](https://x.com/sxhivs/status/2101729362194432184) (2026-09-21)
 - [trycua](https://x.com/trycua/status/2100649543079502213) (2026-09-20)

@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-08
-total_mentions: 541
+last_seen: 2026-10-09
+total_mentions: 547
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -84,6 +84,7 @@ total_mentions: 541
 - [DanKornas](https://x.com/DanKornas/status/2101763058657853813) (2026-09-21)
 - [DanKornas](https://x.com/DanKornas/status/2103427788145381798) (2026-10-01)
 - [DanKornas](https://x.com/DanKornas/status/2104095939187097741) (2026-10-02)
+- [DanKornas](https://x.com/DanKornas/status/2106428815828222129) (2026-10-09)
 - [DataChaz](https://x.com/DataChaz/status/2068952350077698446) (2026-06-28)
 - [DataChaz](https://x.com/DataChaz/status/2070415564510785812) (2026-06-27)
 - [DataScienceDojo](https://x.com/DataScienceDojo/status/2071624804575093052) (2026-06-30)
@@ -104,9 +105,12 @@ total_mentions: 541
 - [EmmanuelInvest](https://x.com/EmmanuelInvest/status/2076724041302319246) (2026-07-14)
 - [EthenaFndtn](https://x.com/EthenaFndtn/status/2092976592738001383) (2026-08-28)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
+- [FSattiii](https://x.com/FSattiii/status/2108412218740240831) (2026-10-09)
+- [Farhan3jwq](https://x.com/Farhan3jwq/status/2108412170279194765) (2026-10-09)
 - [FastCompany](https://x.com/FastCompany/status/2063149004490149919) (2026-06-06)
 - [FourPillarsFP](https://x.com/FourPillarsFP/status/2079870751247609871) (2026-07-28)
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2087121081098224122) (2026-08-18)
+- [GirmaMele48686](https://x.com/GirmaMele48686/status/2108411422577512797) (2026-10-09)
 - [GodsBoy7777](https://x.com/GodsBoy7777/status/2102146460821152070) (2026-09-22)
 - [GoogleAI](https://x.com/GoogleAI/status/2062942864288387430) (2026-06-06)
 - [GoogleAI](https://x.com/GoogleAI/status/2088332438753681700) (2026-08-17)
@@ -243,6 +247,7 @@ total_mentions: 541
 - [The_Cyber_News](https://x.com/The_Cyber_News/status/2096594188003676213) (2026-09-12)
 - [Thom_Wolf](https://x.com/Thom_Wolf/status/2095889630306472127) (2026-09-06)
 - [ThomasOrTK](https://x.com/ThomasOrTK/status/2072005642727158247) (2026-07-01)
+- [TweetsByTBI](https://x.com/TweetsByTBI/status/2108135391098454429) (2026-10-09)
 - [UFCS](https://x.com/UFCS/status/2107356066719621508) (2026-10-06)
 - [UK_Daniel_Card](https://x.com/UK_Daniel_Card/status/2077623819913617526) (2026-07-16)
 - [USB](https://x.com/USB/status/2074401622730363082) (2026-07-07)
@@ -453,6 +458,7 @@ total_mentions: 541
 - [paywithmana](https://x.com/paywithmana/status/2074758476220473387) (2026-07-08)
 - [petergyang](https://x.com/petergyang/status/2083917722765947284) (2026-08-04)
 - [petergyang](https://x.com/petergyang/status/2099139853170733280) (2026-09-14)
+- [petergyang](https://x.com/petergyang/status/2106749997442285981) (2026-10-09)
 - [piyascode9](https://x.com/piyascode9/status/2060204362497224790) (2026-06-05)
 - [polydao](https://x.com/polydao/status/2097642088506487020) (2026-09-10)
 - [py_kanade0404](https://x.com/py_kanade0404/status/2079825109083467821) (2026-07-22)

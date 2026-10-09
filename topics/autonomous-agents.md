@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-08
-total_mentions: 1401
+last_seen: 2026-10-09
+total_mentions: 1408
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -178,6 +178,7 @@ total_mentions: 1401
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2102438210798514391) (2026-09-23)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2105025585332605357) (2026-09-30)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2105392625788637299) (2026-10-01)
+- [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2107911905822351609) (2026-10-09)
 - [Artificialunbox](https://x.com/Artificialunbox/status/2068215362114715908) (2026-06-20)
 - [Aurimas_Gr](https://x.com/Aurimas_Gr/status/2084608000610754903) (2026-08-06)
 - [Ausmi129124](https://x.com/Ausmi129124/status/2068589738534260929) (2026-06-21)
@@ -399,6 +400,7 @@ total_mentions: 1401
 - [KirkDBorne](https://x.com/KirkDBorne/status/2097054388506251532) (2026-09-08)
 - [Krishnasagrawal](https://x.com/Krishnasagrawal/status/2075557881156657352) (2026-07-11)
 - [Krishnasagrawal](https://x.com/Krishnasagrawal/status/2076370564831486040) (2026-07-14)
+- [KunZhou23339193](https://x.com/KunZhou23339193/status/2107651518908527096) (2026-10-09)
 - [LayerAIorg](https://x.com/LayerAIorg/status/1877351069300179299) (2026-06-08)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2058615544048451842) (2026-07-04)
@@ -428,6 +430,7 @@ total_mentions: 1401
 - [MAXdeg0](https://x.com/MAXdeg0/status/2090697430756904964) (2026-08-23)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2092142425879855254) (2026-08-28)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2096862232315367661) (2026-09-09)
+- [MAXdeg0](https://x.com/MAXdeg0/status/2106654256056938558) (2026-10-09)
 - [MTSlive](https://x.com/MTSlive/status/2085098975707996558) (2026-08-06)
 - [MTSlive](https://x.com/MTSlive/status/2086556207033266539) (2026-08-12)
 - [Magne_Ai](https://x.com/Magne_Ai/status/2073257996637896904) (2026-07-05)
@@ -474,6 +477,7 @@ total_mentions: 1401
 - [NFTCPS](https://x.com/NFTCPS/status/2063088254560407926) (2026-06-13)
 - [NVIDIAAP](https://x.com/NVIDIAAP/status/2066370113733787732) (2026-06-15)
 - [NVIDIAAP](https://x.com/NVIDIAAP/status/2076879361504903645) (2026-07-21)
+- [NVIDIARobotics](https://x.com/NVIDIARobotics/status/2104572674311852436) (2026-10-09)
 - [NainsiDwiv50980](https://x.com/NainsiDwiv50980/status/2062154970229858372) (2026-06-06)
 - [NainsiDwiv50980](https://x.com/NainsiDwiv50980/status/2066035332169269264) (2026-06-14)
 - [NavenNetwork](https://x.com/NavenNetwork/status/2075957359760027728) (2026-07-12)
@@ -596,6 +600,7 @@ total_mentions: 1401
 - [SolanaHub_](https://x.com/SolanaHub_/status/2011906234765754646) (2026-07-10)
 - [SolanasAgents](https://x.com/SolanasAgents/status/2086876312615129103) (2026-08-11)
 - [SomieCITYY](https://x.com/SomieCITYY/status/2082672524169445396) (2026-08-01)
+- [SoribeStella](https://x.com/SoribeStella/status/2108195716405326065) (2026-10-09)
 - [Spectre__AI](https://x.com/Spectre__AI/status/2084677141870883158) (2026-08-07)
 - [Spectre__AI](https://x.com/Spectre__AI/status/2107138516492689556) (2026-10-07)
 - [Sprytixl](https://x.com/Sprytixl/status/2086533982385033355) (2026-08-11)
@@ -1307,6 +1312,7 @@ total_mentions: 1401
 - [soumithchintala](https://x.com/soumithchintala/status/2095544501657895312) (2026-09-07)
 - [spectnfa](https://x.com/spectnfa/status/2102093640650588632) (2026-09-25)
 - [splinetool](https://x.com/splinetool/status/2090500256190603636) (2026-08-23)
+- [spreadxai](https://x.com/spreadxai/status/2108213217835004013) (2026-10-09)
 - [star_okx](https://x.com/star_okx/status/2071915634401931644) (2026-07-07)
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
 - [stbenjam](https://x.com/stbenjam/status/2087340706599698783) (2026-08-12)
@@ -1326,6 +1332,7 @@ total_mentions: 1401
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095491337651179621) (2026-09-04)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095859430776533318) (2026-09-06)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2106715961403273433) (2026-10-09)
 - [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)
 - [swyx](https://x.com/swyx/status/2076155833428431012) (2026-07-12)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)

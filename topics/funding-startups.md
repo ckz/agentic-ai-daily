@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-08
-total_mentions: 654
+last_seen: 2026-10-09
+total_mentions: 665
 
 ## Related Tweets
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
@@ -23,6 +23,7 @@ total_mentions: 654
 - [AOC](https://x.com/AOC/status/1145766311794040834) (2026-10-01)
 - [AOC](https://x.com/AOC/status/1310384989524185093) (2026-10-01)
 - [AbdulElSayed](https://x.com/AbdulElSayed/status/2105317680643182735) (2026-10-01)
+- [AdityaShipsHQ](https://x.com/AdityaShipsHQ/status/2107796573552062478) (2026-10-09)
 - [AgentChud](https://x.com/AgentChud/status/2096259218835718273) (2026-09-06)
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
 - [AlexMasonCrypto](https://x.com/AlexMasonCrypto/status/2090133773081854263) (2026-08-22)
@@ -84,6 +85,7 @@ total_mentions: 654
 - [EricLDaugh](https://x.com/EricLDaugh/status/2104671461265101147) (2026-10-01)
 - [EricTrump](https://x.com/EricTrump/status/2095360389227630607) (2026-09-14)
 - [EthenaFndtn](https://x.com/EthenaFndtn/status/2092976592738001383) (2026-08-28)
+- [Eucharia_Mom](https://x.com/Eucharia_Mom/status/2107127207176941605) (2026-10-09)
 - [FT](https://x.com/FT/status/2092858183907741818) (2026-08-30)
 - [FT](https://x.com/FT/status/2099983566016794629) (2026-09-16)
 - [FactoryAI](https://x.com/FactoryAI/status/2099907042123403466) (2026-09-17)
@@ -360,10 +362,12 @@ total_mentions: 654
 - [coingecko](https://x.com/coingecko/status/2064572347433075107) (2026-06-10)
 - [convequity](https://x.com/convequity/status/2105431360500301981) (2026-10-01)
 - [coreyganim](https://x.com/coreyganim/status/2084312288786276484) (2026-08-04)
+- [coreyganim](https://x.com/coreyganim/status/2108233785061875903) (2026-10-09)
 - [craigweiss](https://x.com/craigweiss/status/2072127436310110488) (2026-07-01)
 - [creem_io](https://x.com/creem_io/status/2100479871466020889) (2026-09-20)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1872809091799875592) (2026-06-29)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2076868034812096748) (2026-07-14)
+- [danellisona](https://x.com/danellisona/status/2108357119787631069) (2026-10-09)
 - [danmall](https://x.com/danmall/status/2103615627323727941) (2026-09-27)
 - [darbyw](https://x.com/darbyw/status/2092718828405096955) (2026-08-27)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
@@ -373,6 +377,7 @@ total_mentions: 654
 - [deedydas](https://x.com/deedydas/status/2100287208209146309) (2026-09-19)
 - [deedydas](https://x.com/deedydas/status/2102787937482252537) (2026-09-24)
 - [deedydas](https://x.com/deedydas/status/2103903382822089010) (2026-09-27)
+- [dhanyindraswara](https://x.com/dhanyindraswara/status/2108209744439812534) (2026-10-09)
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
 - [dharmesh](https://x.com/dharmesh/status/2093071931188597042) (2026-08-28)
 - [dhh](https://x.com/dhh/status/2086590006898958752) (2026-08-13)
@@ -430,6 +435,7 @@ total_mentions: 654
 - [gregisenberg](https://x.com/gregisenberg/status/2095538589543059535) (2026-09-05)
 - [gregisenberg](https://x.com/gregisenberg/status/2105397216374403561) (2026-10-03)
 - [hanghuang_](https://x.com/hanghuang_/status/2104949571789148416) (2026-10-01)
+- [hanifproduktif](https://x.com/hanifproduktif/status/2108025812448600435) (2026-10-09)
 - [harbingerofwoke](https://x.com/harbingerofwoke/status/2090178064399613976) (2026-10-01)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [heynavtoor](https://x.com/heynavtoor/status/2090103120399655356) (2026-08-20)
@@ -516,6 +522,7 @@ total_mentions: 654
 - [nextjs](https://x.com/nextjs/status/2071647669467201657) (2026-07-02)
 - [nicochristie](https://x.com/nicochristie/status/2093729344871170219) (2026-08-30)
 - [noah_schochet](https://x.com/noah_schochet/status/2077044441978737104) (2026-07-17)
+- [ns123abc](https://x.com/ns123abc/status/2108070503931936780) (2026-10-09)
 - [okxafrica](https://x.com/okxafrica/status/2102644632350085140) (2026-09-23)
 - [om_patel5](https://x.com/om_patel5/status/2099683744781111419) (2026-09-17)
 - [openmarket_xyz](https://x.com/openmarket_xyz/status/2104622481080525138) (2026-09-29)
@@ -535,6 +542,7 @@ total_mentions: 654
 - [peer_rich](https://x.com/peer_rich/status/2062949788081897633) (2026-06-05)
 - [pelositracker](https://x.com/pelositracker/status/2080314321649746194) (2026-07-26)
 - [pengsonal](https://x.com/pengsonal/status/2102668006023410105) (2026-09-24)
+- [petergyang](https://x.com/petergyang/status/2106749997442285981) (2026-10-09)
 - [pierreeliottlal](https://x.com/pierreeliottlal/status/2066037831626362988) (2026-06-14)
 - [pitdesi](https://x.com/pitdesi/status/2098178397008781823) (2026-09-12)
 - [piyascode9](https://x.com/piyascode9/status/2106945216154669240) (2026-10-05)
@@ -544,6 +552,7 @@ total_mentions: 654
 - [pubity](https://x.com/pubity/status/2088354976359719140) (2026-08-16)
 - [pulkit_gupta2](https://x.com/pulkit_gupta2/status/2097777826292474042) (2026-09-13)
 - [pulkit_mittal_](https://x.com/pulkit_mittal_/status/2092132911919022181) (2026-08-28)
+- [qasimbizs](https://x.com/qasimbizs/status/2108213013027373084) (2026-10-09)
 - [rahulbais136](https://x.com/rahulbais136/status/2077192536335192463) (2026-07-15)
 - [rauchg](https://x.com/rauchg/status/2088735125744070932) (2026-08-18)
 - [ravikiran_dev7](https://x.com/ravikiran_dev7/status/2088373187981828420) (2026-08-16)
@@ -574,6 +583,7 @@ total_mentions: 654
 - [sairahul1](https://x.com/sairahul1/status/2075934382284484997) (2026-07-14)
 - [samsenchal](https://x.com/samsenchal/status/2068605085089693994) (2026-06-21)
 - [samuelcolvin](https://x.com/samuelcolvin/status/2103469459981619243) (2026-09-26)
+- [sarahzorah](https://x.com/sarahzorah/status/2108401845563806150) (2026-10-09)
 - [sean_wallace_](https://x.com/sean_wallace_/status/2063994540873433201) (2026-06-09)
 - [semiDL](https://x.com/semiDL/status/2105659000545059287) (2026-10-02)
 - [sethbannon](https://x.com/sethbannon/status/2097738103989645725) (2026-09-10)
@@ -598,6 +608,7 @@ total_mentions: 654
 - [suni_code](https://x.com/suni_code/status/2073859515485974967) (2026-07-08)
 - [superteam](https://x.com/superteam/status/2101924701241331858) (2026-09-21)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2106315825586331880) (2026-10-05)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2107402987224412627) (2026-10-09)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2107823223702442434) (2026-10-08)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
 - [tankots](https://x.com/tankots/status/2089372674644713664) (2026-08-21)
