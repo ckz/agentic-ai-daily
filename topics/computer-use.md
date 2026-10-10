@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-10-09
-total_mentions: 153
+last_seen: 2026-10-10
+total_mentions: 154
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -20,6 +20,7 @@ total_mentions: 153
 - [Codex_Changelog](https://x.com/Codex_Changelog/status/2062678248790589520) (2026-06-07)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2094244045421728069) (2026-09-05)
 - [Da7_Tech](https://x.com/Da7_Tech/status/2088580089931866460) (2026-08-20)
+- [Dinosn](https://x.com/Dinosn/status/2108049111689646260) (2026-10-10)
 - [EXM7777](https://x.com/EXM7777/status/2087176716901023834) (2026-08-13)
 - [GoogleDeepMind](https://x.com/GoogleDeepMind/status/2070180509523546481) (2026-06-27)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)

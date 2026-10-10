@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-09
-total_mentions: 547
+last_seen: 2026-10-10
+total_mentions: 551
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -85,6 +85,7 @@ total_mentions: 547
 - [DanKornas](https://x.com/DanKornas/status/2103427788145381798) (2026-10-01)
 - [DanKornas](https://x.com/DanKornas/status/2104095939187097741) (2026-10-02)
 - [DanKornas](https://x.com/DanKornas/status/2106428815828222129) (2026-10-09)
+- [DanKornas](https://x.com/DanKornas/status/2108761693618606302) (2026-10-10)
 - [DataChaz](https://x.com/DataChaz/status/2068952350077698446) (2026-06-28)
 - [DataChaz](https://x.com/DataChaz/status/2070415564510785812) (2026-06-27)
 - [DataScienceDojo](https://x.com/DataScienceDojo/status/2071624804575093052) (2026-06-30)
@@ -164,6 +165,7 @@ total_mentions: 547
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2058615544048451842) (2026-07-04)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
+- [LearnWithBrij](https://x.com/LearnWithBrij/status/2108252913621692754) (2026-10-10)
 - [LimestoneHQ](https://x.com/LimestoneHQ/status/2076310897660772466) (2026-07-13)
 - [LuizaJarovsky](https://x.com/LuizaJarovsky/status/2072664971616383227) (2026-07-03)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2105607355262009622) (2026-10-02)
@@ -355,6 +357,7 @@ total_mentions: 547
 - [dair_ai](https://x.com/dair_ai/status/2081770344952803628) (2026-07-28)
 - [dair_ai](https://x.com/dair_ai/status/2097022152088445034) (2026-09-08)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
+- [devXritesh](https://x.com/devXritesh/status/2107075587529396377) (2026-10-10)
 - [dexhorthy](https://x.com/dexhorthy/status/2067286892786454855) (2026-06-19)
 - [digitalocean](https://x.com/digitalocean/status/2102414817797550320) (2026-09-24)
 - [divaagurlxw](https://x.com/divaagurlxw/status/2087756697469440442) (2026-08-15)
@@ -472,6 +475,7 @@ total_mentions: 547
 - [rileybrown](https://x.com/rileybrown/status/2092644889762599281) (2026-08-28)
 - [rileybrown](https://x.com/rileybrown/status/2101027402369335382) (2026-09-19)
 - [riskfreemyth](https://x.com/riskfreemyth/status/2074508129346486679) (2026-07-08)
+- [robrtcode](https://x.com/robrtcode/status/2108476789018259565) (2026-10-10)
 - [rohit4verse](https://x.com/rohit4verse/status/2083284519550136641) (2026-08-01)
 - [rustaceans_rs](https://x.com/rustaceans_rs/status/2095655918956372209) (2026-09-08)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)

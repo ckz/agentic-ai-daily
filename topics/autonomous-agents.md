@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-09
-total_mentions: 1408
+last_seen: 2026-10-10
+total_mentions: 1417
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -264,6 +264,7 @@ total_mentions: 1408
 - [DanKornas](https://x.com/DanKornas/status/2088477020602696132) (2026-08-18)
 - [DanKornas](https://x.com/DanKornas/status/2099962470857048270) (2026-09-16)
 - [DanKornas](https://x.com/DanKornas/status/2104095939187097741) (2026-10-02)
+- [DanKornas](https://x.com/DanKornas/status/2108761693618606302) (2026-10-10)
 - [Daniel_Farinax](https://x.com/Daniel_Farinax/status/2088855024319258910) (2026-08-17)
 - [DataChaz](https://x.com/DataChaz/status/2020882442492747997) (2026-06-05)
 - [DataChaz](https://x.com/DataChaz/status/2063158890469196218) (2026-06-06)
@@ -463,6 +464,7 @@ total_mentions: 1408
 - [MiniMax_AI](https://x.com/MiniMax_AI/status/2061266317815296322) (2026-06-05)
 - [MithilaStack](https://x.com/MithilaStack/status/2072557584536776834) (2026-07-02)
 - [Mnilax](https://x.com/Mnilax/status/2087651578639470614) (2026-08-14)
+- [Mohiniuni](https://x.com/Mohiniuni/status/2106251206524014747) (2026-10-10)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106601226276118967) (2026-10-05)
 - [MoonDevOnYT](https://x.com/MoonDevOnYT/status/2072462757379612916) (2026-07-07)
 - [Motionfly_co](https://x.com/Motionfly_co/status/2089054633121419468) (2026-08-17)
@@ -519,6 +521,7 @@ total_mentions: 1408
 - [PinkBrains_io](https://x.com/PinkBrains_io/status/2079153364571721795) (2026-07-24)
 - [Pokee_AI](https://x.com/Pokee_AI/status/2087211800777654378) (2026-08-14)
 - [Polymarket](https://x.com/Polymarket/status/2085186345040023989) (2026-08-06)
+- [Polymarket](https://x.com/Polymarket/status/2104553186816356468) (2026-10-10)
 - [PrakashS720](https://x.com/PrakashS720/status/2065850652832694731) (2026-06-15)
 - [PrimeIntellect](https://x.com/PrimeIntellect/status/2085086999267144083) (2026-08-06)
 - [PrismML](https://x.com/PrismML/status/2077084891284721827) (2026-07-15)
@@ -993,6 +996,7 @@ total_mentions: 1408
 - [funghibull](https://x.com/funghibull/status/2074598601184227650) (2026-07-08)
 - [furqaan_design](https://x.com/furqaan_design/status/2093181537877651596) (2026-08-28)
 - [getmpplayer](https://x.com/getmpplayer/status/2063511395875062224) (2026-06-07)
+- [ghumare64](https://x.com/ghumare64/status/2107329844912754918) (2026-10-10)
 - [gippp69](https://x.com/gippp69/status/2088689999076352156) (2026-08-16)
 - [gippp69](https://x.com/gippp69/status/2088943002467115352) (2026-08-17)
 - [github](https://x.com/github/status/2064402372961484864) (2026-06-11)
@@ -1047,6 +1051,7 @@ total_mentions: 1408
 - [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2097752959526330501) (2026-09-10)
 - [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2100676098057032106) (2026-09-20)
 - [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2103142402047287534) (2026-09-28)
+- [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2108621128944022004) (2026-10-10)
 - [imarun_chauhan](https://x.com/imarun_chauhan/status/2063878197457134003) (2026-06-08)
 - [inflectaa](https://x.com/inflectaa/status/2104822745376911723) (2026-09-29)
 - [injective](https://x.com/injective/status/1867794623843958899) (2026-06-05)
@@ -1135,6 +1140,7 @@ total_mentions: 1408
 - [marfinxx](https://x.com/marfinxx/status/2096206860781031528) (2026-09-08)
 - [marfinxx](https://x.com/marfinxx/status/2098546291164717071) (2026-09-13)
 - [marfinxx](https://x.com/marfinxx/status/2102729802708918385) (2026-09-24)
+- [marfinxx](https://x.com/marfinxx/status/2107093610604765199) (2026-10-10)
 - [marryevan999](https://x.com/marryevan999/status/2077795286332952816) (2026-07-18)
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [maxescu](https://x.com/maxescu/status/2087195649561317511) (2026-08-13)
@@ -1159,6 +1165,7 @@ total_mentions: 1408
 - [mirku21](https://x.com/mirku21/status/2103952805715492895) (2026-09-28)
 - [mirku21](https://x.com/mirku21/status/2105764769479455043) (2026-10-03)
 - [mirku21](https://x.com/mirku21/status/2106127135278612573) (2026-10-08)
+- [mitchellh](https://x.com/mitchellh/status/2107577887159386152) (2026-10-10)
 - [miyataArcHack](https://x.com/miyataArcHack/status/2100743410076598752) (2026-09-25)
 - [mnadirghafoor](https://x.com/mnadirghafoor/status/2071098524826268063) (2026-06-28)
 - [mojeskoqq](https://x.com/mojeskoqq/status/2085273824413503536) (2026-08-09)
@@ -1201,6 +1208,7 @@ total_mentions: 1408
 - [omarsar0](https://x.com/omarsar0/status/2095873020778991918) (2026-09-08)
 - [omarsar0](https://x.com/omarsar0/status/2098809969252450451) (2026-09-15)
 - [open_founder](https://x.com/open_founder/status/2104953677031055649) (2026-10-02)
+- [open_founder](https://x.com/open_founder/status/2108596016001785940) (2026-10-10)
 - [openart_ai](https://x.com/openart_ai/status/2067650953478652126) (2026-06-19)
 - [openservai](https://x.com/openservai/status/2064795739369152670) (2026-06-11)
 - [opentensor](https://x.com/opentensor/status/2078858375081627985) (2026-07-21)
@@ -1284,6 +1292,7 @@ total_mentions: 1408
 - [sentient_zh](https://x.com/sentient_zh/status/2066417986467189164) (2026-06-15)
 - [setyamickala](https://x.com/setyamickala/status/2066848520326480020) (2026-06-28)
 - [shamshudein](https://x.com/shamshudein/status/2087424449985523898) (2026-08-12)
+- [shannholmberg](https://x.com/shannholmberg/status/2108459414961389680) (2026-10-10)
 - [shanyanggm](https://x.com/shanyanggm/status/2098941338297458746) (2026-09-14)
 - [shanyanggm](https://x.com/shanyanggm/status/2099226614844256653) (2026-09-14)
 - [sharbel](https://x.com/sharbel/status/2065700640387436935) (2026-06-20)

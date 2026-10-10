@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-06
-total_mentions: 123
+last_seen: 2026-10-10
+total_mentions: 124
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -55,6 +55,7 @@ total_mentions: 123
 - [Mahaximus_](https://x.com/Mahaximus_/status/2090144098380353940) (2026-08-20)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2099512757343182989) (2026-09-18)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
+- [Mohiniuni](https://x.com/Mohiniuni/status/2106251206524014747) (2026-10-10)
 - [N01ennn](https://x.com/N01ennn/status/2089455117716406706) (2026-08-18)
 - [RhysSullivan](https://x.com/RhysSullivan/status/2073538819132207489) (2026-07-05)
 - [RohOnChain](https://x.com/RohOnChain/status/2086800845036040598) (2026-08-11)

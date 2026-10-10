@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-09
-total_mentions: 665
+last_seen: 2026-10-10
+total_mentions: 671
 
 ## Related Tweets
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
@@ -20,6 +20,7 @@ total_mentions: 665
 - [AITECHLabs](https://x.com/AITECHLabs/status/2083070154548654199) (2026-07-31)
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
 - [AIwithSajid](https://x.com/AIwithSajid/status/2101849697564659742) (2026-09-21)
+- [AIwithSajid](https://x.com/AIwithSajid/status/2108742053710762420) (2026-10-10)
 - [AOC](https://x.com/AOC/status/1145766311794040834) (2026-10-01)
 - [AOC](https://x.com/AOC/status/1310384989524185093) (2026-10-01)
 - [AbdulElSayed](https://x.com/AbdulElSayed/status/2105317680643182735) (2026-10-01)
@@ -36,6 +37,7 @@ total_mentions: 665
 - [AnishJaitwar](https://x.com/AnishJaitwar/status/2086661433593360839) (2026-08-10)
 - [AnthonyAguero](https://x.com/AnthonyAguero/status/2105367891222909372) (2026-10-01)
 - [Argona0x](https://x.com/Argona0x/status/2065525815106769169) (2026-06-13)
+- [AroraBhavyam](https://x.com/AroraBhavyam/status/2108793649605861426) (2026-10-10)
 - [ArrushAdityadev](https://x.com/ArrushAdityadev/status/2061674017929703768) (2026-06-08)
 - [ArslyTech](https://x.com/ArslyTech/status/2063153998518235584) (2026-06-06)
 - [AtomsNotBits](https://x.com/AtomsNotBits/status/2072429730788413662) (2026-07-02)
@@ -259,6 +261,7 @@ total_mentions: 665
 - [XFreeze](https://x.com/XFreeze/status/2072891163502080053) (2026-07-06)
 - [XFreeze](https://x.com/XFreeze/status/2090213954744463691) (2026-08-20)
 - [XFreeze](https://x.com/XFreeze/status/2107687399509913967) (2026-10-07)
+- [XFreeze](https://x.com/XFreeze/status/2108780374851793006) (2026-10-10)
 - [XammieCrypt](https://x.com/XammieCrypt/status/2100356306632691984) (2026-09-23)
 - [YhungProf0](https://x.com/YhungProf0/status/2071829780270391531) (2026-07-02)
 - [_baretto](https://x.com/_baretto/status/2096899523289522416) (2026-09-08)
@@ -335,6 +338,7 @@ total_mentions: 665
 - [business](https://x.com/business/status/2064560376595804273) (2026-06-10)
 - [business](https://x.com/business/status/2089077253778915636) (2026-08-19)
 - [business](https://x.com/business/status/2097139831302160849) (2026-09-08)
+- [business](https://x.com/business/status/2108078728592998447) (2026-10-10)
 - [bykahlil](https://x.com/bykahlil/status/2079265093607637030) (2026-07-21)
 - [cb_doge](https://x.com/cb_doge/status/2062681226633523250) (2026-06-08)
 - [cb_doge](https://x.com/cb_doge/status/2072009965389443374) (2026-07-03)
@@ -464,6 +468,7 @@ total_mentions: 665
 - [jomatech](https://x.com/jomatech/status/2071058503805124918) (2026-06-28)
 - [jsolomonReports](https://x.com/jsolomonReports/status/2083874257189097789) (2026-08-05)
 - [juampitech](https://x.com/juampitech/status/2102849501002150206) (2026-09-24)
+- [juampitech](https://x.com/juampitech/status/2108331805350805820) (2026-10-10)
 - [judegomila](https://x.com/judegomila/status/2100293405834453355) (2026-09-22)
 - [julianharris](https://x.com/julianharris/status/2106586413768589598) (2026-10-07)
 - [k2sbhai](https://x.com/k2sbhai/status/2095328927330025555) (2026-09-03)
@@ -498,6 +503,7 @@ total_mentions: 665
 - [marcushan_](https://x.com/marcushan_/status/2098222906673090570) (2026-09-11)
 - [mardehaym](https://x.com/mardehaym/status/2100945418221769097) (2026-09-22)
 - [marfinxx](https://x.com/marfinxx/status/2087950466244063718) (2026-08-14)
+- [marfinxx](https://x.com/marfinxx/status/2107093610604765199) (2026-10-10)
 - [margelo_com](https://x.com/margelo_com/status/2092310982710235294) (2026-08-28)
 - [markiewagner](https://x.com/markiewagner/status/2064778239164461316) (2026-06-11)
 - [marorhab](https://x.com/marorhab/status/2063163950850609431) (2026-06-06)

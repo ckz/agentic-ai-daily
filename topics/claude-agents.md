@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-09
-total_mentions: 257
+last_seen: 2026-10-10
+total_mentions: 262
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -201,6 +201,7 @@ total_mentions: 257
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [heynavtoor](https://x.com/heynavtoor/status/2083221614595051602) (2026-08-05)
 - [huacnlee](https://x.com/huacnlee/status/2105550545939484751) (2026-10-01)
+- [huangtongxueh](https://x.com/huangtongxueh/status/2108577165306687938) (2026-10-10)
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
 - [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)
 - [jamonholmgren](https://x.com/jamonholmgren/status/2076001786700394610) (2026-07-12)
@@ -215,6 +216,7 @@ total_mentions: 257
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
 - [lksmlabc](https://x.com/lksmlabc/status/2096524556123115628) (2026-09-09)
 - [marfinxx](https://x.com/marfinxx/status/2102729802708918385) (2026-09-24)
+- [marfinxx](https://x.com/marfinxx/status/2107093610604765199) (2026-10-10)
 - [matei_zaharia](https://x.com/matei_zaharia/status/2065827057624605146) (2026-06-14)
 - [mikefutia](https://x.com/mikefutia/status/2069488510424531371) (2026-06-27)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2072358721821221212) (2026-07-02)
@@ -223,6 +225,7 @@ total_mentions: 257
 - [milesdeutscher](https://x.com/milesdeutscher/status/2080763866200645792) (2026-07-25)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2089509583312339450) (2026-08-18)
 - [mirku21](https://x.com/mirku21/status/2105764769479455043) (2026-10-03)
+- [mitchellh](https://x.com/mitchellh/status/2107577887159386152) (2026-10-10)
 - [mojeskoqq](https://x.com/mojeskoqq/status/2085273824413503536) (2026-08-09)
 - [noisyb0y1](https://x.com/noisyb0y1/status/2087218720594706679) (2026-08-13)
 - [noisyb0y1](https://x.com/noisyb0y1/status/2093305554445738152) (2026-09-04)
@@ -249,11 +252,13 @@ total_mentions: 257
 - [stretchcloud](https://x.com/stretchcloud/status/2072215124958740898) (2026-07-01)
 - [stretchcloud](https://x.com/stretchcloud/status/2074649666608840706) (2026-07-08)
 - [stretchcloud](https://x.com/stretchcloud/status/2107375555788345677) (2026-10-06)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2108242267257307180) (2026-10-10)
 - [tanayj](https://x.com/tanayj/status/2072108170080657729) (2026-07-01)
 - [tetsuoai](https://x.com/tetsuoai/status/2098199890237247578) (2026-09-11)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2081680037544427793) (2026-07-28)
 - [timsneath](https://x.com/timsneath/status/2072479088661651612) (2026-07-02)
+- [trq212](https://x.com/trq212/status/2108689101503566319) (2026-10-10)
 - [undefinedKi](https://x.com/undefinedKi/status/2070221446786215970) (2026-06-27)
 - [undefinedKi](https://x.com/undefinedKi/status/2070864207608684800) (2026-06-28)
 - [undefinedKi](https://x.com/undefinedKi/status/2071931934012211642) (2026-07-02)
