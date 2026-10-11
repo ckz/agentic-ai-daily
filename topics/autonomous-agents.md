@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-10
-total_mentions: 1417
+last_seen: 2026-10-11
+total_mentions: 1425
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -82,6 +82,7 @@ total_mentions: 1417
 - [0xwhrrari](https://x.com/0xwhrrari/status/2097348114961039817) (2026-09-09)
 - [10027lifuguan](https://x.com/10027lifuguan/status/2067812057479831832) (2026-06-19)
 - [1005Alok85200](https://x.com/1005Alok85200/status/2063477130265297279) (2026-06-07)
+- [1a1a11a](https://x.com/1a1a11a/status/2108924569398411566) (2026-10-11)
 - [4rblaber](https://x.com/4rblaber/status/2080228516541472801) (2026-07-25)
 - [ACTICOMMUNITY](https://x.com/ACTICOMMUNITY/status/1916487048585691529) (2026-06-29)
 - [AEON_Community](https://x.com/AEON_Community/status/2064694068677107745) (2026-06-11)
@@ -116,6 +117,7 @@ total_mentions: 1417
 - [AhaanRaizada](https://x.com/AhaanRaizada/status/2087569650976776659) (2026-08-13)
 - [AiCamila_](https://x.com/AiCamila_/status/2076911076885823887) (2026-07-15)
 - [AiCamila_](https://x.com/AiCamila_/status/2079402809397846321) (2026-07-24)
+- [AiEvolutio58513](https://x.com/AiEvolutio58513/status/2107471089215721965) (2026-10-11)
 - [AiForAmericans](https://x.com/AiForAmericans/status/2102751457279918346) (2026-09-25)
 - [AiNicolas75316](https://x.com/AiNicolas75316/status/2079199374819914080) (2026-07-22)
 - [Aileverager](https://x.com/Aileverager/status/2079291494335205865) (2026-07-21)
@@ -354,6 +356,7 @@ total_mentions: 1417
 - [HermesWatcher](https://x.com/HermesWatcher/status/2103031686418006166) (2026-09-25)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
+- [HeyShobhan](https://x.com/HeyShobhan/status/2107810215680987529) (2026-10-11)
 - [HowToAI_](https://x.com/HowToAI_/status/2062105627204423994) (2026-06-06)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2089180119973990492) (2026-08-19)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2097489050332692836) (2026-09-11)
@@ -490,6 +493,7 @@ total_mentions: 1417
 - [NotebookLM](https://x.com/NotebookLM/status/2064016460964585549) (2026-06-11)
 - [NousResearch](https://x.com/NousResearch/status/2026759005633183980) (2026-06-07)
 - [NousResearch](https://x.com/NousResearch/status/2097403926072987986) (2026-09-09)
+- [NousResearch](https://x.com/NousResearch/status/2109012611555840069) (2026-10-11)
 - [Nozelcode](https://x.com/Nozelcode/status/2098804780659286041) (2026-09-16)
 - [NuryVittachi](https://x.com/NuryVittachi/status/2085178025055031587) (2026-08-11)
 - [OSACrypto1](https://x.com/OSACrypto1/status/2093684531731603613) (2026-08-30)
@@ -693,6 +697,7 @@ total_mentions: 1417
 - [Yosefphr](https://x.com/Yosefphr/status/2094074224839102549) (2026-09-01)
 - [Zai_org](https://x.com/Zai_org/status/2066938937344495629) (2026-06-20)
 - [Zainabiliyasu10](https://x.com/Zainabiliyasu10/status/2099324482468958581) (2026-09-19)
+- [ZaraAi56190](https://x.com/ZaraAi56190/status/2108372681808924831) (2026-10-11)
 - [Zev_ee](https://x.com/Zev_ee/status/2063508054641967536) (2026-06-07)
 - [Ziven_Coder](https://x.com/Ziven_Coder/status/2078482313986642122) (2026-07-30)
 - [Zuesthekreator](https://x.com/Zuesthekreator/status/2087104886240374996) (2026-08-13)
@@ -782,6 +787,7 @@ total_mentions: 1417
 - [arlanoska](https://x.com/arlanoska/status/2105001306503139816) (2026-09-30)
 - [arle0x](https://x.com/arle0x/status/2097726809529811454) (2026-09-11)
 - [arle0x](https://x.com/arle0x/status/2100983195508367747) (2026-09-19)
+- [arle0x](https://x.com/arle0x/status/2108925579185586336) (2026-10-11)
 - [arnaudmercier](https://x.com/arnaudmercier/status/2072179223339348311) (2026-07-01)
 - [arrowpunt](https://x.com/arrowpunt/status/1950268955136061682) (2026-07-13)
 - [aryanXmahajan](https://x.com/aryanXmahajan/status/2067677589247082656) (2026-06-19)
@@ -976,6 +982,7 @@ total_mentions: 1417
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2077696199486775764) (2026-07-18)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2077751107531493523) (2026-07-17)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2084974440895410625) (2026-08-07)
+- [eng_khairallah1](https://x.com/eng_khairallah1/status/2107580383357542646) (2026-10-11)
 - [eragon5121](https://x.com/eragon5121/status/2077283768704926200) (2026-07-15)
 - [ericosiu](https://x.com/ericosiu/status/2091231428184822258) (2026-08-25)
 - [ericosiu](https://x.com/ericosiu/status/2101657640753570113) (2026-09-21)
@@ -1165,6 +1172,7 @@ total_mentions: 1417
 - [mirku21](https://x.com/mirku21/status/2103952805715492895) (2026-09-28)
 - [mirku21](https://x.com/mirku21/status/2105764769479455043) (2026-10-03)
 - [mirku21](https://x.com/mirku21/status/2106127135278612573) (2026-10-08)
+- [mirku21](https://x.com/mirku21/status/2108301507955396970) (2026-10-11)
 - [mitchellh](https://x.com/mitchellh/status/2107577887159386152) (2026-10-10)
 - [miyataArcHack](https://x.com/miyataArcHack/status/2100743410076598752) (2026-09-25)
 - [mnadirghafoor](https://x.com/mnadirghafoor/status/2071098524826268063) (2026-06-28)

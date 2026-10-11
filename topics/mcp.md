@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-10-10
-total_mentions: 935
+last_seen: 2026-10-11
+total_mentions: 946
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -24,6 +24,7 @@ total_mentions: 935
 - [0xSoural](https://x.com/0xSoural/status/2104209622059958759) (2026-09-28)
 - [0xWast3](https://x.com/0xWast3/status/2077395455005131005) (2026-07-16)
 - [0xeduu](https://x.com/0xeduu/status/2082157204199608411) (2026-07-29)
+- [0xor0ne](https://x.com/0xor0ne/status/2108943257078050849) (2026-10-11)
 - [0xrux](https://x.com/0xrux/status/2089047128857284967) (2026-08-18)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2063244577482440978) (2026-06-11)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2083305262035632347) (2026-08-02)
@@ -112,6 +113,7 @@ total_mentions: 935
 - [DanKornas](https://x.com/DanKornas/status/2101763058657853813) (2026-09-21)
 - [DanKornas](https://x.com/DanKornas/status/2105047204297613517) (2026-10-01)
 - [DanKornas](https://x.com/DanKornas/status/2107595254211706915) (2026-10-07)
+- [DanKornas](https://x.com/DanKornas/status/2108931545918472201) (2026-10-11)
 - [DanKulkov](https://x.com/DanKulkov/status/2081035103036416368) (2026-07-26)
 - [DataChaz](https://x.com/DataChaz/status/2047633186394697853) (2026-06-09)
 - [DataChaz](https://x.com/DataChaz/status/2062940997257212367) (2026-06-06)
@@ -150,6 +152,7 @@ total_mentions: 935
 - [ForwardEditor](https://x.com/ForwardEditor/status/2097877069334036941) (2026-09-13)
 - [ForwardEditor](https://x.com/ForwardEditor/status/2098707042072436786) (2026-09-13)
 - [FundamentEdge](https://x.com/FundamentEdge/status/2086632605466915006) (2026-08-10)
+- [GauriTripa94282](https://x.com/GauriTripa94282/status/2107296444881535117) (2026-10-11)
 - [GcodeXS](https://x.com/GcodeXS/status/2079666529579446545) (2026-07-28)
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2091248280365682688) (2026-08-24)
 - [GitTrend0x](https://x.com/GitTrend0x/status/2085190556674904253) (2026-08-07)
@@ -160,6 +163,7 @@ total_mentions: 935
 - [HeyAbhishek](https://x.com/HeyAbhishek/status/2093718063946637316) (2026-08-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
+- [HeyShobhan](https://x.com/HeyShobhan/status/2107810215680987529) (2026-10-11)
 - [HoodAI0x](https://x.com/HoodAI0x/status/2079228983309176849) (2026-07-21)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2076689880026096089) (2026-07-14)
 - [Hunter_Weiss](https://x.com/Hunter_Weiss/status/2097475932797751801) (2026-09-10)
@@ -186,6 +190,7 @@ total_mentions: 935
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2071929838265630850) (2026-07-04)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2103900910292472051) (2026-10-03)
+- [Lummox_eth](https://x.com/Lummox_eth/status/2108499624038113606) (2026-10-11)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2078455834325995532) (2026-07-20)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2079912100575563781) (2026-07-23)
@@ -339,6 +344,7 @@ total_mentions: 935
 - [Voxyz_ai](https://x.com/Voxyz_ai/status/2082582856182989263) (2026-07-30)
 - [Voxyz_ai](https://x.com/Voxyz_ai/status/2089324197981950408) (2026-08-19)
 - [Voxyz_ai](https://x.com/Voxyz_ai/status/2092952771150680387) (2026-08-29)
+- [Voxyz_ai](https://x.com/Voxyz_ai/status/2108573215224160393) (2026-10-11)
 - [WalrusProtocol](https://x.com/WalrusProtocol/status/2107728770849489134) (2026-10-07)
 - [WenboGuo4](https://x.com/WenboGuo4/status/2074189902657544627) (2026-07-08)
 - [WhaleInsider](https://x.com/WhaleInsider/status/2083505184714473983) (2026-08-05)
@@ -389,6 +395,7 @@ total_mentions: 935
 - [ai_xiaomu](https://x.com/ai_xiaomu/status/2089730538135556515) (2026-08-20)
 - [aiedge_](https://x.com/aiedge_/status/2065222563899572371) (2026-06-12)
 - [aigclink](https://x.com/aigclink/status/2097507548127711329) (2026-09-09)
+- [aisearchio](https://x.com/aisearchio/status/2106873484760805759) (2026-10-11)
 - [aiwithjainam](https://x.com/aiwithjainam/status/2069338947701080150) (2026-06-28)
 - [aiwithsally](https://x.com/aiwithsally/status/2102612977891651876) (2026-09-23)
 - [ajitcodes](https://x.com/ajitcodes/status/2081216341747671353) (2026-07-27)
@@ -447,6 +454,7 @@ total_mentions: 935
 - [beamnxw](https://x.com/beamnxw/status/2090553472865419568) (2026-08-21)
 - [beamnxw](https://x.com/beamnxw/status/2099797510080360913) (2026-09-17)
 - [beamnxw](https://x.com/beamnxw/status/2102377851450220968) (2026-09-24)
+- [beamnxw](https://x.com/beamnxw/status/2107494674894070242) (2026-10-11)
 - [benjitaylor](https://x.com/benjitaylor/status/2090903345733210260) (2026-08-22)
 - [betomoedano](https://x.com/betomoedano/status/2071257935485788178) (2026-06-29)
 - [betomoedano](https://x.com/betomoedano/status/2075206572628705477) (2026-07-13)
@@ -752,6 +760,7 @@ total_mentions: 935
 - [openchamber_dev](https://x.com/openchamber_dev/status/2102870804522209554) (2026-09-24)
 - [openshipio](https://x.com/openshipio/status/2078143909125923137) (2026-07-19)
 - [opensourcelab9](https://x.com/opensourcelab9/status/2095338504494698887) (2026-09-05)
+- [opensourcelab9](https://x.com/opensourcelab9/status/2108807243240198157) (2026-10-11)
 - [orbiodotso](https://x.com/orbiodotso/status/2094805455352836138) (2026-09-03)
 - [ossphere_dev](https://x.com/ossphere_dev/status/2068219798438461644) (2026-06-20)
 - [ox_aryan1](https://x.com/ox_aryan1/status/2096104089600000320) (2026-09-05)
@@ -849,9 +858,11 @@ total_mentions: 935
 - [starmexxx](https://x.com/starmexxx/status/2089399623106355708) (2026-08-18)
 - [stitchbygoogle](https://x.com/stitchbygoogle/status/2105695155164741984) (2026-10-02)
 - [stretchcloud](https://x.com/stretchcloud/status/2072215124958740898) (2026-07-01)
+- [studio_yebisu](https://x.com/studio_yebisu/status/2106594707480404007) (2026-10-11)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095491337651179621) (2026-09-04)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095859430776533318) (2026-09-06)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2106965103291797654) (2026-10-11)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2107327491702509755) (2026-10-09)
 - [svpino](https://x.com/svpino/status/2065079108959363290) (2026-06-12)
 - [swarms_corp](https://x.com/swarms_corp/status/2106141570047054003) (2026-10-03)

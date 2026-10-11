@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-10
-total_mentions: 262
+last_seen: 2026-10-11
+total_mentions: 268
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -53,6 +53,7 @@ total_mentions: 262
 - [DanKornas](https://x.com/DanKornas/status/2088477020602696132) (2026-08-18)
 - [DanKornas](https://x.com/DanKornas/status/2103427788145381798) (2026-10-01)
 - [DanKornas](https://x.com/DanKornas/status/2107368759723766234) (2026-10-07)
+- [DanKornas](https://x.com/DanKornas/status/2108705076235685959) (2026-10-11)
 - [DataChaz](https://x.com/DataChaz/status/2075204287223697636) (2026-07-11)
 - [DealsDhamaka](https://x.com/DealsDhamaka/status/2074664290293080496) (2026-07-08)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
@@ -78,6 +79,7 @@ total_mentions: 262
 - [Jeyxbt](https://x.com/Jeyxbt/status/2067866973497868794) (2026-06-19)
 - [Krishnasagrawal](https://x.com/Krishnasagrawal/status/2076370564831486040) (2026-07-14)
 - [LomashKumar52](https://x.com/LomashKumar52/status/2103013165009363358) (2026-09-24)
+- [Lummox_eth](https://x.com/Lummox_eth/status/2108499624038113606) (2026-10-11)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2093310429103558754) (2026-08-29)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
 - [MaxForAI](https://x.com/MaxForAI/status/2089184371886690760) (2026-08-17)
@@ -114,6 +116,7 @@ total_mentions: 262
 - [TermiusHQ](https://x.com/TermiusHQ/status/2082616764605874207) (2026-07-30)
 - [Ubermenscchh](https://x.com/Ubermenscchh/status/2082120061951856912) (2026-07-29)
 - [Voxyz_ai](https://x.com/Voxyz_ai/status/2097070213250372025) (2026-09-08)
+- [Voxyz_ai](https://x.com/Voxyz_ai/status/2108573215224160393) (2026-10-11)
 - [WesRoth](https://x.com/WesRoth/status/2043871865513619560) (2026-07-24)
 - [WesRoth](https://x.com/WesRoth/status/2062398945607725142) (2026-06-10)
 - [WesRoth](https://x.com/WesRoth/status/2088188889378836786) (2026-08-16)
@@ -187,6 +190,7 @@ total_mentions: 262
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2061821319034143172) (2026-06-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2062244858686009455) (2026-06-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2105406253740740846) (2026-10-02)
+- [eng_khairallah1](https://x.com/eng_khairallah1/status/2107580383357542646) (2026-10-11)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2087449332119134430) (2026-08-19)
 - [gavinpurcell](https://x.com/gavinpurcell/status/2103304514329854102) (2026-09-27)
 - [gippp69](https://x.com/gippp69/status/2088943002467115352) (2026-08-17)
@@ -225,6 +229,7 @@ total_mentions: 262
 - [milesdeutscher](https://x.com/milesdeutscher/status/2080763866200645792) (2026-07-25)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2089509583312339450) (2026-08-18)
 - [mirku21](https://x.com/mirku21/status/2105764769479455043) (2026-10-03)
+- [mirku21](https://x.com/mirku21/status/2108301507955396970) (2026-10-11)
 - [mitchellh](https://x.com/mitchellh/status/2107577887159386152) (2026-10-10)
 - [mojeskoqq](https://x.com/mojeskoqq/status/2085273824413503536) (2026-08-09)
 - [noisyb0y1](https://x.com/noisyb0y1/status/2087218720594706679) (2026-08-13)
@@ -263,6 +268,7 @@ total_mentions: 262
 - [undefinedKi](https://x.com/undefinedKi/status/2070864207608684800) (2026-06-28)
 - [undefinedKi](https://x.com/undefinedKi/status/2071931934012211642) (2026-07-02)
 - [undefinedKi](https://x.com/undefinedKi/status/2097302662026870996) (2026-09-09)
+- [undefinedKi](https://x.com/undefinedKi/status/2108952770237604160) (2026-10-11)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2087461469881336049) (2026-08-13)
 - [vercel_dev](https://x.com/vercel_dev/status/2065509970775519569) (2026-06-13)
 - [virgilxbt](https://x.com/virgilxbt/status/2092605992953332128) (2026-08-27)

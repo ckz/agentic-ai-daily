@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-10
-total_mentions: 181
+last_seen: 2026-10-11
+total_mentions: 183
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -45,6 +45,7 @@ total_mentions: 181
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2097351499575697477) (2026-09-10)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2106062601289408549) (2026-10-05)
+- [Lummox_eth](https://x.com/Lummox_eth/status/2108499624038113606) (2026-10-11)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2081303563746398665) (2026-07-28)
 - [MiaAI_lab](https://x.com/MiaAI_lab/status/2104505550281039892) (2026-09-29)
 - [N01ennn](https://x.com/N01ennn/status/2088606747531358505) (2026-08-21)
@@ -159,6 +160,7 @@ total_mentions: 181
 - [rowancheung](https://x.com/rowancheung/status/1767582332964516243) (2026-08-26)
 - [runwayml](https://x.com/runwayml/status/2095159754414813249) (2026-09-07)
 - [sairahul1](https://x.com/sairahul1/status/2077326742218539296) (2026-07-18)
+- [sanketsahu](https://x.com/sanketsahu/status/2109170482134323468) (2026-10-11)
 - [sauda_coder](https://x.com/sauda_coder/status/2099333079567671797) (2026-09-16)
 - [sauda_coder](https://x.com/sauda_coder/status/2100421722629722256) (2026-09-18)
 - [seelffff](https://x.com/seelffff/status/2071118707405816250) (2026-06-29)

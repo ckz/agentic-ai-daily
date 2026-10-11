@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-10
-total_mentions: 551
+last_seen: 2026-10-11
+total_mentions: 553
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -239,6 +239,7 @@ total_mentions: 551
 - [Suryanshti777](https://x.com/Suryanshti777/status/2084693098714599697) (2026-08-05)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2085286044975476808) (2026-08-11)
 - [TeachTheMachine](https://x.com/TeachTheMachine/status/2107883727473062003) (2026-10-08)
+- [Teamily_AI](https://x.com/Teamily_AI/status/2108193886137106487) (2026-10-11)
 - [TeddyinMedia](https://x.com/TeddyinMedia/status/2101311604797145483) (2026-09-20)
 - [TeksCreate](https://x.com/TeksCreate/status/2068138970131632591) (2026-06-20)
 - [TencentAI_News](https://x.com/TencentAI_News/status/2098049042773397683) (2026-09-11)
@@ -285,6 +286,7 @@ total_mentions: 551
 - [afahmy_dev](https://x.com/afahmy_dev/status/2085986863119040984) (2026-08-08)
 - [agenticbrew](https://x.com/agenticbrew/status/2072848219084910646) (2026-07-03)
 - [agentnative_](https://x.com/agentnative_/status/2104992892393497037) (2026-10-04)
+- [ai_300](https://x.com/ai_300/status/2108376911600578668) (2026-10-11)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
 - [ai_with_jyoti](https://x.com/ai_with_jyoti/status/2099175125639942611) (2026-09-18)
 - [aicryptoboss](https://x.com/aicryptoboss/status/2082348441506603086) (2026-07-29)
