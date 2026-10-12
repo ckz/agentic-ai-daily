@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-10-11
-total_mentions: 946
+last_seen: 2026-10-12
+total_mentions: 954
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -52,6 +52,7 @@ total_mentions: 946
 - [Alacritic_Super](https://x.com/Alacritic_Super/status/2096269926302613765) (2026-09-06)
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2081962166127878526) (2026-07-28)
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2084100378703122840) (2026-08-03)
+- [AlexRiad84837](https://x.com/AlexRiad84837/status/2108513580979237175) (2026-10-12)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2075624719043166464) (2026-07-11)
 - [AliRashediG](https://x.com/AliRashediG/status/2104654598505943365) (2026-09-29)
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2057450220708147250) (2026-09-23)
@@ -146,6 +147,7 @@ total_mentions: 946
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
 - [FReza1984](https://x.com/FReza1984/status/2096123028774252831) (2026-09-05)
 - [FareaNFts](https://x.com/FareaNFts/status/2092673671676727314) (2026-08-27)
+- [FaztTech](https://x.com/FaztTech/status/2108964621239439539) (2026-10-12)
 - [FellMentKE](https://x.com/FellMentKE/status/2064573513642758328) (2026-06-10)
 - [FelpsCrypto](https://x.com/FelpsCrypto/status/2093580590641480134) (2026-08-31)
 - [ForkedPush](https://x.com/ForkedPush/status/2106313584829431901) (2026-10-04)
@@ -223,6 +225,7 @@ total_mentions: 946
 - [MiniMax_AI](https://x.com/MiniMax_AI/status/2061266317815296322) (2026-06-05)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106251206524014747) (2026-10-10)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106601226276118967) (2026-10-05)
+- [Mohiniuni](https://x.com/Mohiniuni/status/2109514844252807435) (2026-10-12)
 - [MoureDev](https://x.com/MoureDev/status/2092961532766212193) (2026-09-03)
 - [MrDasOnX](https://x.com/MrDasOnX/status/2066029379512418431) (2026-06-14)
 - [MrOnsase](https://x.com/MrOnsase/status/2081599328058253340) (2026-07-27)
@@ -324,6 +327,7 @@ total_mentions: 946
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2074344040125091936) (2026-07-07)
 - [TechCrunch](https://x.com/TechCrunch/status/2099955188467405227) (2026-09-16)
 - [TechCrunch](https://x.com/TechCrunch/status/2100269763549176222) (2026-09-20)
+- [TechWithTimm](https://x.com/TechWithTimm/status/2107108551172993387) (2026-10-12)
 - [Tech_by_Shweta](https://x.com/Tech_by_Shweta/status/2096800764526243897) (2026-09-07)
 - [Teknium](https://x.com/Teknium/status/2081450522608107816) (2026-07-28)
 - [TeksCreate](https://x.com/TeksCreate/status/2081499683571040408) (2026-07-27)
@@ -340,6 +344,7 @@ total_mentions: 946
 - [VaibhavSisinty](https://x.com/VaibhavSisinty/status/2093059324872663458) (2026-08-30)
 - [VedantVida](https://x.com/VedantVida/status/2107743819194310885) (2026-10-08)
 - [Veltrxai](https://x.com/Veltrxai/status/2064777828512469024) (2026-06-12)
+- [Vikram_AI_](https://x.com/Vikram_AI_/status/2109478698453749974) (2026-10-12)
 - [VivekIntel](https://x.com/VivekIntel/status/2073996440326873221) (2026-07-13)
 - [Voxyz_ai](https://x.com/Voxyz_ai/status/2082582856182989263) (2026-07-30)
 - [Voxyz_ai](https://x.com/Voxyz_ai/status/2089324197981950408) (2026-08-19)
@@ -633,6 +638,7 @@ total_mentions: 946
 - [himanshubuildss](https://x.com/himanshubuildss/status/2101255618313302146) (2026-09-20)
 - [himanshubuildss](https://x.com/himanshubuildss/status/2103374896147378635) (2026-09-29)
 - [himanshubuildss](https://x.com/himanshubuildss/status/2106411655055974640) (2026-10-04)
+- [himanshubuildss](https://x.com/himanshubuildss/status/2109130327277142377) (2026-10-12)
 - [hiro44_pino](https://x.com/hiro44_pino/status/2090589913754517610) (2026-08-21)
 - [howardting](https://x.com/howardting/status/2100607288000324065) (2026-09-18)
 - [huacnlee](https://x.com/huacnlee/status/2105550545939484751) (2026-10-01)
@@ -735,7 +741,9 @@ total_mentions: 946
 - [milesdeutscher](https://x.com/milesdeutscher/status/2100328627816857771) (2026-09-18)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2100619626149511293) (2026-09-18)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2107365244238545088) (2026-10-09)
+- [milesdeutscher](https://x.com/milesdeutscher/status/2109222484553945557) (2026-10-12)
 - [minchoi](https://x.com/minchoi/status/2098793589811691560) (2026-09-13)
+- [morpheusdv](https://x.com/morpheusdv/status/2108921930791419918) (2026-10-12)
 - [motion_so](https://x.com/motion_so/status/2099542179697902025) (2026-09-16)
 - [motion_so](https://x.com/motion_so/status/2100280160234721660) (2026-09-19)
 - [mxstbr](https://x.com/mxstbr/status/2100966048132718786) (2026-09-19)

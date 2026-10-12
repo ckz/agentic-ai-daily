@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-11
-total_mentions: 1425
+last_seen: 2026-10-12
+total_mentions: 1435
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -422,6 +422,7 @@ total_mentions: 1425
 - [Lummox_eth](https://x.com/Lummox_eth/status/2097351499575697477) (2026-09-10)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2105607355262009622) (2026-10-02)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2106062601289408549) (2026-10-05)
+- [LunaTechAI](https://x.com/LunaTechAI/status/2109084989786673285) (2026-10-12)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2079548712888435060) (2026-07-22)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2080629030319980563) (2026-07-26)
@@ -469,6 +470,7 @@ total_mentions: 1425
 - [Mnilax](https://x.com/Mnilax/status/2087651578639470614) (2026-08-14)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106251206524014747) (2026-10-10)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106601226276118967) (2026-10-05)
+- [Mohiniuni](https://x.com/Mohiniuni/status/2109514844252807435) (2026-10-12)
 - [MoonDevOnYT](https://x.com/MoonDevOnYT/status/2072462757379612916) (2026-07-07)
 - [Motionfly_co](https://x.com/Motionfly_co/status/2089054633121419468) (2026-08-17)
 - [MrOnsase](https://x.com/MrOnsase/status/2075841247223165124) (2026-07-11)
@@ -532,6 +534,7 @@ total_mentions: 1425
 - [PrismML](https://x.com/PrismML/status/2100692248480596348) (2026-09-19)
 - [Priyannkaaaa](https://x.com/Priyannkaaaa/status/2083851157324046649) (2026-08-03)
 - [ProjectVEXai](https://x.com/ProjectVEXai/status/2085390880966594838) (2026-08-10)
+- [Promixyz](https://x.com/Promixyz/status/2107053360700375520) (2026-10-12)
 - [PyTorch](https://x.com/PyTorch/status/2086817394010280372) (2026-08-11)
 - [PythonDvz](https://x.com/PythonDvz/status/2063623261678698575) (2026-06-10)
 - [PythonDvz](https://x.com/PythonDvz/status/2086415444894749008) (2026-08-11)
@@ -632,6 +635,7 @@ total_mentions: 1425
 - [TeachTheMachine](https://x.com/TeachTheMachine/status/2107883727473062003) (2026-10-08)
 - [TechByArti](https://x.com/TechByArti/status/2102669545131712912) (2026-09-24)
 - [TechCrunch](https://x.com/TechCrunch/status/2062622464362881423) (2026-06-08)
+- [TechWithTimm](https://x.com/TechWithTimm/status/2107108551172993387) (2026-10-12)
 - [Tech_by_Shweta](https://x.com/Tech_by_Shweta/status/2096800764526243897) (2026-09-07)
 - [TeddyinMedia](https://x.com/TeddyinMedia/status/2101311604797145483) (2026-09-20)
 - [TeksCreate](https://x.com/TeksCreate/status/2081499683571040408) (2026-07-27)
@@ -671,6 +675,7 @@ total_mentions: 1425
 - [Vanquan_titans](https://x.com/Vanquan_titans/status/2107697678654017725) (2026-10-08)
 - [VenAiSol](https://x.com/VenAiSol/status/2067847260876996912) (2026-06-19)
 - [VibeMarketer_](https://x.com/VibeMarketer_/status/2089740376718610518) (2026-08-19)
+- [Vikram_AI_](https://x.com/Vikram_AI_/status/2109478698453749974) (2026-10-12)
 - [VivekIntel](https://x.com/VivekIntel/status/2073810331827343525) (2026-07-09)
 - [VivekIntel](https://x.com/VivekIntel/status/2073996440326873221) (2026-07-13)
 - [Vtrivedy10](https://x.com/Vtrivedy10/status/2098150319305715997) (2026-09-17)
@@ -963,6 +968,7 @@ total_mentions: 1425
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
 - [edinsoncode](https://x.com/edinsoncode/status/2089677825125368297) (2026-08-19)
 - [efecim1sn](https://x.com/efecim1sn/status/2070586181566538161) (2026-06-27)
+- [efipm](https://x.com/efipm/status/2031736307781611664) (2026-10-12)
 - [ehsanik](https://x.com/ehsanik/status/2070544602164330561) (2026-06-27)
 - [eigenlabs](https://x.com/eigenlabs/status/2062540745601384785) (2026-06-08)
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
@@ -1004,6 +1010,7 @@ total_mentions: 1425
 - [furqaan_design](https://x.com/furqaan_design/status/2093181537877651596) (2026-08-28)
 - [getmpplayer](https://x.com/getmpplayer/status/2063511395875062224) (2026-06-07)
 - [ghumare64](https://x.com/ghumare64/status/2107329844912754918) (2026-10-10)
+- [ginacostag_](https://x.com/ginacostag_/status/2107123580672541113) (2026-10-12)
 - [gippp69](https://x.com/gippp69/status/2088689999076352156) (2026-08-16)
 - [gippp69](https://x.com/gippp69/status/2088943002467115352) (2026-08-17)
 - [github](https://x.com/github/status/2064402372961484864) (2026-06-11)
@@ -1041,6 +1048,7 @@ total_mentions: 1425
 - [heyrimsha](https://x.com/heyrimsha/status/2079230095345209479) (2026-07-22)
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2072161434558201960) (2026-07-05)
 - [hijkzzz](https://x.com/hijkzzz/status/2076843539426836874) (2026-07-14)
+- [hoshinoxbt](https://x.com/hoshinoxbt/status/2109343300985479239) (2026-10-12)
 - [hossainriad64](https://x.com/hossainriad64/status/2093931756634448088) (2026-08-30)
 - [hot_town](https://x.com/hot_town/status/2084999228439376119) (2026-08-06)
 - [howietl](https://x.com/howietl/status/2057823823526014990) (2026-06-19)
@@ -1309,6 +1317,7 @@ total_mentions: 1425
 - [shedoesai](https://x.com/shedoesai/status/2054227691671556145) (2026-06-12)
 - [sheemamoto](https://x.com/sheemamoto/status/2099571838514864241) (2026-09-15)
 - [sheemamoto](https://x.com/sheemamoto/status/2099962199573754301) (2026-09-19)
+- [sheemamoto](https://x.com/sheemamoto/status/2107220153117393404) (2026-10-12)
 - [sherlockdefi](https://x.com/sherlockdefi/status/2079222748572697080) (2026-07-26)
 - [shikamarutsai](https://x.com/shikamarutsai/status/2088636457938280724) (2026-08-19)
 - [shiqway92](https://x.com/shiqway92/status/2081403424986239014) (2026-07-28)
@@ -1323,6 +1332,7 @@ total_mentions: 1425
 - [singularityhack](https://x.com/singularityhack/status/2079237150764134528) (2026-07-22)
 - [sirbayes](https://x.com/sirbayes/status/2065804371011457087) (2026-06-14)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
+- [skirano](https://x.com/skirano/status/1797738751113998345) (2026-10-12)
 - [slash1sol](https://x.com/slash1sol/status/2101244375925723559) (2026-09-20)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2072154763492544652) (2026-07-01)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2077223722654834863) (2026-07-16)

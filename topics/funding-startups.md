@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-11
-total_mentions: 679
+last_seen: 2026-10-12
+total_mentions: 687
 
 ## Related Tweets
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
@@ -54,6 +54,7 @@ total_mentions: 679
 - [BillAckman](https://x.com/BillAckman/status/2090190151083532583) (2026-08-20)
 - [Bitget_TradFi](https://x.com/Bitget_TradFi/status/2084806593971962091) (2026-08-07)
 - [BradfordHuber4](https://x.com/BradfordHuber4/status/2095221538979188899) (2026-09-05)
+- [BrandonLuuMD](https://x.com/BrandonLuuMD/status/2109061162386006079) (2026-10-12)
 - [Brennan_Lup](https://x.com/Brennan_Lup/status/2064930712739090835) (2026-06-11)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2062148017818419548) (2026-06-09)
@@ -139,6 +140,7 @@ total_mentions: 679
 - [KentonVarda](https://x.com/KentonVarda/status/2084990137180590572) (2026-08-12)
 - [KetchumNfts](https://x.com/KetchumNfts/status/2083457676202086669) (2026-08-02)
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
+- [LLMJunky](https://x.com/LLMJunky/status/2108571938994217047) (2026-10-12)
 - [LayoffAI](https://x.com/LayoffAI/status/2081727806652715211) (2026-07-30)
 - [Lisa__Rodin](https://x.com/Lisa__Rodin/status/2107029235110138084) (2026-10-06)
 - [Logically_JC](https://x.com/Logically_JC/status/2103837834767421657) (2026-10-02)
@@ -274,6 +276,7 @@ total_mentions: 679
 - [a16z](https://x.com/a16z/status/2102533548779671854) (2026-09-29)
 - [a16z](https://x.com/a16z/status/2106064267770573281) (2026-10-06)
 - [aakashgupta](https://x.com/aakashgupta/status/2036653323978420322) (2026-07-05)
+- [aakashgupta](https://x.com/aakashgupta/status/2108771001316360615) (2026-10-12)
 - [aakrit](https://x.com/aakrit/status/2065778171912265899) (2026-06-14)
 - [aashna_doshi2](https://x.com/aashna_doshi2/status/2095182188870521192) (2026-09-06)
 - [abazwhyllzz](https://x.com/abazwhyllzz/status/2084175411714347129) (2026-08-03)
@@ -295,6 +298,7 @@ total_mentions: 679
 - [amitisinvesting](https://x.com/amitisinvesting/status/2083018001557721309) (2026-08-04)
 - [amuse](https://x.com/amuse/status/2070118337607012363) (2026-07-02)
 - [anah_sahh](https://x.com/anah_sahh/status/2103839341453688877) (2026-09-28)
+- [andrewztan](https://x.com/andrewztan/status/2108316891202867474) (2026-10-12)
 - [andyburnham](https://x.com/andyburnham/status/2090528243430350885) (2026-08-27)
 - [angeldot_](https://x.com/angeldot_/status/2086839211856929184) (2026-08-15)
 - [ankurnagpal](https://x.com/ankurnagpal/status/2073858342196244665) (2026-07-06)
@@ -386,6 +390,7 @@ total_mentions: 679
 - [deedydas](https://x.com/deedydas/status/2100287208209146309) (2026-09-19)
 - [deedydas](https://x.com/deedydas/status/2102787937482252537) (2026-09-24)
 - [deedydas](https://x.com/deedydas/status/2103903382822089010) (2026-09-27)
+- [defyneric](https://x.com/defyneric/status/2109401860494791063) (2026-10-12)
 - [dhanyindraswara](https://x.com/dhanyindraswara/status/2108209744439812534) (2026-10-09)
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
 - [dharmesh](https://x.com/dharmesh/status/2093071931188597042) (2026-08-28)
@@ -481,6 +486,7 @@ total_mentions: 679
 - [kaaaash____](https://x.com/kaaaash____/status/2090076085354676694) (2026-08-20)
 - [kamath_sutra](https://x.com/kamath_sutra/status/2083224374728093907) (2026-08-01)
 - [kapilansh_twt](https://x.com/kapilansh_twt/status/2086328186393247796) (2026-08-09)
+- [kathrynwu1](https://x.com/kathrynwu1/status/2108633616741785725) (2026-10-12)
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
 - [kirillk_web3](https://x.com/kirillk_web3/status/2098902710120743088) (2026-09-14)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)
@@ -611,6 +617,7 @@ total_mentions: 679
 - [solovaultinfo](https://x.com/solovaultinfo/status/2068553835598241965) (2026-06-21)
 - [soundboy](https://x.com/soundboy/status/2097607789929443537) (2026-09-10)
 - [spaceandtech_](https://x.com/spaceandtech_/status/2087905670595223735) (2026-08-16)
+- [spacedevin](https://x.com/spacedevin/status/2109526752808902799) (2026-10-12)
 - [sridharfyi](https://x.com/sridharfyi/status/2100562893758718127) (2026-09-20)
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
 - [starter_story](https://x.com/starter_story/status/2106053639123140814) (2026-10-03)
@@ -648,6 +655,7 @@ total_mentions: 679
 - [trajektoriePL](https://x.com/trajektoriePL/status/2088167040175526258) (2026-08-15)
 - [trikcode](https://x.com/trikcode/status/2078755471205253481) (2026-07-20)
 - [tryagency](https://x.com/tryagency/status/2106555654194290835) (2026-10-04)
+- [ttunguz](https://x.com/ttunguz/status/2107112425111887879) (2026-10-12)
 - [twistartups](https://x.com/twistartups/status/2071744145119465724) (2026-07-02)
 - [tylerrwayne](https://x.com/tylerrwayne/status/2081620596862202335) (2026-07-27)
 - [undefinedKi](https://x.com/undefinedKi/status/2063615286301839698) (2026-06-08)

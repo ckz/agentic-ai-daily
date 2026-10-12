@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-11
-total_mentions: 183
+last_seen: 2026-10-12
+total_mentions: 188
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -48,6 +48,7 @@ total_mentions: 183
 - [Lummox_eth](https://x.com/Lummox_eth/status/2108499624038113606) (2026-10-11)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2081303563746398665) (2026-07-28)
 - [MiaAI_lab](https://x.com/MiaAI_lab/status/2104505550281039892) (2026-09-29)
+- [Mnilax](https://x.com/Mnilax/status/2109314840057565345) (2026-10-12)
 - [N01ennn](https://x.com/N01ennn/status/2088606747531358505) (2026-08-21)
 - [N01ennn](https://x.com/N01ennn/status/2089455117716406706) (2026-08-18)
 - [NVIDIAAI](https://x.com/NVIDIAAI/status/2069858097930121319) (2026-06-30)
@@ -58,6 +59,7 @@ total_mentions: 183
 - [PetrBrzek](https://x.com/PetrBrzek/status/2100231804032610657) (2026-09-20)
 - [Pirat_Nation](https://x.com/Pirat_Nation/status/2096267361066356859) (2026-09-10)
 - [Priyannkaaaa](https://x.com/Priyannkaaaa/status/2083851157324046649) (2026-08-03)
+- [Promixyz](https://x.com/Promixyz/status/2107053360700375520) (2026-10-12)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2102318232296415677) (2026-09-29)
 - [SIGKITTEN](https://x.com/SIGKITTEN/status/1980809995823591805) (2026-06-12)
 - [SarvamAI](https://x.com/SarvamAI/status/2074116231461011764) (2026-07-07)
@@ -116,6 +118,7 @@ total_mentions: 183
 - [emmanuel_2m](https://x.com/emmanuel_2m/status/2103097017073361137) (2026-09-25)
 - [ericzakariasson](https://x.com/ericzakariasson/status/2102853511637774551) (2026-09-26)
 - [finkd](https://x.com/finkd/status/2085080750034940201) (2026-08-06)
+- [ginacostag_](https://x.com/ginacostag_/status/2107123580672541113) (2026-10-12)
 - [gippp69](https://x.com/gippp69/status/2088943002467115352) (2026-08-17)
 - [gokulr](https://x.com/gokulr/status/2062638283100930085) (2026-06-08)
 - [gokulr](https://x.com/gokulr/status/2071692278582890889) (2026-08-02)
@@ -124,12 +127,14 @@ total_mentions: 183
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [himanshubuildss](https://x.com/himanshubuildss/status/2101255618313302146) (2026-09-20)
 - [himanshubuildss](https://x.com/himanshubuildss/status/2106411655055974640) (2026-10-04)
+- [himanshubuildss](https://x.com/himanshubuildss/status/2109130327277142377) (2026-10-12)
 - [hxiao](https://x.com/hxiao/status/2094519020531994639) (2026-09-02)
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
 - [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)
 - [jahooma](https://x.com/jahooma/status/2069951731539349823) (2026-07-03)
 - [jahooma](https://x.com/jahooma/status/2093137551918051624) (2026-08-29)
 - [jahooma](https://x.com/jahooma/status/2099968356581543959) (2026-09-22)
+- [jayair](https://x.com/jayair/status/2109299280779350430) (2026-10-12)
 - [jkelleyrtp](https://x.com/jkelleyrtp/status/2101364551296143772) (2026-09-20)
 - [kimmonismus](https://x.com/kimmonismus/status/2090814903133098211) (2026-09-19)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)

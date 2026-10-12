@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-10-10
-total_mentions: 154
+last_seen: 2026-10-12
+total_mentions: 155
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -111,6 +111,7 @@ total_mentions: 154
 - [jackyk02](https://x.com/jackyk02/status/2102905335925424285) (2026-09-24)
 - [jakevin7](https://x.com/jakevin7/status/2096850696964325472) (2026-09-07)
 - [jasonzhou1993](https://x.com/jasonzhou1993/status/2098251709214761387) (2026-09-11)
+- [jayair](https://x.com/jayair/status/2109299280779350430) (2026-10-12)
 - [jkelleyrtp](https://x.com/jkelleyrtp/status/2101364551296143772) (2026-09-20)
 - [jxnlco](https://x.com/jxnlco/status/2070577704752267321) (2026-06-27)
 - [kylejeong](https://x.com/kylejeong/status/2098478826464702556) (2026-09-14)

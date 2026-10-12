@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-11
-total_mentions: 553
+last_seen: 2026-10-12
+total_mentions: 558
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -86,6 +86,7 @@ total_mentions: 553
 - [DanKornas](https://x.com/DanKornas/status/2104095939187097741) (2026-10-02)
 - [DanKornas](https://x.com/DanKornas/status/2106428815828222129) (2026-10-09)
 - [DanKornas](https://x.com/DanKornas/status/2108761693618606302) (2026-10-10)
+- [DanKornas](https://x.com/DanKornas/status/2109543179506627045) (2026-10-12)
 - [DataChaz](https://x.com/DataChaz/status/2068952350077698446) (2026-06-28)
 - [DataChaz](https://x.com/DataChaz/status/2070415564510785812) (2026-06-27)
 - [DataScienceDojo](https://x.com/DataScienceDojo/status/2071624804575093052) (2026-06-30)
@@ -186,10 +187,12 @@ total_mentions: 553
 - [Mnilax](https://x.com/Mnilax/status/2087651578639470614) (2026-08-14)
 - [Mohansinha](https://x.com/Mohansinha/status/2079629691494060368) (2026-07-24)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106601226276118967) (2026-10-05)
+- [Mohiniuni](https://x.com/Mohiniuni/status/2109514844252807435) (2026-10-12)
 - [MrOnsase](https://x.com/MrOnsase/status/2075841247223165124) (2026-07-11)
 - [MstRokeyaK76792](https://x.com/MstRokeyaK76792/status/2096130494102737375) (2026-09-05)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
 - [NainsiDwiv50980](https://x.com/NainsiDwiv50980/status/2062154970229858372) (2026-06-06)
+- [NixFred](https://x.com/NixFred/status/2109398381277708500) (2026-10-12)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/1975269391244874103) (2026-06-08)
 - [OpenAI](https://x.com/OpenAI/status/2094885578173260259) (2026-09-02)
 - [OptimaiNetwork](https://x.com/OptimaiNetwork/status/2014178144429723810) (2026-06-10)
@@ -240,6 +243,7 @@ total_mentions: 553
 - [Suryanshti777](https://x.com/Suryanshti777/status/2085286044975476808) (2026-08-11)
 - [TeachTheMachine](https://x.com/TeachTheMachine/status/2107883727473062003) (2026-10-08)
 - [Teamily_AI](https://x.com/Teamily_AI/status/2108193886137106487) (2026-10-11)
+- [TechWithTimm](https://x.com/TechWithTimm/status/2107108551172993387) (2026-10-12)
 - [TeddyinMedia](https://x.com/TeddyinMedia/status/2101311604797145483) (2026-09-20)
 - [TeksCreate](https://x.com/TeksCreate/status/2068138970131632591) (2026-06-20)
 - [TencentAI_News](https://x.com/TencentAI_News/status/2098049042773397683) (2026-09-11)
@@ -506,6 +510,7 @@ total_mentions: 553
 - [shushant_l](https://x.com/shushant_l/status/2078707411670704572) (2026-07-19)
 - [simonbs](https://x.com/simonbs/status/2098246318124650855) (2026-09-11)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
+- [skirano](https://x.com/skirano/status/1797738751113998345) (2026-10-12)
 - [snwiki238337](https://x.com/snwiki238337/status/2099736240048226688) (2026-09-22)
 - [socialwithaayan](https://x.com/socialwithaayan/status/2072044103492309425) (2026-07-02)
 - [socialwithaayan](https://x.com/socialwithaayan/status/2094350331484516816) (2026-09-01)
