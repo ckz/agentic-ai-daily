@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-12
-total_mentions: 126
+last_seen: 2026-10-13
+total_mentions: 128
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -107,8 +107,10 @@ total_mentions: 126
 - [hot_town](https://x.com/hot_town/status/2084999228439376119) (2026-08-06)
 - [huxlab](https://x.com/huxlab/status/2089564429054554267) (2026-08-19)
 - [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2097752959526330501) (2026-09-10)
+- [karpathy](https://x.com/karpathy/status/2109361546505966046) (2026-10-13)
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
 - [marfinxx](https://x.com/marfinxx/status/2090409251940319349) (2026-08-21)
+- [masahirochaen](https://x.com/masahirochaen/status/2108420294570574068) (2026-10-13)
 - [mhp_guy](https://x.com/mhp_guy/status/2103594518453055700) (2026-09-28)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2072629472306528655) (2026-07-03)
 - [petergyang](https://x.com/petergyang/status/2101862331345154469) (2026-09-21)

@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-12
-total_mentions: 558
+last_seen: 2026-10-13
+total_mentions: 562
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -24,6 +24,7 @@ total_mentions: 558
 - [APompliano](https://x.com/APompliano/status/2079571863642984883) (2026-07-25)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2088179625642152198) (2026-08-17)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2095414392557068291) (2026-09-04)
+- [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2107745162344734922) (2026-10-13)
 - [AaronxShepherd](https://x.com/AaronxShepherd/status/2103922782400590334) (2026-09-27)
 - [AiCamila_](https://x.com/AiCamila_/status/2076911076885823887) (2026-07-15)
 - [AiNicolas75316](https://x.com/AiNicolas75316/status/2079199374819914080) (2026-07-22)
@@ -217,6 +218,7 @@ total_mentions: 558
 - [RobertTLange](https://x.com/RobertTLange/status/2081651553929494693) (2026-07-28)
 - [RodmanAi](https://x.com/RodmanAi/status/2091888953037299825) (2026-08-28)
 - [RohOnChain](https://x.com/RohOnChain/status/2096239869916065802) (2026-09-06)
+- [RohOnChain](https://x.com/RohOnChain/status/2109708114698408422) (2026-10-13)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2062274372388507726) (2026-06-05)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2093183037475536942) (2026-08-28)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2098060174460424208) (2026-09-11)
@@ -454,6 +456,7 @@ total_mentions: 558
 - [milesdeutscher](https://x.com/milesdeutscher/status/2080208806043406646) (2026-07-24)
 - [mojeskoqq](https://x.com/mojeskoqq/status/2085273824413503536) (2026-08-09)
 - [myshell_ai](https://x.com/myshell_ai/status/1874804449023266943) (2026-07-10)
+- [nestframework](https://x.com/nestframework/status/2109575242121449478) (2026-10-13)
 - [neuralnow](https://x.com/neuralnow/status/2067804236231160299) (2026-06-19)
 - [nikesharora](https://x.com/nikesharora/status/2097775700627578963) (2026-09-16)
 - [nomadcoderai](https://x.com/nomadcoderai/status/2075460970848416075) (2026-07-10)
@@ -464,6 +467,7 @@ total_mentions: 558
 - [omarsar0](https://x.com/omarsar0/status/2098809969252450451) (2026-09-15)
 - [ordo_chain](https://x.com/ordo_chain/status/2073312746381181174) (2026-07-04)
 - [oscarsuiza](https://x.com/oscarsuiza/status/2107727744029073859) (2026-10-07)
+- [owengretzinger](https://x.com/owengretzinger/status/2109846365065052351) (2026-10-13)
 - [paywithmana](https://x.com/paywithmana/status/2074758476220473387) (2026-07-08)
 - [petergyang](https://x.com/petergyang/status/2083917722765947284) (2026-08-04)
 - [petergyang](https://x.com/petergyang/status/2099139853170733280) (2026-09-14)

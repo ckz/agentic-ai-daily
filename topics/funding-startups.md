@@ -1,15 +1,17 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-12
-total_mentions: 687
+last_seen: 2026-10-13
+total_mentions: 696
 
 ## Related Tweets
+- [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
 - [0x_rody](https://x.com/0x_rody/status/2102403963865759871) (2026-09-24)
 - [0x_rody](https://x.com/0x_rody/status/2106413848982880695) (2026-10-04)
 - [0xmarginman](https://x.com/0xmarginman/status/2093147453058863316) (2026-08-30)
 - [0xvietnguyen](https://x.com/0xvietnguyen/status/2088504476865081410) (2026-08-21)
+- [16vchq](https://x.com/16vchq/status/2109872657021952438) (2026-10-13)
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
 - [5eniorDeveloper](https://x.com/5eniorDeveloper/status/2097029277434757251) (2026-09-08)
 - [5harath](https://x.com/5harath/status/2082161680516063294) (2026-07-29)
@@ -75,6 +77,7 @@ total_mentions: 687
 - [Cointelegraph](https://x.com/Cointelegraph/status/2063005594047467893) (2026-06-05)
 - [CyberRobooo](https://x.com/CyberRobooo/status/2092844038831690046) (2026-08-27)
 - [DNIGabbard](https://x.com/DNIGabbard/status/2065440568423944607) (2026-08-27)
+- [Dan1ro0](https://x.com/Dan1ro0/status/2109773710009790681) (2026-10-13)
 - [DanRShafer](https://x.com/DanRShafer/status/2105454511724839281) (2026-10-01)
 - [Dan_Jeffries1](https://x.com/Dan_Jeffries1/status/2102813387176501568) (2026-09-30)
 - [DavidayoAI](https://x.com/DavidayoAI/status/2091956043240599821) (2026-08-26)
@@ -191,6 +194,7 @@ total_mentions: 687
 - [Polymarket](https://x.com/Polymarket/status/2087762067063460143) (2026-08-13)
 - [Polymarket](https://x.com/Polymarket/status/2099993393963102216) (2026-09-16)
 - [Polymarket](https://x.com/Polymarket/status/2100013238352052365) (2026-09-19)
+- [Polymarket](https://x.com/Polymarket/status/2109010490223456716) (2026-10-13)
 - [Prasanjit_ui](https://x.com/Prasanjit_ui/status/2072617513079251312) (2026-07-07)
 - [PrimareApp](https://x.com/PrimareApp/status/2075974349173961017) (2026-07-12)
 - [ProfBrianCox](https://x.com/ProfBrianCox/status/2082427049109602580) (2026-08-03)
@@ -241,6 +245,7 @@ total_mentions: 687
 - [TheStartupsMag](https://x.com/TheStartupsMag/status/2068604981318488305) (2026-06-21)
 - [TheoAugust8](https://x.com/TheoAugust8/status/2063166492519158257) (2026-06-06)
 - [ThiaBallerina](https://x.com/ThiaBallerina/status/2103870579577434455) (2026-10-01)
+- [ThisIsBhandari](https://x.com/ThisIsBhandari/status/2109553094162002345) (2026-10-13)
 - [TokenizedPod](https://x.com/TokenizedPod/status/2079219793299746929) (2026-07-22)
 - [Tolu_Atanda](https://x.com/Tolu_Atanda/status/2077969124701990988) (2026-07-17)
 - [TommiPedruzzi](https://x.com/TommiPedruzzi/status/2079133234005155943) (2026-07-23)
@@ -473,6 +478,7 @@ total_mentions: 687
 - [james406](https://x.com/james406/status/2055362680299434300) (2026-06-09)
 - [jamonholmgren](https://x.com/jamonholmgren/status/2098235125419135339) (2026-09-11)
 - [jason_coder0](https://x.com/jason_coder0/status/2072219162135666801) (2026-07-01)
+- [jesseRoss597206](https://x.com/jesseRoss597206/status/2109324533911961739) (2026-10-13)
 - [jiahanjimliu](https://x.com/jiahanjimliu/status/2075804539111043085) (2026-07-11)
 - [jiang_kev](https://x.com/jiang_kev/status/2082496145994248488) (2026-07-30)
 - [johnrush](https://x.com/johnrush/status/2100322424386429223) (2026-09-20)
@@ -543,6 +549,7 @@ total_mentions: 687
 - [ns123abc](https://x.com/ns123abc/status/2108070503931936780) (2026-10-09)
 - [okxafrica](https://x.com/okxafrica/status/2102644632350085140) (2026-09-23)
 - [om_patel5](https://x.com/om_patel5/status/2099683744781111419) (2026-09-17)
+- [omarwasm](https://x.com/omarwasm/status/2109729256112562213) (2026-10-13)
 - [openmarket_xyz](https://x.com/openmarket_xyz/status/2104622481080525138) (2026-09-29)
 - [opentensor](https://x.com/opentensor/status/2097575251597054345) (2026-09-09)
 - [orbinumnetwork](https://x.com/orbinumnetwork/status/2102516025757520352) (2026-09-23)
@@ -639,6 +646,7 @@ total_mentions: 687
 - [tekbog](https://x.com/tekbog/status/2082787768162550105) (2026-08-02)
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)
 - [theaiportfolios](https://x.com/theaiportfolios/status/2074195013257273580) (2026-07-13)
+- [thechangj](https://x.com/thechangj/status/2109755308528762896) (2026-10-13)
 - [thejustinguo](https://x.com/thejustinguo/status/2091322374327251027) (2026-08-23)
 - [thejustinwelsh](https://x.com/thejustinwelsh/status/2107078882843054454) (2026-10-08)
 - [themacliu](https://x.com/themacliu/status/2105689445626478871) (2026-10-02)
@@ -675,6 +683,7 @@ total_mentions: 687
 - [wh0sumit](https://x.com/wh0sumit/status/2096847253550063656) (2026-09-07)
 - [wickedguro](https://x.com/wickedguro/status/2072654822449586327) (2026-07-09)
 - [wickedguro](https://x.com/wickedguro/status/2081582808041210156) (2026-07-27)
+- [wizaj](https://x.com/wizaj/status/2109060277371093274) (2026-10-13)
 - [wonderful_ai](https://x.com/wonderful_ai/status/2095125312929464388) (2026-09-03)
 - [x_belous](https://x.com/x_belous/status/2098161848482697302) (2026-09-11)
 - [xandurglar](https://x.com/xandurglar/status/2070179038417821777) (2026-06-29)

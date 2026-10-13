@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-12
-total_mentions: 1435
+last_seen: 2026-10-13
+total_mentions: 1444
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -145,6 +145,7 @@ total_mentions: 1435
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2092673893253226866) (2026-08-27)
 - [AndrewBolis](https://x.com/AndrewBolis/status/2089672416847126974) (2026-08-23)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2062245225159111117) (2026-06-06)
+- [AndrewCurran_](https://x.com/AndrewCurran_/status/2109738666277150767) (2026-10-13)
 - [AndrewYNg](https://x.com/AndrewYNg/status/1975614372799283423) (2026-06-12)
 - [AndrewYNg](https://x.com/AndrewYNg/status/2061477558693384395) (2026-06-07)
 - [AndrewYNg](https://x.com/AndrewYNg/status/2071988145667928442) (2026-07-01)
@@ -181,6 +182,7 @@ total_mentions: 1435
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2105025585332605357) (2026-09-30)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2105392625788637299) (2026-10-01)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2107911905822351609) (2026-10-09)
+- [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2109697083519447118) (2026-10-13)
 - [Artificialunbox](https://x.com/Artificialunbox/status/2068215362114715908) (2026-06-20)
 - [Aurimas_Gr](https://x.com/Aurimas_Gr/status/2084608000610754903) (2026-08-06)
 - [Ausmi129124](https://x.com/Ausmi129124/status/2068589738534260929) (2026-06-21)
@@ -543,6 +545,7 @@ total_mentions: 1435
 - [PythonHub](https://x.com/PythonHub/status/2106055428903665761) (2026-10-04)
 - [QwenDevs](https://x.com/QwenDevs/status/2093175583286968499) (2026-08-28)
 - [RATGPT_official](https://x.com/RATGPT_official/status/2070072449027494268) (2026-06-28)
+- [RIFAT5666](https://x.com/RIFAT5666/status/2109876282725150954) (2026-10-13)
 - [RachelTobac](https://x.com/RachelTobac/status/2082214795072225786) (2026-07-30)
 - [Rahul1539482](https://x.com/Rahul1539482/status/2068215799849091178) (2026-06-20)
 - [RamSingh_369](https://x.com/RamSingh_369/status/2094252362970099809) (2026-08-31)
@@ -570,6 +573,7 @@ total_mentions: 1435
 - [RodmanAi](https://x.com/RodmanAi/status/2091888953037299825) (2026-08-28)
 - [RohOnChain](https://x.com/RohOnChain/status/2083255916221370588) (2026-08-01)
 - [RohOnChain](https://x.com/RohOnChain/status/2088307915967070413) (2026-08-16)
+- [RohOnChain](https://x.com/RohOnChain/status/2109708114698408422) (2026-10-13)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2019422133395611915) (2026-06-05)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2055668343743590615) (2026-06-05)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2080046477322105256) (2026-07-23)
@@ -602,6 +606,7 @@ total_mentions: 1435
 - [ShawnYao77](https://x.com/ShawnYao77/status/2082343891689504790) (2026-07-29)
 - [ShenSeanChen](https://x.com/ShenSeanChen/status/2086931006376784130) (2026-08-13)
 - [ShinkaIoT](https://x.com/ShinkaIoT/status/2082668875263385771) (2026-07-30)
+- [ShinyNfts](https://x.com/ShinyNfts/status/2109878729488900524) (2026-10-13)
 - [SimularAI](https://x.com/SimularAI/status/2107168861388980400) (2026-10-08)
 - [Sirhassan21](https://x.com/Sirhassan21/status/2100448401154339293) (2026-09-21)
 - [Slappjakke](https://x.com/Slappjakke/status/1924051973378314393) (2026-07-10)
@@ -843,6 +848,7 @@ total_mentions: 1435
 - [businessbarista](https://x.com/businessbarista/status/2094213970215231831) (2026-08-31)
 - [businessbarista](https://x.com/businessbarista/status/2097478065723162959) (2026-09-09)
 - [bybardiia](https://x.com/bybardiia/status/2090762007569936869) (2026-08-23)
+- [calbuldelis69](https://x.com/calbuldelis69/status/2109705355798384767) (2026-10-13)
 - [callmeperry3](https://x.com/callmeperry3/status/2087011930993020953) (2026-08-11)
 - [catqpx](https://x.com/catqpx/status/2103695053843501265) (2026-09-27)
 - [cb_doge](https://x.com/cb_doge/status/2076291436283396496) (2026-07-18)
@@ -1133,6 +1139,7 @@ total_mentions: 1435
 - [levie](https://x.com/levie/status/2098218284139311615) (2026-09-11)
 - [levie](https://x.com/levie/status/2099739019517235618) (2026-09-15)
 - [lewiscarhart](https://x.com/lewiscarhart/status/2083610805069611230) (2026-08-02)
+- [liadyosef](https://x.com/liadyosef/status/2109684444651241505) (2026-10-13)
 - [liambraus](https://x.com/liambraus/status/2096648475366539321) (2026-09-07)
 - [liquidai](https://x.com/liquidai/status/2084640701669613906) (2026-08-05)
 - [liquidai](https://x.com/liquidai/status/2090491703652458564) (2026-08-21)
@@ -1306,6 +1313,8 @@ total_mentions: 1435
 - [semrush](https://x.com/semrush/status/2107038587866804617) (2026-10-07)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
 - [sentient_zh](https://x.com/sentient_zh/status/2066417986467189164) (2026-06-15)
+- [sermakarevich](https://x.com/sermakarevich/status/2108942010123968804) (2026-10-13)
+- [sermakarevich](https://x.com/sermakarevich/status/2109334211727659117) (2026-10-13)
 - [setyamickala](https://x.com/setyamickala/status/2066848520326480020) (2026-06-28)
 - [shamshudein](https://x.com/shamshudein/status/2087424449985523898) (2026-08-12)
 - [shannholmberg](https://x.com/shannholmberg/status/2108459414961389680) (2026-10-10)
