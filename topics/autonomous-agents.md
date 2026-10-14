@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-13
-total_mentions: 1444
+last_seen: 2026-10-14
+total_mentions: 1452
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -99,6 +99,7 @@ total_mentions: 1444
 - [AIatMeta](https://x.com/AIatMeta/status/2086757844544811485) (2026-08-12)
 - [AIatMeta](https://x.com/AIatMeta/status/2090505413817246050) (2026-08-23)
 - [AIatMeta](https://x.com/AIatMeta/status/2095234385129963666) (2026-09-03)
+- [AIatMeta](https://x.com/AIatMeta/status/2109691148943999167) (2026-10-14)
 - [AIdanSolves](https://x.com/AIdanSolves/status/2073162229533262290) (2026-07-04)
 - [AIonBase_](https://x.com/AIonBase_/status/2019752568595833185) (2026-07-10)
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
@@ -127,6 +128,8 @@ total_mentions: 1444
 - [Alacritic_Super](https://x.com/Alacritic_Super/status/2088341517744361787) (2026-08-19)
 - [AleksDoesCode](https://x.com/AleksDoesCode/status/2100500636940849250) (2026-09-20)
 - [AlexFinn](https://x.com/AlexFinn/status/2007945660281360552) (2026-09-28)
+- [AlexFinn](https://x.com/AlexFinn/status/2109817698620485804) (2026-10-14)
+- [AlexFinn](https://x.com/AlexFinn/status/2110181971280433613) (2026-10-14)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2072719153107001836) (2026-07-03)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2076720209293893677) (2026-07-14)
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2069720365442719867) (2026-06-27)
@@ -162,6 +165,7 @@ total_mentions: 1444
 - [ArcAlphaa](https://x.com/ArcAlphaa/status/2103818386115534912) (2026-10-01)
 - [ArcNova_ACI](https://x.com/ArcNova_ACI/status/2073013930440749245) (2026-07-05)
 - [ArchiveExplorer](https://x.com/ArchiveExplorer/status/2076666622043963789) (2026-07-14)
+- [ArdenAI07](https://x.com/ArdenAI07/status/2108895389126709456) (2026-10-14)
 - [Argona0x](https://x.com/Argona0x/status/2065525815106769169) (2026-06-13)
 - [Argona0x](https://x.com/Argona0x/status/2091946932037906774) (2026-08-26)
 - [Argona0x](https://x.com/Argona0x/status/2093075254990033049) (2026-08-28)
@@ -685,6 +689,7 @@ total_mentions: 1444
 - [VivekIntel](https://x.com/VivekIntel/status/2073996440326873221) (2026-07-13)
 - [Vtrivedy10](https://x.com/Vtrivedy10/status/2098150319305715997) (2026-09-17)
 - [WOLF_Financial](https://x.com/WOLF_Financial/status/2104501885202026764) (2026-10-04)
+- [WalrusProtocol](https://x.com/WalrusProtocol/status/2033699557511757832) (2026-10-14)
 - [WasimxWeb3](https://x.com/WasimxWeb3/status/2064971624944964016) (2026-06-11)
 - [WaymarkMoney](https://x.com/WaymarkMoney/status/2081914932237369514) (2026-07-30)
 - [WesRoth](https://x.com/WesRoth/status/2043871865513619560) (2026-07-24)
@@ -1226,6 +1231,7 @@ total_mentions: 1444
 - [ollama](https://x.com/ollama/status/2066949797316350361) (2026-06-19)
 - [omarsar0](https://x.com/omarsar0/status/1715491139053121839) (2026-09-08)
 - [omarsar0](https://x.com/omarsar0/status/1846930425849303424) (2026-06-27)
+- [omarsar0](https://x.com/omarsar0/status/1923817691455873420) (2026-10-14)
 - [omarsar0](https://x.com/omarsar0/status/2069907174252527816) (2026-06-27)
 - [omarsar0](https://x.com/omarsar0/status/2077792894459793714) (2026-07-17)
 - [omarsar0](https://x.com/omarsar0/status/2095873020778991918) (2026-09-08)
@@ -1345,6 +1351,7 @@ total_mentions: 1444
 - [slash1sol](https://x.com/slash1sol/status/2101244375925723559) (2026-09-20)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2072154763492544652) (2026-07-01)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2077223722654834863) (2026-07-16)
+- [soniacuts](https://x.com/soniacuts/status/2109597969456525547) (2026-10-14)
 - [soumithchintala](https://x.com/soumithchintala/status/2095544501657895312) (2026-09-07)
 - [spectnfa](https://x.com/spectnfa/status/2102093640650588632) (2026-09-25)
 - [splinetool](https://x.com/splinetool/status/2090500256190603636) (2026-08-23)
@@ -1357,6 +1364,7 @@ total_mentions: 1444
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
 - [stretchcloud](https://x.com/stretchcloud/status/2079772421947560434) (2026-07-22)
 - [suchenzang](https://x.com/suchenzang/status/2102850037487116538) (2026-09-24)
+- [sudoingX](https://x.com/sudoingX/status/2032538498969030759) (2026-10-14)
 - [sudoingX](https://x.com/sudoingX/status/2081453712149721457) (2026-08-19)
 - [sudoingX](https://x.com/sudoingX/status/2100013545928933875) (2026-09-16)
 - [sundaebar_ai](https://x.com/sundaebar_ai/status/2077392523128132068) (2026-07-16)

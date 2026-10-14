@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-10-13
-total_mentions: 156
+last_seen: 2026-10-14
+total_mentions: 158
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -30,6 +30,7 @@ total_mentions: 156
 - [KicksCharlie](https://x.com/KicksCharlie/status/2102201908383686787) (2026-09-22)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
+- [MTSlive](https://x.com/MTSlive/status/2108697043208450482) (2026-10-14)
 - [Mascobot](https://x.com/Mascobot/status/2065102985362026958) (2026-06-12)
 - [MaxForAI](https://x.com/MaxForAI/status/2089184371886690760) (2026-08-17)
 - [MaxForAI](https://x.com/MaxForAI/status/2090569520717115493) (2026-08-21)
@@ -160,4 +161,5 @@ total_mentions: 156
 - [vista8](https://x.com/vista8/status/2106647309102825969) (2026-10-05)
 - [wallstengine](https://x.com/wallstengine/status/2094155293261435063) (2026-09-01)
 - [wuyang_zhou](https://x.com/wuyang_zhou/status/2096548032128942370) (2026-09-11)
+- [xaijnt77357](https://x.com/xaijnt77357/status/2110242886574821662) (2026-10-14)
 - [zcode_ai](https://x.com/zcode_ai/status/2092635718766215590) (2026-08-27)

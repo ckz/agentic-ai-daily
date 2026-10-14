@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-13
-total_mentions: 190
+last_seen: 2026-10-14
+total_mentions: 191
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -161,6 +161,7 @@ total_mentions: 190
 - [peterfriese](https://x.com/peterfriese/status/2092545094423601239) (2026-09-02)
 - [pushmeet](https://x.com/pushmeet/status/2065917699222560928) (2026-06-15)
 - [pushmeet](https://x.com/pushmeet/status/2089717134129565763) (2026-08-19)
+- [quinn_leng](https://x.com/quinn_leng/status/2110036327286886731) (2026-10-14)
 - [rammcodes](https://x.com/rammcodes/status/2093377746852511919) (2026-08-29)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
 - [rebel0x0](https://x.com/rebel0x0/status/2067186712758071385) (2026-06-19)

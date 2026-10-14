@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-10-13
-total_mentions: 356
+last_seen: 2026-10-14
+total_mentions: 357
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -173,6 +173,7 @@ total_mentions: 356
 - [TechByArti](https://x.com/TechByArti/status/2102669545131712912) (2026-09-24)
 - [TeddyinMedia](https://x.com/TeddyinMedia/status/2101311604797145483) (2026-09-20)
 - [TencentAI_News](https://x.com/TencentAI_News/status/2084835629213577720) (2026-08-11)
+- [ThatsEFM](https://x.com/ThatsEFM/status/2108271219221070023) (2026-10-14)
 - [TheAhmadOsman](https://x.com/TheAhmadOsman/status/1993756423684264148) (2026-08-21)
 - [Thom_Wolf](https://x.com/Thom_Wolf/status/2095889630306472127) (2026-09-06)
 - [TokenGremlin](https://x.com/TokenGremlin/status/2092701202303856785) (2026-08-27)

@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-13
-total_mentions: 128
+last_seen: 2026-10-14
+total_mentions: 129
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -116,6 +116,7 @@ total_mentions: 128
 - [petergyang](https://x.com/petergyang/status/2101862331345154469) (2026-09-21)
 - [pitdesi](https://x.com/pitdesi/status/2090579987778937159) (2026-08-25)
 - [pushmeet](https://x.com/pushmeet/status/2089717134129565763) (2026-08-19)
+- [quinn_leng](https://x.com/quinn_leng/status/2110036327286886731) (2026-10-14)
 - [res1dualedge](https://x.com/res1dualedge/status/2102492495674221032) (2026-09-24)
 - [res1dualedge](https://x.com/res1dualedge/status/2103237038778835331) (2026-09-26)
 - [sairahul1](https://x.com/sairahul1/status/2084557703226036536) (2026-08-05)

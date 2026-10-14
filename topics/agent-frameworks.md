@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-13
-total_mentions: 562
+last_seen: 2026-10-14
+total_mentions: 566
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -40,6 +40,7 @@ total_mentions: 562
 - [AnnuKumari35786](https://x.com/AnnuKumari35786/status/2106358936635085267) (2026-10-05)
 - [AnthropicAI](https://x.com/AnthropicAI/status/2066969532380721386) (2026-06-19)
 - [AnthropicAI](https://x.com/AnthropicAI/status/2072163884430229756) (2026-07-01)
+- [ArdenAI07](https://x.com/ArdenAI07/status/2108895389126709456) (2026-10-14)
 - [ArslyTech](https://x.com/ArslyTech/status/2063153998518235584) (2026-06-06)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065559824230957190) (2026-06-14)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2076747075036045645) (2026-07-14)
@@ -141,6 +142,7 @@ total_mentions: 562
 - [Gustafssonkotte](https://x.com/Gustafssonkotte/status/2082309711785849067) (2026-08-01)
 - [HackingDave](https://x.com/HackingDave/status/2069146467701256423) (2026-06-29)
 - [HarryBee_Yhu](https://x.com/HarryBee_Yhu/status/2067864020527292535) (2026-06-19)
+- [HelgaHinojosa](https://x.com/HelgaHinojosa/status/2110221824608862378) (2026-10-14)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2103804240866976237) (2026-09-27)
@@ -265,6 +267,7 @@ total_mentions: 562
 - [VirtualElena](https://x.com/VirtualElena/status/2086890946634154185) (2026-08-12)
 - [VivekIntel](https://x.com/VivekIntel/status/2073810331827343525) (2026-07-09)
 - [VivekIntel](https://x.com/VivekIntel/status/2073996440326873221) (2026-07-13)
+- [WalrusProtocol](https://x.com/WalrusProtocol/status/2033699557511757832) (2026-10-14)
 - [WesRoth](https://x.com/WesRoth/status/2043871865513619560) (2026-07-24)
 - [WesRoth](https://x.com/WesRoth/status/2063244515989713206) (2026-06-08)
 - [WrangleAi](https://x.com/WrangleAi/status/2083825310982660098) (2026-08-02)
@@ -525,6 +528,7 @@ total_mentions: 562
 - [stbenjam](https://x.com/stbenjam/status/2087340706599698783) (2026-08-12)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
 - [stretchcloud](https://x.com/stretchcloud/status/2107375555788345677) (2026-10-06)
+- [sudoingX](https://x.com/sudoingX/status/2032538498969030759) (2026-10-14)
 - [sudoingX](https://x.com/sudoingX/status/2081453712149721457) (2026-08-19)
 - [superpobe](https://x.com/superpobe/status/2102293399688679575) (2026-09-23)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2077724941198533011) (2026-07-17)

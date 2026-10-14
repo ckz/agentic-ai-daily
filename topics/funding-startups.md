@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-13
-total_mentions: 696
+last_seen: 2026-10-14
+total_mentions: 701
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
@@ -49,6 +49,7 @@ total_mentions: 696
 - [AvinashSingh_20](https://x.com/AvinashSingh_20/status/2088315936353010013) (2026-08-15)
 - [AvinashSingh_20](https://x.com/AvinashSingh_20/status/2104612144088289760) (2026-10-02)
 - [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2078578545429991768) (2026-07-24)
+- [BarbaraPocock](https://x.com/BarbaraPocock/status/2110115000732074339) (2026-10-14)
 - [BernieSanders](https://x.com/BernieSanders/status/2080047245433438469) (2026-07-26)
 - [BernieSanders](https://x.com/BernieSanders/status/2095617679235088569) (2026-09-14)
 - [BestAIToolFind](https://x.com/BestAIToolFind/status/2087737224456732920) (2026-08-13)
@@ -246,6 +247,7 @@ total_mentions: 696
 - [TheoAugust8](https://x.com/TheoAugust8/status/2063166492519158257) (2026-06-06)
 - [ThiaBallerina](https://x.com/ThiaBallerina/status/2103870579577434455) (2026-10-01)
 - [ThisIsBhandari](https://x.com/ThisIsBhandari/status/2109553094162002345) (2026-10-13)
+- [Tocelot](https://x.com/Tocelot/status/2110026020766036273) (2026-10-14)
 - [TokenizedPod](https://x.com/TokenizedPod/status/2079219793299746929) (2026-07-22)
 - [Tolu_Atanda](https://x.com/Tolu_Atanda/status/2077969124701990988) (2026-07-17)
 - [TommiPedruzzi](https://x.com/TommiPedruzzi/status/2079133234005155943) (2026-07-23)
@@ -544,6 +546,7 @@ total_mentions: 696
 - [nc_tea2024](https://x.com/nc_tea2024/status/2106005188091777143) (2026-10-08)
 - [neerajjj6785](https://x.com/neerajjj6785/status/2088897032283181080) (2026-08-17)
 - [nextjs](https://x.com/nextjs/status/2071647669467201657) (2026-07-02)
+- [nick_realm_01](https://x.com/nick_realm_01/status/2110215203506037029) (2026-10-14)
 - [nicochristie](https://x.com/nicochristie/status/2093729344871170219) (2026-08-30)
 - [noah_schochet](https://x.com/noah_schochet/status/2077044441978737104) (2026-07-17)
 - [ns123abc](https://x.com/ns123abc/status/2108070503931936780) (2026-10-09)
@@ -598,6 +601,7 @@ total_mentions: 696
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2095311437677883490) (2026-09-03)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2096117661172384137) (2026-09-07)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2098655241453687123) (2026-09-12)
+- [roshanpateI](https://x.com/roshanpateI/status/1616122874288549888) (2026-10-14)
 - [royaltymsc](https://x.com/royaltymsc/status/2103765261954502989) (2026-09-27)
 - [rsngprad](https://x.com/rsngprad/status/2072630117218791745) (2026-07-05)
 - [rtwlz](https://x.com/rtwlz/status/2099608957698617356) (2026-09-15)
@@ -618,6 +622,7 @@ total_mentions: 696
 - [siddharthwv](https://x.com/siddharthwv/status/2097921094858731836) (2026-09-12)
 - [signulll](https://x.com/signulll/status/2064053145580278163) (2026-06-09)
 - [sillymusicqueen](https://x.com/sillymusicqueen/status/2098234005975961741) (2026-09-11)
+- [silvanrec](https://x.com/silvanrec/status/2110095795458310271) (2026-10-14)
 - [singularityhack](https://x.com/singularityhack/status/2079237150764134528) (2026-07-22)
 - [skeptrune](https://x.com/skeptrune/status/2092294676594471062) (2026-08-27)
 - [slash1sol](https://x.com/slash1sol/status/2033636802855374982) (2026-06-13)
