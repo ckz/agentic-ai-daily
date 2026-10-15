@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-10-14
-total_mentions: 158
+last_seen: 2026-10-15
+total_mentions: 159
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -103,6 +103,7 @@ total_mentions: 158
 - [gkxspace](https://x.com/gkxspace/status/2068546908360999331) (2026-06-21)
 - [gregisenberg](https://x.com/gregisenberg/status/2104613420460822745) (2026-10-05)
 - [hanghuang_](https://x.com/hanghuang_/status/2099559078687088854) (2026-09-19)
+- [hanghuang_](https://x.com/hanghuang_/status/2110349488200057326) (2026-10-15)
 - [hcompany_ai](https://x.com/hcompany_ai/status/2104508207582367807) (2026-09-29)
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2097085343967355190) (2026-09-10)
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2105499083431698547) (2026-10-01)

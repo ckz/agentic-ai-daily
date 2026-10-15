@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-14
-total_mentions: 566
+last_seen: 2026-10-15
+total_mentions: 568
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -186,6 +186,7 @@ total_mentions: 566
 - [MayaAscend9](https://x.com/MayaAscend9/status/2086244103835295965) (2026-08-09)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2081303563746398665) (2026-07-28)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2084978309532647780) (2026-08-08)
+- [MikeLongTerm](https://x.com/MikeLongTerm/status/2109106714159075786) (2026-10-15)
 - [MilkRoadAI](https://x.com/MilkRoadAI/status/2072187752402346407) (2026-07-08)
 - [Mnilax](https://x.com/Mnilax/status/2087651578639470614) (2026-08-14)
 - [Mohansinha](https://x.com/Mohansinha/status/2079629691494060368) (2026-07-24)
@@ -565,6 +566,7 @@ total_mentions: 566
 - [vllm_project](https://x.com/vllm_project/status/2097427310513426721) (2026-09-12)
 - [voidwarriorchan](https://x.com/voidwarriorchan/status/2095708889300033590) (2026-09-04)
 - [wallstengine](https://x.com/wallstengine/status/2062459661039894607) (2026-06-08)
+- [whemohere](https://x.com/whemohere/status/2108590166851895570) (2026-10-15)
 - [wilsonnwafor_](https://x.com/wilsonnwafor_/status/2076919122479185990) (2026-07-14)
 - [xCryptoParadise](https://x.com/xCryptoParadise/status/2104917457332736098) (2026-09-30)
 - [xai](https://x.com/xai/status/2072342803787702422) (2026-07-02)

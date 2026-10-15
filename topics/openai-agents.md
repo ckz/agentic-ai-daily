@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-13
-total_mentions: 105
+last_seen: 2026-10-15
+total_mentions: 106
 
 ## Related Tweets
 - [0xDepressionn](https://x.com/0xDepressionn/status/2063987019068371128) (2026-06-10)
@@ -80,6 +80,7 @@ total_mentions: 105
 - [dr_cintas](https://x.com/dr_cintas/status/1912954389221851524) (2026-08-26)
 - [dschwarz26](https://x.com/dschwarz26/status/2093352278627684644) (2026-08-29)
 - [ekkostudio](https://x.com/ekkostudio/status/2107329859580047871) (2026-10-06)
+- [firstadopter](https://x.com/firstadopter/status/2110528384807956680) (2026-10-15)
 - [gregisenberg](https://x.com/gregisenberg/status/2099202686377742576) (2026-09-15)
 - [hot_town](https://x.com/hot_town/status/2084999228439376119) (2026-08-06)
 - [iamrexei](https://x.com/iamrexei/status/2091465106303471964) (2026-08-28)

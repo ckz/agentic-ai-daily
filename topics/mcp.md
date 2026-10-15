@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-10-14
-total_mentions: 972
+last_seen: 2026-10-15
+total_mentions: 979
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -68,6 +68,7 @@ total_mentions: 972
 - [Artificialunbox](https://x.com/Artificialunbox/status/2068215362114715908) (2026-06-20)
 - [AssetLove](https://x.com/AssetLove/status/2095059157581733946) (2026-09-07)
 - [Atenov_D](https://x.com/Atenov_D/status/2063583110495707530) (2026-06-08)
+- [AttentionAgents](https://x.com/AttentionAgents/status/2110618486309584959) (2026-10-15)
 - [Aurimas_Gr](https://x.com/Aurimas_Gr/status/2084608000610754903) (2026-08-06)
 - [Av1dlive](https://x.com/Av1dlive/status/2077048656545628206) (2026-07-15)
 - [Av1dlive](https://x.com/Av1dlive/status/2097639365644279857) (2026-09-10)
@@ -225,6 +226,7 @@ total_mentions: 972
 - [MiguelMaestroIA](https://x.com/MiguelMaestroIA/status/2080703728945176833) (2026-07-26)
 - [MiniMax_AI](https://x.com/MiniMax_AI/status/2061266317815296322) (2026-06-05)
 - [Mnilax](https://x.com/Mnilax/status/2109716261160538324) (2026-10-13)
+- [Mnilax](https://x.com/Mnilax/status/2110039818524660135) (2026-10-15)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106251206524014747) (2026-10-10)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106601226276118967) (2026-10-05)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2109514844252807435) (2026-10-12)
@@ -608,6 +610,7 @@ total_mentions: 972
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2087510073853481001) (2026-08-16)
 - [garrytan](https://x.com/garrytan/status/2099876434114494962) (2026-09-17)
 - [gavinpurcell](https://x.com/gavinpurcell/status/2103304514329854102) (2026-09-27)
+- [gavinpurcell](https://x.com/gavinpurcell/status/2109651336325451830) (2026-10-15)
 - [ghumare64](https://x.com/ghumare64/status/2107329844912754918) (2026-10-10)
 - [gippp69](https://x.com/gippp69/status/2061110941509419435) (2026-06-07)
 - [gippp69](https://x.com/gippp69/status/2088997859400032707) (2026-08-17)
@@ -624,6 +627,7 @@ total_mentions: 972
 - [gregisenberg](https://x.com/gregisenberg/status/2083954605533065561) (2026-08-08)
 - [gregisenberg](https://x.com/gregisenberg/status/2086534549341610457) (2026-08-12)
 - [gregisenberg](https://x.com/gregisenberg/status/2104613420460822745) (2026-10-05)
+- [gregisenberg](https://x.com/gregisenberg/status/2110414696037716372) (2026-10-15)
 - [greptile](https://x.com/greptile/status/2100268607477273048) (2026-09-19)
 - [gumloop](https://x.com/gumloop/status/2107510127771447692) (2026-10-07)
 - [gurasees0](https://x.com/gurasees0/status/2108563367422218472) (2026-10-10)
@@ -718,6 +722,7 @@ total_mentions: 972
 - [maestro__dev](https://x.com/maestro__dev/status/2104303293178728703) (2026-09-28)
 - [magnific](https://x.com/magnific/status/2064346257330675798) (2026-06-10)
 - [mahanot_dikshit](https://x.com/mahanot_dikshit/status/2104832455362646379) (2026-09-29)
+- [manufact](https://x.com/manufact/status/2110446601173176775) (2026-10-15)
 - [marorhab](https://x.com/marorhab/status/2063163950850609431) (2026-06-06)
 - [martinyeza](https://x.com/martinyeza/status/2105388834452132338) (2026-10-07)
 - [mattrothenberg](https://x.com/mattrothenberg/status/2088019847875526913) (2026-08-16)
@@ -764,6 +769,7 @@ total_mentions: 972
 - [mxstbr](https://x.com/mxstbr/status/2107515035610431911) (2026-10-09)
 - [nateberkopec](https://x.com/nateberkopec/status/2099995262802641129) (2026-09-19)
 - [nbaschez](https://x.com/nbaschez/status/2106437805413195895) (2026-10-08)
+- [nickvasilescu](https://x.com/nickvasilescu/status/2110443186317574208) (2026-10-15)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [nrlartt](https://x.com/nrlartt/status/2082153925491249607) (2026-07-29)
 - [nubis_app](https://x.com/nubis_app/status/2065699995399881189) (2026-06-13)
@@ -977,3 +983,4 @@ total_mentions: 972
 - [zeke](https://x.com/zeke/status/2107500688087699616) (2026-10-07)
 - [zeuuss_01](https://x.com/zeuuss_01/status/2076796634856304696) (2026-07-16)
 - [zodchiii](https://x.com/zodchiii/status/2078222648539271430) (2026-07-18)
+- [zoink](https://x.com/zoink/status/2110614567781052579) (2026-10-15)

@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-14
-total_mentions: 701
+last_seen: 2026-10-15
+total_mentions: 708
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
@@ -243,6 +243,7 @@ total_mentions: 701
 - [TRHLofficial](https://x.com/TRHLofficial/status/2104165736365134051) (2026-10-01)
 - [TechCrunch](https://x.com/TechCrunch/status/2090976021600244044) (2026-08-25)
 - [TechCrunch](https://x.com/TechCrunch/status/2107205456351354910) (2026-10-06)
+- [TheJoinCare](https://x.com/TheJoinCare/status/2110466063762960613) (2026-10-15)
 - [TheStartupsMag](https://x.com/TheStartupsMag/status/2068604981318488305) (2026-06-21)
 - [TheoAugust8](https://x.com/TheoAugust8/status/2063166492519158257) (2026-06-06)
 - [ThiaBallerina](https://x.com/ThiaBallerina/status/2103870579577434455) (2026-10-01)
@@ -455,6 +456,7 @@ total_mentions: 701
 - [gregisenberg](https://x.com/gregisenberg/status/2094518013068484826) (2026-09-02)
 - [gregisenberg](https://x.com/gregisenberg/status/2095538589543059535) (2026-09-05)
 - [gregisenberg](https://x.com/gregisenberg/status/2105397216374403561) (2026-10-03)
+- [gregisenberg](https://x.com/gregisenberg/status/2110414696037716372) (2026-10-15)
 - [hanghuang_](https://x.com/hanghuang_/status/2104949571789148416) (2026-10-01)
 - [hanifproduktif](https://x.com/hanifproduktif/status/2108025812448600435) (2026-10-09)
 - [harbingerofwoke](https://x.com/harbingerofwoke/status/2090178064399613976) (2026-10-01)
@@ -506,6 +508,7 @@ total_mentions: 701
 - [kseniam0s](https://x.com/kseniam0s/status/2105370329434489265) (2026-10-02)
 - [kseniam0s](https://x.com/kseniam0s/status/2106788298240729286) (2026-10-05)
 - [kseniam0s](https://x.com/kseniam0s/status/2107498859341439133) (2026-10-07)
+- [kseniam0s](https://x.com/kseniam0s/status/2110457139072229807) (2026-10-15)
 - [lami_thefirst](https://x.com/lami_thefirst/status/2097224273853129017) (2026-09-08)
 - [launchwhasmik](https://x.com/launchwhasmik/status/2104542307680719043) (2026-10-02)
 - [levelsio](https://x.com/levelsio/status/2102739359715774665) (2026-09-25)
@@ -518,6 +521,7 @@ total_mentions: 701
 - [marclou](https://x.com/marclou/status/2095153862818894109) (2026-09-03)
 - [marclou](https://x.com/marclou/status/2097326512169222407) (2026-09-09)
 - [marclou](https://x.com/marclou/status/2107145539955368383) (2026-10-07)
+- [marclou](https://x.com/marclou/status/2109921617379991632) (2026-10-15)
 - [marcopapa99](https://x.com/marcopapa99/status/2107379003581665628) (2026-10-06)
 - [marcrandolph](https://x.com/marcrandolph/status/2093141802610254231) (2026-08-29)
 - [marcushan_](https://x.com/marcushan_/status/2098222906673090570) (2026-09-11)
@@ -630,6 +634,7 @@ total_mentions: 701
 - [soundboy](https://x.com/soundboy/status/2097607789929443537) (2026-09-10)
 - [spaceandtech_](https://x.com/spaceandtech_/status/2087905670595223735) (2026-08-16)
 - [spacedevin](https://x.com/spacedevin/status/2109526752808902799) (2026-10-12)
+- [spacedevin](https://x.com/spacedevin/status/2110355139391602903) (2026-10-15)
 - [sridharfyi](https://x.com/sridharfyi/status/2100562893758718127) (2026-09-20)
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
 - [starter_story](https://x.com/starter_story/status/2106053639123140814) (2026-10-03)
@@ -643,6 +648,7 @@ total_mentions: 701
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2107823223702442434) (2026-10-08)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2108852541622493365) (2026-10-11)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109177179221184993) (2026-10-11)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2109690568590635440) (2026-10-15)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
 - [tankots](https://x.com/tankots/status/2089372674644713664) (2026-08-21)
 - [techbyhez](https://x.com/techbyhez/status/2106056726067675287) (2026-10-04)
@@ -692,6 +698,7 @@ total_mentions: 701
 - [wonderful_ai](https://x.com/wonderful_ai/status/2095125312929464388) (2026-09-03)
 - [x_belous](https://x.com/x_belous/status/2098161848482697302) (2026-09-11)
 - [xandurglar](https://x.com/xandurglar/status/2070179038417821777) (2026-06-29)
+- [xerocooleth](https://x.com/xerocooleth/status/2110475858209321367) (2026-10-15)
 - [yamanzdh](https://x.com/yamanzdh/status/2093504999158600161) (2026-08-30)
 - [ycombinator](https://x.com/ycombinator/status/2062202902543016140) (2026-06-05)
 - [ycombinator](https://x.com/ycombinator/status/2069110874242252853) (2026-06-28)

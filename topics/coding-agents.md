@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-14
-total_mentions: 191
+last_seen: 2026-10-15
+total_mentions: 192
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -120,6 +120,7 @@ total_mentions: 191
 - [emmanuel_2m](https://x.com/emmanuel_2m/status/2103097017073361137) (2026-09-25)
 - [ericzakariasson](https://x.com/ericzakariasson/status/2102853511637774551) (2026-09-26)
 - [finkd](https://x.com/finkd/status/2085080750034940201) (2026-08-06)
+- [firstadopter](https://x.com/firstadopter/status/2110528384807956680) (2026-10-15)
 - [ginacostag_](https://x.com/ginacostag_/status/2107123580672541113) (2026-10-12)
 - [gippp69](https://x.com/gippp69/status/2088943002467115352) (2026-08-17)
 - [gokulr](https://x.com/gokulr/status/2062638283100930085) (2026-06-08)

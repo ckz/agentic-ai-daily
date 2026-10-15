@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-14
-total_mentions: 1452
+last_seen: 2026-10-15
+total_mentions: 1461
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -147,6 +147,7 @@ total_mentions: 1452
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2088684163167670725) (2026-08-16)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2092673893253226866) (2026-08-27)
 - [AndrewBolis](https://x.com/AndrewBolis/status/2089672416847126974) (2026-08-23)
+- [AndrewBolis](https://x.com/AndrewBolis/status/2109241359278477749) (2026-10-15)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2062245225159111117) (2026-06-06)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2109738666277150767) (2026-10-13)
 - [AndrewYNg](https://x.com/AndrewYNg/status/1975614372799283423) (2026-06-12)
@@ -316,6 +317,7 @@ total_mentions: 1452
 - [EugenioFierro3](https://x.com/EugenioFierro3/status/2070777655926906996) (2026-06-27)
 - [EvanLuthra](https://x.com/EvanLuthra/status/2101287422835499484) (2026-09-22)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
+- [FactoryAI](https://x.com/FactoryAI/status/2110403273903808988) (2026-10-15)
 - [FareaNFts](https://x.com/FareaNFts/status/2092673671676727314) (2026-08-27)
 - [FellMentKE](https://x.com/FellMentKE/status/2074122247221162442) (2026-07-07)
 - [Fetch_ai](https://x.com/Fetch_ai/status/2057083945125126565) (2026-06-05)
@@ -469,6 +471,8 @@ total_mentions: 1452
 - [MichaelGannotti](https://x.com/MichaelGannotti/status/2079168568478912834) (2026-07-21)
 - [Michael_J_Black](https://x.com/Michael_J_Black/status/2097585486466327003) (2026-09-09)
 - [MikeLongTerm](https://x.com/MikeLongTerm/status/2083580958519783522) (2026-08-07)
+- [MikeLongTerm](https://x.com/MikeLongTerm/status/2109106714159075786) (2026-10-15)
+- [MikeLongTerm](https://x.com/MikeLongTerm/status/2109634581766746275) (2026-10-15)
 - [MilkRoadAI](https://x.com/MilkRoadAI/status/2069466738941657230) (2026-06-28)
 - [MilkRoadAI](https://x.com/MilkRoadAI/status/2072187752402346407) (2026-07-08)
 - [MiniMax_AI](https://x.com/MiniMax_AI/status/2061266317815296322) (2026-06-05)
@@ -530,6 +534,7 @@ total_mentions: 1452
 - [Peevibes007](https://x.com/Peevibes007/status/2047915508260073869) (2026-07-26)
 - [PerpGame](https://x.com/PerpGame/status/2071680543989678359) (2026-07-03)
 - [PerpGame](https://x.com/PerpGame/status/2079845105691664812) (2026-07-28)
+- [Phuc50103413](https://x.com/Phuc50103413/status/2110596124277162064) (2026-10-15)
 - [PinkBrains_io](https://x.com/PinkBrains_io/status/2079153364571721795) (2026-07-24)
 - [Pokee_AI](https://x.com/Pokee_AI/status/2087211800777654378) (2026-08-14)
 - [Polymarket](https://x.com/Polymarket/status/2085186345040023989) (2026-08-06)
@@ -1011,6 +1016,7 @@ total_mentions: 1452
 - [farzyness](https://x.com/farzyness/status/2094810782697398294) (2026-09-03)
 - [femke_plantinga](https://x.com/femke_plantinga/status/2082375583363944873) (2026-07-30)
 - [finkd](https://x.com/finkd/status/2075218444056707458) (2026-07-11)
+- [firstadopter](https://x.com/firstadopter/status/2110528384807956680) (2026-10-15)
 - [fishkiller](https://x.com/fishkiller/status/2090257850635596126) (2026-08-20)
 - [francescoX222](https://x.com/francescoX222/status/2104870718408184121) (2026-09-30)
 - [francescoswiss](https://x.com/francescoswiss/status/2085369251372658880) (2026-08-08)
@@ -1044,11 +1050,13 @@ total_mentions: 1452
 - [gravitygotmeup](https://x.com/gravitygotmeup/status/2068193792780591353) (2026-06-20)
 - [gregisenberg](https://x.com/gregisenberg/status/1984641062527197234) (2026-07-16)
 - [gregisenberg](https://x.com/gregisenberg/status/2074287887466582072) (2026-07-07)
+- [gregisenberg](https://x.com/gregisenberg/status/2110414696037716372) (2026-10-15)
 - [gudanglifehack](https://x.com/gudanglifehack/status/2068581325767102474) (2026-06-21)
 - [gumterver100](https://x.com/gumterver100/status/2087078337235628286) (2026-08-11)
 - [hanakoxbt](https://x.com/hanakoxbt/status/2078979637804187793) (2026-07-21)
 - [hanakoxbt](https://x.com/hanakoxbt/status/2083932817738666010) (2026-08-04)
 - [hanakoxbt](https://x.com/hanakoxbt/status/2084341524125397142) (2026-08-04)
+- [hanakoxbt](https://x.com/hanakoxbt/status/2110484798246715500) (2026-10-15)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [hasantoxr](https://x.com/hasantoxr/status/2075864853542269183) (2026-07-15)
 - [heisChapman](https://x.com/heisChapman/status/2102984170611892294) (2026-09-28)
@@ -1450,6 +1458,7 @@ total_mentions: 1452
 - [xenovacom](https://x.com/xenovacom/status/2070210622239707568) (2026-06-27)
 - [xiaoying_eth](https://x.com/xiaoying_eth/status/2064183483795460502) (2026-06-10)
 - [xoggai](https://x.com/xoggai/status/2071621434619957408) (2026-06-30)
+- [yabebets](https://x.com/yabebets/status/2109566114426732649) (2026-10-15)
 - [yacineMTB](https://x.com/yacineMTB/status/2083360208403767762) (2026-08-06)
 - [zachdotai](https://x.com/zachdotai/status/2098474668474896872) (2026-09-17)
 - [zackpaid](https://x.com/zackpaid/status/2065125827864678420) (2026-06-12)

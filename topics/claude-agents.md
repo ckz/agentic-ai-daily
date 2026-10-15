@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-14
-total_mentions: 274
+last_seen: 2026-10-15
+total_mentions: 276
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -79,6 +79,7 @@ total_mentions: 274
 - [JesseisCooking](https://x.com/JesseisCooking/status/2103383326543495485) (2026-10-01)
 - [Jeyxbt](https://x.com/Jeyxbt/status/2067866973497868794) (2026-06-19)
 - [Krishnasagrawal](https://x.com/Krishnasagrawal/status/2076370564831486040) (2026-07-14)
+- [LangChain](https://x.com/LangChain/status/2110424980337127531) (2026-10-15)
 - [LomashKumar52](https://x.com/LomashKumar52/status/2103013165009363358) (2026-09-24)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2108499624038113606) (2026-10-11)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2093310429103558754) (2026-08-29)
@@ -151,6 +152,7 @@ total_mentions: 274
 - [businessbarista](https://x.com/businessbarista/status/2097478065723162959) (2026-09-09)
 - [businessbarista](https://x.com/businessbarista/status/2099565601312166157) (2026-09-16)
 - [candyyueliu](https://x.com/candyyueliu/status/2062178835689623592) (2026-06-29)
+- [cartertran_](https://x.com/cartertran_/status/2110450865366614489) (2026-10-15)
 - [carverfomo](https://x.com/carverfomo/status/2064338010242490662) (2026-06-10)
 - [celineodier](https://x.com/celineodier/status/2094079187904610504) (2026-09-01)
 - [clapilot](https://x.com/clapilot/status/2063509258461642879) (2026-06-07)
