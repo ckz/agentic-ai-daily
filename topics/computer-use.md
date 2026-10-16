@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-10-15
-total_mentions: 159
+last_seen: 2026-10-16
+total_mentions: 160
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -87,6 +87,7 @@ total_mentions: 159
 - [claudeai](https://x.com/claudeai/status/2107894042235166750) (2026-10-08)
 - [claudeebum](https://x.com/claudeebum/status/2088598997065969933) (2026-08-17)
 - [coder_surya](https://x.com/coder_surya/status/2073957608998715439) (2026-07-06)
+- [coreyganim](https://x.com/coreyganim/status/2110364449127219409) (2026-10-16)
 - [cursor_ai](https://x.com/cursor_ai/status/2084317547608911986) (2026-08-09)
 - [cwmasaki](https://x.com/cwmasaki/status/2088433897445171301) (2026-08-15)
 - [daniel_mac8](https://x.com/daniel_mac8/status/2106486954351001652) (2026-10-04)

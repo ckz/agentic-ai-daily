@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-15
-total_mentions: 276
+last_seen: 2026-10-16
+total_mentions: 279
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -96,6 +96,7 @@ total_mentions: 276
 - [NoahTopper](https://x.com/NoahTopper/status/2081966112691089472) (2026-07-29)
 - [NotionHQ](https://x.com/NotionHQ/status/2095923091134206448) (2026-09-05)
 - [NousResearch](https://x.com/NousResearch/status/2026759005633183980) (2026-06-07)
+- [OpenRouter](https://x.com/OpenRouter/status/2110838205654470840) (2026-10-16)
 - [Origin_AI_01](https://x.com/Origin_AI_01/status/2096073337881641428) (2026-09-05)
 - [Origin_AI_01](https://x.com/Origin_AI_01/status/2104877229868208508) (2026-10-01)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
@@ -268,10 +269,12 @@ total_mentions: 276
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2108242267257307180) (2026-10-10)
 - [tanayj](https://x.com/tanayj/status/2072108170080657729) (2026-07-01)
 - [tetsuoai](https://x.com/tetsuoai/status/2098199890237247578) (2026-09-11)
+- [thedelost](https://x.com/thedelost/status/2110472847084650726) (2026-10-16)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2081680037544427793) (2026-07-28)
 - [timsneath](https://x.com/timsneath/status/2072479088661651612) (2026-07-02)
 - [trq212](https://x.com/trq212/status/2108689101503566319) (2026-10-10)
+- [tylertracy321](https://x.com/tylertracy321/status/2110598651609489889) (2026-10-16)
 - [undefinedKi](https://x.com/undefinedKi/status/2070221446786215970) (2026-06-27)
 - [undefinedKi](https://x.com/undefinedKi/status/2070864207608684800) (2026-06-28)
 - [undefinedKi](https://x.com/undefinedKi/status/2071931934012211642) (2026-07-02)

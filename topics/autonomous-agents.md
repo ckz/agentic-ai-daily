@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-15
-total_mentions: 1461
+last_seen: 2026-10-16
+total_mentions: 1474
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -70,6 +70,7 @@ total_mentions: 1461
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
 - [0xchadx](https://x.com/0xchadx/status/2067862587174244810) (2026-06-19)
 - [0xgilbert](https://x.com/0xgilbert/status/2062624582977179796) (2026-06-06)
+- [0xkichiro](https://x.com/0xkichiro/status/2108538276625658079) (2026-10-16)
 - [0xnicc0](https://x.com/0xnicc0/status/2093312280406397284) (2026-09-04)
 - [0xnicc0](https://x.com/0xnicc0/status/2098465525781217632) (2026-09-13)
 - [0xnicc0](https://x.com/0xnicc0/status/2101358312797171817) (2026-09-21)
@@ -188,6 +189,7 @@ total_mentions: 1461
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2105392625788637299) (2026-10-01)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2107911905822351609) (2026-10-09)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2109697083519447118) (2026-10-13)
+- [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2110893784422908225) (2026-10-16)
 - [Artificialunbox](https://x.com/Artificialunbox/status/2068215362114715908) (2026-06-20)
 - [Aurimas_Gr](https://x.com/Aurimas_Gr/status/2084608000610754903) (2026-08-06)
 - [Ausmi129124](https://x.com/Ausmi129124/status/2068589738534260929) (2026-06-21)
@@ -563,6 +565,7 @@ total_mentions: 1461
 - [RaoulGMI](https://x.com/RaoulGMI/status/2085842971665351165) (2026-08-08)
 - [RaoulGMI](https://x.com/RaoulGMI/status/2091979579363586074) (2026-08-27)
 - [Rawan_INJ](https://x.com/Rawan_INJ/status/2079272865883475988) (2026-07-21)
+- [RayRedacted](https://x.com/RayRedacted/status/2108483392492781823) (2026-10-16)
 - [RegalosDigitals](https://x.com/RegalosDigitals/status/2089474441105260582) (2026-08-23)
 - [Revolt_Fi](https://x.com/Revolt_Fi/status/2079266777163522467) (2026-07-21)
 - [Ric_RTP](https://x.com/Ric_RTP/status/2079941508807921958) (2026-07-23)
@@ -595,6 +598,7 @@ total_mentions: 1461
 - [RuntimeBRT](https://x.com/RuntimeBRT/status/2084874541864497469) (2026-08-05)
 - [RyanGreenblatt](https://x.com/RyanGreenblatt/status/2092692685224325542) (2026-08-28)
 - [SCR01111](https://x.com/SCR01111/status/2090062553917603949) (2026-08-20)
+- [SUOHA_AI](https://x.com/SUOHA_AI/status/2110614394551906648) (2026-10-16)
 - [Saasnext_db](https://x.com/Saasnext_db/status/2080867659244347837) (2026-07-25)
 - [Safevano](https://x.com/Safevano/status/2087600615098601954) (2026-08-14)
 - [SaidAitmbarek](https://x.com/SaidAitmbarek/status/2066430249986908341) (2026-06-15)
@@ -605,6 +609,7 @@ total_mentions: 1461
 - [Sau5ai](https://x.com/Sau5ai/status/2068580594448261325) (2026-06-21)
 - [SaurabhDub28465](https://x.com/SaurabhDub28465/status/2063452536972124604) (2026-06-07)
 - [SawyerMerritt](https://x.com/SawyerMerritt/status/2071002354636202324) (2026-07-03)
+- [SciFi](https://x.com/SciFi/status/2110997214726123929) (2026-10-16)
 - [SciTechera](https://x.com/SciTechera/status/2078618875412017651) (2026-07-20)
 - [SciTechera](https://x.com/SciTechera/status/2087580473560269065) (2026-08-16)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
@@ -715,6 +720,7 @@ total_mentions: 1461
 - [Yaki_fomoArt](https://x.com/Yaki_fomoArt/status/2079623049037701529) (2026-07-26)
 - [YorichiiCrypto](https://x.com/YorichiiCrypto/status/2107563475555823957) (2026-10-07)
 - [Yosefphr](https://x.com/Yosefphr/status/2094074224839102549) (2026-09-01)
+- [Yudhaweelah](https://x.com/Yudhaweelah/status/2110986745760428167) (2026-10-16)
 - [Zai_org](https://x.com/Zai_org/status/2066938937344495629) (2026-06-20)
 - [Zainabiliyasu10](https://x.com/Zainabiliyasu10/status/2099324482468958581) (2026-09-19)
 - [ZaraAi56190](https://x.com/ZaraAi56190/status/2108372681808924831) (2026-10-11)
@@ -845,6 +851,7 @@ total_mentions: 1461
 - [bl888m_eth](https://x.com/bl888m_eth/status/2093383311859372096) (2026-08-31)
 - [bl888m_eth](https://x.com/bl888m_eth/status/2094452487059353864) (2026-09-03)
 - [bl888m_eth](https://x.com/bl888m_eth/status/2103889427496124849) (2026-09-28)
+- [blocks_ai_](https://x.com/blocks_ai_/status/2110953639258865872) (2026-10-16)
 - [bondaicommunity](https://x.com/bondaicommunity/status/2071466190359220413) (2026-06-29)
 - [bonduelleioat](https://x.com/bonduelleioat/status/2075607394428617199) (2026-07-13)
 - [bonsaixbt](https://x.com/bonsaixbt/status/2077722769194615193) (2026-07-17)
@@ -877,6 +884,7 @@ total_mentions: 1461
 - [clapilot](https://x.com/clapilot/status/2063509258461642879) (2026-06-07)
 - [clapilot](https://x.com/clapilot/status/2063510331716952191) (2026-06-07)
 - [claudeai](https://x.com/claudeai/status/2072017450611142835) (2026-07-01)
+- [claudia_onchain](https://x.com/claudia_onchain/status/2110926159437287706) (2026-10-16)
 - [clawpumptech](https://x.com/clawpumptech/status/2044511364610134484) (2026-06-11)
 - [clcoding](https://x.com/clcoding/status/2065293016206802965) (2026-06-12)
 - [cletusEllijah](https://x.com/cletusEllijah/status/2068208482747117709) (2026-06-20)
@@ -892,6 +900,7 @@ total_mentions: 1461
 - [codewithimanshu](https://x.com/codewithimanshu/status/2086634789801730391) (2026-08-10)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2102949092972482668) (2026-09-25)
 - [codyschneider](https://x.com/codyschneider/status/2081817171202920732) (2026-08-02)
+- [cognition](https://x.com/cognition/status/1767548763134964000) (2026-10-16)
 - [cohere](https://x.com/cohere/status/2064378058329526556) (2026-06-12)
 - [coinbureau](https://x.com/coinbureau/status/2031222262112858286) (2026-06-09)
 - [composio](https://x.com/composio/status/2085330847951970801) (2026-08-07)
@@ -1112,6 +1121,7 @@ total_mentions: 1461
 - [jeffhollan](https://x.com/jeffhollan/status/2099222521451311254) (2026-09-14)
 - [jerryjliu0](https://x.com/jerryjliu0/status/2082673383255216356) (2026-07-31)
 - [jerryjliu0](https://x.com/jerryjliu0/status/2091564183922077885) (2026-08-24)
+- [jianw851](https://x.com/jianw851/status/2110416839234982181) (2026-10-16)
 - [jiayq](https://x.com/jiayq/status/2082135245776920681) (2026-07-29)
 - [johniosifov](https://x.com/johniosifov/status/2081806958667960770) (2026-07-28)
 - [jpschroeder](https://x.com/jpschroeder/status/2085099179110703584) (2026-08-06)
@@ -1234,6 +1244,7 @@ total_mentions: 1461
 - [o_kwasniewski](https://x.com/o_kwasniewski/status/2105675143464763540) (2026-10-02)
 - [obscaries](https://x.com/obscaries/status/2066019802016354811) (2026-06-14)
 - [officialbunnyos](https://x.com/officialbunnyos/status/2089938164916060444) (2026-08-19)
+- [okto_andre](https://x.com/okto_andre/status/2110976815984685172) (2026-10-16)
 - [oleg_murk](https://x.com/oleg_murk/status/2099652501645775041) (2026-09-16)
 - [olesovhcom](https://x.com/olesovhcom/status/2067840948797624766) (2026-06-19)
 - [ollama](https://x.com/ollama/status/2066949797316350361) (2026-06-19)
@@ -1323,6 +1334,7 @@ total_mentions: 1461
 - [sauda_coder](https://x.com/sauda_coder/status/2085057854730600823) (2026-08-09)
 - [sauda_coder](https://x.com/sauda_coder/status/2087019793279041844) (2026-08-14)
 - [sauda_coder](https://x.com/sauda_coder/status/2100195671039160435) (2026-09-18)
+- [saudaziz](https://x.com/saudaziz/status/2110905004127408400) (2026-10-16)
 - [seeconvm](https://x.com/seeconvm/status/2096406550839537729) (2026-09-07)
 - [semrush](https://x.com/semrush/status/2107038587866804617) (2026-10-07)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
@@ -1460,6 +1472,7 @@ total_mentions: 1461
 - [xoggai](https://x.com/xoggai/status/2071621434619957408) (2026-06-30)
 - [yabebets](https://x.com/yabebets/status/2109566114426732649) (2026-10-15)
 - [yacineMTB](https://x.com/yacineMTB/status/2083360208403767762) (2026-08-06)
+- [yz_aisdr](https://x.com/yz_aisdr/status/2110732455330103726) (2026-10-16)
 - [zachdotai](https://x.com/zachdotai/status/2098474668474896872) (2026-09-17)
 - [zackpaid](https://x.com/zackpaid/status/2065125827864678420) (2026-06-12)
 - [zcode_ai](https://x.com/zcode_ai/status/2092635718766215590) (2026-08-27)

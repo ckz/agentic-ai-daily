@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-15
-total_mentions: 568
+last_seen: 2026-10-16
+total_mentions: 573
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -228,6 +228,7 @@ total_mentions: 568
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2104167920305889593) (2026-09-28)
 - [Rukkssss__](https://x.com/Rukkssss__/status/2068218163414642701) (2026-06-20)
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2063086140799012963) (2026-06-06)
+- [SciFi](https://x.com/SciFi/status/2110997214726123929) (2026-10-16)
 - [SciTechera](https://x.com/SciTechera/status/2087580473560269065) (2026-08-16)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
 - [Seltaa_](https://x.com/Seltaa_/status/2088353576259314024) (2026-08-19)
@@ -394,6 +395,7 @@ total_mentions: 568
 - [ethereum](https://x.com/ethereum/status/2079217433059996150) (2026-07-23)
 - [evanderburg](https://x.com/evanderburg/status/2087412401717359059) (2026-08-12)
 - [fin465](https://x.com/fin465/status/2080155147385102375) (2026-07-25)
+- [georgedavis_144](https://x.com/georgedavis_144/status/2110946857736372721) (2026-10-16)
 - [gippp69](https://x.com/gippp69/status/2088943002467115352) (2026-08-17)
 - [googlecloud](https://x.com/googlecloud/status/2063244517575200828) (2026-06-09)
 - [googlecloud](https://x.com/googlecloud/status/2064505329006653571) (2026-06-10)
@@ -448,6 +450,7 @@ total_mentions: 568
 - [mardehaym](https://x.com/mardehaym/status/2090391915296444482) (2026-08-23)
 - [mardehaym](https://x.com/mardehaym/status/2091963865718231069) (2026-08-31)
 - [mardehaym](https://x.com/mardehaym/status/2093275568858874144) (2026-08-31)
+- [mardehaym](https://x.com/mardehaym/status/2110705357492203564) (2026-10-16)
 - [marfinxx](https://x.com/marfinxx/status/2086785974470668775) (2026-08-11)
 - [marfinxx](https://x.com/marfinxx/status/2088756456661401946) (2026-08-16)
 - [marfinxx](https://x.com/marfinxx/status/2090409251940319349) (2026-08-21)
@@ -485,6 +488,7 @@ total_mentions: 568
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)
 - [rewind02](https://x.com/rewind02/status/2083141563077574747) (2026-08-05)
 - [ridark_eth](https://x.com/ridark_eth/status/2090910472853762491) (2026-08-27)
+- [ridark_eth](https://x.com/ridark_eth/status/2108901972359131624) (2026-10-16)
 - [rileybrown](https://x.com/rileybrown/status/2087235887012749383) (2026-08-15)
 - [rileybrown](https://x.com/rileybrown/status/2092644889762599281) (2026-08-28)
 - [rileybrown](https://x.com/rileybrown/status/2101027402369335382) (2026-09-19)
@@ -508,6 +512,7 @@ total_mentions: 568
 - [sauda_coder](https://x.com/sauda_coder/status/2099333079567671797) (2026-09-16)
 - [sauda_coder](https://x.com/sauda_coder/status/2100195671039160435) (2026-09-18)
 - [sauda_coder](https://x.com/sauda_coder/status/2100421722629722256) (2026-09-18)
+- [saudaziz](https://x.com/saudaziz/status/2110905004127408400) (2026-10-16)
 - [seeconvm](https://x.com/seeconvm/status/2087453527190745345) (2026-08-13)
 - [seelffff](https://x.com/seelffff/status/2071118707405816250) (2026-06-29)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)

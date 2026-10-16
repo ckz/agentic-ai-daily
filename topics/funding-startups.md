@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-15
-total_mentions: 708
+last_seen: 2026-10-16
+total_mentions: 722
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
@@ -26,8 +26,10 @@ total_mentions: 708
 - [AOC](https://x.com/AOC/status/1145766311794040834) (2026-10-01)
 - [AOC](https://x.com/AOC/status/1310384989524185093) (2026-10-01)
 - [AbdulElSayed](https://x.com/AbdulElSayed/status/2105317680643182735) (2026-10-01)
+- [AbdullahMashat](https://x.com/AbdullahMashat/status/2110993741100036220) (2026-10-16)
 - [AdityaShipsHQ](https://x.com/AdityaShipsHQ/status/2107796573552062478) (2026-10-09)
 - [AgentChud](https://x.com/AgentChud/status/2096259218835718273) (2026-09-06)
+- [AggrNews](https://x.com/AggrNews/status/2110911030905692537) (2026-10-16)
 - [AiEvolutio58513](https://x.com/AiEvolutio58513/status/2107471089215721965) (2026-10-11)
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
 - [AlexMasonCrypto](https://x.com/AlexMasonCrypto/status/2090133773081854263) (2026-08-22)
@@ -84,6 +86,7 @@ total_mentions: 708
 - [DavidayoAI](https://x.com/DavidayoAI/status/2091956043240599821) (2026-08-26)
 - [DeRonin_](https://x.com/DeRonin_/status/2087555554830852538) (2026-08-14)
 - [DemoRestored](https://x.com/DemoRestored/status/2105350061509185900) (2026-10-07)
+- [DerrickEvans4WV](https://x.com/DerrickEvans4WV/status/1857121499158618577) (2026-10-16)
 - [DevanshuXi](https://x.com/DevanshuXi/status/2094134298266026161) (2026-09-02)
 - [Dhruvam987](https://x.com/Dhruvam987/status/2067811478485582025) (2026-06-19)
 - [Dylan_txa_](https://x.com/Dylan_txa_/status/2095140253149352266) (2026-09-03)
@@ -222,6 +225,7 @@ total_mentions: 708
 - [SenMikeLee](https://x.com/SenMikeLee/status/2077145376960741857) (2026-07-18)
 - [SenSanders](https://x.com/SenSanders/status/2099182729048830438) (2026-09-14)
 - [ShaanVP](https://x.com/ShaanVP/status/2062657552220119538) (2026-06-07)
+- [ShadowofEzra](https://x.com/ShadowofEzra/status/1966482501255262285) (2026-10-16)
 - [SharmaShradha](https://x.com/SharmaShradha/status/2098317823999398206) (2026-09-11)
 - [Sheema_bakhtiar](https://x.com/Sheema_bakhtiar/status/2064945268563546427) (2026-06-11)
 - [Sherl2718](https://x.com/Sherl2718/status/2100323661542494278) (2026-09-20)
@@ -229,6 +233,7 @@ total_mentions: 708
 - [SpamRoss](https://x.com/SpamRoss/status/2102750773612253585) (2026-09-26)
 - [Spec__Tech](https://x.com/Spec__Tech/status/2107121832440812029) (2026-10-06)
 - [SpikeCalls](https://x.com/SpikeCalls/status/2063529090091532540) (2026-06-08)
+- [StandUpForTrmp](https://x.com/StandUpForTrmp/status/2008584445629272250) (2026-10-16)
 - [StartupArchive_](https://x.com/StartupArchive_/status/2061052571876520406) (2026-06-07)
 - [Steve8708](https://x.com/Steve8708/status/2041909436059615442) (2026-06-06)
 - [StockSavvyShay](https://x.com/StockSavvyShay/status/2106121027948605702) (2026-10-04)
@@ -268,6 +273,7 @@ total_mentions: 708
 - [WatcherGuru](https://x.com/WatcherGuru/status/2066844381504561211) (2026-06-20)
 - [WatcherGuru](https://x.com/WatcherGuru/status/2079691556072616413) (2026-07-24)
 - [WhaleInsider](https://x.com/WhaleInsider/status/2082791770182586833) (2026-08-02)
+- [WhiteHouse45](https://x.com/WhiteHouse45/status/1250194670031974400) (2026-10-16)
 - [Wuwaika90](https://x.com/Wuwaika90/status/2098304150538731650) (2026-09-11)
 - [XFreeze](https://x.com/XFreeze/status/2071993098641756518) (2026-07-06)
 - [XFreeze](https://x.com/XFreeze/status/2072891163502080053) (2026-07-06)
@@ -411,6 +417,11 @@ total_mentions: 708
 - [edinsoncode](https://x.com/edinsoncode/status/2089677825125368297) (2026-08-19)
 - [edinsoncode](https://x.com/edinsoncode/status/2101265656498782671) (2026-09-20)
 - [egraciani](https://x.com/egraciani/status/2096244534422253635) (2026-09-06)
+- [elonmusk](https://x.com/elonmusk/status/1895402040400212271) (2026-10-16)
+- [elonmusk](https://x.com/elonmusk/status/1901651592119476509) (2026-10-16)
+- [elonmusk](https://x.com/elonmusk/status/1906229604798312777) (2026-10-16)
+- [elonmusk](https://x.com/elonmusk/status/1979524331429335297) (2026-10-16)
+- [elonmusk](https://x.com/elonmusk/status/2010436428577313127) (2026-10-16)
 - [elonmusk](https://x.com/elonmusk/status/2063319907849093544) (2026-06-12)
 - [elonmusk](https://x.com/elonmusk/status/2071652181854343349) (2026-07-04)
 - [elonmusk](https://x.com/elonmusk/status/2071673460779041155) (2026-07-02)
@@ -551,6 +562,7 @@ total_mentions: 708
 - [neerajjj6785](https://x.com/neerajjj6785/status/2088897032283181080) (2026-08-17)
 - [nextjs](https://x.com/nextjs/status/2071647669467201657) (2026-07-02)
 - [nick_realm_01](https://x.com/nick_realm_01/status/2110215203506037029) (2026-10-14)
+- [nickshirleyy](https://x.com/nickshirleyy/status/2005557376288784872) (2026-10-16)
 - [nicochristie](https://x.com/nicochristie/status/2093729344871170219) (2026-08-30)
 - [noah_schochet](https://x.com/noah_schochet/status/2077044441978737104) (2026-07-17)
 - [ns123abc](https://x.com/ns123abc/status/2108070503931936780) (2026-10-09)
@@ -623,6 +635,7 @@ total_mentions: 708
 - [sflorimm](https://x.com/sflorimm/status/2087060630696042736) (2026-08-14)
 - [sfstandard](https://x.com/sfstandard/status/2104769166087426388) (2026-10-01)
 - [shmidtqq](https://x.com/shmidtqq/status/2074446282303639911) (2026-07-09)
+- [shubgaur](https://x.com/shubgaur/status/2110959845302235208) (2026-10-16)
 - [siddharthwv](https://x.com/siddharthwv/status/2097921094858731836) (2026-09-12)
 - [signulll](https://x.com/signulll/status/2064053145580278163) (2026-06-09)
 - [sillymusicqueen](https://x.com/sillymusicqueen/status/2098234005975961741) (2026-09-11)
@@ -655,6 +668,7 @@ total_mentions: 708
 - [techsaleshackz](https://x.com/techsaleshackz/status/2094910371337244877) (2026-09-02)
 - [tednotlasso](https://x.com/tednotlasso/status/2081022216381305275) (2026-07-28)
 - [tekbog](https://x.com/tekbog/status/2082787768162550105) (2026-08-02)
+- [thatgeminibloom](https://x.com/thatgeminibloom/status/2050449909006975103) (2026-10-16)
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)
 - [theaiportfolios](https://x.com/theaiportfolios/status/2074195013257273580) (2026-07-13)
 - [thechangj](https://x.com/thechangj/status/2109755308528762896) (2026-10-13)
