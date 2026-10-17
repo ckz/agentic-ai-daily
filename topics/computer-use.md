@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-10-16
-total_mentions: 160
+last_seen: 2026-10-17
+total_mentions: 162
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -49,6 +49,7 @@ total_mentions: 160
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2090382081209909576) (2026-08-26)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2103533741251416342) (2026-09-26)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2106319598492545245) (2026-10-05)
+- [RoundtableSpace](https://x.com/RoundtableSpace/status/2109966127111540755) (2026-10-17)
 - [SamSokolin](https://x.com/SamSokolin/status/2094824011427373415) (2026-09-03)
 - [SimularAI](https://x.com/SimularAI/status/2093009990663434361) (2026-08-28)
 - [SimularAI](https://x.com/SimularAI/status/2107168861388980400) (2026-10-08)
@@ -153,6 +154,7 @@ total_mentions: 160
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095859430776533318) (2026-09-06)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2107327491702509755) (2026-10-09)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2109977469927244158) (2026-10-17)
 - [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)
 - [sxhivs](https://x.com/sxhivs/status/2101729362194432184) (2026-09-21)
 - [trycua](https://x.com/trycua/status/2100649543079502213) (2026-09-20)

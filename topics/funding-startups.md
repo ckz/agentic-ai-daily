@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-16
-total_mentions: 722
+last_seen: 2026-10-17
+total_mentions: 727
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
@@ -212,6 +212,7 @@ total_mentions: 722
 - [RonWyden](https://x.com/RonWyden/status/2100607347739578597) (2026-09-23)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2032664263882674275) (2026-06-09)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2096844664980832620) (2026-09-07)
+- [RoundtableSpace](https://x.com/RoundtableSpace/status/2109966127111540755) (2026-10-17)
 - [RuntimeBRT](https://x.com/RuntimeBRT/status/2063848536958288128) (2026-06-10)
 - [RuntimeBRT](https://x.com/RuntimeBRT/status/2084874541864497469) (2026-08-05)
 - [RussellQuantum](https://x.com/RussellQuantum/status/2107291655795548493) (2026-10-07)
@@ -224,6 +225,7 @@ total_mentions: 722
 - [SenAshleyMoody](https://x.com/SenAshleyMoody/status/2086020042362167308) (2026-08-11)
 - [SenMikeLee](https://x.com/SenMikeLee/status/2077145376960741857) (2026-07-18)
 - [SenSanders](https://x.com/SenSanders/status/2099182729048830438) (2026-09-14)
+- [SenSanders](https://x.com/SenSanders/status/2111101909440319704) (2026-10-17)
 - [ShaanVP](https://x.com/ShaanVP/status/2062657552220119538) (2026-06-07)
 - [ShadowofEzra](https://x.com/ShadowofEzra/status/1966482501255262285) (2026-10-16)
 - [SharmaShradha](https://x.com/SharmaShradha/status/2098317823999398206) (2026-09-11)
@@ -282,6 +284,7 @@ total_mentions: 722
 - [XFreeze](https://x.com/XFreeze/status/2108780374851793006) (2026-10-10)
 - [XammieCrypt](https://x.com/XammieCrypt/status/2100356306632691984) (2026-09-23)
 - [YhungProf0](https://x.com/YhungProf0/status/2071829780270391531) (2026-07-02)
+- [YugoEnjoyer](https://x.com/YugoEnjoyer/status/2109992334448382282) (2026-10-17)
 - [_baretto](https://x.com/_baretto/status/2096899523289522416) (2026-09-08)
 - [_melgibson1_](https://x.com/_melgibson1_/status/2104597566910353428) (2026-10-01)
 - [_poolday_](https://x.com/_poolday_/status/2065097298946777226) (2026-06-12)
@@ -554,6 +557,7 @@ total_mentions: 722
 - [milesdeutscher](https://x.com/milesdeutscher/status/2070112027780280630) (2026-06-27)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2095409961958514851) (2026-09-03)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2100041731614150901) (2026-09-16)
+- [mitchellsniffle](https://x.com/mitchellsniffle/status/2108954459308978613) (2026-10-17)
 - [moneyacademyKE](https://x.com/moneyacademyKE/status/2080286044813926579) (2026-07-29)
 - [mpopv](https://x.com/mpopv/status/2101308984791798189) (2026-09-21)
 - [mr_bailando](https://x.com/mr_bailando/status/2086142677360226342) (2026-08-09)
@@ -643,6 +647,7 @@ total_mentions: 722
 - [singularityhack](https://x.com/singularityhack/status/2079237150764134528) (2026-07-22)
 - [skeptrune](https://x.com/skeptrune/status/2092294676594471062) (2026-08-27)
 - [slash1sol](https://x.com/slash1sol/status/2033636802855374982) (2026-06-13)
+- [snskritinaruka](https://x.com/snskritinaruka/status/2110310476332871763) (2026-10-17)
 - [solovaultinfo](https://x.com/solovaultinfo/status/2068553835598241965) (2026-06-21)
 - [soundboy](https://x.com/soundboy/status/2097607789929443537) (2026-09-10)
 - [spaceandtech_](https://x.com/spaceandtech_/status/2087905670595223735) (2026-08-16)

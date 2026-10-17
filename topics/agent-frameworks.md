@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-16
-total_mentions: 573
+last_seen: 2026-10-17
+total_mentions: 578
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -106,6 +106,7 @@ total_mentions: 573
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2094528029724950563) (2026-09-03)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2096990554529955934) (2026-09-13)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2098120874524389776) (2026-09-13)
+- [DrJimFan](https://x.com/DrJimFan/status/2111128797181567466) (2026-10-17)
 - [EmmanuelInvest](https://x.com/EmmanuelInvest/status/2076724041302319246) (2026-07-14)
 - [EthenaFndtn](https://x.com/EthenaFndtn/status/2092976592738001383) (2026-08-28)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
@@ -206,6 +207,7 @@ total_mentions: 573
 - [PalantirTech](https://x.com/PalantirTech/status/2077032712578199604) (2026-07-15)
 - [Peevibes007](https://x.com/Peevibes007/status/2047915508260073869) (2026-07-26)
 - [Priyannkaaaa](https://x.com/Priyannkaaaa/status/2083851157324046649) (2026-08-03)
+- [Promixyz](https://x.com/Promixyz/status/2110310642422780309) (2026-10-17)
 - [PyTorch](https://x.com/PyTorch/status/2086817394010280372) (2026-08-11)
 - [PythonDvz](https://x.com/PythonDvz/status/2063623261678698575) (2026-06-10)
 - [PythonDvz](https://x.com/PythonDvz/status/2099725396895727629) (2026-09-17)
@@ -382,11 +384,13 @@ total_mentions: 573
 - [dotta](https://x.com/dotta/status/2077029848602874009) (2026-07-15)
 - [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
 - [dr_cintas](https://x.com/dr_cintas/status/2082568767586894179) (2026-07-31)
+- [du_yilun](https://x.com/du_yilun/status/2111143189222404427) (2026-10-17)
 - [e4ma_officiall](https://x.com/e4ma_officiall/status/2102372289383661675) (2026-09-24)
 - [e_opore](https://x.com/e_opore/status/2073977846448451776) (2026-07-06)
 - [e_opore](https://x.com/e_opore/status/2077277237334757636) (2026-07-16)
 - [e_opore](https://x.com/e_opore/status/2077591797727887532) (2026-07-22)
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
+- [e_opore](https://x.com/e_opore/status/2109509666392707497) (2026-10-17)
 - [ecomchigga](https://x.com/ecomchigga/status/2065176267637297566) (2026-06-13)
 - [ekkostudio](https://x.com/ekkostudio/status/2107329859580047871) (2026-10-06)
 - [elizaOS](https://x.com/elizaOS/status/1874223078403682672) (2026-07-10)
@@ -541,6 +545,7 @@ total_mentions: 573
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2078449718414180393) (2026-07-19)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095491337651179621) (2026-09-04)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2098026202464243908) (2026-09-12)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2109977469927244158) (2026-10-17)
 - [techNmak](https://x.com/techNmak/status/2090689729461411951) (2026-08-25)
 - [techNmak](https://x.com/techNmak/status/2091434187446439969) (2026-08-24)
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)

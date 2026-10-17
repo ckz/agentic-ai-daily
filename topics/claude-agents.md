@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-16
-total_mentions: 279
+last_seen: 2026-10-17
+total_mentions: 284
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -109,6 +109,7 @@ total_mentions: 279
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2080046477322105256) (2026-07-23)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2093183037475536942) (2026-08-28)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2109754732529258948) (2026-10-14)
+- [RoundtableSpace](https://x.com/RoundtableSpace/status/2109966127111540755) (2026-10-17)
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2079048442073280524) (2026-07-21)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
 - [Steve8708](https://x.com/Steve8708/status/2077051086234685641) (2026-07-15)
@@ -142,6 +143,7 @@ total_mentions: 279
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2085791632457433119) (2026-08-09)
 - [alex_verem](https://x.com/alex_verem/status/2095920078231625991) (2026-09-10)
 - [alex_verem](https://x.com/alex_verem/status/2096977799873712631) (2026-09-08)
+- [allenanalysis](https://x.com/allenanalysis/status/2048915153895481554) (2026-10-17)
 - [alliekmiller](https://x.com/alliekmiller/status/2064451731325415446) (2026-06-10)
 - [ashtom](https://x.com/ashtom/status/1925597395192357337) (2026-09-04)
 - [atulkumarzz](https://x.com/atulkumarzz/status/2108191514811842742) (2026-10-09)
@@ -260,6 +262,8 @@ total_mentions: 279
 - [shannholmberg](https://x.com/shannholmberg/status/2062652746508173796) (2026-06-06)
 - [shannholmberg](https://x.com/shannholmberg/status/2099166725396922524) (2026-09-16)
 - [sharbel](https://x.com/sharbel/status/2063369348828610886) (2026-06-11)
+- [shikamarutsai](https://x.com/shikamarutsai/status/2110817965658571181) (2026-10-17)
+- [skunzu](https://x.com/skunzu/status/2110808873322123547) (2026-10-17)
 - [slash1sol](https://x.com/slash1sol/status/2109269883888246926) (2026-10-12)
 - [sohmehta](https://x.com/sohmehta/status/2097374528175526083) (2026-09-15)
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
@@ -270,6 +274,7 @@ total_mentions: 279
 - [tanayj](https://x.com/tanayj/status/2072108170080657729) (2026-07-01)
 - [tetsuoai](https://x.com/tetsuoai/status/2098199890237247578) (2026-09-11)
 - [thedelost](https://x.com/thedelost/status/2110472847084650726) (2026-10-16)
+- [thegreatest_sv](https://x.com/thegreatest_sv/status/2111113436314648758) (2026-10-17)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2081680037544427793) (2026-07-28)
 - [timsneath](https://x.com/timsneath/status/2072479088661651612) (2026-07-02)

@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-16
-total_mentions: 193
+last_seen: 2026-10-17
+total_mentions: 197
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -86,6 +86,7 @@ total_mentions: 193
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2071509401224261823) (2026-06-30)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2085791632457433119) (2026-08-09)
 - [alexandr_wang](https://x.com/alexandr_wang/status/2085081833121935745) (2026-08-15)
+- [allenanalysis](https://x.com/allenanalysis/status/2048915153895481554) (2026-10-17)
 - [angeldot_](https://x.com/angeldot_/status/2071697398527881418) (2026-06-30)
 - [antinertia](https://x.com/antinertia/status/1907834094823616629) (2026-06-12)
 - [antpalkin](https://x.com/antpalkin/status/2087616668092801373) (2026-08-14)
@@ -116,10 +117,13 @@ total_mentions: 193
 - [di_zhang_fdu](https://x.com/di_zhang_fdu/status/2096481849937945012) (2026-09-07)
 - [dr_cintas](https://x.com/dr_cintas/status/1912954389221851524) (2026-08-26)
 - [dr_cintas](https://x.com/dr_cintas/status/2040142054211117218) (2026-06-15)
+- [du_yilun](https://x.com/du_yilun/status/2111143189222404427) (2026-10-17)
 - [dzhng](https://x.com/dzhng/status/2103920741481848861) (2026-09-27)
+- [e_opore](https://x.com/e_opore/status/2109509666392707497) (2026-10-17)
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
 - [emmanuel_2m](https://x.com/emmanuel_2m/status/2103097017073361137) (2026-09-25)
 - [ericzakariasson](https://x.com/ericzakariasson/status/2102853511637774551) (2026-09-26)
+- [expo](https://x.com/expo/status/2111093147103310022) (2026-10-17)
 - [finkd](https://x.com/finkd/status/2085080750034940201) (2026-08-06)
 - [firstadopter](https://x.com/firstadopter/status/2110528384807956680) (2026-10-15)
 - [ginacostag_](https://x.com/ginacostag_/status/2107123580672541113) (2026-10-12)
