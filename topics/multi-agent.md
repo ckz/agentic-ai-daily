@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-10-17
-total_mentions: 367
+last_seen: 2026-10-18
+total_mentions: 369
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -277,6 +277,7 @@ total_mentions: 367
 - [kirillk_web3](https://x.com/kirillk_web3/status/2090621157087064304) (2026-08-24)
 - [leanpub](https://x.com/leanpub/status/2065188595590209868) (2026-06-12)
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
+- [levie](https://x.com/levie/status/2110622982762803449) (2026-10-18)
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2073646837894992126) (2026-07-05)
 - [marfinxx](https://x.com/marfinxx/status/2083523471846281590) (2026-08-02)
 - [marfinxx](https://x.com/marfinxx/status/2090409251940319349) (2026-08-21)
@@ -294,6 +295,7 @@ total_mentions: 367
 - [mirku21](https://x.com/mirku21/status/2106127135278612573) (2026-10-08)
 - [mirku21](https://x.com/mirku21/status/2107939129736700335) (2026-10-09)
 - [mirku21](https://x.com/mirku21/status/2108301507955396970) (2026-10-11)
+- [mirku21](https://x.com/mirku21/status/2110838213988532675) (2026-10-18)
 - [monokern](https://x.com/monokern/status/2088233393817288974) (2026-08-21)
 - [nabeelqu](https://x.com/nabeelqu/status/2094208251688595676) (2026-09-06)
 - [neviannn](https://x.com/neviannn/status/2087254502210490739) (2026-08-13)

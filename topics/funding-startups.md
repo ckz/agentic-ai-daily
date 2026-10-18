@@ -1,17 +1,20 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-17
-total_mentions: 727
+last_seen: 2026-10-18
+total_mentions: 735
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
 - [0x_rody](https://x.com/0x_rody/status/2102403963865759871) (2026-09-24)
 - [0x_rody](https://x.com/0x_rody/status/2106413848982880695) (2026-10-04)
+- [0x_zoda](https://x.com/0x_zoda/status/2111666133845594507) (2026-10-18)
 - [0xmarginman](https://x.com/0xmarginman/status/2093147453058863316) (2026-08-30)
 - [0xvietnguyen](https://x.com/0xvietnguyen/status/2088504476865081410) (2026-08-21)
 - [16vchq](https://x.com/16vchq/status/2109872657021952438) (2026-10-13)
+- [16vchq](https://x.com/16vchq/status/2111452434107334943) (2026-10-18)
+- [3blue1brown](https://x.com/3blue1brown/status/2111135480116850944) (2026-10-18)
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
 - [5eniorDeveloper](https://x.com/5eniorDeveloper/status/2097029277434757251) (2026-09-08)
 - [5harath](https://x.com/5harath/status/2082161680516063294) (2026-07-29)
@@ -34,6 +37,7 @@ total_mentions: 727
 - [Alan_Earn](https://x.com/Alan_Earn/status/2063516737908457584) (2026-06-07)
 - [AlexMasonCrypto](https://x.com/AlexMasonCrypto/status/2090133773081854263) (2026-08-22)
 - [Alexkphillips](https://x.com/Alexkphillips/status/2099142554407051336) (2026-09-14)
+- [AlfiFromToasty](https://x.com/AlfiFromToasty/status/2111438352214086019) (2026-10-18)
 - [AlphaCapitalUK](https://x.com/AlphaCapitalUK/status/2079957138730848366) (2026-07-25)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2079915295230038426) (2026-07-23)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2088330041289494736) (2026-08-17)
@@ -85,6 +89,7 @@ total_mentions: 727
 - [Dan_Jeffries1](https://x.com/Dan_Jeffries1/status/2102813387176501568) (2026-09-30)
 - [DavidayoAI](https://x.com/DavidayoAI/status/2091956043240599821) (2026-08-26)
 - [DeRonin_](https://x.com/DeRonin_/status/2087555554830852538) (2026-08-14)
+- [DeRonin_](https://x.com/DeRonin_/status/2110756838354596023) (2026-10-18)
 - [DemoRestored](https://x.com/DemoRestored/status/2105350061509185900) (2026-10-07)
 - [DerrickEvans4WV](https://x.com/DerrickEvans4WV/status/1857121499158618577) (2026-10-16)
 - [DevanshuXi](https://x.com/DevanshuXi/status/2094134298266026161) (2026-09-02)
@@ -495,6 +500,7 @@ total_mentions: 727
 - [jackkuveke](https://x.com/jackkuveke/status/2098414956454568307) (2026-09-13)
 - [james406](https://x.com/james406/status/2055362680299434300) (2026-06-09)
 - [jamonholmgren](https://x.com/jamonholmgren/status/2098235125419135339) (2026-09-11)
+- [jarrodwatts](https://x.com/jarrodwatts/status/2111284112011194846) (2026-10-18)
 - [jason_coder0](https://x.com/jason_coder0/status/2072219162135666801) (2026-07-01)
 - [jesseRoss597206](https://x.com/jesseRoss597206/status/2109324533911961739) (2026-10-13)
 - [jiahanjimliu](https://x.com/jiahanjimliu/status/2075804539111043085) (2026-07-11)
@@ -523,6 +529,7 @@ total_mentions: 727
 - [kseniam0s](https://x.com/kseniam0s/status/2106788298240729286) (2026-10-05)
 - [kseniam0s](https://x.com/kseniam0s/status/2107498859341439133) (2026-10-07)
 - [kseniam0s](https://x.com/kseniam0s/status/2110457139072229807) (2026-10-15)
+- [kseniam0s](https://x.com/kseniam0s/status/2111472765878325355) (2026-10-18)
 - [lami_thefirst](https://x.com/lami_thefirst/status/2097224273853129017) (2026-09-08)
 - [launchwhasmik](https://x.com/launchwhasmik/status/2104542307680719043) (2026-10-02)
 - [levelsio](https://x.com/levelsio/status/2102739359715774665) (2026-09-25)
@@ -713,6 +720,7 @@ total_mentions: 727
 - [wh0sumit](https://x.com/wh0sumit/status/2096847253550063656) (2026-09-07)
 - [wickedguro](https://x.com/wickedguro/status/2072654822449586327) (2026-07-09)
 - [wickedguro](https://x.com/wickedguro/status/2081582808041210156) (2026-07-27)
+- [witcheer](https://x.com/witcheer/status/2111052463058899099) (2026-10-18)
 - [wizaj](https://x.com/wizaj/status/2109060277371093274) (2026-10-13)
 - [wonderful_ai](https://x.com/wonderful_ai/status/2095125312929464388) (2026-09-03)
 - [x_belous](https://x.com/x_belous/status/2098161848482697302) (2026-09-11)

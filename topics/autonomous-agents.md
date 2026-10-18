@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-17
-total_mentions: 1491
+last_seen: 2026-10-18
+total_mentions: 1500
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -68,6 +68,7 @@ total_mentions: 1491
 - [0xSlyth](https://x.com/0xSlyth/status/2070124131207860577) (2026-06-27)
 - [0x_aster](https://x.com/0x_aster/status/2106467164408758656) (2026-10-06)
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
+- [0x_zoda](https://x.com/0x_zoda/status/2111666133845594507) (2026-10-18)
 - [0xchadx](https://x.com/0xchadx/status/2067862587174244810) (2026-06-19)
 - [0xgilbert](https://x.com/0xgilbert/status/2062624582977179796) (2026-06-06)
 - [0xkichiro](https://x.com/0xkichiro/status/2108538276625658079) (2026-10-16)
@@ -131,6 +132,7 @@ total_mentions: 1491
 - [AlexFinn](https://x.com/AlexFinn/status/2007945660281360552) (2026-09-28)
 - [AlexFinn](https://x.com/AlexFinn/status/2109817698620485804) (2026-10-14)
 - [AlexFinn](https://x.com/AlexFinn/status/2110181971280433613) (2026-10-14)
+- [AlexRiad84837](https://x.com/AlexRiad84837/status/2111463390233432181) (2026-10-18)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2072719153107001836) (2026-07-03)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2076720209293893677) (2026-07-14)
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2069720365442719867) (2026-06-27)
@@ -147,6 +149,7 @@ total_mentions: 1491
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2087236395425284481) (2026-08-12)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2088684163167670725) (2026-08-16)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2092673893253226866) (2026-08-27)
+- [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2111525712578429081) (2026-10-18)
 - [AndrewBolis](https://x.com/AndrewBolis/status/2089672416847126974) (2026-08-23)
 - [AndrewBolis](https://x.com/AndrewBolis/status/2109241359278477749) (2026-10-15)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2062245225159111117) (2026-06-06)
@@ -220,6 +223,7 @@ total_mentions: 1491
 - [Bober_smart](https://x.com/Bober_smart/status/2095479502172295378) (2026-09-04)
 - [Bober_smart](https://x.com/Bober_smart/status/2096256460661358995) (2026-09-06)
 - [Bober_smart](https://x.com/Bober_smart/status/2106444298849796475) (2026-10-04)
+- [Bober_smart](https://x.com/Bober_smart/status/2109634030035501079) (2026-10-18)
 - [Bober_smart](https://x.com/Bober_smart/status/2110711776799011262) (2026-10-17)
 - [BradGroux](https://x.com/BradGroux/status/2065096482831659348) (2026-06-13)
 - [BradfordHuber4](https://x.com/BradfordHuber4/status/2095221538979188899) (2026-09-05)
@@ -600,6 +604,7 @@ total_mentions: 1491
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2098060174460424208) (2026-09-11)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2104167920305889593) (2026-09-28)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2109966127111540755) (2026-10-17)
+- [Rumii_404](https://x.com/Rumii_404/status/2110302928624091316) (2026-10-18)
 - [RuntimeBRT](https://x.com/RuntimeBRT/status/2084874541864497469) (2026-08-05)
 - [RyanGreenblatt](https://x.com/RyanGreenblatt/status/2092692685224325542) (2026-08-28)
 - [SCR01111](https://x.com/SCR01111/status/2090062553917603949) (2026-08-20)
@@ -960,6 +965,7 @@ total_mentions: 1491
 - [dawnsongtweets](https://x.com/dawnsongtweets/status/2087256652756172834) (2026-08-14)
 - [dawnsongtweets](https://x.com/dawnsongtweets/status/2094208718896558526) (2026-08-31)
 - [deanwball](https://x.com/deanwball/status/2078133895766114412) (2026-07-20)
+- [deanwperkins](https://x.com/deanwperkins/status/2109632626617159826) (2026-10-18)
 - [dee_hw](https://x.com/dee_hw/status/2089388227971219643) (2026-08-18)
 - [dee_naliaks](https://x.com/dee_naliaks/status/2093367019869773895) (2026-08-29)
 - [deepcabinwala](https://x.com/deepcabinwala/status/2107095904474075536) (2026-10-06)
@@ -1224,6 +1230,7 @@ total_mentions: 1491
 - [mirku21](https://x.com/mirku21/status/2105764769479455043) (2026-10-03)
 - [mirku21](https://x.com/mirku21/status/2106127135278612573) (2026-10-08)
 - [mirku21](https://x.com/mirku21/status/2108301507955396970) (2026-10-11)
+- [mirku21](https://x.com/mirku21/status/2110838213988532675) (2026-10-18)
 - [mitchellh](https://x.com/mitchellh/status/2107577887159386152) (2026-10-10)
 - [miyataArcHack](https://x.com/miyataArcHack/status/2100743410076598752) (2026-09-25)
 - [mnadirghafoor](https://x.com/mnadirghafoor/status/2071098524826268063) (2026-06-28)
@@ -1241,6 +1248,7 @@ total_mentions: 1491
 - [nextplayso](https://x.com/nextplayso/status/2079686456101179538) (2026-07-28)
 - [nicbstme](https://x.com/nicbstme/status/2084918378368471150) (2026-08-06)
 - [nichxbt](https://x.com/nichxbt/status/2071763989030478016) (2026-07-01)
+- [nickcammarata](https://x.com/nickcammarata/status/2110757819427574056) (2026-10-18)
 - [nikesharora](https://x.com/nikesharora/status/2097775700627578963) (2026-09-16)
 - [nmkr_io](https://x.com/nmkr_io/status/1857069687034523933) (2026-06-06)
 - [norvex1029](https://x.com/norvex1029/status/2087230353035440452) (2026-08-13)
@@ -1368,6 +1376,7 @@ total_mentions: 1491
 - [sheemamoto](https://x.com/sheemamoto/status/2099571838514864241) (2026-09-15)
 - [sheemamoto](https://x.com/sheemamoto/status/2099962199573754301) (2026-09-19)
 - [sheemamoto](https://x.com/sheemamoto/status/2107220153117393404) (2026-10-12)
+- [sheemamoto](https://x.com/sheemamoto/status/2110507595928666443) (2026-10-18)
 - [sherlockdefi](https://x.com/sherlockdefi/status/2079222748572697080) (2026-07-26)
 - [shikamarutsai](https://x.com/shikamarutsai/status/2088636457938280724) (2026-08-19)
 - [shiqway92](https://x.com/shiqway92/status/2081403424986239014) (2026-07-28)

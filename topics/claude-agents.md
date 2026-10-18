@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-17
-total_mentions: 284
+last_seen: 2026-10-18
+total_mentions: 287
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -209,6 +209,7 @@ total_mentions: 284
 - [gregisenberg](https://x.com/gregisenberg/status/2088988857417044432) (2026-08-17)
 - [gregisenberg](https://x.com/gregisenberg/status/2099202686377742576) (2026-09-15)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
+- [hasantoxr](https://x.com/hasantoxr/status/2110043923121045708) (2026-10-18)
 - [hayatomaruu](https://x.com/hayatomaruu/status/2107560089833849101) (2026-10-07)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [heynavtoor](https://x.com/heynavtoor/status/2083221614595051602) (2026-08-05)
@@ -275,6 +276,7 @@ total_mentions: 284
 - [tetsuoai](https://x.com/tetsuoai/status/2098199890237247578) (2026-09-11)
 - [thedelost](https://x.com/thedelost/status/2110472847084650726) (2026-10-16)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2111113436314648758) (2026-10-17)
+- [thegreatest_sv](https://x.com/thegreatest_sv/status/2111520366791414136) (2026-10-18)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2081680037544427793) (2026-07-28)
 - [timsneath](https://x.com/timsneath/status/2072479088661651612) (2026-07-02)
@@ -289,3 +291,4 @@ total_mentions: 284
 - [vercel_dev](https://x.com/vercel_dev/status/2065509970775519569) (2026-06-13)
 - [virgilxbt](https://x.com/virgilxbt/status/2092605992953332128) (2026-08-27)
 - [virtuals_io](https://x.com/virtuals_io/status/2063654910995145209) (2026-06-11)
+- [zostaff](https://x.com/zostaff/status/2110027184727343589) (2026-10-18)

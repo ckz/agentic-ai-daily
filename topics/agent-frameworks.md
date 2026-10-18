@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-17
-total_mentions: 578
+last_seen: 2026-10-18
+total_mentions: 581
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -45,6 +45,7 @@ total_mentions: 578
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065559824230957190) (2026-06-14)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2076747075036045645) (2026-07-14)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2082991648703930561) (2026-08-05)
+- [Aura_lixx](https://x.com/Aura_lixx/status/2111615210503168164) (2026-10-18)
 - [Av1dlive](https://x.com/Av1dlive/status/2082039763511673129) (2026-07-29)
 - [Av1dlive](https://x.com/Av1dlive/status/2082807521161654576) (2026-07-31)
 - [Av1dlive](https://x.com/Av1dlive/status/2085421980434698739) (2026-08-10)
@@ -462,6 +463,7 @@ total_mentions: 578
 - [marfinxx](https://x.com/marfinxx/status/2096206860781031528) (2026-09-08)
 - [mastra](https://x.com/mastra/status/2062617888478183564) (2026-06-05)
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
+- [mentalium_](https://x.com/mentalium_/status/2110382934720929967) (2026-10-18)
 - [michyexe](https://x.com/michyexe/status/2000613204116844826) (2026-06-15)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2071513914504802525) (2026-07-01)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2080208806043406646) (2026-07-24)
@@ -561,6 +563,7 @@ total_mentions: 578
 - [tom_doerr](https://x.com/tom_doerr/status/2071321553296412706) (2026-07-01)
 - [tom_doerr](https://x.com/tom_doerr/status/2078760579095753125) (2026-07-21)
 - [tomik99](https://x.com/tomik99/status/2090325415038489061) (2026-08-20)
+- [tonysimons](https://x.com/tonysimons/status/2111116095558152231) (2026-10-18)
 - [trikcode](https://x.com/trikcode/status/2084420246039851517) (2026-08-04)
 - [triptitips](https://x.com/triptitips/status/2101682470655758391) (2026-09-21)
 - [triptitips](https://x.com/triptitips/status/2103681542602265021) (2026-09-29)

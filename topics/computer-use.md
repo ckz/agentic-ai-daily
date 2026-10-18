@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-10-17
-total_mentions: 162
+last_seen: 2026-10-18
+total_mentions: 163
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -120,6 +120,7 @@ total_mentions: 162
 - [jxnlco](https://x.com/jxnlco/status/2070577704752267321) (2026-06-27)
 - [kylejeong](https://x.com/kylejeong/status/2098478826464702556) (2026-09-14)
 - [latentspacepod](https://x.com/latentspacepod/status/2105442037042663491) (2026-10-01)
+- [latentspacepod](https://x.com/latentspacepod/status/2111244257579409664) (2026-10-18)
 - [lennysan](https://x.com/lennysan/status/2097392748244721911) (2026-09-10)
 - [levie](https://x.com/levie/status/2099739019517235618) (2026-09-15)
 - [liamottley_](https://x.com/liamottley_/status/2106542593597198765) (2026-10-04)
