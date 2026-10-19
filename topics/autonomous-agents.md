@@ -1,14 +1,15 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-18
-total_mentions: 1500
+last_seen: 2026-10-19
+total_mentions: 1506
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
 - [0x404page](https://x.com/0x404page/status/2065428594638369189) (2026-06-19)
 - [0xAlaric](https://x.com/0xAlaric/status/2077850537173660039) (2026-07-18)
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
+- [0xCarnagee](https://x.com/0xCarnagee/status/2111462832130654322) (2026-10-19)
 - [0xCodez](https://x.com/0xCodez/status/2068339045000700108) (2026-06-21)
 - [0xCodez](https://x.com/0xCodez/status/2071239626128298131) (2026-06-29)
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -71,6 +72,7 @@ total_mentions: 1500
 - [0x_zoda](https://x.com/0x_zoda/status/2111666133845594507) (2026-10-18)
 - [0xchadx](https://x.com/0xchadx/status/2067862587174244810) (2026-06-19)
 - [0xgilbert](https://x.com/0xgilbert/status/2062624582977179796) (2026-06-06)
+- [0xjmori](https://x.com/0xjmori/status/2111105306277142892) (2026-10-19)
 - [0xkichiro](https://x.com/0xkichiro/status/2108538276625658079) (2026-10-16)
 - [0xnicc0](https://x.com/0xnicc0/status/2093312280406397284) (2026-09-04)
 - [0xnicc0](https://x.com/0xnicc0/status/2098465525781217632) (2026-09-13)
@@ -500,6 +502,7 @@ total_mentions: 1500
 - [N01ennn](https://x.com/N01ennn/status/2088606747531358505) (2026-08-21)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
 - [N01ennn](https://x.com/N01ennn/status/2089455117716406706) (2026-08-18)
+- [N01ennn](https://x.com/N01ennn/status/2111888466829303973) (2026-10-19)
 - [NFTCPS](https://x.com/NFTCPS/status/2063088254560407926) (2026-06-13)
 - [NVIDIAAP](https://x.com/NVIDIAAP/status/2066370113733787732) (2026-06-15)
 - [NVIDIAAP](https://x.com/NVIDIAAP/status/2076879361504903645) (2026-07-21)
@@ -727,6 +730,7 @@ total_mentions: 1500
 - [XammieCrypt](https://x.com/XammieCrypt/status/2094371878198489299) (2026-09-01)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2090968445378814364) (2026-08-22)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2097846768323133559) (2026-09-10)
+- [Xudong07452910](https://x.com/Xudong07452910/status/2111979391546773875) (2026-10-19)
 - [Yaki_fomoArt](https://x.com/Yaki_fomoArt/status/2079623049037701529) (2026-07-26)
 - [YorichiiCrypto](https://x.com/YorichiiCrypto/status/2107563475555823957) (2026-10-07)
 - [Yosefphr](https://x.com/Yosefphr/status/2094074224839102549) (2026-09-01)
@@ -796,6 +800,7 @@ total_mentions: 1500
 - [alexandr_wang](https://x.com/alexandr_wang/status/2075218936266998230) (2026-07-11)
 - [alexandr_wang](https://x.com/alexandr_wang/status/2099337296487333978) (2026-09-14)
 - [alexandr_wang](https://x.com/alexandr_wang/status/2100717269861167524) (2026-09-18)
+- [alexgroberman](https://x.com/alexgroberman/status/2111813079189295577) (2026-10-19)
 - [alexhalescoder](https://x.com/alexhalescoder/status/2110927990364438782) (2026-10-17)
 - [alexxubyte](https://x.com/alexxubyte/status/2076693603439817057) (2026-07-14)
 - [allen_lattimer](https://x.com/allen_lattimer/status/2095534151810338990) (2026-09-10)
@@ -1422,6 +1427,7 @@ total_mentions: 1500
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095491337651179621) (2026-09-04)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095859430776533318) (2026-09-06)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2106715961403273433) (2026-10-09)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2109615202371252261) (2026-10-19)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109977469927244158) (2026-10-17)
 - [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)
 - [swyx](https://x.com/swyx/status/2076155833428431012) (2026-07-12)

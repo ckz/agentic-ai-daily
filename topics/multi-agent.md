@@ -1,12 +1,13 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-10-18
-total_mentions: 369
+last_seen: 2026-10-19
+total_mentions: 373
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
+- [0xCarnagee](https://x.com/0xCarnagee/status/2111462832130654322) (2026-10-19)
 - [0xCodez](https://x.com/0xCodez/status/2079234800766816633) (2026-07-21)
 - [0xCodez](https://x.com/0xCodez/status/2079547245980959187) (2026-07-22)
 - [0xCodez](https://x.com/0xCodez/status/2080250266851463209) (2026-07-24)
@@ -18,6 +19,7 @@ total_mentions: 369
 - [0xMovez](https://x.com/0xMovez/status/2080646952069288055) (2026-07-27)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
 - [0xSweep](https://x.com/0xSweep/status/2098822616907940241) (2026-09-14)
+- [0xjmori](https://x.com/0xjmori/status/2111105306277142892) (2026-10-19)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2086799737651400907) (2026-08-11)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2093700205015081210) (2026-09-04)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2095134652688220236) (2026-09-04)
@@ -350,6 +352,7 @@ total_mentions: 369
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095859430776533318) (2026-09-06)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2106715961403273433) (2026-10-09)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2107327491702509755) (2026-10-09)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2109615202371252261) (2026-10-19)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109977469927244158) (2026-10-17)
 - [svpino](https://x.com/svpino/status/2071975885570441658) (2026-07-01)
 - [swarms_corp](https://x.com/swarms_corp/status/2062886985883082914) (2026-06-05)
@@ -374,3 +377,4 @@ total_mentions: 369
 - [virtuals_io](https://x.com/virtuals_io/status/1881340149503857151) (2026-06-11)
 - [virtuals_io](https://x.com/virtuals_io/status/2063654910995145209) (2026-06-11)
 - [vishalsingh2972](https://x.com/vishalsingh2972/status/2107389299633405956) (2026-10-07)
+- [witcheer](https://x.com/witcheer/status/2110324741567287779) (2026-10-19)

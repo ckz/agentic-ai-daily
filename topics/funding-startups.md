@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-18
-total_mentions: 735
+last_seen: 2026-10-19
+total_mentions: 738
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
@@ -41,6 +41,7 @@ total_mentions: 735
 - [AlphaCapitalUK](https://x.com/AlphaCapitalUK/status/2079957138730848366) (2026-07-25)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2079915295230038426) (2026-07-23)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2088330041289494736) (2026-08-17)
+- [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2111819557497135464) (2026-10-19)
 - [Anaya_sharma876](https://x.com/Anaya_sharma876/status/2086431301498966480) (2026-08-14)
 - [AnimaAnandkumar](https://x.com/AnimaAnandkumar/status/2092236528898675014) (2026-09-01)
 - [AnishJaitwar](https://x.com/AnishJaitwar/status/2086661433593360839) (2026-08-10)
@@ -171,6 +172,7 @@ total_mentions: 735
 - [MeidasTouch](https://x.com/MeidasTouch/status/2077164264595288203) (2026-07-20)
 - [MicronCEO](https://x.com/MicronCEO/status/2090533293519409610) (2026-08-23)
 - [Miracle_NNnn](https://x.com/Miracle_NNnn/status/2107712847740367331) (2026-10-11)
+- [ModestMitkus](https://x.com/ModestMitkus/status/2111825601401405468) (2026-10-19)
 - [Mohansinha](https://x.com/Mohansinha/status/2079629691494060368) (2026-07-24)
 - [MollySOShea](https://x.com/MollySOShea/status/2092606579732251060) (2026-08-27)
 - [MollySOShea](https://x.com/MollySOShea/status/2099495482775289908) (2026-09-15)
@@ -299,6 +301,7 @@ total_mentions: 735
 - [a16z](https://x.com/a16z/status/2106064267770573281) (2026-10-06)
 - [aakashgupta](https://x.com/aakashgupta/status/2036653323978420322) (2026-07-05)
 - [aakashgupta](https://x.com/aakashgupta/status/2108771001316360615) (2026-10-12)
+- [aakashgupta](https://x.com/aakashgupta/status/2110334554510868603) (2026-10-19)
 - [aakrit](https://x.com/aakrit/status/2065778171912265899) (2026-06-14)
 - [aashna_doshi2](https://x.com/aashna_doshi2/status/2095182188870521192) (2026-09-06)
 - [abazwhyllzz](https://x.com/abazwhyllzz/status/2084175411714347129) (2026-08-03)

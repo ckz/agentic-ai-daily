@@ -1,12 +1,13 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-18
-total_mentions: 581
+last_seen: 2026-10-19
+total_mentions: 586
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
+- [0xCarnagee](https://x.com/0xCarnagee/status/2111462832130654322) (2026-10-19)
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
 - [0xMorlex](https://x.com/0xMorlex/status/2083551815895798048) (2026-08-02)
@@ -432,11 +433,13 @@ total_mentions: 581
 - [iamlukethedev](https://x.com/iamlukethedev/status/2063081062473859097) (2026-06-06)
 - [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2083874254358024567) (2026-08-04)
 - [ipfconline1](https://x.com/ipfconline1/status/2066408115369656823) (2026-06-15)
+- [irabukht](https://x.com/irabukht/status/2110189752666440181) (2026-10-19)
 - [islam_naserr](https://x.com/islam_naserr/status/2065299167560257970) (2026-06-12)
 - [isssa0x](https://x.com/isssa0x/status/2097348621272317987) (2026-09-09)
 - [it_unprofession](https://x.com/it_unprofession/status/2074958200663953854) (2026-07-11)
 - [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)
 - [jakezward](https://x.com/jakezward/status/2077014538000482693) (2026-07-16)
+- [jenukal](https://x.com/jenukal/status/2111865563492601949) (2026-10-19)
 - [johnvirality](https://x.com/johnvirality/status/2070571963555152330) (2026-06-29)
 - [jwang633](https://x.com/jwang633/status/2105012942601367940) (2026-09-30)
 - [kenAI_domains](https://x.com/kenAI_domains/status/2080371618954490323) (2026-07-24)
@@ -547,6 +550,7 @@ total_mentions: 581
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2078449718414180393) (2026-07-19)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095491337651179621) (2026-09-04)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2098026202464243908) (2026-09-12)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2109615202371252261) (2026-10-19)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109977469927244158) (2026-10-17)
 - [techNmak](https://x.com/techNmak/status/2090689729461411951) (2026-08-25)
 - [techNmak](https://x.com/techNmak/status/2091434187446439969) (2026-08-24)
@@ -585,4 +589,5 @@ total_mentions: 581
 - [xai](https://x.com/xai/status/2072342803787702422) (2026-07-02)
 - [xenovacom](https://x.com/xenovacom/status/2070210622239707568) (2026-06-27)
 - [y_sugi_it](https://x.com/y_sugi_it/status/2095302562505449951) (2026-09-03)
+- [yesh](https://x.com/yesh/status/2111987801101332698) (2026-10-19)
 - [ysiu](https://x.com/ysiu/status/2078728473909322189) (2026-07-19)

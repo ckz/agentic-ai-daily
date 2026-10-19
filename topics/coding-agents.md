@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-18
-total_mentions: 197
+last_seen: 2026-10-19
+total_mentions: 199
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -78,6 +78,7 @@ total_mentions: 197
 - [XFreeze](https://x.com/XFreeze/status/2065333739312590983) (2026-06-12)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2095668162624618959) (2026-09-05)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2097846768323133559) (2026-09-10)
+- [Xudong07452910](https://x.com/Xudong07452910/status/2111979391546773875) (2026-10-19)
 - [Ziven_Coder](https://x.com/Ziven_Coder/status/2078482313986642122) (2026-07-30)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
 - [_0xpainn](https://x.com/_0xpainn/status/2075209862263222342) (2026-07-14)
@@ -94,6 +95,7 @@ total_mentions: 197
 - [ashtom](https://x.com/ashtom/status/1925597395192357337) (2026-09-04)
 - [bcherny](https://x.com/bcherny/status/2064431111154053187) (2026-06-15)
 - [beamnxw](https://x.com/beamnxw/status/2080600136456060958) (2026-08-01)
+- [beamnxw](https://x.com/beamnxw/status/2111778402264822052) (2026-10-19)
 - [ben_burtenshaw](https://x.com/ben_burtenshaw/status/2098410420394451153) (2026-09-12)
 - [bindureddy](https://x.com/bindureddy/status/2076165296977858836) (2026-07-12)
 - [braintrust](https://x.com/braintrust/status/2095537795838144919) (2026-09-09)

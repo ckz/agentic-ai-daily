@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-10-18
-total_mentions: 1017
+last_seen: 2026-10-19
+total_mentions: 1028
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -200,6 +200,7 @@ total_mentions: 1017
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2071929838265630850) (2026-07-04)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2103900910292472051) (2026-10-03)
+- [LiuweijiaVip](https://x.com/LiuweijiaVip/status/2111970584342958407) (2026-10-19)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2108499624038113606) (2026-10-11)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2078455834325995532) (2026-07-20)
@@ -304,6 +305,7 @@ total_mentions: 1017
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2102318232296415677) (2026-09-29)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2104167920305889593) (2026-09-28)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2106319598492545245) (2026-10-05)
+- [RoundtableSpace](https://x.com/RoundtableSpace/status/2111717667228770611) (2026-10-19)
 - [Ryrenz](https://x.com/Ryrenz/status/2096041123517001750) (2026-09-05)
 - [S0N_IA](https://x.com/S0N_IA/status/2078494824982863884) (2026-07-20)
 - [S0N_IA](https://x.com/S0N_IA/status/2093745814241747046) (2026-08-30)
@@ -315,6 +317,7 @@ total_mentions: 1017
 - [SaurabhDub28465](https://x.com/SaurabhDub28465/status/2063452536972124604) (2026-06-07)
 - [ScarletKc_](https://x.com/ScarletKc_/status/2096143053866271185) (2026-09-09)
 - [Scenario_gg](https://x.com/Scenario_gg/status/2100161753564713405) (2026-09-18)
+- [Scenario_gg](https://x.com/Scenario_gg/status/2110705230539006235) (2026-10-19)
 - [ScottyBeamIO](https://x.com/ScottyBeamIO/status/2103856238014378000) (2026-10-02)
 - [SenthilRaj16078](https://x.com/SenthilRaj16078/status/2079078212173431259) (2026-07-20)
 - [SergioPaniego](https://x.com/SergioPaniego/status/2107115844350427607) (2026-10-06)
@@ -488,6 +491,7 @@ total_mentions: 1017
 - [beamnxw](https://x.com/beamnxw/status/2099797510080360913) (2026-09-17)
 - [beamnxw](https://x.com/beamnxw/status/2102377851450220968) (2026-09-24)
 - [beamnxw](https://x.com/beamnxw/status/2107494674894070242) (2026-10-11)
+- [beamnxw](https://x.com/beamnxw/status/2111029691326898489) (2026-10-19)
 - [benjitaylor](https://x.com/benjitaylor/status/2090903345733210260) (2026-08-22)
 - [betomoedano](https://x.com/betomoedano/status/2071257935485788178) (2026-06-29)
 - [betomoedano](https://x.com/betomoedano/status/2075206572628705477) (2026-07-13)
@@ -704,6 +708,7 @@ total_mentions: 1017
 - [jaimintf](https://x.com/jaimintf/status/2103529624257073238) (2026-09-26)
 - [jaimintf](https://x.com/jaimintf/status/2106554887513498066) (2026-10-05)
 - [jasontheadams](https://x.com/jasontheadams/status/2107119026191348128) (2026-10-06)
+- [jenukal](https://x.com/jenukal/status/2111865563492601949) (2026-10-19)
 - [jerryjliu0](https://x.com/jerryjliu0/status/2091564183922077885) (2026-08-24)
 - [jescalan](https://x.com/jescalan/status/2098166165000306728) (2026-09-11)
 - [jessesibley_](https://x.com/jessesibley_/status/2107847162604450288) (2026-10-10)
@@ -749,6 +754,7 @@ total_mentions: 1017
 - [manufact](https://x.com/manufact/status/2110446601173176775) (2026-10-15)
 - [marorhab](https://x.com/marorhab/status/2063163950850609431) (2026-06-06)
 - [martinyeza](https://x.com/martinyeza/status/2105388834452132338) (2026-10-07)
+- [masahirochaen](https://x.com/masahirochaen/status/2111939889185107987) (2026-10-19)
 - [mattrothenberg](https://x.com/mattrothenberg/status/2088019847875526913) (2026-08-16)
 - [meliasiih](https://x.com/meliasiih/status/2064702135305220483) (2026-06-12)
 - [melisx402](https://x.com/melisx402/status/2070835381684048269) (2026-06-29)
@@ -849,6 +855,9 @@ total_mentions: 1017
 - [res1dualedge](https://x.com/res1dualedge/status/2103237038778835331) (2026-09-26)
 - [rewind02](https://x.com/rewind02/status/2108195576206488058) (2026-10-13)
 - [rewind02](https://x.com/rewind02/status/2109585491280453986) (2026-10-17)
+- [rewind02](https://x.com/rewind02/status/2109661035036635291) (2026-10-19)
+- [rewind02](https://x.com/rewind02/status/2110673170122326373) (2026-10-19)
+- [rewind02](https://x.com/rewind02/status/2111393368097849615) (2026-10-19)
 - [ridark_eth](https://x.com/ridark_eth/status/2066216714644111431) (2026-06-15)
 - [ridark_eth](https://x.com/ridark_eth/status/2070966184967864667) (2026-06-29)
 - [ridark_eth](https://x.com/ridark_eth/status/2074254440861753628) (2026-07-07)
@@ -926,6 +935,7 @@ total_mentions: 1017
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2095859430776533318) (2026-09-06)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2106965103291797654) (2026-10-11)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2107327491702509755) (2026-10-09)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2109615202371252261) (2026-10-19)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109977469927244158) (2026-10-17)
 - [svpino](https://x.com/svpino/status/2065079108959363290) (2026-06-12)
 - [swarms_corp](https://x.com/swarms_corp/status/2106141570047054003) (2026-10-03)
@@ -987,6 +997,7 @@ total_mentions: 1017
 - [undefinedKi](https://x.com/undefinedKi/status/2097302662026870996) (2026-09-09)
 - [undefinedKi](https://x.com/undefinedKi/status/2098760642526085164) (2026-09-13)
 - [undefinedKi](https://x.com/undefinedKi/status/2104235566921379944) (2026-09-30)
+- [undefinedKi](https://x.com/undefinedKi/status/2110483138413801661) (2026-10-19)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2082200846243143795) (2026-07-30)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2087461469881336049) (2026-08-13)
 - [unity](https://x.com/unity/status/2079389530260414898) (2026-07-24)
