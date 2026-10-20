@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-19
-total_mentions: 738
+last_seen: 2026-10-20
+total_mentions: 748
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
@@ -56,12 +56,14 @@ total_mentions: 738
 - [AvinashSingh_20](https://x.com/AvinashSingh_20/status/2088315936353010013) (2026-08-15)
 - [AvinashSingh_20](https://x.com/AvinashSingh_20/status/2104612144088289760) (2026-10-02)
 - [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2078578545429991768) (2026-07-24)
+- [BarabiloT](https://x.com/BarabiloT/status/2102262834444882342) (2026-10-20)
 - [BarbaraPocock](https://x.com/BarbaraPocock/status/2110115000732074339) (2026-10-14)
 - [BernieSanders](https://x.com/BernieSanders/status/2080047245433438469) (2026-07-26)
 - [BernieSanders](https://x.com/BernieSanders/status/2095617679235088569) (2026-09-14)
 - [BestAIToolFind](https://x.com/BestAIToolFind/status/2087737224456732920) (2026-08-13)
 - [BillAckman](https://x.com/BillAckman/status/2089118514741129636) (2026-08-19)
 - [BillAckman](https://x.com/BillAckman/status/2090190151083532583) (2026-08-20)
+- [Bill_Gross](https://x.com/Bill_Gross/status/2112332587230482553) (2026-10-20)
 - [Bitget_TradFi](https://x.com/Bitget_TradFi/status/2084806593971962091) (2026-08-07)
 - [BradfordHuber4](https://x.com/BradfordHuber4/status/2095221538979188899) (2026-09-05)
 - [BrandonLuuMD](https://x.com/BrandonLuuMD/status/2109061162386006079) (2026-10-12)
@@ -73,6 +75,7 @@ total_mentions: 738
 - [CAgovernor](https://x.com/CAgovernor/status/2092691014091939941) (2026-08-27)
 - [CHRISBARYOMUNS1](https://x.com/CHRISBARYOMUNS1/status/2102387801601794523) (2026-09-23)
 - [Calcalistech](https://x.com/Calcalistech/status/2086659776990110089) (2026-08-10)
+- [Chairman_DN](https://x.com/Chairman_DN/status/2110446764289638507) (2026-10-20)
 - [ChiefEngineerCE](https://x.com/ChiefEngineerCE/status/2080146134128021841) (2026-07-23)
 - [ChiemeOnah7812](https://x.com/ChiemeOnah7812/status/2068216698759475604) (2026-06-20)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2080009523952263295) (2026-07-29)
@@ -91,6 +94,7 @@ total_mentions: 738
 - [DavidayoAI](https://x.com/DavidayoAI/status/2091956043240599821) (2026-08-26)
 - [DeRonin_](https://x.com/DeRonin_/status/2087555554830852538) (2026-08-14)
 - [DeRonin_](https://x.com/DeRonin_/status/2110756838354596023) (2026-10-18)
+- [DefiSparco](https://x.com/DefiSparco/status/2112186372261863708) (2026-10-20)
 - [DemoRestored](https://x.com/DemoRestored/status/2105350061509185900) (2026-10-07)
 - [DerrickEvans4WV](https://x.com/DerrickEvans4WV/status/1857121499158618577) (2026-10-16)
 - [DevanshuXi](https://x.com/DevanshuXi/status/2094134298266026161) (2026-09-02)
@@ -117,6 +121,7 @@ total_mentions: 738
 - [FundingPredicts](https://x.com/FundingPredicts/status/2093452683008979134) (2026-08-29)
 - [GAXEN10](https://x.com/GAXEN10/status/2068603068753596431) (2026-06-21)
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2100342582626668971) (2026-09-17)
+- [GergelyOrosz](https://x.com/GergelyOrosz/status/2110368029779398968) (2026-10-20)
 - [GlobalMoveHub](https://x.com/GlobalMoveHub/status/2104122775770178013) (2026-10-03)
 - [GpaAndy](https://x.com/GpaAndy/status/2101129153172910212) (2026-09-20)
 - [GrantWarr1](https://x.com/GrantWarr1/status/2099136532477055246) (2026-09-14)
@@ -229,6 +234,7 @@ total_mentions: 738
 - [SawyerMerritt](https://x.com/SawyerMerritt/status/2097918541236208092) (2026-09-10)
 - [SeedifyFund](https://x.com/SeedifyFund/status/1882843585470406990) (2026-06-08)
 - [SelflessCricket](https://x.com/SelflessCricket/status/2107362603664375885) (2026-10-06)
+- [SemudaraAbayomi](https://x.com/SemudaraAbayomi/status/2111828306030944589) (2026-10-20)
 - [SenAshleyMoody](https://x.com/SenAshleyMoody/status/2086020042362167308) (2026-08-11)
 - [SenMikeLee](https://x.com/SenMikeLee/status/2077145376960741857) (2026-07-18)
 - [SenSanders](https://x.com/SenSanders/status/2099182729048830438) (2026-09-14)
@@ -433,6 +439,7 @@ total_mentions: 738
 - [elonmusk](https://x.com/elonmusk/status/1906229604798312777) (2026-10-16)
 - [elonmusk](https://x.com/elonmusk/status/1979524331429335297) (2026-10-16)
 - [elonmusk](https://x.com/elonmusk/status/2010436428577313127) (2026-10-16)
+- [elonmusk](https://x.com/elonmusk/status/2048801964457140540) (2026-10-20)
 - [elonmusk](https://x.com/elonmusk/status/2063319907849093544) (2026-06-12)
 - [elonmusk](https://x.com/elonmusk/status/2071652181854343349) (2026-07-04)
 - [elonmusk](https://x.com/elonmusk/status/2071673460779041155) (2026-07-02)
@@ -606,7 +613,9 @@ total_mentions: 738
 - [piyascode9](https://x.com/piyascode9/status/2106945216154669240) (2026-10-05)
 - [plpiaoliang](https://x.com/plpiaoliang/status/2082696373955346650) (2026-07-30)
 - [polydao](https://x.com/polydao/status/2103362362015199286) (2026-09-28)
+- [princeNFA](https://x.com/princeNFA/status/2112410957070647540) (2026-10-20)
 - [propxwealth](https://x.com/propxwealth/status/2086007408078549329) (2026-08-14)
+- [propxwealth](https://x.com/propxwealth/status/2112213976469868799) (2026-10-20)
 - [pubity](https://x.com/pubity/status/2088354976359719140) (2026-08-16)
 - [pulkit_gupta2](https://x.com/pulkit_gupta2/status/2097777826292474042) (2026-09-13)
 - [pulkit_mittal_](https://x.com/pulkit_mittal_/status/2092132911919022181) (2026-08-28)
@@ -663,6 +672,7 @@ total_mentions: 738
 - [spaceandtech_](https://x.com/spaceandtech_/status/2087905670595223735) (2026-08-16)
 - [spacedevin](https://x.com/spacedevin/status/2109526752808902799) (2026-10-12)
 - [spacedevin](https://x.com/spacedevin/status/2110355139391602903) (2026-10-15)
+- [spacedevin](https://x.com/spacedevin/status/2112096373906796957) (2026-10-20)
 - [sridharfyi](https://x.com/sridharfyi/status/2100562893758718127) (2026-09-20)
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
 - [starter_story](https://x.com/starter_story/status/2106053639123140814) (2026-10-03)

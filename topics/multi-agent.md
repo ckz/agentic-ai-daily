@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-10-19
-total_mentions: 373
+last_seen: 2026-10-20
+total_mentions: 377
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -247,6 +247,7 @@ total_mentions: 373
 - [eigenlabs](https://x.com/eigenlabs/status/2062540745601384785) (2026-06-08)
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
 - [elora_khatun](https://x.com/elora_khatun/status/2074711871069032615) (2026-07-08)
+- [emollick](https://x.com/emollick/status/2112332499917681028) (2026-10-20)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2063633896517022014) (2026-06-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2084974440895410625) (2026-08-07)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2105406253740740846) (2026-10-02)
@@ -257,6 +258,7 @@ total_mentions: 373
 - [forecast_agents](https://x.com/forecast_agents/status/2079822864614555806) (2026-07-22)
 - [ghumare64](https://x.com/ghumare64/status/2107329844912754918) (2026-10-10)
 - [gippp69](https://x.com/gippp69/status/2062224522237890675) (2026-06-08)
+- [gkisokay](https://x.com/gkisokay/status/1931559290382459105) (2026-10-20)
 - [gkisokay](https://x.com/gkisokay/status/2020853629306212478) (2026-07-25)
 - [goyalshaliniuk](https://x.com/goyalshaliniuk/status/2079529319765033276) (2026-07-22)
 - [goyalshaliniuk](https://x.com/goyalshaliniuk/status/2089359091332166027) (2026-08-22)
@@ -298,6 +300,7 @@ total_mentions: 373
 - [mirku21](https://x.com/mirku21/status/2107939129736700335) (2026-10-09)
 - [mirku21](https://x.com/mirku21/status/2108301507955396970) (2026-10-11)
 - [mirku21](https://x.com/mirku21/status/2110838213988532675) (2026-10-18)
+- [mirku21](https://x.com/mirku21/status/2111200540772221418) (2026-10-20)
 - [monokern](https://x.com/monokern/status/2088233393817288974) (2026-08-21)
 - [nabeelqu](https://x.com/nabeelqu/status/2094208251688595676) (2026-09-06)
 - [neviannn](https://x.com/neviannn/status/2087254502210490739) (2026-08-13)
@@ -368,6 +371,7 @@ total_mentions: 373
 - [thesupermanmx](https://x.com/thesupermanmx/status/2089170733260025866) (2026-08-18)
 - [thesupermanmx](https://x.com/thesupermanmx/status/2094396262053556304) (2026-09-01)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2081680037544427793) (2026-07-28)
+- [threerouter](https://x.com/threerouter/status/2112438675136983275) (2026-10-20)
 - [thsottiaux](https://x.com/thsottiaux/status/2075641131002700120) (2026-07-11)
 - [tom_doerr](https://x.com/tom_doerr/status/2066365949926629733) (2026-06-15)
 - [undefinedKi](https://x.com/undefinedKi/status/2097302662026870996) (2026-09-09)

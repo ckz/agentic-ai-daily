@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-19
-total_mentions: 586
+last_seen: 2026-10-20
+total_mentions: 590
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -10,6 +10,7 @@ total_mentions: 586
 - [0xCarnagee](https://x.com/0xCarnagee/status/2111462832130654322) (2026-10-19)
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
+- [0xMontBlanc](https://x.com/0xMontBlanc/status/2112208608104792401) (2026-10-20)
 - [0xMorlex](https://x.com/0xMorlex/status/2083551815895798048) (2026-08-02)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
@@ -321,6 +322,7 @@ total_mentions: 586
 - [alex_prompter](https://x.com/alex_prompter/status/2077470394303627395) (2026-07-17)
 - [alex_verem](https://x.com/alex_verem/status/2075994424484732984) (2026-07-12)
 - [alliekmiller](https://x.com/alliekmiller/status/2064451731325415446) (2026-06-10)
+- [allred_chase](https://x.com/allred_chase/status/1856720253847298051) (2026-10-20)
 - [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)
 - [arbitrum](https://x.com/arbitrum/status/1907530213119885730) (2026-07-10)
 - [ardizor](https://x.com/ardizor/status/2062571108021215563) (2026-06-05)
@@ -403,6 +405,7 @@ total_mentions: 586
 - [fin465](https://x.com/fin465/status/2080155147385102375) (2026-07-25)
 - [georgedavis_144](https://x.com/georgedavis_144/status/2110946857736372721) (2026-10-16)
 - [gippp69](https://x.com/gippp69/status/2088943002467115352) (2026-08-17)
+- [gkisokay](https://x.com/gkisokay/status/1931559290382459105) (2026-10-20)
 - [googlecloud](https://x.com/googlecloud/status/2063244517575200828) (2026-06-09)
 - [googlecloud](https://x.com/googlecloud/status/2064505329006653571) (2026-06-10)
 - [googlecloud_jp](https://x.com/googlecloud_jp/status/2064210883023118619) (2026-06-09)
@@ -562,6 +565,7 @@ total_mentions: 586
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2107169457365725616) (2026-10-06)
 - [themahmud5](https://x.com/themahmud5/status/2104070146709168142) (2026-09-27)
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)
+- [threerouter](https://x.com/threerouter/status/2112438675136983275) (2026-10-20)
 - [tibo_maker](https://x.com/tibo_maker/status/2105047952419094963) (2026-10-03)
 - [tom_doerr](https://x.com/tom_doerr/status/2066365949926629733) (2026-06-15)
 - [tom_doerr](https://x.com/tom_doerr/status/2071321553296412706) (2026-07-01)

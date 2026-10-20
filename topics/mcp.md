@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-10-19
-total_mentions: 1028
+last_seen: 2026-10-20
+total_mentions: 1034
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -157,6 +157,7 @@ total_mentions: 1028
 - [FellMentKE](https://x.com/FellMentKE/status/2064573513642758328) (2026-06-10)
 - [FelpsCrypto](https://x.com/FelpsCrypto/status/2093580590641480134) (2026-08-31)
 - [ForkedPush](https://x.com/ForkedPush/status/2106313584829431901) (2026-10-04)
+- [ForkedPush](https://x.com/ForkedPush/status/2112168232148672982) (2026-10-20)
 - [ForwardEditor](https://x.com/ForwardEditor/status/2097877069334036941) (2026-09-13)
 - [ForwardEditor](https://x.com/ForwardEditor/status/2098707042072436786) (2026-09-13)
 - [FundamentEdge](https://x.com/FundamentEdge/status/2086632605466915006) (2026-08-10)
@@ -211,6 +212,7 @@ total_mentions: 1028
 - [LunarResearcher](https://x.com/LunarResearcher/status/2093310429103558754) (2026-08-29)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2096862232315367661) (2026-09-09)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2106654256056938558) (2026-10-09)
+- [MAXdeg0](https://x.com/MAXdeg0/status/2110059949900345370) (2026-10-20)
 - [MCGlive](https://x.com/MCGlive/status/2063016512521441777) (2026-06-05)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2083264047299092486) (2026-08-02)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2085433401562308987) (2026-08-07)
@@ -353,6 +355,7 @@ total_mentions: 1028
 - [TechCrunch](https://x.com/TechCrunch/status/2099955188467405227) (2026-09-16)
 - [TechCrunch](https://x.com/TechCrunch/status/2100269763549176222) (2026-09-20)
 - [TechWithTimm](https://x.com/TechWithTimm/status/2107108551172993387) (2026-10-12)
+- [TechWithTimm](https://x.com/TechWithTimm/status/2111427008362086478) (2026-10-20)
 - [Tech_by_Shweta](https://x.com/Tech_by_Shweta/status/2096800764526243897) (2026-09-07)
 - [Teknium](https://x.com/Teknium/status/2081450522608107816) (2026-07-28)
 - [TeksCreate](https://x.com/TeksCreate/status/2081499683571040408) (2026-07-27)
@@ -641,6 +644,7 @@ total_mentions: 1028
 - [gippp69](https://x.com/gippp69/status/2061110941509419435) (2026-06-07)
 - [gippp69](https://x.com/gippp69/status/2088997859400032707) (2026-08-17)
 - [gippp69](https://x.com/gippp69/status/2089315791669805154) (2026-08-18)
+- [gkisokay](https://x.com/gkisokay/status/1931559290382459105) (2026-10-20)
 - [gkxspace](https://x.com/gkxspace/status/2068546908360999331) (2026-06-21)
 - [gokulr](https://x.com/gokulr/status/2066673493811601737) (2026-06-21)
 - [gokulr](https://x.com/gokulr/status/2082145789372137749) (2026-08-02)
@@ -875,6 +879,7 @@ total_mentions: 1028
 - [rossaxbt](https://x.com/rossaxbt/status/2106758817161597021) (2026-10-05)
 - [runes_leo](https://x.com/runes_leo/status/2090442625820356780) (2026-08-21)
 - [runwayml](https://x.com/runwayml/status/2095159754414813249) (2026-09-07)
+- [rvaniaaaa](https://x.com/rvaniaaaa/status/2111904670226563170) (2026-10-20)
 - [ryanvogel](https://x.com/ryanvogel/status/2099229934250050033) (2026-09-19)
 - [s1rozha_](https://x.com/s1rozha_/status/2087132684514455625) (2026-08-12)
 - [sabanci_ata](https://x.com/sabanci_ata/status/2099927513346547961) (2026-09-16)
@@ -900,6 +905,7 @@ total_mentions: 1028
 - [shedntcare_](https://x.com/shedntcare_/status/2066124333559480395) (2026-06-21)
 - [shedoesai](https://x.com/shedoesai/status/2054227691671556145) (2026-06-12)
 - [shivam74689](https://x.com/shivam74689/status/2079227091380539873) (2026-07-21)
+- [shivanipod](https://x.com/shivanipod/status/2112233722846355593) (2026-10-20)
 - [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)
 - [shushant_l](https://x.com/shushant_l/status/2071096264339620159) (2026-06-28)
 - [shushant_l](https://x.com/shushant_l/status/2078707411670704572) (2026-07-19)

@@ -1,8 +1,8 @@
 # Browser Use
 
 first_seen: 2026-06-07
-last_seen: 2026-10-19
-total_mentions: 47
+last_seen: 2026-10-20
+total_mentions: 48
 
 ## Related Tweets
 - [0xSero](https://x.com/0xSero/status/2106844590376645117) (2026-10-09)
@@ -35,6 +35,7 @@ total_mentions: 47
 - [clapilot](https://x.com/clapilot/status/2063510331716952191) (2026-06-07)
 - [cwmasaki](https://x.com/cwmasaki/status/2088433897445171301) (2026-08-15)
 - [davidmarcus](https://x.com/davidmarcus/status/2103915341751685283) (2026-09-30)
+- [eze_is_1](https://x.com/eze_is_1/status/2109850538045264151) (2026-10-20)
 - [garrytan](https://x.com/garrytan/status/2099876434114494962) (2026-09-17)
 - [gregpr07](https://x.com/gregpr07/status/2100411066966749359) (2026-09-17)
 - [gumterver100](https://x.com/gumterver100/status/2087078337235628286) (2026-08-11)

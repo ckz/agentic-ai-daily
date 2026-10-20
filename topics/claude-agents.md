@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-19
-total_mentions: 290
+last_seen: 2026-10-20
+total_mentions: 294
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -195,6 +195,7 @@ total_mentions: 290
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
 - [eliebakouch](https://x.com/eliebakouch/status/2087904176357437820) (2026-08-14)
 - [emollick](https://x.com/emollick/status/2089233231853785118) (2026-08-17)
+- [emollick](https://x.com/emollick/status/2112332499917681028) (2026-10-20)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2061821319034143172) (2026-06-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2062244858686009455) (2026-06-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2105406253740740846) (2026-10-02)
@@ -240,6 +241,7 @@ total_mentions: 290
 - [milesdeutscher](https://x.com/milesdeutscher/status/2089509583312339450) (2026-08-18)
 - [mirku21](https://x.com/mirku21/status/2105764769479455043) (2026-10-03)
 - [mirku21](https://x.com/mirku21/status/2108301507955396970) (2026-10-11)
+- [mirku21](https://x.com/mirku21/status/2111200540772221418) (2026-10-20)
 - [mitchellh](https://x.com/mitchellh/status/2107577887159386152) (2026-10-10)
 - [mojeskoqq](https://x.com/mojeskoqq/status/2085273824413503536) (2026-08-09)
 - [noisyb0y1](https://x.com/noisyb0y1/status/2087218720594706679) (2026-08-13)
@@ -256,6 +258,7 @@ total_mentions: 290
 - [rileybrown](https://x.com/rileybrown/status/2101027402369335382) (2026-09-19)
 - [rileybrown](https://x.com/rileybrown/status/2107320826575937563) (2026-10-07)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2092970481423192328) (2026-09-03)
+- [rvaniaaaa](https://x.com/rvaniaaaa/status/2111904670226563170) (2026-10-20)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [sairahul1](https://x.com/sairahul1/status/2077326742218539296) (2026-07-18)
@@ -283,6 +286,7 @@ total_mentions: 290
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2081680037544427793) (2026-07-28)
 - [timsneath](https://x.com/timsneath/status/2072479088661651612) (2026-07-02)
 - [trq212](https://x.com/trq212/status/2108689101503566319) (2026-10-10)
+- [trycua](https://x.com/trycua/status/2112228154651881479) (2026-10-20)
 - [tylertracy321](https://x.com/tylertracy321/status/2110598651609489889) (2026-10-16)
 - [undefinedKi](https://x.com/undefinedKi/status/2070221446786215970) (2026-06-27)
 - [undefinedKi](https://x.com/undefinedKi/status/2070864207608684800) (2026-06-28)
