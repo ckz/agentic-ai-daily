@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-20
-total_mentions: 590
+last_seen: 2026-10-21
+total_mentions: 594
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -32,6 +32,7 @@ total_mentions: 590
 - [AiNicolas75316](https://x.com/AiNicolas75316/status/2079199374819914080) (2026-07-22)
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2073021437963825410) (2026-07-05)
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2081039269414793590) (2026-07-26)
+- [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2110558782862340205) (2026-10-21)
 - [Akasheth_](https://x.com/Akasheth_/status/2063933265954918837) (2026-06-10)
 - [Alacritic_Super](https://x.com/Alacritic_Super/status/2073340264895438850) (2026-07-05)
 - [AlchemyJ_io](https://x.com/AlchemyJ_io/status/2074319995035939293) (2026-07-07)
@@ -43,6 +44,7 @@ total_mentions: 590
 - [AnthropicAI](https://x.com/AnthropicAI/status/2066969532380721386) (2026-06-19)
 - [AnthropicAI](https://x.com/AnthropicAI/status/2072163884430229756) (2026-07-01)
 - [ArdenAI07](https://x.com/ArdenAI07/status/2108895389126709456) (2026-10-14)
+- [Arina_sharmi](https://x.com/Arina_sharmi/status/2112729940282286120) (2026-10-21)
 - [ArslyTech](https://x.com/ArslyTech/status/2063153998518235584) (2026-06-06)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065559824230957190) (2026-06-14)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2076747075036045645) (2026-07-14)
@@ -54,6 +56,7 @@ total_mentions: 590
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
 - [BenBajarin](https://x.com/BenBajarin/status/2105015734888013995) (2026-10-05)
 - [Benioff](https://x.com/Benioff/status/2092705110082347011) (2026-08-29)
+- [Berci](https://x.com/Berci/status/2111050047072743541) (2026-10-21)
 - [BestAIToolFind](https://x.com/BestAIToolFind/status/2087737224456732920) (2026-08-13)
 - [BradfordHuber4](https://x.com/BradfordHuber4/status/2095221538979188899) (2026-09-05)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
@@ -484,6 +487,7 @@ total_mentions: 590
 - [o_kwasniewski](https://x.com/o_kwasniewski/status/2105675143464763540) (2026-10-02)
 - [omarsar0](https://x.com/omarsar0/status/1846930425849303424) (2026-06-27)
 - [omarsar0](https://x.com/omarsar0/status/2098809969252450451) (2026-09-15)
+- [omarsar0](https://x.com/omarsar0/status/2110733945323368822) (2026-10-21)
 - [ordo_chain](https://x.com/ordo_chain/status/2073312746381181174) (2026-07-04)
 - [oscarsuiza](https://x.com/oscarsuiza/status/2107727744029073859) (2026-10-07)
 - [owengretzinger](https://x.com/owengretzinger/status/2109846365065052351) (2026-10-13)

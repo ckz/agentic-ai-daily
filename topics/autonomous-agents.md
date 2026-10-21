@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-20
-total_mentions: 1521
+last_seen: 2026-10-21
+total_mentions: 1534
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -129,6 +129,7 @@ total_mentions: 1521
 - [Aileverager](https://x.com/Aileverager/status/2079291494335205865) (2026-07-21)
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2073021437963825410) (2026-07-05)
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2081039269414793590) (2026-07-26)
+- [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2110558782862340205) (2026-10-21)
 - [Akasheth_](https://x.com/Akasheth_/status/2063933265954918837) (2026-06-10)
 - [Alacritic_Super](https://x.com/Alacritic_Super/status/2088341517744361787) (2026-08-19)
 - [AleksDoesCode](https://x.com/AleksDoesCode/status/2100500636940849250) (2026-09-20)
@@ -215,6 +216,7 @@ total_mentions: 1521
 - [Beaver_0x](https://x.com/Beaver_0x/status/2110799146081034398) (2026-10-17)
 - [BenBajarin](https://x.com/BenBajarin/status/2105015734888013995) (2026-10-05)
 - [Benioff](https://x.com/Benioff/status/2094618697520615868) (2026-09-01)
+- [Berci](https://x.com/Berci/status/2111050047072743541) (2026-10-21)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2062873857304752368) (2026-06-05)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2063598644293484741) (2026-06-08)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2064345389424324891) (2026-06-14)
@@ -408,6 +410,7 @@ total_mentions: 1521
 - [JJEnglert](https://x.com/JJEnglert/status/2064420538798260388) (2026-06-10)
 - [Jadzo1_](https://x.com/Jadzo1_/status/2072437174071636126) (2026-07-02)
 - [JasonPLowery](https://x.com/JasonPLowery/status/2103619213579653220) (2026-09-26)
+- [JayminSOfficial](https://x.com/JayminSOfficial/status/2112258390915445173) (2026-10-21)
 - [JesseisCooking](https://x.com/JesseisCooking/status/2103383326543495485) (2026-10-01)
 - [JessicaMetaEra](https://x.com/JessicaMetaEra/status/2068553406206341418) (2026-06-21)
 - [Jiacheng_Miao](https://x.com/Jiacheng_Miao/status/2100296661427999222) (2026-09-17)
@@ -427,6 +430,7 @@ total_mentions: 1521
 - [KirkDBorne](https://x.com/KirkDBorne/status/2076503185225617544) (2026-07-13)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2084357801359347866) (2026-08-09)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2097054388506251532) (2026-09-08)
+- [Krafton_AI](https://x.com/Krafton_AI/status/2112772568776339709) (2026-10-21)
 - [Krishnasagrawal](https://x.com/Krishnasagrawal/status/2075557881156657352) (2026-07-11)
 - [Krishnasagrawal](https://x.com/Krishnasagrawal/status/2076370564831486040) (2026-07-14)
 - [KunZhou23339193](https://x.com/KunZhou23339193/status/2107651518908527096) (2026-10-09)
@@ -743,6 +747,7 @@ total_mentions: 1521
 - [YorichiiCrypto](https://x.com/YorichiiCrypto/status/2107563475555823957) (2026-10-07)
 - [Yosefphr](https://x.com/Yosefphr/status/2094074224839102549) (2026-09-01)
 - [Yudhaweelah](https://x.com/Yudhaweelah/status/2110986745760428167) (2026-10-16)
+- [Yudhaweelah](https://x.com/Yudhaweelah/status/2112783405402530269) (2026-10-21)
 - [Zai_org](https://x.com/Zai_org/status/2066938937344495629) (2026-06-20)
 - [Zainabiliyasu10](https://x.com/Zainabiliyasu10/status/2099324482468958581) (2026-09-19)
 - [ZaraAi56190](https://x.com/ZaraAi56190/status/2108372681808924831) (2026-10-11)
@@ -816,6 +821,7 @@ total_mentions: 1521
 - [allen_lattimer](https://x.com/allen_lattimer/status/2102788618637226032) (2026-09-25)
 - [allen_lattimer](https://x.com/allen_lattimer/status/2111124859598323951) (2026-10-17)
 - [allred_chase](https://x.com/allred_chase/status/1856720253847298051) (2026-10-20)
+- [ama_protocol](https://x.com/ama_protocol/status/2111774426920353887) (2026-10-21)
 - [amankk_9](https://x.com/amankk_9/status/2065336699287429224) (2026-06-12)
 - [amasad](https://x.com/amasad/status/2080371567221944657) (2026-07-25)
 - [ameliahazelai](https://x.com/ameliahazelai/status/2073345751892062531) (2026-07-06)
@@ -993,6 +999,7 @@ total_mentions: 1521
 - [dhh](https://x.com/dhh/status/2102366320369016915) (2026-09-23)
 - [dhh](https://x.com/dhh/status/2103880596841783698) (2026-09-27)
 - [divaagurlxw](https://x.com/divaagurlxw/status/2087756697469440442) (2026-08-15)
+- [divaagurlxw](https://x.com/divaagurlxw/status/2112462473412616559) (2026-10-21)
 - [dkare1009](https://x.com/dkare1009/status/2043335862264410288) (2026-06-06)
 - [dkare1009](https://x.com/dkare1009/status/2058646791348727997) (2026-06-30)
 - [dkare1009](https://x.com/dkare1009/status/2069518448627974397) (2026-06-30)
@@ -1259,6 +1266,7 @@ total_mentions: 1521
 - [mvanhorn](https://x.com/mvanhorn/status/2074955232728281432) (2026-07-09)
 - [myshell_ai](https://x.com/myshell_ai/status/1874804449023266943) (2026-07-10)
 - [nabeelqu](https://x.com/nabeelqu/status/2094208251688595676) (2026-09-06)
+- [ndmccormack](https://x.com/ndmccormack/status/2112701653098930296) (2026-10-21)
 - [neil_xbt](https://x.com/neil_xbt/status/2067822430014632239) (2026-06-19)
 - [neil_xbt](https://x.com/neil_xbt/status/2089566708839206979) (2026-08-18)
 - [neviannn](https://x.com/neviannn/status/2087254502210490739) (2026-08-13)
@@ -1294,6 +1302,7 @@ total_mentions: 1521
 - [omarsar0](https://x.com/omarsar0/status/2077792894459793714) (2026-07-17)
 - [omarsar0](https://x.com/omarsar0/status/2095873020778991918) (2026-09-08)
 - [omarsar0](https://x.com/omarsar0/status/2098809969252450451) (2026-09-15)
+- [omarsar0](https://x.com/omarsar0/status/2110733945323368822) (2026-10-21)
 - [open_founder](https://x.com/open_founder/status/2104953677031055649) (2026-10-02)
 - [open_founder](https://x.com/open_founder/status/2108596016001785940) (2026-10-10)
 - [openart_ai](https://x.com/openart_ai/status/2067650953478652126) (2026-06-19)
@@ -1311,6 +1320,7 @@ total_mentions: 1521
 - [polydao](https://x.com/polydao/status/2097642088506487020) (2026-09-10)
 - [praveenTweets](https://x.com/praveenTweets/status/2074605343439810922) (2026-07-09)
 - [praveenTweets](https://x.com/praveenTweets/status/2093012409841774782) (2026-08-30)
+- [princeNFA](https://x.com/princeNFA/status/2112773639351214586) (2026-10-21)
 - [promptparag](https://x.com/promptparag/status/2064311991842574695) (2026-06-10)
 - [pushmeet](https://x.com/pushmeet/status/2065917699222560928) (2026-06-15)
 - [quantscience_](https://x.com/quantscience_/status/2073741980526313859) (2026-07-06)
@@ -1492,12 +1502,14 @@ total_mentions: 1521
 - [trythreews](https://x.com/trythreews/status/2075519714890334698) (2026-07-12)
 - [trythreews](https://x.com/trythreews/status/2096260452875644976) (2026-09-12)
 - [typesfast](https://x.com/typesfast/status/2086837223148962283) (2026-08-11)
+- [ungoai_bnb](https://x.com/ungoai_bnb/status/2112692052333125866) (2026-10-21)
 - [unicity_labs](https://x.com/unicity_labs/status/2074864232621892083) (2026-07-10)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2081851083119288719) (2026-07-28)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2087461469881336049) (2026-08-13)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2088581651332805021) (2026-08-22)
 - [useAtelier](https://x.com/useAtelier/status/2069432826827583560) (2026-06-29)
 - [useOttoAI](https://x.com/useOttoAI/status/2072002562748780717) (2026-07-01)
+- [usedotai](https://x.com/usedotai/status/2110400512025637104) (2026-10-21)
 - [usmanconsulting](https://x.com/usmanconsulting/status/2067820450856792274) (2026-06-19)
 - [vicky_grok](https://x.com/vicky_grok/status/2070074685669470672) (2026-06-29)
 - [victor_explore](https://x.com/victor_explore/status/2068553997624201627) (2026-06-21)
@@ -1523,6 +1535,7 @@ total_mentions: 1521
 - [zachdotai](https://x.com/zachdotai/status/2098474668474896872) (2026-09-17)
 - [zackpaid](https://x.com/zackpaid/status/2065125827864678420) (2026-06-12)
 - [zcode_ai](https://x.com/zcode_ai/status/2092635718766215590) (2026-08-27)
+- [zechengzh](https://x.com/zechengzh/status/2112596868698136924) (2026-10-21)
 - [zhilinwang97](https://x.com/zhilinwang97/status/2067870068063551559) (2026-06-19)
 - [zodchiii](https://x.com/zodchiii/status/2063952937945108599) (2026-06-10)
 - [zodchiii](https://x.com/zodchiii/status/2083134599832408208) (2026-08-01)

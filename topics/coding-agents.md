@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-20
-total_mentions: 199
+last_seen: 2026-10-21
+total_mentions: 201
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -126,6 +126,7 @@ total_mentions: 199
 - [emmanuel_2m](https://x.com/emmanuel_2m/status/2103097017073361137) (2026-09-25)
 - [ericzakariasson](https://x.com/ericzakariasson/status/2102853511637774551) (2026-09-26)
 - [expo](https://x.com/expo/status/2111093147103310022) (2026-10-17)
+- [figma](https://x.com/figma/status/2112669039009104059) (2026-10-21)
 - [finkd](https://x.com/finkd/status/2085080750034940201) (2026-08-06)
 - [firstadopter](https://x.com/firstadopter/status/2110528384807956680) (2026-10-15)
 - [ginacostag_](https://x.com/ginacostag_/status/2107123580672541113) (2026-10-12)
@@ -165,6 +166,7 @@ total_mentions: 199
 - [neropursue](https://x.com/neropursue/status/2089263766428950683) (2026-10-09)
 - [nutlope](https://x.com/nutlope/status/2095890193957962077) (2026-09-07)
 - [nutlope](https://x.com/nutlope/status/2099547343112564921) (2026-09-16)
+- [omarsar0](https://x.com/omarsar0/status/2110733945323368822) (2026-10-21)
 - [orbiteditor](https://x.com/orbiteditor/status/2075064330325041395) (2026-07-09)
 - [peterfriese](https://x.com/peterfriese/status/2092545094423601239) (2026-09-02)
 - [pushmeet](https://x.com/pushmeet/status/2065917699222560928) (2026-06-15)

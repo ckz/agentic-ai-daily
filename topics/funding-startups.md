@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-20
-total_mentions: 748
+last_seen: 2026-10-21
+total_mentions: 757
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
@@ -195,6 +195,7 @@ total_mentions: 748
 - [Olataslayer](https://x.com/Olataslayer/status/2101979838294986886) (2026-09-23)
 - [OpenAI](https://x.com/OpenAI/status/2082146058017321257) (2026-08-04)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
+- [Ozacle23](https://x.com/Ozacle23/status/2112179474649448960) (2026-10-21)
 - [PTrubey](https://x.com/PTrubey/status/2086293046489182599) (2026-08-14)
 - [PayGo402](https://x.com/PayGo402/status/2076560560162820116) (2026-07-13)
 - [Polymarket](https://x.com/Polymarket/status/2062960684309123535) (2026-06-05)
@@ -496,6 +497,7 @@ total_mentions: 748
 - [hridoyreh](https://x.com/hridoyreh/status/2092152773148328214) (2026-08-28)
 - [hridoyreh](https://x.com/hridoyreh/status/2107373764430504289) (2026-10-07)
 - [iam_elias1](https://x.com/iam_elias1/status/2062095528742240319) (2026-06-05)
+- [iamlukethedev](https://x.com/iamlukethedev/status/2112323816676528261) (2026-10-21)
 - [ianwong_](https://x.com/ianwong_/status/2098106891737977191) (2026-09-12)
 - [ibab](https://x.com/ibab/status/2087145290671468569) (2026-08-12)
 - [inter_link](https://x.com/inter_link/status/2081053524134125832) (2026-07-29)
@@ -517,6 +519,7 @@ total_mentions: 748
 - [jiang_kev](https://x.com/jiang_kev/status/2082496145994248488) (2026-07-30)
 - [johnrush](https://x.com/johnrush/status/2100322424386429223) (2026-09-20)
 - [jomatech](https://x.com/jomatech/status/2071058503805124918) (2026-06-28)
+- [jqdsouza](https://x.com/jqdsouza/status/2112552451547001218) (2026-10-21)
 - [jsolomonReports](https://x.com/jsolomonReports/status/2083874257189097789) (2026-08-05)
 - [juampitech](https://x.com/juampitech/status/2102849501002150206) (2026-09-24)
 - [juampitech](https://x.com/juampitech/status/2108331805350805820) (2026-10-10)
@@ -539,6 +542,7 @@ total_mentions: 748
 - [kseniam0s](https://x.com/kseniam0s/status/2106788298240729286) (2026-10-05)
 - [kseniam0s](https://x.com/kseniam0s/status/2107498859341439133) (2026-10-07)
 - [kseniam0s](https://x.com/kseniam0s/status/2110457139072229807) (2026-10-15)
+- [kseniam0s](https://x.com/kseniam0s/status/2111141570925723884) (2026-10-21)
 - [kseniam0s](https://x.com/kseniam0s/status/2111472765878325355) (2026-10-18)
 - [lami_thefirst](https://x.com/lami_thefirst/status/2097224273853129017) (2026-09-08)
 - [launchwhasmik](https://x.com/launchwhasmik/status/2104542307680719043) (2026-10-02)
@@ -588,6 +592,7 @@ total_mentions: 748
 - [noah_schochet](https://x.com/noah_schochet/status/2077044441978737104) (2026-07-17)
 - [ns123abc](https://x.com/ns123abc/status/2108070503931936780) (2026-10-09)
 - [okxafrica](https://x.com/okxafrica/status/2102644632350085140) (2026-09-23)
+- [oldstackjournal](https://x.com/oldstackjournal/status/2112651070824669657) (2026-10-21)
 - [om_patel5](https://x.com/om_patel5/status/2099683744781111419) (2026-09-17)
 - [omarwasm](https://x.com/omarwasm/status/2109729256112562213) (2026-10-13)
 - [openmarket_xyz](https://x.com/openmarket_xyz/status/2104622481080525138) (2026-09-29)
@@ -604,6 +609,7 @@ total_mentions: 748
 - [paulg](https://x.com/paulg/status/2086924675163345285) (2026-08-15)
 - [paulg](https://x.com/paulg/status/2096387134768681471) (2026-09-07)
 - [paulg](https://x.com/paulg/status/2108011311229747525) (2026-10-08)
+- [paulg](https://x.com/paulg/status/2112211561091858537) (2026-10-21)
 - [peer_rich](https://x.com/peer_rich/status/2062949788081897633) (2026-06-05)
 - [pelositracker](https://x.com/pelositracker/status/2080314321649746194) (2026-07-26)
 - [pengsonal](https://x.com/pengsonal/status/2102668006023410105) (2026-09-24)
@@ -614,6 +620,7 @@ total_mentions: 748
 - [plpiaoliang](https://x.com/plpiaoliang/status/2082696373955346650) (2026-07-30)
 - [polydao](https://x.com/polydao/status/2103362362015199286) (2026-09-28)
 - [princeNFA](https://x.com/princeNFA/status/2112410957070647540) (2026-10-20)
+- [princeNFA](https://x.com/princeNFA/status/2112773639351214586) (2026-10-21)
 - [propxwealth](https://x.com/propxwealth/status/2086007408078549329) (2026-08-14)
 - [propxwealth](https://x.com/propxwealth/status/2112213976469868799) (2026-10-20)
 - [pubity](https://x.com/pubity/status/2088354976359719140) (2026-08-16)
@@ -627,6 +634,7 @@ total_mentions: 748
 - [realDonaldTrump](https://x.com/realDonaldTrump/status/1007671131841671169) (2026-09-23)
 - [realDonaldTrump](https://x.com/realDonaldTrump/status/1925548216243703820) (2026-09-23)
 - [realEstateTrent](https://x.com/realEstateTrent/status/2096996751013982458) (2026-09-08)
+- [realfigmafiend](https://x.com/realfigmafiend/status/2112621653192486940) (2026-10-21)
 - [rexan_wong](https://x.com/rexan_wong/status/2103707054108299437) (2026-09-26)
 - [richtosho](https://x.com/richtosho/status/2078797686451409133) (2026-07-26)
 - [richtosho](https://x.com/richtosho/status/2080930554782830700) (2026-07-31)
@@ -674,6 +682,7 @@ total_mentions: 748
 - [spacedevin](https://x.com/spacedevin/status/2110355139391602903) (2026-10-15)
 - [spacedevin](https://x.com/spacedevin/status/2112096373906796957) (2026-10-20)
 - [sridharfyi](https://x.com/sridharfyi/status/2100562893758718127) (2026-09-20)
+- [sridharfyi](https://x.com/sridharfyi/status/2112778407079469263) (2026-10-21)
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
 - [starter_story](https://x.com/starter_story/status/2106053639123140814) (2026-10-03)
 - [stevenfiorillo](https://x.com/stevenfiorillo/status/2093840650223358375) (2026-08-30)

@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-20
-total_mentions: 294
+last_seen: 2026-10-21
+total_mentions: 297
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -104,6 +104,7 @@ total_mentions: 294
 - [RLanceMartin](https://x.com/RLanceMartin/status/2102575471502528989) (2026-09-24)
 - [RegalosDigitals](https://x.com/RegalosDigitals/status/2071263024212508813) (2026-06-29)
 - [Revolt_Fi](https://x.com/Revolt_Fi/status/2079266777163522467) (2026-07-21)
+- [RihardJarc](https://x.com/RihardJarc/status/2112562002958692392) (2026-10-21)
 - [RohOnChain](https://x.com/RohOnChain/status/2102790572281139213) (2026-09-25)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2074618209073078367) (2026-07-08)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2080046477322105256) (2026-07-23)
@@ -188,6 +189,7 @@ total_mentions: 294
 - [dhruvalgolakiya](https://x.com/dhruvalgolakiya/status/2105224441357840830) (2026-10-02)
 - [digitalocean](https://x.com/digitalocean/status/2102414817797550320) (2026-09-24)
 - [dioscuri](https://x.com/dioscuri/status/2103848836469084516) (2026-09-30)
+- [doncoderlione](https://x.com/doncoderlione/status/2112638459089150151) (2026-10-21)
 - [dr_cintas](https://x.com/dr_cintas/status/2072714904650359130) (2026-07-03)
 - [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
 - [dreyethh](https://x.com/dreyethh/status/2094460468941218188) (2026-09-01)
@@ -223,6 +225,7 @@ total_mentions: 294
 - [jasonlk](https://x.com/jasonlk/status/2093792483977376045) (2026-08-31)
 - [jiang_kev](https://x.com/jiang_kev/status/2082496145994248488) (2026-07-30)
 - [johnwhereareu](https://x.com/johnwhereareu/status/2077603117928153169) (2026-07-16)
+- [jqdsouza](https://x.com/jqdsouza/status/2112552451547001218) (2026-10-21)
 - [karpathy](https://x.com/karpathy/status/2015883857489522876) (2026-09-19)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2099714012867178531) (2026-09-19)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
