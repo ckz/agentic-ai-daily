@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-21
-total_mentions: 757
+last_seen: 2026-10-22
+total_mentions: 762
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
@@ -50,6 +50,7 @@ total_mentions: 757
 - [AroraBhavyam](https://x.com/AroraBhavyam/status/2108793649605861426) (2026-10-10)
 - [ArrushAdityadev](https://x.com/ArrushAdityadev/status/2061674017929703768) (2026-06-08)
 - [ArslyTech](https://x.com/ArslyTech/status/2063153998518235584) (2026-06-06)
+- [AscendLaunch](https://x.com/AscendLaunch/status/2112637060364320900) (2026-10-22)
 - [AtomsNotBits](https://x.com/AtomsNotBits/status/2072429730788413662) (2026-07-02)
 - [Av1dlive](https://x.com/Av1dlive/status/2082538087192908283) (2026-07-30)
 - [AvinashSingh_20](https://x.com/AvinashSingh_20/status/2071233793311318133) (2026-07-05)
@@ -177,6 +178,7 @@ total_mentions: 757
 - [MeidasTouch](https://x.com/MeidasTouch/status/2077164264595288203) (2026-07-20)
 - [MicronCEO](https://x.com/MicronCEO/status/2090533293519409610) (2026-08-23)
 - [Miracle_NNnn](https://x.com/Miracle_NNnn/status/2107712847740367331) (2026-10-11)
+- [Miracle_NNnn](https://x.com/Miracle_NNnn/status/2113140729933422877) (2026-10-22)
 - [ModestMitkus](https://x.com/ModestMitkus/status/2111825601401405468) (2026-10-19)
 - [Mohansinha](https://x.com/Mohansinha/status/2079629691494060368) (2026-07-24)
 - [MollySOShea](https://x.com/MollySOShea/status/2092606579732251060) (2026-08-27)
@@ -290,6 +292,7 @@ total_mentions: 757
 - [WatcherGuru](https://x.com/WatcherGuru/status/2079691556072616413) (2026-07-24)
 - [WhaleInsider](https://x.com/WhaleInsider/status/2082791770182586833) (2026-08-02)
 - [WhiteHouse45](https://x.com/WhiteHouse45/status/1250194670031974400) (2026-10-16)
+- [WoodingtonBen](https://x.com/WoodingtonBen/status/2112913530668413189) (2026-10-22)
 - [Wuwaika90](https://x.com/Wuwaika90/status/2098304150538731650) (2026-09-11)
 - [XFreeze](https://x.com/XFreeze/status/2071993098641756518) (2026-07-06)
 - [XFreeze](https://x.com/XFreeze/status/2072891163502080053) (2026-07-06)
@@ -381,6 +384,7 @@ total_mentions: 757
 - [business](https://x.com/business/status/2097139831302160849) (2026-09-08)
 - [business](https://x.com/business/status/2108078728592998447) (2026-10-10)
 - [bykahlil](https://x.com/bykahlil/status/2079265093607637030) (2026-07-21)
+- [calvinchen](https://x.com/calvinchen/status/2113086111505645906) (2026-10-22)
 - [cb_doge](https://x.com/cb_doge/status/2062681226633523250) (2026-06-08)
 - [cb_doge](https://x.com/cb_doge/status/2072009965389443374) (2026-07-03)
 - [cb_doge](https://x.com/cb_doge/status/2076291436283396496) (2026-07-18)
@@ -626,6 +630,7 @@ total_mentions: 757
 - [pubity](https://x.com/pubity/status/2088354976359719140) (2026-08-16)
 - [pulkit_gupta2](https://x.com/pulkit_gupta2/status/2097777826292474042) (2026-09-13)
 - [pulkit_mittal_](https://x.com/pulkit_mittal_/status/2092132911919022181) (2026-08-28)
+- [pulkitology](https://x.com/pulkitology/status/2112564529905221861) (2026-10-22)
 - [qasimbizs](https://x.com/qasimbizs/status/2108213013027373084) (2026-10-09)
 - [rahulbais136](https://x.com/rahulbais136/status/2077192536335192463) (2026-07-15)
 - [rauchg](https://x.com/rauchg/status/2088735125744070932) (2026-08-18)

@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-21
-total_mentions: 594
+last_seen: 2026-10-22
+total_mentions: 599
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -45,6 +45,7 @@ total_mentions: 594
 - [AnthropicAI](https://x.com/AnthropicAI/status/2072163884430229756) (2026-07-01)
 - [ArdenAI07](https://x.com/ArdenAI07/status/2108895389126709456) (2026-10-14)
 - [Arina_sharmi](https://x.com/Arina_sharmi/status/2112729940282286120) (2026-10-21)
+- [Arm](https://x.com/Arm/status/2112711742564298801) (2026-10-22)
 - [ArslyTech](https://x.com/ArslyTech/status/2063153998518235584) (2026-06-06)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065559824230957190) (2026-06-14)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2076747075036045645) (2026-07-14)
@@ -66,6 +67,7 @@ total_mentions: 594
 - [CapexAndChill](https://x.com/CapexAndChill/status/2073965340476768534) (2026-07-06)
 - [Changxiu_leo_ji](https://x.com/Changxiu_leo_ji/status/2107153972859695222) (2026-10-06)
 - [CherryEOrtega](https://x.com/CherryEOrtega/status/2085996021008748799) (2026-08-08)
+- [ChillTRD](https://x.com/ChillTRD/status/2113024030261563775) (2026-10-22)
 - [ChiomaChukwura2](https://x.com/ChiomaChukwura2/status/2085162277288976842) (2026-08-09)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2064756984617021807) (2026-06-11)
 - [ColeMacro](https://x.com/ColeMacro/status/2092270223827325432) (2026-08-29)
@@ -289,6 +291,7 @@ total_mentions: 594
 - [Yuchenj_UW](https://x.com/Yuchenj_UW/status/2070928299744972814) (2026-06-30)
 - [Zev_ee](https://x.com/Zev_ee/status/2068562546601476174) (2026-06-21)
 - [Ziven_Coder](https://x.com/Ziven_Coder/status/2078482313986642122) (2026-07-30)
+- [Ziven_Coder](https://x.com/Ziven_Coder/status/2113088158904840515) (2026-10-22)
 - [_LuoFuli](https://x.com/_LuoFuli/status/2102162926802968749) (2026-09-25)
 - [_akhaliq](https://x.com/_akhaliq/status/2072347990337954042) (2026-07-03)
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
@@ -405,6 +408,7 @@ total_mentions: 594
 - [ericzakariasson](https://x.com/ericzakariasson/status/2102853511637774551) (2026-09-26)
 - [ethereum](https://x.com/ethereum/status/2079217433059996150) (2026-07-23)
 - [evanderburg](https://x.com/evanderburg/status/2087412401717359059) (2026-08-12)
+- [fernandoabishai](https://x.com/fernandoabishai/status/2113132998962893114) (2026-10-22)
 - [fin465](https://x.com/fin465/status/2080155147385102375) (2026-07-25)
 - [georgedavis_144](https://x.com/georgedavis_144/status/2110946857736372721) (2026-10-16)
 - [gippp69](https://x.com/gippp69/status/2088943002467115352) (2026-08-17)
@@ -540,6 +544,7 @@ total_mentions: 594
 - [simonbs](https://x.com/simonbs/status/2098246318124650855) (2026-09-11)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
 - [skirano](https://x.com/skirano/status/1797738751113998345) (2026-10-12)
+- [smarterwithai_](https://x.com/smarterwithai_/status/2113156321738670539) (2026-10-22)
 - [snwiki238337](https://x.com/snwiki238337/status/2099736240048226688) (2026-09-22)
 - [socialwithaayan](https://x.com/socialwithaayan/status/2072044103492309425) (2026-07-02)
 - [socialwithaayan](https://x.com/socialwithaayan/status/2094350331484516816) (2026-09-01)

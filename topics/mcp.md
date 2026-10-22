@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-10-21
-total_mentions: 1048
+last_seen: 2026-10-22
+total_mentions: 1061
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -111,6 +111,7 @@ total_mentions: 1048
 - [Crowdreply_io](https://x.com/Crowdreply_io/status/2082844304981282878) (2026-07-31)
 - [CryptoPulseGLBL](https://x.com/CryptoPulseGLBL/status/2072554506102145483) (2026-07-02)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2089423549379559718) (2026-08-19)
+- [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2112898237699068338) (2026-10-22)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DanKornas](https://x.com/DanKornas/status/2063154157511418092) (2026-06-06)
 - [DanKornas](https://x.com/DanKornas/status/2077488623125971059) (2026-07-16)
@@ -169,7 +170,10 @@ total_mentions: 1048
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2091248280365682688) (2026-08-24)
 - [GitTrend0x](https://x.com/GitTrend0x/status/2085190556674904253) (2026-08-07)
 - [GithubProjects](https://x.com/GithubProjects/status/2063327571698434443) (2026-06-07)
+- [Greshamtrade](https://x.com/Greshamtrade/status/2111868294974112108) (2026-10-22)
+- [Greshamtrade](https://x.com/Greshamtrade/status/2112270735116812640) (2026-10-22)
 - [Grow_withAI](https://x.com/Grow_withAI/status/2106731541221306757) (2026-10-06)
+- [Harry_The_Nerd](https://x.com/Harry_The_Nerd/status/2110801408853422390) (2026-10-22)
 - [He1s_Sammy](https://x.com/He1s_Sammy/status/2091799479720497402) (2026-08-28)
 - [HenryCrochemore](https://x.com/HenryCrochemore/status/2111857414643318838) (2026-10-21)
 - [HermesWatcher](https://x.com/HermesWatcher/status/2109132354858176598) (2026-10-13)
@@ -243,6 +247,7 @@ total_mentions: 1048
 - [Mnilax](https://x.com/Mnilax/status/2109716261160538324) (2026-10-13)
 - [Mnilax](https://x.com/Mnilax/status/2110039818524660135) (2026-10-15)
 - [Mnilax](https://x.com/Mnilax/status/2110382356028686598) (2026-10-18)
+- [Mnilax](https://x.com/Mnilax/status/2111508510617883041) (2026-10-22)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106251206524014747) (2026-10-10)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106601226276118967) (2026-10-05)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2109514844252807435) (2026-10-12)
@@ -405,6 +410,7 @@ total_mentions: 1048
 - [YorichiiCrypto](https://x.com/YorichiiCrypto/status/2107563475555823957) (2026-10-07)
 - [ZHENXINYU](https://x.com/ZHENXINYU/status/2064950271906889746) (2026-06-11)
 - [ZephrFish](https://x.com/ZephrFish/status/2109200227823468588) (2026-10-14)
+- [Ziven_Coder](https://x.com/Ziven_Coder/status/2113088158904840515) (2026-10-22)
 - [_Engr_tariq](https://x.com/_Engr_tariq/status/2068603345229562006) (2026-06-21)
 - [_MichaelChoi](https://x.com/_MichaelChoi/status/2107513285750689956) (2026-10-07)
 - [__wi](https://x.com/__wi/status/2110636884439535714) (2026-10-18)
@@ -423,6 +429,7 @@ total_mentions: 1048
 - [a16z](https://x.com/a16z/status/2092774816596259111) (2026-08-27)
 - [aaassa120](https://x.com/aaassa120/status/2099585833787371714) (2026-09-18)
 - [aakashgupta](https://x.com/aakashgupta/status/2036653323978420322) (2026-07-05)
+- [abdullababakre](https://x.com/abdullababakre/status/2112971597648978044) (2026-10-22)
 - [abhishek__AI](https://x.com/abhishek__AI/status/2068588008648142910) (2026-06-21)
 - [abskoop](https://x.com/abskoop/status/2090701734138274062) (2026-08-22)
 - [abstrakt314](https://x.com/abstrakt314/status/2105756028935504032) (2026-10-03)
@@ -445,6 +452,7 @@ total_mentions: 1048
 - [aiwithsally](https://x.com/aiwithsally/status/2102612977891651876) (2026-09-23)
 - [ajitcodes](https://x.com/ajitcodes/status/2081216341747671353) (2026-07-27)
 - [ajitcodes](https://x.com/ajitcodes/status/2089185456525381955) (2026-08-17)
+- [akothari](https://x.com/akothari/status/2112265602203336892) (2026-10-22)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/1943648661826937032) (2026-06-06)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2029534926828388537) (2026-06-06)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2082454281630961687) (2026-08-02)
@@ -652,6 +660,7 @@ total_mentions: 1048
 - [gavinpurcell](https://x.com/gavinpurcell/status/2103304514329854102) (2026-09-27)
 - [gavinpurcell](https://x.com/gavinpurcell/status/2109651336325451830) (2026-10-15)
 - [ghumare64](https://x.com/ghumare64/status/2107329844912754918) (2026-10-10)
+- [ginlixai](https://x.com/ginlixai/status/2112712372934906304) (2026-10-22)
 - [gippp69](https://x.com/gippp69/status/2061110941509419435) (2026-06-07)
 - [gippp69](https://x.com/gippp69/status/2088997859400032707) (2026-08-17)
 - [gippp69](https://x.com/gippp69/status/2089315791669805154) (2026-08-18)
@@ -680,6 +689,7 @@ total_mentions: 1048
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [hasantoxr](https://x.com/hasantoxr/status/2110043923121045708) (2026-10-18)
 - [hcompany_ai](https://x.com/hcompany_ai/status/2104508207582367807) (2026-09-29)
+- [hectorVFX](https://x.com/hectorVFX/status/2111435045109903540) (2026-10-22)
 - [hedra_labs](https://x.com/hedra_labs/status/2105342577725546681) (2026-10-01)
 - [hellorob](https://x.com/hellorob/status/2074237901060399360) (2026-07-08)
 - [heyDhavall](https://x.com/heyDhavall/status/2106620712966656448) (2026-10-04)
@@ -703,6 +713,7 @@ total_mentions: 1048
 - [humzaakhalid](https://x.com/humzaakhalid/status/2076629724315697287) (2026-07-17)
 - [humzaakhalid](https://x.com/humzaakhalid/status/2078781740563460571) (2026-07-25)
 - [huxlab](https://x.com/huxlab/status/2089564429054554267) (2026-08-19)
+- [huxlab](https://x.com/huxlab/status/2112474544376348866) (2026-10-22)
 - [hxiao](https://x.com/hxiao/status/2094519020531994639) (2026-09-02)
 - [iBenWills](https://x.com/iBenWills/status/2063840829773369626) (2026-06-08)
 - [iMePlatform](https://x.com/iMePlatform/status/2107461868604309530) (2026-10-07)
@@ -719,6 +730,7 @@ total_mentions: 1048
 - [irabukht](https://x.com/irabukht/status/2101090579127951694) (2026-09-19)
 - [irabukht](https://x.com/irabukht/status/2101375295152652372) (2026-09-21)
 - [itsolelehmann](https://x.com/itsolelehmann/status/2064393407771095518) (2026-06-10)
+- [jackson_llk](https://x.com/jackson_llk/status/2110655330841726989) (2026-10-22)
 - [jacob_posel](https://x.com/jacob_posel/status/2079249123794972827) (2026-07-22)
 - [jaimintf](https://x.com/jaimintf/status/2098137053821071642) (2026-09-11)
 - [jaimintf](https://x.com/jaimintf/status/2103529624257073238) (2026-09-26)
@@ -772,6 +784,7 @@ total_mentions: 1048
 - [martinyeza](https://x.com/martinyeza/status/2105388834452132338) (2026-10-07)
 - [masahirochaen](https://x.com/masahirochaen/status/2111939889185107987) (2026-10-19)
 - [mattrothenberg](https://x.com/mattrothenberg/status/2088019847875526913) (2026-08-16)
+- [mattzcarey](https://x.com/mattzcarey/status/2112202956837638329) (2026-10-22)
 - [meliasiih](https://x.com/meliasiih/status/2064702135305220483) (2026-06-12)
 - [melisx402](https://x.com/melisx402/status/2070835381684048269) (2026-06-29)
 - [mentalium_](https://x.com/mentalium_/status/2110382934720929967) (2026-10-18)

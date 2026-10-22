@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-21
-total_mentions: 297
+last_seen: 2026-10-22
+total_mentions: 300
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -159,6 +159,7 @@ total_mentions: 297
 - [cartertran_](https://x.com/cartertran_/status/2110450865366614489) (2026-10-15)
 - [carverfomo](https://x.com/carverfomo/status/2064338010242490662) (2026-06-10)
 - [celineodier](https://x.com/celineodier/status/2094079187904610504) (2026-09-01)
+- [chasen_liao](https://x.com/chasen_liao/status/2111018007434858537) (2026-10-22)
 - [clapilot](https://x.com/clapilot/status/2063509258461642879) (2026-06-07)
 - [clapilot](https://x.com/clapilot/status/2063510331716952191) (2026-06-07)
 - [claudeai](https://x.com/claudeai/status/2107574195978641911) (2026-10-08)
@@ -190,6 +191,7 @@ total_mentions: 297
 - [digitalocean](https://x.com/digitalocean/status/2102414817797550320) (2026-09-24)
 - [dioscuri](https://x.com/dioscuri/status/2103848836469084516) (2026-09-30)
 - [doncoderlione](https://x.com/doncoderlione/status/2112638459089150151) (2026-10-21)
+- [doublenickk](https://x.com/doublenickk/status/2111836581929631794) (2026-10-22)
 - [dr_cintas](https://x.com/dr_cintas/status/2072714904650359130) (2026-07-03)
 - [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)
 - [dreyethh](https://x.com/dreyethh/status/2094460468941218188) (2026-09-01)
@@ -297,6 +299,7 @@ total_mentions: 297
 - [undefinedKi](https://x.com/undefinedKi/status/2097302662026870996) (2026-09-09)
 - [undefinedKi](https://x.com/undefinedKi/status/2108952770237604160) (2026-10-11)
 - [undefinedKi](https://x.com/undefinedKi/status/2110483138413801661) (2026-10-19)
+- [undefinedKi](https://x.com/undefinedKi/status/2112904027176313190) (2026-10-22)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2087461469881336049) (2026-08-13)
 - [vercel_dev](https://x.com/vercel_dev/status/2065509970775519569) (2026-06-13)
 - [virgilxbt](https://x.com/virgilxbt/status/2092605992953332128) (2026-08-27)

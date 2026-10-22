@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-10-21
-total_mentions: 383
+last_seen: 2026-10-22
+total_mentions: 386
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -114,7 +114,9 @@ total_mentions: 383
 - [GoogleResearch](https://x.com/GoogleResearch/status/2103208899650437286) (2026-09-25)
 - [GoshawkTrades](https://x.com/GoshawkTrades/status/2099540726216597900) (2026-09-16)
 - [GpaAndy](https://x.com/GpaAndy/status/2101129153172910212) (2026-09-20)
+- [Greshamtrade](https://x.com/Greshamtrade/status/2112270735116812640) (2026-10-22)
 - [HZoete](https://x.com/HZoete/status/2104954372866085007) (2026-09-30)
+- [Harry_The_Nerd](https://x.com/Harry_The_Nerd/status/2110801408853422390) (2026-10-22)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2097489050332692836) (2026-09-11)
@@ -273,6 +275,7 @@ total_mentions: 383
 - [helicerat0x](https://x.com/helicerat0x/status/2096343137048244358) (2026-09-09)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [hoshinoxbt](https://x.com/hoshinoxbt/status/2109343300985479239) (2026-10-12)
+- [huxlab](https://x.com/huxlab/status/2112474544376348866) (2026-10-22)
 - [imarun_chauhan](https://x.com/imarun_chauhan/status/2063878197457134003) (2026-06-08)
 - [jaseweston](https://x.com/jaseweston/status/2105305463784935791) (2026-10-01)
 - [jerryjliu0](https://x.com/jerryjliu0/status/2082673383255216356) (2026-07-31)

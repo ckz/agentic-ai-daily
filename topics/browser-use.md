@@ -1,8 +1,8 @@
 # Browser Use
 
 first_seen: 2026-06-07
-last_seen: 2026-10-21
-total_mentions: 49
+last_seen: 2026-10-22
+total_mentions: 51
 
 ## Related Tweets
 - [0xSero](https://x.com/0xSero/status/2106844590376645117) (2026-10-09)
@@ -27,8 +27,10 @@ total_mentions: 49
 - [RobKnight__](https://x.com/RobKnight__/status/2082859704955642254) (2026-08-01)
 - [SamSokolin](https://x.com/SamSokolin/status/2094824011427373415) (2026-09-03)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2090597249130635389) (2026-08-22)
+- [Ziven_Coder](https://x.com/Ziven_Coder/status/2113088158904840515) (2026-10-22)
 - [_vmlops](https://x.com/_vmlops/status/2055521746737156350) (2026-06-15)
 - [ai_300](https://x.com/ai_300/status/2108376911600578668) (2026-10-11)
+- [akothari](https://x.com/akothari/status/2112265602203336892) (2026-10-22)
 - [biswaasen](https://x.com/biswaasen/status/2072065994152145370) (2026-07-01)
 - [browser_use](https://x.com/browser_use/status/2072699513228378262) (2026-07-05)
 - [browser_use](https://x.com/browser_use/status/2090937982295630278) (2026-08-22)
