@@ -1,12 +1,13 @@
 # Browser Use
 
 first_seen: 2026-06-07
-last_seen: 2026-10-22
-total_mentions: 51
+last_seen: 2026-10-23
+total_mentions: 52
 
 ## Related Tweets
 - [0xSero](https://x.com/0xSero/status/2106844590376645117) (2026-10-09)
 - [0xSero](https://x.com/0xSero/status/2108458027749929304) (2026-10-11)
+- [1Password](https://x.com/1Password/status/2113276767582498943) (2026-10-23)
 - [Arina_sharmi](https://x.com/Arina_sharmi/status/2112729940282286120) (2026-10-21)
 - [Aura_lixx](https://x.com/Aura_lixx/status/2111615210503168164) (2026-10-18)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2107925762720326090) (2026-10-08)

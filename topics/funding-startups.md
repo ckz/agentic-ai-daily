@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-22
-total_mentions: 762
+last_seen: 2026-10-23
+total_mentions: 766
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
@@ -321,6 +321,7 @@ total_mentions: 762
 - [adriamatz](https://x.com/adriamatz/status/2107713444862423073) (2026-10-08)
 - [agazdecki](https://x.com/agazdecki/status/2099895431547572656) (2026-09-20)
 - [agazdecki](https://x.com/agazdecki/status/2106497043921502295) (2026-10-06)
+- [ahatamiz1](https://x.com/ahatamiz1/status/2113344049784799378) (2026-10-23)
 - [alex_prompter](https://x.com/alex_prompter/status/2094818827137581543) (2026-09-02)
 - [alex_verem](https://x.com/alex_verem/status/2090118956912939041) (2026-08-25)
 - [alexisohanian](https://x.com/alexisohanian/status/2103856308890017955) (2026-09-29)
@@ -331,6 +332,7 @@ total_mentions: 762
 - [amitisinvesting](https://x.com/amitisinvesting/status/2077570810978463823) (2026-07-16)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2079389181780832579) (2026-07-23)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2083018001557721309) (2026-08-04)
+- [amosuibk](https://x.com/amosuibk/status/2112581596901519510) (2026-10-23)
 - [amuse](https://x.com/amuse/status/2070118337607012363) (2026-07-02)
 - [anah_sahh](https://x.com/anah_sahh/status/2103839341453688877) (2026-09-28)
 - [andrewztan](https://x.com/andrewztan/status/2108316891202867474) (2026-10-12)
@@ -551,6 +553,7 @@ total_mentions: 762
 - [lami_thefirst](https://x.com/lami_thefirst/status/2097224273853129017) (2026-09-08)
 - [launchwhasmik](https://x.com/launchwhasmik/status/2104542307680719043) (2026-10-02)
 - [levelsio](https://x.com/levelsio/status/2102739359715774665) (2026-09-25)
+- [levelsio](https://x.com/levelsio/status/2112686345617547538) (2026-10-23)
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
 - [lightspeedvp](https://x.com/lightspeedvp/status/2070182060224852105) (2026-06-27)
 - [lillyemira](https://x.com/lillyemira/status/2106529187091935656) (2026-10-04)
@@ -738,6 +741,7 @@ total_mentions: 762
 - [unusual_whales](https://x.com/unusual_whales/status/2079702282443293037) (2026-07-24)
 - [vahidf24](https://x.com/vahidf24/status/2101063577838764467) (2026-09-19)
 - [vanshuETH](https://x.com/vanshuETH/status/2098766183726227823) (2026-09-17)
+- [var_epsilon](https://x.com/var_epsilon/status/2113024401147085241) (2026-10-23)
 - [verbove](https://x.com/verbove/status/2104175469289693516) (2026-09-28)
 - [verbove](https://x.com/verbove/status/2104187810807005566) (2026-09-28)
 - [vietcong6868](https://x.com/vietcong6868/status/2108010013466014074) (2026-10-08)

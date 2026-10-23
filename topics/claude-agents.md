@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-22
-total_mentions: 300
+last_seen: 2026-10-23
+total_mentions: 304
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -41,6 +41,7 @@ total_mentions: 300
 - [BinaryScriptar](https://x.com/BinaryScriptar/status/2090679698351391113) (2026-08-22)
 - [Blockworks](https://x.com/Blockworks/status/2105663711373631730) (2026-10-02)
 - [Bober_smart](https://x.com/Bober_smart/status/2106444298849796475) (2026-10-04)
+- [Bober_smart](https://x.com/Bober_smart/status/2111803993009578042) (2026-10-23)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2087190437299941811) (2026-08-21)
 - [CEOGuy](https://x.com/CEOGuy/status/2068212413309010231) (2026-06-20)
 - [CharlieDFilm](https://x.com/CharlieDFilm/status/2098929162735997071) (2026-09-14)
@@ -136,6 +137,7 @@ total_mentions: 300
 - [adithya_s_k](https://x.com/adithya_s_k/status/2105684965891703141) (2026-10-06)
 - [agenticbrew](https://x.com/agenticbrew/status/2072848219084910646) (2026-07-03)
 - [agenticgirl](https://x.com/agenticgirl/status/2099087022900367845) (2026-09-16)
+- [ahuja_karan](https://x.com/ahuja_karan/status/2112987751184527408) (2026-10-23)
 - [aiedge_](https://x.com/aiedge_/status/2068204707139752359) (2026-06-20)
 - [aiedge_](https://x.com/aiedge_/status/2070016711341040054) (2026-06-27)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2029534926828388537) (2026-06-06)
@@ -149,6 +151,7 @@ total_mentions: 300
 - [ashtom](https://x.com/ashtom/status/1925597395192357337) (2026-09-04)
 - [atulkumarzz](https://x.com/atulkumarzz/status/2108191514811842742) (2026-10-09)
 - [bcherny](https://x.com/bcherny/status/2064431111154053187) (2026-06-15)
+- [bcherny](https://x.com/bcherny/status/2113333859907747871) (2026-10-23)
 - [beamnxw](https://x.com/beamnxw/status/2080600136456060958) (2026-08-01)
 - [beamnxw](https://x.com/beamnxw/status/2090553472865419568) (2026-08-21)
 - [bindureddy](https://x.com/bindureddy/status/2087034287396938177) (2026-08-11)
@@ -304,4 +307,5 @@ total_mentions: 300
 - [vercel_dev](https://x.com/vercel_dev/status/2065509970775519569) (2026-06-13)
 - [virgilxbt](https://x.com/virgilxbt/status/2092605992953332128) (2026-08-27)
 - [virtuals_io](https://x.com/virtuals_io/status/2063654910995145209) (2026-06-11)
+- [xsmryze](https://x.com/xsmryze/status/2113273069099688435) (2026-10-23)
 - [zostaff](https://x.com/zostaff/status/2110027184727343589) (2026-10-18)

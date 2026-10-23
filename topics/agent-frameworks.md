@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-22
-total_mentions: 599
+last_seen: 2026-10-23
+total_mentions: 603
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -236,6 +236,7 @@ total_mentions: 599
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2093183037475536942) (2026-08-28)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2098060174460424208) (2026-09-11)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2104167920305889593) (2026-09-28)
+- [RoundtableSpace](https://x.com/RoundtableSpace/status/2112819930244448277) (2026-10-23)
 - [Rukkssss__](https://x.com/Rukkssss__/status/2068218163414642701) (2026-06-20)
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2063086140799012963) (2026-06-06)
 - [SciFi](https://x.com/SciFi/status/2110997214726123929) (2026-10-16)
@@ -462,6 +463,7 @@ total_mentions: 599
 - [lamhot_ai](https://x.com/lamhot_ai/status/2081986412086493408) (2026-07-28)
 - [lee_joey50709](https://x.com/lee_joey50709/status/2076867123654140209) (2026-07-14)
 - [leopardracer](https://x.com/leopardracer/status/2074442479739318455) (2026-07-09)
+- [lqg_togo](https://x.com/lqg_togo/status/2113510660407804034) (2026-10-23)
 - [manthanguptaa](https://x.com/manthanguptaa/status/2084895891559981558) (2026-08-12)
 - [mardehaym](https://x.com/mardehaym/status/2081770600087847192) (2026-07-31)
 - [mardehaym](https://x.com/mardehaym/status/2082765372864770087) (2026-07-31)
@@ -572,6 +574,7 @@ total_mentions: 599
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2106403149162455349) (2026-10-04)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2106715907519062379) (2026-10-05)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2107169457365725616) (2026-10-06)
+- [thegreatest_sv](https://x.com/thegreatest_sv/status/2112926633594364248) (2026-10-23)
 - [themahmud5](https://x.com/themahmud5/status/2104070146709168142) (2026-09-27)
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)
 - [threerouter](https://x.com/threerouter/status/2112438675136983275) (2026-10-20)
@@ -603,4 +606,5 @@ total_mentions: 599
 - [xenovacom](https://x.com/xenovacom/status/2070210622239707568) (2026-06-27)
 - [y_sugi_it](https://x.com/y_sugi_it/status/2095302562505449951) (2026-09-03)
 - [yesh](https://x.com/yesh/status/2111987801101332698) (2026-10-19)
+- [yoheinakajima](https://x.com/yoheinakajima/status/1640934493489070080) (2026-10-23)
 - [ysiu](https://x.com/ysiu/status/2078728473909322189) (2026-07-19)

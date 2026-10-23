@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-21
-total_mentions: 201
+last_seen: 2026-10-23
+total_mentions: 203
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -62,6 +62,7 @@ total_mentions: 201
 - [Priyannkaaaa](https://x.com/Priyannkaaaa/status/2083851157324046649) (2026-08-03)
 - [Promixyz](https://x.com/Promixyz/status/2107053360700375520) (2026-10-12)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2102318232296415677) (2026-09-29)
+- [RoundtableSpace](https://x.com/RoundtableSpace/status/2112449992346517755) (2026-10-23)
 - [SIGKITTEN](https://x.com/SIGKITTEN/status/1980809995823591805) (2026-06-12)
 - [SarvamAI](https://x.com/SarvamAI/status/2074116231461011764) (2026-07-07)
 - [ShenSeanChen](https://x.com/ShenSeanChen/status/2086931006376784130) (2026-08-13)
@@ -193,6 +194,7 @@ total_mentions: 201
 - [tamrrat](https://x.com/tamrrat/status/2077136461489467450) (2026-07-15)
 - [techNmak](https://x.com/techNmak/status/2096243571410276392) (2026-09-07)
 - [tetsuoai](https://x.com/tetsuoai/status/2098199890237247578) (2026-09-11)
+- [thegreatest_sv](https://x.com/thegreatest_sv/status/2112926633594364248) (2026-10-23)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2081680037544427793) (2026-07-28)
 - [tomgreenwald](https://x.com/tomgreenwald/status/2068008885018062868) (2026-06-20)
 - [unclejohnny101](https://x.com/unclejohnny101/status/2079728030310969809) (2026-07-22)

@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-22
-total_mentions: 131
+last_seen: 2026-10-23
+total_mentions: 133
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -87,6 +87,7 @@ total_mentions: 131
 - [codyschneider](https://x.com/codyschneider/status/2081816893376057413) (2026-07-28)
 - [coreyganim](https://x.com/coreyganim/status/2084312288786276484) (2026-08-04)
 - [divaagurlxw](https://x.com/divaagurlxw/status/2087756697469440442) (2026-08-15)
+- [dkare1009](https://x.com/dkare1009/status/2112461317965590931) (2026-10-23)
 - [eigenlabs](https://x.com/eigenlabs/status/2062540745601384785) (2026-06-08)
 - [ekkostudio](https://x.com/ekkostudio/status/2107329859580047871) (2026-10-06)
 - [elune0x](https://x.com/elune0x/status/2086565685904211976) (2026-08-15)
@@ -109,6 +110,7 @@ total_mentions: 131
 - [hot_town](https://x.com/hot_town/status/2084999228439376119) (2026-08-06)
 - [huxlab](https://x.com/huxlab/status/2089564429054554267) (2026-08-19)
 - [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2097752959526330501) (2026-09-10)
+- [jnagal](https://x.com/jnagal/status/2113347021616943202) (2026-10-23)
 - [karpathy](https://x.com/karpathy/status/2109361546505966046) (2026-10-13)
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
 - [marfinxx](https://x.com/marfinxx/status/2090409251940319349) (2026-08-21)
