@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-23
-total_mentions: 603
+last_seen: 2026-10-24
+total_mentions: 607
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -186,6 +186,7 @@ total_mentions: 603
 - [Lummox_eth](https://x.com/Lummox_eth/status/2106062601289408549) (2026-10-05)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2092142425879855254) (2026-08-28)
+- [MarcoSalzmann80](https://x.com/MarcoSalzmann80/status/2111738172015046745) (2026-10-24)
 - [MarioNawfal](https://x.com/MarioNawfal/status/2085171754415038482) (2026-08-06)
 - [Market_Mind_](https://x.com/Market_Mind_/status/2088651427962921304) (2026-08-17)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
@@ -195,6 +196,7 @@ total_mentions: 603
 - [MayaAscend9](https://x.com/MayaAscend9/status/2086244103835295965) (2026-08-09)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2081303563746398665) (2026-07-28)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2084978309532647780) (2026-08-08)
+- [MiguelriosEN](https://x.com/MiguelriosEN/status/2113727904882233641) (2026-10-24)
 - [MikeLongTerm](https://x.com/MikeLongTerm/status/2109106714159075786) (2026-10-15)
 - [MilkRoadAI](https://x.com/MilkRoadAI/status/2072187752402346407) (2026-07-08)
 - [Mnilax](https://x.com/Mnilax/status/2087651578639470614) (2026-08-14)
@@ -364,6 +366,7 @@ total_mentions: 603
 - [charliejhills](https://x.com/charliejhills/status/2098351074755457321) (2026-09-17)
 - [chenzeling4](https://x.com/chenzeling4/status/2075581564088668195) (2026-07-12)
 - [chorus_agent](https://x.com/chorus_agent/status/2081798685243904101) (2026-07-28)
+- [clinicai_io](https://x.com/clinicai_io/status/2113858163011096789) (2026-10-24)
 - [code_hiyouga](https://x.com/code_hiyouga/status/2102005328691024274) (2026-09-26)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2076962984216412342) (2026-07-15)
@@ -577,6 +580,7 @@ total_mentions: 603
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2112926633594364248) (2026-10-23)
 - [themahmud5](https://x.com/themahmud5/status/2104070146709168142) (2026-09-27)
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)
+- [thorstenball](https://x.com/thorstenball/status/2113480441537995037) (2026-10-24)
 - [threerouter](https://x.com/threerouter/status/2112438675136983275) (2026-10-20)
 - [tibo_maker](https://x.com/tibo_maker/status/2105047952419094963) (2026-10-03)
 - [tom_doerr](https://x.com/tom_doerr/status/2066365949926629733) (2026-06-15)

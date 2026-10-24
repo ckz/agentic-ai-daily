@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-10-23
-total_mentions: 1071
+last_seen: 2026-10-24
+total_mentions: 1078
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -102,6 +102,7 @@ total_mentions: 1071
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2091953609185657251) (2026-08-25)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2103577007938228300) (2026-09-26)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2113328526413996100) (2026-10-23)
+- [ClaudeDevs](https://x.com/ClaudeDevs/status/2113698001889927608) (2026-10-24)
 - [Clawnch_Bot](https://x.com/Clawnch_Bot/status/2069463550788067626) (2026-06-29)
 - [Cloudflare](https://x.com/Cloudflare/status/2072311802285723953) (2026-07-04)
 - [Codestudiopjbk](https://x.com/Codestudiopjbk/status/2099855757600756008) (2026-09-18)
@@ -207,6 +208,7 @@ total_mentions: 1071
 - [KirkDBorne](https://x.com/KirkDBorne/status/2076503185225617544) (2026-07-13)
 - [Kling_ai](https://x.com/Kling_ai/status/2079944555718435124) (2026-07-24)
 - [LCSlates](https://x.com/LCSlates/status/2106066169702580719) (2026-10-04)
+- [Laurentxdev](https://x.com/Laurentxdev/status/2113865335418015876) (2026-10-24)
 - [LearnWithBishal](https://x.com/LearnWithBishal/status/2093017657423565037) (2026-08-28)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2058615544048451842) (2026-07-04)
@@ -227,6 +229,7 @@ total_mentions: 1071
 - [MAXdeg0](https://x.com/MAXdeg0/status/2106654256056938558) (2026-10-09)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2110059949900345370) (2026-10-20)
 - [MCGlive](https://x.com/MCGlive/status/2063016512521441777) (2026-06-05)
+- [MagicMotionAI](https://x.com/MagicMotionAI/status/2112740826103071162) (2026-10-24)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2083264047299092486) (2026-08-02)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2085433401562308987) (2026-08-07)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2099512757343182989) (2026-09-18)
@@ -553,6 +556,7 @@ total_mentions: 1071
 - [chongdashu](https://x.com/chongdashu/status/2089139349371973645) (2026-08-17)
 - [claudecode84](https://x.com/claudecode84/status/2089916968132575288) (2026-08-21)
 - [claudecode84](https://x.com/claudecode84/status/2099010861822075198) (2026-09-13)
+- [clinicai_io](https://x.com/clinicai_io/status/2113858163011096789) (2026-10-24)
 - [cnemalek](https://x.com/cnemalek/status/2075124631090954361) (2026-07-10)
 - [coder_surya](https://x.com/coder_surya/status/2068597286230163759) (2026-06-21)
 - [coder_surya](https://x.com/coder_surya/status/2074093504188600351) (2026-07-07)
@@ -667,6 +671,7 @@ total_mentions: 1071
 - [gavinpurcell](https://x.com/gavinpurcell/status/2103304514329854102) (2026-09-27)
 - [gavinpurcell](https://x.com/gavinpurcell/status/2109651336325451830) (2026-10-15)
 - [ghumare64](https://x.com/ghumare64/status/2107329844912754918) (2026-10-10)
+- [ghumare64](https://x.com/ghumare64/status/2113599963670397206) (2026-10-24)
 - [ginlixai](https://x.com/ginlixai/status/2112712372934906304) (2026-10-22)
 - [gippp69](https://x.com/gippp69/status/2061110941509419435) (2026-06-07)
 - [gippp69](https://x.com/gippp69/status/2088997859400032707) (2026-08-17)
@@ -827,6 +832,7 @@ total_mentions: 1071
 - [milesdeutscher](https://x.com/milesdeutscher/status/2107365244238545088) (2026-10-09)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2109222484553945557) (2026-10-12)
 - [minchoi](https://x.com/minchoi/status/2098793589811691560) (2026-09-13)
+- [mojeskoqq](https://x.com/mojeskoqq/status/2113623185316884826) (2026-10-24)
 - [morpheusdv](https://x.com/morpheusdv/status/2108921930791419918) (2026-10-12)
 - [motion_so](https://x.com/motion_so/status/2099542179697902025) (2026-09-16)
 - [motion_so](https://x.com/motion_so/status/2100280160234721660) (2026-09-19)
@@ -1067,6 +1073,7 @@ total_mentions: 1071
 - [yousefrol](https://x.com/yousefrol/status/2095443270604108143) (2026-09-10)
 - [yozm_it](https://x.com/yozm_it/status/2071417501792211397) (2026-06-29)
 - [yulmu_coffee](https://x.com/yulmu_coffee/status/2090277176663048454) (2026-08-22)
+- [yurshevv](https://x.com/yurshevv/status/2113602375583719648) (2026-10-24)
 - [zackpaid](https://x.com/zackpaid/status/2065125827864678420) (2026-06-12)
 - [zats](https://x.com/zats/status/2097867130016350476) (2026-09-11)
 - [zaynmcps](https://x.com/zaynmcps/status/2074856361595179240) (2026-07-09)

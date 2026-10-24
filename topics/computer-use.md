@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-10-23
-total_mentions: 165
+last_seen: 2026-10-24
+total_mentions: 167
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -37,6 +37,7 @@ total_mentions: 165
 - [MaxForAI](https://x.com/MaxForAI/status/2090569520717115493) (2026-08-21)
 - [MaxForAI](https://x.com/MaxForAI/status/2095954732938674377) (2026-09-05)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
+- [NavDoesTech](https://x.com/NavDoesTech/status/2113235401733550543) (2026-10-24)
 - [NeoCognition](https://x.com/NeoCognition/status/2098147185657565391) (2026-09-12)
 - [NexEcosystem](https://x.com/NexEcosystem/status/2097341149405151287) (2026-09-09)
 - [NickADobos](https://x.com/NickADobos/status/2090867101028540684) (2026-08-22)
@@ -135,6 +136,7 @@ total_mentions: 165
 - [mikoto2000](https://x.com/mikoto2000/status/2099270333522186365) (2026-09-14)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2075469825514824153) (2026-07-10)
 - [milindlabs](https://x.com/milindlabs/status/2087289803964559746) (2026-08-14)
+- [n2parko](https://x.com/n2parko/status/2113664565858975758) (2026-10-24)
 - [nealkhosla](https://x.com/nealkhosla/status/2106494469118013844) (2026-10-04)
 - [nicbstme](https://x.com/nicbstme/status/2088014852954669300) (2026-08-14)
 - [norapsi](https://x.com/norapsi/status/2095180581550305503) (2026-09-03)

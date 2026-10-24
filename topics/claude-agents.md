@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-23
-total_mentions: 304
+last_seen: 2026-10-24
+total_mentions: 308
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -76,6 +76,7 @@ total_mentions: 304
 - [HuggingPapers](https://x.com/HuggingPapers/status/2065062300218749172) (2026-06-13)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2073709900820099232) (2026-07-06)
+- [Ishh_021](https://x.com/Ishh_021/status/2111323046527312082) (2026-10-24)
 - [JJEnglert](https://x.com/JJEnglert/status/2064420538798260388) (2026-06-10)
 - [JesseisCooking](https://x.com/JesseisCooking/status/2103383326543495485) (2026-10-01)
 - [Jeyxbt](https://x.com/Jeyxbt/status/2067866973497868794) (2026-06-19)
@@ -252,6 +253,7 @@ total_mentions: 304
 - [mirku21](https://x.com/mirku21/status/2111200540772221418) (2026-10-20)
 - [mitchellh](https://x.com/mitchellh/status/2107577887159386152) (2026-10-10)
 - [mojeskoqq](https://x.com/mojeskoqq/status/2085273824413503536) (2026-08-09)
+- [mojeskoqq](https://x.com/mojeskoqq/status/2113623185316884826) (2026-10-24)
 - [noisyb0y1](https://x.com/noisyb0y1/status/2087218720594706679) (2026-08-13)
 - [noisyb0y1](https://x.com/noisyb0y1/status/2093305554445738152) (2026-09-04)
 - [noisyb0y1](https://x.com/noisyb0y1/status/2100505456129019911) (2026-09-18)
@@ -262,6 +264,7 @@ total_mentions: 304
 - [polydao](https://x.com/polydao/status/2097642088506487020) (2026-09-10)
 - [polydao](https://x.com/polydao/status/2104090661041369397) (2026-09-28)
 - [quinn_leng](https://x.com/quinn_leng/status/2110036327286886731) (2026-10-14)
+- [rakib_hossen_ai](https://x.com/rakib_hossen_ai/status/2113385135869735176) (2026-10-24)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
 - [rileybrown](https://x.com/rileybrown/status/2101027402369335382) (2026-09-19)
 - [rileybrown](https://x.com/rileybrown/status/2107320826575937563) (2026-10-07)
@@ -308,4 +311,5 @@ total_mentions: 304
 - [virgilxbt](https://x.com/virgilxbt/status/2092605992953332128) (2026-08-27)
 - [virtuals_io](https://x.com/virtuals_io/status/2063654910995145209) (2026-06-11)
 - [xsmryze](https://x.com/xsmryze/status/2113273069099688435) (2026-10-23)
+- [yurshevv](https://x.com/yurshevv/status/2113602375583719648) (2026-10-24)
 - [zostaff](https://x.com/zostaff/status/2110027184727343589) (2026-10-18)

@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-23
-total_mentions: 1560
+last_seen: 2026-10-24
+total_mentions: 1569
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -198,6 +198,7 @@ total_mentions: 1560
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2107911905822351609) (2026-10-09)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2109697083519447118) (2026-10-13)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2110893784422908225) (2026-10-16)
+- [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2113688083145314416) (2026-10-24)
 - [Artificialunbox](https://x.com/Artificialunbox/status/2068215362114715908) (2026-06-20)
 - [Aurimas_Gr](https://x.com/Aurimas_Gr/status/2084608000610754903) (2026-08-06)
 - [Ausmi129124](https://x.com/Ausmi129124/status/2068589738534260929) (2026-06-21)
@@ -383,6 +384,7 @@ total_mentions: 1560
 - [HackingDave](https://x.com/HackingDave/status/2084367299104882779) (2026-08-04)
 - [HarryBee_Yhu](https://x.com/HarryBee_Yhu/status/2067864020527292535) (2026-06-19)
 - [Harry_The_Nerd](https://x.com/Harry_The_Nerd/status/2110801408853422390) (2026-10-22)
+- [He1s_Sammy](https://x.com/He1s_Sammy/status/2112909335705571593) (2026-10-24)
 - [HedgieMarkets](https://x.com/HedgieMarkets/status/2022417260418122119) (2026-09-12)
 - [HedgieMarkets](https://x.com/HedgieMarkets/status/2062198862090023293) (2026-06-08)
 - [HermesWatcher](https://x.com/HermesWatcher/status/2093891066508517425) (2026-09-06)
@@ -485,6 +487,7 @@ total_mentions: 1560
 - [Mahaximus_](https://x.com/Mahaximus_/status/2099512757343182989) (2026-09-18)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2100228663400644700) (2026-09-19)
 - [MarMarLabs](https://x.com/MarMarLabs/status/2067798374581960840) (2026-06-19)
+- [MarcoSalzmann80](https://x.com/MarcoSalzmann80/status/2111738172015046745) (2026-10-24)
 - [MarioNawfal](https://x.com/MarioNawfal/status/2085171754415038482) (2026-08-06)
 - [Market_Mind_](https://x.com/Market_Mind_/status/2088651427962921304) (2026-08-17)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
@@ -1091,6 +1094,7 @@ total_mentions: 1560
 - [furqaan_design](https://x.com/furqaan_design/status/2093181537877651596) (2026-08-28)
 - [getmpplayer](https://x.com/getmpplayer/status/2063511395875062224) (2026-06-07)
 - [ghumare64](https://x.com/ghumare64/status/2107329844912754918) (2026-10-10)
+- [ghumare64](https://x.com/ghumare64/status/2113599963670397206) (2026-10-24)
 - [ginacostag_](https://x.com/ginacostag_/status/2107123580672541113) (2026-10-12)
 - [ginlixai](https://x.com/ginlixai/status/2112712372934906304) (2026-10-22)
 - [gippp69](https://x.com/gippp69/status/2088689999076352156) (2026-08-16)
@@ -1281,6 +1285,7 @@ total_mentions: 1560
 - [miyataArcHack](https://x.com/miyataArcHack/status/2100743410076598752) (2026-09-25)
 - [mnadirghafoor](https://x.com/mnadirghafoor/status/2071098524826268063) (2026-06-28)
 - [mojeskoqq](https://x.com/mojeskoqq/status/2085273824413503536) (2026-08-09)
+- [mojeskoqq](https://x.com/mojeskoqq/status/2113623185316884826) (2026-10-24)
 - [moninvestor](https://x.com/moninvestor/status/2104516036619853917) (2026-09-30)
 - [monmiglobal](https://x.com/monmiglobal/status/2071399421997359236) (2026-06-29)
 - [monokern](https://x.com/monokern/status/2088233393817288974) (2026-08-21)
@@ -1337,6 +1342,7 @@ total_mentions: 1560
 - [orbiteditor](https://x.com/orbiteditor/status/2075064330325041395) (2026-07-09)
 - [ordo_chain](https://x.com/ordo_chain/status/2073312746381181174) (2026-07-04)
 - [ox_aryan1](https://x.com/ox_aryan1/status/2096104089600000320) (2026-09-05)
+- [papertrade_xyz](https://x.com/papertrade_xyz/status/2112310325521399982) (2026-10-24)
 - [paywithmana](https://x.com/paywithmana/status/2074758476220473387) (2026-07-08)
 - [perksverse](https://x.com/perksverse/status/2100863579650236804) (2026-09-22)
 - [perptools](https://x.com/perptools/status/2019772688534020572) (2026-10-22)
@@ -1348,7 +1354,9 @@ total_mentions: 1560
 - [promptparag](https://x.com/promptparag/status/2064311991842574695) (2026-06-10)
 - [pushmeet](https://x.com/pushmeet/status/2065917699222560928) (2026-06-15)
 - [quantscience_](https://x.com/quantscience_/status/2073741980526313859) (2026-07-06)
+- [radbrowndads](https://x.com/radbrowndads/status/2111822563613790584) (2026-10-24)
 - [rajivayyangar](https://x.com/rajivayyangar/status/2112192667241074976) (2026-10-20)
+- [rakib_hossen_ai](https://x.com/rakib_hossen_ai/status/2113385135869735176) (2026-10-24)
 - [randy_magruder](https://x.com/randy_magruder/status/2075453861754470569) (2026-07-10)
 - [rauchg](https://x.com/rauchg/status/2073132174958841887) (2026-07-04)
 - [rauchg](https://x.com/rauchg/status/2083208578526314513) (2026-08-01)
@@ -1557,6 +1565,7 @@ total_mentions: 1560
 - [yabebets](https://x.com/yabebets/status/2109566114426732649) (2026-10-15)
 - [yacineMTB](https://x.com/yacineMTB/status/2083360208403767762) (2026-08-06)
 - [yoheinakajima](https://x.com/yoheinakajima/status/1640934493489070080) (2026-10-23)
+- [yurshevv](https://x.com/yurshevv/status/2113602375583719648) (2026-10-24)
 - [yz_aisdr](https://x.com/yz_aisdr/status/2110732455330103726) (2026-10-16)
 - [zachdotai](https://x.com/zachdotai/status/2098474668474896872) (2026-09-17)
 - [zackpaid](https://x.com/zackpaid/status/2065125827864678420) (2026-06-12)

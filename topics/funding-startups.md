@@ -1,12 +1,13 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-23
-total_mentions: 766
+last_seen: 2026-10-24
+total_mentions: 780
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
+- [0xMrPinky](https://x.com/0xMrPinky/status/2113250067415289868) (2026-10-24)
 - [0x_rody](https://x.com/0x_rody/status/2102403963865759871) (2026-09-24)
 - [0x_rody](https://x.com/0x_rody/status/2106413848982880695) (2026-10-04)
 - [0x_zoda](https://x.com/0x_zoda/status/2111666133845594507) (2026-10-18)
@@ -19,6 +20,7 @@ total_mentions: 766
 - [5eniorDeveloper](https://x.com/5eniorDeveloper/status/2097029277434757251) (2026-09-08)
 - [5harath](https://x.com/5harath/status/2082161680516063294) (2026-07-29)
 - [60Minutes](https://x.com/60Minutes/status/2106897544764678602) (2026-10-05)
+- [83dollaroring](https://x.com/83dollaroring/status/2113693907532005806) (2026-10-24)
 - [90daysliquidity](https://x.com/90daysliquidity/status/2088026533860409432) (2026-08-16)
 - [AFpost](https://x.com/AFpost/status/2078881670162202801) (2026-07-20)
 - [AISafetyMemes](https://x.com/AISafetyMemes/status/2087549262427263014) (2026-08-15)
@@ -89,7 +91,9 @@ total_mentions: 766
 - [Cointelegraph](https://x.com/Cointelegraph/status/2063005594047467893) (2026-06-05)
 - [CyberRobooo](https://x.com/CyberRobooo/status/2092844038831690046) (2026-08-27)
 - [DNIGabbard](https://x.com/DNIGabbard/status/2065440568423944607) (2026-08-27)
+- [DailyMail](https://x.com/DailyMail/status/2108068156694573555) (2026-10-24)
 - [Dan1ro0](https://x.com/Dan1ro0/status/2109773710009790681) (2026-10-13)
+- [Dan1umma](https://x.com/Dan1umma/status/2113685061723730259) (2026-10-24)
 - [DanRShafer](https://x.com/DanRShafer/status/2105454511724839281) (2026-10-01)
 - [Dan_Jeffries1](https://x.com/Dan_Jeffries1/status/2102813387176501568) (2026-09-30)
 - [DavidayoAI](https://x.com/DavidayoAI/status/2091956043240599821) (2026-08-26)
@@ -159,6 +163,7 @@ total_mentions: 766
 - [KentonVarda](https://x.com/KentonVarda/status/2084990137180590572) (2026-08-12)
 - [KetchumNfts](https://x.com/KetchumNfts/status/2083457676202086669) (2026-08-02)
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
+- [LBJs_Johnson](https://x.com/LBJs_Johnson/status/1540338968490819584) (2026-10-24)
 - [LLMJunky](https://x.com/LLMJunky/status/2108571938994217047) (2026-10-12)
 - [LayoffAI](https://x.com/LayoffAI/status/2081727806652715211) (2026-07-30)
 - [Lisa__Rodin](https://x.com/Lisa__Rodin/status/2107029235110138084) (2026-10-06)
@@ -167,6 +172,7 @@ total_mentions: 766
 - [LoopandPixels](https://x.com/LoopandPixels/status/2098261489203499127) (2026-09-11)
 - [MAGALieTracker](https://x.com/MAGALieTracker/status/2080726200213979290) (2026-08-01)
 - [MFlynn_Official](https://x.com/MFlynn_Official/status/2105740013808079153) (2026-10-06)
+- [MRR1572](https://x.com/MRR1572/status/2113851281936945651) (2026-10-24)
 - [MTSlive](https://x.com/MTSlive/status/2065073640182579322) (2026-06-12)
 - [MTSlive](https://x.com/MTSlive/status/2079701447084740739) (2026-07-22)
 - [MabreyTed](https://x.com/MabreyTed/status/2099549711103349178) (2026-09-15)
@@ -184,6 +190,7 @@ total_mentions: 766
 - [MollySOShea](https://x.com/MollySOShea/status/2092606579732251060) (2026-08-27)
 - [MollySOShea](https://x.com/MollySOShea/status/2099495482775289908) (2026-09-15)
 - [Motionsbyeddy](https://x.com/Motionsbyeddy/status/2071694912597479912) (2026-07-02)
+- [MrsBowmanWrites](https://x.com/MrsBowmanWrites/status/966572667791790081) (2026-10-24)
 - [NFT_Chen](https://x.com/NFT_Chen/status/2090276530962461131) (2026-08-22)
 - [NKLinhzk](https://x.com/NKLinhzk/status/2102924602301350339) (2026-09-25)
 - [Nancy__Diazz](https://x.com/Nancy__Diazz/status/2106851598924403130) (2026-10-05)
@@ -224,6 +231,7 @@ total_mentions: 766
 - [RichardSSutton](https://x.com/RichardSSutton/status/2076663628301058329) (2026-07-17)
 - [RodDMartin](https://x.com/RodDMartin/status/2092603407446020536) (2026-09-14)
 - [Romain_Lapeyre](https://x.com/Romain_Lapeyre/status/2079636276530037009) (2026-07-22)
+- [RonFilipkowski](https://x.com/RonFilipkowski/status/2108631682186150075) (2026-10-24)
 - [RonWyden](https://x.com/RonWyden/status/2100607347739578597) (2026-09-23)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2032664263882674275) (2026-06-09)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2096844664980832620) (2026-09-07)
@@ -255,6 +263,7 @@ total_mentions: 766
 - [StartupArchive_](https://x.com/StartupArchive_/status/2061052571876520406) (2026-06-07)
 - [Steve8708](https://x.com/Steve8708/status/2041909436059615442) (2026-06-06)
 - [StockSavvyShay](https://x.com/StockSavvyShay/status/2106121027948605702) (2026-10-04)
+- [StockSavvyShay](https://x.com/StockSavvyShay/status/2113744308063076439) (2026-10-24)
 - [Suhail](https://x.com/Suhail/status/2096400764126318843) (2026-09-06)
 - [Suhail](https://x.com/Suhail/status/2096611718445285438) (2026-09-07)
 - [SultanAlFardan](https://x.com/SultanAlFardan/status/2089552684491657307) (2026-08-18)
@@ -441,6 +450,7 @@ total_mentions: 766
 - [edinsoncode](https://x.com/edinsoncode/status/2089677825125368297) (2026-08-19)
 - [edinsoncode](https://x.com/edinsoncode/status/2101265656498782671) (2026-09-20)
 - [egraciani](https://x.com/egraciani/status/2096244534422253635) (2026-09-06)
+- [elonmusk](https://x.com/elonmusk/status/1877717446779428923) (2026-10-24)
 - [elonmusk](https://x.com/elonmusk/status/1895402040400212271) (2026-10-16)
 - [elonmusk](https://x.com/elonmusk/status/1901651592119476509) (2026-10-16)
 - [elonmusk](https://x.com/elonmusk/status/1906229604798312777) (2026-10-16)
@@ -477,6 +487,7 @@ total_mentions: 766
 - [gregisenberg](https://x.com/gregisenberg/status/1893687593755164940) (2026-07-03)
 - [gregisenberg](https://x.com/gregisenberg/status/1906697683089101113) (2026-07-20)
 - [gregisenberg](https://x.com/gregisenberg/status/1913582333229142177) (2026-06-21)
+- [gregisenberg](https://x.com/gregisenberg/status/1949836925952508324) (2026-10-24)
 - [gregisenberg](https://x.com/gregisenberg/status/1984641062527197234) (2026-07-16)
 - [gregisenberg](https://x.com/gregisenberg/status/2052110589682749869) (2026-07-03)
 - [gregisenberg](https://x.com/gregisenberg/status/2059274608759480367) (2026-07-16)
@@ -587,6 +598,7 @@ total_mentions: 766
 - [milesdeutscher](https://x.com/milesdeutscher/status/2100041731614150901) (2026-09-16)
 - [mitchellsniffle](https://x.com/mitchellsniffle/status/2108954459308978613) (2026-10-17)
 - [moneyacademyKE](https://x.com/moneyacademyKE/status/2080286044813926579) (2026-07-29)
+- [moneyacademyKE](https://x.com/moneyacademyKE/status/2113472378332459288) (2026-10-24)
 - [mpopv](https://x.com/mpopv/status/2101308984791798189) (2026-09-21)
 - [mr_bailando](https://x.com/mr_bailando/status/2086142677360226342) (2026-08-09)
 - [nanransohoff](https://x.com/nanransohoff/status/2069761661456601188) (2026-06-28)
@@ -621,6 +633,7 @@ total_mentions: 766
 - [pelositracker](https://x.com/pelositracker/status/2080314321649746194) (2026-07-26)
 - [pengsonal](https://x.com/pengsonal/status/2102668006023410105) (2026-09-24)
 - [petergyang](https://x.com/petergyang/status/2106749997442285981) (2026-10-09)
+- [piacilegy](https://x.com/piacilegy/status/2112609712982389102) (2026-10-24)
 - [pierreeliottlal](https://x.com/pierreeliottlal/status/2066037831626362988) (2026-06-14)
 - [pitdesi](https://x.com/pitdesi/status/2098178397008781823) (2026-09-12)
 - [piyascode9](https://x.com/piyascode9/status/2106945216154669240) (2026-10-05)
@@ -748,6 +761,7 @@ total_mentions: 766
 - [vigneshxtech](https://x.com/vigneshxtech/status/2068597287010349323) (2026-06-21)
 - [vipulved](https://x.com/vipulved/status/2072321276094673083) (2026-07-02)
 - [wallstengine](https://x.com/wallstengine/status/2102904194604937232) (2026-09-24)
+- [waspiiastri](https://x.com/waspiiastri/status/2112883681094447350) (2026-10-24)
 - [wh0sumit](https://x.com/wh0sumit/status/2096847253550063656) (2026-09-07)
 - [wickedguro](https://x.com/wickedguro/status/2072654822449586327) (2026-07-09)
 - [wickedguro](https://x.com/wickedguro/status/2081582808041210156) (2026-07-27)
