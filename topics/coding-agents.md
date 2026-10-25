@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-24
-total_mentions: 203
+last_seen: 2026-10-25
+total_mentions: 205
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -35,6 +35,7 @@ total_mentions: 203
 - [EXM7777](https://x.com/EXM7777/status/2086512844594679820) (2026-08-14)
 - [FareaNFts](https://x.com/FareaNFts/status/2072985538756317458) (2026-07-07)
 - [GodsBoy7777](https://x.com/GodsBoy7777/status/2102146460821152070) (2026-09-22)
+- [Greshamtrade](https://x.com/Greshamtrade/status/2113369499801960699) (2026-10-25)
 - [Hartdrawss](https://x.com/Hartdrawss/status/2096924182260875471) (2026-09-10)
 - [HelloRH_AI](https://x.com/HelloRH_AI/status/2077711932774105164) (2026-07-18)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
@@ -206,5 +207,6 @@ total_mentions: 203
 - [unicodef1wn](https://x.com/unicodef1wn/status/2088581651332805021) (2026-08-22)
 - [vechainofficial](https://x.com/vechainofficial/status/2062450242360885371) (2026-06-09)
 - [vercel_dev](https://x.com/vercel_dev/status/2089828083415355806) (2026-08-25)
+- [vinhnx](https://x.com/vinhnx/status/2109084805753410029) (2026-10-25)
 - [warpdotdev](https://x.com/warpdotdev/status/1937525185843752969) (2026-06-07)
 - [zachbruggeman](https://x.com/zachbruggeman/status/2010728444771074493) (2026-10-01)

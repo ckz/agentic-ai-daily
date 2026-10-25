@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-10-24
-total_mentions: 167
+last_seen: 2026-10-25
+total_mentions: 170
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -55,6 +55,7 @@ total_mentions: 167
 - [SamSokolin](https://x.com/SamSokolin/status/2094824011427373415) (2026-09-03)
 - [SimularAI](https://x.com/SimularAI/status/2093009990663434361) (2026-08-28)
 - [SimularAI](https://x.com/SimularAI/status/2107168861388980400) (2026-10-08)
+- [SimularAI](https://x.com/SimularAI/status/2113665077215625360) (2026-10-25)
 - [SkyeSharkie](https://x.com/SkyeSharkie/status/2092122622834442581) (2026-08-29)
 - [SultanAlsafran](https://x.com/SultanAlsafran/status/2101254033067434359) (2026-09-21)
 - [SyntheticBeef](https://x.com/SyntheticBeef/status/2107559197370138824) (2026-10-07)
@@ -84,6 +85,7 @@ total_mentions: 167
 - [ataiiam](https://x.com/ataiiam/status/2105710796198322659) (2026-10-02)
 - [awlevin](https://x.com/awlevin/status/2100262612428894676) (2026-09-17)
 - [bcherny](https://x.com/bcherny/status/2095378890370019683) (2026-09-06)
+- [bode_sule](https://x.com/bode_sule/status/2114225364717482179) (2026-10-25)
 - [businessbarista](https://x.com/businessbarista/status/2101061801571938529) (2026-09-22)
 - [chaotictransfem](https://x.com/chaotictransfem/status/2105011559756181620) (2026-09-30)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
@@ -131,6 +133,7 @@ total_mentions: 167
 - [markchen90](https://x.com/markchen90/status/2095597534412673109) (2026-09-04)
 - [martin_casado](https://x.com/martin_casado/status/2096648261759389983) (2026-09-07)
 - [matchaman11](https://x.com/matchaman11/status/2105009171976610030) (2026-09-30)
+- [math_fournity](https://x.com/math_fournity/status/2112268963610857875) (2026-10-25)
 - [mattdeitke](https://x.com/mattdeitke/status/2102912355638382997) (2026-09-26)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2098738486014537803) (2026-09-13)
 - [mikoto2000](https://x.com/mikoto2000/status/2099270333522186365) (2026-09-14)

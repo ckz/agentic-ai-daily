@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-10-24
-total_mentions: 1078
+last_seen: 2026-10-25
+total_mentions: 1084
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -90,6 +90,7 @@ total_mentions: 1078
 - [Blockworks](https://x.com/Blockworks/status/2105663711373631730) (2026-10-02)
 - [Bober_smart](https://x.com/Bober_smart/status/2109715874089431223) (2026-10-18)
 - [BradGroux](https://x.com/BradGroux/status/2065096482831659348) (2026-06-13)
+- [CAStockLens](https://x.com/CAStockLens/status/2114214491357688317) (2026-10-25)
 - [ChemistDeFi](https://x.com/ChemistDeFi/status/2079486844257833203) (2026-07-28)
 - [Chriz_emy](https://x.com/Chriz_emy/status/2079291257944510883) (2026-07-21)
 - [Chriz_emy](https://x.com/Chriz_emy/status/2079370957169324474) (2026-07-21)
@@ -144,6 +145,8 @@ total_mentions: 1078
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2081331200942362651) (2026-07-27)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2091414546103828822) (2026-08-23)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2098120874524389776) (2026-09-13)
+- [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2113244292898783482) (2026-10-25)
+- [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2113967691564495014) (2026-10-25)
 - [DotCSV](https://x.com/DotCSV/status/2076725628963783114) (2026-07-17)
 - [DrMaalfaifi](https://x.com/DrMaalfaifi/status/2095821023207633120) (2026-09-09)
 - [EHuanglu](https://x.com/EHuanglu/status/2077091952252875189) (2026-07-15)
@@ -174,8 +177,10 @@ total_mentions: 1078
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2091248280365682688) (2026-08-24)
 - [GitTrend0x](https://x.com/GitTrend0x/status/2085190556674904253) (2026-08-07)
 - [GithubProjects](https://x.com/GithubProjects/status/2063327571698434443) (2026-06-07)
+- [GoogleDeepMind](https://x.com/GoogleDeepMind/status/2113645959762575623) (2026-10-25)
 - [Greshamtrade](https://x.com/Greshamtrade/status/2111868294974112108) (2026-10-22)
 - [Greshamtrade](https://x.com/Greshamtrade/status/2112270735116812640) (2026-10-22)
+- [Greshamtrade](https://x.com/Greshamtrade/status/2113369499801960699) (2026-10-25)
 - [Grow_withAI](https://x.com/Grow_withAI/status/2106731541221306757) (2026-10-06)
 - [Harry_The_Nerd](https://x.com/Harry_The_Nerd/status/2110801408853422390) (2026-10-22)
 - [He1s_Sammy](https://x.com/He1s_Sammy/status/2091799479720497402) (2026-08-28)
@@ -258,6 +263,7 @@ total_mentions: 1078
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106251206524014747) (2026-10-10)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106601226276118967) (2026-10-05)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2109514844252807435) (2026-10-12)
+- [Mohiniuni](https://x.com/Mohiniuni/status/2113503183997719010) (2026-10-25)
 - [MoureDev](https://x.com/MoureDev/status/2092961532766212193) (2026-09-03)
 - [MrDasOnX](https://x.com/MrDasOnX/status/2066029379512418431) (2026-06-14)
 - [MrOnsase](https://x.com/MrOnsase/status/2081599328058253340) (2026-07-27)

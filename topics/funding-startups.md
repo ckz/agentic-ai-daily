@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-24
-total_mentions: 780
+last_seen: 2026-10-25
+total_mentions: 788
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
@@ -165,6 +165,7 @@ total_mentions: 780
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
 - [LBJs_Johnson](https://x.com/LBJs_Johnson/status/1540338968490819584) (2026-10-24)
 - [LLMJunky](https://x.com/LLMJunky/status/2108571938994217047) (2026-10-12)
+- [LagoonLabsMv](https://x.com/LagoonLabsMv/status/2112134859422367940) (2026-10-25)
 - [LayoffAI](https://x.com/LayoffAI/status/2081727806652715211) (2026-07-30)
 - [Lisa__Rodin](https://x.com/Lisa__Rodin/status/2107029235110138084) (2026-10-06)
 - [Logically_JC](https://x.com/Logically_JC/status/2103837834767421657) (2026-10-02)
@@ -193,6 +194,7 @@ total_mentions: 780
 - [MrsBowmanWrites](https://x.com/MrsBowmanWrites/status/966572667791790081) (2026-10-24)
 - [NFT_Chen](https://x.com/NFT_Chen/status/2090276530962461131) (2026-08-22)
 - [NKLinhzk](https://x.com/NKLinhzk/status/2102924602301350339) (2026-09-25)
+- [NamanyayG](https://x.com/NamanyayG/status/2114213361793839181) (2026-10-25)
 - [Nancy__Diazz](https://x.com/Nancy__Diazz/status/2106851598924403130) (2026-10-05)
 - [NextLvlFunded](https://x.com/NextLvlFunded/status/2061795412986728637) (2026-06-05)
 - [Nim_Ravid1](https://x.com/Nim_Ravid1/status/2077785419912188236) (2026-07-17)
@@ -288,6 +290,7 @@ total_mentions: 780
 - [TrungTPhan](https://x.com/TrungTPhan/status/2107631399952126139) (2026-10-07)
 - [TruthFairy131](https://x.com/TruthFairy131/status/2103348493108822047) (2026-10-01)
 - [Uncommonsince76](https://x.com/Uncommonsince76/status/2103524825218138565) (2026-10-01)
+- [VadimStrizheus](https://x.com/VadimStrizheus/status/2113285053270695983) (2026-10-25)
 - [Variety](https://x.com/Variety/status/2078236164197322969) (2026-07-18)
 - [VerticalPropX](https://x.com/VerticalPropX/status/2102069839607062863) (2026-09-23)
 - [Vicmunro](https://x.com/Vicmunro/status/2093675879444402505) (2026-09-01)
@@ -335,6 +338,7 @@ total_mentions: 780
 - [alex_verem](https://x.com/alex_verem/status/2090118956912939041) (2026-08-25)
 - [alexisohanian](https://x.com/alexisohanian/status/2103856308890017955) (2026-09-29)
 - [alexmashrabov](https://x.com/alexmashrabov/status/2103239620532351295) (2026-09-30)
+- [alexsaraki](https://x.com/alexsaraki/status/2113671979081572512) (2026-10-25)
 - [alexwtlf](https://x.com/alexwtlf/status/2088666562580328570) (2026-08-22)
 - [ama_protocol](https://x.com/ama_protocol/status/2108893709945483531) (2026-10-11)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2074651564136894627) (2026-07-08)
@@ -427,6 +431,7 @@ total_mentions: 780
 - [creem_io](https://x.com/creem_io/status/2100479871466020889) (2026-09-20)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1872809091799875592) (2026-06-29)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2076868034812096748) (2026-07-14)
+- [cyvanessali](https://x.com/cyvanessali/status/2114083981549515019) (2026-10-25)
 - [danellisona](https://x.com/danellisona/status/2108357119787631069) (2026-10-09)
 - [danmall](https://x.com/danmall/status/2103615627323727941) (2026-09-27)
 - [darbyw](https://x.com/darbyw/status/2092718828405096955) (2026-08-27)
@@ -504,6 +509,7 @@ total_mentions: 780
 - [gregisenberg](https://x.com/gregisenberg/status/2095538589543059535) (2026-09-05)
 - [gregisenberg](https://x.com/gregisenberg/status/2105397216374403561) (2026-10-03)
 - [gregisenberg](https://x.com/gregisenberg/status/2110414696037716372) (2026-10-15)
+- [gregisenberg](https://x.com/gregisenberg/status/2113721373482987970) (2026-10-25)
 - [hanghuang_](https://x.com/hanghuang_/status/2104949571789148416) (2026-10-01)
 - [hanifproduktif](https://x.com/hanifproduktif/status/2108025812448600435) (2026-10-09)
 - [harbingerofwoke](https://x.com/harbingerofwoke/status/2090178064399613976) (2026-10-01)
@@ -562,6 +568,7 @@ total_mentions: 780
 - [kseniam0s](https://x.com/kseniam0s/status/2111141570925723884) (2026-10-21)
 - [kseniam0s](https://x.com/kseniam0s/status/2111472765878325355) (2026-10-18)
 - [lami_thefirst](https://x.com/lami_thefirst/status/2097224273853129017) (2026-09-08)
+- [larry_mcwethy](https://x.com/larry_mcwethy/status/2113619948023304543) (2026-10-25)
 - [launchwhasmik](https://x.com/launchwhasmik/status/2104542307680719043) (2026-10-02)
 - [levelsio](https://x.com/levelsio/status/2102739359715774665) (2026-09-25)
 - [levelsio](https://x.com/levelsio/status/2112686345617547538) (2026-10-23)
@@ -632,6 +639,7 @@ total_mentions: 780
 - [peer_rich](https://x.com/peer_rich/status/2062949788081897633) (2026-06-05)
 - [pelositracker](https://x.com/pelositracker/status/2080314321649746194) (2026-07-26)
 - [pengsonal](https://x.com/pengsonal/status/2102668006023410105) (2026-09-24)
+- [peterbakernyt](https://x.com/peterbakernyt/status/2113998155180130696) (2026-10-25)
 - [petergyang](https://x.com/petergyang/status/2106749997442285981) (2026-10-09)
 - [piacilegy](https://x.com/piacilegy/status/2112609712982389102) (2026-10-24)
 - [pierreeliottlal](https://x.com/pierreeliottlal/status/2066037831626362988) (2026-06-14)

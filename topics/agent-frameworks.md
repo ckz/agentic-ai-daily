@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-24
-total_mentions: 607
+last_seen: 2026-10-25
+total_mentions: 612
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -63,6 +63,7 @@ total_mentions: 607
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2072680780829212923) (2026-07-04)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2089511874824212925) (2026-08-18)
 - [BridgingNews_](https://x.com/BridgingNews_/status/2087418050660483509) (2026-08-12)
+- [CAStockLens](https://x.com/CAStockLens/status/2114214491357688317) (2026-10-25)
 - [CSVisionPapers](https://x.com/CSVisionPapers/status/2072902537439481931) (2026-07-03)
 - [CapexAndChill](https://x.com/CapexAndChill/status/2073965340476768534) (2026-07-06)
 - [Changxiu_leo_ji](https://x.com/Changxiu_leo_ji/status/2107153972859695222) (2026-10-06)
@@ -114,6 +115,8 @@ total_mentions: 607
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2094528029724950563) (2026-09-03)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2096990554529955934) (2026-09-13)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2098120874524389776) (2026-09-13)
+- [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2113244292898783482) (2026-10-25)
+- [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2113967691564495014) (2026-10-25)
 - [DrJimFan](https://x.com/DrJimFan/status/2111128797181567466) (2026-10-17)
 - [EmmanuelInvest](https://x.com/EmmanuelInvest/status/2076724041302319246) (2026-07-14)
 - [EthenaFndtn](https://x.com/EthenaFndtn/status/2092976592738001383) (2026-08-28)
@@ -148,6 +151,7 @@ total_mentions: 607
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2103208899650437286) (2026-09-25)
 - [GpaAndy](https://x.com/GpaAndy/status/2101129153172910212) (2026-09-20)
+- [Greshamtrade](https://x.com/Greshamtrade/status/2113369499801960699) (2026-10-25)
 - [Gustafssonkotte](https://x.com/Gustafssonkotte/status/2082309711785849067) (2026-08-01)
 - [HackingDave](https://x.com/HackingDave/status/2069146467701256423) (2026-06-29)
 - [HarryBee_Yhu](https://x.com/HarryBee_Yhu/status/2067864020527292535) (2026-06-19)
@@ -356,6 +360,7 @@ total_mentions: 607
 - [bettercalltonny](https://x.com/bettercalltonny/status/2087599007518302487) (2026-08-16)
 - [bindureddy](https://x.com/bindureddy/status/2076165296977858836) (2026-07-12)
 - [bizbreakdowns](https://x.com/bizbreakdowns/status/2081711200643985720) (2026-07-29)
+- [bode_sule](https://x.com/bode_sule/status/2114225364717482179) (2026-10-25)
 - [bonsaixbt](https://x.com/bonsaixbt/status/2077722769194615193) (2026-07-17)
 - [bostonavionics](https://x.com/bostonavionics/status/2063158549568684369) (2026-06-06)
 - [businessbarista](https://x.com/businessbarista/status/2082146039801217333) (2026-07-31)

@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-23
-total_mentions: 112
+last_seen: 2026-10-25
+total_mentions: 113
 
 ## Related Tweets
 - [0xDepressionn](https://x.com/0xDepressionn/status/2063987019068371128) (2026-06-10)
@@ -71,6 +71,7 @@ total_mentions: 112
 - [alexxubyte](https://x.com/alexxubyte/status/2062186586431987780) (2026-06-05)
 - [alexxubyte](https://x.com/alexxubyte/status/2079947947173933452) (2026-07-23)
 - [bindureddy](https://x.com/bindureddy/status/2070718551422591255) (2026-06-27)
+- [bode_sule](https://x.com/bode_sule/status/2114225364717482179) (2026-10-25)
 - [calbuldelis69](https://x.com/calbuldelis69/status/2109705355798384767) (2026-10-13)
 - [clapilot](https://x.com/clapilot/status/2063510331716952191) (2026-06-07)
 - [coledermo](https://x.com/coledermo/status/2093020717902176637) (2026-09-02)

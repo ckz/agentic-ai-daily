@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-24
-total_mentions: 133
+last_seen: 2026-10-25
+total_mentions: 135
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -58,6 +58,7 @@ total_mentions: 133
 - [Mahaximus_](https://x.com/Mahaximus_/status/2099512757343182989) (2026-09-18)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106251206524014747) (2026-10-10)
+- [Mohiniuni](https://x.com/Mohiniuni/status/2113503183997719010) (2026-10-25)
 - [N01ennn](https://x.com/N01ennn/status/2089455117716406706) (2026-08-18)
 - [RhysSullivan](https://x.com/RhysSullivan/status/2073538819132207489) (2026-07-05)
 - [RohOnChain](https://x.com/RohOnChain/status/2086800845036040598) (2026-08-11)
@@ -105,6 +106,7 @@ total_mentions: 133
 - [googlegemma](https://x.com/googlegemma/status/2064742570417180894) (2026-06-14)
 - [gregisenberg](https://x.com/gregisenberg/status/2052110589682749869) (2026-07-03)
 - [gregisenberg](https://x.com/gregisenberg/status/2088988857417044432) (2026-08-17)
+- [gregisenberg](https://x.com/gregisenberg/status/2113721373482987970) (2026-10-25)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [hot_town](https://x.com/hot_town/status/2084999228439376119) (2026-08-06)

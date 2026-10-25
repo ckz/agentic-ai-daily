@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-24
-total_mentions: 308
+last_seen: 2026-10-25
+total_mentions: 310
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -115,6 +115,7 @@ total_mentions: 308
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2109966127111540755) (2026-10-17)
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2079048442073280524) (2026-07-21)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
+- [SimularAI](https://x.com/SimularAI/status/2113665077215625360) (2026-10-25)
 - [Steve8708](https://x.com/Steve8708/status/2077051086234685641) (2026-07-15)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2081761224241627420) (2026-07-28)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2085050709733495262) (2026-08-10)
@@ -238,6 +239,7 @@ total_mentions: 308
 - [kunalstwt](https://x.com/kunalstwt/status/2073978095644643520) (2026-07-06)
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
 - [lksmlabc](https://x.com/lksmlabc/status/2096524556123115628) (2026-09-09)
+- [longhaiqwe123](https://x.com/longhaiqwe123/status/2114031712430948410) (2026-10-25)
 - [marfinxx](https://x.com/marfinxx/status/2102729802708918385) (2026-09-24)
 - [marfinxx](https://x.com/marfinxx/status/2107093610604765199) (2026-10-10)
 - [masahirochaen](https://x.com/masahirochaen/status/2108420294570574068) (2026-10-13)

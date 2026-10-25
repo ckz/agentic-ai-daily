@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-24
-total_mentions: 1569
+last_seen: 2026-10-25
+total_mentions: 1578
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -244,6 +244,7 @@ total_mentions: 1569
 - [BullTheoryio](https://x.com/BullTheoryio/status/2071085098976637021) (2026-06-28)
 - [BullsCryptoTeam](https://x.com/BullsCryptoTeam/status/2112209145785114892) (2026-10-20)
 - [Bullshot911](https://x.com/Bullshot911/status/2083650189034930525) (2026-08-02)
+- [CAStockLens](https://x.com/CAStockLens/status/2114214491357688317) (2026-10-25)
 - [CSVisionPapers](https://x.com/CSVisionPapers/status/2072902537439481931) (2026-07-03)
 - [Caccy_001](https://x.com/Caccy_001/status/2082330961602044367) (2026-07-29)
 - [CapexAndChill](https://x.com/CapexAndChill/status/2073438257879097642) (2026-07-05)
@@ -327,6 +328,8 @@ total_mentions: 1569
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2096906995521450368) (2026-09-08)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2096990554529955934) (2026-09-13)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2098120874524389776) (2026-09-13)
+- [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2113244292898783482) (2026-10-25)
+- [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2113967691564495014) (2026-10-25)
 - [DrDatta_AIIMS](https://x.com/DrDatta_AIIMS/status/2085258786403655808) (2026-08-13)
 - [DrJimFan](https://x.com/DrJimFan/status/2111128797181567466) (2026-10-17)
 - [Dr_Singularity](https://x.com/Dr_Singularity/status/2094797783601414196) (2026-09-03)
@@ -393,6 +396,7 @@ total_mentions: 1569
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [HeyShobhan](https://x.com/HeyShobhan/status/2107810215680987529) (2026-10-11)
+- [HoodieFade_](https://x.com/HoodieFade_/status/2112634990542692708) (2026-10-25)
 - [HowToAI_](https://x.com/HowToAI_/status/2062105627204423994) (2026-06-06)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2089180119973990492) (2026-08-19)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2097489050332692836) (2026-09-11)
@@ -486,6 +490,7 @@ total_mentions: 1569
 - [Mahaximus_](https://x.com/Mahaximus_/status/2097686992351862851) (2026-09-10)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2099512757343182989) (2026-09-18)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2100228663400644700) (2026-09-19)
+- [Mahaximus_](https://x.com/Mahaximus_/status/2113994869513277546) (2026-10-25)
 - [MarMarLabs](https://x.com/MarMarLabs/status/2067798374581960840) (2026-06-19)
 - [MarcoSalzmann80](https://x.com/MarcoSalzmann80/status/2111738172015046745) (2026-10-24)
 - [MarioNawfal](https://x.com/MarioNawfal/status/2085171754415038482) (2026-08-06)
@@ -514,6 +519,7 @@ total_mentions: 1569
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106251206524014747) (2026-10-10)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106601226276118967) (2026-10-05)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2109514844252807435) (2026-10-12)
+- [Mohiniuni](https://x.com/Mohiniuni/status/2113503183997719010) (2026-10-25)
 - [MoonDevOnYT](https://x.com/MoonDevOnYT/status/2072462757379612916) (2026-07-07)
 - [Motionfly_co](https://x.com/Motionfly_co/status/2089054633121419468) (2026-08-17)
 - [MrOnsase](https://x.com/MrOnsase/status/2075841247223165124) (2026-07-11)
@@ -903,6 +909,7 @@ total_mentions: 1569
 - [bl888m_eth](https://x.com/bl888m_eth/status/2094452487059353864) (2026-09-03)
 - [bl888m_eth](https://x.com/bl888m_eth/status/2103889427496124849) (2026-09-28)
 - [blocks_ai_](https://x.com/blocks_ai_/status/2110953639258865872) (2026-10-16)
+- [bode_sule](https://x.com/bode_sule/status/2114225364717482179) (2026-10-25)
 - [bondaicommunity](https://x.com/bondaicommunity/status/2071466190359220413) (2026-06-29)
 - [bonduelleioat](https://x.com/bonduelleioat/status/2075607394428617199) (2026-07-13)
 - [bonsaixbt](https://x.com/bonsaixbt/status/2077722769194615193) (2026-07-17)
@@ -1351,6 +1358,7 @@ total_mentions: 1569
 - [praveenTweets](https://x.com/praveenTweets/status/2074605343439810922) (2026-07-09)
 - [praveenTweets](https://x.com/praveenTweets/status/2093012409841774782) (2026-08-30)
 - [princeNFA](https://x.com/princeNFA/status/2112773639351214586) (2026-10-21)
+- [proAlishke](https://x.com/proAlishke/status/2114102351246033204) (2026-10-25)
 - [promptparag](https://x.com/promptparag/status/2064311991842574695) (2026-06-10)
 - [pushmeet](https://x.com/pushmeet/status/2065917699222560928) (2026-06-15)
 - [quantscience_](https://x.com/quantscience_/status/2073741980526313859) (2026-07-06)
@@ -1534,6 +1542,7 @@ total_mentions: 1569
 - [triptitips](https://x.com/triptitips/status/2103681542602265021) (2026-09-29)
 - [trythreews](https://x.com/trythreews/status/2075519714890334698) (2026-07-12)
 - [trythreews](https://x.com/trythreews/status/2096260452875644976) (2026-09-12)
+- [tsukiema_](https://x.com/tsukiema_/status/2113988709150261313) (2026-10-25)
 - [typesfast](https://x.com/typesfast/status/2086837223148962283) (2026-08-11)
 - [ungoai_bnb](https://x.com/ungoai_bnb/status/2112692052333125866) (2026-10-21)
 - [unicity_labs](https://x.com/unicity_labs/status/2074864232621892083) (2026-07-10)
