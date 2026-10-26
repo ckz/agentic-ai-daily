@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-10-25
-total_mentions: 394
+last_seen: 2026-10-26
+total_mentions: 396
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -214,6 +214,7 @@ total_mentions: 394
 - [ajay_2512x](https://x.com/ajay_2512x/status/2062378424807928253) (2026-06-07)
 - [alexandr_wang](https://x.com/alexandr_wang/status/2086523558940028995) (2026-08-11)
 - [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)
+- [angeldot_](https://x.com/angeldot_/status/2114374287549157402) (2026-10-26)
 - [antigravity](https://x.com/antigravity/status/2070930161785069927) (2026-06-29)
 - [antpalkin](https://x.com/antpalkin/status/2083984184637374655) (2026-08-03)
 - [antpalkin](https://x.com/antpalkin/status/2102103070112936071) (2026-09-25)
@@ -377,6 +378,7 @@ total_mentions: 394
 - [swarms_corp](https://x.com/swarms_corp/status/2065570314268885211) (2026-06-13)
 - [techNmak](https://x.com/techNmak/status/2091434187446439969) (2026-08-24)
 - [thedelost](https://x.com/thedelost/status/2110472847084650726) (2026-10-16)
+- [thedelost](https://x.com/thedelost/status/2114016386896773177) (2026-10-26)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2103095101165633624) (2026-09-27)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2106403149162455349) (2026-10-04)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2106715907519062379) (2026-10-05)

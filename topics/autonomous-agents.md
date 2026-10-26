@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-25
-total_mentions: 1578
+last_seen: 2026-10-26
+total_mentions: 1584
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -60,6 +60,7 @@ total_mentions: 1578
 - [0xMovez](https://x.com/0xMovez/status/2089744087889142217) (2026-08-19)
 - [0xMovez](https://x.com/0xMovez/status/2090107443296498179) (2026-08-20)
 - [0xMovez](https://x.com/0xMovez/status/2098512033675141286) (2026-09-13)
+- [0xPritom](https://x.com/0xPritom/status/2114193806929297550) (2026-10-26)
 - [0xRiRoyal](https://x.com/0xRiRoyal/status/2085228220841083125) (2026-08-06)
 - [0xRiRoyal](https://x.com/0xRiRoyal/status/2101894204758839756) (2026-09-21)
 - [0xRiRoyal](https://x.com/0xRiRoyal/status/2103713431786320262) (2026-09-27)
@@ -617,6 +618,7 @@ total_mentions: 1578
 - [RitOnchain](https://x.com/RitOnchain/status/2090076460698787900) (2026-08-21)
 - [RitOnchain](https://x.com/RitOnchain/status/2090455054876864748) (2026-08-21)
 - [RitOnchain](https://x.com/RitOnchain/status/2094705814317752701) (2026-09-05)
+- [Rizvi_On_X](https://x.com/Rizvi_On_X/status/2114207284897501446) (2026-10-26)
 - [RoKhanna](https://x.com/RoKhanna/status/2097754129489596612) (2026-09-12)
 - [RobertTLange](https://x.com/RobertTLange/status/2081651553929494693) (2026-07-28)
 - [RobinHubHB](https://x.com/RobinHubHB/status/2080004956216611060) (2026-07-29)
@@ -843,6 +845,7 @@ total_mentions: 1578
 - [allen_lattimer](https://x.com/allen_lattimer/status/2098802988722815384) (2026-09-13)
 - [allen_lattimer](https://x.com/allen_lattimer/status/2102788618637226032) (2026-09-25)
 - [allen_lattimer](https://x.com/allen_lattimer/status/2111124859598323951) (2026-10-17)
+- [allmeasures](https://x.com/allmeasures/status/2112233044472156329) (2026-10-26)
 - [allred_chase](https://x.com/allred_chase/status/1856720253847298051) (2026-10-20)
 - [ama_protocol](https://x.com/ama_protocol/status/2111774426920353887) (2026-10-21)
 - [amankk_9](https://x.com/amankk_9/status/2065336699287429224) (2026-06-12)
@@ -1266,6 +1269,7 @@ total_mentions: 1578
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [maxescu](https://x.com/maxescu/status/2087195649561317511) (2026-08-13)
 - [mcganty](https://x.com/mcganty/status/2073086969408794735) (2026-07-04)
+- [mdshefat217](https://x.com/mdshefat217/status/2114557706434752543) (2026-10-26)
 - [melisx402](https://x.com/melisx402/status/2070835381684048269) (2026-06-29)
 - [merill](https://x.com/merill/status/2081882573551399136) (2026-08-01)
 - [meta_alchemist](https://x.com/meta_alchemist/status/2086949064177037782) (2026-08-11)
@@ -1300,6 +1304,7 @@ total_mentions: 1578
 - [mvanhorn](https://x.com/mvanhorn/status/2074955232728281432) (2026-07-09)
 - [myshell_ai](https://x.com/myshell_ai/status/1874804449023266943) (2026-07-10)
 - [nabeelqu](https://x.com/nabeelqu/status/2094208251688595676) (2026-09-06)
+- [nanbeige](https://x.com/nanbeige/status/2114328933181333798) (2026-10-26)
 - [ndmccormack](https://x.com/ndmccormack/status/2112701653098930296) (2026-10-21)
 - [neil_xbt](https://x.com/neil_xbt/status/2067822430014632239) (2026-06-19)
 - [neil_xbt](https://x.com/neil_xbt/status/2089566708839206979) (2026-08-18)
@@ -1309,6 +1314,7 @@ total_mentions: 1578
 - [nichxbt](https://x.com/nichxbt/status/2071763989030478016) (2026-07-01)
 - [nickcammarata](https://x.com/nickcammarata/status/2110757819427574056) (2026-10-18)
 - [nikesharora](https://x.com/nikesharora/status/2097775700627578963) (2026-09-16)
+- [nikesharora](https://x.com/nikesharora/status/2114372350707986492) (2026-10-26)
 - [nmkr_io](https://x.com/nmkr_io/status/1857069687034523933) (2026-06-06)
 - [norvex1029](https://x.com/norvex1029/status/2087230353035440452) (2026-08-13)
 - [norvex1029](https://x.com/norvex1029/status/2091528114534863055) (2026-08-26)

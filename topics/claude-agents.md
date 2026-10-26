@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-25
-total_mentions: 310
+last_seen: 2026-10-26
+total_mentions: 312
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -150,6 +150,7 @@ total_mentions: 310
 - [alex_verem](https://x.com/alex_verem/status/2096977799873712631) (2026-09-08)
 - [allenanalysis](https://x.com/allenanalysis/status/2048915153895481554) (2026-10-17)
 - [alliekmiller](https://x.com/alliekmiller/status/2064451731325415446) (2026-06-10)
+- [angeldot_](https://x.com/angeldot_/status/2114374287549157402) (2026-10-26)
 - [ashtom](https://x.com/ashtom/status/1925597395192357337) (2026-09-04)
 - [atulkumarzz](https://x.com/atulkumarzz/status/2108191514811842742) (2026-10-09)
 - [bcherny](https://x.com/bcherny/status/2064431111154053187) (2026-06-15)
@@ -292,6 +293,7 @@ total_mentions: 310
 - [tanayj](https://x.com/tanayj/status/2072108170080657729) (2026-07-01)
 - [tetsuoai](https://x.com/tetsuoai/status/2098199890237247578) (2026-09-11)
 - [thedelost](https://x.com/thedelost/status/2110472847084650726) (2026-10-16)
+- [thedelost](https://x.com/thedelost/status/2114016386896773177) (2026-10-26)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2111113436314648758) (2026-10-17)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2111520366791414136) (2026-10-18)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2111881943117664275) (2026-10-19)

@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-10-25
-total_mentions: 1084
+last_seen: 2026-10-26
+total_mentions: 1090
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -311,6 +311,7 @@ total_mentions: 1084
 - [RhysSullivan](https://x.com/RhysSullivan/status/2109696982742925434) (2026-10-13)
 - [RihardJarc](https://x.com/RihardJarc/status/2112562002958692392) (2026-10-21)
 - [RishiUvaach](https://x.com/RishiUvaach/status/2087886901932159214) (2026-08-14)
+- [Rizvi_On_X](https://x.com/Rizvi_On_X/status/2114207284897501446) (2026-10-26)
 - [RobinHubHB](https://x.com/RobinHubHB/status/2080004956216611060) (2026-07-29)
 - [RobinHubHB](https://x.com/RobinHubHB/status/2080744829907267752) (2026-07-28)
 - [RohOnChain](https://x.com/RohOnChain/status/2086800845036040598) (2026-08-11)
@@ -448,6 +449,7 @@ total_mentions: 1084
 - [abstrakt314](https://x.com/abstrakt314/status/2105756028935504032) (2026-10-03)
 - [abxxai](https://x.com/abxxai/status/2104558006818296006) (2026-10-01)
 - [abxxai](https://x.com/abxxai/status/2111105993384022253) (2026-10-23)
+- [abxxai](https://x.com/abxxai/status/2113626404449624530) (2026-10-26)
 - [abyssallD](https://x.com/abyssallD/status/2082264319492804953) (2026-07-30)
 - [adamuchigabriel](https://x.com/adamuchigabriel/status/2066299409894109286) (2026-06-15)
 - [adilinthewild](https://x.com/adilinthewild/status/2095177775422538130) (2026-09-08)
@@ -496,6 +498,8 @@ total_mentions: 1084
 - [angeldot_](https://x.com/angeldot_/status/2086508729797619997) (2026-08-10)
 - [angeldot_](https://x.com/angeldot_/status/2087278481516245168) (2026-08-18)
 - [angeldot_](https://x.com/angeldot_/status/2106778303570886775) (2026-10-09)
+- [angeldot_](https://x.com/angeldot_/status/2112219283879301412) (2026-10-26)
+- [angeldot_](https://x.com/angeldot_/status/2114374287549157402) (2026-10-26)
 - [ansh_chokshi](https://x.com/ansh_chokshi/status/2076168556161757294) (2026-07-15)
 - [antigravity](https://x.com/antigravity/status/2088030364539162744) (2026-08-14)
 - [anvisha](https://x.com/anvisha/status/2087964850819584319) (2026-08-15)
@@ -978,6 +982,7 @@ total_mentions: 1084
 - [soniacuts](https://x.com/soniacuts/status/2109597969456525547) (2026-10-14)
 - [spect3ral](https://x.com/spect3ral/status/2103214059772363156) (2026-09-25)
 - [splinetool](https://x.com/splinetool/status/2090500256190603636) (2026-08-23)
+- [spuicey](https://x.com/spuicey/status/2112344791635681477) (2026-10-26)
 - [starmexxx](https://x.com/starmexxx/status/2089399623106355708) (2026-08-18)
 - [stitchbygoogle](https://x.com/stitchbygoogle/status/2105695155164741984) (2026-10-02)
 - [stretchcloud](https://x.com/stretchcloud/status/2072215124958740898) (2026-07-01)
@@ -1011,6 +1016,7 @@ total_mentions: 1084
 - [thdxr](https://x.com/thdxr/status/2108356041092337883) (2026-10-16)
 - [theallinpod](https://x.com/theallinpod/status/2108897316086095923) (2026-10-16)
 - [thedankoe](https://x.com/thedankoe/status/2090507819229589650) (2026-08-21)
+- [thedelost](https://x.com/thedelost/status/2114016386896773177) (2026-10-26)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2106352825789812919) (2026-10-05)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2111113436314648758) (2026-10-17)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2111520366791414136) (2026-10-18)

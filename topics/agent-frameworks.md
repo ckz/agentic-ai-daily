@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-25
-total_mentions: 612
+last_seen: 2026-10-26
+total_mentions: 615
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -13,6 +13,7 @@ total_mentions: 612
 - [0xMontBlanc](https://x.com/0xMontBlanc/status/2112208608104792401) (2026-10-20)
 - [0xMorlex](https://x.com/0xMorlex/status/2083551815895798048) (2026-08-02)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
+- [0xPritom](https://x.com/0xPritom/status/2114193806929297550) (2026-10-26)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
 - [0x_aster](https://x.com/0x_aster/status/2106467164408758656) (2026-10-06)
 - [5eniorDeveloper](https://x.com/5eniorDeveloper/status/2097029277434757251) (2026-09-08)
@@ -102,6 +103,7 @@ total_mentions: 612
 - [DataChaz](https://x.com/DataChaz/status/2070415564510785812) (2026-06-27)
 - [DataScienceDojo](https://x.com/DataScienceDojo/status/2071624804575093052) (2026-06-30)
 - [DavidSacks](https://x.com/DavidSacks/status/2098973625252708460) (2026-09-16)
+- [DawitAb50773377](https://x.com/DawitAb50773377/status/2114569829650928044) (2026-10-26)
 - [DeRonin_](https://x.com/DeRonin_/status/2074134276551918043) (2026-07-07)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [Degen_calls_sol](https://x.com/Degen_calls_sol/status/2077084965209030808) (2026-07-15)
@@ -335,6 +337,7 @@ total_mentions: 612
 - [alex_prompter](https://x.com/alex_prompter/status/2077470394303627395) (2026-07-17)
 - [alex_verem](https://x.com/alex_verem/status/2075994424484732984) (2026-07-12)
 - [alliekmiller](https://x.com/alliekmiller/status/2064451731325415446) (2026-06-10)
+- [allmeasures](https://x.com/allmeasures/status/2112233044472156329) (2026-10-26)
 - [allred_chase](https://x.com/allred_chase/status/1856720253847298051) (2026-10-20)
 - [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)
 - [arbitrum](https://x.com/arbitrum/status/1907530213119885730) (2026-07-10)

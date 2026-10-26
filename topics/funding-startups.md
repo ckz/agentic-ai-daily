@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-25
-total_mentions: 788
+last_seen: 2026-10-26
+total_mentions: 790
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
@@ -21,6 +21,7 @@ total_mentions: 788
 - [5harath](https://x.com/5harath/status/2082161680516063294) (2026-07-29)
 - [60Minutes](https://x.com/60Minutes/status/2106897544764678602) (2026-10-05)
 - [83dollaroring](https://x.com/83dollaroring/status/2113693907532005806) (2026-10-24)
+- [86pushkar24](https://x.com/86pushkar24/status/2114470304940486881) (2026-10-26)
 - [90daysliquidity](https://x.com/90daysliquidity/status/2088026533860409432) (2026-08-16)
 - [AFpost](https://x.com/AFpost/status/2078881670162202801) (2026-07-20)
 - [AISafetyMemes](https://x.com/AISafetyMemes/status/2087549262427263014) (2026-08-15)
@@ -595,6 +596,7 @@ total_mentions: 788
 - [mattdeitke](https://x.com/mattdeitke/status/2102912355638382997) (2026-09-26)
 - [mattpocockuk](https://x.com/mattpocockuk/status/2091434155561107647) (2026-08-26)
 - [mcuban](https://x.com/mcuban/status/2088787419906576436) (2026-08-18)
+- [mdshefat217](https://x.com/mdshefat217/status/2114557706434752543) (2026-10-26)
 - [mehulg10](https://x.com/mehulg10/status/2104998810774818817) (2026-10-04)
 - [menhguin](https://x.com/menhguin/status/2105381911741051175) (2026-10-02)
 - [mhp_guy](https://x.com/mhp_guy/status/2064453575594664169) (2026-06-12)
