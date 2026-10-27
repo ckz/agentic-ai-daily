@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-26
-total_mentions: 1584
+last_seen: 2026-10-27
+total_mentions: 1589
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -116,6 +116,7 @@ total_mentions: 1584
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2091798147320127634) (2026-08-26)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2095414392557068291) (2026-09-04)
+- [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2114267033575858564) (2026-10-27)
 - [ActionModelAI](https://x.com/ActionModelAI/status/2107492691420266808) (2026-10-07)
 - [AdamTornhill](https://x.com/AdamTornhill/status/2097973404179583225) (2026-09-12)
 - [AdelDeveloperX](https://x.com/AdelDeveloperX/status/2074195359199375745) (2026-07-07)
@@ -331,6 +332,7 @@ total_mentions: 1584
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2098120874524389776) (2026-09-13)
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2113244292898783482) (2026-10-25)
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2113967691564495014) (2026-10-25)
+- [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2114682560886485126) (2026-10-27)
 - [DrDatta_AIIMS](https://x.com/DrDatta_AIIMS/status/2085258786403655808) (2026-08-13)
 - [DrJimFan](https://x.com/DrJimFan/status/2111128797181567466) (2026-10-17)
 - [Dr_Singularity](https://x.com/Dr_Singularity/status/2094797783601414196) (2026-09-03)
@@ -967,6 +969,7 @@ total_mentions: 1584
 - [coinbureau](https://x.com/coinbureau/status/2031222262112858286) (2026-06-09)
 - [composio](https://x.com/composio/status/2085330847951970801) (2026-08-07)
 - [composio](https://x.com/composio/status/2086814488162972027) (2026-08-11)
+- [congge918](https://x.com/congge918/status/2114920556651073909) (2026-10-27)
 - [connectwithveee](https://x.com/connectwithveee/status/2106329490771067000) (2026-10-04)
 - [cryptobrass](https://x.com/cryptobrass/status/2084245832363130941) (2026-08-04)
 - [cryptobuzzer03](https://x.com/cryptobuzzer03/status/2067855094327001574) (2026-06-19)
@@ -1255,6 +1258,7 @@ total_mentions: 1584
 - [mardehaym](https://x.com/mardehaym/status/2091963865718231069) (2026-08-31)
 - [mardehaym](https://x.com/mardehaym/status/2092516152274554891) (2026-08-27)
 - [mardehaym](https://x.com/mardehaym/status/2097736766245499226) (2026-09-10)
+- [mardehaym](https://x.com/mardehaym/status/2113990724282724742) (2026-10-27)
 - [marfinxx](https://x.com/marfinxx/status/2083523471846281590) (2026-08-02)
 - [marfinxx](https://x.com/marfinxx/status/2086785974470668775) (2026-08-11)
 - [marfinxx](https://x.com/marfinxx/status/2087950466244063718) (2026-08-14)
@@ -1265,6 +1269,7 @@ total_mentions: 1584
 - [marfinxx](https://x.com/marfinxx/status/2098546291164717071) (2026-09-13)
 - [marfinxx](https://x.com/marfinxx/status/2102729802708918385) (2026-09-24)
 - [marfinxx](https://x.com/marfinxx/status/2107093610604765199) (2026-10-10)
+- [marfinxx](https://x.com/marfinxx/status/2114343835031441771) (2026-10-27)
 - [marryevan999](https://x.com/marryevan999/status/2077795286332952816) (2026-07-18)
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [maxescu](https://x.com/maxescu/status/2087195649561317511) (2026-08-13)

@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-26
-total_mentions: 790
+last_seen: 2026-10-27
+total_mentions: 799
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
@@ -41,6 +41,7 @@ total_mentions: 790
 - [AlexMasonCrypto](https://x.com/AlexMasonCrypto/status/2090133773081854263) (2026-08-22)
 - [Alexkphillips](https://x.com/Alexkphillips/status/2099142554407051336) (2026-09-14)
 - [AlfiFromToasty](https://x.com/AlfiFromToasty/status/2111438352214086019) (2026-10-18)
+- [AliHassanxhy7](https://x.com/AliHassanxhy7/status/2114955487884296477) (2026-10-27)
 - [AlphaCapitalUK](https://x.com/AlphaCapitalUK/status/2079957138730848366) (2026-07-25)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2079915295230038426) (2026-07-23)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2088330041289494736) (2026-08-17)
@@ -82,6 +83,7 @@ total_mentions: 790
 - [Chairman_DN](https://x.com/Chairman_DN/status/2110446764289638507) (2026-10-20)
 - [ChiefEngineerCE](https://x.com/ChiefEngineerCE/status/2080146134128021841) (2026-07-23)
 - [ChiemeOnah7812](https://x.com/ChiemeOnah7812/status/2068216698759475604) (2026-06-20)
+- [ClaraChengGo](https://x.com/ClaraChengGo/status/2114865969780937071) (2026-10-27)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2080009523952263295) (2026-07-29)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2093480630801858750) (2026-08-29)
 - [ClearpoolFin](https://x.com/ClearpoolFin/status/2098294816534876180) (2026-09-11)
@@ -183,6 +185,7 @@ total_mentions: 790
 - [MarieMartens](https://x.com/MarieMartens/status/2102313804927246639) (2026-09-24)
 - [Marsadist](https://x.com/Marsadist/status/2095333453956854216) (2026-09-10)
 - [MasashiAONO](https://x.com/MasashiAONO/status/2076147787713163280) (2026-07-12)
+- [MaximLevoshin](https://x.com/MaximLevoshin/status/2114541980462072315) (2026-10-27)
 - [MeidasTouch](https://x.com/MeidasTouch/status/2077164264595288203) (2026-07-20)
 - [MicronCEO](https://x.com/MicronCEO/status/2090533293519409610) (2026-08-23)
 - [Miracle_NNnn](https://x.com/Miracle_NNnn/status/2107712847740367331) (2026-10-11)
@@ -229,6 +232,7 @@ total_mentions: 790
 - [ProfBrianCox](https://x.com/ProfBrianCox/status/2082427049109602580) (2026-08-03)
 - [RITESHGHODELA](https://x.com/RITESHGHODELA/status/2063136905282429213) (2026-06-06)
 - [RafaelFQL](https://x.com/RafaelFQL/status/2079943052261457977) (2026-07-23)
+- [RealNickMugalli](https://x.com/RealNickMugalli/status/2114725345756614889) (2026-10-27)
 - [RepThomasMassie](https://x.com/RepThomasMassie/status/2088582666157232308) (2026-09-14)
 - [Ric_RTP](https://x.com/Ric_RTP/status/2088261230054060274) (2026-08-15)
 - [RichardSSutton](https://x.com/RichardSSutton/status/2076663628301058329) (2026-07-17)
@@ -425,6 +429,7 @@ total_mentions: 790
 - [codyschneider](https://x.com/codyschneider/status/2103907470322143521) (2026-09-27)
 - [coinbureau](https://x.com/coinbureau/status/2098641504767983918) (2026-09-13)
 - [coingecko](https://x.com/coingecko/status/2064572347433075107) (2026-06-10)
+- [congge918](https://x.com/congge918/status/2114920556651073909) (2026-10-27)
 - [convequity](https://x.com/convequity/status/2105431360500301981) (2026-10-01)
 - [coreyganim](https://x.com/coreyganim/status/2084312288786276484) (2026-08-04)
 - [coreyganim](https://x.com/coreyganim/status/2108233785061875903) (2026-10-09)
@@ -538,6 +543,7 @@ total_mentions: 790
 - [jamonholmgren](https://x.com/jamonholmgren/status/2098235125419135339) (2026-09-11)
 - [jarrodwatts](https://x.com/jarrodwatts/status/2111284112011194846) (2026-10-18)
 - [jason_coder0](https://x.com/jason_coder0/status/2072219162135666801) (2026-07-01)
+- [jenny_colgate](https://x.com/jenny_colgate/status/2114818614599860294) (2026-10-27)
 - [jesseRoss597206](https://x.com/jesseRoss597206/status/2109324533911961739) (2026-10-13)
 - [jiahanjimliu](https://x.com/jiahanjimliu/status/2075804539111043085) (2026-07-11)
 - [jiang_kev](https://x.com/jiang_kev/status/2082496145994248488) (2026-07-30)
@@ -571,6 +577,7 @@ total_mentions: 790
 - [lami_thefirst](https://x.com/lami_thefirst/status/2097224273853129017) (2026-09-08)
 - [larry_mcwethy](https://x.com/larry_mcwethy/status/2113619948023304543) (2026-10-25)
 - [launchwhasmik](https://x.com/launchwhasmik/status/2104542307680719043) (2026-10-02)
+- [lennysan](https://x.com/lennysan/status/2114747753968644359) (2026-10-27)
 - [levelsio](https://x.com/levelsio/status/2102739359715774665) (2026-09-25)
 - [levelsio](https://x.com/levelsio/status/2112686345617547538) (2026-10-23)
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
@@ -712,6 +719,7 @@ total_mentions: 790
 - [spacedevin](https://x.com/spacedevin/status/2109526752808902799) (2026-10-12)
 - [spacedevin](https://x.com/spacedevin/status/2110355139391602903) (2026-10-15)
 - [spacedevin](https://x.com/spacedevin/status/2112096373906796957) (2026-10-20)
+- [spacedevin](https://x.com/spacedevin/status/2114719766338490810) (2026-10-27)
 - [sridharfyi](https://x.com/sridharfyi/status/2100562893758718127) (2026-09-20)
 - [sridharfyi](https://x.com/sridharfyi/status/2112778407079469263) (2026-10-21)
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
@@ -756,6 +764,7 @@ total_mentions: 790
 - [ttunguz](https://x.com/ttunguz/status/2107112425111887879) (2026-10-12)
 - [twistartups](https://x.com/twistartups/status/2071744145119465724) (2026-07-02)
 - [tylerrwayne](https://x.com/tylerrwayne/status/2081620596862202335) (2026-07-27)
+- [umia_finance](https://x.com/umia_finance/status/2114764262619120103) (2026-10-27)
 - [undefinedKi](https://x.com/undefinedKi/status/2063615286301839698) (2026-06-08)
 - [undefinedKi](https://x.com/undefinedKi/status/2088700554310525370) (2026-08-17)
 - [undefinedKi](https://x.com/undefinedKi/status/2092975165420220838) (2026-08-28)

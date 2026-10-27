@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-10-26
-total_mentions: 1090
+last_seen: 2026-10-27
+total_mentions: 1098
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -39,6 +39,7 @@ total_mentions: 1090
 - [AYi_AInotes](https://x.com/AYi_AInotes/status/2097642459341722045) (2026-09-12)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2095414392557068291) (2026-09-04)
+- [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2113197047943975145) (2026-10-27)
 - [AgenticAIFdn](https://x.com/AgenticAIFdn/status/2077740129284764108) (2026-07-17)
 - [AiAircle34052](https://x.com/AiAircle34052/status/2095375741093572997) (2026-09-03)
 - [Ai_Vaidehi](https://x.com/Ai_Vaidehi/status/2090828742432333970) (2026-08-26)
@@ -373,6 +374,7 @@ total_mentions: 1090
 - [SultanAlsafran](https://x.com/SultanAlsafran/status/2101254033067434359) (2026-09-21)
 - [Sumanth_077](https://x.com/Sumanth_077/status/2063254456834372040) (2026-06-07)
 - [SummerEngineCom](https://x.com/SummerEngineCom/status/2109712496684908774) (2026-10-14)
+- [SungKimUp](https://x.com/SungKimUp/status/2114886177111281788) (2026-10-27)
 - [SvpChain](https://x.com/SvpChain/status/2064935788345974954) (2026-06-11)
 - [SwamiMalode](https://x.com/SwamiMalode/status/2109973447397031991) (2026-10-17)
 - [TablePlus](https://x.com/TablePlus/status/2107323861205491790) (2026-10-06)
@@ -424,7 +426,9 @@ total_mentions: 1090
 - [YorichiiCrypto](https://x.com/YorichiiCrypto/status/2107563475555823957) (2026-10-07)
 - [ZHENXINYU](https://x.com/ZHENXINYU/status/2064950271906889746) (2026-06-11)
 - [ZephrFish](https://x.com/ZephrFish/status/2109200227823468588) (2026-10-14)
+- [Ziven_Coder](https://x.com/Ziven_Coder/status/2112911629184864394) (2026-10-27)
 - [Ziven_Coder](https://x.com/Ziven_Coder/status/2113088158904840515) (2026-10-22)
+- [Ziven_Coder](https://x.com/Ziven_Coder/status/2114708634546692096) (2026-10-27)
 - [_Engr_tariq](https://x.com/_Engr_tariq/status/2068603345229562006) (2026-06-21)
 - [_MichaelChoi](https://x.com/_MichaelChoi/status/2107513285750689956) (2026-10-07)
 - [__wi](https://x.com/__wi/status/2110636884439535714) (2026-10-18)
@@ -561,6 +565,7 @@ total_mentions: 1090
 - [chddaniel](https://x.com/chddaniel/status/2087212602376192381) (2026-08-17)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
 - [chenzeling4](https://x.com/chenzeling4/status/2075581564088668195) (2026-07-12)
+- [cherry_mx_reds](https://x.com/cherry_mx_reds/status/2113969070118666670) (2026-10-27)
 - [chetaslua](https://x.com/chetaslua/status/2101520407950237821) (2026-09-20)
 - [chetaslua](https://x.com/chetaslua/status/2102501773705670994) (2026-09-25)
 - [chongdashu](https://x.com/chongdashu/status/2089139349371973645) (2026-08-17)
@@ -781,6 +786,7 @@ total_mentions: 1090
 - [leopardracer](https://x.com/leopardracer/status/2096537453804876205) (2026-09-10)
 - [levelsio](https://x.com/levelsio/status/2098086977186705637) (2026-09-12)
 - [levie](https://x.com/levie/status/2101427997597446636) (2026-09-20)
+- [levikmunneke](https://x.com/levikmunneke/status/2112513770001924169) (2026-10-27)
 - [lifemaximised](https://x.com/lifemaximised/status/2094966852887687492) (2026-09-05)
 - [lifemaximised](https://x.com/lifemaximised/status/2102802935558103146) (2026-09-24)
 - [listelia](https://x.com/listelia/status/2107440483295195602) (2026-10-07)
@@ -951,6 +957,7 @@ total_mentions: 1090
 - [seeconvm](https://x.com/seeconvm/status/2084114434973171763) (2026-08-04)
 - [seeconvm](https://x.com/seeconvm/status/2087453527190745345) (2026-08-13)
 - [shannholmberg](https://x.com/shannholmberg/status/2099166725396922524) (2026-09-16)
+- [shao__meng](https://x.com/shao__meng/status/2114164780986679331) (2026-10-27)
 - [sharbel](https://x.com/sharbel/status/2070812435653464323) (2026-06-28)
 - [shawnchauhan1](https://x.com/shawnchauhan1/status/2082685120679657715) (2026-07-30)
 - [shedntcare_](https://x.com/shedntcare_/status/2066124333559480395) (2026-06-21)
@@ -999,6 +1006,7 @@ total_mentions: 1090
 - [svpino](https://x.com/svpino/status/2065079108959363290) (2026-06-12)
 - [swarms_corp](https://x.com/swarms_corp/status/2106141570047054003) (2026-10-03)
 - [systemdesignone](https://x.com/systemdesignone/status/2097389489408594192) (2026-09-09)
+- [szchan111](https://x.com/szchan111/status/2114941713404109158) (2026-10-27)
 - [tamrrat](https://x.com/tamrrat/status/2077136461489467450) (2026-07-15)
 - [tan_stack](https://x.com/tan_stack/status/2062961334061318189) (2026-06-06)
 - [tanayj](https://x.com/tanayj/status/2072108170080657729) (2026-07-01)

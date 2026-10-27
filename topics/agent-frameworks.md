@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-26
-total_mentions: 615
+last_seen: 2026-10-27
+total_mentions: 616
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -473,6 +473,7 @@ total_mentions: 615
 - [lamhot_ai](https://x.com/lamhot_ai/status/2081973722668486942) (2026-07-28)
 - [lamhot_ai](https://x.com/lamhot_ai/status/2081986412086493408) (2026-07-28)
 - [lee_joey50709](https://x.com/lee_joey50709/status/2076867123654140209) (2026-07-14)
+- [lennysan](https://x.com/lennysan/status/2114747753968644359) (2026-10-27)
 - [leopardracer](https://x.com/leopardracer/status/2074442479739318455) (2026-07-09)
 - [lqg_togo](https://x.com/lqg_togo/status/2113510660407804034) (2026-10-23)
 - [manthanguptaa](https://x.com/manthanguptaa/status/2084895891559981558) (2026-08-12)

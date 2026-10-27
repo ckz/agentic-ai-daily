@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-26
-total_mentions: 312
+last_seen: 2026-10-27
+total_mentions: 315
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -133,6 +133,7 @@ total_mentions: 312
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
 - [_0xpainn](https://x.com/_0xpainn/status/2070432605552451963) (2026-08-02)
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
+- [_philschmid](https://x.com/_philschmid/status/2114773524787187804) (2026-10-27)
 - [_sarthak4](https://x.com/_sarthak4/status/2087578635670802806) (2026-08-13)
 - [_zheergen](https://x.com/_zheergen/status/2090966669204341076) (2026-08-22)
 - [abskoop](https://x.com/abskoop/status/2090701734138274062) (2026-08-22)
@@ -243,6 +244,7 @@ total_mentions: 312
 - [longhaiqwe123](https://x.com/longhaiqwe123/status/2114031712430948410) (2026-10-25)
 - [marfinxx](https://x.com/marfinxx/status/2102729802708918385) (2026-09-24)
 - [marfinxx](https://x.com/marfinxx/status/2107093610604765199) (2026-10-10)
+- [marfinxx](https://x.com/marfinxx/status/2114343835031441771) (2026-10-27)
 - [masahirochaen](https://x.com/masahirochaen/status/2108420294570574068) (2026-10-13)
 - [matei_zaharia](https://x.com/matei_zaharia/status/2065827057624605146) (2026-06-14)
 - [mikefutia](https://x.com/mikefutia/status/2069488510424531371) (2026-06-27)
@@ -279,6 +281,7 @@ total_mentions: 312
 - [sairahul1](https://x.com/sairahul1/status/2090807997253726488) (2026-08-22)
 - [shannholmberg](https://x.com/shannholmberg/status/2062652746508173796) (2026-06-06)
 - [shannholmberg](https://x.com/shannholmberg/status/2099166725396922524) (2026-09-16)
+- [shao__meng](https://x.com/shao__meng/status/2114164780986679331) (2026-10-27)
 - [sharbel](https://x.com/sharbel/status/2063369348828610886) (2026-06-11)
 - [shikamarutsai](https://x.com/shikamarutsai/status/2110817965658571181) (2026-10-17)
 - [skunzu](https://x.com/skunzu/status/2110808873322123547) (2026-10-17)

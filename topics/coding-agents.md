@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-26
-total_mentions: 205
+last_seen: 2026-10-27
+total_mentions: 206
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -84,6 +84,7 @@ total_mentions: 205
 - [Ziven_Coder](https://x.com/Ziven_Coder/status/2078482313986642122) (2026-07-30)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
 - [_0xpainn](https://x.com/_0xpainn/status/2075209862263222342) (2026-07-14)
+- [_philschmid](https://x.com/_philschmid/status/2114773524787187804) (2026-10-27)
 - [a16z](https://x.com/a16z/status/2069869327411749012) (2026-06-29)
 - [a16z](https://x.com/a16z/status/2092774816596259111) (2026-08-27)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2071509401224261823) (2026-06-30)

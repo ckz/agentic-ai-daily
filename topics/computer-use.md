@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-10-25
-total_mentions: 170
+last_seen: 2026-10-27
+total_mentions: 172
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -135,6 +135,7 @@ total_mentions: 170
 - [matchaman11](https://x.com/matchaman11/status/2105009171976610030) (2026-09-30)
 - [math_fournity](https://x.com/math_fournity/status/2112268963610857875) (2026-10-25)
 - [mattdeitke](https://x.com/mattdeitke/status/2102912355638382997) (2026-09-26)
+- [mattworkman](https://x.com/mattworkman/status/2114825275167175105) (2026-10-27)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2098738486014537803) (2026-09-13)
 - [mikoto2000](https://x.com/mikoto2000/status/2099270333522186365) (2026-09-14)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2075469825514824153) (2026-07-10)
@@ -165,6 +166,7 @@ total_mentions: 170
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109977469927244158) (2026-10-17)
 - [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)
 - [sxhivs](https://x.com/sxhivs/status/2101729362194432184) (2026-09-21)
+- [theapplehub](https://x.com/theapplehub/status/2114792894863442255) (2026-10-27)
 - [trycua](https://x.com/trycua/status/2100649543079502213) (2026-09-20)
 - [trycua](https://x.com/trycua/status/2101014004927729737) (2026-09-19)
 - [trycua](https://x.com/trycua/status/2102800643794591833) (2026-09-24)

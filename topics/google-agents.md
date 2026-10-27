@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-26
-total_mentions: 135
+last_seen: 2026-10-27
+total_mentions: 136
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -74,6 +74,7 @@ total_mentions: 135
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
 - [_avichawla](https://x.com/_avichawla/status/2092688897558089897) (2026-08-30)
 - [_philschmid](https://x.com/_philschmid/status/2105299152796029055) (2026-10-01)
+- [_philschmid](https://x.com/_philschmid/status/2114773524787187804) (2026-10-27)
 - [ai_for_success](https://x.com/ai_for_success/status/2062984524968218690) (2026-06-08)
 - [ajitcodes](https://x.com/ajitcodes/status/2089185456525381955) (2026-08-17)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2083815836003996033) (2026-08-07)
