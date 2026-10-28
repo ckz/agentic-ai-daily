@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-10-27
-total_mentions: 172
+last_seen: 2026-10-28
+total_mentions: 173
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -83,6 +83,7 @@ total_mentions: 172
 - [arturovilla](https://x.com/arturovilla/status/2087625765529461145) (2026-08-19)
 - [ataiiam](https://x.com/ataiiam/status/2102400431519592581) (2026-09-23)
 - [ataiiam](https://x.com/ataiiam/status/2105710796198322659) (2026-10-02)
+- [ataiiam](https://x.com/ataiiam/status/2115097056394240293) (2026-10-28)
 - [awlevin](https://x.com/awlevin/status/2100262612428894676) (2026-09-17)
 - [bcherny](https://x.com/bcherny/status/2095378890370019683) (2026-09-06)
 - [bode_sule](https://x.com/bode_sule/status/2114225364717482179) (2026-10-25)

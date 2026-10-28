@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-27
-total_mentions: 315
+last_seen: 2026-10-28
+total_mentions: 318
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -69,6 +69,7 @@ total_mentions: 315
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2074600211364692029) (2026-07-08)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2080708199594823736) (2026-07-25)
 - [Guelug](https://x.com/Guelug/status/2072092575947989385) (2026-07-01)
+- [HVnS42442600](https://x.com/HVnS42442600/status/2115005757523661111) (2026-10-28)
 - [HedgieMarkets](https://x.com/HedgieMarkets/status/2022417260418122119) (2026-09-12)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2094462252107886731) (2026-09-04)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2095164094630518922) (2026-09-04)
@@ -242,6 +243,7 @@ total_mentions: 315
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
 - [lksmlabc](https://x.com/lksmlabc/status/2096524556123115628) (2026-09-09)
 - [longhaiqwe123](https://x.com/longhaiqwe123/status/2114031712430948410) (2026-10-25)
+- [making_cindy](https://x.com/making_cindy/status/2114627189119566266) (2026-10-28)
 - [marfinxx](https://x.com/marfinxx/status/2102729802708918385) (2026-09-24)
 - [marfinxx](https://x.com/marfinxx/status/2107093610604765199) (2026-10-10)
 - [marfinxx](https://x.com/marfinxx/status/2114343835031441771) (2026-10-27)
@@ -300,6 +302,7 @@ total_mentions: 315
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2111113436314648758) (2026-10-17)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2111520366791414136) (2026-10-18)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2111881943117664275) (2026-10-19)
+- [thegreatest_sv](https://x.com/thegreatest_sv/status/2114739076796428729) (2026-10-28)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2081680037544427793) (2026-07-28)
 - [timsneath](https://x.com/timsneath/status/2072479088661651612) (2026-07-02)

@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-10-27
-total_mentions: 1098
+last_seen: 2026-10-28
+total_mentions: 1110
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -95,6 +95,7 @@ total_mentions: 1098
 - [ChemistDeFi](https://x.com/ChemistDeFi/status/2079486844257833203) (2026-07-28)
 - [Chriz_emy](https://x.com/Chriz_emy/status/2079291257944510883) (2026-07-21)
 - [Chriz_emy](https://x.com/Chriz_emy/status/2079370957169324474) (2026-07-21)
+- [ChromiumDev](https://x.com/ChromiumDev/status/2114776553481445523) (2026-10-28)
 - [ClaudeCode_love](https://x.com/ClaudeCode_love/status/2074100297807614014) (2026-07-08)
 - [ClaudeCode_love](https://x.com/ClaudeCode_love/status/2110868069593833520) (2026-10-17)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2064072801062121906) (2026-06-09)
@@ -288,6 +289,7 @@ total_mentions: 1098
 - [OpenRouter](https://x.com/OpenRouter/status/2070160491360780798) (2026-06-27)
 - [OpenRouter](https://x.com/OpenRouter/status/2070630667663163875) (2026-06-27)
 - [OptimaiNetwork](https://x.com/OptimaiNetwork/status/2064012781658009804) (2026-06-09)
+- [OptimaiNetwork](https://x.com/OptimaiNetwork/status/2115008944720454036) (2026-10-28)
 - [OpusClip](https://x.com/OpusClip/status/2077773391239778589) (2026-07-17)
 - [Origin_AI_01](https://x.com/Origin_AI_01/status/2078002803809849703) (2026-07-17)
 - [Origin_AI_01](https://x.com/Origin_AI_01/status/2096073337881641428) (2026-09-05)
@@ -371,6 +373,7 @@ total_mentions: 1098
 - [Stefan_3D_AI](https://x.com/Stefan_3D_AI/status/2096481425050743048) (2026-09-09)
 - [Stefan_3D_AI](https://x.com/Stefan_3D_AI/status/2109643476342358154) (2026-10-13)
 - [Steve8708](https://x.com/Steve8708/status/2077051086234685641) (2026-07-15)
+- [SteveMoser](https://x.com/SteveMoser/status/2115080687699038343) (2026-10-28)
 - [SultanAlsafran](https://x.com/SultanAlsafran/status/2101254033067434359) (2026-09-21)
 - [Sumanth_077](https://x.com/Sumanth_077/status/2063254456834372040) (2026-06-07)
 - [SummerEngineCom](https://x.com/SummerEngineCom/status/2109712496684908774) (2026-10-14)
@@ -466,6 +469,7 @@ total_mentions: 1098
 - [ai_xiaomu](https://x.com/ai_xiaomu/status/2089730538135556515) (2026-08-20)
 - [aiedge_](https://x.com/aiedge_/status/2065222563899572371) (2026-06-12)
 - [aigclink](https://x.com/aigclink/status/2097507548127711329) (2026-09-09)
+- [aimlapi](https://x.com/aimlapi/status/2115204368244818293) (2026-10-28)
 - [aisdk](https://x.com/aisdk/status/2110785290885538113) (2026-10-16)
 - [aisearchio](https://x.com/aisearchio/status/2106873484760805759) (2026-10-11)
 - [aiwithjainam](https://x.com/aiwithjainam/status/2069338947701080150) (2026-06-28)
@@ -534,6 +538,7 @@ total_mentions: 1098
 - [beamnxw](https://x.com/beamnxw/status/2107494674894070242) (2026-10-11)
 - [beamnxw](https://x.com/beamnxw/status/2111029691326898489) (2026-10-19)
 - [benjitaylor](https://x.com/benjitaylor/status/2090903345733210260) (2026-08-22)
+- [bensenescu](https://x.com/bensenescu/status/2115225155576447322) (2026-10-28)
 - [betomoedano](https://x.com/betomoedano/status/2071257935485788178) (2026-06-29)
 - [betomoedano](https://x.com/betomoedano/status/2075206572628705477) (2026-07-13)
 - [bettercalltonny](https://x.com/bettercalltonny/status/2087599007518302487) (2026-08-16)
@@ -549,6 +554,7 @@ total_mentions: 1098
 - [businessbarista](https://x.com/businessbarista/status/2101061801571938529) (2026-09-22)
 - [cTrader](https://x.com/cTrader/status/2062503096375263532) (2026-06-05)
 - [calbuldelis69](https://x.com/calbuldelis69/status/2109705355798384767) (2026-10-13)
+- [calcsam](https://x.com/calcsam/status/2115133696105955391) (2026-10-28)
 - [caspar_br](https://x.com/caspar_br/status/2113382598785532211) (2026-10-23)
 - [cb_doge](https://x.com/cb_doge/status/2093024115620004154) (2026-08-28)
 - [cb_doge](https://x.com/cb_doge/status/2093481818544844864) (2026-08-29)
@@ -602,6 +608,7 @@ total_mentions: 1098
 - [cyrilXBT](https://x.com/cyrilXBT/status/2083762211718394276) (2026-08-03)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2085683119320133685) (2026-08-08)
 - [dair_ai](https://x.com/dair_ai/status/2097022152088445034) (2026-09-08)
+- [dan__rosenthal](https://x.com/dan__rosenthal/status/2115156692627251542) (2026-10-28)
 - [dani_avila7](https://x.com/dani_avila7/status/2099325795822956575) (2026-09-14)
 - [dannypostma](https://x.com/dannypostma/status/2082689872494755872) (2026-07-30)
 - [danshipper](https://x.com/danshipper/status/2110707025826996280) (2026-10-17)
@@ -741,6 +748,7 @@ total_mentions: 1098
 - [humzaakhalid](https://x.com/humzaakhalid/status/2078781740563460571) (2026-07-25)
 - [huxlab](https://x.com/huxlab/status/2089564429054554267) (2026-08-19)
 - [huxlab](https://x.com/huxlab/status/2112474544376348866) (2026-10-22)
+- [huxlab](https://x.com/huxlab/status/2115240099495788552) (2026-10-28)
 - [hxiao](https://x.com/hxiao/status/2094519020531994639) (2026-09-02)
 - [iBenWills](https://x.com/iBenWills/status/2063840829773369626) (2026-06-08)
 - [iMePlatform](https://x.com/iMePlatform/status/2107461868604309530) (2026-10-07)
@@ -907,6 +915,7 @@ total_mentions: 1098
 - [precisox](https://x.com/precisox/status/2074294583643848959) (2026-07-07)
 - [primalrobin](https://x.com/primalrobin/status/2109394855151681707) (2026-10-13)
 - [priors_trade](https://x.com/priors_trade/status/2111530436828541241) (2026-10-18)
+- [priors_trade](https://x.com/priors_trade/status/2113914433466486996) (2026-10-28)
 - [promptparag](https://x.com/promptparag/status/2064311991842574695) (2026-06-10)
 - [rauchg](https://x.com/rauchg/status/2096065378598441431) (2026-09-07)
 - [ravikiran_dev7](https://x.com/ravikiran_dev7/status/2089558898886021423) (2026-08-18)
@@ -1014,6 +1023,7 @@ total_mentions: 1098
 - [taycaldwell](https://x.com/taycaldwell/status/2071753251360502131) (2026-06-30)
 - [techNmak](https://x.com/techNmak/status/2068884177383047439) (2026-06-27)
 - [techNmak](https://x.com/techNmak/status/2091434187446439969) (2026-08-24)
+- [techNmak](https://x.com/techNmak/status/2114313618611220950) (2026-10-28)
 - [techdevnotes](https://x.com/techdevnotes/status/2082546312608719207) (2026-07-30)
 - [tellenne_](https://x.com/tellenne_/status/2094833053025665048) (2026-09-02)
 - [tetsuoai](https://x.com/tetsuoai/status/2071775282420445427) (2026-06-30)
@@ -1028,6 +1038,7 @@ total_mentions: 1098
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2106352825789812919) (2026-10-05)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2111113436314648758) (2026-10-17)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2111520366791414136) (2026-10-18)
+- [thegreatest_sv](https://x.com/thegreatest_sv/status/2114739076796428729) (2026-10-28)
 - [theo](https://x.com/theo/status/2087280199406903762) (2026-08-12)
 - [theo](https://x.com/theo/status/2092455706582499815) (2026-08-26)
 - [therajansharma](https://x.com/therajansharma/status/2068578446100308157) (2026-06-21)
@@ -1053,6 +1064,7 @@ total_mentions: 1098
 - [trq212](https://x.com/trq212/status/2099958388230873165) (2026-09-16)
 - [trythreews](https://x.com/trythreews/status/2096260452875644976) (2026-09-12)
 - [twetsfyp](https://x.com/twetsfyp/status/2078387675447328957) (2026-07-19)
+- [twid](https://x.com/twid/status/2115131652259434648) (2026-10-28)
 - [twoclipping](https://x.com/twoclipping/status/2103835273813496100) (2026-09-28)
 - [twoclipping](https://x.com/twoclipping/status/2106526359589675085) (2026-10-04)
 - [uaghazadae](https://x.com/uaghazadae/status/2087580062593823004) (2026-08-13)

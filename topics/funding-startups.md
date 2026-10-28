@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-27
-total_mentions: 799
+last_seen: 2026-10-28
+total_mentions: 804
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
@@ -183,9 +183,11 @@ total_mentions: 799
 - [MackenZ_arnold](https://x.com/MackenZ_arnold/status/2097773578921857101) (2026-09-12)
 - [Maker17368Maker](https://x.com/Maker17368Maker/status/2062810745210040366) (2026-06-07)
 - [MarieMartens](https://x.com/MarieMartens/status/2102313804927246639) (2026-09-24)
+- [Mark_FPL](https://x.com/Mark_FPL/status/2114805623560786390) (2026-10-28)
 - [Marsadist](https://x.com/Marsadist/status/2095333453956854216) (2026-09-10)
 - [MasashiAONO](https://x.com/MasashiAONO/status/2076147787713163280) (2026-07-12)
 - [MaximLevoshin](https://x.com/MaximLevoshin/status/2114541980462072315) (2026-10-27)
+- [MaximLevoshin](https://x.com/MaximLevoshin/status/2115115428468883775) (2026-10-28)
 - [MeidasTouch](https://x.com/MeidasTouch/status/2077164264595288203) (2026-07-20)
 - [MicronCEO](https://x.com/MicronCEO/status/2090533293519409610) (2026-08-23)
 - [Miracle_NNnn](https://x.com/Miracle_NNnn/status/2107712847740367331) (2026-10-11)
@@ -235,6 +237,7 @@ total_mentions: 799
 - [RealNickMugalli](https://x.com/RealNickMugalli/status/2114725345756614889) (2026-10-27)
 - [RepThomasMassie](https://x.com/RepThomasMassie/status/2088582666157232308) (2026-09-14)
 - [Ric_RTP](https://x.com/Ric_RTP/status/2088261230054060274) (2026-08-15)
+- [RiceFarmerNFT](https://x.com/RiceFarmerNFT/status/2115307056551051272) (2026-10-28)
 - [RichardSSutton](https://x.com/RichardSSutton/status/2076663628301058329) (2026-07-17)
 - [RodDMartin](https://x.com/RodDMartin/status/2092603407446020536) (2026-09-14)
 - [Romain_Lapeyre](https://x.com/Romain_Lapeyre/status/2079636276530037009) (2026-07-22)
@@ -654,6 +657,7 @@ total_mentions: 799
 - [pierreeliottlal](https://x.com/pierreeliottlal/status/2066037831626362988) (2026-06-14)
 - [pitdesi](https://x.com/pitdesi/status/2098178397008781823) (2026-09-12)
 - [piyascode9](https://x.com/piyascode9/status/2106945216154669240) (2026-10-05)
+- [piyascode9](https://x.com/piyascode9/status/2115281954254024779) (2026-10-28)
 - [plpiaoliang](https://x.com/plpiaoliang/status/2082696373955346650) (2026-07-30)
 - [polydao](https://x.com/polydao/status/2103362362015199286) (2026-09-28)
 - [princeNFA](https://x.com/princeNFA/status/2112410957070647540) (2026-10-20)
@@ -713,6 +717,7 @@ total_mentions: 799
 - [skeptrune](https://x.com/skeptrune/status/2092294676594471062) (2026-08-27)
 - [slash1sol](https://x.com/slash1sol/status/2033636802855374982) (2026-06-13)
 - [snskritinaruka](https://x.com/snskritinaruka/status/2110310476332871763) (2026-10-17)
+- [solana](https://x.com/solana/status/2018920649935192139) (2026-10-28)
 - [solovaultinfo](https://x.com/solovaultinfo/status/2068553835598241965) (2026-06-21)
 - [soundboy](https://x.com/soundboy/status/2097607789929443537) (2026-09-10)
 - [spaceandtech_](https://x.com/spaceandtech_/status/2087905670595223735) (2026-08-16)

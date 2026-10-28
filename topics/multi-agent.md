@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-10-27
-total_mentions: 398
+last_seen: 2026-10-28
+total_mentions: 401
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -52,6 +52,7 @@ total_mentions: 398
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2108513580979237175) (2026-10-12)
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2057450220708147250) (2026-09-23)
 - [AlinaDavy20](https://x.com/AlinaDavy20/status/2084482839723094121) (2026-08-04)
+- [AmitSha77280075](https://x.com/AmitSha77280075/status/2114665148883644919) (2026-10-28)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2076366894655848871) (2026-07-13)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2082835611921138029) (2026-07-31)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2087730345173229657) (2026-08-13)
@@ -284,6 +285,7 @@ total_mentions: 398
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [hoshinoxbt](https://x.com/hoshinoxbt/status/2109343300985479239) (2026-10-12)
 - [huxlab](https://x.com/huxlab/status/2112474544376348866) (2026-10-22)
+- [huxlab](https://x.com/huxlab/status/2115240099495788552) (2026-10-28)
 - [imarun_chauhan](https://x.com/imarun_chauhan/status/2063878197457134003) (2026-06-08)
 - [jaseweston](https://x.com/jaseweston/status/2105305463784935791) (2026-10-01)
 - [jerryjliu0](https://x.com/jerryjliu0/status/2082673383255216356) (2026-07-31)
@@ -330,6 +332,7 @@ total_mentions: 398
 - [pliang279](https://x.com/pliang279/status/2113300326015275424) (2026-10-25)
 - [polydao](https://x.com/polydao/status/2066048742625821003) (2026-06-14)
 - [poteto](https://x.com/poteto/status/2090141955695198633) (2026-08-20)
+- [priors_trade](https://x.com/priors_trade/status/2113914433466486996) (2026-10-28)
 - [promptparag](https://x.com/promptparag/status/2064311991842574695) (2026-06-10)
 - [rcbregman](https://x.com/rcbregman/status/2094019390270312719) (2026-09-01)
 - [rcbregman](https://x.com/rcbregman/status/2095834084098334958) (2026-09-07)

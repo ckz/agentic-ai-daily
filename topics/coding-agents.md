@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-27
-total_mentions: 206
+last_seen: 2026-10-28
+total_mentions: 207
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -195,6 +195,7 @@ total_mentions: 206
 - [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)
 - [tamrrat](https://x.com/tamrrat/status/2077136461489467450) (2026-07-15)
 - [techNmak](https://x.com/techNmak/status/2096243571410276392) (2026-09-07)
+- [techNmak](https://x.com/techNmak/status/2114313618611220950) (2026-10-28)
 - [tetsuoai](https://x.com/tetsuoai/status/2098199890237247578) (2026-09-11)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2112926633594364248) (2026-10-23)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2081680037544427793) (2026-07-28)

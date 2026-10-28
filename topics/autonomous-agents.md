@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-27
-total_mentions: 1589
+last_seen: 2026-10-28
+total_mentions: 1598
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -143,6 +143,7 @@ total_mentions: 1589
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2076720209293893677) (2026-07-14)
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2069720365442719867) (2026-06-27)
 - [AllTechMagazine](https://x.com/AllTechMagazine/status/2074208286266761381) (2026-07-07)
+- [AmitSha77280075](https://x.com/AmitSha77280075/status/2114665148883644919) (2026-10-28)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2069122453641523495) (2026-06-27)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2073761540671496493) (2026-07-07)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2075641176015634832) (2026-07-11)
@@ -269,6 +270,7 @@ total_mentions: 1589
 - [Cointelegraph](https://x.com/Cointelegraph/status/2081565399347323127) (2026-08-02)
 - [Cortex_Network_](https://x.com/Cortex_Network_/status/2071913826216554612) (2026-07-01)
 - [Cortex_Network_](https://x.com/Cortex_Network_/status/2075590628134760625) (2026-07-11)
+- [Cpulok](https://x.com/Cpulok/status/2115298135128043994) (2026-10-28)
 - [Crowdreply_io](https://x.com/Crowdreply_io/status/2082844304981282878) (2026-07-31)
 - [CryptoKing_2020](https://x.com/CryptoKing_2020/status/2103189315866206663) (2026-09-25)
 - [Crypto__Haris](https://x.com/Crypto__Haris/status/2074037585341768082) (2026-07-06)
@@ -599,6 +601,7 @@ total_mentions: 1589
 - [PythonDvz](https://x.com/PythonDvz/status/2099725396895727629) (2026-09-17)
 - [PythonHub](https://x.com/PythonHub/status/2095425383000650201) (2026-09-09)
 - [PythonHub](https://x.com/PythonHub/status/2106055428903665761) (2026-10-04)
+- [Quangimp1](https://x.com/Quangimp1/status/2115304915535069637) (2026-10-28)
 - [QwenDevs](https://x.com/QwenDevs/status/2093175583286968499) (2026-08-28)
 - [RATGPT_official](https://x.com/RATGPT_official/status/2070072449027494268) (2026-06-28)
 - [RIFAT5666](https://x.com/RIFAT5666/status/2109876282725150954) (2026-10-13)
@@ -814,6 +817,7 @@ total_mentions: 1589
 - [aicryptoboss](https://x.com/aicryptoboss/status/2082348441506603086) (2026-07-29)
 - [aidigest_](https://x.com/aidigest_/status/2093369236798550022) (2026-09-02)
 - [aiexplorations](https://x.com/aiexplorations/status/2076531708690899009) (2026-07-13)
+- [aimlapi](https://x.com/aimlapi/status/2115204368244818293) (2026-10-28)
 - [ainunnajib](https://x.com/ainunnajib/status/2093233101321510937) (2026-08-28)
 - [aipaywithcrypto](https://x.com/aipaywithcrypto/status/2072243829789315540) (2026-07-03)
 - [aipaywithcrypto](https://x.com/aipaywithcrypto/status/2073292135701553295) (2026-07-05)
@@ -970,6 +974,7 @@ total_mentions: 1589
 - [composio](https://x.com/composio/status/2085330847951970801) (2026-08-07)
 - [composio](https://x.com/composio/status/2086814488162972027) (2026-08-11)
 - [congge918](https://x.com/congge918/status/2114920556651073909) (2026-10-27)
+- [congge918](https://x.com/congge918/status/2115301102589755614) (2026-10-28)
 - [connectwithveee](https://x.com/connectwithveee/status/2106329490771067000) (2026-10-04)
 - [cryptobrass](https://x.com/cryptobrass/status/2084245832363130941) (2026-08-04)
 - [cryptobuzzer03](https://x.com/cryptobuzzer03/status/2067855094327001574) (2026-06-19)
@@ -1006,6 +1011,7 @@ total_mentions: 1589
 - [dair_ai](https://x.com/dair_ai/status/2097022152088445034) (2026-09-08)
 - [daisy_btc988](https://x.com/daisy_btc988/status/2102284082973663268) (2026-09-23)
 - [dan__rosenthal](https://x.com/dan__rosenthal/status/2086165641594048875) (2026-08-09)
+- [dan__rosenthal](https://x.com/dan__rosenthal/status/2115156692627251542) (2026-10-28)
 - [dankimxyz](https://x.com/dankimxyz/status/2107199865004634605) (2026-10-07)
 - [danshipper](https://x.com/danshipper/status/2102461471716483208) (2026-09-23)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
@@ -1158,6 +1164,7 @@ total_mentions: 1589
 - [huang_biwei](https://x.com/huang_biwei/status/2099664633095401659) (2026-09-17)
 - [humafinance](https://x.com/humafinance/status/2062445243711279528) (2026-06-08)
 - [huxlab](https://x.com/huxlab/status/2112474544376348866) (2026-10-22)
+- [huxlab](https://x.com/huxlab/status/2115240099495788552) (2026-10-28)
 - [iBenWills](https://x.com/iBenWills/status/2063840829773369626) (2026-06-08)
 - [iam_elias1](https://x.com/iam_elias1/status/2062095528742240319) (2026-06-05)
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
@@ -1474,6 +1481,7 @@ total_mentions: 1589
 - [skirano](https://x.com/skirano/status/1797738751113998345) (2026-10-12)
 - [slash1sol](https://x.com/slash1sol/status/2101244375925723559) (2026-09-20)
 - [smarterwithai_](https://x.com/smarterwithai_/status/2113156321738670539) (2026-10-22)
+- [solana](https://x.com/solana/status/2018920649935192139) (2026-10-28)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2072154763492544652) (2026-07-01)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2077223722654834863) (2026-07-16)
 - [soniacuts](https://x.com/soniacuts/status/2109597969456525547) (2026-10-14)
@@ -1579,6 +1587,7 @@ total_mentions: 1589
 - [waveking1314](https://x.com/waveking1314/status/2063184011770671115) (2026-06-09)
 - [wh0sumit](https://x.com/wh0sumit/status/2096847253550063656) (2026-09-07)
 - [wilsonnwafor_](https://x.com/wilsonnwafor_/status/2076919122479185990) (2026-07-14)
+- [x_insider4](https://x.com/x_insider4/status/2115048978194510217) (2026-10-28)
 - [xenovacom](https://x.com/xenovacom/status/2070210622239707568) (2026-06-27)
 - [xiaoying_eth](https://x.com/xiaoying_eth/status/2064183483795460502) (2026-06-10)
 - [xoggai](https://x.com/xoggai/status/2071621434619957408) (2026-06-30)

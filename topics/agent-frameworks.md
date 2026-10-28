@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-27
-total_mentions: 616
+last_seen: 2026-10-28
+total_mentions: 621
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -155,6 +155,7 @@ total_mentions: 616
 - [GpaAndy](https://x.com/GpaAndy/status/2101129153172910212) (2026-09-20)
 - [Greshamtrade](https://x.com/Greshamtrade/status/2113369499801960699) (2026-10-25)
 - [Gustafssonkotte](https://x.com/Gustafssonkotte/status/2082309711785849067) (2026-08-01)
+- [HVnS42442600](https://x.com/HVnS42442600/status/2115005757523661111) (2026-10-28)
 - [HackingDave](https://x.com/HackingDave/status/2069146467701256423) (2026-06-29)
 - [HarryBee_Yhu](https://x.com/HarryBee_Yhu/status/2067864020527292535) (2026-06-19)
 - [HelgaHinojosa](https://x.com/HelgaHinojosa/status/2110221824608862378) (2026-10-14)
@@ -176,6 +177,7 @@ total_mentions: 616
 - [JaynitMakwana](https://x.com/JaynitMakwana/status/2078419436554625340) (2026-07-19)
 - [JesseisCooking](https://x.com/JesseisCooking/status/2103383326543495485) (2026-10-01)
 - [Jiacheng_Miao](https://x.com/Jiacheng_Miao/status/2100296661427999222) (2026-09-17)
+- [JustineChi34810](https://x.com/JustineChi34810/status/2115339769429238033) (2026-10-28)
 - [Kaffchad](https://x.com/Kaffchad/status/2059932680813183175) (2026-07-10)
 - [Kaffchad](https://x.com/Kaffchad/status/2066380271092662782) (2026-06-15)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2072425629627330995) (2026-07-02)
@@ -369,6 +371,7 @@ total_mentions: 616
 - [businessbarista](https://x.com/businessbarista/status/2082146039801217333) (2026-07-31)
 - [businessbarista](https://x.com/businessbarista/status/2094213970215231831) (2026-08-31)
 - [businessbarista](https://x.com/businessbarista/status/2097478065723162959) (2026-09-09)
+- [businessbarista](https://x.com/businessbarista/status/2114864181937586359) (2026-10-28)
 - [cb_doge](https://x.com/cb_doge/status/2076291436283396496) (2026-07-18)
 - [chandan1_](https://x.com/chandan1_/status/1874874423062278335) (2026-07-10)
 - [charliejhills](https://x.com/charliejhills/status/2098351074755457321) (2026-09-17)
@@ -393,7 +396,9 @@ total_mentions: 616
 - [dair_ai](https://x.com/dair_ai/status/2028480209033568475) (2026-06-13)
 - [dair_ai](https://x.com/dair_ai/status/2081770344952803628) (2026-07-28)
 - [dair_ai](https://x.com/dair_ai/status/2097022152088445034) (2026-09-08)
+- [dan__rosenthal](https://x.com/dan__rosenthal/status/2115156692627251542) (2026-10-28)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
+- [deezzex](https://x.com/deezzex/status/2114306170072473919) (2026-10-28)
 - [devXritesh](https://x.com/devXritesh/status/2107075587529396377) (2026-10-10)
 - [dexhorthy](https://x.com/dexhorthy/status/2067286892786454855) (2026-06-19)
 - [digitalocean](https://x.com/digitalocean/status/2102414817797550320) (2026-09-24)
