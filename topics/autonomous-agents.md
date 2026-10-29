@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-28
-total_mentions: 1598
+last_seen: 2026-10-29
+total_mentions: 1606
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -225,6 +225,7 @@ total_mentions: 1598
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2062873857304752368) (2026-06-05)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2063598644293484741) (2026-06-08)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2064345389424324891) (2026-06-14)
+- [Big_Rancho](https://x.com/Big_Rancho/status/2114295338802561249) (2026-10-29)
 - [BinanceWallet](https://x.com/BinanceWallet/status/2112904066829549843) (2026-10-23)
 - [BitBlitzBuzz](https://x.com/BitBlitzBuzz/status/2070751322715148478) (2026-06-27)
 - [Bl0ckZer0](https://x.com/Bl0ckZer0/status/2086356362787770530) (2026-08-09)
@@ -387,6 +388,7 @@ total_mentions: 1598
 - [Guelug](https://x.com/Guelug/status/2072092575947989385) (2026-07-01)
 - [Gustafssonkotte](https://x.com/Gustafssonkotte/status/2082309711785849067) (2026-08-01)
 - [Gyokeres_eth](https://x.com/Gyokeres_eth/status/2081330941096583465) (2026-08-02)
+- [HBO_data](https://x.com/HBO_data/status/2115667462943322358) (2026-10-29)
 - [HZoete](https://x.com/HZoete/status/2104954372866085007) (2026-09-30)
 - [HackingDave](https://x.com/HackingDave/status/2069146467701256423) (2026-06-29)
 - [HackingDave](https://x.com/HackingDave/status/2084367299104882779) (2026-08-04)
@@ -424,6 +426,7 @@ total_mentions: 1598
 - [InduTripat82427](https://x.com/InduTripat82427/status/2062485176358486507) (2026-06-09)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2081879304669941989) (2026-07-28)
+- [ItsSnibby](https://x.com/ItsSnibby/status/2115465295502639441) (2026-10-29)
 - [JCMH_ETH](https://x.com/JCMH_ETH/status/2076935191226916990) (2026-07-14)
 - [JJEnglert](https://x.com/JJEnglert/status/2064420538798260388) (2026-06-10)
 - [Jadzo1_](https://x.com/Jadzo1_/status/2072437174071636126) (2026-07-02)
@@ -703,6 +706,7 @@ total_mentions: 1598
 - [Suryanshti777](https://x.com/Suryanshti777/status/2084693098714599697) (2026-08-05)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2085286044975476808) (2026-08-11)
 - [SvpChain](https://x.com/SvpChain/status/2064935788345974954) (2026-06-11)
+- [SyntheticBeef](https://x.com/SyntheticBeef/status/2115071973336465644) (2026-10-29)
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2065300113254388162) (2026-06-12)
 - [TeachTheMachine](https://x.com/TeachTheMachine/status/2107883727473062003) (2026-10-08)
 - [TechByArti](https://x.com/TechByArti/status/2102669545131712912) (2026-09-24)
@@ -730,6 +734,7 @@ total_mentions: 1598
 - [TokenGremlin](https://x.com/TokenGremlin/status/2092701202303856785) (2026-08-27)
 - [TokenGremlin](https://x.com/TokenGremlin/status/2104985693319500226) (2026-10-06)
 - [TokenizedPod](https://x.com/TokenizedPod/status/2079219793299746929) (2026-07-22)
+- [TollyLabs](https://x.com/TollyLabs/status/2114681464176447898) (2026-10-29)
 - [Tolu_Atanda](https://x.com/Tolu_Atanda/status/2077969124701990988) (2026-07-17)
 - [TonyTheAristotl](https://x.com/TonyTheAristotl/status/2075243763891364291) (2026-07-10)
 - [TracNetwork](https://x.com/TracNetwork/status/2072687224844382340) (2026-07-03)
@@ -1019,6 +1024,7 @@ total_mentions: 1598
 - [databricks](https://x.com/databricks/status/2070517714746012080) (2026-06-27)
 - [datasection](https://x.com/datasection/status/2063510474503700504) (2026-06-07)
 - [david1989_zhu](https://x.com/david1989_zhu/status/2065343518483136962) (2026-06-12)
+- [davidim](https://x.com/davidim/status/2115478546630295600) (2026-10-29)
 - [dawnsongtweets](https://x.com/dawnsongtweets/status/2087256652756172834) (2026-08-14)
 - [dawnsongtweets](https://x.com/dawnsongtweets/status/2094208718896558526) (2026-08-31)
 - [deanwball](https://x.com/deanwball/status/2078133895766114412) (2026-07-20)
@@ -1513,6 +1519,8 @@ total_mentions: 1598
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2106715961403273433) (2026-10-09)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109615202371252261) (2026-10-19)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109977469927244158) (2026-10-17)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2115065255835627540) (2026-10-29)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2115413286829298029) (2026-10-29)
 - [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)
 - [swyx](https://x.com/swyx/status/2076155833428431012) (2026-07-12)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)

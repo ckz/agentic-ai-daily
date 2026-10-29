@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-28
-total_mentions: 804
+last_seen: 2026-10-29
+total_mentions: 809
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
@@ -432,6 +432,7 @@ total_mentions: 804
 - [codyschneider](https://x.com/codyschneider/status/2103907470322143521) (2026-09-27)
 - [coinbureau](https://x.com/coinbureau/status/2098641504767983918) (2026-09-13)
 - [coingecko](https://x.com/coingecko/status/2064572347433075107) (2026-06-10)
+- [colossusmag](https://x.com/colossusmag/status/2115406521672835239) (2026-10-29)
 - [congge918](https://x.com/congge918/status/2114920556651073909) (2026-10-27)
 - [convequity](https://x.com/convequity/status/2105431360500301981) (2026-10-01)
 - [coreyganim](https://x.com/coreyganim/status/2084312288786276484) (2026-08-04)
@@ -441,6 +442,7 @@ total_mentions: 804
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1872809091799875592) (2026-06-29)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2076868034812096748) (2026-07-14)
 - [cyvanessali](https://x.com/cyvanessali/status/2114083981549515019) (2026-10-25)
+- [cz_binance](https://x.com/cz_binance/status/2113611119445373422) (2026-10-29)
 - [danellisona](https://x.com/danellisona/status/2108357119787631069) (2026-10-09)
 - [danmall](https://x.com/danmall/status/2103615627323727941) (2026-09-27)
 - [darbyw](https://x.com/darbyw/status/2092718828405096955) (2026-08-27)
@@ -552,6 +554,7 @@ total_mentions: 804
 - [jiang_kev](https://x.com/jiang_kev/status/2082496145994248488) (2026-07-30)
 - [johnrush](https://x.com/johnrush/status/2100322424386429223) (2026-09-20)
 - [jomatech](https://x.com/jomatech/status/2071058503805124918) (2026-06-28)
+- [joulee](https://x.com/joulee/status/2113740540655325375) (2026-10-29)
 - [jqdsouza](https://x.com/jqdsouza/status/2112552451547001218) (2026-10-21)
 - [jsolomonReports](https://x.com/jsolomonReports/status/2083874257189097789) (2026-08-05)
 - [juampitech](https://x.com/juampitech/status/2102849501002150206) (2026-09-24)
@@ -586,6 +589,7 @@ total_mentions: 804
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
 - [lightspeedvp](https://x.com/lightspeedvp/status/2070182060224852105) (2026-06-27)
 - [lillyemira](https://x.com/lillyemira/status/2106529187091935656) (2026-10-04)
+- [lilyjclifford](https://x.com/lilyjclifford/status/2115521147890520503) (2026-10-29)
 - [maheerpips](https://x.com/maheerpips/status/2102658482142949518) (2026-09-23)
 - [manxlab](https://x.com/manxlab/status/2104648664413012176) (2026-09-30)
 - [marclou](https://x.com/marclou/status/2086700255949865456) (2026-08-15)
@@ -762,6 +766,7 @@ total_mentions: 804
 - [thsottiaux](https://x.com/thsottiaux/status/2095369901137654271) (2026-09-03)
 - [ti_morse](https://x.com/ti_morse/status/2081068670478880854) (2026-08-01)
 - [tiovikram](https://x.com/tiovikram/status/2081559019978907975) (2026-07-27)
+- [tomadesanmi](https://x.com/tomadesanmi/status/2115443106787336423) (2026-10-29)
 - [tradeifyforex](https://x.com/tradeifyforex/status/2103469713619648770) (2026-09-30)
 - [trajektoriePL](https://x.com/trajektoriePL/status/2088167040175526258) (2026-08-15)
 - [trikcode](https://x.com/trikcode/status/2078755471205253481) (2026-07-20)

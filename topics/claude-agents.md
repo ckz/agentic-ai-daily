@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-28
-total_mentions: 318
+last_seen: 2026-10-29
+total_mentions: 320
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -78,6 +78,7 @@ total_mentions: 318
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2073709900820099232) (2026-07-06)
 - [Ishh_021](https://x.com/Ishh_021/status/2111323046527312082) (2026-10-24)
+- [ItsSnibby](https://x.com/ItsSnibby/status/2115465295502639441) (2026-10-29)
 - [JJEnglert](https://x.com/JJEnglert/status/2064420538798260388) (2026-06-10)
 - [JesseisCooking](https://x.com/JesseisCooking/status/2103383326543495485) (2026-10-01)
 - [Jeyxbt](https://x.com/Jeyxbt/status/2067866973497868794) (2026-06-19)
@@ -199,6 +200,7 @@ total_mentions: 318
 - [digitalocean](https://x.com/digitalocean/status/2102414817797550320) (2026-09-24)
 - [dioscuri](https://x.com/dioscuri/status/2103848836469084516) (2026-09-30)
 - [doncoderlione](https://x.com/doncoderlione/status/2112638459089150151) (2026-10-21)
+- [dotey](https://x.com/dotey/status/2115667965328977920) (2026-10-29)
 - [doublenickk](https://x.com/doublenickk/status/2111836581929631794) (2026-10-22)
 - [dr_cintas](https://x.com/dr_cintas/status/2072714904650359130) (2026-07-03)
 - [dr_cintas](https://x.com/dr_cintas/status/2077450639068553433) (2026-07-16)

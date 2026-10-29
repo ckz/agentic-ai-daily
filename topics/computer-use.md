@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-10-28
-total_mentions: 173
+last_seen: 2026-10-29
+total_mentions: 174
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -52,6 +52,7 @@ total_mentions: 173
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2103533741251416342) (2026-09-26)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2106319598492545245) (2026-10-05)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2109966127111540755) (2026-10-17)
+- [RoundtableSpace](https://x.com/RoundtableSpace/status/2115666184888537433) (2026-10-29)
 - [SamSokolin](https://x.com/SamSokolin/status/2094824011427373415) (2026-09-03)
 - [SimularAI](https://x.com/SimularAI/status/2093009990663434361) (2026-08-28)
 - [SimularAI](https://x.com/SimularAI/status/2107168861388980400) (2026-10-08)

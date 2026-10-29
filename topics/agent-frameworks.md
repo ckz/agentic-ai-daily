@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-28
-total_mentions: 621
+last_seen: 2026-10-29
+total_mentions: 626
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -224,6 +224,7 @@ total_mentions: 621
 - [OurTinTinLand](https://x.com/OurTinTinLand/status/2082351358876033195) (2026-07-29)
 - [PalantirTech](https://x.com/PalantirTech/status/2077032712578199604) (2026-07-15)
 - [Peevibes007](https://x.com/Peevibes007/status/2047915508260073869) (2026-07-26)
+- [PredictPro_](https://x.com/PredictPro_/status/2115663414995623981) (2026-10-29)
 - [Priyannkaaaa](https://x.com/Priyannkaaaa/status/2083851157324046649) (2026-08-03)
 - [Promixyz](https://x.com/Promixyz/status/2110310642422780309) (2026-10-17)
 - [PyTorch](https://x.com/PyTorch/status/2086817394010280372) (2026-08-11)
@@ -520,6 +521,7 @@ total_mentions: 621
 - [petergyang](https://x.com/petergyang/status/2106749997442285981) (2026-10-09)
 - [piyascode9](https://x.com/piyascode9/status/2060204362497224790) (2026-06-05)
 - [polydao](https://x.com/polydao/status/2097642088506487020) (2026-09-10)
+- [princeNFA](https://x.com/princeNFA/status/2115674627313692811) (2026-10-29)
 - [py_kanade0404](https://x.com/py_kanade0404/status/2079825109083467821) (2026-07-22)
 - [radiyal_agency](https://x.com/radiyal_agency/status/2072183621176504669) (2026-07-01)
 - [randy_magruder](https://x.com/randy_magruder/status/2075453861754470569) (2026-07-10)
@@ -583,6 +585,8 @@ total_mentions: 621
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2098026202464243908) (2026-09-12)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109615202371252261) (2026-10-19)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109977469927244158) (2026-10-17)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2115065255835627540) (2026-10-29)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2115413286829298029) (2026-10-29)
 - [techNmak](https://x.com/techNmak/status/2090689729461411951) (2026-08-25)
 - [techNmak](https://x.com/techNmak/status/2091434187446439969) (2026-08-24)
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)
@@ -617,6 +621,7 @@ total_mentions: 621
 - [vllm_project](https://x.com/vllm_project/status/2097427310513426721) (2026-09-12)
 - [voidwarriorchan](https://x.com/voidwarriorchan/status/2095708889300033590) (2026-09-04)
 - [wallstengine](https://x.com/wallstengine/status/2062459661039894607) (2026-06-08)
+- [wespreadjam](https://x.com/wespreadjam/status/2115568290307469548) (2026-10-29)
 - [whemohere](https://x.com/whemohere/status/2108590166851895570) (2026-10-15)
 - [wilsonnwafor_](https://x.com/wilsonnwafor_/status/2076919122479185990) (2026-07-14)
 - [xCryptoParadise](https://x.com/xCryptoParadise/status/2104917457332736098) (2026-09-30)
