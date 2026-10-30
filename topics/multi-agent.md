@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-10-29
-total_mentions: 403
+last_seen: 2026-10-30
+total_mentions: 405
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -145,6 +145,7 @@ total_mentions: 403
 - [MAXdeg0](https://x.com/MAXdeg0/status/2090697430756904964) (2026-08-23)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2092142425879855254) (2026-08-28)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
+- [Marlenuii](https://x.com/Marlenuii/status/2113591960476742054) (2026-10-30)
 - [MaxForAI](https://x.com/MaxForAI/status/2098334720677282098) (2026-09-13)
 - [MayaAscend9](https://x.com/MayaAscend9/status/2086244103835295965) (2026-08-09)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2073950058677186755) (2026-07-06)
@@ -357,6 +358,7 @@ total_mentions: 403
 - [seeconvm](https://x.com/seeconvm/status/2096406550839537729) (2026-09-07)
 - [seelffff](https://x.com/seelffff/status/2071259582970691661) (2026-06-29)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
+- [shao__meng](https://x.com/shao__meng/status/2115975663148765204) (2026-10-30)
 - [shedntcare_](https://x.com/shedntcare_/status/2066124333559480395) (2026-06-21)
 - [shikamarutsai](https://x.com/shikamarutsai/status/2110817965658571181) (2026-10-17)
 - [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)

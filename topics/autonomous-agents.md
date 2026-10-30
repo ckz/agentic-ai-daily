@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-29
-total_mentions: 1606
+last_seen: 2026-10-30
+total_mentions: 1612
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -44,6 +44,7 @@ total_mentions: 1606
 - [0xJeff](https://x.com/0xJeff/status/2085595676168396959) (2026-08-08)
 - [0xMontBlanc](https://x.com/0xMontBlanc/status/2112208608104792401) (2026-10-20)
 - [0xMorlex](https://x.com/0xMorlex/status/2086059854704365863) (2026-08-09)
+- [0xMorlex](https://x.com/0xMorlex/status/2115872777660141771) (2026-10-30)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xMovez](https://x.com/0xMovez/status/2063989380583137587) (2026-06-09)
 - [0xMovez](https://x.com/0xMovez/status/2069075857629409378) (2026-06-29)
@@ -203,6 +204,7 @@ total_mentions: 1606
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2110893784422908225) (2026-10-16)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2113688083145314416) (2026-10-24)
 - [Artificialunbox](https://x.com/Artificialunbox/status/2068215362114715908) (2026-06-20)
+- [Atinux](https://x.com/Atinux/status/2115749030957547715) (2026-10-30)
 - [Aurimas_Gr](https://x.com/Aurimas_Gr/status/2084608000610754903) (2026-08-06)
 - [Ausmi129124](https://x.com/Ausmi129124/status/2068589738534260929) (2026-06-21)
 - [Austen](https://x.com/Austen/status/2090778095187849436) (2026-08-22)
@@ -504,6 +506,7 @@ total_mentions: 1606
 - [MarioNawfal](https://x.com/MarioNawfal/status/2085171754415038482) (2026-08-06)
 - [Market_Mind_](https://x.com/Market_Mind_/status/2088651427962921304) (2026-08-17)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
+- [Marlenuii](https://x.com/Marlenuii/status/2113591960476742054) (2026-10-30)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
 - [MaxForAI](https://x.com/MaxForAI/status/2094607306998841814) (2026-09-01)
 - [MaxForAI](https://x.com/MaxForAI/status/2095219932686590229) (2026-09-03)
@@ -1217,6 +1220,7 @@ total_mentions: 1606
 - [johniosifov](https://x.com/johniosifov/status/2081806958667960770) (2026-07-28)
 - [jpschroeder](https://x.com/jpschroeder/status/2085099179110703584) (2026-08-06)
 - [jshchnz](https://x.com/jshchnz/status/2095873634069831680) (2026-09-08)
+- [julesagent](https://x.com/julesagent/status/2115883717705261283) (2026-10-30)
 - [jwang633](https://x.com/jwang633/status/2105012942601367940) (2026-09-30)
 - [kadsxr](https://x.com/kadsxr/status/2076728894363775220) (2026-07-15)
 - [kadsxr](https://x.com/kadsxr/status/2076781099120804218) (2026-07-15)
@@ -1310,6 +1314,7 @@ total_mentions: 1606
 - [mirku21](https://x.com/mirku21/status/2106127135278612573) (2026-10-08)
 - [mirku21](https://x.com/mirku21/status/2108301507955396970) (2026-10-11)
 - [mirku21](https://x.com/mirku21/status/2110838213988532675) (2026-10-18)
+- [mirku21](https://x.com/mirku21/status/2115911644501147972) (2026-10-30)
 - [mitchellh](https://x.com/mitchellh/status/2107577887159386152) (2026-10-10)
 - [miyataArcHack](https://x.com/miyataArcHack/status/2100743410076598752) (2026-09-25)
 - [mnadirghafoor](https://x.com/mnadirghafoor/status/2071098524826268063) (2026-06-28)
@@ -1462,6 +1467,7 @@ total_mentions: 1606
 - [shannholmberg](https://x.com/shannholmberg/status/2108459414961389680) (2026-10-10)
 - [shanyanggm](https://x.com/shanyanggm/status/2098941338297458746) (2026-09-14)
 - [shanyanggm](https://x.com/shanyanggm/status/2099226614844256653) (2026-09-14)
+- [shao__meng](https://x.com/shao__meng/status/2115975663148765204) (2026-10-30)
 - [sharbel](https://x.com/sharbel/status/2065700640387436935) (2026-06-20)
 - [sharbel](https://x.com/sharbel/status/2070812435653464323) (2026-06-28)
 - [shawnchauhan1](https://x.com/shawnchauhan1/status/2082685120679657715) (2026-07-30)

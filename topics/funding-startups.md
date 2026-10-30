@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-29
-total_mentions: 809
+last_seen: 2026-10-30
+total_mentions: 816
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
@@ -15,6 +15,7 @@ total_mentions: 809
 - [0xvietnguyen](https://x.com/0xvietnguyen/status/2088504476865081410) (2026-08-21)
 - [16vchq](https://x.com/16vchq/status/2109872657021952438) (2026-10-13)
 - [16vchq](https://x.com/16vchq/status/2111452434107334943) (2026-10-18)
+- [2whazzuup](https://x.com/2whazzuup/status/2113971733871104275) (2026-10-30)
 - [3blue1brown](https://x.com/3blue1brown/status/2111135480116850944) (2026-10-18)
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
 - [5eniorDeveloper](https://x.com/5eniorDeveloper/status/2097029277434757251) (2026-09-08)
@@ -214,6 +215,7 @@ total_mentions: 809
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
 - [Ozacle23](https://x.com/Ozacle23/status/2112179474649448960) (2026-10-21)
 - [PTrubey](https://x.com/PTrubey/status/2086293046489182599) (2026-08-14)
+- [PaulKlayVC](https://x.com/PaulKlayVC/status/2115974407755886614) (2026-10-30)
 - [PayGo402](https://x.com/PayGo402/status/2076560560162820116) (2026-07-13)
 - [Polymarket](https://x.com/Polymarket/status/2062960684309123535) (2026-06-05)
 - [Polymarket](https://x.com/Polymarket/status/2069569968258097367) (2026-06-28)
@@ -285,6 +287,7 @@ total_mentions: 809
 - [TRHLofficial](https://x.com/TRHLofficial/status/2104165736365134051) (2026-10-01)
 - [TechCrunch](https://x.com/TechCrunch/status/2090976021600244044) (2026-08-25)
 - [TechCrunch](https://x.com/TechCrunch/status/2107205456351354910) (2026-10-06)
+- [Techstars](https://x.com/Techstars/status/2115836298099323144) (2026-10-30)
 - [TheJoinCare](https://x.com/TheJoinCare/status/2110466063762960613) (2026-10-15)
 - [TheStartupsMag](https://x.com/TheStartupsMag/status/2068604981318488305) (2026-06-21)
 - [TheoAugust8](https://x.com/TheoAugust8/status/2063166492519158257) (2026-06-06)
@@ -430,6 +433,7 @@ total_mentions: 809
 - [codyschneider](https://x.com/codyschneider/status/2081817171202920732) (2026-08-02)
 - [codyschneider](https://x.com/codyschneider/status/2084369982918406433) (2026-08-04)
 - [codyschneider](https://x.com/codyschneider/status/2103907470322143521) (2026-09-27)
+- [cohere](https://x.com/cohere/status/2115833490126336507) (2026-10-30)
 - [coinbureau](https://x.com/coinbureau/status/2098641504767983918) (2026-09-13)
 - [coingecko](https://x.com/coingecko/status/2064572347433075107) (2026-06-10)
 - [colossusmag](https://x.com/colossusmag/status/2115406521672835239) (2026-10-29)
@@ -492,6 +496,7 @@ total_mentions: 809
 - [gaganbiyani](https://x.com/gaganbiyani/status/2102404344351973825) (2026-09-24)
 - [gauravkheterpal](https://x.com/gauravkheterpal/status/2091523308173107449) (2026-08-26)
 - [gauravsbuilding](https://x.com/gauravsbuilding/status/2105899124167946380) (2026-10-02)
+- [gauravsbuilding](https://x.com/gauravsbuilding/status/2116049303647260992) (2026-10-30)
 - [gdb](https://x.com/gdb/status/2076686329686171666) (2026-07-14)
 - [georgegalloway](https://x.com/georgegalloway/status/2104873836264980778) (2026-10-01)
 - [gfodor](https://x.com/gfodor/status/2087658547140276534) (2026-08-13)
@@ -535,6 +540,7 @@ total_mentions: 809
 - [ianwong_](https://x.com/ianwong_/status/2098106891737977191) (2026-09-12)
 - [ibab](https://x.com/ibab/status/2087145290671468569) (2026-08-12)
 - [inter_link](https://x.com/inter_link/status/2081053524134125832) (2026-07-29)
+- [ionleu](https://x.com/ionleu/status/2115888399819403524) (2026-10-30)
 - [irabukht](https://x.com/irabukht/status/2092743370804171081) (2026-08-28)
 - [irfan3](https://x.com/irfan3/status/2082699425529638948) (2026-07-30)
 - [itsalicesoul](https://x.com/itsalicesoul/status/2100249971148898734) (2026-09-23)
@@ -544,6 +550,7 @@ total_mentions: 809
 - [itsolelehmann](https://x.com/itsolelehmann/status/2089543156824146164) (2026-08-23)
 - [itsolelehmann](https://x.com/itsolelehmann/status/2105709191692538365) (2026-10-03)
 - [jackkuveke](https://x.com/jackkuveke/status/2098414956454568307) (2026-09-13)
+- [jakeserval](https://x.com/jakeserval/status/2115835611252666404) (2026-10-30)
 - [james406](https://x.com/james406/status/2055362680299434300) (2026-06-09)
 - [jamonholmgren](https://x.com/jamonholmgren/status/2098235125419135339) (2026-09-11)
 - [jarrodwatts](https://x.com/jarrodwatts/status/2111284112011194846) (2026-10-18)

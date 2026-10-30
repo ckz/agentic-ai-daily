@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-29
-total_mentions: 626
+last_seen: 2026-10-30
+total_mentions: 628
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -28,6 +28,7 @@ total_mentions: 626
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2088179625642152198) (2026-08-17)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2095414392557068291) (2026-09-04)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2107745162344734922) (2026-10-13)
+- [AaronScottAI](https://x.com/AaronScottAI/status/2114690488779567313) (2026-10-30)
 - [AaronxShepherd](https://x.com/AaronxShepherd/status/2103922782400590334) (2026-09-27)
 - [AiCamila_](https://x.com/AiCamila_/status/2076911076885823887) (2026-07-15)
 - [AiNicolas75316](https://x.com/AiNicolas75316/status/2079199374819914080) (2026-07-22)
@@ -51,6 +52,7 @@ total_mentions: 626
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2065559824230957190) (2026-06-14)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2076747075036045645) (2026-07-14)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2082991648703930561) (2026-08-05)
+- [Atinux](https://x.com/Atinux/status/2115749030957547715) (2026-10-30)
 - [Aura_lixx](https://x.com/Aura_lixx/status/2111615210503168164) (2026-10-18)
 - [Av1dlive](https://x.com/Av1dlive/status/2082039763511673129) (2026-07-29)
 - [Av1dlive](https://x.com/Av1dlive/status/2082807521161654576) (2026-07-31)

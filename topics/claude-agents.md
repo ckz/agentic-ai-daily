@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-29
-total_mentions: 320
+last_seen: 2026-10-30
+total_mentions: 322
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -160,6 +160,7 @@ total_mentions: 320
 - [bcherny](https://x.com/bcherny/status/2113333859907747871) (2026-10-23)
 - [beamnxw](https://x.com/beamnxw/status/2080600136456060958) (2026-08-01)
 - [beamnxw](https://x.com/beamnxw/status/2090553472865419568) (2026-08-21)
+- [beamnxw](https://x.com/beamnxw/status/2115912451388485931) (2026-10-30)
 - [bindureddy](https://x.com/bindureddy/status/2087034287396938177) (2026-08-11)
 - [bonduelleioat](https://x.com/bonduelleioat/status/2090015153739669554) (2026-08-23)
 - [businessbarista](https://x.com/businessbarista/status/2097478065723162959) (2026-09-09)
@@ -275,6 +276,7 @@ total_mentions: 320
 - [quinn_leng](https://x.com/quinn_leng/status/2110036327286886731) (2026-10-14)
 - [rakib_hossen_ai](https://x.com/rakib_hossen_ai/status/2113385135869735176) (2026-10-24)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
+- [ridark_eth](https://x.com/ridark_eth/status/2114830200810930276) (2026-10-30)
 - [rileybrown](https://x.com/rileybrown/status/2101027402369335382) (2026-09-19)
 - [rileybrown](https://x.com/rileybrown/status/2107320826575937563) (2026-10-07)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2092970481423192328) (2026-09-03)

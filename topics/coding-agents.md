@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-29
-total_mentions: 208
+last_seen: 2026-10-30
+total_mentions: 209
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -168,6 +168,7 @@ total_mentions: 208
 - [milesdeutscher](https://x.com/milesdeutscher/status/2074378380385067230) (2026-07-07)
 - [monmiglobal](https://x.com/monmiglobal/status/2071399421997359236) (2026-06-29)
 - [neropursue](https://x.com/neropursue/status/2089263766428950683) (2026-10-09)
+- [noechague](https://x.com/noechague/status/2115881352822493630) (2026-10-30)
 - [nutlope](https://x.com/nutlope/status/2095890193957962077) (2026-09-07)
 - [nutlope](https://x.com/nutlope/status/2099547343112564921) (2026-09-16)
 - [omarsar0](https://x.com/omarsar0/status/2110733945323368822) (2026-10-21)

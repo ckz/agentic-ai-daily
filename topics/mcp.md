@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-10-29
-total_mentions: 1120
+last_seen: 2026-10-30
+total_mentions: 1129
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -40,6 +40,7 @@ total_mentions: 1120
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2095414392557068291) (2026-09-04)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2113197047943975145) (2026-10-27)
+- [AaronScottAI](https://x.com/AaronScottAI/status/2114690488779567313) (2026-10-30)
 - [AgenticAIFdn](https://x.com/AgenticAIFdn/status/2077740129284764108) (2026-07-17)
 - [AiAircle34052](https://x.com/AiAircle34052/status/2095375741093572997) (2026-09-03)
 - [Ai_Vaidehi](https://x.com/Ai_Vaidehi/status/2090828742432333970) (2026-08-26)
@@ -70,6 +71,7 @@ total_mentions: 1120
 - [Anto_Sabatella](https://x.com/Anto_Sabatella/status/2111212331267166257) (2026-10-18)
 - [Anujatk14](https://x.com/Anujatk14/status/2096628315700564293) (2026-09-11)
 - [Appetiteldn](https://x.com/Appetiteldn/status/2063800638505361587) (2026-06-08)
+- [AravSrinivas](https://x.com/AravSrinivas/status/2115435917708296406) (2026-10-30)
 - [Artificialunbox](https://x.com/Artificialunbox/status/2068215362114715908) (2026-06-20)
 - [ArtuGrande](https://x.com/ArtuGrande/status/2113246284752588822) (2026-10-23)
 - [AssetLove](https://x.com/AssetLove/status/2095059157581733946) (2026-09-07)
@@ -284,6 +286,7 @@ total_mentions: 1120
 - [NousResearch](https://x.com/NousResearch/status/2064760263224504719) (2026-06-11)
 - [NousResearch](https://x.com/NousResearch/status/2078168128693977291) (2026-07-19)
 - [NousResearch](https://x.com/NousResearch/status/2092326815193055681) (2026-08-27)
+- [NowledgeMem](https://x.com/NowledgeMem/status/2115103710334566562) (2026-10-30)
 - [OfirEhrlich](https://x.com/OfirEhrlich/status/2107124107464905058) (2026-10-07)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2085398373511918022) (2026-08-07)
 - [OpenCodeLog](https://x.com/OpenCodeLog/status/2102579844521328822) (2026-09-26)
@@ -623,6 +626,7 @@ total_mentions: 1120
 - [dawoodkhan254](https://x.com/dawoodkhan254/status/2081031854371819912) (2026-07-26)
 - [deanwperkins](https://x.com/deanwperkins/status/2099488798572687489) (2026-09-16)
 - [derrickcchoi](https://x.com/derrickcchoi/status/2107842419874247028) (2026-10-08)
+- [devops_con](https://x.com/devops_con/status/2116070359669575683) (2026-10-30)
 - [deweytn](https://x.com/deweytn/status/2106499269322559970) (2026-10-06)
 - [dfinity](https://x.com/dfinity/status/2080201356347146261) (2026-07-26)
 - [dharmesh](https://x.com/dharmesh/status/2093071931188597042) (2026-08-28)
@@ -799,6 +803,7 @@ total_mentions: 1120
 - [kunalstwt](https://x.com/kunalstwt/status/2073978095644643520) (2026-07-06)
 - [leopardracer](https://x.com/leopardracer/status/2096537453804876205) (2026-09-10)
 - [levelsio](https://x.com/levelsio/status/2098086977186705637) (2026-09-12)
+- [levelsio](https://x.com/levelsio/status/2115796587351810138) (2026-10-30)
 - [levie](https://x.com/levie/status/2101427997597446636) (2026-09-20)
 - [levikmunneke](https://x.com/levikmunneke/status/2112513770001924169) (2026-10-27)
 - [lifemaximised](https://x.com/lifemaximised/status/2094966852887687492) (2026-09-05)
@@ -875,6 +880,7 @@ total_mentions: 1120
 - [nbaschez](https://x.com/nbaschez/status/2106437805413195895) (2026-10-08)
 - [ndmccormack](https://x.com/ndmccormack/status/2112701653098930296) (2026-10-21)
 - [nickvasilescu](https://x.com/nickvasilescu/status/2110443186317574208) (2026-10-15)
+- [noechague](https://x.com/noechague/status/2115881352822493630) (2026-10-30)
 - [nonceprotocol](https://x.com/nonceprotocol/status/2115132771320603034) (2026-10-29)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [nrlartt](https://x.com/nrlartt/status/2082153925491249607) (2026-07-29)
@@ -939,6 +945,7 @@ total_mentions: 1120
 - [ridark_eth](https://x.com/ridark_eth/status/2070966184967864667) (2026-06-29)
 - [ridark_eth](https://x.com/ridark_eth/status/2074254440861753628) (2026-07-07)
 - [ridark_eth](https://x.com/ridark_eth/status/2108901972359131624) (2026-10-16)
+- [ridark_eth](https://x.com/ridark_eth/status/2114830200810930276) (2026-10-30)
 - [rishigb](https://x.com/rishigb/status/2102885375639507087) (2026-09-24)
 - [robiartec](https://x.com/robiartec/status/2091157554919280688) (2026-08-23)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2092970481423192328) (2026-09-03)
@@ -947,6 +954,7 @@ total_mentions: 1120
 - [rom1trs](https://x.com/rom1trs/status/2075193811186172355) (2026-07-12)
 - [rom1trs](https://x.com/rom1trs/status/2077382083832340784) (2026-07-19)
 - [rom1trs](https://x.com/rom1trs/status/2080601402460590265) (2026-07-26)
+- [romanbuildsaas](https://x.com/romanbuildsaas/status/2115845620388802697) (2026-10-30)
 - [romanftp](https://x.com/romanftp/status/2092265070310908152) (2026-08-26)
 - [rosemoni18](https://x.com/rosemoni18/status/2094923340062622201) (2026-09-02)
 - [rossaxbt](https://x.com/rossaxbt/status/2106758817161597021) (2026-10-05)
@@ -974,6 +982,7 @@ total_mentions: 1120
 - [seeconvm](https://x.com/seeconvm/status/2087453527190745345) (2026-08-13)
 - [shannholmberg](https://x.com/shannholmberg/status/2099166725396922524) (2026-09-16)
 - [shao__meng](https://x.com/shao__meng/status/2114164780986679331) (2026-10-27)
+- [shao__meng](https://x.com/shao__meng/status/2115975663148765204) (2026-10-30)
 - [sharbel](https://x.com/sharbel/status/2070812435653464323) (2026-06-28)
 - [shawnchauhan1](https://x.com/shawnchauhan1/status/2082685120679657715) (2026-07-30)
 - [shedntcare_](https://x.com/shedntcare_/status/2066124333559480395) (2026-06-21)
