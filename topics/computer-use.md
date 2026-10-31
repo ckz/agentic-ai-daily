@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-10-30
-total_mentions: 174
+last_seen: 2026-10-31
+total_mentions: 178
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -10,6 +10,7 @@ total_mentions: 174
 - [AdamShao](https://x.com/AdamShao/status/2097111709076910081) (2026-09-11)
 - [AlejandroRomaan](https://x.com/AlejandroRomaan/status/2096610078837141569) (2026-09-08)
 - [AriX](https://x.com/AriX/status/2075282339782095163) (2026-07-13)
+- [Aura_Assistant](https://x.com/Aura_Assistant/status/2116191580063404100) (2026-10-31)
 - [Azaliamirh](https://x.com/Azaliamirh/status/2102958024323428362) (2026-09-26)
 - [Bha74142Shivani](https://x.com/Bha74142Shivani/status/2087441456726524324) (2026-08-12)
 - [BuildwithOmkarr](https://x.com/BuildwithOmkarr/status/2102603427297755264) (2026-09-23)
@@ -95,6 +96,7 @@ total_mentions: 174
 - [claudeebum](https://x.com/claudeebum/status/2088598997065969933) (2026-08-17)
 - [coder_surya](https://x.com/coder_surya/status/2073957608998715439) (2026-07-06)
 - [coreyganim](https://x.com/coreyganim/status/2110364449127219409) (2026-10-16)
+- [ctatedev](https://x.com/ctatedev/status/2116323148706771302) (2026-10-31)
 - [cursor_ai](https://x.com/cursor_ai/status/2084317547608911986) (2026-08-09)
 - [cwmasaki](https://x.com/cwmasaki/status/2088433897445171301) (2026-08-15)
 - [daniel_mac8](https://x.com/daniel_mac8/status/2106486954351001652) (2026-10-04)
@@ -138,6 +140,7 @@ total_mentions: 174
 - [math_fournity](https://x.com/math_fournity/status/2112268963610857875) (2026-10-25)
 - [mattdeitke](https://x.com/mattdeitke/status/2102912355638382997) (2026-09-26)
 - [mattworkman](https://x.com/mattworkman/status/2114825275167175105) (2026-10-27)
+- [mdlahfir](https://x.com/mdlahfir/status/2116316228046500348) (2026-10-31)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2098738486014537803) (2026-09-13)
 - [mikoto2000](https://x.com/mikoto2000/status/2099270333522186365) (2026-09-14)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2075469825514824153) (2026-07-10)
@@ -169,6 +172,7 @@ total_mentions: 174
 - [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)
 - [sxhivs](https://x.com/sxhivs/status/2101729362194432184) (2026-09-21)
 - [theapplehub](https://x.com/theapplehub/status/2114792894863442255) (2026-10-27)
+- [trevin](https://x.com/trevin/status/2116372306331373986) (2026-10-31)
 - [trycua](https://x.com/trycua/status/2100649543079502213) (2026-09-20)
 - [trycua](https://x.com/trycua/status/2101014004927729737) (2026-09-19)
 - [trycua](https://x.com/trycua/status/2102800643794591833) (2026-09-24)

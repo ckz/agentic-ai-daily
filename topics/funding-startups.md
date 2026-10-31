@@ -1,11 +1,12 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-30
-total_mentions: 816
+last_seen: 2026-10-31
+total_mentions: 824
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
+- [0xMovez](https://x.com/0xMovez/status/2115870373300326503) (2026-10-31)
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
 - [0xMrPinky](https://x.com/0xMrPinky/status/2113250067415289868) (2026-10-24)
 - [0x_rody](https://x.com/0x_rody/status/2102403963865759871) (2026-09-24)
@@ -182,6 +183,7 @@ total_mentions: 816
 - [MTSlive](https://x.com/MTSlive/status/2079701447084740739) (2026-07-22)
 - [MabreyTed](https://x.com/MabreyTed/status/2099549711103349178) (2026-09-15)
 - [MackenZ_arnold](https://x.com/MackenZ_arnold/status/2097773578921857101) (2026-09-12)
+- [MackenZ_arnold](https://x.com/MackenZ_arnold/status/2116229116357681200) (2026-10-31)
 - [Maker17368Maker](https://x.com/Maker17368Maker/status/2062810745210040366) (2026-06-07)
 - [MarieMartens](https://x.com/MarieMartens/status/2102313804927246639) (2026-09-24)
 - [Mark_FPL](https://x.com/Mark_FPL/status/2114805623560786390) (2026-10-28)
@@ -470,6 +472,7 @@ total_mentions: 816
 - [edinsoncode](https://x.com/edinsoncode/status/2089677825125368297) (2026-08-19)
 - [edinsoncode](https://x.com/edinsoncode/status/2101265656498782671) (2026-09-20)
 - [egraciani](https://x.com/egraciani/status/2096244534422253635) (2026-09-06)
+- [ekuyda](https://x.com/ekuyda/status/2115819179756671330) (2026-10-31)
 - [elonmusk](https://x.com/elonmusk/status/1877717446779428923) (2026-10-24)
 - [elonmusk](https://x.com/elonmusk/status/1895402040400212271) (2026-10-16)
 - [elonmusk](https://x.com/elonmusk/status/1901651592119476509) (2026-10-16)
@@ -587,6 +590,7 @@ total_mentions: 816
 - [kseniam0s](https://x.com/kseniam0s/status/2110457139072229807) (2026-10-15)
 - [kseniam0s](https://x.com/kseniam0s/status/2111141570925723884) (2026-10-21)
 - [kseniam0s](https://x.com/kseniam0s/status/2111472765878325355) (2026-10-18)
+- [kseniam0s](https://x.com/kseniam0s/status/2115792867364933847) (2026-10-31)
 - [lami_thefirst](https://x.com/lami_thefirst/status/2097224273853129017) (2026-09-08)
 - [larry_mcwethy](https://x.com/larry_mcwethy/status/2113619948023304543) (2026-10-25)
 - [launchwhasmik](https://x.com/launchwhasmik/status/2104542307680719043) (2026-10-02)
@@ -649,6 +653,7 @@ total_mentions: 816
 - [orbinumnetwork](https://x.com/orbinumnetwork/status/2102516025757520352) (2026-09-23)
 - [owenthcarey](https://x.com/owenthcarey/status/2098634072159658105) (2026-09-12)
 - [patrick_oshag](https://x.com/patrick_oshag/status/2089713931183153293) (2026-08-19)
+- [paulfinneyx](https://x.com/paulfinneyx/status/2116377446278914101) (2026-10-31)
 - [paulg](https://x.com/paulg/status/2063091245334044902) (2026-06-06)
 - [paulg](https://x.com/paulg/status/2063644836981260638) (2026-06-12)
 - [paulg](https://x.com/paulg/status/2069821293596148004) (2026-06-28)
@@ -689,6 +694,7 @@ total_mentions: 816
 - [realEstateTrent](https://x.com/realEstateTrent/status/2096996751013982458) (2026-09-08)
 - [realfigmafiend](https://x.com/realfigmafiend/status/2112621653192486940) (2026-10-21)
 - [rexan_wong](https://x.com/rexan_wong/status/2103707054108299437) (2026-09-26)
+- [rezendi](https://x.com/rezendi/status/2114778423805772282) (2026-10-31)
 - [richtosho](https://x.com/richtosho/status/2078797686451409133) (2026-07-26)
 - [richtosho](https://x.com/richtosho/status/2080930554782830700) (2026-07-31)
 - [richtosho](https://x.com/richtosho/status/2105672586386608435) (2026-10-02)
@@ -705,6 +711,7 @@ total_mentions: 816
 - [royaltymsc](https://x.com/royaltymsc/status/2103765261954502989) (2026-09-27)
 - [rsngprad](https://x.com/rsngprad/status/2072630117218791745) (2026-07-05)
 - [rtwlz](https://x.com/rtwlz/status/2099608957698617356) (2026-09-15)
+- [ryandengg](https://x.com/ryandengg/status/2114023867463401755) (2026-10-31)
 - [s1rozha_](https://x.com/s1rozha_/status/2087132684514455625) (2026-08-12)
 - [sacha_io](https://x.com/sacha_io/status/2094745129714135343) (2026-09-06)
 - [sahil_seth](https://x.com/sahil_seth/status/2079716698840858930) (2026-07-22)
@@ -755,6 +762,7 @@ total_mentions: 816
 - [tankots](https://x.com/tankots/status/2089372674644713664) (2026-08-21)
 - [techbyhez](https://x.com/techbyhez/status/2106056726067675287) (2026-10-04)
 - [techsaleshackz](https://x.com/techsaleshackz/status/2094910371337244877) (2026-09-02)
+- [teddypowday](https://x.com/teddypowday/status/2116226983122420021) (2026-10-31)
 - [tednotlasso](https://x.com/tednotlasso/status/2081022216381305275) (2026-07-28)
 - [tekbog](https://x.com/tekbog/status/2082787768162550105) (2026-08-02)
 - [thatgeminibloom](https://x.com/thatgeminibloom/status/2050449909006975103) (2026-10-16)

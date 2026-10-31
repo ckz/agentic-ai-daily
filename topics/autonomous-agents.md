@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-30
-total_mentions: 1612
+last_seen: 2026-10-31
+total_mentions: 1621
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -45,6 +45,7 @@ total_mentions: 1612
 - [0xMontBlanc](https://x.com/0xMontBlanc/status/2112208608104792401) (2026-10-20)
 - [0xMorlex](https://x.com/0xMorlex/status/2086059854704365863) (2026-08-09)
 - [0xMorlex](https://x.com/0xMorlex/status/2115872777660141771) (2026-10-30)
+- [0xMorlex](https://x.com/0xMorlex/status/2116247295087775824) (2026-10-31)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xMovez](https://x.com/0xMovez/status/2063989380583137587) (2026-06-09)
 - [0xMovez](https://x.com/0xMovez/status/2069075857629409378) (2026-06-29)
@@ -205,6 +206,7 @@ total_mentions: 1612
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2113688083145314416) (2026-10-24)
 - [Artificialunbox](https://x.com/Artificialunbox/status/2068215362114715908) (2026-06-20)
 - [Atinux](https://x.com/Atinux/status/2115749030957547715) (2026-10-30)
+- [Aura_Assistant](https://x.com/Aura_Assistant/status/2116191580063404100) (2026-10-31)
 - [Aurimas_Gr](https://x.com/Aurimas_Gr/status/2084608000610754903) (2026-08-06)
 - [Ausmi129124](https://x.com/Ausmi129124/status/2068589738534260929) (2026-06-21)
 - [Austen](https://x.com/Austen/status/2090778095187849436) (2026-08-22)
@@ -491,6 +493,7 @@ total_mentions: 1612
 - [MAXdeg0](https://x.com/MAXdeg0/status/2106654256056938558) (2026-10-09)
 - [MTSlive](https://x.com/MTSlive/status/2085098975707996558) (2026-08-06)
 - [MTSlive](https://x.com/MTSlive/status/2086556207033266539) (2026-08-12)
+- [MackenZ_arnold](https://x.com/MackenZ_arnold/status/2116229116357681200) (2026-10-31)
 - [Magne_Ai](https://x.com/Magne_Ai/status/2073257996637896904) (2026-07-05)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2083264047299092486) (2026-08-02)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2085433401562308987) (2026-08-07)
@@ -702,6 +705,7 @@ total_mentions: 1612
 - [StockSavvyShay](https://x.com/StockSavvyShay/status/2072731841204011114) (2026-07-03)
 - [StockSavvyShay](https://x.com/StockSavvyShay/status/2101312580358930720) (2026-09-20)
 - [StockSavvyShay](https://x.com/StockSavvyShay/status/2104984508487651718) (2026-10-04)
+- [StockSavvyShay](https://x.com/StockSavvyShay/status/2116156830867231130) (2026-10-31)
 - [SuiNetwork](https://x.com/SuiNetwork/status/2075716447062618312) (2026-07-11)
 - [Sumanth_077](https://x.com/Sumanth_077/status/2063254456834372040) (2026-06-07)
 - [Sumanth_077](https://x.com/Sumanth_077/status/2091169662956720527) (2026-08-25)
@@ -1323,6 +1327,7 @@ total_mentions: 1612
 - [moninvestor](https://x.com/moninvestor/status/2104516036619853917) (2026-09-30)
 - [monmiglobal](https://x.com/monmiglobal/status/2071399421997359236) (2026-06-29)
 - [monokern](https://x.com/monokern/status/2088233393817288974) (2026-08-21)
+- [mrchrismast_](https://x.com/mrchrismast_/status/2116422606450774255) (2026-10-31)
 - [mvanhorn](https://x.com/mvanhorn/status/2061978364391592110) (2026-06-07)
 - [mvanhorn](https://x.com/mvanhorn/status/2074955232728281432) (2026-07-09)
 - [myshell_ai](https://x.com/myshell_ai/status/1874804449023266943) (2026-07-10)
@@ -1410,6 +1415,7 @@ total_mentions: 1612
 - [res1dualedge](https://x.com/res1dualedge/status/2103237038778835331) (2026-09-26)
 - [rewind02](https://x.com/rewind02/status/2062914280681271627) (2026-06-05)
 - [rewind02](https://x.com/rewind02/status/2083141563077574747) (2026-08-05)
+- [rezendi](https://x.com/rezendi/status/2114778423805772282) (2026-10-31)
 - [richardabish_ai](https://x.com/richardabish_ai/status/2065312390523359485) (2026-06-12)
 - [rickdeetweets](https://x.com/rickdeetweets/status/2082186121182925050) (2026-07-29)
 - [ricomaps](https://x.com/ricomaps/status/2079307588261585270) (2026-07-24)
@@ -1428,8 +1434,10 @@ total_mentions: 1612
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2098655241453687123) (2026-09-12)
 - [rohit4verse](https://x.com/rohit4verse/status/2083284519550136641) (2026-08-01)
 - [rosemoni18](https://x.com/rosemoni18/status/2094923340062622201) (2026-09-02)
+- [rosenacry](https://x.com/rosenacry/status/2109343300985479239) (2026-10-31)
 - [rowancheung](https://x.com/rowancheung/status/1767582332964516243) (2026-08-26)
 - [rushabh96975767](https://x.com/rushabh96975767/status/2075786236451758176) (2026-07-11)
+- [ryouxbt](https://x.com/ryouxbt/status/2115111318541783228) (2026-10-31)
 - [s1rozha_](https://x.com/s1rozha_/status/2072341012735791157) (2026-07-02)
 - [s1rozha_](https://x.com/s1rozha_/status/2078210026410303927) (2026-07-18)
 - [sai_borg](https://x.com/sai_borg/status/2102069767079354526) (2026-09-22)
@@ -1535,6 +1543,7 @@ total_mentions: 1612
 - [tech0827](https://x.com/tech0827/status/2066035199607968063) (2026-06-14)
 - [techNmak](https://x.com/techNmak/status/2068884177383047439) (2026-06-27)
 - [techNmak](https://x.com/techNmak/status/2091434187446439969) (2026-08-24)
+- [teddypowday](https://x.com/teddypowday/status/2116226983122420021) (2026-10-31)
 - [teneo_protocol](https://x.com/teneo_protocol/status/2085770833843167351) (2026-08-08)
 - [testingcatalog](https://x.com/testingcatalog/status/2104715471841034537) (2026-09-29)
 - [tetsuoai](https://x.com/tetsuoai/status/2071775282420445427) (2026-06-30)

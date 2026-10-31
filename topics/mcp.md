@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-10-30
-total_mentions: 1129
+last_seen: 2026-10-31
+total_mentions: 1135
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -185,6 +185,7 @@ total_mentions: 1129
 - [Greshamtrade](https://x.com/Greshamtrade/status/2111868294974112108) (2026-10-22)
 - [Greshamtrade](https://x.com/Greshamtrade/status/2112270735116812640) (2026-10-22)
 - [Greshamtrade](https://x.com/Greshamtrade/status/2113369499801960699) (2026-10-25)
+- [Greshamtrade](https://x.com/Greshamtrade/status/2115140984808124595) (2026-10-31)
 - [Grow_withAI](https://x.com/Grow_withAI/status/2106731541221306757) (2026-10-06)
 - [Harry_The_Nerd](https://x.com/Harry_The_Nerd/status/2110801408853422390) (2026-10-22)
 - [He1s_Sammy](https://x.com/He1s_Sammy/status/2091799479720497402) (2026-08-28)
@@ -601,6 +602,7 @@ total_mentions: 1129
 - [coreyganim](https://x.com/coreyganim/status/2110762436387070195) (2026-10-17)
 - [coreyganim](https://x.com/coreyganim/status/2111125165731930542) (2026-10-17)
 - [cryptobuzzer03](https://x.com/cryptobuzzer03/status/2067855094327001574) (2026-06-19)
+- [ctatedev](https://x.com/ctatedev/status/2115835185816289372) (2026-10-31)
 - [cursor_ai](https://x.com/cursor_ai/status/2085464617694777762) (2026-08-07)
 - [customuse](https://x.com/customuse/status/2087961834791858592) (2026-08-14)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2060914969605189808) (2026-06-05)
@@ -668,6 +670,7 @@ total_mentions: 1129
 - [e_opore](https://x.com/e_opore/status/2109509666392707497) (2026-10-17)
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
 - [eliana_jordan](https://x.com/eliana_jordan/status/2071647509332598909) (2026-06-30)
+- [elliot_garreffa](https://x.com/elliot_garreffa/status/2116127839967645789) (2026-10-31)
 - [elora_khatun](https://x.com/elora_khatun/status/2063087975488204948) (2026-06-06)
 - [elune0x](https://x.com/elune0x/status/2080710242929697122) (2026-07-26)
 - [elune0x](https://x.com/elune0x/status/2086814848709517580) (2026-08-15)
@@ -881,6 +884,7 @@ total_mentions: 1129
 - [ndmccormack](https://x.com/ndmccormack/status/2112701653098930296) (2026-10-21)
 - [nickvasilescu](https://x.com/nickvasilescu/status/2110443186317574208) (2026-10-15)
 - [noechague](https://x.com/noechague/status/2115881352822493630) (2026-10-30)
+- [noechague](https://x.com/noechague/status/2116243745821937803) (2026-10-31)
 - [nonceprotocol](https://x.com/nonceprotocol/status/2115132771320603034) (2026-10-29)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [nrlartt](https://x.com/nrlartt/status/2082153925491249607) (2026-07-29)
@@ -962,6 +966,7 @@ total_mentions: 1129
 - [runwayml](https://x.com/runwayml/status/2095159754414813249) (2026-09-07)
 - [rvaniaaaa](https://x.com/rvaniaaaa/status/2111904670226563170) (2026-10-20)
 - [ryanvogel](https://x.com/ryanvogel/status/2099229934250050033) (2026-09-19)
+- [ryouxbt](https://x.com/ryouxbt/status/2115111318541783228) (2026-10-31)
 - [s1rozha_](https://x.com/s1rozha_/status/2087132684514455625) (2026-08-12)
 - [sabanci_ata](https://x.com/sabanci_ata/status/2099927513346547961) (2026-09-16)
 - [sabanci_ata](https://x.com/sabanci_ata/status/2100107329614016540) (2026-09-16)
@@ -1055,6 +1060,7 @@ total_mentions: 1129
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2111113436314648758) (2026-10-17)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2111520366791414136) (2026-10-18)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2114739076796428729) (2026-10-28)
+- [thegreatest_sv](https://x.com/thegreatest_sv/status/2115876572464812071) (2026-10-31)
 - [theo](https://x.com/theo/status/2087280199406903762) (2026-08-12)
 - [theo](https://x.com/theo/status/2092455706582499815) (2026-08-26)
 - [theo](https://x.com/theo/status/2115409288432906341) (2026-10-29)
