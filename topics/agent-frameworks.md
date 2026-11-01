@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-10-31
-total_mentions: 628
+last_seen: 2026-11-01
+total_mentions: 630
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -316,6 +316,7 @@ total_mentions: 628
 - [_vmlops](https://x.com/_vmlops/status/2063841886193004672) (2026-06-09)
 - [_vmlops](https://x.com/_vmlops/status/2070449302116380680) (2026-06-27)
 - [aanandsivaraman](https://x.com/aanandsivaraman/status/2079771714964144432) (2026-07-22)
+- [aaron520bin](https://x.com/aaron520bin/status/2116737284603257259) (2026-11-01)
 - [abhishek__AI](https://x.com/abhishek__AI/status/2068588008648142910) (2026-06-21)
 - [adriablancafort](https://x.com/adriablancafort/status/2071688701651108309) (2026-06-30)
 - [adxtyahq](https://x.com/adxtyahq/status/2062090077296283932) (2026-06-08)
@@ -344,6 +345,7 @@ total_mentions: 628
 - [alliekmiller](https://x.com/alliekmiller/status/2064451731325415446) (2026-06-10)
 - [allmeasures](https://x.com/allmeasures/status/2112233044472156329) (2026-10-26)
 - [allred_chase](https://x.com/allred_chase/status/1856720253847298051) (2026-10-20)
+- [alt_layer](https://x.com/alt_layer/status/1891399112526061648) (2026-11-01)
 - [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)
 - [arbitrum](https://x.com/arbitrum/status/1907530213119885730) (2026-07-10)
 - [ardizor](https://x.com/ardizor/status/2062571108021215563) (2026-06-05)

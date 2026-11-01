@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-31
-total_mentions: 1621
+last_seen: 2026-11-01
+total_mentions: 1628
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -78,6 +78,7 @@ total_mentions: 1621
 - [0xgilbert](https://x.com/0xgilbert/status/2062624582977179796) (2026-06-06)
 - [0xjmori](https://x.com/0xjmori/status/2111105306277142892) (2026-10-19)
 - [0xkichiro](https://x.com/0xkichiro/status/2108538276625658079) (2026-10-16)
+- [0xlangeai](https://x.com/0xlangeai/status/2116535613222801448) (2026-11-01)
 - [0xnicc0](https://x.com/0xnicc0/status/2093312280406397284) (2026-09-04)
 - [0xnicc0](https://x.com/0xnicc0/status/2098465525781217632) (2026-09-13)
 - [0xnicc0](https://x.com/0xnicc0/status/2101358312797171817) (2026-09-21)
@@ -231,6 +232,7 @@ total_mentions: 1621
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2064345389424324891) (2026-06-14)
 - [Big_Rancho](https://x.com/Big_Rancho/status/2114295338802561249) (2026-10-29)
 - [BinanceWallet](https://x.com/BinanceWallet/status/2112904066829549843) (2026-10-23)
+- [BioAI_NeuralNet](https://x.com/BioAI_NeuralNet/status/2114161649183601012) (2026-11-01)
 - [BitBlitzBuzz](https://x.com/BitBlitzBuzz/status/2070751322715148478) (2026-06-27)
 - [Bl0ckZer0](https://x.com/Bl0ckZer0/status/2086356362787770530) (2026-08-09)
 - [BoBrainerd](https://x.com/BoBrainerd/status/2096687959122518319) (2026-09-10)
@@ -528,6 +530,7 @@ total_mentions: 1621
 - [MilkRoadAI](https://x.com/MilkRoadAI/status/2069466738941657230) (2026-06-28)
 - [MilkRoadAI](https://x.com/MilkRoadAI/status/2072187752402346407) (2026-07-08)
 - [MiniMax_AI](https://x.com/MiniMax_AI/status/2061266317815296322) (2026-06-05)
+- [MistralAI](https://x.com/MistralAI/status/2115811242556137820) (2026-11-01)
 - [MithilaStack](https://x.com/MithilaStack/status/2072557584536776834) (2026-07-02)
 - [Mnilax](https://x.com/Mnilax/status/2087651578639470614) (2026-08-14)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106251206524014747) (2026-10-10)
@@ -814,6 +817,7 @@ total_mentions: 1621
 - [a16z](https://x.com/a16z/status/2086906363947737406) (2026-08-11)
 - [aakashgupta](https://x.com/aakashgupta/status/2086637408620339508) (2026-08-15)
 - [aanandsivaraman](https://x.com/aanandsivaraman/status/2079771714964144432) (2026-07-22)
+- [aaron520bin](https://x.com/aaron520bin/status/2116737284603257259) (2026-11-01)
 - [abacusai](https://x.com/abacusai/status/2067833694665261522) (2026-06-19)
 - [abhishek__AI](https://x.com/abhishek__AI/status/2068588008648142910) (2026-06-21)
 - [adamgoldstein13](https://x.com/adamgoldstein13/status/2086784922950484125) (2026-08-11)
@@ -865,6 +869,7 @@ total_mentions: 1621
 - [allen_lattimer](https://x.com/allen_lattimer/status/2111124859598323951) (2026-10-17)
 - [allmeasures](https://x.com/allmeasures/status/2112233044472156329) (2026-10-26)
 - [allred_chase](https://x.com/allred_chase/status/1856720253847298051) (2026-10-20)
+- [alt_layer](https://x.com/alt_layer/status/1891399112526061648) (2026-11-01)
 - [ama_protocol](https://x.com/ama_protocol/status/2111774426920353887) (2026-10-21)
 - [amankk_9](https://x.com/amankk_9/status/2065336699287429224) (2026-06-12)
 - [amasad](https://x.com/amasad/status/2080371567221944657) (2026-07-25)
@@ -1338,6 +1343,7 @@ total_mentions: 1621
 - [neil_xbt](https://x.com/neil_xbt/status/2089566708839206979) (2026-08-18)
 - [neviannn](https://x.com/neviannn/status/2087254502210490739) (2026-08-13)
 - [nextplayso](https://x.com/nextplayso/status/2079686456101179538) (2026-07-28)
+- [nguyenvann6_24](https://x.com/nguyenvann6_24/status/2115992738789531783) (2026-11-01)
 - [nicbstme](https://x.com/nicbstme/status/2084918378368471150) (2026-08-06)
 - [nichxbt](https://x.com/nichxbt/status/2071763989030478016) (2026-07-01)
 - [nickcammarata](https://x.com/nickcammarata/status/2110757819427574056) (2026-10-18)
@@ -1377,6 +1383,7 @@ total_mentions: 1621
 - [openservai](https://x.com/openservai/status/2064795739369152670) (2026-06-11)
 - [opentensor](https://x.com/opentensor/status/2078858375081627985) (2026-07-21)
 - [opheliaapi](https://x.com/opheliaapi/status/2064413598131126526) (2026-06-11)
+- [oraclee_xyz](https://x.com/oraclee_xyz/status/2116104496963264666) (2026-11-01)
 - [oradotai](https://x.com/oradotai/status/2112891801539379675) (2026-10-22)
 - [orbiodotso](https://x.com/orbiodotso/status/2094805455352836138) (2026-09-03)
 - [orbiodotso](https://x.com/orbiodotso/status/2103545168423227835) (2026-09-26)

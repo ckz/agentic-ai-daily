@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-31
-total_mentions: 210
+last_seen: 2026-11-01
+total_mentions: 212
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -19,6 +19,7 @@ total_mentions: 210
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2105025585332605357) (2026-09-30)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2109697083519447118) (2026-10-13)
 - [Av1dlive](https://x.com/Av1dlive/status/2097639365644279857) (2026-09-10)
+- [BioAI_NeuralNet](https://x.com/BioAI_NeuralNet/status/2114161649183601012) (2026-11-01)
 - [ChromiumDev](https://x.com/ChromiumDev/status/2077874454105862423) (2026-07-17)
 - [ClementDelangue](https://x.com/ClementDelangue/status/2107120717980471638) (2026-10-07)
 - [Colhodm](https://x.com/Colhodm/status/2072373857999098214) (2026-07-02)
@@ -130,6 +131,7 @@ total_mentions: 210
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
 - [emmanuel_2m](https://x.com/emmanuel_2m/status/2103097017073361137) (2026-09-25)
 - [ericzakariasson](https://x.com/ericzakariasson/status/2102853511637774551) (2026-09-26)
+- [evilrabbit_](https://x.com/evilrabbit_/status/2116581580995194985) (2026-11-01)
 - [expo](https://x.com/expo/status/2111093147103310022) (2026-10-17)
 - [figma](https://x.com/figma/status/2112669039009104059) (2026-10-21)
 - [finkd](https://x.com/finkd/status/2085080750034940201) (2026-08-06)

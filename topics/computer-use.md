@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-10-31
-total_mentions: 178
+last_seen: 2026-11-01
+total_mentions: 180
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -109,6 +109,7 @@ total_mentions: 178
 - [dwarkesh_sp](https://x.com/dwarkesh_sp/status/2070672008946589922) (2026-06-27)
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
 - [ehsanik](https://x.com/ehsanik/status/2070544602164330561) (2026-06-27)
+- [evilrabbit_](https://x.com/evilrabbit_/status/2116581580995194985) (2026-11-01)
 - [finnvoorhees](https://x.com/finnvoorhees/status/2108279639538012265) (2026-10-09)
 - [gkxspace](https://x.com/gkxspace/status/2068546908360999331) (2026-06-21)
 - [gregisenberg](https://x.com/gregisenberg/status/2104613420460822745) (2026-10-05)
@@ -182,4 +183,5 @@ total_mentions: 178
 - [wallstengine](https://x.com/wallstengine/status/2094155293261435063) (2026-09-01)
 - [wuyang_zhou](https://x.com/wuyang_zhou/status/2096548032128942370) (2026-09-11)
 - [xaijnt77357](https://x.com/xaijnt77357/status/2110242886574821662) (2026-10-14)
+- [yyyole](https://x.com/yyyole/status/2116729757446664326) (2026-11-01)
 - [zcode_ai](https://x.com/zcode_ai/status/2092635718766215590) (2026-08-27)

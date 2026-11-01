@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-10-31
-total_mentions: 824
+last_seen: 2026-11-01
+total_mentions: 828
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
@@ -195,10 +195,12 @@ total_mentions: 824
 - [MicronCEO](https://x.com/MicronCEO/status/2090533293519409610) (2026-08-23)
 - [Miracle_NNnn](https://x.com/Miracle_NNnn/status/2107712847740367331) (2026-10-11)
 - [Miracle_NNnn](https://x.com/Miracle_NNnn/status/2113140729933422877) (2026-10-22)
+- [Miracle_NNnn](https://x.com/Miracle_NNnn/status/2116775460193345743) (2026-11-01)
 - [ModestMitkus](https://x.com/ModestMitkus/status/2111825601401405468) (2026-10-19)
 - [Mohansinha](https://x.com/Mohansinha/status/2079629691494060368) (2026-07-24)
 - [MollySOShea](https://x.com/MollySOShea/status/2092606579732251060) (2026-08-27)
 - [MollySOShea](https://x.com/MollySOShea/status/2099495482775289908) (2026-09-15)
+- [MollySOShea](https://x.com/MollySOShea/status/2116531640012767572) (2026-11-01)
 - [Motionsbyeddy](https://x.com/Motionsbyeddy/status/2071694912597479912) (2026-07-02)
 - [MrsBowmanWrites](https://x.com/MrsBowmanWrites/status/966572667791790081) (2026-10-24)
 - [NFT_Chen](https://x.com/NFT_Chen/status/2090276530962461131) (2026-08-22)
@@ -664,6 +666,7 @@ total_mentions: 824
 - [paulg](https://x.com/paulg/status/2096387134768681471) (2026-09-07)
 - [paulg](https://x.com/paulg/status/2108011311229747525) (2026-10-08)
 - [paulg](https://x.com/paulg/status/2112211561091858537) (2026-10-21)
+- [paulg](https://x.com/paulg/status/2115977741808157030) (2026-11-01)
 - [peer_rich](https://x.com/peer_rich/status/2062949788081897633) (2026-06-05)
 - [pelositracker](https://x.com/pelositracker/status/2080314321649746194) (2026-07-26)
 - [pengsonal](https://x.com/pengsonal/status/2102668006023410105) (2026-09-24)
@@ -821,6 +824,7 @@ total_mentions: 824
 - [ycombinator](https://x.com/ycombinator/status/2085443781797785828) (2026-08-10)
 - [ycombinator](https://x.com/ycombinator/status/2092680754790891676) (2026-08-27)
 - [ycombinator](https://x.com/ycombinator/status/2094110501475434666) (2026-09-04)
+- [ycombinator](https://x.com/ycombinator/status/2116600929382527221) (2026-11-01)
 - [yongfook](https://x.com/yongfook/status/2098268841751249188) (2026-09-11)
 - [zachbussey](https://x.com/zachbussey/status/2086833293417205910) (2026-08-13)
 - [zamdoteth](https://x.com/zamdoteth/status/2089289158145569013) (2026-08-20)
