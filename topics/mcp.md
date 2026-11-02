@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-11-01
-total_mentions: 1144
+last_seen: 2026-11-02
+total_mentions: 1154
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -68,6 +68,7 @@ total_mentions: 1144
 - [AnhNguyen136515](https://x.com/AnhNguyen136515/status/2073299705971536262) (2026-07-04)
 - [AnnatarXBT](https://x.com/AnnatarXBT/status/2096989076138168433) (2026-09-10)
 - [AnnuKumari35786](https://x.com/AnnuKumari35786/status/2106358936635085267) (2026-10-05)
+- [AnnuKumari35786](https://x.com/AnnuKumari35786/status/2115772897092612442) (2026-11-02)
 - [Anto_Sabatella](https://x.com/Anto_Sabatella/status/2111212331267166257) (2026-10-18)
 - [Anujatk14](https://x.com/Anujatk14/status/2096628315700564293) (2026-09-11)
 - [Appetiteldn](https://x.com/Appetiteldn/status/2063800638505361587) (2026-06-08)
@@ -119,6 +120,7 @@ total_mentions: 1144
 - [Crowdreply_io](https://x.com/Crowdreply_io/status/2071609826778718315) (2026-06-30)
 - [Crowdreply_io](https://x.com/Crowdreply_io/status/2082844304981282878) (2026-07-31)
 - [CryptoPulseGLBL](https://x.com/CryptoPulseGLBL/status/2072554506102145483) (2026-07-02)
+- [Cupang1997](https://x.com/Cupang1997/status/2117134305508065714) (2026-11-02)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2089423549379559718) (2026-08-19)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2112898237699068338) (2026-10-22)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
@@ -367,6 +369,7 @@ total_mentions: 1144
 - [ShinyNfts](https://x.com/ShinyNfts/status/2109878729488900524) (2026-10-13)
 - [SilenceCaPrompt](https://x.com/SilenceCaPrompt/status/2060769285224739159) (2026-06-06)
 - [SkyeSharkie](https://x.com/SkyeSharkie/status/2092122622834442581) (2026-08-29)
+- [Slonski_rt](https://x.com/Slonski_rt/status/2116991981419438242) (2026-11-02)
 - [Smartpigai](https://x.com/Smartpigai/status/2063095358075597009) (2026-06-08)
 - [Solvaix](https://x.com/Solvaix/status/2082190359539712344) (2026-07-29)
 - [Solvaix](https://x.com/Solvaix/status/2083282682746704013) (2026-08-02)
@@ -687,6 +690,7 @@ total_mentions: 1144
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2064019609062101321) (2026-06-09)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2077696199486775764) (2026-07-18)
 - [epicmnw](https://x.com/epicmnw/status/2065311091027251222) (2026-06-12)
+- [ericleribertson](https://x.com/ericleribertson/status/2116880860766990355) (2026-11-02)
 - [ericzakariasson](https://x.com/ericzakariasson/status/2102853511637774551) (2026-09-26)
 - [evanjconrad](https://x.com/evanjconrad/status/2084819797133721679) (2026-08-06)
 - [evisdrenova](https://x.com/evisdrenova/status/2068551161263894776) (2026-06-21)
@@ -734,6 +738,7 @@ total_mentions: 1144
 - [greptile](https://x.com/greptile/status/2100268607477273048) (2026-09-19)
 - [gumloop](https://x.com/gumloop/status/2107510127771447692) (2026-10-07)
 - [gurasees0](https://x.com/gurasees0/status/2108563367422218472) (2026-10-10)
+- [gusik4ever](https://x.com/gusik4ever/status/2116504471907791240) (2026-11-02)
 - [habibislop](https://x.com/habibislop/status/2105453582908887408) (2026-10-07)
 - [hamster_wat](https://x.com/hamster_wat/status/2078996887361794149) (2026-07-27)
 - [hanakoxbt](https://x.com/hanakoxbt/status/2083932817738666010) (2026-08-04)
@@ -836,6 +841,7 @@ total_mentions: 1144
 - [maestro__dev](https://x.com/maestro__dev/status/2104303293178728703) (2026-09-28)
 - [magnific](https://x.com/magnific/status/2064346257330675798) (2026-06-10)
 - [mahanot_dikshit](https://x.com/mahanot_dikshit/status/2104832455362646379) (2026-09-29)
+- [maixbt](https://x.com/maixbt/status/2114840031114531187) (2026-11-02)
 - [malikyoloo](https://x.com/malikyoloo/status/2115675118357909597) (2026-11-01)
 - [manufact](https://x.com/manufact/status/2110446601173176775) (2026-10-15)
 - [marorhab](https://x.com/marorhab/status/2063163950850609431) (2026-06-06)
@@ -977,6 +983,7 @@ total_mentions: 1144
 - [ryanvogel](https://x.com/ryanvogel/status/2099229934250050033) (2026-09-19)
 - [ryouxbt](https://x.com/ryouxbt/status/2115111318541783228) (2026-10-31)
 - [s1rozha_](https://x.com/s1rozha_/status/2087132684514455625) (2026-08-12)
+- [s4yonnara](https://x.com/s4yonnara/status/2116992286764790064) (2026-11-02)
 - [sabanci_ata](https://x.com/sabanci_ata/status/2099927513346547961) (2026-09-16)
 - [sabanci_ata](https://x.com/sabanci_ata/status/2100107329614016540) (2026-09-16)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
@@ -1042,6 +1049,8 @@ total_mentions: 1144
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2107327491702509755) (2026-10-09)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109615202371252261) (2026-10-19)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109977469927244158) (2026-10-17)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2114718696551952769) (2026-11-02)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2117074214083838004) (2026-11-02)
 - [svpino](https://x.com/svpino/status/2065079108959363290) (2026-06-12)
 - [swarms_corp](https://x.com/swarms_corp/status/2106141570047054003) (2026-10-03)
 - [systemdesignone](https://x.com/systemdesignone/status/2097389489408594192) (2026-09-09)
@@ -1069,6 +1078,7 @@ total_mentions: 1144
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2111113436314648758) (2026-10-17)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2111520366791414136) (2026-10-18)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2114739076796428729) (2026-10-28)
+- [thegreatest_sv](https://x.com/thegreatest_sv/status/2115418146156736697) (2026-11-02)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2115876572464812071) (2026-10-31)
 - [theo](https://x.com/theo/status/2087280199406903762) (2026-08-12)
 - [theo](https://x.com/theo/status/2092455706582499815) (2026-08-26)

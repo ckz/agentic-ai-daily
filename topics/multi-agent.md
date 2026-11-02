@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-11-01
-total_mentions: 410
+last_seen: 2026-11-02
+total_mentions: 416
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -20,6 +20,7 @@ total_mentions: 410
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
 - [0xSweep](https://x.com/0xSweep/status/2098822616907940241) (2026-09-14)
 - [0xjmori](https://x.com/0xjmori/status/2111105306277142892) (2026-10-19)
+- [0xsqd](https://x.com/0xsqd/status/2116310867721531848) (2026-11-02)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2086799737651400907) (2026-08-11)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2093700205015081210) (2026-09-04)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2095134652688220236) (2026-09-04)
@@ -38,6 +39,7 @@ total_mentions: 410
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2107745162344734922) (2026-10-13)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2114267033575858564) (2026-10-27)
+- [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2117153331273707730) (2026-11-02)
 - [AdelDeveloperX](https://x.com/AdelDeveloperX/status/2074195359199375745) (2026-07-07)
 - [AiEvolutio58513](https://x.com/AiEvolutio58513/status/2107471089215721965) (2026-10-11)
 - [Aileverager](https://x.com/Aileverager/status/2079291494335205865) (2026-07-21)
@@ -232,6 +234,7 @@ total_mentions: 410
 - [bonsaixbt](https://x.com/bonsaixbt/status/2077722769194615193) (2026-07-17)
 - [bradmenezes](https://x.com/bradmenezes/status/2084328970649026710) (2026-08-04)
 - [calbuldelis69](https://x.com/calbuldelis69/status/2109705355798384767) (2026-10-13)
+- [carm1nee](https://x.com/carm1nee/status/2115936358003052667) (2026-11-02)
 - [cb_doge](https://x.com/cb_doge/status/2076291436283396496) (2026-07-18)
 - [cb_doge](https://x.com/cb_doge/status/2099678821452747025) (2026-09-15)
 - [cb_doge](https://x.com/cb_doge/status/2099717443954540597) (2026-09-15)
@@ -282,6 +285,7 @@ total_mentions: 410
 - [gkisokay](https://x.com/gkisokay/status/2020853629306212478) (2026-07-25)
 - [goyalshaliniuk](https://x.com/goyalshaliniuk/status/2079529319765033276) (2026-07-22)
 - [goyalshaliniuk](https://x.com/goyalshaliniuk/status/2089359091332166027) (2026-08-22)
+- [gusik4ever](https://x.com/gusik4ever/status/2116504471907791240) (2026-11-02)
 - [hanakoxbt](https://x.com/hanakoxbt/status/2084341524125397142) (2026-08-04)
 - [hasantoxr](https://x.com/hasantoxr/status/2075864853542269183) (2026-07-15)
 - [hayatomaruu](https://x.com/hayatomaruu/status/2107560089833849101) (2026-10-07)
@@ -385,8 +389,10 @@ total_mentions: 410
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2107327491702509755) (2026-10-09)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109615202371252261) (2026-10-19)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109977469927244158) (2026-10-17)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2114718696551952769) (2026-11-02)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2115065255835627540) (2026-10-29)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2115413286829298029) (2026-10-29)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2117074214083838004) (2026-11-02)
 - [svpino](https://x.com/svpino/status/2071975885570441658) (2026-07-01)
 - [swarms_corp](https://x.com/swarms_corp/status/2062886985883082914) (2026-06-05)
 - [swarms_corp](https://x.com/swarms_corp/status/2065570314268885211) (2026-06-13)

@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-01
-total_mentions: 1628
+last_seen: 2026-11-02
+total_mentions: 1641
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -120,6 +120,8 @@ total_mentions: 1628
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2095414392557068291) (2026-09-04)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2114267033575858564) (2026-10-27)
+- [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2116897875745771878) (2026-11-02)
+- [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2117153331273707730) (2026-11-02)
 - [ActionModelAI](https://x.com/ActionModelAI/status/2107492691420266808) (2026-10-07)
 - [AdamTornhill](https://x.com/AdamTornhill/status/2097973404179583225) (2026-09-12)
 - [AdelDeveloperX](https://x.com/AdelDeveloperX/status/2074195359199375745) (2026-07-07)
@@ -160,6 +162,7 @@ total_mentions: 1628
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2088684163167670725) (2026-08-16)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2092673893253226866) (2026-08-27)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2111525712578429081) (2026-10-18)
+- [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2116905615201087638) (2026-11-02)
 - [AndrewBolis](https://x.com/AndrewBolis/status/2089672416847126974) (2026-08-23)
 - [AndrewBolis](https://x.com/AndrewBolis/status/2109241359278477749) (2026-10-15)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2062245225159111117) (2026-06-06)
@@ -281,6 +284,7 @@ total_mentions: 1628
 - [Crowdreply_io](https://x.com/Crowdreply_io/status/2082844304981282878) (2026-07-31)
 - [CryptoKing_2020](https://x.com/CryptoKing_2020/status/2103189315866206663) (2026-09-25)
 - [Crypto__Haris](https://x.com/Crypto__Haris/status/2074037585341768082) (2026-07-06)
+- [Cupang1997](https://x.com/Cupang1997/status/2117134305508065714) (2026-11-02)
 - [Cypherpunkgod1](https://x.com/Cypherpunkgod1/status/2066407248859959700) (2026-06-15)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2066212008782172238) (2026-06-19)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2089423549379559718) (2026-08-19)
@@ -489,6 +493,7 @@ total_mentions: 1628
 - [LunarResearcher](https://x.com/LunarResearcher/status/2085365001007558738) (2026-08-11)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2093310429103558754) (2026-08-29)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2095483630961275019) (2026-09-04)
+- [LunarResearcher](https://x.com/LunarResearcher/status/2116885583419052046) (2026-11-02)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2090697430756904964) (2026-08-23)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2092142425879855254) (2026-08-28)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2096862232315367661) (2026-09-09)
@@ -615,6 +620,7 @@ total_mentions: 1628
 - [PythonHub](https://x.com/PythonHub/status/2106055428903665761) (2026-10-04)
 - [Quangimp1](https://x.com/Quangimp1/status/2115304915535069637) (2026-10-28)
 - [QwenDevs](https://x.com/QwenDevs/status/2093175583286968499) (2026-08-28)
+- [R2carloss](https://x.com/R2carloss/status/2117113985392873714) (2026-11-02)
 - [RATGPT_official](https://x.com/RATGPT_official/status/2070072449027494268) (2026-06-28)
 - [RIFAT5666](https://x.com/RIFAT5666/status/2109876282725150954) (2026-10-13)
 - [RachelTobac](https://x.com/RachelTobac/status/2082214795072225786) (2026-07-30)
@@ -700,6 +706,7 @@ total_mentions: 1628
 - [Stefan_3D_AI](https://x.com/Stefan_3D_AI/status/2086350955520360613) (2026-08-10)
 - [Steve8708](https://x.com/Steve8708/status/2077051086234685641) (2026-07-15)
 - [Steve8708](https://x.com/Steve8708/status/2102816521148149911) (2026-09-24)
+- [Steve8708](https://x.com/Steve8708/status/2110401500044472729) (2026-11-02)
 - [SteveMoraco](https://x.com/SteveMoraco/status/2113283753581977986) (2026-10-23)
 - [Steve_Yegge](https://x.com/Steve_Yegge/status/2102268319919423606) (2026-09-22)
 - [StockMCatalysts](https://x.com/StockMCatalysts/status/2078855382777348425) (2026-07-23)
@@ -862,6 +869,7 @@ total_mentions: 1628
 - [alexandr_wang](https://x.com/alexandr_wang/status/2100717269861167524) (2026-09-18)
 - [alexgroberman](https://x.com/alexgroberman/status/2111813079189295577) (2026-10-19)
 - [alexhalescoder](https://x.com/alexhalescoder/status/2110927990364438782) (2026-10-17)
+- [alexolegimas](https://x.com/alexolegimas/status/2115822019518370172) (2026-11-02)
 - [alexxubyte](https://x.com/alexxubyte/status/2076693603439817057) (2026-07-14)
 - [allen_lattimer](https://x.com/allen_lattimer/status/2095534151810338990) (2026-09-10)
 - [allen_lattimer](https://x.com/allen_lattimer/status/2098802988722815384) (2026-09-13)
@@ -946,6 +954,7 @@ total_mentions: 1628
 - [bridgemindai](https://x.com/bridgemindai/status/2070184602606649588) (2026-06-28)
 - [browomo](https://x.com/browomo/status/2063038709407047943) (2026-06-10)
 - [bruno_charlies](https://x.com/bruno_charlies/status/2080170800049484008) (2026-07-30)
+- [business](https://x.com/business/status/2116754642222616835) (2026-11-02)
 - [businessbarista](https://x.com/businessbarista/status/2094213970215231831) (2026-08-31)
 - [businessbarista](https://x.com/businessbarista/status/2097478065723162959) (2026-09-09)
 - [bybardiia](https://x.com/bybardiia/status/2090762007569936869) (2026-08-23)
@@ -1377,6 +1386,7 @@ total_mentions: 1628
 - [omarsar0](https://x.com/omarsar0/status/2095873020778991918) (2026-09-08)
 - [omarsar0](https://x.com/omarsar0/status/2098809969252450451) (2026-09-15)
 - [omarsar0](https://x.com/omarsar0/status/2110733945323368822) (2026-10-21)
+- [omarsar0](https://x.com/omarsar0/status/2116942815150157871) (2026-11-02)
 - [open_founder](https://x.com/open_founder/status/2104953677031055649) (2026-10-02)
 - [open_founder](https://x.com/open_founder/status/2108596016001785940) (2026-10-10)
 - [openart_ai](https://x.com/openart_ai/status/2067650953478652126) (2026-06-19)
@@ -1447,6 +1457,7 @@ total_mentions: 1628
 - [ryouxbt](https://x.com/ryouxbt/status/2115111318541783228) (2026-10-31)
 - [s1rozha_](https://x.com/s1rozha_/status/2072341012735791157) (2026-07-02)
 - [s1rozha_](https://x.com/s1rozha_/status/2078210026410303927) (2026-07-18)
+- [s4yonnara](https://x.com/s4yonnara/status/2116992286764790064) (2026-11-02)
 - [sai_borg](https://x.com/sai_borg/status/2102069767079354526) (2026-09-22)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [sairahul1](https://x.com/sairahul1/status/2069421947390415189) (2026-06-28)
@@ -1540,8 +1551,10 @@ total_mentions: 1628
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2106715961403273433) (2026-10-09)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109615202371252261) (2026-10-19)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109977469927244158) (2026-10-17)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2114718696551952769) (2026-11-02)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2115065255835627540) (2026-10-29)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2115413286829298029) (2026-10-29)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2117074214083838004) (2026-11-02)
 - [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)
 - [swyx](https://x.com/swyx/status/2076155833428431012) (2026-07-12)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)

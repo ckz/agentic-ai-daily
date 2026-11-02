@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-01
-total_mentions: 828
+last_seen: 2026-11-02
+total_mentions: 835
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
@@ -79,6 +79,7 @@ total_mentions: 828
 - [BullTheoryio](https://x.com/BullTheoryio/status/2062148017818419548) (2026-06-09)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2064249311492477082) (2026-06-09)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2070088724462084261) (2026-07-02)
+- [BullTheoryio](https://x.com/BullTheoryio/status/2116387551754043796) (2026-11-02)
 - [CAgovernor](https://x.com/CAgovernor/status/2092691014091939941) (2026-08-27)
 - [CHRISBARYOMUNS1](https://x.com/CHRISBARYOMUNS1/status/2102387801601794523) (2026-09-23)
 - [Calcalistech](https://x.com/Calcalistech/status/2086659776990110089) (2026-08-10)
@@ -94,10 +95,12 @@ total_mentions: 828
 - [Codex_Changelog](https://x.com/Codex_Changelog/status/2062678248790589520) (2026-06-07)
 - [Codie_Sanchez](https://x.com/Codie_Sanchez/status/2099491915381006477) (2026-09-16)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2063005594047467893) (2026-06-05)
+- [Cupang1997](https://x.com/Cupang1997/status/2117134305508065714) (2026-11-02)
 - [CyberRobooo](https://x.com/CyberRobooo/status/2092844038831690046) (2026-08-27)
 - [DNIGabbard](https://x.com/DNIGabbard/status/2065440568423944607) (2026-08-27)
 - [DailyMail](https://x.com/DailyMail/status/2108068156694573555) (2026-10-24)
 - [Dan1ro0](https://x.com/Dan1ro0/status/2109773710009790681) (2026-10-13)
+- [Dan1ro0](https://x.com/Dan1ro0/status/2116977264298508660) (2026-11-02)
 - [Dan1umma](https://x.com/Dan1umma/status/2113685061723730259) (2026-10-24)
 - [DanRShafer](https://x.com/DanRShafer/status/2105454511724839281) (2026-10-01)
 - [Dan_Jeffries1](https://x.com/Dan_Jeffries1/status/2102813387176501568) (2026-09-30)
@@ -188,6 +191,7 @@ total_mentions: 828
 - [MarieMartens](https://x.com/MarieMartens/status/2102313804927246639) (2026-09-24)
 - [Mark_FPL](https://x.com/Mark_FPL/status/2114805623560786390) (2026-10-28)
 - [Marsadist](https://x.com/Marsadist/status/2095333453956854216) (2026-09-10)
+- [MartinGTobias](https://x.com/MartinGTobias/status/2116986855887638901) (2026-11-02)
 - [MasashiAONO](https://x.com/MasashiAONO/status/2076147787713163280) (2026-07-12)
 - [MaximLevoshin](https://x.com/MaximLevoshin/status/2114541980462072315) (2026-10-27)
 - [MaximLevoshin](https://x.com/MaximLevoshin/status/2115115428468883775) (2026-10-28)
@@ -461,6 +465,7 @@ total_mentions: 828
 - [deedydas](https://x.com/deedydas/status/2100287208209146309) (2026-09-19)
 - [deedydas](https://x.com/deedydas/status/2102787937482252537) (2026-09-24)
 - [deedydas](https://x.com/deedydas/status/2103903382822089010) (2026-09-27)
+- [deedydas](https://x.com/deedydas/status/2116669429866275148) (2026-11-02)
 - [defyneric](https://x.com/defyneric/status/2109401860494791063) (2026-10-12)
 - [dhanyindraswara](https://x.com/dhanyindraswara/status/2108209744439812534) (2026-10-09)
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
@@ -560,6 +565,7 @@ total_mentions: 828
 - [jamonholmgren](https://x.com/jamonholmgren/status/2098235125419135339) (2026-09-11)
 - [jarrodwatts](https://x.com/jarrodwatts/status/2111284112011194846) (2026-10-18)
 - [jason_coder0](https://x.com/jason_coder0/status/2072219162135666801) (2026-07-01)
+- [jasonfreedman](https://x.com/jasonfreedman/status/2116598905916080600) (2026-11-02)
 - [jenny_colgate](https://x.com/jenny_colgate/status/2114818614599860294) (2026-10-27)
 - [jesseRoss597206](https://x.com/jesseRoss597206/status/2109324533911961739) (2026-10-13)
 - [jiahanjimliu](https://x.com/jiahanjimliu/status/2075804539111043085) (2026-07-11)
@@ -740,6 +746,7 @@ total_mentions: 828
 - [snskritinaruka](https://x.com/snskritinaruka/status/2110310476332871763) (2026-10-17)
 - [solana](https://x.com/solana/status/2018920649935192139) (2026-10-28)
 - [solovaultinfo](https://x.com/solovaultinfo/status/2068553835598241965) (2026-06-21)
+- [solyatic](https://x.com/solyatic/status/2116891764220891560) (2026-11-02)
 - [soundboy](https://x.com/soundboy/status/2097607789929443537) (2026-09-10)
 - [spaceandtech_](https://x.com/spaceandtech_/status/2087905670595223735) (2026-08-16)
 - [spacedevin](https://x.com/spacedevin/status/2109526752808902799) (2026-10-12)

@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-01
-total_mentions: 630
+last_seen: 2026-11-02
+total_mentions: 635
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -43,6 +43,7 @@ total_mentions: 630
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2062245225159111117) (2026-06-06)
 - [AndrewYNg](https://x.com/AndrewYNg/status/1975614372799283423) (2026-06-12)
 - [AnnuKumari35786](https://x.com/AnnuKumari35786/status/2106358936635085267) (2026-10-05)
+- [AnnuKumari35786](https://x.com/AnnuKumari35786/status/2115772897092612442) (2026-11-02)
 - [AnthropicAI](https://x.com/AnthropicAI/status/2066969532380721386) (2026-06-19)
 - [AnthropicAI](https://x.com/AnthropicAI/status/2072163884430229756) (2026-07-01)
 - [ArdenAI07](https://x.com/ArdenAI07/status/2108895389126709456) (2026-10-14)
@@ -267,6 +268,7 @@ total_mentions: 630
 - [SpaceXAI](https://x.com/SpaceXAI/status/2105744399179383124) (2026-10-02)
 - [Spectre__AI](https://x.com/Spectre__AI/status/2084677141870883158) (2026-08-07)
 - [Steve8708](https://x.com/Steve8708/status/2077051086234685641) (2026-07-15)
+- [Steve8708](https://x.com/Steve8708/status/2110401500044472729) (2026-11-02)
 - [StockMCatalysts](https://x.com/StockMCatalysts/status/2078855382777348425) (2026-07-23)
 - [Sumanth_077](https://x.com/Sumanth_077/status/2091169662956720527) (2026-08-25)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2084693098714599697) (2026-08-05)
@@ -377,6 +379,7 @@ total_mentions: 630
 - [businessbarista](https://x.com/businessbarista/status/2094213970215231831) (2026-08-31)
 - [businessbarista](https://x.com/businessbarista/status/2097478065723162959) (2026-09-09)
 - [businessbarista](https://x.com/businessbarista/status/2114864181937586359) (2026-10-28)
+- [carm1nee](https://x.com/carm1nee/status/2115936358003052667) (2026-11-02)
 - [cb_doge](https://x.com/cb_doge/status/2076291436283396496) (2026-07-18)
 - [chandan1_](https://x.com/chandan1_/status/1874874423062278335) (2026-07-10)
 - [charliejhills](https://x.com/charliejhills/status/2098351074755457321) (2026-09-17)
@@ -454,6 +457,7 @@ total_mentions: 630
 - [gregisenberg](https://x.com/gregisenberg/status/2098396069583319070) (2026-09-12)
 - [gregisenberg](https://x.com/gregisenberg/status/2099202686377742576) (2026-09-15)
 - [gumterver100](https://x.com/gumterver100/status/2087078337235628286) (2026-08-11)
+- [gusik4ever](https://x.com/gusik4ever/status/2116504471907791240) (2026-11-02)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [hasantoxr](https://x.com/hasantoxr/status/2075864853542269183) (2026-07-15)
 - [helicerat0x](https://x.com/helicerat0x/status/2078252543634002084) (2026-07-18)
@@ -542,6 +546,7 @@ total_mentions: 630
 - [rohit4verse](https://x.com/rohit4verse/status/2083284519550136641) (2026-08-01)
 - [rustaceans_rs](https://x.com/rustaceans_rs/status/2095655918956372209) (2026-09-08)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
+- [s4yonnara](https://x.com/s4yonnara/status/2116992286764790064) (2026-11-02)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [sairahul1](https://x.com/sairahul1/status/2069421947390415189) (2026-06-28)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)

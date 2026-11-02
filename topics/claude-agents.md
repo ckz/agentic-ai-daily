@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-01
-total_mentions: 324
+last_seen: 2026-11-02
+total_mentions: 329
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -24,6 +24,7 @@ total_mentions: 324
 - [AiForAmericans](https://x.com/AiForAmericans/status/2102751457279918346) (2026-09-25)
 - [AleksDoesCode](https://x.com/AleksDoesCode/status/2100500636940849250) (2026-09-20)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2076720209293893677) (2026-07-14)
+- [AlltheLatestAI](https://x.com/AlltheLatestAI/status/2116394824538714292) (2026-11-02)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2065054167677170033) (2026-06-12)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2086567854850384054) (2026-08-13)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2087730345173229657) (2026-08-13)
@@ -164,6 +165,7 @@ total_mentions: 324
 - [beamnxw](https://x.com/beamnxw/status/2115912451388485931) (2026-10-30)
 - [bindureddy](https://x.com/bindureddy/status/2087034287396938177) (2026-08-11)
 - [bonduelleioat](https://x.com/bonduelleioat/status/2090015153739669554) (2026-08-23)
+- [business](https://x.com/business/status/2116754642222616835) (2026-11-02)
 - [businessbarista](https://x.com/businessbarista/status/2097478065723162959) (2026-09-09)
 - [businessbarista](https://x.com/businessbarista/status/2099565601312166157) (2026-09-16)
 - [candyyueliu](https://x.com/candyyueliu/status/2062178835689623592) (2026-06-29)
@@ -248,6 +250,7 @@ total_mentions: 324
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
 - [lksmlabc](https://x.com/lksmlabc/status/2096524556123115628) (2026-09-09)
 - [longhaiqwe123](https://x.com/longhaiqwe123/status/2114031712430948410) (2026-10-25)
+- [maixbt](https://x.com/maixbt/status/2114840031114531187) (2026-11-02)
 - [making_cindy](https://x.com/making_cindy/status/2114627189119566266) (2026-10-28)
 - [marfinxx](https://x.com/marfinxx/status/2102729802708918385) (2026-09-24)
 - [marfinxx](https://x.com/marfinxx/status/2107093610604765199) (2026-10-10)
@@ -278,6 +281,7 @@ total_mentions: 324
 - [quinn_leng](https://x.com/quinn_leng/status/2110036327286886731) (2026-10-14)
 - [rakib_hossen_ai](https://x.com/rakib_hossen_ai/status/2113385135869735176) (2026-10-24)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
+- [reasonmachines](https://x.com/reasonmachines/status/2117075693226136046) (2026-11-02)
 - [ridark_eth](https://x.com/ridark_eth/status/2114830200810930276) (2026-10-30)
 - [rileybrown](https://x.com/rileybrown/status/2101027402369335382) (2026-09-19)
 - [rileybrown](https://x.com/rileybrown/status/2107320826575937563) (2026-10-07)
@@ -309,6 +313,7 @@ total_mentions: 324
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2111520366791414136) (2026-10-18)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2111881943117664275) (2026-10-19)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2114739076796428729) (2026-10-28)
+- [thegreatest_sv](https://x.com/thegreatest_sv/status/2115418146156736697) (2026-11-02)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2081680037544427793) (2026-07-28)
 - [timsneath](https://x.com/timsneath/status/2072479088661651612) (2026-07-02)

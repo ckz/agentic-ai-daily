@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-01
-total_mentions: 212
+last_seen: 2026-11-02
+total_mentions: 213
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -104,6 +104,7 @@ total_mentions: 212
 - [ben_burtenshaw](https://x.com/ben_burtenshaw/status/2098410420394451153) (2026-09-12)
 - [bindureddy](https://x.com/bindureddy/status/2076165296977858836) (2026-07-12)
 - [braintrust](https://x.com/braintrust/status/2095537795838144919) (2026-09-09)
+- [business](https://x.com/business/status/2116754642222616835) (2026-11-02)
 - [calbuldelis69](https://x.com/calbuldelis69/status/2109705355798384767) (2026-10-13)
 - [candyyueliu](https://x.com/candyyueliu/status/2062178835689623592) (2026-06-29)
 - [cb_doge](https://x.com/cb_doge/status/2098446690806362589) (2026-09-15)
