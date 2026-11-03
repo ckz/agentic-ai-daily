@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-02
-total_mentions: 329
+last_seen: 2026-11-03
+total_mentions: 331
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -12,6 +12,7 @@ total_mentions: 329
 - [0xCodila](https://x.com/0xCodila/status/2086870655719371248) (2026-08-12)
 - [0xMovez](https://x.com/0xMovez/status/2057103411783307293) (2026-06-10)
 - [0xMovez](https://x.com/0xMovez/status/2073765125958348964) (2026-07-06)
+- [0xShoopy](https://x.com/0xShoopy/status/2116596475702681970) (2026-11-03)
 - [0xchadx](https://x.com/0xchadx/status/2067862587174244810) (2026-06-19)
 - [0xclayn](https://x.com/0xclayn/status/2075292493218721894) (2026-07-11)
 - [0xvati](https://x.com/0xvati/status/2102325309978927184) (2026-09-23)
@@ -156,6 +157,7 @@ total_mentions: 329
 - [allenanalysis](https://x.com/allenanalysis/status/2048915153895481554) (2026-10-17)
 - [alliekmiller](https://x.com/alliekmiller/status/2064451731325415446) (2026-06-10)
 - [angeldot_](https://x.com/angeldot_/status/2114374287549157402) (2026-10-26)
+- [anitakirkovska](https://x.com/anitakirkovska/status/2117336406246727956) (2026-11-03)
 - [ashtom](https://x.com/ashtom/status/1925597395192357337) (2026-09-04)
 - [atulkumarzz](https://x.com/atulkumarzz/status/2108191514811842742) (2026-10-09)
 - [bcherny](https://x.com/bcherny/status/2064431111154053187) (2026-06-15)

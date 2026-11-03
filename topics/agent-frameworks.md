@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-02
-total_mentions: 635
+last_seen: 2026-11-03
+total_mentions: 638
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -120,6 +120,7 @@ total_mentions: 635
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2094528029724950563) (2026-09-03)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2096990554529955934) (2026-09-13)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2098120874524389776) (2026-09-13)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2116785036360089919) (2026-11-03)
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2113244292898783482) (2026-10-25)
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2113967691564495014) (2026-10-25)
 - [DrJimFan](https://x.com/DrJimFan/status/2111128797181567466) (2026-10-17)
@@ -172,6 +173,7 @@ total_mentions: 635
 - [HuggingPapers](https://x.com/HuggingPapers/status/2081387446646772212) (2026-07-27)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2081610373082341766) (2026-07-27)
 - [HunterAllen4](https://x.com/HunterAllen4/status/2073988980068979122) (2026-07-06)
+- [HunterFromNYC](https://x.com/HunterFromNYC/status/2116542915631587387) (2026-11-03)
 - [HyperionXTrade](https://x.com/HyperionXTrade/status/2066015535045992470) (2026-06-14)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
 - [InfosecVandana](https://x.com/InfosecVandana/status/2096568141451297103) (2026-09-09)
@@ -571,6 +573,7 @@ total_mentions: 635
 - [shikamarutsai](https://x.com/shikamarutsai/status/2088636457938280724) (2026-08-19)
 - [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)
 - [shushant_l](https://x.com/shushant_l/status/2078707411670704572) (2026-07-19)
+- [signulll](https://x.com/signulll/status/2109827986572890225) (2026-11-03)
 - [simonbs](https://x.com/simonbs/status/2098246318124650855) (2026-09-11)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
 - [skirano](https://x.com/skirano/status/1797738751113998345) (2026-10-12)

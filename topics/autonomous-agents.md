@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-02
-total_mentions: 1641
+last_seen: 2026-11-03
+total_mentions: 1653
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -70,7 +70,9 @@ total_mentions: 1641
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
 - [0xSammy](https://x.com/0xSammy/status/1882500633573609980) (2026-06-08)
 - [0xSero](https://x.com/0xSero/status/2097620672952344680) (2026-09-13)
+- [0xShoopy](https://x.com/0xShoopy/status/2116596475702681970) (2026-11-03)
 - [0xSlyth](https://x.com/0xSlyth/status/2070124131207860577) (2026-06-27)
+- [0xWassie](https://x.com/0xWassie/status/2115526580445340110) (2026-11-03)
 - [0x_aster](https://x.com/0x_aster/status/2106467164408758656) (2026-10-06)
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
 - [0x_zoda](https://x.com/0x_zoda/status/2111666133845594507) (2026-10-18)
@@ -144,6 +146,7 @@ total_mentions: 1641
 - [AlexFinn](https://x.com/AlexFinn/status/2109817698620485804) (2026-10-14)
 - [AlexFinn](https://x.com/AlexFinn/status/2110181971280433613) (2026-10-14)
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2111463390233432181) (2026-10-18)
+- [AlexRiad84837](https://x.com/AlexRiad84837/status/2117150813403730105) (2026-11-03)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2072719153107001836) (2026-07-03)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2076720209293893677) (2026-07-14)
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2069720365442719867) (2026-06-27)
@@ -321,6 +324,8 @@ total_mentions: 1641
 - [DataChaz](https://x.com/DataChaz/status/2080535949084172296) (2026-07-26)
 - [DataScienceDojo](https://x.com/DataScienceDojo/status/2071624804575093052) (2026-06-30)
 - [DavidOndrej1](https://x.com/DavidOndrej1/status/2067842298667225185) (2026-06-19)
+- [DavidPawlan](https://x.com/DavidPawlan/status/2117269574051660005) (2026-11-03)
+- [DavidPawlan](https://x.com/DavidPawlan/status/2117366101289934984) (2026-11-03)
 - [DealsDhamaka](https://x.com/DealsDhamaka/status/2074664290293080496) (2026-07-08)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [DefiSparco](https://x.com/DefiSparco/status/2112186372261863708) (2026-10-20)
@@ -343,6 +348,7 @@ total_mentions: 1641
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2096906995521450368) (2026-09-08)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2096990554529955934) (2026-09-13)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2098120874524389776) (2026-09-13)
+- [DivyanshT91162](https://x.com/DivyanshT91162/status/2116785036360089919) (2026-11-03)
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2113244292898783482) (2026-10-25)
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2113967691564495014) (2026-10-25)
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2114682560886485126) (2026-10-27)
@@ -445,6 +451,7 @@ total_mentions: 1641
 - [JesseisCooking](https://x.com/JesseisCooking/status/2103383326543495485) (2026-10-01)
 - [JessicaMetaEra](https://x.com/JessicaMetaEra/status/2068553406206341418) (2026-06-21)
 - [Jiacheng_Miao](https://x.com/Jiacheng_Miao/status/2100296661427999222) (2026-09-17)
+- [JoannaStern](https://x.com/JoannaStern/status/2117385381612015941) (2026-11-03)
 - [Joeyy_0x](https://x.com/Joeyy_0x/status/2079565467963068586) (2026-07-22)
 - [JulianGoldieSEO](https://x.com/JulianGoldieSEO/status/2068597289338257436) (2026-06-21)
 - [JulianGoldieSEO](https://x.com/JulianGoldieSEO/status/2071787143744442408) (2026-06-30)
@@ -889,6 +896,7 @@ total_mentions: 1641
 - [amitisinvesting](https://x.com/amitisinvesting/status/2079389181780832579) (2026-07-23)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2086983986031542710) (2026-08-14)
 - [amitisinvesting](https://x.com/amitisinvesting/status/2102064543086133684) (2026-09-22)
+- [anitakirkovska](https://x.com/anitakirkovska/status/2117336406246727956) (2026-11-03)
 - [annajmalayan](https://x.com/annajmalayan/status/2094550929504891060) (2026-09-01)
 - [antigravity](https://x.com/antigravity/status/2075265852992057448) (2026-07-11)
 - [antigravity](https://x.com/antigravity/status/2088030364539162744) (2026-08-14)
@@ -1038,12 +1046,14 @@ total_mentions: 1641
 - [daisy_btc988](https://x.com/daisy_btc988/status/2102284082973663268) (2026-09-23)
 - [dan__rosenthal](https://x.com/dan__rosenthal/status/2086165641594048875) (2026-08-09)
 - [dan__rosenthal](https://x.com/dan__rosenthal/status/2115156692627251542) (2026-10-28)
+- [dang_duytan](https://x.com/dang_duytan/status/2117439948723048760) (2026-11-03)
 - [dankimxyz](https://x.com/dankimxyz/status/2107199865004634605) (2026-10-07)
 - [danshipper](https://x.com/danshipper/status/2102461471716483208) (2026-09-23)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [dashen_wang](https://x.com/dashen_wang/status/2094659177310269863) (2026-09-05)
 - [databricks](https://x.com/databricks/status/2070517714746012080) (2026-06-27)
 - [datasection](https://x.com/datasection/status/2063510474503700504) (2026-06-07)
+- [davezyne](https://x.com/davezyne/status/2117493958724944381) (2026-11-03)
 - [david1989_zhu](https://x.com/david1989_zhu/status/2065343518483136962) (2026-06-12)
 - [davidim](https://x.com/davidim/status/2115478546630295600) (2026-10-29)
 - [dawnsongtweets](https://x.com/dawnsongtweets/status/2087256652756172834) (2026-08-14)
@@ -1153,6 +1163,7 @@ total_mentions: 1641
 - [gokulr](https://x.com/gokulr/status/2066673493811601737) (2026-06-21)
 - [gokulr](https://x.com/gokulr/status/2071692278582890889) (2026-08-02)
 - [googleaidevs](https://x.com/googleaidevs/status/2069464402118820154) (2026-06-30)
+- [googlecloud](https://x.com/googlecloud/status/2117447876183720104) (2026-11-03)
 - [googledevs](https://x.com/googledevs/status/2075251776606093457) (2026-07-11)
 - [googlegemma](https://x.com/googlegemma/status/2104619611417391289) (2026-10-03)
 - [gothburz](https://x.com/gothburz/status/2103767313749061921) (2026-09-27)
@@ -1512,6 +1523,7 @@ total_mentions: 1641
 - [shushant_l](https://x.com/shushant_l/status/2071096264339620159) (2026-06-28)
 - [shushant_l](https://x.com/shushant_l/status/2078707411670704572) (2026-07-19)
 - [sigf_ai](https://x.com/sigf_ai/status/2106178810463023319) (2026-10-06)
+- [signulll](https://x.com/signulll/status/2109827986572890225) (2026-11-03)
 - [silvana_book](https://x.com/silvana_book/status/2075636698210324826) (2026-07-11)
 - [singularityhack](https://x.com/singularityhack/status/2079237150764134528) (2026-07-22)
 - [sirbayes](https://x.com/sirbayes/status/2065804371011457087) (2026-06-14)

@@ -1,14 +1,15 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-02
-total_mentions: 835
+last_seen: 2026-11-03
+total_mentions: 842
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
 - [0xMovez](https://x.com/0xMovez/status/2115870373300326503) (2026-10-31)
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
 - [0xMrPinky](https://x.com/0xMrPinky/status/2113250067415289868) (2026-10-24)
+- [0xWassie](https://x.com/0xWassie/status/2115526580445340110) (2026-11-03)
 - [0x_rody](https://x.com/0x_rody/status/2102403963865759871) (2026-09-24)
 - [0x_rody](https://x.com/0x_rody/status/2106413848982880695) (2026-10-04)
 - [0x_zoda](https://x.com/0x_zoda/status/2111666133845594507) (2026-10-18)
@@ -104,6 +105,7 @@ total_mentions: 835
 - [Dan1umma](https://x.com/Dan1umma/status/2113685061723730259) (2026-10-24)
 - [DanRShafer](https://x.com/DanRShafer/status/2105454511724839281) (2026-10-01)
 - [Dan_Jeffries1](https://x.com/Dan_Jeffries1/status/2102813387176501568) (2026-09-30)
+- [DavidPawlan](https://x.com/DavidPawlan/status/2117269574051660005) (2026-11-03)
 - [DavidayoAI](https://x.com/DavidayoAI/status/2091956043240599821) (2026-08-26)
 - [DeRonin_](https://x.com/DeRonin_/status/2087555554830852538) (2026-08-14)
 - [DeRonin_](https://x.com/DeRonin_/status/2110756838354596023) (2026-10-18)
@@ -148,6 +150,7 @@ total_mentions: 835
 - [HerbalistChief](https://x.com/HerbalistChief/status/2097984218320003221) (2026-09-11)
 - [Hesamation](https://x.com/Hesamation/status/1970585800325640372) (2026-06-07)
 - [HeyRohhit](https://x.com/HeyRohhit/status/2079594120977527102) (2026-07-22)
+- [HuevaToi](https://x.com/HuevaToi/status/2117435252746707069) (2026-11-03)
 - [IBVMCHAIN](https://x.com/IBVMCHAIN/status/2099351342238359725) (2026-09-14)
 - [ILSecOfState](https://x.com/ILSecOfState/status/2088299276841439364) (2026-08-21)
 - [IPONewsroom_](https://x.com/IPONewsroom_/status/2065081323803267479) (2026-06-13)
@@ -353,6 +356,8 @@ total_mentions: 835
 - [agazdecki](https://x.com/agazdecki/status/2099895431547572656) (2026-09-20)
 - [agazdecki](https://x.com/agazdecki/status/2106497043921502295) (2026-10-06)
 - [ahatamiz1](https://x.com/ahatamiz1/status/2113344049784799378) (2026-10-23)
+- [ai_explorer25](https://x.com/ai_explorer25/status/2117086795426865651) (2026-11-03)
+- [ai_explorer25](https://x.com/ai_explorer25/status/2117447925244764287) (2026-11-03)
 - [alex_prompter](https://x.com/alex_prompter/status/2094818827137581543) (2026-09-02)
 - [alex_verem](https://x.com/alex_verem/status/2090118956912939041) (2026-08-25)
 - [alexisohanian](https://x.com/alexisohanian/status/2103856308890017955) (2026-09-29)
@@ -456,6 +461,7 @@ total_mentions: 835
 - [cyvanessali](https://x.com/cyvanessali/status/2114083981549515019) (2026-10-25)
 - [cz_binance](https://x.com/cz_binance/status/2113611119445373422) (2026-10-29)
 - [danellisona](https://x.com/danellisona/status/2108357119787631069) (2026-10-09)
+- [dang_duytan](https://x.com/dang_duytan/status/2117439948723048760) (2026-11-03)
 - [danmall](https://x.com/danmall/status/2103615627323727941) (2026-09-27)
 - [darbyw](https://x.com/darbyw/status/2092718828405096955) (2026-08-27)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
@@ -744,6 +750,7 @@ total_mentions: 835
 - [skeptrune](https://x.com/skeptrune/status/2092294676594471062) (2026-08-27)
 - [slash1sol](https://x.com/slash1sol/status/2033636802855374982) (2026-06-13)
 - [snskritinaruka](https://x.com/snskritinaruka/status/2110310476332871763) (2026-10-17)
+- [sohmehta](https://x.com/sohmehta/status/2116451422653042717) (2026-11-03)
 - [solana](https://x.com/solana/status/2018920649935192139) (2026-10-28)
 - [solovaultinfo](https://x.com/solovaultinfo/status/2068553835598241965) (2026-06-21)
 - [solyatic](https://x.com/solyatic/status/2116891764220891560) (2026-11-02)
