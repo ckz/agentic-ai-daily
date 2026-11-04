@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-03
-total_mentions: 638
+last_seen: 2026-11-04
+total_mentions: 644
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -39,6 +39,7 @@ total_mentions: 638
 - [Alacritic_Super](https://x.com/Alacritic_Super/status/2073340264895438850) (2026-07-05)
 - [AlchemyJ_io](https://x.com/AlchemyJ_io/status/2074319995035939293) (2026-07-07)
 - [AlexFinn](https://x.com/AlexFinn/status/2007945660281360552) (2026-09-28)
+- [AlinaWan98](https://x.com/AlinaWan98/status/2117844196119961682) (2026-11-04)
 - [AndrewBolis](https://x.com/AndrewBolis/status/2089672416847126974) (2026-08-23)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2062245225159111117) (2026-06-06)
 - [AndrewYNg](https://x.com/AndrewYNg/status/1975614372799283423) (2026-06-12)
@@ -199,6 +200,7 @@ total_mentions: 638
 - [Lummox_eth](https://x.com/Lummox_eth/status/2106062601289408549) (2026-10-05)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2092142425879855254) (2026-08-28)
+- [MarcoSalzmann80](https://x.com/MarcoSalzmann80/status/2104518722400522384) (2026-11-04)
 - [MarcoSalzmann80](https://x.com/MarcoSalzmann80/status/2111738172015046745) (2026-10-24)
 - [MarioNawfal](https://x.com/MarioNawfal/status/2085171754415038482) (2026-08-06)
 - [Market_Mind_](https://x.com/Market_Mind_/status/2088651427962921304) (2026-08-17)
@@ -492,6 +494,7 @@ total_mentions: 638
 - [lennysan](https://x.com/lennysan/status/2114747753968644359) (2026-10-27)
 - [leopardracer](https://x.com/leopardracer/status/2074442479739318455) (2026-07-09)
 - [lqg_togo](https://x.com/lqg_togo/status/2113510660407804034) (2026-10-23)
+- [maestrooth](https://x.com/maestrooth/status/2117321301761110314) (2026-11-04)
 - [manthanguptaa](https://x.com/manthanguptaa/status/2084895891559981558) (2026-08-12)
 - [mardehaym](https://x.com/mardehaym/status/2081770600087847192) (2026-07-31)
 - [mardehaym](https://x.com/mardehaym/status/2082765372864770087) (2026-07-31)
@@ -517,6 +520,7 @@ total_mentions: 638
 - [nikesharora](https://x.com/nikesharora/status/2097775700627578963) (2026-09-16)
 - [nomadcoderai](https://x.com/nomadcoderai/status/2075460970848416075) (2026-07-10)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
+- [nsharma0813](https://x.com/nsharma0813/status/2117828707259920721) (2026-11-04)
 - [o_kwasniewski](https://x.com/o_kwasniewski/status/2104593565200392428) (2026-09-29)
 - [o_kwasniewski](https://x.com/o_kwasniewski/status/2105675143464763540) (2026-10-02)
 - [omarsar0](https://x.com/omarsar0/status/1846930425849303424) (2026-06-27)
@@ -532,6 +536,7 @@ total_mentions: 638
 - [piyascode9](https://x.com/piyascode9/status/2060204362497224790) (2026-06-05)
 - [polydao](https://x.com/polydao/status/2097642088506487020) (2026-09-10)
 - [princeNFA](https://x.com/princeNFA/status/2115674627313692811) (2026-10-29)
+- [profacer_w](https://x.com/profacer_w/status/2117847006118838529) (2026-11-04)
 - [py_kanade0404](https://x.com/py_kanade0404/status/2079825109083467821) (2026-07-22)
 - [radiyal_agency](https://x.com/radiyal_agency/status/2072183621176504669) (2026-07-01)
 - [randy_magruder](https://x.com/randy_magruder/status/2075453861754470569) (2026-07-10)
@@ -548,6 +553,7 @@ total_mentions: 638
 - [rohit4verse](https://x.com/rohit4verse/status/2083284519550136641) (2026-08-01)
 - [rustaceans_rs](https://x.com/rustaceans_rs/status/2095655918956372209) (2026-09-08)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
+- [s4yonnara](https://x.com/s4yonnara/status/2116286728872792488) (2026-11-04)
 - [s4yonnara](https://x.com/s4yonnara/status/2116992286764790064) (2026-11-02)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [sairahul1](https://x.com/sairahul1/status/2069421947390415189) (2026-06-28)

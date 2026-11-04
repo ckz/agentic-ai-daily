@@ -1,13 +1,14 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-03
-total_mentions: 213
+last_seen: 2026-11-04
+total_mentions: 218
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
 - [AiNicolas75316](https://x.com/AiNicolas75316/status/2079199374819914080) (2026-07-22)
+- [Aiswarya_Sankar](https://x.com/Aiswarya_Sankar/status/2117309482430812348) (2026-11-04)
 - [AlexFinn](https://x.com/AlexFinn/status/2076752798532931758) (2026-07-14)
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2057450220708147250) (2026-09-23)
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2061506641120641494) (2026-06-05)
@@ -39,6 +40,7 @@ total_mentions: 213
 - [Greshamtrade](https://x.com/Greshamtrade/status/2113369499801960699) (2026-10-25)
 - [Hartdrawss](https://x.com/Hartdrawss/status/2096924182260875471) (2026-09-10)
 - [HelloRH_AI](https://x.com/HelloRH_AI/status/2077711932774105164) (2026-07-18)
+- [HermesWatcher](https://x.com/HermesWatcher/status/2117859453496389694) (2026-11-04)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
@@ -113,6 +115,7 @@ total_mentions: 213
 - [codyschneider](https://x.com/codyschneider/status/2084369982918406433) (2026-08-04)
 - [cognition](https://x.com/cognition/status/1767548763134964000) (2026-10-16)
 - [convequity](https://x.com/convequity/status/2105431360500301981) (2026-10-01)
+- [creativedash](https://x.com/creativedash/status/2117800127675109468) (2026-11-04)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/2038666497254433045) (2026-10-08)
 - [csaba_kissi](https://x.com/csaba_kissi/status/2097206925264118197) (2026-09-12)
 - [ctatedev](https://x.com/ctatedev/status/2116323148706771302) (2026-10-31)
@@ -162,6 +165,7 @@ total_mentions: 213
 - [lemondooe](https://x.com/lemondooe/status/2073312103167840581) (2026-07-04)
 - [lennysan](https://x.com/lennysan/status/2102422882341322779) (2026-09-24)
 - [liamottley_](https://x.com/liamottley_/status/2106542593597198765) (2026-10-04)
+- [lmoroney](https://x.com/lmoroney/status/2108071329790370027) (2026-11-04)
 - [martinfowler](https://x.com/martinfowler/status/2087173563144912985) (2026-08-12)
 - [matanSF](https://x.com/matanSF/status/2105335179502064038) (2026-10-05)
 - [mattpocockuk](https://x.com/mattpocockuk/status/2064663221718425660) (2026-06-11)
@@ -186,6 +190,7 @@ total_mentions: 213
 - [rebel0x0](https://x.com/rebel0x0/status/2067186712758071385) (2026-06-19)
 - [rowancheung](https://x.com/rowancheung/status/1767582332964516243) (2026-08-26)
 - [runwayml](https://x.com/runwayml/status/2095159754414813249) (2026-09-07)
+- [s4yonnara](https://x.com/s4yonnara/status/2116286728872792488) (2026-11-04)
 - [sairahul1](https://x.com/sairahul1/status/2077326742218539296) (2026-07-18)
 - [sanketsahu](https://x.com/sanketsahu/status/2109170482134323468) (2026-10-11)
 - [sauda_coder](https://x.com/sauda_coder/status/2099333079567671797) (2026-09-16)

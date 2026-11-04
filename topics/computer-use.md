@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-11-03
-total_mentions: 181
+last_seen: 2026-11-04
+total_mentions: 185
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -101,6 +101,7 @@ total_mentions: 181
 - [cwmasaki](https://x.com/cwmasaki/status/2088433897445171301) (2026-08-15)
 - [daniel_mac8](https://x.com/daniel_mac8/status/2106486954351001652) (2026-10-04)
 - [danshipper](https://x.com/danshipper/status/2102461471716483208) (2026-09-23)
+- [daveremy](https://x.com/daveremy/status/2116927398327545955) (2026-11-04)
 - [deedydas](https://x.com/deedydas/status/1898444603071795378) (2026-06-06)
 - [deedydas](https://x.com/deedydas/status/2099880100770849001) (2026-09-16)
 - [deviparikh](https://x.com/deviparikh/status/2092647579163251007) (2026-08-30)
@@ -127,6 +128,7 @@ total_mentions: 181
 - [jayair](https://x.com/jayair/status/2109299280779350430) (2026-10-12)
 - [jkelleyrtp](https://x.com/jkelleyrtp/status/2101364551296143772) (2026-09-20)
 - [jxnlco](https://x.com/jxnlco/status/2070577704752267321) (2026-06-27)
+- [kirtandopamine](https://x.com/kirtandopamine/status/2117678349828976746) (2026-11-04)
 - [kylejeong](https://x.com/kylejeong/status/2098478826464702556) (2026-09-14)
 - [latentspacepod](https://x.com/latentspacepod/status/2105442037042663491) (2026-10-01)
 - [latentspacepod](https://x.com/latentspacepod/status/2111244257579409664) (2026-10-18)
@@ -152,6 +154,8 @@ total_mentions: 181
 - [norapsi](https://x.com/norapsi/status/2095180581550305503) (2026-09-03)
 - [petergyang](https://x.com/petergyang/status/2101862331345154469) (2026-09-21)
 - [pierceboggan](https://x.com/pierceboggan/status/2105740520828043738) (2026-10-03)
+- [pratikg](https://x.com/pratikg/status/2116215929961124106) (2026-11-04)
+- [pratikg](https://x.com/pratikg/status/2116383901115711897) (2026-11-04)
 - [realfxw](https://x.com/realfxw/status/2109577342179844369) (2026-10-13)
 - [rileybrown](https://x.com/rileybrown/status/2097080191163998488) (2026-09-08)
 - [rileybrown](https://x.com/rileybrown/status/2104329604471398616) (2026-09-28)

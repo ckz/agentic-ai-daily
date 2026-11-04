@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-03
-total_mentions: 842
+last_seen: 2026-11-04
+total_mentions: 850
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
@@ -45,6 +45,7 @@ total_mentions: 842
 - [Alexkphillips](https://x.com/Alexkphillips/status/2099142554407051336) (2026-09-14)
 - [AlfiFromToasty](https://x.com/AlfiFromToasty/status/2111438352214086019) (2026-10-18)
 - [AliHassanxhy7](https://x.com/AliHassanxhy7/status/2114955487884296477) (2026-10-27)
+- [AlinaWan98](https://x.com/AlinaWan98/status/2117844196119961682) (2026-11-04)
 - [AlphaCapitalUK](https://x.com/AlphaCapitalUK/status/2079957138730848366) (2026-07-25)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2079915295230038426) (2026-07-23)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2088330041289494736) (2026-08-17)
@@ -387,6 +388,7 @@ total_mentions: 842
 - [artchad](https://x.com/artchad/status/2090555717875015956) (2026-08-23)
 - [arthur__penn](https://x.com/arthur__penn/status/2074352731238916503) (2026-07-07)
 - [arthurkatcher](https://x.com/arthurkatcher/status/2108536207680631087) (2026-10-11)
+- [aryamman_bhatia](https://x.com/aryamman_bhatia/status/2115818576854831547) (2026-11-04)
 - [ashikruben369](https://x.com/ashikruben369/status/2083601432507478089) (2026-08-02)
 - [ashikruben369](https://x.com/ashikruben369/status/2086121193569153346) (2026-08-14)
 - [askOkara](https://x.com/askOkara/status/2089641580634476718) (2026-08-22)
@@ -424,6 +426,7 @@ total_mentions: 842
 - [business](https://x.com/business/status/2108078728592998447) (2026-10-10)
 - [bykahlil](https://x.com/bykahlil/status/2079265093607637030) (2026-07-21)
 - [calvinchen](https://x.com/calvinchen/status/2113086111505645906) (2026-10-22)
+- [cashcat_Agent](https://x.com/cashcat_Agent/status/2117884246895341884) (2026-11-04)
 - [cb_doge](https://x.com/cb_doge/status/2062681226633523250) (2026-06-08)
 - [cb_doge](https://x.com/cb_doge/status/2072009965389443374) (2026-07-03)
 - [cb_doge](https://x.com/cb_doge/status/2076291436283396496) (2026-07-18)
@@ -498,6 +501,7 @@ total_mentions: 842
 - [elonmusk](https://x.com/elonmusk/status/2071673460779041155) (2026-07-02)
 - [erhanmeydan](https://x.com/erhanmeydan/status/2107539979379601608) (2026-10-07)
 - [ericgudboy](https://x.com/ericgudboy/status/2073282068235321743) (2026-07-04)
+- [ericmigi](https://x.com/ericmigi/status/2117747089639977189) (2026-11-04)
 - [eriktorenberg](https://x.com/eriktorenberg/status/2103493671866060958) (2026-09-27)
 - [ethancole_ai](https://x.com/ethancole_ai/status/2090849492530512046) (2026-08-22)
 - [ethereum](https://x.com/ethereum/status/2079217433059996150) (2026-07-23)
@@ -565,6 +569,7 @@ total_mentions: 842
 - [itsolelehmann](https://x.com/itsolelehmann/status/2084778165986300137) (2026-08-05)
 - [itsolelehmann](https://x.com/itsolelehmann/status/2089543156824146164) (2026-08-23)
 - [itsolelehmann](https://x.com/itsolelehmann/status/2105709191692538365) (2026-10-03)
+- [ivan_nomadz](https://x.com/ivan_nomadz/status/2117650218317685144) (2026-11-04)
 - [jackkuveke](https://x.com/jackkuveke/status/2098414956454568307) (2026-09-13)
 - [jakeserval](https://x.com/jakeserval/status/2115835611252666404) (2026-10-30)
 - [james406](https://x.com/james406/status/2055362680299434300) (2026-06-09)
@@ -577,6 +582,7 @@ total_mentions: 842
 - [jiahanjimliu](https://x.com/jiahanjimliu/status/2075804539111043085) (2026-07-11)
 - [jiang_kev](https://x.com/jiang_kev/status/2082496145994248488) (2026-07-30)
 - [johnrush](https://x.com/johnrush/status/2100322424386429223) (2026-09-20)
+- [johnrush](https://x.com/johnrush/status/2117360616424050957) (2026-11-04)
 - [jomatech](https://x.com/jomatech/status/2071058503805124918) (2026-06-28)
 - [joulee](https://x.com/joulee/status/2113740540655325375) (2026-10-29)
 - [jqdsouza](https://x.com/jqdsouza/status/2112552451547001218) (2026-10-21)
@@ -730,6 +736,7 @@ total_mentions: 842
 - [s1rozha_](https://x.com/s1rozha_/status/2087132684514455625) (2026-08-12)
 - [sacha_io](https://x.com/sacha_io/status/2094745129714135343) (2026-09-06)
 - [sahil_seth](https://x.com/sahil_seth/status/2079716698840858930) (2026-07-22)
+- [sailresearchco](https://x.com/sailresearchco/status/2117663094562242752) (2026-11-04)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [sairahul1](https://x.com/sairahul1/status/2075934382284484997) (2026-07-14)
 - [samsenchal](https://x.com/samsenchal/status/2068605085089693994) (2026-06-21)
@@ -760,6 +767,7 @@ total_mentions: 842
 - [spacedevin](https://x.com/spacedevin/status/2110355139391602903) (2026-10-15)
 - [spacedevin](https://x.com/spacedevin/status/2112096373906796957) (2026-10-20)
 - [spacedevin](https://x.com/spacedevin/status/2114719766338490810) (2026-10-27)
+- [spacedevin](https://x.com/spacedevin/status/2117643156783300853) (2026-11-04)
 - [sridharfyi](https://x.com/sridharfyi/status/2100562893758718127) (2026-09-20)
 - [sridharfyi](https://x.com/sridharfyi/status/2112778407079469263) (2026-10-21)
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)

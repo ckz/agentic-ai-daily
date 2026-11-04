@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-11-03
-total_mentions: 1165
+last_seen: 2026-11-04
+total_mentions: 1176
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -199,6 +199,7 @@ total_mentions: 1165
 - [HermesWatcher](https://x.com/HermesWatcher/status/2115081092118032871) (2026-11-03)
 - [HermesWatcher](https://x.com/HermesWatcher/status/2116621114969571509) (2026-11-01)
 - [HermesWatcher](https://x.com/HermesWatcher/status/2117225485587595275) (2026-11-03)
+- [HermesWatcher](https://x.com/HermesWatcher/status/2117678505513406549) (2026-11-04)
 - [HexRaysSA](https://x.com/HexRaysSA/status/2103896696027807843) (2026-09-27)
 - [HeyAbhishek](https://x.com/HeyAbhishek/status/2093718063946637316) (2026-08-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
@@ -445,6 +446,7 @@ total_mentions: 1165
 - [Xudong07452910](https://x.com/Xudong07452910/status/2090968445378814364) (2026-08-22)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2095668162624618959) (2026-09-05)
 - [Y0urDumble](https://x.com/Y0urDumble/status/2115193601458151552) (2026-10-29)
+- [Y0urDumble](https://x.com/Y0urDumble/status/2116341413755453670) (2026-11-04)
 - [YassirL2o](https://x.com/YassirL2o/status/2106032588892615142) (2026-10-04)
 - [YorichiiCrypto](https://x.com/YorichiiCrypto/status/2107563475555823957) (2026-10-07)
 - [ZHENXINYU](https://x.com/ZHENXINYU/status/2064950271906889746) (2026-06-11)
@@ -522,6 +524,7 @@ total_mentions: 1165
 - [amihai](https://x.com/amihai/status/2109353663030300799) (2026-10-13)
 - [amisha_explains](https://x.com/amisha_explains/status/2103526005193199869) (2026-09-26)
 - [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)
+- [amix3k](https://x.com/amix3k/status/2117629253176922611) (2026-11-04)
 - [amplifiedamp](https://x.com/amplifiedamp/status/2091639162122211601) (2026-08-24)
 - [andrelandgraf](https://x.com/andrelandgraf/status/2097425311545897174) (2026-09-14)
 - [angeldot_](https://x.com/angeldot_/status/2068306517258907873) (2026-06-21)
@@ -543,6 +546,7 @@ total_mentions: 1165
 - [argofowl](https://x.com/argofowl/status/2106789987907940538) (2026-10-05)
 - [arle0x](https://x.com/arle0x/status/2092990555923914804) (2026-08-28)
 - [arnaudmercier](https://x.com/arnaudmercier/status/2072179223339348311) (2026-07-01)
+- [arthurquerou](https://x.com/arthurquerou/status/2117634346580427168) (2026-11-04)
 - [arvidkahl](https://x.com/arvidkahl/status/2100687572171153758) (2026-09-21)
 - [aryanXmahajan](https://x.com/aryanXmahajan/status/2067677589247082656) (2026-06-19)
 - [ashiqur_ai](https://x.com/ashiqur_ai/status/2068572009676804246) (2026-06-21)
@@ -579,6 +583,7 @@ total_mentions: 1165
 - [cTrader](https://x.com/cTrader/status/2062503096375263532) (2026-06-05)
 - [calbuldelis69](https://x.com/calbuldelis69/status/2109705355798384767) (2026-10-13)
 - [calcsam](https://x.com/calcsam/status/2115133696105955391) (2026-10-28)
+- [calebcanales_](https://x.com/calebcanales_/status/2117677337584304462) (2026-11-04)
 - [caspar_br](https://x.com/caspar_br/status/2113382598785532211) (2026-10-23)
 - [cb_doge](https://x.com/cb_doge/status/2093024115620004154) (2026-08-28)
 - [cb_doge](https://x.com/cb_doge/status/2093481818544844864) (2026-08-29)
@@ -616,6 +621,7 @@ total_mentions: 1165
 - [cooltechtipz](https://x.com/cooltechtipz/status/2066394613410406460) (2026-06-15)
 - [coreyganim](https://x.com/coreyganim/status/2110762436387070195) (2026-10-17)
 - [coreyganim](https://x.com/coreyganim/status/2111125165731930542) (2026-10-17)
+- [creativedash](https://x.com/creativedash/status/2117800127675109468) (2026-11-04)
 - [cryptobuzzer03](https://x.com/cryptobuzzer03/status/2067855094327001574) (2026-06-19)
 - [ctatedev](https://x.com/ctatedev/status/2115835185816289372) (2026-10-31)
 - [cursor_ai](https://x.com/cursor_ai/status/2085464617694777762) (2026-08-07)
@@ -730,6 +736,7 @@ total_mentions: 1165
 - [gippp69](https://x.com/gippp69/status/2089315791669805154) (2026-08-18)
 - [gkisokay](https://x.com/gkisokay/status/1931559290382459105) (2026-10-20)
 - [gkxspace](https://x.com/gkxspace/status/2068546908360999331) (2026-06-21)
+- [godsystemsmd](https://x.com/godsystemsmd/status/2117620332060172594) (2026-11-04)
 - [gokulr](https://x.com/gokulr/status/2066673493811601737) (2026-06-21)
 - [gokulr](https://x.com/gokulr/status/2082145789372137749) (2026-08-02)
 - [googlegemma](https://x.com/googlegemma/status/2097731661953917185) (2026-09-16)
@@ -821,6 +828,7 @@ total_mentions: 1165
 - [kevinzhow](https://x.com/kevinzhow/status/2105187162069291334) (2026-10-01)
 - [kgoedecke](https://x.com/kgoedecke/status/2116671954166129052) (2026-11-01)
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
+- [kirtandopamine](https://x.com/kirtandopamine/status/2117678349828976746) (2026-11-04)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [kunalstwt](https://x.com/kunalstwt/status/2073978095644643520) (2026-07-06)
 - [leopardracer](https://x.com/leopardracer/status/2096537453804876205) (2026-09-10)
@@ -846,6 +854,7 @@ total_mentions: 1165
 - [mackody_](https://x.com/mackody_/status/2075285372515528906) (2026-07-11)
 - [macrodotcom](https://x.com/macrodotcom/status/2086843485898887523) (2026-08-12)
 - [maestro__dev](https://x.com/maestro__dev/status/2104303293178728703) (2026-09-28)
+- [maestrooth](https://x.com/maestrooth/status/2117321301761110314) (2026-11-04)
 - [magnific](https://x.com/magnific/status/2064346257330675798) (2026-06-10)
 - [mahanot_dikshit](https://x.com/mahanot_dikshit/status/2104832455362646379) (2026-09-29)
 - [maixbt](https://x.com/maixbt/status/2114840031114531187) (2026-11-02)
@@ -928,6 +937,7 @@ total_mentions: 1165
 - [opensourcelab9](https://x.com/opensourcelab9/status/2095338504494698887) (2026-09-05)
 - [opensourcelab9](https://x.com/opensourcelab9/status/2108807243240198157) (2026-10-11)
 - [orbiodotso](https://x.com/orbiodotso/status/2094805455352836138) (2026-09-03)
+- [orenfinance_](https://x.com/orenfinance_/status/2117882688619364529) (2026-11-04)
 - [ossphere_dev](https://x.com/ossphere_dev/status/2068219798438461644) (2026-06-20)
 - [ox_aryan1](https://x.com/ox_aryan1/status/2096104089600000320) (2026-09-05)
 - [p12_hunter](https://x.com/p12_hunter/status/2100311522383684071) (2026-09-20)
@@ -992,6 +1002,7 @@ total_mentions: 1165
 - [ryanvogel](https://x.com/ryanvogel/status/2099229934250050033) (2026-09-19)
 - [ryouxbt](https://x.com/ryouxbt/status/2115111318541783228) (2026-10-31)
 - [s1rozha_](https://x.com/s1rozha_/status/2087132684514455625) (2026-08-12)
+- [s4yonnara](https://x.com/s4yonnara/status/2116286728872792488) (2026-11-04)
 - [s4yonnara](https://x.com/s4yonnara/status/2116992286764790064) (2026-11-02)
 - [s4yonnara](https://x.com/s4yonnara/status/2117359340931686839) (2026-11-03)
 - [sabanci_ata](https://x.com/sabanci_ata/status/2099927513346547961) (2026-09-16)

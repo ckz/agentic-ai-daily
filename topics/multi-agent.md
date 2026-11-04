@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-11-03
-total_mentions: 418
+last_seen: 2026-11-04
+total_mentions: 420
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -149,6 +149,7 @@ total_mentions: 418
 - [LunarResearcher](https://x.com/LunarResearcher/status/2095483630961275019) (2026-09-04)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2090697430756904964) (2026-08-23)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2092142425879855254) (2026-08-28)
+- [MarcoSalzmann80](https://x.com/MarcoSalzmann80/status/2104518722400522384) (2026-11-04)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
 - [Marlenuii](https://x.com/Marlenuii/status/2113591960476742054) (2026-10-30)
 - [MaxForAI](https://x.com/MaxForAI/status/2098334720677282098) (2026-09-13)
@@ -358,6 +359,7 @@ total_mentions: 418
 - [rosenacry](https://x.com/rosenacry/status/2109343300985479239) (2026-10-31)
 - [ryouxbt](https://x.com/ryouxbt/status/2115111318541783228) (2026-10-31)
 - [s1rozha_](https://x.com/s1rozha_/status/2078210026410303927) (2026-07-18)
+- [s4yonnara](https://x.com/s4yonnara/status/2116286728872792488) (2026-11-04)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [sairahul1](https://x.com/sairahul1/status/2077326742218539296) (2026-07-18)
 - [sairahul1](https://x.com/sairahul1/status/2078004461218484440) (2026-07-18)

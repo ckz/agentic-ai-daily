@@ -1,8 +1,8 @@
 # Browser Use
 
 first_seen: 2026-06-07
-last_seen: 2026-11-03
-total_mentions: 56
+last_seen: 2026-11-04
+total_mentions: 57
 
 ## Related Tweets
 - [0xSero](https://x.com/0xSero/status/2106844590376645117) (2026-10-09)
@@ -52,6 +52,7 @@ total_mentions: 56
 - [mfishbein](https://x.com/mfishbein/status/2081031938228232360) (2026-07-27)
 - [mvanhorn](https://x.com/mvanhorn/status/2100788572316139655) (2026-09-18)
 - [omarsar0](https://x.com/omarsar0/status/1715491139053121839) (2026-09-08)
+- [omooretweets](https://x.com/omooretweets/status/2117784346430197880) (2026-11-04)
 - [sauda_coder](https://x.com/sauda_coder/status/2078463245657211007) (2026-07-20)
 - [thdxr](https://x.com/thdxr/status/2100288951978164647) (2026-09-19)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2107169457365725616) (2026-10-06)

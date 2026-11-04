@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-03
-total_mentions: 140
+last_seen: 2026-11-04
+total_mentions: 141
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -13,6 +13,7 @@ total_mentions: 140
 - [AISafetyMemes](https://x.com/AISafetyMemes/status/2087549262427263014) (2026-08-15)
 - [AYi_AInotes](https://x.com/AYi_AInotes/status/2097642459341722045) (2026-09-12)
 - [AiGenesisdotfun](https://x.com/AiGenesisdotfun/status/2079014502914195457) (2026-07-20)
+- [AidenChaoyangHe](https://x.com/AidenChaoyangHe/status/2117613537929703708) (2026-11-04)
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2111463390233432181) (2026-10-18)
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2117150813403730105) (2026-11-03)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2070541643518775354) (2026-06-27)

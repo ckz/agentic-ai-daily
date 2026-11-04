@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-03
-total_mentions: 331
+last_seen: 2026-11-04
+total_mentions: 333
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -174,6 +174,7 @@ total_mentions: 331
 - [cartertran_](https://x.com/cartertran_/status/2110450865366614489) (2026-10-15)
 - [carverfomo](https://x.com/carverfomo/status/2064338010242490662) (2026-06-10)
 - [celineodier](https://x.com/celineodier/status/2094079187904610504) (2026-09-01)
+- [ch3nweiii](https://x.com/ch3nweiii/status/2117706928474161301) (2026-11-04)
 - [chasen_liao](https://x.com/chasen_liao/status/2111018007434858537) (2026-10-22)
 - [choopyplug1](https://x.com/choopyplug1/status/2114474303190086018) (2026-11-01)
 - [clapilot](https://x.com/clapilot/status/2063509258461642879) (2026-06-07)
@@ -230,6 +231,7 @@ total_mentions: 331
 - [gregisenberg](https://x.com/gregisenberg/status/2086534549341610457) (2026-08-12)
 - [gregisenberg](https://x.com/gregisenberg/status/2088988857417044432) (2026-08-17)
 - [gregisenberg](https://x.com/gregisenberg/status/2099202686377742576) (2026-09-15)
+- [hany99dev](https://x.com/hany99dev/status/2117679730594119745) (2026-11-04)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [hasantoxr](https://x.com/hasantoxr/status/2110043923121045708) (2026-10-18)
 - [hayatomaruu](https://x.com/hayatomaruu/status/2107560089833849101) (2026-10-07)
