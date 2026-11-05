@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-04
-total_mentions: 644
+last_seen: 2026-11-05
+total_mentions: 648
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -308,6 +308,7 @@ total_mentions: 644
 - [XFreeze](https://x.com/XFreeze/status/2099741633868865621) (2026-09-15)
 - [XiaomiMiMo](https://x.com/XiaomiMiMo/status/2064799879352959085) (2026-06-11)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2095668162624618959) (2026-09-05)
+- [YanErrol168](https://x.com/YanErrol168/status/2118227231562498500) (2026-11-05)
 - [Yuchenj_UW](https://x.com/Yuchenj_UW/status/2070928299744972814) (2026-06-30)
 - [Zev_ee](https://x.com/Zev_ee/status/2068562546601476174) (2026-06-21)
 - [Ziven_Coder](https://x.com/Ziven_Coder/status/2078482313986642122) (2026-07-30)
@@ -383,6 +384,7 @@ total_mentions: 644
 - [businessbarista](https://x.com/businessbarista/status/2094213970215231831) (2026-08-31)
 - [businessbarista](https://x.com/businessbarista/status/2097478065723162959) (2026-09-09)
 - [businessbarista](https://x.com/businessbarista/status/2114864181937586359) (2026-10-28)
+- [capttaco](https://x.com/capttaco/status/2118001155842449602) (2026-11-05)
 - [carm1nee](https://x.com/carm1nee/status/2115936358003052667) (2026-11-02)
 - [cb_doge](https://x.com/cb_doge/status/2076291436283396496) (2026-07-18)
 - [chandan1_](https://x.com/chandan1_/status/1874874423062278335) (2026-07-10)
@@ -529,6 +531,7 @@ total_mentions: 644
 - [ordo_chain](https://x.com/ordo_chain/status/2073312746381181174) (2026-07-04)
 - [oscarsuiza](https://x.com/oscarsuiza/status/2107727744029073859) (2026-10-07)
 - [owengretzinger](https://x.com/owengretzinger/status/2109846365065052351) (2026-10-13)
+- [painter_ja96705](https://x.com/painter_ja96705/status/2118197692870643911) (2026-11-05)
 - [paywithmana](https://x.com/paywithmana/status/2074758476220473387) (2026-07-08)
 - [petergyang](https://x.com/petergyang/status/2083917722765947284) (2026-08-04)
 - [petergyang](https://x.com/petergyang/status/2099139853170733280) (2026-09-14)
@@ -605,6 +608,7 @@ total_mentions: 644
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109977469927244158) (2026-10-17)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2115065255835627540) (2026-10-29)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2115413286829298029) (2026-10-29)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2117225221971415403) (2026-11-05)
 - [techNmak](https://x.com/techNmak/status/2090689729461411951) (2026-08-25)
 - [techNmak](https://x.com/techNmak/status/2091434187446439969) (2026-08-24)
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)

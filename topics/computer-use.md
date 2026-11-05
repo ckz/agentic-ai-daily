@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-11-04
-total_mentions: 185
+last_seen: 2026-11-05
+total_mentions: 188
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
@@ -88,6 +88,7 @@ total_mentions: 185
 - [ataiiam](https://x.com/ataiiam/status/2115097056394240293) (2026-10-28)
 - [awlevin](https://x.com/awlevin/status/2100262612428894676) (2026-09-17)
 - [bcherny](https://x.com/bcherny/status/2095378890370019683) (2026-09-06)
+- [blackanger](https://x.com/blackanger/status/2118043007413104810) (2026-11-05)
 - [bode_sule](https://x.com/bode_sule/status/2114225364717482179) (2026-10-25)
 - [businessbarista](https://x.com/businessbarista/status/2101061801571938529) (2026-09-22)
 - [chaotictransfem](https://x.com/chaotictransfem/status/2105011559756181620) (2026-09-30)
@@ -129,6 +130,7 @@ total_mentions: 185
 - [jkelleyrtp](https://x.com/jkelleyrtp/status/2101364551296143772) (2026-09-20)
 - [jxnlco](https://x.com/jxnlco/status/2070577704752267321) (2026-06-27)
 - [kirtandopamine](https://x.com/kirtandopamine/status/2117678349828976746) (2026-11-04)
+- [komkanit](https://x.com/komkanit/status/2118180735647658331) (2026-11-05)
 - [kylejeong](https://x.com/kylejeong/status/2098478826464702556) (2026-09-14)
 - [latentspacepod](https://x.com/latentspacepod/status/2105442037042663491) (2026-10-01)
 - [latentspacepod](https://x.com/latentspacepod/status/2111244257579409664) (2026-10-18)
@@ -157,6 +159,7 @@ total_mentions: 185
 - [pratikg](https://x.com/pratikg/status/2116215929961124106) (2026-11-04)
 - [pratikg](https://x.com/pratikg/status/2116383901115711897) (2026-11-04)
 - [realfxw](https://x.com/realfxw/status/2109577342179844369) (2026-10-13)
+- [rerosillo](https://x.com/rerosillo/status/2118157267925156018) (2026-11-05)
 - [rileybrown](https://x.com/rileybrown/status/2097080191163998488) (2026-09-08)
 - [rileybrown](https://x.com/rileybrown/status/2104329604471398616) (2026-09-28)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2094414982251413529) (2026-09-01)

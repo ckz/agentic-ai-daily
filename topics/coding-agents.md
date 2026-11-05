@@ -1,12 +1,13 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-04
-total_mentions: 218
+last_seen: 2026-11-05
+total_mentions: 222
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
+- [0xwhrrari](https://x.com/0xwhrrari/status/2116168249486323780) (2026-11-05)
 - [AiNicolas75316](https://x.com/AiNicolas75316/status/2079199374819914080) (2026-07-22)
 - [Aiswarya_Sankar](https://x.com/Aiswarya_Sankar/status/2117309482430812348) (2026-11-04)
 - [AlexFinn](https://x.com/AlexFinn/status/2076752798532931758) (2026-07-14)
@@ -23,6 +24,7 @@ total_mentions: 218
 - [BioAI_NeuralNet](https://x.com/BioAI_NeuralNet/status/2114161649183601012) (2026-11-01)
 - [ChromiumDev](https://x.com/ChromiumDev/status/2077874454105862423) (2026-07-17)
 - [ClementDelangue](https://x.com/ClementDelangue/status/2107120717980471638) (2026-10-07)
+- [Cointelegraph](https://x.com/Cointelegraph/status/2116885723601068339) (2026-11-05)
 - [Colhodm](https://x.com/Colhodm/status/2072373857999098214) (2026-07-02)
 - [Da7_Tech](https://x.com/Da7_Tech/status/2101526202783576510) (2026-09-20)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
@@ -45,6 +47,7 @@ total_mentions: 218
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2071971609183678544) (2026-07-01)
+- [Investingcom](https://x.com/Investingcom/status/2117023594513338615) (2026-11-05)
 - [ItsSnibby](https://x.com/ItsSnibby/status/2115465295502639441) (2026-10-29)
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
 - [LLMpsycho](https://x.com/LLMpsycho/status/2099473233787388049) (2026-09-20)
@@ -103,6 +106,7 @@ total_mentions: 218
 - [bcherny](https://x.com/bcherny/status/2064431111154053187) (2026-06-15)
 - [beamnxw](https://x.com/beamnxw/status/2080600136456060958) (2026-08-01)
 - [beamnxw](https://x.com/beamnxw/status/2111778402264822052) (2026-10-19)
+- [beamnxw](https://x.com/beamnxw/status/2117972857632227765) (2026-11-05)
 - [ben_burtenshaw](https://x.com/ben_burtenshaw/status/2098410420394451153) (2026-09-12)
 - [bindureddy](https://x.com/bindureddy/status/2076165296977858836) (2026-07-12)
 - [braintrust](https://x.com/braintrust/status/2095537795838144919) (2026-09-09)

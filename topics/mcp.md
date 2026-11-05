@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-11-04
-total_mentions: 1176
+last_seen: 2026-11-05
+total_mentions: 1187
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -28,6 +28,7 @@ total_mentions: 1176
 - [0xrux](https://x.com/0xrux/status/2089047128857284967) (2026-08-18)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2063244577482440978) (2026-06-11)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2083305262035632347) (2026-08-02)
+- [0xwhrrari](https://x.com/0xwhrrari/status/2116168249486323780) (2026-11-05)
 - [51bodila](https://x.com/51bodila/status/2085020463290290504) (2026-08-06)
 - [ABAOProductions](https://x.com/ABAOProductions/status/2113284807056556198) (2026-10-23)
 - [AIWarper](https://x.com/AIWarper/status/2070535586075885912) (2026-06-27)
@@ -272,6 +273,7 @@ total_mentions: 1176
 - [MiguelMaestroIA](https://x.com/MiguelMaestroIA/status/2080703728945176833) (2026-07-26)
 - [MiniMax_AI](https://x.com/MiniMax_AI/status/2061266317815296322) (2026-06-05)
 - [MishariAldulimi](https://x.com/MishariAldulimi/status/2109705411880243603) (2026-10-16)
+- [MishariAldulimi](https://x.com/MishariAldulimi/status/2116438437251211373) (2026-11-05)
 - [Mnilax](https://x.com/Mnilax/status/2109716261160538324) (2026-10-13)
 - [Mnilax](https://x.com/Mnilax/status/2110039818524660135) (2026-10-15)
 - [Mnilax](https://x.com/Mnilax/status/2110382356028686598) (2026-10-18)
@@ -354,6 +356,7 @@ total_mentions: 1176
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2106319598492545245) (2026-10-05)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2111717667228770611) (2026-10-19)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2115666184888537433) (2026-10-29)
+- [RunOpsec](https://x.com/RunOpsec/status/2117763497039892565) (2026-11-05)
 - [Ryrenz](https://x.com/Ryrenz/status/2096041123517001750) (2026-09-05)
 - [S0N_IA](https://x.com/S0N_IA/status/2078494824982863884) (2026-07-20)
 - [S0N_IA](https://x.com/S0N_IA/status/2093745814241747046) (2026-08-30)
@@ -417,6 +420,7 @@ total_mentions: 1176
 - [TheTuringPost](https://x.com/TheTuringPost/status/2081543865488855258) (2026-07-27)
 - [TopviewAIhq](https://x.com/TopviewAIhq/status/2080276190980444612) (2026-07-24)
 - [UnTalNixon_exe](https://x.com/UnTalNixon_exe/status/2088051348331762012) (2026-08-16)
+- [UnrealEngine](https://x.com/UnrealEngine/status/2118025496571367475) (2026-11-05)
 - [UnslothAI](https://x.com/UnslothAI/status/2087177146662072546) (2026-08-12)
 - [V8X_Team](https://x.com/V8X_Team/status/2076066812458885461) (2026-07-12)
 - [VadimStrizheus](https://x.com/VadimStrizheus/status/2063489178348703902) (2026-06-10)
@@ -540,6 +544,7 @@ total_mentions: 1176
 - [arceyul](https://x.com/arceyul/status/2074582079807881440) (2026-07-09)
 - [arceyul](https://x.com/arceyul/status/2093257454297436194) (2026-09-04)
 - [arceyul](https://x.com/arceyul/status/2094322201604333723) (2026-09-04)
+- [archiekiing](https://x.com/archiekiing/status/2118168428699860992) (2026-11-05)
 - [architeqtai](https://x.com/architeqtai/status/2065343364166299693) (2026-06-12)
 - [aresotik](https://x.com/aresotik/status/2085055029140979860) (2026-08-06)
 - [argofowl](https://x.com/argofowl/status/2106389732322091475) (2026-10-05)
@@ -808,6 +813,7 @@ total_mentions: 1176
 - [jaimintf](https://x.com/jaimintf/status/2098137053821071642) (2026-09-11)
 - [jaimintf](https://x.com/jaimintf/status/2103529624257073238) (2026-09-26)
 - [jaimintf](https://x.com/jaimintf/status/2106554887513498066) (2026-10-05)
+- [jaimintf](https://x.com/jaimintf/status/2117662278686499104) (2026-11-05)
 - [jasontheadams](https://x.com/jasontheadams/status/2107119026191348128) (2026-10-06)
 - [jenukal](https://x.com/jenukal/status/2111865563492601949) (2026-10-19)
 - [jerryjliu0](https://x.com/jerryjliu0/status/2091564183922077885) (2026-08-24)
@@ -829,8 +835,10 @@ total_mentions: 1176
 - [kgoedecke](https://x.com/kgoedecke/status/2116671954166129052) (2026-11-01)
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
 - [kirtandopamine](https://x.com/kirtandopamine/status/2117678349828976746) (2026-11-04)
+- [kirtandopamine](https://x.com/kirtandopamine/status/2118007243429859489) (2026-11-05)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [kunalstwt](https://x.com/kunalstwt/status/2073978095644643520) (2026-07-06)
+- [kyr0stack](https://x.com/kyr0stack/status/2117991052145562080) (2026-11-05)
 - [leopardracer](https://x.com/leopardracer/status/2096537453804876205) (2026-09-10)
 - [levelsio](https://x.com/levelsio/status/2098086977186705637) (2026-09-12)
 - [levelsio](https://x.com/levelsio/status/2115796587351810138) (2026-10-30)
@@ -902,6 +910,7 @@ total_mentions: 1176
 - [milesdeutscher](https://x.com/milesdeutscher/status/2109222484553945557) (2026-10-12)
 - [minchoi](https://x.com/minchoi/status/2098793589811691560) (2026-09-13)
 - [minheo93698092](https://x.com/minheo93698092/status/2116833407175135349) (2026-11-03)
+- [mmmikhaeel](https://x.com/mmmikhaeel/status/2118046210879823905) (2026-11-05)
 - [mojeskoqq](https://x.com/mojeskoqq/status/2113623185316884826) (2026-10-24)
 - [morpheusdv](https://x.com/morpheusdv/status/2108921930791419918) (2026-10-12)
 - [motion_so](https://x.com/motion_so/status/2099542179697902025) (2026-09-16)
@@ -979,6 +988,7 @@ total_mentions: 1176
 - [rewind02](https://x.com/rewind02/status/2109661035036635291) (2026-10-19)
 - [rewind02](https://x.com/rewind02/status/2110673170122326373) (2026-10-19)
 - [rewind02](https://x.com/rewind02/status/2111393368097849615) (2026-10-19)
+- [richtabor](https://x.com/richtabor/status/2118033081508544597) (2026-11-05)
 - [ridark_eth](https://x.com/ridark_eth/status/2066216714644111431) (2026-06-15)
 - [ridark_eth](https://x.com/ridark_eth/status/2070966184967864667) (2026-06-29)
 - [ridark_eth](https://x.com/ridark_eth/status/2074254440861753628) (2026-07-07)
@@ -1073,6 +1083,7 @@ total_mentions: 1176
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109977469927244158) (2026-10-17)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2114718696551952769) (2026-11-02)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2117074214083838004) (2026-11-02)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2117225221971415403) (2026-11-05)
 - [svpino](https://x.com/svpino/status/2065079108959363290) (2026-06-12)
 - [swarms_corp](https://x.com/swarms_corp/status/2106141570047054003) (2026-10-03)
 - [systemdesignone](https://x.com/systemdesignone/status/2097389489408594192) (2026-09-09)

@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-04
-total_mentions: 333
+last_seen: 2026-11-05
+total_mentions: 336
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -51,6 +51,7 @@ total_mentions: 333
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2092984433649283284) (2026-09-01)
 - [ClementDelangue](https://x.com/ClementDelangue/status/2062982727729553913) (2026-06-05)
 - [ClementDelangue](https://x.com/ClementDelangue/status/2107120717980471638) (2026-10-07)
+- [Cointelegraph](https://x.com/Cointelegraph/status/2116885723601068339) (2026-11-05)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DanKornas](https://x.com/DanKornas/status/2063154157511418092) (2026-06-06)
 - [DanKornas](https://x.com/DanKornas/status/2071847945373192192) (2026-06-30)
@@ -80,6 +81,7 @@ total_mentions: 333
 - [HuggingPapers](https://x.com/HuggingPapers/status/2065062300218749172) (2026-06-13)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2073709900820099232) (2026-07-06)
+- [Investingcom](https://x.com/Investingcom/status/2117023594513338615) (2026-11-05)
 - [Ishh_021](https://x.com/Ishh_021/status/2111323046527312082) (2026-10-24)
 - [ItsSnibby](https://x.com/ItsSnibby/status/2115465295502639441) (2026-10-29)
 - [JJEnglert](https://x.com/JJEnglert/status/2064420538798260388) (2026-06-10)
@@ -239,6 +241,7 @@ total_mentions: 333
 - [heynavtoor](https://x.com/heynavtoor/status/2083221614595051602) (2026-08-05)
 - [huacnlee](https://x.com/huacnlee/status/2105550545939484751) (2026-10-01)
 - [huangtongxueh](https://x.com/huangtongxueh/status/2108577165306687938) (2026-10-10)
+- [huxlab](https://x.com/huxlab/status/2117087238526038392) (2026-11-05)
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
 - [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)
 - [jamonholmgren](https://x.com/jamonholmgren/status/2076001786700394610) (2026-07-12)

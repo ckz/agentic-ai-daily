@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-04
-total_mentions: 850
+last_seen: 2026-11-05
+total_mentions: 851
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
@@ -463,6 +463,7 @@ total_mentions: 850
 - [cyrilXBT](https://x.com/cyrilXBT/status/2076868034812096748) (2026-07-14)
 - [cyvanessali](https://x.com/cyvanessali/status/2114083981549515019) (2026-10-25)
 - [cz_binance](https://x.com/cz_binance/status/2113611119445373422) (2026-10-29)
+- [dApp_boi](https://x.com/dApp_boi/status/2118124694855704728) (2026-11-05)
 - [danellisona](https://x.com/danellisona/status/2108357119787631069) (2026-10-09)
 - [dang_duytan](https://x.com/dang_duytan/status/2117439948723048760) (2026-11-03)
 - [danmall](https://x.com/danmall/status/2103615627323727941) (2026-09-27)
