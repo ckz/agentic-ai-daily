@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-05
-total_mentions: 1677
+last_seen: 2026-11-06
+total_mentions: 1683
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -104,6 +104,7 @@ total_mentions: 1677
 - [AISafetyMemes](https://x.com/AISafetyMemes/status/2080815177252114667) (2026-08-06)
 - [AISafetyMemes](https://x.com/AISafetyMemes/status/2087549262427263014) (2026-08-15)
 - [AIStockSavvy](https://x.com/AIStockSavvy/status/2079941971108405580) (2026-07-25)
+- [AISystems_hq](https://x.com/AISystems_hq/status/2117973401264652324) (2026-11-06)
 - [AITECHio](https://x.com/AITECHio/status/2075852934966104133) (2026-07-12)
 - [AI_in_Asia](https://x.com/AI_in_Asia/status/2073665028629090615) (2026-07-05)
 - [AIatMeta](https://x.com/AIatMeta/status/2074577662840832382) (2026-07-08)
@@ -361,6 +362,7 @@ total_mentions: 1677
 - [Dr_Singularity](https://x.com/Dr_Singularity/status/2095235432778813918) (2026-09-03)
 - [Dzola17](https://x.com/Dzola17/status/2103778564072239219) (2026-09-27)
 - [Dzola17](https://x.com/Dzola17/status/2104433618244563152) (2026-09-28)
+- [Dzola17](https://x.com/Dzola17/status/2118324858467856879) (2026-11-06)
 - [ELANGO27RAJ](https://x.com/ELANGO27RAJ/status/2118211924907446382) (2026-11-05)
 - [ET_Edge](https://x.com/ET_Edge/status/2083446599729254520) (2026-08-01)
 - [EaStEnRaY1](https://x.com/EaStEnRaY1/status/2116365106934333555) (2026-11-04)
@@ -451,6 +453,7 @@ total_mentions: 1677
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2081879304669941989) (2026-07-28)
 - [Investingcom](https://x.com/Investingcom/status/2117023594513338615) (2026-11-05)
 - [ItsSnibby](https://x.com/ItsSnibby/status/2115465295502639441) (2026-10-29)
+- [IvanRomanteev](https://x.com/IvanRomanteev/status/2117899963837636728) (2026-11-06)
 - [JCMH_ETH](https://x.com/JCMH_ETH/status/2076935191226916990) (2026-07-14)
 - [JJEnglert](https://x.com/JJEnglert/status/2064420538798260388) (2026-06-10)
 - [Jadzo1_](https://x.com/Jadzo1_/status/2072437174071636126) (2026-07-02)
@@ -698,6 +701,7 @@ total_mentions: 1677
 - [SaurabhDub28465](https://x.com/SaurabhDub28465/status/2063452536972124604) (2026-06-07)
 - [SawyerMerritt](https://x.com/SawyerMerritt/status/2071002354636202324) (2026-07-03)
 - [SciFi](https://x.com/SciFi/status/2110997214726123929) (2026-10-16)
+- [SciFi](https://x.com/SciFi/status/2118525619923263709) (2026-11-06)
 - [SciTechera](https://x.com/SciTechera/status/2078618875412017651) (2026-07-20)
 - [SciTechera](https://x.com/SciTechera/status/2087580473560269065) (2026-08-16)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
@@ -1455,6 +1459,7 @@ total_mentions: 1677
 - [recogard](https://x.com/recogard/status/2085077708539560214) (2026-08-11)
 - [reduansheikh11](https://x.com/reduansheikh11/status/2111064864093503919) (2026-10-17)
 - [reflection_ai](https://x.com/reflection_ai/status/2107186849370247235) (2026-10-06)
+- [refrip98](https://x.com/refrip98/status/2117980978786537682) (2026-11-06)
 - [remp0x](https://x.com/remp0x/status/2065261778682937639) (2026-06-12)
 - [reppo](https://x.com/reppo/status/2061624006693040128) (2026-06-06)
 - [rerosillo](https://x.com/rerosillo/status/2118157267925156018) (2026-11-05)
@@ -1589,6 +1594,7 @@ total_mentions: 1677
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2115413286829298029) (2026-10-29)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2117074214083838004) (2026-11-02)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2117225221971415403) (2026-11-05)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2117587605982527581) (2026-11-06)
 - [svonava](https://x.com/svonava/status/2117664970762846449) (2026-11-04)
 - [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)
 - [swyx](https://x.com/swyx/status/2076155833428431012) (2026-07-12)

@@ -1,10 +1,11 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-11-05
-total_mentions: 188
+last_seen: 2026-11-06
+total_mentions: 191
 
 ## Related Tweets
+- [0x0SojalSec](https://x.com/0x0SojalSec/status/2118133694217306408) (2026-11-06)
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
 - [AdamShao](https://x.com/AdamShao/status/2097111709076910081) (2026-09-11)
@@ -112,6 +113,7 @@ total_mentions: 188
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
 - [ehsanik](https://x.com/ehsanik/status/2070544602164330561) (2026-06-27)
 - [evilrabbit_](https://x.com/evilrabbit_/status/2116581580995194985) (2026-11-01)
+- [figbrains](https://x.com/figbrains/status/2118372778453647601) (2026-11-06)
 - [finnvoorhees](https://x.com/finnvoorhees/status/2108279639538012265) (2026-10-09)
 - [gkxspace](https://x.com/gkxspace/status/2068546908360999331) (2026-06-21)
 - [gregisenberg](https://x.com/gregisenberg/status/2104613420460822745) (2026-10-05)
@@ -178,6 +180,7 @@ total_mentions: 188
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2107327491702509755) (2026-10-09)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109977469927244158) (2026-10-17)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2114718696551952769) (2026-11-02)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2117587605982527581) (2026-11-06)
 - [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)
 - [sxhivs](https://x.com/sxhivs/status/2101729362194432184) (2026-09-21)
 - [theapplehub](https://x.com/theapplehub/status/2114792894863442255) (2026-10-27)

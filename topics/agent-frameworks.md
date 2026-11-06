@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-05
-total_mentions: 648
+last_seen: 2026-11-06
+total_mentions: 654
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -19,6 +19,7 @@ total_mentions: 648
 - [5eniorDeveloper](https://x.com/5eniorDeveloper/status/2097029277434757251) (2026-09-08)
 - [AIHighlight](https://x.com/AIHighlight/status/2072712459857645721) (2026-07-04)
 - [AIStockSavvy](https://x.com/AIStockSavvy/status/2079941971108405580) (2026-07-25)
+- [AISystems_hq](https://x.com/AISystems_hq/status/2117973401264652324) (2026-11-06)
 - [AI_in_Asia](https://x.com/AI_in_Asia/status/2073665028629090615) (2026-07-05)
 - [AIatMeta](https://x.com/AIatMeta/status/2090505413817246050) (2026-08-23)
 - [AIonBase_](https://x.com/AIonBase_/status/2019752568595833185) (2026-07-10)
@@ -164,6 +165,7 @@ total_mentions: 648
 - [HackingDave](https://x.com/HackingDave/status/2069146467701256423) (2026-06-29)
 - [HarryBee_Yhu](https://x.com/HarryBee_Yhu/status/2067864020527292535) (2026-06-19)
 - [HelgaHinojosa](https://x.com/HelgaHinojosa/status/2110221824608862378) (2026-10-14)
+- [HelgaHinojosa](https://x.com/HelgaHinojosa/status/2118574028294144214) (2026-11-06)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2103804240866976237) (2026-09-27)
@@ -179,6 +181,7 @@ total_mentions: 648
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)
 - [InfosecVandana](https://x.com/InfosecVandana/status/2096568141451297103) (2026-09-09)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2073709900820099232) (2026-07-06)
+- [IvanRomanteev](https://x.com/IvanRomanteev/status/2117899963837636728) (2026-11-06)
 - [Jadzo1_](https://x.com/Jadzo1_/status/2072437174071636126) (2026-07-02)
 - [JaynitMakwana](https://x.com/JaynitMakwana/status/2078419436554625340) (2026-07-19)
 - [JesseisCooking](https://x.com/JesseisCooking/status/2103383326543495485) (2026-10-01)
@@ -258,6 +261,7 @@ total_mentions: 648
 - [Rukkssss__](https://x.com/Rukkssss__/status/2068218163414642701) (2026-06-20)
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2063086140799012963) (2026-06-06)
 - [SciFi](https://x.com/SciFi/status/2110997214726123929) (2026-10-16)
+- [SciFi](https://x.com/SciFi/status/2118525619923263709) (2026-11-06)
 - [SciTechera](https://x.com/SciTechera/status/2087580473560269065) (2026-08-16)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
 - [Seltaa_](https://x.com/Seltaa_/status/2088353576259314024) (2026-08-19)
@@ -412,6 +416,7 @@ total_mentions: 648
 - [dair_ai](https://x.com/dair_ai/status/2097022152088445034) (2026-09-08)
 - [dan__rosenthal](https://x.com/dan__rosenthal/status/2115156692627251542) (2026-10-28)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
+- [de1lymoon](https://x.com/de1lymoon/status/2118347988028346702) (2026-11-06)
 - [deezzex](https://x.com/deezzex/status/2114306170072473919) (2026-10-28)
 - [devXritesh](https://x.com/devXritesh/status/2107075587529396377) (2026-10-10)
 - [dexhorthy](https://x.com/dexhorthy/status/2067286892786454855) (2026-06-19)
@@ -554,6 +559,7 @@ total_mentions: 648
 - [riskfreemyth](https://x.com/riskfreemyth/status/2074508129346486679) (2026-07-08)
 - [robrtcode](https://x.com/robrtcode/status/2108476789018259565) (2026-10-10)
 - [rohit4verse](https://x.com/rohit4verse/status/2083284519550136641) (2026-08-01)
+- [rseroter](https://x.com/rseroter/status/2118391337213161746) (2026-11-06)
 - [rustaceans_rs](https://x.com/rustaceans_rs/status/2095655918956372209) (2026-09-08)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
 - [s4yonnara](https://x.com/s4yonnara/status/2116286728872792488) (2026-11-04)

@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-05
-total_mentions: 336
+last_seen: 2026-11-06
+total_mentions: 339
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -20,6 +20,7 @@ total_mentions: 336
 - [51bodila](https://x.com/51bodila/status/2085020463290290504) (2026-08-06)
 - [AEON_Community](https://x.com/AEON_Community/status/2064694068677107745) (2026-06-11)
 - [AISecurityInst](https://x.com/AISecurityInst/status/2084746202579386632) (2026-08-06)
+- [AISystems_hq](https://x.com/AISystems_hq/status/2117973401264652324) (2026-11-06)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2095414392557068291) (2026-09-04)
 - [AdelDeveloperX](https://x.com/AdelDeveloperX/status/2074195359199375745) (2026-07-07)
 - [AiForAmericans](https://x.com/AiForAmericans/status/2102751457279918346) (2026-09-25)
@@ -59,11 +60,13 @@ total_mentions: 336
 - [DanKornas](https://x.com/DanKornas/status/2103427788145381798) (2026-10-01)
 - [DanKornas](https://x.com/DanKornas/status/2107368759723766234) (2026-10-07)
 - [DanKornas](https://x.com/DanKornas/status/2108705076235685959) (2026-10-11)
+- [DanKornas](https://x.com/DanKornas/status/2118084861789376970) (2026-11-06)
 - [DataChaz](https://x.com/DataChaz/status/2075204287223697636) (2026-07-11)
 - [DealsDhamaka](https://x.com/DealsDhamaka/status/2074664290293080496) (2026-07-08)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2116143104390787517) (2026-10-31)
+- [Dzola17](https://x.com/Dzola17/status/2118324858467856879) (2026-11-06)
 - [EXM7777](https://x.com/EXM7777/status/2086512844594679820) (2026-08-14)
 - [FReza1984](https://x.com/FReza1984/status/2096123028774252831) (2026-09-05)
 - [Faazsh](https://x.com/Faazsh/status/2068572996076540315) (2026-06-21)

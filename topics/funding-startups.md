@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-05
-total_mentions: 851
+last_seen: 2026-11-06
+total_mentions: 855
 
 ## Related Tweets
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
@@ -88,6 +88,7 @@ total_mentions: 851
 - [Chairman_DN](https://x.com/Chairman_DN/status/2110446764289638507) (2026-10-20)
 - [ChiefEngineerCE](https://x.com/ChiefEngineerCE/status/2080146134128021841) (2026-07-23)
 - [ChiemeOnah7812](https://x.com/ChiemeOnah7812/status/2068216698759475604) (2026-06-20)
+- [ChrisJBakke](https://x.com/ChrisJBakke/status/2115987252178469313) (2026-11-06)
 - [ClaraChengGo](https://x.com/ClaraChengGo/status/2114865969780937071) (2026-10-27)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2080009523952263295) (2026-07-29)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2093480630801858750) (2026-08-29)
@@ -214,6 +215,7 @@ total_mentions: 851
 - [NFT_Chen](https://x.com/NFT_Chen/status/2090276530962461131) (2026-08-22)
 - [NKLinhzk](https://x.com/NKLinhzk/status/2102924602301350339) (2026-09-25)
 - [NamanyayG](https://x.com/NamanyayG/status/2114213361793839181) (2026-10-25)
+- [NamanyayG](https://x.com/NamanyayG/status/2117859611818533283) (2026-11-06)
 - [Nancy__Diazz](https://x.com/Nancy__Diazz/status/2106851598924403130) (2026-10-05)
 - [NextLvlFunded](https://x.com/NextLvlFunded/status/2061795412986728637) (2026-06-05)
 - [Nim_Ravid1](https://x.com/Nim_Ravid1/status/2077785419912188236) (2026-07-17)
@@ -769,6 +771,7 @@ total_mentions: 851
 - [spacedevin](https://x.com/spacedevin/status/2112096373906796957) (2026-10-20)
 - [spacedevin](https://x.com/spacedevin/status/2114719766338490810) (2026-10-27)
 - [spacedevin](https://x.com/spacedevin/status/2117643156783300853) (2026-11-04)
+- [spacedevin](https://x.com/spacedevin/status/2118404772357358001) (2026-11-06)
 - [sridharfyi](https://x.com/sridharfyi/status/2100562893758718127) (2026-09-20)
 - [sridharfyi](https://x.com/sridharfyi/status/2112778407079469263) (2026-10-21)
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
@@ -784,6 +787,7 @@ total_mentions: 851
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2108852541622493365) (2026-10-11)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109177179221184993) (2026-10-11)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109690568590635440) (2026-10-15)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2116478856320159910) (2026-11-06)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
 - [tankots](https://x.com/tankots/status/2089372674644713664) (2026-08-21)
 - [techbyhez](https://x.com/techbyhez/status/2106056726067675287) (2026-10-04)
