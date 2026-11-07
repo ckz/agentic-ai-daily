@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-06
-total_mentions: 1683
+last_seen: 2026-11-07
+total_mentions: 1690
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -148,6 +148,7 @@ total_mentions: 1683
 - [AlexFinn](https://x.com/AlexFinn/status/2007945660281360552) (2026-09-28)
 - [AlexFinn](https://x.com/AlexFinn/status/2109817698620485804) (2026-10-14)
 - [AlexFinn](https://x.com/AlexFinn/status/2110181971280433613) (2026-10-14)
+- [AlexFinn](https://x.com/AlexFinn/status/2118882927610360204) (2026-11-07)
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2111463390233432181) (2026-10-18)
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2117150813403730105) (2026-11-03)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2072719153107001836) (2026-07-03)
@@ -298,6 +299,7 @@ total_mentions: 1683
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2100804507240132984) (2026-09-23)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2101285539580371431) (2026-09-23)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2112898237699068338) (2026-10-22)
+- [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2118727922311934200) (2026-11-07)
 - [DJ_CURFEW](https://x.com/DJ_CURFEW/status/2069499429292568919) (2026-06-29)
 - [DOLAK1NG](https://x.com/DOLAK1NG/status/2000543960943530044) (2026-08-22)
 - [DamiDefi](https://x.com/DamiDefi/status/2034210979475788197) (2026-06-10)
@@ -472,6 +474,7 @@ total_mentions: 1683
 - [KaveraMolt](https://x.com/KaveraMolt/status/2066029700875739345) (2026-06-14)
 - [Kavya_learns](https://x.com/Kavya_learns/status/2090383561635639754) (2026-08-21)
 - [KhushiPatil25](https://x.com/KhushiPatil25/status/2068311907925430767) (2026-06-21)
+- [Kiiiiira777](https://x.com/Kiiiiira777/status/2118759929947328571) (2026-11-07)
 - [Kimi_Moonshot](https://x.com/Kimi_Moonshot/status/2081762978391843020) (2026-07-29)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2072425629627330995) (2026-07-02)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2072427270786994275) (2026-07-02)
@@ -591,6 +594,7 @@ total_mentions: 1683
 - [Nozelcode](https://x.com/Nozelcode/status/2098804780659286041) (2026-09-16)
 - [NuryVittachi](https://x.com/NuryVittachi/status/2085178025055031587) (2026-08-11)
 - [OSACrypto1](https://x.com/OSACrypto1/status/2093684531731603613) (2026-08-30)
+- [OfirEhrlich](https://x.com/OfirEhrlich/status/2118357800648659127) (2026-11-07)
 - [Okada_DeFi0x](https://x.com/Okada_DeFi0x/status/2070769365763449051) (2026-06-28)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/1975269391244874103) (2026-06-08)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2104993035507712318) (2026-10-02)
@@ -1196,6 +1200,7 @@ total_mentions: 1683
 - [gregisenberg](https://x.com/gregisenberg/status/1984641062527197234) (2026-07-16)
 - [gregisenberg](https://x.com/gregisenberg/status/2074287887466582072) (2026-07-07)
 - [gregisenberg](https://x.com/gregisenberg/status/2110414696037716372) (2026-10-15)
+- [grinich](https://x.com/grinich/status/2118743983912624590) (2026-11-07)
 - [gudanglifehack](https://x.com/gudanglifehack/status/2068581325767102474) (2026-06-21)
 - [gumterver100](https://x.com/gumterver100/status/2087078337235628286) (2026-08-11)
 - [hanakoxbt](https://x.com/hanakoxbt/status/2078979637804187793) (2026-07-21)
@@ -1491,6 +1496,7 @@ total_mentions: 1683
 - [rowancheung](https://x.com/rowancheung/status/1767582332964516243) (2026-08-26)
 - [rushabh96975767](https://x.com/rushabh96975767/status/2075786236451758176) (2026-07-11)
 - [ryouxbt](https://x.com/ryouxbt/status/2115111318541783228) (2026-10-31)
+- [ryouxbt](https://x.com/ryouxbt/status/2118694920068214786) (2026-11-07)
 - [s1rozha_](https://x.com/s1rozha_/status/2072341012735791157) (2026-07-02)
 - [s1rozha_](https://x.com/s1rozha_/status/2078210026410303927) (2026-07-18)
 - [s4yonnara](https://x.com/s4yonnara/status/2116992286764790064) (2026-11-02)
@@ -1539,6 +1545,7 @@ total_mentions: 1683
 - [sheemamoto](https://x.com/sheemamoto/status/2099962199573754301) (2026-09-19)
 - [sheemamoto](https://x.com/sheemamoto/status/2107220153117393404) (2026-10-12)
 - [sheemamoto](https://x.com/sheemamoto/status/2110507595928666443) (2026-10-18)
+- [shelleymaeph](https://x.com/shelleymaeph/status/2117880337401512000) (2026-11-07)
 - [sherlockdefi](https://x.com/sherlockdefi/status/2079222748572697080) (2026-07-26)
 - [shikamarutsai](https://x.com/shikamarutsai/status/2088636457938280724) (2026-08-19)
 - [shiqway92](https://x.com/shiqway92/status/2081403424986239014) (2026-07-28)

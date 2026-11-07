@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-11-06
-total_mentions: 1196
+last_seen: 2026-11-07
+total_mentions: 1203
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -13,6 +13,7 @@ total_mentions: 1196
 - [0xCodez](https://x.com/0xCodez/status/2088263101158146337) (2026-08-18)
 - [0xCodila](https://x.com/0xCodila/status/2082515252445655186) (2026-07-30)
 - [0xDesigner](https://x.com/0xDesigner/status/2105028261558493219) (2026-09-30)
+- [0xDing](https://x.com/0xDing/status/2117883383489675593) (2026-11-07)
 - [0xJokker](https://x.com/0xJokker/status/2079215128621338703) (2026-07-23)
 - [0xMiraqle](https://x.com/0xMiraqle/status/2078063315767460057) (2026-07-18)
 - [0xMorlex](https://x.com/0xMorlex/status/2083551815895798048) (2026-08-02)
@@ -126,6 +127,7 @@ total_mentions: 1196
 - [Cupang1997](https://x.com/Cupang1997/status/2117134305508065714) (2026-11-02)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2089423549379559718) (2026-08-19)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2112898237699068338) (2026-10-22)
+- [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2118727922311934200) (2026-11-07)
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DanKornas](https://x.com/DanKornas/status/2063154157511418092) (2026-06-06)
 - [DanKornas](https://x.com/DanKornas/status/2077488623125971059) (2026-07-16)
@@ -164,6 +166,7 @@ total_mentions: 1196
 - [EHuanglu](https://x.com/EHuanglu/status/2097399073951322516) (2026-09-13)
 - [EXM7777](https://x.com/EXM7777/status/2087176716901023834) (2026-08-13)
 - [ElevenCreative](https://x.com/ElevenCreative/status/2110747896819929300) (2026-10-16)
+- [ElevenCreative](https://x.com/ElevenCreative/status/2117980490661785753) (2026-11-07)
 - [ElevenLabs](https://x.com/ElevenLabs/status/2099547227223908568) (2026-09-18)
 - [Emdad_AI](https://x.com/Emdad_AI/status/2091364911628910857) (2026-08-23)
 - [EngMoElgaraihy](https://x.com/EngMoElgaraihy/status/2083197718818611544) (2026-08-02)
@@ -303,6 +306,7 @@ total_mentions: 1196
 - [NousResearch](https://x.com/NousResearch/status/2092326815193055681) (2026-08-27)
 - [NowledgeMem](https://x.com/NowledgeMem/status/2115103710334566562) (2026-10-30)
 - [OfirEhrlich](https://x.com/OfirEhrlich/status/2107124107464905058) (2026-10-07)
+- [OfirEhrlich](https://x.com/OfirEhrlich/status/2118357800648659127) (2026-11-07)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2085398373511918022) (2026-08-07)
 - [OpenCodeLog](https://x.com/OpenCodeLog/status/2102579844521328822) (2026-09-26)
 - [OpenRouter](https://x.com/OpenRouter/status/2070160491360780798) (2026-06-27)
@@ -917,6 +921,7 @@ total_mentions: 1196
 - [minchoi](https://x.com/minchoi/status/2098793589811691560) (2026-09-13)
 - [minheo93698092](https://x.com/minheo93698092/status/2116833407175135349) (2026-11-03)
 - [mmmikhaeel](https://x.com/mmmikhaeel/status/2118046210879823905) (2026-11-05)
+- [moalsufi](https://x.com/moalsufi/status/2118932471559405786) (2026-11-07)
 - [mojeskoqq](https://x.com/mojeskoqq/status/2113623185316884826) (2026-10-24)
 - [morpheusdv](https://x.com/morpheusdv/status/2108921930791419918) (2026-10-12)
 - [motion_so](https://x.com/motion_so/status/2099542179697902025) (2026-09-16)
@@ -925,6 +930,7 @@ total_mentions: 1196
 - [mxstbr](https://x.com/mxstbr/status/2104992334438154414) (2026-09-30)
 - [mxstbr](https://x.com/mxstbr/status/2105091392011948221) (2026-09-30)
 - [mxstbr](https://x.com/mxstbr/status/2107515035610431911) (2026-10-09)
+- [nacho_gorriti_](https://x.com/nacho_gorriti_/status/2118724299033026628) (2026-11-07)
 - [namcios](https://x.com/namcios/status/2111128876969570366) (2026-10-17)
 - [naru_pub](https://x.com/naru_pub/status/2116711865338540268) (2026-11-01)
 - [nateberkopec](https://x.com/nateberkopec/status/2099995262802641129) (2026-09-19)
@@ -1121,6 +1127,7 @@ total_mentions: 1196
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2114739076796428729) (2026-10-28)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2115418146156736697) (2026-11-02)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2115876572464812071) (2026-10-31)
+- [thegreatest_sv](https://x.com/thegreatest_sv/status/2118770137646162218) (2026-11-07)
 - [theo](https://x.com/theo/status/2087280199406903762) (2026-08-12)
 - [theo](https://x.com/theo/status/2092455706582499815) (2026-08-26)
 - [theo](https://x.com/theo/status/2115409288432906341) (2026-10-29)

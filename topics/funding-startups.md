@@ -1,10 +1,11 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-06
-total_mentions: 855
+last_seen: 2026-11-07
+total_mentions: 859
 
 ## Related Tweets
+- [0x0simba_eth](https://x.com/0x0simba_eth/status/2118895661722616112) (2026-11-07)
 - [0xDith](https://x.com/0xDith/status/2109736269110726786) (2026-10-13)
 - [0xMovez](https://x.com/0xMovez/status/2115870373300326503) (2026-10-31)
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
@@ -250,6 +251,7 @@ total_mentions: 855
 - [ProfBrianCox](https://x.com/ProfBrianCox/status/2082427049109602580) (2026-08-03)
 - [RITESHGHODELA](https://x.com/RITESHGHODELA/status/2063136905282429213) (2026-06-06)
 - [RafaelFQL](https://x.com/RafaelFQL/status/2079943052261457977) (2026-07-23)
+- [RealMarvelX](https://x.com/RealMarvelX/status/2118939309990354971) (2026-11-07)
 - [RealNickMugalli](https://x.com/RealNickMugalli/status/2114725345756614889) (2026-10-27)
 - [RepThomasMassie](https://x.com/RepThomasMassie/status/2088582666157232308) (2026-09-14)
 - [Ric_RTP](https://x.com/Ric_RTP/status/2088261230054060274) (2026-08-15)
@@ -742,6 +744,7 @@ total_mentions: 855
 - [sailresearchco](https://x.com/sailresearchco/status/2117663094562242752) (2026-11-04)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [sairahul1](https://x.com/sairahul1/status/2075934382284484997) (2026-07-14)
+- [salimboujaddi](https://x.com/salimboujaddi/status/2118416905799389406) (2026-11-07)
 - [samsenchal](https://x.com/samsenchal/status/2068605085089693994) (2026-06-21)
 - [samuelcolvin](https://x.com/samuelcolvin/status/2103469459981619243) (2026-09-26)
 - [sarahzorah](https://x.com/sarahzorah/status/2108401845563806150) (2026-10-09)
@@ -853,6 +856,7 @@ total_mentions: 855
 - [ycombinator](https://x.com/ycombinator/status/2094110501475434666) (2026-09-04)
 - [ycombinator](https://x.com/ycombinator/status/2116600929382527221) (2026-11-01)
 - [yongfook](https://x.com/yongfook/status/2098268841751249188) (2026-09-11)
+- [yuchenping](https://x.com/yuchenping/status/2118017931519078609) (2026-11-07)
 - [zachbussey](https://x.com/zachbussey/status/2086833293417205910) (2026-08-13)
 - [zamdoteth](https://x.com/zamdoteth/status/2089289158145569013) (2026-08-20)
 - [zamdoteth](https://x.com/zamdoteth/status/2090000178073763951) (2026-08-20)

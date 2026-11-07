@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-06
-total_mentions: 339
+last_seen: 2026-11-07
+total_mentions: 341
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -90,6 +90,7 @@ total_mentions: 339
 - [JJEnglert](https://x.com/JJEnglert/status/2064420538798260388) (2026-06-10)
 - [JesseisCooking](https://x.com/JesseisCooking/status/2103383326543495485) (2026-10-01)
 - [Jeyxbt](https://x.com/Jeyxbt/status/2067866973497868794) (2026-06-19)
+- [Kiiiiira777](https://x.com/Kiiiiira777/status/2118759929947328571) (2026-11-07)
 - [Krishnasagrawal](https://x.com/Krishnasagrawal/status/2076370564831486040) (2026-07-14)
 - [LangChain](https://x.com/LangChain/status/2110424980337127531) (2026-10-15)
 - [LomashKumar52](https://x.com/LomashKumar52/status/2103013165009363358) (2026-09-24)
@@ -161,6 +162,7 @@ total_mentions: 339
 - [alex_verem](https://x.com/alex_verem/status/2096977799873712631) (2026-09-08)
 - [allenanalysis](https://x.com/allenanalysis/status/2048915153895481554) (2026-10-17)
 - [alliekmiller](https://x.com/alliekmiller/status/2064451731325415446) (2026-06-10)
+- [anandPa94](https://x.com/anandPa94/status/2118801255833407769) (2026-11-07)
 - [angeldot_](https://x.com/angeldot_/status/2114374287549157402) (2026-10-26)
 - [anitakirkovska](https://x.com/anitakirkovska/status/2117336406246727956) (2026-11-03)
 - [ashtom](https://x.com/ashtom/status/1925597395192357337) (2026-09-04)

@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-11-06
-total_mentions: 191
+last_seen: 2026-11-07
+total_mentions: 192
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2118133694217306408) (2026-11-06)
@@ -189,6 +189,7 @@ total_mentions: 191
 - [trycua](https://x.com/trycua/status/2101014004927729737) (2026-09-19)
 - [trycua](https://x.com/trycua/status/2102800643794591833) (2026-09-24)
 - [trycua](https://x.com/trycua/status/2103498682532253734) (2026-09-26)
+- [trycua](https://x.com/trycua/status/2118754889329230241) (2026-11-07)
 - [vishalsingh2972](https://x.com/vishalsingh2972/status/2107389299633405956) (2026-10-07)
 - [vista8](https://x.com/vista8/status/2106647309102825969) (2026-10-05)
 - [wallstengine](https://x.com/wallstengine/status/2094155293261435063) (2026-09-01)

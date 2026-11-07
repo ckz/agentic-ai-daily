@@ -1,8 +1,8 @@
 # Browser Use
 
 first_seen: 2026-06-07
-last_seen: 2026-11-05
-total_mentions: 57
+last_seen: 2026-11-07
+total_mentions: 58
 
 ## Related Tweets
 - [0xSero](https://x.com/0xSero/status/2106844590376645117) (2026-10-09)
@@ -58,6 +58,7 @@ total_mentions: 57
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2107169457365725616) (2026-10-06)
 - [trevin](https://x.com/trevin/status/2091696470424686749) (2026-08-24)
 - [trevin](https://x.com/trevin/status/2116372306331373986) (2026-10-31)
+- [trycua](https://x.com/trycua/status/2118754889329230241) (2026-11-07)
 - [vellum_ai](https://x.com/vellum_ai/status/2093020764400136289) (2026-08-30)
 - [viticci](https://x.com/viticci/status/2103942910165287369) (2026-09-27)
 - [wangzan101](https://x.com/wangzan101/status/2115957353648664966) (2026-11-03)
