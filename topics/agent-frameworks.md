@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-07
-total_mentions: 655
+last_seen: 2026-11-08
+total_mentions: 656
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -444,6 +444,7 @@ total_mentions: 655
 - [ericzakariasson](https://x.com/ericzakariasson/status/2102853511637774551) (2026-09-26)
 - [ethereum](https://x.com/ethereum/status/2079217433059996150) (2026-07-23)
 - [evanderburg](https://x.com/evanderburg/status/2087412401717359059) (2026-08-12)
+- [felixvance1243](https://x.com/felixvance1243/status/2119234281000333461) (2026-11-08)
 - [fernandoabishai](https://x.com/fernandoabishai/status/2113132998962893114) (2026-10-22)
 - [fin465](https://x.com/fin465/status/2080155147385102375) (2026-07-25)
 - [georgedavis_144](https://x.com/georgedavis_144/status/2110946857736372721) (2026-10-16)

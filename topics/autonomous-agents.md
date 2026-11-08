@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-07
-total_mentions: 1690
+last_seen: 2026-11-08
+total_mentions: 1698
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -105,6 +105,7 @@ total_mentions: 1690
 - [AISafetyMemes](https://x.com/AISafetyMemes/status/2087549262427263014) (2026-08-15)
 - [AIStockSavvy](https://x.com/AIStockSavvy/status/2079941971108405580) (2026-07-25)
 - [AISystems_hq](https://x.com/AISystems_hq/status/2117973401264652324) (2026-11-06)
+- [AITECHio](https://x.com/AITECHio/status/1900940141520195796) (2026-11-08)
 - [AITECHio](https://x.com/AITECHio/status/2075852934966104133) (2026-07-12)
 - [AI_in_Asia](https://x.com/AI_in_Asia/status/2073665028629090615) (2026-07-05)
 - [AIatMeta](https://x.com/AIatMeta/status/2074577662840832382) (2026-07-08)
@@ -515,6 +516,7 @@ total_mentions: 1690
 - [LunarResearcher](https://x.com/LunarResearcher/status/2093310429103558754) (2026-08-29)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2095483630961275019) (2026-09-04)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2116885583419052046) (2026-11-02)
+- [LyberAI](https://x.com/LyberAI/status/2119221833912463513) (2026-11-08)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2090697430756904964) (2026-08-23)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2092142425879855254) (2026-08-28)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2096862232315367661) (2026-09-09)
@@ -820,6 +822,7 @@ total_mentions: 1690
 - [Xudong07452910](https://x.com/Xudong07452910/status/2090968445378814364) (2026-08-22)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2097846768323133559) (2026-09-10)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2111979391546773875) (2026-10-19)
+- [Y0urDumble](https://x.com/Y0urDumble/status/2119023461267833047) (2026-11-08)
 - [Yaki_fomoArt](https://x.com/Yaki_fomoArt/status/2079623049037701529) (2026-07-26)
 - [YorichiiCrypto](https://x.com/YorichiiCrypto/status/2107563475555823957) (2026-10-07)
 - [Yosefphr](https://x.com/Yosefphr/status/2094074224839102549) (2026-09-01)
@@ -979,6 +982,7 @@ total_mentions: 1690
 - [brian_armstrong](https://x.com/brian_armstrong/status/2081504081902780564) (2026-07-29)
 - [brian_armstrong](https://x.com/brian_armstrong/status/2084019794257301679) (2026-08-03)
 - [brian_armstrong](https://x.com/brian_armstrong/status/2094474274161434827) (2026-09-05)
+- [brian_armstrong](https://x.com/brian_armstrong/status/2119112609223827547) (2026-11-08)
 - [bridgemindai](https://x.com/bridgemindai/status/2070184602606649588) (2026-06-28)
 - [browomo](https://x.com/browomo/status/2063038709407047943) (2026-06-10)
 - [bruno_charlies](https://x.com/bruno_charlies/status/2080170800049484008) (2026-07-30)
@@ -1352,6 +1356,7 @@ total_mentions: 1690
 - [michaeljburry](https://x.com/michaeljburry/status/2075836197230813517) (2026-07-11)
 - [michyexe](https://x.com/michyexe/status/2000613204116844826) (2026-06-15)
 - [mihail_eric](https://x.com/mihail_eric/status/2095166860740174273) (2026-09-03)
+- [mika_systems](https://x.com/mika_systems/status/2119080680021692927) (2026-11-08)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2083486328172273795) (2026-08-02)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2096942420193673727) (2026-09-10)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2074933986292588591) (2026-07-13)
@@ -1389,6 +1394,7 @@ total_mentions: 1690
 - [neviannn](https://x.com/neviannn/status/2087254502210490739) (2026-08-13)
 - [nextplayso](https://x.com/nextplayso/status/2079686456101179538) (2026-07-28)
 - [nguyenvann6_24](https://x.com/nguyenvann6_24/status/2115992738789531783) (2026-11-01)
+- [nguyenvann6_24](https://x.com/nguyenvann6_24/status/2119253219746738467) (2026-11-08)
 - [nicbstme](https://x.com/nicbstme/status/2084918378368471150) (2026-08-06)
 - [nichxbt](https://x.com/nichxbt/status/2071763989030478016) (2026-07-01)
 - [nickcammarata](https://x.com/nickcammarata/status/2110757819427574056) (2026-10-18)
@@ -1548,6 +1554,7 @@ total_mentions: 1690
 - [shelleymaeph](https://x.com/shelleymaeph/status/2117880337401512000) (2026-11-07)
 - [sherlockdefi](https://x.com/sherlockdefi/status/2079222748572697080) (2026-07-26)
 - [shikamarutsai](https://x.com/shikamarutsai/status/2088636457938280724) (2026-08-19)
+- [shikamarutsai](https://x.com/shikamarutsai/status/2119197676415877128) (2026-11-08)
 - [shiqway92](https://x.com/shiqway92/status/2081403424986239014) (2026-07-28)
 - [shiri_shh](https://x.com/shiri_shh/status/2060434223299998179) (2026-06-05)
 - [shiri_shh](https://x.com/shiri_shh/status/2061426931162288614) (2026-06-06)
@@ -1639,6 +1646,7 @@ total_mentions: 1690
 - [thomasgauvin](https://x.com/thomasgauvin/status/2062512156076048447) (2026-06-06)
 - [thompson_akhat](https://x.com/thompson_akhat/status/2065333327314276641) (2026-06-12)
 - [tiger_research_](https://x.com/tiger_research_/status/2080227252134879655) (2026-07-24)
+- [toady_hawk](https://x.com/toady_hawk/status/2119175952559403134) (2026-11-08)
 - [tobi](https://x.com/tobi/status/2102090718546198790) (2026-09-22)
 - [tom_doerr](https://x.com/tom_doerr/status/2064801113354711438) (2026-06-15)
 - [tom_doerr](https://x.com/tom_doerr/status/2068189042768814448) (2026-06-20)

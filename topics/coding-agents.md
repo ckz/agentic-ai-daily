@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-07
-total_mentions: 225
+last_seen: 2026-11-08
+total_mentions: 227
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -36,6 +36,7 @@ total_mentions: 225
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2096990554529955934) (2026-09-13)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2098120874524389776) (2026-09-13)
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2076991866935845287) (2026-07-15)
+- [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2119052020418240692) (2026-11-08)
 - [EXM7777](https://x.com/EXM7777/status/2086512844594679820) (2026-08-14)
 - [FareaNFts](https://x.com/FareaNFts/status/2072985538756317458) (2026-07-07)
 - [GodsBoy7777](https://x.com/GodsBoy7777/status/2102146460821152070) (2026-09-22)
@@ -165,6 +166,7 @@ total_mentions: 225
 - [kimmonismus](https://x.com/kimmonismus/status/2090814903133098211) (2026-09-19)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2099714012867178531) (2026-09-19)
+- [kunal_twts](https://x.com/kunal_twts/status/2117248781947462008) (2026-11-08)
 - [leerob](https://x.com/leerob/status/2089169319099777364) (2026-08-17)
 - [lemondooe](https://x.com/lemondooe/status/2073312103167840581) (2026-07-04)
 - [lennysan](https://x.com/lennysan/status/2102422882341322779) (2026-09-24)

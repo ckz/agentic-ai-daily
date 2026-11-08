@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-07
-total_mentions: 859
+last_seen: 2026-11-08
+total_mentions: 864
 
 ## Related Tweets
 - [0x0simba_eth](https://x.com/0x0simba_eth/status/2118895661722616112) (2026-11-07)
@@ -226,6 +226,7 @@ total_mentions: 859
 - [OfficialNiya_Ng](https://x.com/OfficialNiya_Ng/status/2090025562467192889) (2026-08-25)
 - [Okada_DeFi0x](https://x.com/Okada_DeFi0x/status/2070769365763449051) (2026-06-28)
 - [Olataslayer](https://x.com/Olataslayer/status/2101979838294986886) (2026-09-23)
+- [OliverMolander](https://x.com/OliverMolander/status/2118061256217391421) (2026-11-08)
 - [OpenAI](https://x.com/OpenAI/status/2082146058017321257) (2026-08-04)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
 - [Ozacle23](https://x.com/Ozacle23/status/2112179474649448960) (2026-10-21)
@@ -246,6 +247,7 @@ total_mentions: 859
 - [Polymarket](https://x.com/Polymarket/status/2099993393963102216) (2026-09-16)
 - [Polymarket](https://x.com/Polymarket/status/2100013238352052365) (2026-09-19)
 - [Polymarket](https://x.com/Polymarket/status/2109010490223456716) (2026-10-13)
+- [Polymarket](https://x.com/Polymarket/status/2118816856350069243) (2026-11-08)
 - [Prasanjit_ui](https://x.com/Prasanjit_ui/status/2072617513079251312) (2026-07-07)
 - [PrimareApp](https://x.com/PrimareApp/status/2075974349173961017) (2026-07-12)
 - [ProfBrianCox](https://x.com/ProfBrianCox/status/2082427049109602580) (2026-08-03)
@@ -494,6 +496,7 @@ total_mentions: 859
 - [edinsoncode](https://x.com/edinsoncode/status/2101265656498782671) (2026-09-20)
 - [egraciani](https://x.com/egraciani/status/2096244534422253635) (2026-09-06)
 - [ekuyda](https://x.com/ekuyda/status/2115819179756671330) (2026-10-31)
+- [eliadeleoai](https://x.com/eliadeleoai/status/2119049052532969885) (2026-11-08)
 - [elonmusk](https://x.com/elonmusk/status/1877717446779428923) (2026-10-24)
 - [elonmusk](https://x.com/elonmusk/status/1895402040400212271) (2026-10-16)
 - [elonmusk](https://x.com/elonmusk/status/1901651592119476509) (2026-10-16)
@@ -513,6 +516,7 @@ total_mentions: 859
 - [euniceajim](https://x.com/euniceajim/status/2104677782496145481) (2026-09-29)
 - [fado_fft](https://x.com/fado_fft/status/2101366268137721992) (2026-09-20)
 - [featherrobotics](https://x.com/featherrobotics/status/2103199788217057728) (2026-09-25)
+- [felixvance1243](https://x.com/felixvance1243/status/2119234281000333461) (2026-11-08)
 - [fin465](https://x.com/fin465/status/2079993565019795637) (2026-07-25)
 - [fin465](https://x.com/fin465/status/2081459766287888794) (2026-07-27)
 - [fin465](https://x.com/fin465/status/2088287274727301259) (2026-08-15)
@@ -551,6 +555,7 @@ total_mentions: 859
 - [gregisenberg](https://x.com/gregisenberg/status/2105397216374403561) (2026-10-03)
 - [gregisenberg](https://x.com/gregisenberg/status/2110414696037716372) (2026-10-15)
 - [gregisenberg](https://x.com/gregisenberg/status/2113721373482987970) (2026-10-25)
+- [gregisenberg](https://x.com/gregisenberg/status/2119229734563271124) (2026-11-08)
 - [hanghuang_](https://x.com/hanghuang_/status/2104949571789148416) (2026-10-01)
 - [hanifproduktif](https://x.com/hanifproduktif/status/2108025812448600435) (2026-10-09)
 - [harbingerofwoke](https://x.com/harbingerofwoke/status/2090178064399613976) (2026-10-01)

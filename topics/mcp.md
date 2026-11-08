@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-11-07
-total_mentions: 1203
+last_seen: 2026-11-08
+total_mentions: 1207
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -457,6 +457,7 @@ total_mentions: 1203
 - [Xudong07452910](https://x.com/Xudong07452910/status/2095668162624618959) (2026-09-05)
 - [Y0urDumble](https://x.com/Y0urDumble/status/2115193601458151552) (2026-10-29)
 - [Y0urDumble](https://x.com/Y0urDumble/status/2116341413755453670) (2026-11-04)
+- [Y0urDumble](https://x.com/Y0urDumble/status/2119023461267833047) (2026-11-08)
 - [YassirL2o](https://x.com/YassirL2o/status/2106032588892615142) (2026-10-04)
 - [Yellow](https://x.com/Yellow/status/2118230254506631372) (2026-11-06)
 - [YorichiiCrypto](https://x.com/YorichiiCrypto/status/2107563475555823957) (2026-10-07)
@@ -764,6 +765,7 @@ total_mentions: 1203
 - [gregisenberg](https://x.com/gregisenberg/status/2104613420460822745) (2026-10-05)
 - [gregisenberg](https://x.com/gregisenberg/status/2110414696037716372) (2026-10-15)
 - [gregisenberg](https://x.com/gregisenberg/status/2117734977312047537) (2026-11-06)
+- [gregisenberg](https://x.com/gregisenberg/status/2119229734563271124) (2026-11-08)
 - [greptile](https://x.com/greptile/status/2100268607477273048) (2026-09-19)
 - [gumloop](https://x.com/gumloop/status/2107510127771447692) (2026-10-07)
 - [gurasees0](https://x.com/gurasees0/status/2108563367422218472) (2026-10-10)
@@ -1009,6 +1011,7 @@ total_mentions: 1203
 - [rishigb](https://x.com/rishigb/status/2102885375639507087) (2026-09-24)
 - [robiartec](https://x.com/robiartec/status/2091157554919280688) (2026-08-23)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2092970481423192328) (2026-09-03)
+- [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2118766406095516159) (2026-11-08)
 - [rom1trs](https://x.com/rom1trs/status/2074119000137601528) (2026-07-11)
 - [rom1trs](https://x.com/rom1trs/status/2074490914248990760) (2026-07-10)
 - [rom1trs](https://x.com/rom1trs/status/2075193811186172355) (2026-07-12)
@@ -1027,6 +1030,7 @@ total_mentions: 1203
 - [s4yonnara](https://x.com/s4yonnara/status/2116286728872792488) (2026-11-04)
 - [s4yonnara](https://x.com/s4yonnara/status/2116992286764790064) (2026-11-02)
 - [s4yonnara](https://x.com/s4yonnara/status/2117359340931686839) (2026-11-03)
+- [s4yonnara](https://x.com/s4yonnara/status/2118814330695073907) (2026-11-08)
 - [sabanci_ata](https://x.com/sabanci_ata/status/2099927513346547961) (2026-09-16)
 - [sabanci_ata](https://x.com/sabanci_ata/status/2100107329614016540) (2026-09-16)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
