@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-08
-total_mentions: 864
+last_seen: 2026-11-09
+total_mentions: 869
 
 ## Related Tweets
 - [0x0simba_eth](https://x.com/0x0simba_eth/status/2118895661722616112) (2026-11-07)
@@ -65,6 +65,7 @@ total_mentions: 864
 - [AvinashSingh_20](https://x.com/AvinashSingh_20/status/2071233793311318133) (2026-07-05)
 - [AvinashSingh_20](https://x.com/AvinashSingh_20/status/2088315936353010013) (2026-08-15)
 - [AvinashSingh_20](https://x.com/AvinashSingh_20/status/2104612144088289760) (2026-10-02)
+- [AvinashSingh_20](https://x.com/AvinashSingh_20/status/2118667415093653956) (2026-11-09)
 - [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2078578545429991768) (2026-07-24)
 - [BarabiloT](https://x.com/BarabiloT/status/2102262834444882342) (2026-10-20)
 - [BarbaraPocock](https://x.com/BarbaraPocock/status/2110115000732074339) (2026-10-14)
@@ -248,6 +249,7 @@ total_mentions: 864
 - [Polymarket](https://x.com/Polymarket/status/2100013238352052365) (2026-09-19)
 - [Polymarket](https://x.com/Polymarket/status/2109010490223456716) (2026-10-13)
 - [Polymarket](https://x.com/Polymarket/status/2118816856350069243) (2026-11-08)
+- [Polymarket](https://x.com/Polymarket/status/2118907039162245228) (2026-11-09)
 - [Prasanjit_ui](https://x.com/Prasanjit_ui/status/2072617513079251312) (2026-07-07)
 - [PrimareApp](https://x.com/PrimareApp/status/2075974349173961017) (2026-07-12)
 - [ProfBrianCox](https://x.com/ProfBrianCox/status/2082427049109602580) (2026-08-03)
@@ -365,6 +367,7 @@ total_mentions: 864
 - [ahatamiz1](https://x.com/ahatamiz1/status/2113344049784799378) (2026-10-23)
 - [ai_explorer25](https://x.com/ai_explorer25/status/2117086795426865651) (2026-11-03)
 - [ai_explorer25](https://x.com/ai_explorer25/status/2117447925244764287) (2026-11-03)
+- [akashkhan74040](https://x.com/akashkhan74040/status/2119636790063534342) (2026-11-09)
 - [alex_prompter](https://x.com/alex_prompter/status/2094818827137581543) (2026-09-02)
 - [alex_verem](https://x.com/alex_verem/status/2090118956912939041) (2026-08-25)
 - [alexisohanian](https://x.com/alexisohanian/status/2103856308890017955) (2026-09-29)
@@ -515,6 +518,7 @@ total_mentions: 864
 - [ethereum](https://x.com/ethereum/status/2079217433059996150) (2026-07-23)
 - [euniceajim](https://x.com/euniceajim/status/2104677782496145481) (2026-09-29)
 - [fado_fft](https://x.com/fado_fft/status/2101366268137721992) (2026-09-20)
+- [fal](https://x.com/fal/status/2117679688860508283) (2026-11-09)
 - [featherrobotics](https://x.com/featherrobotics/status/2103199788217057728) (2026-09-25)
 - [felixvance1243](https://x.com/felixvance1243/status/2119234281000333461) (2026-11-08)
 - [fin465](https://x.com/fin465/status/2079993565019795637) (2026-07-25)
@@ -681,6 +685,7 @@ total_mentions: 864
 - [openmarket_xyz](https://x.com/openmarket_xyz/status/2104622481080525138) (2026-09-29)
 - [opentensor](https://x.com/opentensor/status/2097575251597054345) (2026-09-09)
 - [orbinumnetwork](https://x.com/orbinumnetwork/status/2102516025757520352) (2026-09-23)
+- [orihimexweb3](https://x.com/orihimexweb3/status/2119500651512389940) (2026-11-09)
 - [owenthcarey](https://x.com/owenthcarey/status/2098634072159658105) (2026-09-12)
 - [patrick_oshag](https://x.com/patrick_oshag/status/2089713931183153293) (2026-08-19)
 - [paulfinneyx](https://x.com/paulfinneyx/status/2116377446278914101) (2026-10-31)

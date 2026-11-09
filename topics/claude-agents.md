@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-08
-total_mentions: 342
+last_seen: 2026-11-09
+total_mentions: 347
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -134,6 +134,7 @@ total_mentions: 342
 - [Tech_by_Shweta](https://x.com/Tech_by_Shweta/status/2096800764526243897) (2026-09-07)
 - [Teknium](https://x.com/Teknium/status/2102093483788107792) (2026-09-22)
 - [TermiusHQ](https://x.com/TermiusHQ/status/2082616764605874207) (2026-07-30)
+- [UPing123zzz](https://x.com/UPing123zzz/status/2118624242556399660) (2026-11-09)
 - [Ubermenscchh](https://x.com/Ubermenscchh/status/2082120061951856912) (2026-07-29)
 - [Voxyz_ai](https://x.com/Voxyz_ai/status/2097070213250372025) (2026-09-08)
 - [Voxyz_ai](https://x.com/Voxyz_ai/status/2108573215224160393) (2026-10-11)
@@ -191,6 +192,7 @@ total_mentions: 342
 - [codewithimanshu](https://x.com/codewithimanshu/status/2079864840055902389) (2026-07-23)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2082038438803738759) (2026-07-30)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2102949092972482668) (2026-09-25)
+- [codewithimanshu](https://x.com/codewithimanshu/status/2117795556500394210) (2026-11-09)
 - [composio](https://x.com/composio/status/2085330847951970801) (2026-08-07)
 - [coreyganim](https://x.com/coreyganim/status/2095635699739554173) (2026-09-04)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1879706901170077978) (2026-06-11)
@@ -320,6 +322,7 @@ total_mentions: 342
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2108242267257307180) (2026-10-10)
 - [tanayj](https://x.com/tanayj/status/2072108170080657729) (2026-07-01)
 - [tetsuoai](https://x.com/tetsuoai/status/2098199890237247578) (2026-09-11)
+- [theAgentFirm](https://x.com/theAgentFirm/status/2118508882536329522) (2026-11-09)
 - [thedelost](https://x.com/thedelost/status/2110472847084650726) (2026-10-16)
 - [thedelost](https://x.com/thedelost/status/2114016386896773177) (2026-10-26)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2111113436314648758) (2026-10-17)
@@ -344,6 +347,8 @@ total_mentions: 342
 - [vercel_dev](https://x.com/vercel_dev/status/2065509970775519569) (2026-06-13)
 - [virgilxbt](https://x.com/virgilxbt/status/2092605992953332128) (2026-08-27)
 - [virtuals_io](https://x.com/virtuals_io/status/2063654910995145209) (2026-06-11)
+- [web3_tech_](https://x.com/web3_tech_/status/2119670067172683833) (2026-11-09)
 - [xsmryze](https://x.com/xsmryze/status/2113273069099688435) (2026-10-23)
 - [yurshevv](https://x.com/yurshevv/status/2113602375583719648) (2026-10-24)
+- [yurshevv](https://x.com/yurshevv/status/2119190722783981671) (2026-11-09)
 - [zostaff](https://x.com/zostaff/status/2110027184727343589) (2026-10-18)

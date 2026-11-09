@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-08
-total_mentions: 656
+last_seen: 2026-11-09
+total_mentions: 659
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -134,6 +134,7 @@ total_mentions: 656
 - [FastCompany](https://x.com/FastCompany/status/2063149004490149919) (2026-06-06)
 - [FourPillarsFP](https://x.com/FourPillarsFP/status/2079870751247609871) (2026-07-28)
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2087121081098224122) (2026-08-18)
+- [GhostOfSocrates](https://x.com/GhostOfSocrates/status/2118470575287083109) (2026-11-09)
 - [GirmaMele48686](https://x.com/GirmaMele48686/status/2108411422577512797) (2026-10-09)
 - [GodsBoy7777](https://x.com/GodsBoy7777/status/2102146460821152070) (2026-09-22)
 - [GoogleAI](https://x.com/GoogleAI/status/2062942864288387430) (2026-06-06)
@@ -402,6 +403,7 @@ total_mentions: 656
 - [codewithimanshu](https://x.com/codewithimanshu/status/2079864840055902389) (2026-07-23)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2082038438803738759) (2026-07-30)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2102949092972482668) (2026-09-25)
+- [codewithimanshu](https://x.com/codewithimanshu/status/2117795556500394210) (2026-11-09)
 - [codyschneider](https://x.com/codyschneider/status/2095934965049360760) (2026-09-06)
 - [coinbureau](https://x.com/coinbureau/status/2031222262112858286) (2026-06-09)
 - [coreyganim](https://x.com/coreyganim/status/2074426194418926020) (2026-07-08)
@@ -519,6 +521,7 @@ total_mentions: 656
 - [mastra](https://x.com/mastra/status/2062617888478183564) (2026-06-05)
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [mentalium_](https://x.com/mentalium_/status/2110382934720929967) (2026-10-18)
+- [mentalium_](https://x.com/mentalium_/status/2118723483286778349) (2026-11-09)
 - [michyexe](https://x.com/michyexe/status/2000613204116844826) (2026-06-15)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2071513914504802525) (2026-07-01)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2080208806043406646) (2026-07-24)

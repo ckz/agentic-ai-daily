@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-11-08
-total_mentions: 192
+last_seen: 2026-11-09
+total_mentions: 194
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2118133694217306408) (2026-11-06)
@@ -181,6 +181,7 @@ total_mentions: 192
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109977469927244158) (2026-10-17)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2114718696551952769) (2026-11-02)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2117587605982527581) (2026-11-06)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2119398712288202950) (2026-11-09)
 - [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)
 - [sxhivs](https://x.com/sxhivs/status/2101729362194432184) (2026-09-21)
 - [theapplehub](https://x.com/theapplehub/status/2114792894863442255) (2026-10-27)
@@ -196,4 +197,5 @@ total_mentions: 192
 - [wuyang_zhou](https://x.com/wuyang_zhou/status/2096548032128942370) (2026-09-11)
 - [xaijnt77357](https://x.com/xaijnt77357/status/2110242886574821662) (2026-10-14)
 - [yyyole](https://x.com/yyyole/status/2116729757446664326) (2026-11-01)
+- [zara_tech_ai](https://x.com/zara_tech_ai/status/2119415092895007131) (2026-11-09)
 - [zcode_ai](https://x.com/zcode_ai/status/2092635718766215590) (2026-08-27)

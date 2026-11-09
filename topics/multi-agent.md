@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-11-08
-total_mentions: 426
+last_seen: 2026-11-09
+total_mentions: 429
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -252,6 +252,7 @@ total_mentions: 426
 - [cnemalek](https://x.com/cnemalek/status/2075124631090954361) (2026-07-10)
 - [coder_surya](https://x.com/coder_surya/status/2074093504188600351) (2026-07-07)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
+- [codewithimanshu](https://x.com/codewithimanshu/status/2117795556500394210) (2026-11-09)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1890778947736027621) (2026-06-10)
 - [cyberoxic_OG](https://x.com/cyberoxic_OG/status/2068229943604216187) (2026-06-20)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2060914969605189808) (2026-06-05)
@@ -403,6 +404,7 @@ total_mentions: 426
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2115413286829298029) (2026-10-29)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2117074214083838004) (2026-11-02)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2117587605982527581) (2026-11-06)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2119398712288202950) (2026-11-09)
 - [svpino](https://x.com/svpino/status/2071975885570441658) (2026-07-01)
 - [swarms_corp](https://x.com/swarms_corp/status/2062886985883082914) (2026-06-05)
 - [swarms_corp](https://x.com/swarms_corp/status/2065570314268885211) (2026-06-13)
@@ -431,3 +433,4 @@ total_mentions: 426
 - [vishalsingh2972](https://x.com/vishalsingh2972/status/2107389299633405956) (2026-10-07)
 - [witcheer](https://x.com/witcheer/status/2110324741567287779) (2026-10-19)
 - [xsmryze](https://x.com/xsmryze/status/2113273069099688435) (2026-10-23)
+- [yurshevv](https://x.com/yurshevv/status/2119190722783981671) (2026-11-09)

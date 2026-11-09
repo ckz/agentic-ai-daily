@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-08
-total_mentions: 1698
+last_seen: 2026-11-09
+total_mentions: 1706
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -332,6 +332,7 @@ total_mentions: 1698
 - [DavidOndrej1](https://x.com/DavidOndrej1/status/2067842298667225185) (2026-06-19)
 - [DavidPawlan](https://x.com/DavidPawlan/status/2117269574051660005) (2026-11-03)
 - [DavidPawlan](https://x.com/DavidPawlan/status/2117366101289934984) (2026-11-03)
+- [DeRonin_](https://x.com/DeRonin_/status/2118731362249142616) (2026-11-09)
 - [DealsDhamaka](https://x.com/DealsDhamaka/status/2074664290293080496) (2026-07-08)
 - [Deefui](https://x.com/Deefui/status/2117623905624248427) (2026-11-04)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
@@ -387,10 +388,12 @@ total_mentions: 1698
 - [FutureStacked](https://x.com/FutureStacked/status/2074159794030604515) (2026-07-07)
 - [GAZZFUN](https://x.com/GAZZFUN/status/2111362817097966050) (2026-10-20)
 - [GavinSBaker](https://x.com/GavinSBaker/status/2096257640884027500) (2026-09-06)
+- [Gegam245074](https://x.com/Gegam245074/status/2119465960134295609) (2026-11-09)
 - [George_Kurtz](https://x.com/George_Kurtz/status/2099263605900255575) (2026-09-14)
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2087121081098224122) (2026-08-18)
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2099945497377091902) (2026-09-17)
 - [GesoraMeshack](https://x.com/GesoraMeshack/status/2084521634937856338) (2026-08-04)
+- [GhostOfSocrates](https://x.com/GhostOfSocrates/status/2118470575287083109) (2026-11-09)
 - [GitTrend0x](https://x.com/GitTrend0x/status/2085190556674904253) (2026-08-07)
 - [GodsBoy7777](https://x.com/GodsBoy7777/status/2102146460821152070) (2026-09-22)
 - [GoogleAI](https://x.com/GoogleAI/status/2079589742535118985) (2026-07-25)
@@ -788,6 +791,7 @@ total_mentions: 1698
 - [Tuteth_](https://x.com/Tuteth_/status/2082578543947472946) (2026-07-30)
 - [Tuteth_](https://x.com/Tuteth_/status/2085375892201652579) (2026-08-09)
 - [UFCS](https://x.com/UFCS/status/2107356066719621508) (2026-10-06)
+- [UPing123zzz](https://x.com/UPing123zzz/status/2118624242556399660) (2026-11-09)
 - [USB](https://x.com/USB/status/2074401622730363082) (2026-07-07)
 - [UTobyM](https://x.com/UTobyM/status/2073349386596483135) (2026-07-05)
 - [UberEng](https://x.com/UberEng/status/2107546431854707085) (2026-10-07)
@@ -1110,6 +1114,7 @@ total_mentions: 1698
 - [dkare1009](https://x.com/dkare1009/status/2088483412919128437) (2026-08-16)
 - [dkare1009](https://x.com/dkare1009/status/2100985702452228415) (2026-09-22)
 - [dkare1009](https://x.com/dkare1009/status/2112461317965590931) (2026-10-23)
+- [dkare1009](https://x.com/dkare1009/status/2119407086362640714) (2026-11-09)
 - [dmokafa](https://x.com/dmokafa/status/2066400400308154773) (2026-06-15)
 - [dogacel0](https://x.com/dogacel0/status/2099720607160004886) (2026-09-15)
 - [dojintanuki](https://x.com/dojintanuki/status/2063832283736387900) (2026-06-08)
@@ -1155,6 +1160,7 @@ total_mentions: 1698
 - [eragon5121](https://x.com/eragon5121/status/2077283768704926200) (2026-07-15)
 - [ericosiu](https://x.com/ericosiu/status/2091231428184822258) (2026-08-25)
 - [ericosiu](https://x.com/ericosiu/status/2101657640753570113) (2026-09-21)
+- [esandurrani](https://x.com/esandurrani/status/2118231579021779448) (2026-11-09)
 - [ethermage](https://x.com/ethermage/status/1862725151349198879) (2026-06-05)
 - [ethy_agent](https://x.com/ethy_agent/status/2071902096354320438) (2026-07-01)
 - [evanderburg](https://x.com/evanderburg/status/2087412401717359059) (2026-08-12)
@@ -1351,6 +1357,7 @@ total_mentions: 1698
 - [mcganty](https://x.com/mcganty/status/2073086969408794735) (2026-07-04)
 - [mdshefat217](https://x.com/mdshefat217/status/2114557706434752543) (2026-10-26)
 - [melisx402](https://x.com/melisx402/status/2070835381684048269) (2026-06-29)
+- [mentalium_](https://x.com/mentalium_/status/2118723483286778349) (2026-11-09)
 - [merill](https://x.com/merill/status/2081882573551399136) (2026-08-01)
 - [meta_alchemist](https://x.com/meta_alchemist/status/2086949064177037782) (2026-08-11)
 - [michaeljburry](https://x.com/michaeljburry/status/2075836197230813517) (2026-07-11)
@@ -1609,6 +1616,7 @@ total_mentions: 1698
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2117074214083838004) (2026-11-02)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2117225221971415403) (2026-11-05)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2117587605982527581) (2026-11-06)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2119398712288202950) (2026-11-09)
 - [svonava](https://x.com/svonava/status/2117664970762846449) (2026-11-04)
 - [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)
 - [swyx](https://x.com/swyx/status/2076155833428431012) (2026-07-12)
