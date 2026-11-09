@@ -1,6 +1,21 @@
 {
   "reports": [
     {
+      "date": "2026-11-09",
+      "filename": "2026-11-09.md",
+      "url": "../daily/2026-11-09.md",
+      "summary": "Key themes today:",
+      "tweet_count": 90,
+      "topics": [
+        "Daily Summary",
+        "🆕 New Findings",
+        "Updates (known topics with new developments)",
+        "♻️ Known / Ongoing",
+        "Trending Topics Today",
+        "All Sources"
+      ]
+    },
+    {
       "date": "2026-11-08",
       "filename": "2026-11-08.md",
       "url": "../daily/2026-11-08.md",
@@ -2252,33 +2267,33 @@
   "topics": [
     {
       "name": "Daily Summary",
-      "count": 150
+      "count": 151
     },
     {
       "name": "🆕 New Findings",
-      "count": 150
+      "count": 151
     },
     {
       "name": "Trending Topics Today",
-      "count": 150
+      "count": 151
     },
     {
       "name": "All Sources",
-      "count": 150
+      "count": 151
     },
     {
       "name": "Updates (known topics with new developments)",
-      "count": 149
+      "count": 150
     },
     {
       "name": "♻️ Known / Ongoing",
-      "count": 149
+      "count": 150
     }
   ],
-  "last_updated": "2026-11-08T08:01:58Z",
+  "last_updated": "2026-11-09T08:02:00Z",
   "stats": {
-    "total_reports": 150,
+    "total_reports": 151,
     "topics_tracked": 6,
-    "days_active": 160
+    "days_active": 161
   }
 }
