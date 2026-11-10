@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-09
-total_mentions: 659
+last_seen: 2026-11-10
+total_mentions: 660
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -169,6 +169,7 @@ total_mentions: 659
 - [HelgaHinojosa](https://x.com/HelgaHinojosa/status/2118574028294144214) (2026-11-06)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
+- [HoodieFade_](https://x.com/HoodieFade_/status/2119824593753956844) (2026-11-10)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2103804240866976237) (2026-09-27)
 - [Huawei](https://x.com/Huawei/status/2064239307838419399) (2026-06-09)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2068205769002991901) (2026-06-20)

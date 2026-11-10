@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-09
-total_mentions: 869
+last_seen: 2026-11-10
+total_mentions: 873
 
 ## Related Tweets
 - [0x0simba_eth](https://x.com/0x0simba_eth/status/2118895661722616112) (2026-11-07)
@@ -389,6 +389,7 @@ total_mentions: 869
 - [annajmalayan](https://x.com/annajmalayan/status/2094550929504891060) (2026-09-01)
 - [annatonger](https://x.com/annatonger/status/2102507865785417892) (2026-09-23)
 - [annatonger](https://x.com/annatonger/status/2102551815716065777) (2026-09-24)
+- [ansonlin](https://x.com/ansonlin/status/2119826402493030759) (2026-11-10)
 - [anupamrjp](https://x.com/anupamrjp/status/2076558763071508656) (2026-07-13)
 - [anuraggoel](https://x.com/anuraggoel/status/2069218653137142074) (2026-06-30)
 - [anushankjain](https://x.com/anushankjain/status/2099371656833896850) (2026-09-15)
@@ -500,6 +501,7 @@ total_mentions: 869
 - [egraciani](https://x.com/egraciani/status/2096244534422253635) (2026-09-06)
 - [ekuyda](https://x.com/ekuyda/status/2115819179756671330) (2026-10-31)
 - [eliadeleoai](https://x.com/eliadeleoai/status/2119049052532969885) (2026-11-08)
+- [eliadeleoai](https://x.com/eliadeleoai/status/2119780171829870937) (2026-11-10)
 - [elonmusk](https://x.com/elonmusk/status/1877717446779428923) (2026-10-24)
 - [elonmusk](https://x.com/elonmusk/status/1895402040400212271) (2026-10-16)
 - [elonmusk](https://x.com/elonmusk/status/1901651592119476509) (2026-10-16)
@@ -629,6 +631,7 @@ total_mentions: 869
 - [larry_mcwethy](https://x.com/larry_mcwethy/status/2113619948023304543) (2026-10-25)
 - [launchwhasmik](https://x.com/launchwhasmik/status/2104542307680719043) (2026-10-02)
 - [lennysan](https://x.com/lennysan/status/2114747753968644359) (2026-10-27)
+- [lennysan](https://x.com/lennysan/status/2119957080492966371) (2026-11-10)
 - [levelsio](https://x.com/levelsio/status/2102739359715774665) (2026-09-25)
 - [levelsio](https://x.com/levelsio/status/2112686345617547538) (2026-10-23)
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
@@ -848,6 +851,7 @@ total_mentions: 869
 - [vigneshxtech](https://x.com/vigneshxtech/status/2068597287010349323) (2026-06-21)
 - [vipulved](https://x.com/vipulved/status/2072321276094673083) (2026-07-02)
 - [wallstengine](https://x.com/wallstengine/status/2102904194604937232) (2026-09-24)
+- [wangray](https://x.com/wangray/status/2119842160531099817) (2026-11-10)
 - [waspiiastri](https://x.com/waspiiastri/status/2112883681094447350) (2026-10-24)
 - [wh0sumit](https://x.com/wh0sumit/status/2096847253550063656) (2026-09-07)
 - [wickedguro](https://x.com/wickedguro/status/2072654822449586327) (2026-07-09)

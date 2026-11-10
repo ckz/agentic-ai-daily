@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-09
-total_mentions: 347
+last_seen: 2026-11-10
+total_mentions: 348
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -80,6 +80,7 @@ total_mentions: 347
 - [HedgieMarkets](https://x.com/HedgieMarkets/status/2022417260418122119) (2026-09-12)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2094462252107886731) (2026-09-04)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2095164094630518922) (2026-09-04)
+- [HoodieFade_](https://x.com/HoodieFade_/status/2119824593753956844) (2026-11-10)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2089180119973990492) (2026-08-19)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2065062300218749172) (2026-06-13)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2071608488791548064) (2026-06-30)

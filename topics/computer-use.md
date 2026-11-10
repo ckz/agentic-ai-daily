@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-11-09
-total_mentions: 194
+last_seen: 2026-11-10
+total_mentions: 195
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2118133694217306408) (2026-11-06)
@@ -124,6 +124,7 @@ total_mentions: 194
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2105499083431698547) (2026-10-01)
 - [hzlzh](https://x.com/hzlzh/status/2091570012368863571) (2026-08-24)
 - [illscience](https://x.com/illscience/status/2103941433883557983) (2026-09-27)
+- [imryven](https://x.com/imryven/status/2119045823342223411) (2026-11-10)
 - [instantricecook](https://x.com/instantricecook/status/2100814590300889426) (2026-09-23)
 - [jackyk02](https://x.com/jackyk02/status/2102905335925424285) (2026-09-24)
 - [jakevin7](https://x.com/jakevin7/status/2096850696964325472) (2026-09-07)

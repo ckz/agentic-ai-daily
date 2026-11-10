@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-09
-total_mentions: 1706
+last_seen: 2026-11-10
+total_mentions: 1714
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -368,6 +368,7 @@ total_mentions: 1706
 - [Dzola17](https://x.com/Dzola17/status/2104433618244563152) (2026-09-28)
 - [Dzola17](https://x.com/Dzola17/status/2118324858467856879) (2026-11-06)
 - [ELANGO27RAJ](https://x.com/ELANGO27RAJ/status/2118211924907446382) (2026-11-05)
+- [ELANGO27RAJ](https://x.com/ELANGO27RAJ/status/2120023212507509064) (2026-11-10)
 - [ET_Edge](https://x.com/ET_Edge/status/2083446599729254520) (2026-08-01)
 - [EaStEnRaY1](https://x.com/EaStEnRaY1/status/2116365106934333555) (2026-11-04)
 - [EmmanuelInvest](https://x.com/EmmanuelInvest/status/2072720009520873611) (2026-07-04)
@@ -433,6 +434,7 @@ total_mentions: 1706
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [HeyShobhan](https://x.com/HeyShobhan/status/2107810215680987529) (2026-10-11)
 - [HoodieFade_](https://x.com/HoodieFade_/status/2112634990542692708) (2026-10-25)
+- [HoodieFade_](https://x.com/HoodieFade_/status/2119824593753956844) (2026-11-10)
 - [HowToAI_](https://x.com/HowToAI_/status/2062105627204423994) (2026-06-06)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2089180119973990492) (2026-08-19)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2097489050332692836) (2026-09-11)
@@ -565,6 +567,7 @@ total_mentions: 1706
 - [MistralAI](https://x.com/MistralAI/status/2115811242556137820) (2026-11-01)
 - [MithilaStack](https://x.com/MithilaStack/status/2072557584536776834) (2026-07-02)
 - [Mnilax](https://x.com/Mnilax/status/2087651578639470614) (2026-08-14)
+- [ModelsOnOR](https://x.com/ModelsOnOR/status/2119974173904867790) (2026-11-10)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106251206524014747) (2026-10-10)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106601226276118967) (2026-10-05)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2109514844252807435) (2026-10-12)
@@ -836,6 +839,7 @@ total_mentions: 1706
 - [Zainabiliyasu10](https://x.com/Zainabiliyasu10/status/2099324482468958581) (2026-09-19)
 - [ZaraAi56190](https://x.com/ZaraAi56190/status/2108372681808924831) (2026-10-11)
 - [Zev_ee](https://x.com/Zev_ee/status/2063508054641967536) (2026-06-07)
+- [Zina__vo](https://x.com/Zina__vo/status/2119646905743384649) (2026-11-10)
 - [Ziven_Coder](https://x.com/Ziven_Coder/status/2078482313986642122) (2026-07-30)
 - [Zuesthekreator](https://x.com/Zuesthekreator/status/2087104886240374996) (2026-08-13)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
@@ -1047,6 +1051,7 @@ total_mentions: 1706
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/2038666497254433045) (2026-10-08)
 - [crystal_farm1](https://x.com/crystal_farm1/status/2076198578448367666) (2026-07-12)
 - [csaba_kissi](https://x.com/csaba_kissi/status/2074745257099485319) (2026-07-09)
+- [cutetoxicguy](https://x.com/cutetoxicguy/status/2120002225829282249) (2026-11-10)
 - [cwolferesearch](https://x.com/cwolferesearch/status/2068471261441802514) (2026-06-21)
 - [cwolferesearch](https://x.com/cwolferesearch/status/2091872097723359673) (2026-08-26)
 - [cyberoxic_OG](https://x.com/cyberoxic_OG/status/2068229943604216187) (2026-06-20)
@@ -1251,6 +1256,7 @@ total_mentions: 1706
 - [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2103142402047287534) (2026-09-28)
 - [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2108621128944022004) (2026-10-10)
 - [imarun_chauhan](https://x.com/imarun_chauhan/status/2063878197457134003) (2026-06-08)
+- [imryven](https://x.com/imryven/status/2119045823342223411) (2026-11-10)
 - [inflectaa](https://x.com/inflectaa/status/2104822745376911723) (2026-09-29)
 - [injective](https://x.com/injective/status/1867794623843958899) (2026-06-05)
 - [injective](https://x.com/injective/status/1881721788834672928) (2026-06-05)
@@ -1283,6 +1289,7 @@ total_mentions: 1706
 - [jpschroeder](https://x.com/jpschroeder/status/2085099179110703584) (2026-08-06)
 - [jshchnz](https://x.com/jshchnz/status/2095873634069831680) (2026-09-08)
 - [julesagent](https://x.com/julesagent/status/2115883717705261283) (2026-10-30)
+- [just4rxxy](https://x.com/just4rxxy/status/2120046461526122769) (2026-11-10)
 - [jwang633](https://x.com/jwang633/status/2105012942601367940) (2026-09-30)
 - [kadsxr](https://x.com/kadsxr/status/2076728894363775220) (2026-07-15)
 - [kadsxr](https://x.com/kadsxr/status/2076781099120804218) (2026-07-15)
@@ -1351,6 +1358,7 @@ total_mentions: 1706
 - [marfinxx](https://x.com/marfinxx/status/2102729802708918385) (2026-09-24)
 - [marfinxx](https://x.com/marfinxx/status/2107093610604765199) (2026-10-10)
 - [marfinxx](https://x.com/marfinxx/status/2114343835031441771) (2026-10-27)
+- [markgurman](https://x.com/markgurman/status/2119451386111005129) (2026-11-10)
 - [marryevan999](https://x.com/marryevan999/status/2077795286332952816) (2026-07-18)
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [maxescu](https://x.com/maxescu/status/2087195649561317511) (2026-08-13)

@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-11-09
-total_mentions: 1216
+last_seen: 2026-11-10
+total_mentions: 1222
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -88,6 +88,7 @@ total_mentions: 1216
 - [Aykutuces](https://x.com/Aykutuces/status/2082167918138106256) (2026-07-29)
 - [BIGMayrr](https://x.com/BIGMayrr/status/2088258814554390943) (2026-08-17)
 - [BTCqzy1](https://x.com/BTCqzy1/status/2087496242071056769) (2026-08-13)
+- [Ben_escrito](https://x.com/Ben_escrito/status/2119806997029659066) (2026-11-10)
 - [Benioff](https://x.com/Benioff/status/2094618697520615868) (2026-09-01)
 - [Bha74142Shivani](https://x.com/Bha74142Shivani/status/2087441456726524324) (2026-08-12)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2062873857304752368) (2026-06-05)
@@ -213,6 +214,7 @@ total_mentions: 1216
 - [HeyGenDev](https://x.com/HeyGenDev/status/2111151435778039811) (2026-10-17)
 - [HeyShobhan](https://x.com/HeyShobhan/status/2107810215680987529) (2026-10-11)
 - [HoodAI0x](https://x.com/HoodAI0x/status/2079228983309176849) (2026-07-21)
+- [HoodieFade_](https://x.com/HoodieFade_/status/2119824593753956844) (2026-11-10)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2076689880026096089) (2026-07-14)
 - [Hunter_Weiss](https://x.com/Hunter_Weiss/status/2097475932797751801) (2026-09-10)
 - [IBuzovskyi](https://x.com/IBuzovskyi/status/2065559839036637291) (2026-06-15)
@@ -601,6 +603,7 @@ total_mentions: 1216
 - [calbuldelis69](https://x.com/calbuldelis69/status/2109705355798384767) (2026-10-13)
 - [calcsam](https://x.com/calcsam/status/2115133696105955391) (2026-10-28)
 - [calebcanales_](https://x.com/calebcanales_/status/2117677337584304462) (2026-11-04)
+- [camilocbarrera](https://x.com/camilocbarrera/status/2119838329285795926) (2026-11-10)
 - [caspar_br](https://x.com/caspar_br/status/2113382598785532211) (2026-10-23)
 - [cb_doge](https://x.com/cb_doge/status/2093024115620004154) (2026-08-28)
 - [cb_doge](https://x.com/cb_doge/status/2093481818544844864) (2026-08-29)
@@ -645,6 +648,7 @@ total_mentions: 1216
 - [ctatedev](https://x.com/ctatedev/status/2115835185816289372) (2026-10-31)
 - [cursor_ai](https://x.com/cursor_ai/status/2085464617694777762) (2026-08-07)
 - [customuse](https://x.com/customuse/status/2087961834791858592) (2026-08-14)
+- [cutetoxicguy](https://x.com/cutetoxicguy/status/2120002225829282249) (2026-11-10)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2060914969605189808) (2026-06-05)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2061379784664584278) (2026-06-07)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2063946654206877823) (2026-06-09)
@@ -668,6 +672,7 @@ total_mentions: 1216
 - [dawoodkhan254](https://x.com/dawoodkhan254/status/2081031854371819912) (2026-07-26)
 - [de1lymoon](https://x.com/de1lymoon/status/2118347988028346702) (2026-11-06)
 - [deanwperkins](https://x.com/deanwperkins/status/2099488798572687489) (2026-09-16)
+- [deanwperkins](https://x.com/deanwperkins/status/2119741991202312662) (2026-11-10)
 - [derrickcchoi](https://x.com/derrickcchoi/status/2107842419874247028) (2026-10-08)
 - [devops_con](https://x.com/devops_con/status/2116070359669575683) (2026-10-30)
 - [deweytn](https://x.com/deweytn/status/2106499269322559970) (2026-10-06)
@@ -997,6 +1002,7 @@ total_mentions: 1216
 - [priors_trade](https://x.com/priors_trade/status/2111530436828541241) (2026-10-18)
 - [priors_trade](https://x.com/priors_trade/status/2113914433466486996) (2026-10-28)
 - [promptparag](https://x.com/promptparag/status/2064311991842574695) (2026-06-10)
+- [r_alx_z](https://x.com/r_alx_z/status/2120034468207706181) (2026-11-10)
 - [rauchg](https://x.com/rauchg/status/2096065378598441431) (2026-09-07)
 - [ravikiran_dev7](https://x.com/ravikiran_dev7/status/2089558898886021423) (2026-08-18)
 - [rebel0x0](https://x.com/rebel0x0/status/2067186712758071385) (2026-06-19)
