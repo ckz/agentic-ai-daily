@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-11-10
-total_mentions: 1222
+last_seen: 2026-11-11
+total_mentions: 1233
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -61,6 +61,7 @@ total_mentions: 1222
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2108513580979237175) (2026-10-12)
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2111463390233432181) (2026-10-18)
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2117150813403730105) (2026-11-03)
+- [AlexRiad84837](https://x.com/AlexRiad84837/status/2119777775095869557) (2026-11-11)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2075624719043166464) (2026-07-11)
 - [AliRashediG](https://x.com/AliRashediG/status/2104654598505943365) (2026-09-29)
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2057450220708147250) (2026-09-23)
@@ -200,6 +201,8 @@ total_mentions: 1222
 - [Grow_withAI](https://x.com/Grow_withAI/status/2106731541221306757) (2026-10-06)
 - [Harry_The_Nerd](https://x.com/Harry_The_Nerd/status/2110801408853422390) (2026-10-22)
 - [He1s_Sammy](https://x.com/He1s_Sammy/status/2091799479720497402) (2026-08-28)
+- [HeLi8866](https://x.com/HeLi8866/status/2119091822530302352) (2026-11-11)
+- [Healer0x](https://x.com/Healer0x/status/2120420204555481130) (2026-11-11)
 - [HenryCrochemore](https://x.com/HenryCrochemore/status/2111857414643318838) (2026-10-21)
 - [HermesWatcher](https://x.com/HermesWatcher/status/2109132354858176598) (2026-10-13)
 - [HermesWatcher](https://x.com/HermesWatcher/status/2115081092118032871) (2026-11-03)
@@ -525,6 +528,7 @@ total_mentions: 1222
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2085791632457433119) (2026-08-09)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2090732486951321914) (2026-08-25)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2093749877272715636) (2026-08-30)
+- [akshay_pachaar](https://x.com/akshay_pachaar/status/2119415218514370583) (2026-11-11)
 - [alex_prompter](https://x.com/alex_prompter/status/2071609730293022963) (2026-06-30)
 - [alex_verem](https://x.com/alex_verem/status/2091165832592413114) (2026-08-25)
 - [alex_verem](https://x.com/alex_verem/status/2096977799873712631) (2026-09-08)
@@ -708,6 +712,7 @@ total_mentions: 1222
 - [dschwarz26](https://x.com/dschwarz26/status/2093352278627684644) (2026-08-29)
 - [dsp_](https://x.com/dsp_/status/2082173429399142616) (2026-07-29)
 - [dsp_](https://x.com/dsp_/status/2091077636608950581) (2026-08-23)
+- [dsp_](https://x.com/dsp_/status/2120291550584574279) (2026-11-11)
 - [dummerspast39](https://x.com/dummerspast39/status/2091205904662249886) (2026-08-23)
 - [dummerspast39](https://x.com/dummerspast39/status/2093017322311053433) (2026-08-28)
 - [dummerspast39](https://x.com/dummerspast39/status/2093068591658926380) (2026-08-31)
@@ -749,6 +754,7 @@ total_mentions: 1222
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2078087855717376121) (2026-07-18)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2087449332119134430) (2026-08-19)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2087510073853481001) (2026-08-16)
+- [freeCodeCamp](https://x.com/freeCodeCamp/status/2119415612258554238) (2026-11-11)
 - [gabrielchua](https://x.com/gabrielchua/status/2110744134890017103) (2026-10-16)
 - [gabrielchua](https://x.com/gabrielchua/status/2112564935217774650) (2026-10-21)
 - [garrytan](https://x.com/garrytan/status/2099876434114494962) (2026-09-17)
@@ -897,6 +903,8 @@ total_mentions: 1222
 - [mattrothenberg](https://x.com/mattrothenberg/status/2088019847875526913) (2026-08-16)
 - [mattzcarey](https://x.com/mattzcarey/status/2112202956837638329) (2026-10-22)
 - [maxxmalist](https://x.com/maxxmalist/status/2116597651676262808) (2026-11-03)
+- [mayaislam_ai](https://x.com/mayaislam_ai/status/2119315305235370221) (2026-11-11)
+- [mayaislam_ai](https://x.com/mayaislam_ai/status/2120355046122824152) (2026-11-11)
 - [meliasiih](https://x.com/meliasiih/status/2064702135305220483) (2026-06-12)
 - [melisx402](https://x.com/melisx402/status/2070835381684048269) (2026-06-29)
 - [mentalium_](https://x.com/mentalium_/status/2110382934720929967) (2026-10-18)
@@ -1058,6 +1066,7 @@ total_mentions: 1222
 - [sanjeevSab17827](https://x.com/sanjeevSab17827/status/2096081496448913595) (2026-09-05)
 - [santtiagom_](https://x.com/santtiagom_/status/2095685798402064550) (2026-09-04)
 - [santtiagom_](https://x.com/santtiagom_/status/2097374607997084024) (2026-09-14)
+- [sean_t_strong](https://x.com/sean_t_strong/status/2120211018295238665) (2026-11-11)
 - [seeconvm](https://x.com/seeconvm/status/2084114434973171763) (2026-08-04)
 - [seeconvm](https://x.com/seeconvm/status/2087453527190745345) (2026-08-13)
 - [shannholmberg](https://x.com/shannholmberg/status/2099166725396922524) (2026-09-16)
@@ -1149,6 +1158,7 @@ total_mentions: 1222
 - [theo](https://x.com/theo/status/2087280199406903762) (2026-08-12)
 - [theo](https://x.com/theo/status/2092455706582499815) (2026-08-26)
 - [theo](https://x.com/theo/status/2115409288432906341) (2026-10-29)
+- [theo](https://x.com/theo/status/2119606132775997905) (2026-11-11)
 - [therajansharma](https://x.com/therajansharma/status/2068578446100308157) (2026-06-21)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thirteenua](https://x.com/thirteenua/status/2088201568235491584) (2026-08-15)
@@ -1187,6 +1197,7 @@ total_mentions: 1222
 - [undefinedKi](https://x.com/undefinedKi/status/2098760642526085164) (2026-09-13)
 - [undefinedKi](https://x.com/undefinedKi/status/2104235566921379944) (2026-09-30)
 - [undefinedKi](https://x.com/undefinedKi/status/2110483138413801661) (2026-10-19)
+- [undefinedKi](https://x.com/undefinedKi/status/2119786452858904989) (2026-11-11)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2082200846243143795) (2026-07-30)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2087461469881336049) (2026-08-13)
 - [unity](https://x.com/unity/status/2079389530260414898) (2026-07-24)

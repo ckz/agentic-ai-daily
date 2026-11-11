@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-10
-total_mentions: 348
+last_seen: 2026-11-11
+total_mentions: 350
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -259,6 +259,7 @@ total_mentions: 348
 - [johnwhereareu](https://x.com/johnwhereareu/status/2077603117928153169) (2026-07-16)
 - [jqdsouza](https://x.com/jqdsouza/status/2112552451547001218) (2026-10-21)
 - [karpathy](https://x.com/karpathy/status/2015883857489522876) (2026-09-19)
+- [kazutoyo](https://x.com/kazutoyo/status/2120247256981070328) (2026-11-11)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2099714012867178531) (2026-09-19)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [kunalstwt](https://x.com/kunalstwt/status/2073978095644643520) (2026-07-06)
@@ -283,6 +284,7 @@ total_mentions: 348
 - [mirku21](https://x.com/mirku21/status/2108301507955396970) (2026-10-11)
 - [mirku21](https://x.com/mirku21/status/2111200540772221418) (2026-10-20)
 - [mitchellh](https://x.com/mitchellh/status/2107577887159386152) (2026-10-10)
+- [mohua_coder](https://x.com/mohua_coder/status/2118627178556637437) (2026-11-11)
 - [mojeskoqq](https://x.com/mojeskoqq/status/2085273824413503536) (2026-08-09)
 - [mojeskoqq](https://x.com/mojeskoqq/status/2113623185316884826) (2026-10-24)
 - [noisyb0y1](https://x.com/noisyb0y1/status/2087218720594706679) (2026-08-13)

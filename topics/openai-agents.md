@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-10-25
-total_mentions: 113
+last_seen: 2026-11-11
+total_mentions: 115
 
 ## Related Tweets
 - [0xDepressionn](https://x.com/0xDepressionn/status/2063987019068371128) (2026-06-10)
@@ -66,6 +66,7 @@ total_mentions: 113
 - [_0xpainn](https://x.com/_0xpainn/status/2070432605552451963) (2026-08-02)
 - [adiix_official](https://x.com/adiix_official/status/2098425574377107724) (2026-09-14)
 - [ahatamiz1](https://x.com/ahatamiz1/status/2113344049784799378) (2026-10-23)
+- [akshay_pachaar](https://x.com/akshay_pachaar/status/2119415218514370583) (2026-11-11)
 - [alex_verem](https://x.com/alex_verem/status/2075994424484732984) (2026-07-12)
 - [alexandr_wang](https://x.com/alexandr_wang/status/2086523558940028995) (2026-08-11)
 - [alexxubyte](https://x.com/alexxubyte/status/2062186586431987780) (2026-06-05)
@@ -98,6 +99,7 @@ total_mentions: 113
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
 - [marcopapa99](https://x.com/marcopapa99/status/2107379003581665628) (2026-10-06)
 - [marfinxx](https://x.com/marfinxx/status/2102729802708918385) (2026-09-24)
+- [michealsathiya](https://x.com/michealsathiya/status/2120344258486178043) (2026-11-11)
 - [mirku21](https://x.com/mirku21/status/2106127135278612573) (2026-10-08)
 - [moneyacademyKE](https://x.com/moneyacademyKE/status/2081618955064455539) (2026-08-01)
 - [monmiglobal](https://x.com/monmiglobal/status/2071399421997359236) (2026-06-29)

@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-11-10
-total_mentions: 195
+last_seen: 2026-11-11
+total_mentions: 196
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2118133694217306408) (2026-11-06)
@@ -87,6 +87,7 @@ total_mentions: 195
 - [ataiiam](https://x.com/ataiiam/status/2102400431519592581) (2026-09-23)
 - [ataiiam](https://x.com/ataiiam/status/2105710796198322659) (2026-10-02)
 - [ataiiam](https://x.com/ataiiam/status/2115097056394240293) (2026-10-28)
+- [ataiiam](https://x.com/ataiiam/status/2120170276302524488) (2026-11-11)
 - [awlevin](https://x.com/awlevin/status/2100262612428894676) (2026-09-17)
 - [bcherny](https://x.com/bcherny/status/2095378890370019683) (2026-09-06)
 - [blackanger](https://x.com/blackanger/status/2118043007413104810) (2026-11-05)

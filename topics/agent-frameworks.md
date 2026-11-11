@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-10
-total_mentions: 660
+last_seen: 2026-11-11
+total_mentions: 669
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -77,6 +77,7 @@ total_mentions: 660
 - [ChillTRD](https://x.com/ChillTRD/status/2113024030261563775) (2026-10-22)
 - [ChiomaChukwura2](https://x.com/ChiomaChukwura2/status/2085162277288976842) (2026-08-09)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2064756984617021807) (2026-06-11)
+- [CobusGreylingZA](https://x.com/CobusGreylingZA/status/2118391927783489981) (2026-11-11)
 - [ColeMacro](https://x.com/ColeMacro/status/2092270223827325432) (2026-08-29)
 - [Colhodm](https://x.com/Colhodm/status/2072373857999098214) (2026-07-02)
 - [Connect_Mani](https://x.com/Connect_Mani/status/2100219151956754712) (2026-09-18)
@@ -167,6 +168,7 @@ total_mentions: 660
 - [HarryBee_Yhu](https://x.com/HarryBee_Yhu/status/2067864020527292535) (2026-06-19)
 - [HelgaHinojosa](https://x.com/HelgaHinojosa/status/2110221824608862378) (2026-10-14)
 - [HelgaHinojosa](https://x.com/HelgaHinojosa/status/2118574028294144214) (2026-11-06)
+- [HelgaHinojosa](https://x.com/HelgaHinojosa/status/2120380509754916918) (2026-11-11)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [HoodieFade_](https://x.com/HoodieFade_/status/2119824593753956844) (2026-11-10)
@@ -261,6 +263,7 @@ total_mentions: 660
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2104167920305889593) (2026-09-28)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2112819930244448277) (2026-10-23)
 - [Rukkssss__](https://x.com/Rukkssss__/status/2068218163414642701) (2026-06-20)
+- [Saanvi_dhillon](https://x.com/Saanvi_dhillon/status/2120332556453446129) (2026-11-11)
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2063086140799012963) (2026-06-06)
 - [SciFi](https://x.com/SciFi/status/2110997214726123929) (2026-10-16)
 - [SciFi](https://x.com/SciFi/status/2118525619923263709) (2026-11-06)
@@ -283,6 +286,7 @@ total_mentions: 660
 - [Sumanth_077](https://x.com/Sumanth_077/status/2091169662956720527) (2026-08-25)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2084693098714599697) (2026-08-05)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2085286044975476808) (2026-08-11)
+- [SzymonRybczak](https://x.com/SzymonRybczak/status/2119791895618740507) (2026-11-11)
 - [TeachTheMachine](https://x.com/TeachTheMachine/status/2107883727473062003) (2026-10-08)
 - [Teamily_AI](https://x.com/Teamily_AI/status/2108193886137106487) (2026-10-11)
 - [TechWithTimm](https://x.com/TechWithTimm/status/2107108551172993387) (2026-10-12)
@@ -296,6 +300,7 @@ total_mentions: 660
 - [The_Cyber_News](https://x.com/The_Cyber_News/status/2096594188003676213) (2026-09-12)
 - [Thom_Wolf](https://x.com/Thom_Wolf/status/2095889630306472127) (2026-09-06)
 - [ThomasOrTK](https://x.com/ThomasOrTK/status/2072005642727158247) (2026-07-01)
+- [TimothyAyodeji8](https://x.com/TimothyAyodeji8/status/2043757324414726383) (2026-11-11)
 - [TweetsByTBI](https://x.com/TweetsByTBI/status/2108135391098454429) (2026-10-09)
 - [UFCS](https://x.com/UFCS/status/2107356066719621508) (2026-10-06)
 - [UK_Daniel_Card](https://x.com/UK_Daniel_Card/status/2077623819913617526) (2026-07-16)
@@ -484,6 +489,7 @@ total_mentions: 660
 - [humafinance](https://x.com/humafinance/status/2062445243711279528) (2026-06-08)
 - [iamlukethedev](https://x.com/iamlukethedev/status/2063081062473859097) (2026-06-06)
 - [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2083874254358024567) (2026-08-04)
+- [imryven](https://x.com/imryven/status/2120171408793727004) (2026-11-11)
 - [ipfconline1](https://x.com/ipfconline1/status/2066408115369656823) (2026-06-15)
 - [irabukht](https://x.com/irabukht/status/2110189752666440181) (2026-10-19)
 - [islam_naserr](https://x.com/islam_naserr/status/2065299167560257970) (2026-06-12)
@@ -523,6 +529,7 @@ total_mentions: 660
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [mentalium_](https://x.com/mentalium_/status/2110382934720929967) (2026-10-18)
 - [mentalium_](https://x.com/mentalium_/status/2118723483286778349) (2026-11-09)
+- [michealsathiya](https://x.com/michealsathiya/status/2120344258486178043) (2026-11-11)
 - [michyexe](https://x.com/michyexe/status/2000613204116844826) (2026-06-15)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2071513914504802525) (2026-07-01)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2080208806043406646) (2026-07-24)
@@ -621,6 +628,7 @@ total_mentions: 660
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2115065255835627540) (2026-10-29)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2115413286829298029) (2026-10-29)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2117225221971415403) (2026-11-05)
+- [swarat](https://x.com/swarat/status/2120147774205301073) (2026-11-11)
 - [techNmak](https://x.com/techNmak/status/2090689729461411951) (2026-08-25)
 - [techNmak](https://x.com/techNmak/status/2091434187446439969) (2026-08-24)
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)
@@ -643,6 +651,7 @@ total_mentions: 660
 - [trikcode](https://x.com/trikcode/status/2084420246039851517) (2026-08-04)
 - [triptitips](https://x.com/triptitips/status/2101682470655758391) (2026-09-21)
 - [triptitips](https://x.com/triptitips/status/2103681542602265021) (2026-09-29)
+- [tylerlum23](https://x.com/tylerlum23/status/2120278890870718714) (2026-11-11)
 - [uaghazadae](https://x.com/uaghazadae/status/2087580062593823004) (2026-08-13)
 - [uiuxshasankodas](https://x.com/uiuxshasankodas/status/2087148581899870551) (2026-08-13)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2081851083119288719) (2026-07-28)

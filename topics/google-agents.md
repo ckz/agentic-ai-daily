@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-10
-total_mentions: 143
+last_seen: 2026-11-11
+total_mentions: 145
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -16,10 +16,12 @@ total_mentions: 143
 - [AidenChaoyangHe](https://x.com/AidenChaoyangHe/status/2117613537929703708) (2026-11-04)
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2111463390233432181) (2026-10-18)
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2117150813403730105) (2026-11-03)
+- [AlexRiad84837](https://x.com/AlexRiad84837/status/2119777775095869557) (2026-11-11)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2070541643518775354) (2026-06-27)
 - [Arcane_Aii](https://x.com/Arcane_Aii/status/2064316482071171261) (2026-06-11)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2076747075036045645) (2026-07-14)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2082991648703930561) (2026-08-05)
+- [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2120220567038984212) (2026-11-11)
 - [CNBC](https://x.com/CNBC/status/2104511561335181591) (2026-09-29)
 - [Creatify_AI](https://x.com/Creatify_AI/status/2064400985288802621) (2026-06-11)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2089423549379559718) (2026-08-19)

@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-10
-total_mentions: 873
+last_seen: 2026-11-11
+total_mentions: 875
 
 ## Related Tweets
 - [0x0simba_eth](https://x.com/0x0simba_eth/status/2118895661722616112) (2026-11-07)
@@ -681,6 +681,7 @@ total_mentions: 873
 - [nicochristie](https://x.com/nicochristie/status/2093729344871170219) (2026-08-30)
 - [noah_schochet](https://x.com/noah_schochet/status/2077044441978737104) (2026-07-17)
 - [ns123abc](https://x.com/ns123abc/status/2108070503931936780) (2026-10-09)
+- [ns123abc](https://x.com/ns123abc/status/2120279588324647007) (2026-11-11)
 - [okxafrica](https://x.com/okxafrica/status/2102644632350085140) (2026-09-23)
 - [oldstackjournal](https://x.com/oldstackjournal/status/2112651070824669657) (2026-10-21)
 - [om_patel5](https://x.com/om_patel5/status/2099683744781111419) (2026-09-17)
@@ -728,6 +729,7 @@ total_mentions: 873
 - [rauchg](https://x.com/rauchg/status/2088735125744070932) (2026-08-18)
 - [ravikiran_dev7](https://x.com/ravikiran_dev7/status/2088373187981828420) (2026-08-16)
 - [rayansadri](https://x.com/rayansadri/status/2103479955392741620) (2026-09-30)
+- [rayruizhiliao](https://x.com/rayruizhiliao/status/2120217092553413028) (2026-11-11)
 - [realDonaldTrump](https://x.com/realDonaldTrump/status/1007671131841671169) (2026-09-23)
 - [realDonaldTrump](https://x.com/realDonaldTrump/status/1925548216243703820) (2026-09-23)
 - [realEstateTrent](https://x.com/realEstateTrent/status/2096996751013982458) (2026-09-08)

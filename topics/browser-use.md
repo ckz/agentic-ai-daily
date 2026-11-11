@@ -1,8 +1,8 @@
 # Browser Use
 
 first_seen: 2026-06-07
-last_seen: 2026-11-09
-total_mentions: 58
+last_seen: 2026-11-11
+total_mentions: 59
 
 ## Related Tweets
 - [0xSero](https://x.com/0xSero/status/2106844590376645117) (2026-10-09)
@@ -37,6 +37,7 @@ total_mentions: 58
 - [biswaasen](https://x.com/biswaasen/status/2072065994152145370) (2026-07-01)
 - [browser_use](https://x.com/browser_use/status/2072699513228378262) (2026-07-05)
 - [browser_use](https://x.com/browser_use/status/2090937982295630278) (2026-08-22)
+- [browser_use](https://x.com/browser_use/status/2119983662162952278) (2026-11-11)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
 - [clapilot](https://x.com/clapilot/status/2063510331716952191) (2026-06-07)
 - [cwmasaki](https://x.com/cwmasaki/status/2088433897445171301) (2026-08-15)

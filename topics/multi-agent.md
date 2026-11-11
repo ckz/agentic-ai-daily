@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-11-10
-total_mentions: 431
+last_seen: 2026-11-11
+total_mentions: 434
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -104,6 +104,7 @@ total_mentions: 431
 - [Degen_calls_sol](https://x.com/Degen_calls_sol/status/2077084965209030808) (2026-07-15)
 - [DeltaV_xyz](https://x.com/DeltaV_xyz/status/2082837299113398454) (2026-08-02)
 - [DestraNetwork](https://x.com/DestraNetwork/status/1906074225016017400) (2026-07-10)
+- [Didotxyz_](https://x.com/Didotxyz_/status/2120404894331150514) (2026-11-11)
 - [Dipanshu_AI](https://x.com/Dipanshu_AI/status/2090988836906213581) (2026-08-22)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2079620877151502483) (2026-07-23)
@@ -128,6 +129,7 @@ total_mentions: 431
 - [GoshawkTrades](https://x.com/GoshawkTrades/status/2099540726216597900) (2026-09-16)
 - [GpaAndy](https://x.com/GpaAndy/status/2101129153172910212) (2026-09-20)
 - [Greshamtrade](https://x.com/Greshamtrade/status/2112270735116812640) (2026-10-22)
+- [Grow_withAI](https://x.com/Grow_withAI/status/2120133758783488444) (2026-11-11)
 - [HZoete](https://x.com/HZoete/status/2104954372866085007) (2026-09-30)
 - [Harry_The_Nerd](https://x.com/Harry_The_Nerd/status/2110801408853422390) (2026-10-22)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
@@ -427,6 +429,7 @@ total_mentions: 431
 - [thsottiaux](https://x.com/thsottiaux/status/2075641131002700120) (2026-07-11)
 - [tom_doerr](https://x.com/tom_doerr/status/2066365949926629733) (2026-06-15)
 - [undefinedKi](https://x.com/undefinedKi/status/2097302662026870996) (2026-09-09)
+- [undefinedKi](https://x.com/undefinedKi/status/2119786452858904989) (2026-11-11)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2088581651332805021) (2026-08-22)
 - [vincentweisser](https://x.com/vincentweisser/status/2085101151146696820) (2026-08-06)
 - [vincentweisser](https://x.com/vincentweisser/status/2104623970662371472) (2026-10-03)
