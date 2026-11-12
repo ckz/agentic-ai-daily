@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-11
-total_mentions: 228
+last_seen: 2026-11-12
+total_mentions: 230
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -24,6 +24,7 @@ total_mentions: 228
 - [BioAI_NeuralNet](https://x.com/BioAI_NeuralNet/status/2114161649183601012) (2026-11-01)
 - [ChromiumDev](https://x.com/ChromiumDev/status/2077874454105862423) (2026-07-17)
 - [ClementDelangue](https://x.com/ClementDelangue/status/2107120717980471638) (2026-10-07)
+- [CloudflareDev](https://x.com/CloudflareDev/status/2118013149538390253) (2026-11-12)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2116885723601068339) (2026-11-05)
 - [Colhodm](https://x.com/Colhodm/status/2072373857999098214) (2026-07-02)
 - [Da7_Tech](https://x.com/Da7_Tech/status/2101526202783576510) (2026-09-20)
@@ -207,6 +208,7 @@ total_mentions: 228
 - [seelffff](https://x.com/seelffff/status/2071118707405816250) (2026-06-29)
 - [shao__meng](https://x.com/shao__meng/status/2096528991285092700) (2026-09-12)
 - [sharbel](https://x.com/sharbel/status/2055680438417412359) (2026-06-29)
+- [shriram_s](https://x.com/shriram_s/status/2120612005686255994) (2026-11-12)
 - [silasalberti](https://x.com/silasalberti/status/2101042815426060339) (2026-09-19)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2077223722654834863) (2026-07-16)
 - [stretchcloud](https://x.com/stretchcloud/status/2079772421947560434) (2026-07-22)

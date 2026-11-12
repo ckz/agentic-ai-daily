@@ -1,10 +1,11 @@
 # Browser Use
 
 first_seen: 2026-06-07
-last_seen: 2026-11-11
-total_mentions: 59
+last_seen: 2026-11-12
+total_mentions: 60
 
 ## Related Tweets
+- [0xGenAi](https://x.com/0xGenAi/status/2120243742657368359) (2026-11-12)
 - [0xSero](https://x.com/0xSero/status/2106844590376645117) (2026-10-09)
 - [0xSero](https://x.com/0xSero/status/2108458027749929304) (2026-10-11)
 - [1Password](https://x.com/1Password/status/2113276767582498943) (2026-10-23)

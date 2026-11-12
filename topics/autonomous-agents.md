@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-11
-total_mentions: 1726
+last_seen: 2026-11-12
+total_mentions: 1739
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -316,6 +316,7 @@ total_mentions: 1726
 - [DamiDefi](https://x.com/DamiDefi/status/2096629749003280476) (2026-09-08)
 - [DamiDefi](https://x.com/DamiDefi/status/2103870712708788238) (2026-09-27)
 - [DamiDefi](https://x.com/DamiDefi/status/2104496839064178804) (2026-10-03)
+- [Dan1umma](https://x.com/Dan1umma/status/2120668363051446462) (2026-11-12)
 - [DanKornas](https://x.com/DanKornas/status/2072195733927706691) (2026-07-01)
 - [DanKornas](https://x.com/DanKornas/status/2077488623125971059) (2026-07-16)
 - [DanKornas](https://x.com/DanKornas/status/2085970749110571165) (2026-08-13)
@@ -493,6 +494,7 @@ total_mentions: 1726
 - [KirkDBorne](https://x.com/KirkDBorne/status/2076503185225617544) (2026-07-13)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2084357801359347866) (2026-08-09)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2097054388506251532) (2026-09-08)
+- [KitPloit](https://x.com/KitPloit/status/2120788856781844640) (2026-11-12)
 - [Krafton_AI](https://x.com/Krafton_AI/status/2112772568776339709) (2026-10-21)
 - [Krishnasagrawal](https://x.com/Krishnasagrawal/status/2075557881156657352) (2026-07-11)
 - [Krishnasagrawal](https://x.com/Krishnasagrawal/status/2076370564831486040) (2026-07-14)
@@ -600,6 +602,8 @@ total_mentions: 1726
 - [NehraWorkss](https://x.com/NehraWorkss/status/2068567171610120693) (2026-06-21)
 - [NeoSoulAI](https://x.com/NeoSoulAI/status/2081695461329752503) (2026-07-29)
 - [NexEcosystem](https://x.com/NexEcosystem/status/2097341149405151287) (2026-09-09)
+- [Nexora_iQ](https://x.com/Nexora_iQ/status/2120011933470671359) (2026-11-12)
+- [NicolaBlackwo12](https://x.com/NicolaBlackwo12/status/2118146282703462806) (2026-11-12)
 - [NotebookLM](https://x.com/NotebookLM/status/2064016460964585549) (2026-06-11)
 - [NousResearch](https://x.com/NousResearch/status/2026759005633183980) (2026-06-07)
 - [NousResearch](https://x.com/NousResearch/status/2097403926072987986) (2026-09-09)
@@ -946,6 +950,7 @@ total_mentions: 1726
 - [architeqtai](https://x.com/architeqtai/status/2065343364166299693) (2026-06-12)
 - [ardizor](https://x.com/ardizor/status/2062571108021215563) (2026-06-05)
 - [arena](https://x.com/arena/status/2071630464583151727) (2026-06-30)
+- [arena](https://x.com/arena/status/2120568144687460434) (2026-11-12)
 - [arlanoska](https://x.com/arlanoska/status/2105001306503139816) (2026-09-30)
 - [arle0x](https://x.com/arle0x/status/2097726809529811454) (2026-09-11)
 - [arle0x](https://x.com/arle0x/status/2100983195508367747) (2026-09-19)
@@ -988,6 +993,7 @@ total_mentions: 1726
 - [bl888m_eth](https://x.com/bl888m_eth/status/2093383311859372096) (2026-08-31)
 - [bl888m_eth](https://x.com/bl888m_eth/status/2094452487059353864) (2026-09-03)
 - [bl888m_eth](https://x.com/bl888m_eth/status/2103889427496124849) (2026-09-28)
+- [bl888m_eth](https://x.com/bl888m_eth/status/2119802853544034683) (2026-11-12)
 - [blocks_ai_](https://x.com/blocks_ai_/status/2110953639258865872) (2026-10-16)
 - [bode_sule](https://x.com/bode_sule/status/2114225364717482179) (2026-10-25)
 - [bondaicommunity](https://x.com/bondaicommunity/status/2071466190359220413) (2026-06-29)
@@ -1107,6 +1113,7 @@ total_mentions: 1726
 - [defyneric](https://x.com/defyneric/status/2107171778661384197) (2026-10-06)
 - [degenApe22](https://x.com/degenApe22/status/2106517300576960799) (2026-10-04)
 - [degen_mike14](https://x.com/degen_mike14/status/2072413220703236391) (2026-07-03)
+- [destinydou_](https://x.com/destinydou_/status/2119970607056220297) (2026-11-12)
 - [dexhorthy](https://x.com/dexhorthy/status/2067286892786454855) (2026-06-19)
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
 - [dharmesh](https://x.com/dharmesh/status/2093071931188597042) (2026-08-28)
@@ -1141,6 +1148,7 @@ total_mentions: 1726
 - [duty_1g](https://x.com/duty_1g/status/2091195144863158517) (2026-08-24)
 - [e4ma_officiall](https://x.com/e4ma_officiall/status/2101889325449261187) (2026-09-21)
 - [e4ma_officiall](https://x.com/e4ma_officiall/status/2102372289383661675) (2026-09-24)
+- [e4ma_officiall](https://x.com/e4ma_officiall/status/2120003671098298616) (2026-11-12)
 - [e_opore](https://x.com/e_opore/status/2073977846448451776) (2026-07-06)
 - [e_opore](https://x.com/e_opore/status/2077277237334757636) (2026-07-16)
 - [e_opore](https://x.com/e_opore/status/2077591797727887532) (2026-07-22)
@@ -1311,6 +1319,7 @@ total_mentions: 1726
 - [kevin_parker_ai](https://x.com/kevin_parker_ai/status/2100419530648703015) (2026-09-18)
 - [kevinroose](https://x.com/kevinroose/status/2098454644234330364) (2026-09-12)
 - [keyserfaty](https://x.com/keyserfaty/status/2092679276168638954) (2026-08-27)
+- [khodeSL](https://x.com/khodeSL/status/2120435717251781068) (2026-11-12)
 - [kimmonismus](https://x.com/kimmonismus/status/2085812651163296161) (2026-08-08)
 - [kirillk_web3](https://x.com/kirillk_web3/status/2090621157087064304) (2026-08-24)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2094551333525447072) (2026-09-01)
@@ -1409,6 +1418,7 @@ total_mentions: 1726
 - [monmiglobal](https://x.com/monmiglobal/status/2071399421997359236) (2026-06-29)
 - [monokern](https://x.com/monokern/status/2088233393817288974) (2026-08-21)
 - [mrchrismast_](https://x.com/mrchrismast_/status/2116422606450774255) (2026-10-31)
+- [mtave0128](https://x.com/mtave0128/status/2119972265962205389) (2026-11-12)
 - [mvanhorn](https://x.com/mvanhorn/status/2061978364391592110) (2026-06-07)
 - [mvanhorn](https://x.com/mvanhorn/status/2074955232728281432) (2026-07-09)
 - [myshell_ai](https://x.com/myshell_ai/status/1874804449023266943) (2026-07-10)
@@ -1561,6 +1571,7 @@ total_mentions: 1726
 - [semrush](https://x.com/semrush/status/2107038587866804617) (2026-10-07)
 - [sentient_agency](https://x.com/sentient_agency/status/2062510703215546623) (2026-06-11)
 - [sentient_zh](https://x.com/sentient_zh/status/2066417986467189164) (2026-06-15)
+- [serc1n](https://x.com/serc1n/status/2119787233632719147) (2026-11-12)
 - [sermakarevich](https://x.com/sermakarevich/status/2108942010123968804) (2026-10-13)
 - [sermakarevich](https://x.com/sermakarevich/status/2109334211727659117) (2026-10-13)
 - [setyamickala](https://x.com/setyamickala/status/2066848520326480020) (2026-06-28)
@@ -1581,10 +1592,12 @@ total_mentions: 1726
 - [sherlockdefi](https://x.com/sherlockdefi/status/2079222748572697080) (2026-07-26)
 - [shikamarutsai](https://x.com/shikamarutsai/status/2088636457938280724) (2026-08-19)
 - [shikamarutsai](https://x.com/shikamarutsai/status/2119197676415877128) (2026-11-08)
+- [shikamarutsai](https://x.com/shikamarutsai/status/2120275993088925734) (2026-11-12)
 - [shiqway92](https://x.com/shiqway92/status/2081403424986239014) (2026-07-28)
 - [shiri_shh](https://x.com/shiri_shh/status/2060434223299998179) (2026-06-05)
 - [shiri_shh](https://x.com/shiri_shh/status/2061426931162288614) (2026-06-06)
 - [shmidtqq](https://x.com/shmidtqq/status/2106020975724658989) (2026-10-08)
+- [shriram_s](https://x.com/shriram_s/status/2120612005686255994) (2026-11-12)
 - [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)
 - [shushant_l](https://x.com/shushant_l/status/2071096264339620159) (2026-06-28)
 - [shushant_l](https://x.com/shushant_l/status/2078707411670704572) (2026-07-19)

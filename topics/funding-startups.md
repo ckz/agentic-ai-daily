@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-11
-total_mentions: 875
+last_seen: 2026-11-12
+total_mentions: 884
 
 ## Related Tweets
 - [0x0simba_eth](https://x.com/0x0simba_eth/status/2118895661722616112) (2026-11-07)
@@ -453,6 +453,7 @@ total_mentions: 875
 - [chasewoolard](https://x.com/chasewoolard/status/2099676141854589366) (2026-09-15)
 - [christophersaum](https://x.com/christophersaum/status/2069813347420119217) (2026-06-28)
 - [christophersaum](https://x.com/christophersaum/status/2074608938046104035) (2026-07-08)
+- [clairevo](https://x.com/clairevo/status/2119985786045227197) (2026-11-12)
 - [claudeai](https://x.com/claudeai/status/2107513494493179954) (2026-10-07)
 - [codewith55](https://x.com/codewith55/status/2107670904109191601) (2026-10-07)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2064532856945398214) (2026-06-10)
@@ -471,6 +472,7 @@ total_mentions: 875
 - [creem_io](https://x.com/creem_io/status/2100479871466020889) (2026-09-20)
 - [cryptopunk7213](https://x.com/cryptopunk7213/status/1872809091799875592) (2026-06-29)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2076868034812096748) (2026-07-14)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2120739625841123546) (2026-11-12)
 - [cyvanessali](https://x.com/cyvanessali/status/2114083981549515019) (2026-10-25)
 - [cz_binance](https://x.com/cz_binance/status/2113611119445373422) (2026-10-29)
 - [dApp_boi](https://x.com/dApp_boi/status/2118124694855704728) (2026-11-05)
@@ -526,6 +528,7 @@ total_mentions: 875
 - [fin465](https://x.com/fin465/status/2079993565019795637) (2026-07-25)
 - [fin465](https://x.com/fin465/status/2081459766287888794) (2026-07-27)
 - [fin465](https://x.com/fin465/status/2088287274727301259) (2026-08-15)
+- [fivosaresti](https://x.com/fivosaresti/status/2120245192787718441) (2026-11-12)
 - [freedomcaucus](https://x.com/freedomcaucus/status/2104651223009759602) (2026-09-29)
 - [fundingtraders](https://x.com/fundingtraders/status/2072289577017000341) (2026-07-06)
 - [gaganbiyani](https://x.com/gaganbiyani/status/2102404344351973825) (2026-09-24)
@@ -600,6 +603,7 @@ total_mentions: 875
 - [johnrush](https://x.com/johnrush/status/2100322424386429223) (2026-09-20)
 - [johnrush](https://x.com/johnrush/status/2117360616424050957) (2026-11-04)
 - [jomatech](https://x.com/jomatech/status/2071058503805124918) (2026-06-28)
+- [joshpxyne](https://x.com/joshpxyne/status/2120207063624327602) (2026-11-12)
 - [joulee](https://x.com/joulee/status/2113740540655325375) (2026-10-29)
 - [jqdsouza](https://x.com/jqdsouza/status/2112552451547001218) (2026-10-21)
 - [jsolomonReports](https://x.com/jsolomonReports/status/2083874257189097789) (2026-08-05)
@@ -613,6 +617,7 @@ total_mentions: 875
 - [kapilansh_twt](https://x.com/kapilansh_twt/status/2086328186393247796) (2026-08-09)
 - [kathrynwu1](https://x.com/kathrynwu1/status/2108633616741785725) (2026-10-12)
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
+- [khodeSL](https://x.com/khodeSL/status/2120435717251781068) (2026-11-12)
 - [kirillk_web3](https://x.com/kirillk_web3/status/2098902710120743088) (2026-09-14)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)
 - [kmr_dilip](https://x.com/kmr_dilip/status/2084154599183929363) (2026-08-06)
@@ -645,6 +650,7 @@ total_mentions: 875
 - [marclou](https://x.com/marclou/status/2097326512169222407) (2026-09-09)
 - [marclou](https://x.com/marclou/status/2107145539955368383) (2026-10-07)
 - [marclou](https://x.com/marclou/status/2109921617379991632) (2026-10-15)
+- [marclou](https://x.com/marclou/status/2120155404957311464) (2026-11-12)
 - [marcopapa99](https://x.com/marcopapa99/status/2107379003581665628) (2026-10-06)
 - [marcrandolph](https://x.com/marcrandolph/status/2093141802610254231) (2026-08-29)
 - [marcushan_](https://x.com/marcushan_/status/2098222906673090570) (2026-09-11)
@@ -769,6 +775,7 @@ total_mentions: 875
 - [sflorimm](https://x.com/sflorimm/status/2087060630696042736) (2026-08-14)
 - [sfstandard](https://x.com/sfstandard/status/2104769166087426388) (2026-10-01)
 - [shmidtqq](https://x.com/shmidtqq/status/2074446282303639911) (2026-07-09)
+- [shriram_s](https://x.com/shriram_s/status/2120612005686255994) (2026-11-12)
 - [shubgaur](https://x.com/shubgaur/status/2110959845302235208) (2026-10-16)
 - [siddharthwv](https://x.com/siddharthwv/status/2097921094858731836) (2026-09-12)
 - [signulll](https://x.com/signulll/status/2064053145580278163) (2026-06-09)
@@ -792,6 +799,7 @@ total_mentions: 875
 - [spacedevin](https://x.com/spacedevin/status/2118404772357358001) (2026-11-06)
 - [sridharfyi](https://x.com/sridharfyi/status/2100562893758718127) (2026-09-20)
 - [sridharfyi](https://x.com/sridharfyi/status/2112778407079469263) (2026-10-21)
+- [sridharfyi](https://x.com/sridharfyi/status/2119608084985475298) (2026-11-12)
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
 - [starter_story](https://x.com/starter_story/status/2106053639123140814) (2026-10-03)
 - [stevenfiorillo](https://x.com/stevenfiorillo/status/2093840650223358375) (2026-08-30)
@@ -821,6 +829,7 @@ total_mentions: 875
 - [thejustinwelsh](https://x.com/thejustinwelsh/status/2107078882843054454) (2026-10-08)
 - [themacliu](https://x.com/themacliu/status/2105689445626478871) (2026-10-02)
 - [theo_jala](https://x.com/theo_jala/status/2092325621137305875) (2026-08-26)
+- [theresidency](https://x.com/theresidency/status/2120586611494937068) (2026-11-12)
 - [thesupermanmx](https://x.com/thesupermanmx/status/2094251628220334579) (2026-08-31)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2068965021514891696) (2026-06-27)

@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-11
-total_mentions: 350
+last_seen: 2026-11-12
+total_mentions: 354
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -167,6 +167,7 @@ total_mentions: 350
 - [anandPa94](https://x.com/anandPa94/status/2118801255833407769) (2026-11-07)
 - [angeldot_](https://x.com/angeldot_/status/2114374287549157402) (2026-10-26)
 - [anitakirkovska](https://x.com/anitakirkovska/status/2117336406246727956) (2026-11-03)
+- [arena](https://x.com/arena/status/2120568144687460434) (2026-11-12)
 - [ashtom](https://x.com/ashtom/status/1925597395192357337) (2026-09-04)
 - [atulkumarzz](https://x.com/atulkumarzz/status/2108191514811842742) (2026-10-09)
 - [bcherny](https://x.com/bcherny/status/2064431111154053187) (2026-06-15)
@@ -253,6 +254,7 @@ total_mentions: 350
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
 - [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)
 - [jamonholmgren](https://x.com/jamonholmgren/status/2076001786700394610) (2026-07-12)
+- [jans](https://x.com/jans/status/2120546950496043111) (2026-11-12)
 - [jaredrhod](https://x.com/jaredrhod/status/2073840273914728935) (2026-07-06)
 - [jasonlk](https://x.com/jasonlk/status/2093792483977376045) (2026-08-31)
 - [jiang_kev](https://x.com/jiang_kev/status/2082496145994248488) (2026-07-30)
@@ -266,6 +268,7 @@ total_mentions: 350
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
 - [lksmlabc](https://x.com/lksmlabc/status/2096524556123115628) (2026-09-09)
 - [longhaiqwe123](https://x.com/longhaiqwe123/status/2114031712430948410) (2026-10-25)
+- [m9rcn](https://x.com/m9rcn/status/2120568368067735742) (2026-11-12)
 - [maixbt](https://x.com/maixbt/status/2114840031114531187) (2026-11-02)
 - [making_cindy](https://x.com/making_cindy/status/2114627189119566266) (2026-10-28)
 - [marfinxx](https://x.com/marfinxx/status/2102729802708918385) (2026-09-24)
@@ -314,6 +317,7 @@ total_mentions: 350
 - [shao__meng](https://x.com/shao__meng/status/2114164780986679331) (2026-10-27)
 - [sharbel](https://x.com/sharbel/status/2063369348828610886) (2026-06-11)
 - [shikamarutsai](https://x.com/shikamarutsai/status/2110817965658571181) (2026-10-17)
+- [shikamarutsai](https://x.com/shikamarutsai/status/2120275993088925734) (2026-11-12)
 - [skunzu](https://x.com/skunzu/status/2110808873322123547) (2026-10-17)
 - [slash1sol](https://x.com/slash1sol/status/2109269883888246926) (2026-10-12)
 - [sohmehta](https://x.com/sohmehta/status/2097374528175526083) (2026-09-15)

@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-11
-total_mentions: 669
+last_seen: 2026-11-12
+total_mentions: 674
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -13,6 +13,7 @@ total_mentions: 669
 - [0xMontBlanc](https://x.com/0xMontBlanc/status/2112208608104792401) (2026-10-20)
 - [0xMorlex](https://x.com/0xMorlex/status/2083551815895798048) (2026-08-02)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
+- [0xMovez](https://x.com/0xMovez/status/2118756438550196404) (2026-11-12)
 - [0xPritom](https://x.com/0xPritom/status/2114193806929297550) (2026-10-26)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
 - [0x_aster](https://x.com/0x_aster/status/2106467164408758656) (2026-10-06)
@@ -134,6 +135,7 @@ total_mentions: 669
 - [Farhan3jwq](https://x.com/Farhan3jwq/status/2108412170279194765) (2026-10-09)
 - [FastCompany](https://x.com/FastCompany/status/2063149004490149919) (2026-06-06)
 - [FourPillarsFP](https://x.com/FourPillarsFP/status/2079870751247609871) (2026-07-28)
+- [Freistyle_AI](https://x.com/Freistyle_AI/status/2120789070846541885) (2026-11-12)
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2087121081098224122) (2026-08-18)
 - [GhostOfSocrates](https://x.com/GhostOfSocrates/status/2118470575287083109) (2026-11-09)
 - [GirmaMele48686](https://x.com/GirmaMele48686/status/2108411422577512797) (2026-10-09)
@@ -156,6 +158,7 @@ total_mentions: 669
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2082179408857608436) (2026-07-29)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2082537759097397347) (2026-07-30)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2084731126866669911) (2026-08-05)
+- [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2120563165557571629) (2026-11-12)
 - [GoogleCloud_IL](https://x.com/GoogleCloud_IL/status/2075120271111954818) (2026-07-09)
 - [GoogleCloud_IL](https://x.com/GoogleCloud_IL/status/2079831311980564832) (2026-07-22)
 - [GoogleResearch](https://x.com/GoogleResearch/status/2062982001850974257) (2026-06-05)
@@ -395,6 +398,7 @@ total_mentions: 669
 - [businessbarista](https://x.com/businessbarista/status/2094213970215231831) (2026-08-31)
 - [businessbarista](https://x.com/businessbarista/status/2097478065723162959) (2026-09-09)
 - [businessbarista](https://x.com/businessbarista/status/2114864181937586359) (2026-10-28)
+- [businessbarista](https://x.com/businessbarista/status/2120572730554671453) (2026-11-12)
 - [capttaco](https://x.com/capttaco/status/2118001155842449602) (2026-11-05)
 - [carm1nee](https://x.com/carm1nee/status/2115936358003052667) (2026-11-02)
 - [cb_doge](https://x.com/cb_doge/status/2076291436283396496) (2026-07-18)
@@ -501,6 +505,7 @@ total_mentions: 669
 - [johnvirality](https://x.com/johnvirality/status/2070571963555152330) (2026-06-29)
 - [jwang633](https://x.com/jwang633/status/2105012942601367940) (2026-09-30)
 - [kenAI_domains](https://x.com/kenAI_domains/status/2080371618954490323) (2026-07-24)
+- [khodeSL](https://x.com/khodeSL/status/2120435717251781068) (2026-11-12)
 - [kimmonismus](https://x.com/kimmonismus/status/2085812651163296161) (2026-08-08)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2094551333525447072) (2026-09-01)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)

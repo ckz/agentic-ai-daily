@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-11-11
-total_mentions: 1233
+last_seen: 2026-11-12
+total_mentions: 1243
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -20,6 +20,7 @@ total_mentions: 1233
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xMovez](https://x.com/0xMovez/status/2057103411783307293) (2026-06-10)
 - [0xMovez](https://x.com/0xMovez/status/2075295372423868917) (2026-07-10)
+- [0xMovez](https://x.com/0xMovez/status/2118756438550196404) (2026-11-12)
 - [0xPrajwal_](https://x.com/0xPrajwal_/status/2106950580212228204) (2026-10-06)
 - [0xRafy](https://x.com/0xRafy/status/2088017750992073006) (2026-08-14)
 - [0xSoural](https://x.com/0xSoural/status/2104209622059958759) (2026-09-28)
@@ -88,6 +89,7 @@ total_mentions: 1233
 - [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2067914133576749325) (2026-06-21)
 - [Aykutuces](https://x.com/Aykutuces/status/2082167918138106256) (2026-07-29)
 - [BIGMayrr](https://x.com/BIGMayrr/status/2088258814554390943) (2026-08-17)
+- [BON_DEFI](https://x.com/BON_DEFI/status/2120755490384667074) (2026-11-12)
 - [BTCqzy1](https://x.com/BTCqzy1/status/2087496242071056769) (2026-08-13)
 - [Ben_escrito](https://x.com/Ben_escrito/status/2119806997029659066) (2026-11-10)
 - [Benioff](https://x.com/Benioff/status/2094618697520615868) (2026-09-01)
@@ -216,6 +218,7 @@ total_mentions: 1233
 - [HeyEpic](https://x.com/HeyEpic/status/2116228640618807462) (2026-11-03)
 - [HeyGenDev](https://x.com/HeyGenDev/status/2111151435778039811) (2026-10-17)
 - [HeyShobhan](https://x.com/HeyShobhan/status/2107810215680987529) (2026-10-11)
+- [Hey_karl](https://x.com/Hey_karl/status/2120742712270020841) (2026-11-12)
 - [HoodAI0x](https://x.com/HoodAI0x/status/2079228983309176849) (2026-07-21)
 - [HoodieFade_](https://x.com/HoodieFade_/status/2119824593753956844) (2026-11-10)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2076689880026096089) (2026-07-14)
@@ -242,6 +245,7 @@ total_mentions: 1233
 - [LCSlates](https://x.com/LCSlates/status/2106066169702580719) (2026-10-04)
 - [Laurentxdev](https://x.com/Laurentxdev/status/2113865335418015876) (2026-10-24)
 - [LearnWithBishal](https://x.com/LearnWithBishal/status/2093017657423565037) (2026-08-28)
+- [LearnWithBishal](https://x.com/LearnWithBishal/status/2120528297180512523) (2026-11-12)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2058615544048451842) (2026-07-04)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2063314848843485526) (2026-06-07)
@@ -311,6 +315,7 @@ total_mentions: 1233
 - [NousResearch](https://x.com/NousResearch/status/2078168128693977291) (2026-07-19)
 - [NousResearch](https://x.com/NousResearch/status/2092326815193055681) (2026-08-27)
 - [NowledgeMem](https://x.com/NowledgeMem/status/2115103710334566562) (2026-10-30)
+- [OakAgentKit](https://x.com/OakAgentKit/status/2120706858818351220) (2026-11-12)
 - [OfirEhrlich](https://x.com/OfirEhrlich/status/2107124107464905058) (2026-10-07)
 - [OfirEhrlich](https://x.com/OfirEhrlich/status/2118357800648659127) (2026-11-07)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2085398373511918022) (2026-08-07)
@@ -410,6 +415,7 @@ total_mentions: 1233
 - [Stefan_3D_AI](https://x.com/Stefan_3D_AI/status/2109643476342358154) (2026-10-13)
 - [Steve8708](https://x.com/Steve8708/status/2077051086234685641) (2026-07-15)
 - [SteveMoser](https://x.com/SteveMoser/status/2115080687699038343) (2026-10-28)
+- [SteveNouri](https://x.com/SteveNouri/status/2120161717397107000) (2026-11-12)
 - [SultanAlsafran](https://x.com/SultanAlsafran/status/2101254033067434359) (2026-09-21)
 - [Sumanth_077](https://x.com/Sumanth_077/status/2063254456834372040) (2026-06-07)
 - [SummerEngineCom](https://x.com/SummerEngineCom/status/2109712496684908774) (2026-10-14)
@@ -554,6 +560,7 @@ total_mentions: 1233
 - [angeldot_](https://x.com/angeldot_/status/2106778303570886775) (2026-10-09)
 - [angeldot_](https://x.com/angeldot_/status/2112219283879301412) (2026-10-26)
 - [angeldot_](https://x.com/angeldot_/status/2114374287549157402) (2026-10-26)
+- [angeldot_](https://x.com/angeldot_/status/2119105486385471864) (2026-11-12)
 - [ansh_chokshi](https://x.com/ansh_chokshi/status/2076168556161757294) (2026-07-15)
 - [antigravity](https://x.com/antigravity/status/2088030364539162744) (2026-08-14)
 - [anvisha](https://x.com/anvisha/status/2087964850819584319) (2026-08-15)
@@ -794,6 +801,7 @@ total_mentions: 1233
 - [hanifproduktif](https://x.com/hanifproduktif/status/2095768590850912424) (2026-09-04)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [hasantoxr](https://x.com/hasantoxr/status/2110043923121045708) (2026-10-18)
+- [hayatomaruu](https://x.com/hayatomaruu/status/2119844553985302783) (2026-11-12)
 - [hcompany_ai](https://x.com/hcompany_ai/status/2104508207582367807) (2026-09-29)
 - [hectorVFX](https://x.com/hectorVFX/status/2111435045109903540) (2026-10-22)
 - [hedra_labs](https://x.com/hedra_labs/status/2105342577725546681) (2026-10-01)
@@ -882,6 +890,7 @@ total_mentions: 1233
 - [louszbd](https://x.com/louszbd/status/2094867896250048705) (2026-09-02)
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2062918118503231694) (2026-06-07)
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2073646837894992126) (2026-07-05)
+- [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2119778660781638080) (2026-11-12)
 - [luccacerf](https://x.com/luccacerf/status/2097047098281672782) (2026-09-08)
 - [luccacerf](https://x.com/luccacerf/status/2098571148787109902) (2026-09-15)
 - [maarcoofdezz](https://x.com/maarcoofdezz/status/2079543760585691543) (2026-07-22)
@@ -941,6 +950,7 @@ total_mentions: 1233
 - [milesdeutscher](https://x.com/milesdeutscher/status/2109222484553945557) (2026-10-12)
 - [minchoi](https://x.com/minchoi/status/2098793589811691560) (2026-09-13)
 - [minheo93698092](https://x.com/minheo93698092/status/2116833407175135349) (2026-11-03)
+- [missbaddieella1](https://x.com/missbaddieella1/status/2120786266753028605) (2026-11-12)
 - [mmmikhaeel](https://x.com/mmmikhaeel/status/2118046210879823905) (2026-11-05)
 - [moalsufi](https://x.com/moalsufi/status/2118932471559405786) (2026-11-07)
 - [mojeskoqq](https://x.com/mojeskoqq/status/2113623185316884826) (2026-10-24)

@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-11-11
-total_mentions: 434
+last_seen: 2026-11-12
+total_mentions: 436
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -138,6 +138,7 @@ total_mentions: 434
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2097489050332692836) (2026-09-11)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2103804240866976237) (2026-09-27)
 - [Igor_Buinevici](https://x.com/Igor_Buinevici/status/2077030411738272241) (2026-07-16)
+- [ImarhiaVeraa](https://x.com/ImarhiaVeraa/status/2120609533152079914) (2026-11-12)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2073709900820099232) (2026-07-06)
 - [Jeyxbt](https://x.com/Jeyxbt/status/2067866973497868794) (2026-06-19)
 - [Jiacheng_Miao](https://x.com/Jiacheng_Miao/status/2100296661427999222) (2026-09-17)
@@ -145,6 +146,7 @@ total_mentions: 434
 - [KirkDBorne](https://x.com/KirkDBorne/status/2072425629627330995) (2026-07-02)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2076503185225617544) (2026-07-13)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2097054388506251532) (2026-09-08)
+- [KitPloit](https://x.com/KitPloit/status/2120788856781844640) (2026-11-12)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [LingoAI_io](https://x.com/LingoAI_io/status/2081748881914912793) (2026-07-28)
