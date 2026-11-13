@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-12
-total_mentions: 1739
+last_seen: 2026-11-13
+total_mentions: 1748
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -71,6 +71,7 @@ total_mentions: 1739
 - [0xSammy](https://x.com/0xSammy/status/1882500633573609980) (2026-06-08)
 - [0xSero](https://x.com/0xSero/status/2097620672952344680) (2026-09-13)
 - [0xShoopy](https://x.com/0xShoopy/status/2116596475702681970) (2026-11-03)
+- [0xSilver_Time](https://x.com/0xSilver_Time/status/2120360374084284537) (2026-11-13)
 - [0xSlyth](https://x.com/0xSlyth/status/2070124131207860577) (2026-06-27)
 - [0xWassie](https://x.com/0xWassie/status/2115526580445340110) (2026-11-03)
 - [0x_aster](https://x.com/0x_aster/status/2106467164408758656) (2026-10-06)
@@ -95,6 +96,7 @@ total_mentions: 1739
 - [1005Alok85200](https://x.com/1005Alok85200/status/2063477130265297279) (2026-06-07)
 - [1a1a11a](https://x.com/1a1a11a/status/2108924569398411566) (2026-10-11)
 - [4rblaber](https://x.com/4rblaber/status/2080228516541472801) (2026-07-25)
+- [5000hui](https://x.com/5000hui/status/2120049453033984002) (2026-11-13)
 - [ACTICOMMUNITY](https://x.com/ACTICOMMUNITY/status/1916487048585691529) (2026-06-29)
 - [AEON_Community](https://x.com/AEON_Community/status/2064694068677107745) (2026-06-11)
 - [AIEconomicsUS](https://x.com/AIEconomicsUS/status/2067518067714806161) (2026-06-19)
@@ -126,6 +128,8 @@ total_mentions: 1739
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2114267033575858564) (2026-10-27)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2116897875745771878) (2026-11-02)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2117153331273707730) (2026-11-02)
+- [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2119699984941768960) (2026-11-13)
+- [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2121101551074742645) (2026-11-13)
 - [ActionModelAI](https://x.com/ActionModelAI/status/2107492691420266808) (2026-10-07)
 - [AdamTornhill](https://x.com/AdamTornhill/status/2097973404179583225) (2026-09-12)
 - [AdelDeveloperX](https://x.com/AdelDeveloperX/status/2074195359199375745) (2026-07-07)
@@ -528,6 +532,7 @@ total_mentions: 1739
 - [LunarResearcher](https://x.com/LunarResearcher/status/2093310429103558754) (2026-08-29)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2095483630961275019) (2026-09-04)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2116885583419052046) (2026-11-02)
+- [LunarResearcher](https://x.com/LunarResearcher/status/2120864524286726539) (2026-11-13)
 - [LyberAI](https://x.com/LyberAI/status/2119221833912463513) (2026-11-08)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2090697430756904964) (2026-08-23)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2092142425879855254) (2026-08-28)
@@ -841,6 +846,7 @@ total_mentions: 1739
 - [Xudong07452910](https://x.com/Xudong07452910/status/2097846768323133559) (2026-09-10)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2111979391546773875) (2026-10-19)
 - [Y0urDumble](https://x.com/Y0urDumble/status/2119023461267833047) (2026-11-08)
+- [Y0urDumble](https://x.com/Y0urDumble/status/2120197632500887856) (2026-11-13)
 - [Yaki_fomoArt](https://x.com/Yaki_fomoArt/status/2079623049037701529) (2026-07-26)
 - [YorichiiCrypto](https://x.com/YorichiiCrypto/status/2107563475555823957) (2026-10-07)
 - [Yosefphr](https://x.com/Yosefphr/status/2094074224839102549) (2026-09-01)
@@ -951,6 +957,7 @@ total_mentions: 1739
 - [ardizor](https://x.com/ardizor/status/2062571108021215563) (2026-06-05)
 - [arena](https://x.com/arena/status/2071630464583151727) (2026-06-30)
 - [arena](https://x.com/arena/status/2120568144687460434) (2026-11-12)
+- [arena](https://x.com/arena/status/2120940869889175840) (2026-11-13)
 - [arlanoska](https://x.com/arlanoska/status/2105001306503139816) (2026-09-30)
 - [arle0x](https://x.com/arle0x/status/2097726809529811454) (2026-09-11)
 - [arle0x](https://x.com/arle0x/status/2100983195508367747) (2026-09-19)
@@ -963,6 +970,7 @@ total_mentions: 1739
 - [asmah2107](https://x.com/asmah2107/status/2062870047903605109) (2026-06-06)
 - [aswinpy](https://x.com/aswinpy/status/2087449405242638482) (2026-08-12)
 - [ataiiam](https://x.com/ataiiam/status/2106731156691615978) (2026-10-05)
+- [ataiiam](https://x.com/ataiiam/status/2120951334665150885) (2026-11-13)
 - [athanzxyt](https://x.com/athanzxyt/status/2067660560607613032) (2026-06-19)
 - [atishayhyperke](https://x.com/atishayhyperke/status/2091163553893925326) (2026-08-23)
 - [autonxyz](https://x.com/autonxyz/status/2107540605203034490) (2026-10-07)
@@ -1185,6 +1193,7 @@ total_mentions: 1739
 - [ethy_agent](https://x.com/ethy_agent/status/2071902096354320438) (2026-07-01)
 - [evanderburg](https://x.com/evanderburg/status/2087412401717359059) (2026-08-12)
 - [evrendag1284](https://x.com/evrendag1284/status/2086665961638117757) (2026-08-10)
+- [f3m1da](https://x.com/f3m1da/status/2119777054333837628) (2026-11-13)
 - [f_rmsj](https://x.com/f_rmsj/status/2065330666368328129) (2026-06-12)
 - [farzyness](https://x.com/farzyness/status/2094810782697398294) (2026-09-03)
 - [femke_plantinga](https://x.com/femke_plantinga/status/2082375583363944873) (2026-07-30)

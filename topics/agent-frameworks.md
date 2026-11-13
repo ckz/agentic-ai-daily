@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-12
-total_mentions: 674
+last_seen: 2026-11-13
+total_mentions: 681
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -30,6 +30,7 @@ total_mentions: 674
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2088179625642152198) (2026-08-17)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2095414392557068291) (2026-09-04)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2107745162344734922) (2026-10-13)
+- [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2121101551074742645) (2026-11-13)
 - [AaronScottAI](https://x.com/AaronScottAI/status/2114690488779567313) (2026-10-30)
 - [AaronxShepherd](https://x.com/AaronxShepherd/status/2103922782400590334) (2026-09-27)
 - [AiCamila_](https://x.com/AiCamila_/status/2076911076885823887) (2026-07-15)
@@ -134,6 +135,7 @@ total_mentions: 674
 - [FSattiii](https://x.com/FSattiii/status/2108412218740240831) (2026-10-09)
 - [Farhan3jwq](https://x.com/Farhan3jwq/status/2108412170279194765) (2026-10-09)
 - [FastCompany](https://x.com/FastCompany/status/2063149004490149919) (2026-06-06)
+- [FishAudio](https://x.com/FishAudio/status/2120924589429522457) (2026-11-13)
 - [FourPillarsFP](https://x.com/FourPillarsFP/status/2079870751247609871) (2026-07-28)
 - [Freistyle_AI](https://x.com/Freistyle_AI/status/2120789070846541885) (2026-11-12)
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2087121081098224122) (2026-08-18)
@@ -209,6 +211,7 @@ total_mentions: 674
 - [Lummox_eth](https://x.com/Lummox_eth/status/2105661924482359788) (2026-10-03)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2106062601289408549) (2026-10-05)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
+- [LunarResearcher](https://x.com/LunarResearcher/status/2120864524286726539) (2026-11-13)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2092142425879855254) (2026-08-28)
 - [MarcoSalzmann80](https://x.com/MarcoSalzmann80/status/2104518722400522384) (2026-11-04)
 - [MarcoSalzmann80](https://x.com/MarcoSalzmann80/status/2111738172015046745) (2026-10-24)
@@ -328,6 +331,7 @@ total_mentions: 674
 - [Ziven_Coder](https://x.com/Ziven_Coder/status/2078482313986642122) (2026-07-30)
 - [Ziven_Coder](https://x.com/Ziven_Coder/status/2113088158904840515) (2026-10-22)
 - [_LuoFuli](https://x.com/_LuoFuli/status/2102162926802968749) (2026-09-25)
+- [_aj](https://x.com/_aj/status/2120235515828183083) (2026-11-13)
 - [_akhaliq](https://x.com/_akhaliq/status/2072347990337954042) (2026-07-03)
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
 - [_avichawla](https://x.com/_avichawla/status/2076952441728459082) (2026-07-15)
@@ -456,6 +460,7 @@ total_mentions: 674
 - [ericzakariasson](https://x.com/ericzakariasson/status/2102853511637774551) (2026-09-26)
 - [ethereum](https://x.com/ethereum/status/2079217433059996150) (2026-07-23)
 - [evanderburg](https://x.com/evanderburg/status/2087412401717359059) (2026-08-12)
+- [f3m1da](https://x.com/f3m1da/status/2119777054333837628) (2026-11-13)
 - [felixvance1243](https://x.com/felixvance1243/status/2119234281000333461) (2026-11-08)
 - [fernandoabishai](https://x.com/fernandoabishai/status/2113132998962893114) (2026-10-22)
 - [fin465](https://x.com/fin465/status/2080155147385102375) (2026-07-25)
@@ -582,6 +587,7 @@ total_mentions: 674
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
 - [s4yonnara](https://x.com/s4yonnara/status/2116286728872792488) (2026-11-04)
 - [s4yonnara](https://x.com/s4yonnara/status/2116992286764790064) (2026-11-02)
+- [s4yonnara](https://x.com/s4yonnara/status/2120998825087111305) (2026-11-13)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [sairahul1](https://x.com/sairahul1/status/2069421947390415189) (2026-06-28)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
@@ -636,6 +642,7 @@ total_mentions: 674
 - [swarat](https://x.com/swarat/status/2120147774205301073) (2026-11-11)
 - [techNmak](https://x.com/techNmak/status/2090689729461411951) (2026-08-25)
 - [techNmak](https://x.com/techNmak/status/2091434187446439969) (2026-08-24)
+- [techyoutbe](https://x.com/techyoutbe/status/2120374206932127890) (2026-11-13)
 - [theAIsailor](https://x.com/theAIsailor/status/1801356656149737606) (2026-07-10)
 - [the_osps](https://x.com/the_osps/status/2097194727401717808) (2026-09-08)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2103095101165633624) (2026-09-27)

@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-12
-total_mentions: 354
+last_seen: 2026-11-13
+total_mentions: 360
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -22,6 +22,7 @@ total_mentions: 354
 - [AISecurityInst](https://x.com/AISecurityInst/status/2084746202579386632) (2026-08-06)
 - [AISystems_hq](https://x.com/AISystems_hq/status/2117973401264652324) (2026-11-06)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2095414392557068291) (2026-09-04)
+- [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2121101551074742645) (2026-11-13)
 - [AdelDeveloperX](https://x.com/AdelDeveloperX/status/2074195359199375745) (2026-07-07)
 - [AiForAmericans](https://x.com/AiForAmericans/status/2102751457279918346) (2026-09-25)
 - [AleksDoesCode](https://x.com/AleksDoesCode/status/2100500636940849250) (2026-09-20)
@@ -97,6 +98,7 @@ total_mentions: 354
 - [LomashKumar52](https://x.com/LomashKumar52/status/2103013165009363358) (2026-09-24)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2108499624038113606) (2026-10-11)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2093310429103558754) (2026-08-29)
+- [LunarResearcher](https://x.com/LunarResearcher/status/2120864524286726539) (2026-11-13)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
 - [MaxForAI](https://x.com/MaxForAI/status/2089184371886690760) (2026-08-17)
 - [MaxForAI](https://x.com/MaxForAI/status/2090569520717115493) (2026-08-21)
@@ -120,6 +122,7 @@ total_mentions: 354
 - [Revolt_Fi](https://x.com/Revolt_Fi/status/2079266777163522467) (2026-07-21)
 - [RihardJarc](https://x.com/RihardJarc/status/2112562002958692392) (2026-10-21)
 - [RohOnChain](https://x.com/RohOnChain/status/2102790572281139213) (2026-09-25)
+- [Rose_MaryIRL](https://x.com/Rose_MaryIRL/status/2120129373454074233) (2026-11-13)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2074618209073078367) (2026-07-08)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2080046477322105256) (2026-07-23)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2093183037475536942) (2026-08-28)
@@ -150,6 +153,7 @@ total_mentions: 354
 - [_sarthak4](https://x.com/_sarthak4/status/2087578635670802806) (2026-08-13)
 - [_zheergen](https://x.com/_zheergen/status/2090966669204341076) (2026-08-22)
 - [abskoop](https://x.com/abskoop/status/2090701734138274062) (2026-08-22)
+- [abxxai](https://x.com/abxxai/status/2120909485971853791) (2026-11-13)
 - [adithya_s_k](https://x.com/adithya_s_k/status/2105684965891703141) (2026-10-06)
 - [agenticbrew](https://x.com/agenticbrew/status/2072848219084910646) (2026-07-03)
 - [agenticgirl](https://x.com/agenticgirl/status/2099087022900367845) (2026-09-16)
@@ -169,6 +173,7 @@ total_mentions: 354
 - [anitakirkovska](https://x.com/anitakirkovska/status/2117336406246727956) (2026-11-03)
 - [arena](https://x.com/arena/status/2120568144687460434) (2026-11-12)
 - [ashtom](https://x.com/ashtom/status/1925597395192357337) (2026-09-04)
+- [ataiiam](https://x.com/ataiiam/status/2120951334665150885) (2026-11-13)
 - [atulkumarzz](https://x.com/atulkumarzz/status/2108191514811842742) (2026-10-09)
 - [bcherny](https://x.com/bcherny/status/2064431111154053187) (2026-06-15)
 - [bcherny](https://x.com/bcherny/status/2113333859907747871) (2026-10-23)
@@ -233,6 +238,7 @@ total_mentions: 354
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2062244858686009455) (2026-06-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2105406253740740846) (2026-10-02)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2107580383357542646) (2026-10-11)
+- [f3m1da](https://x.com/f3m1da/status/2119777054333837628) (2026-11-13)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2087449332119134430) (2026-08-19)
 - [gavinpurcell](https://x.com/gavinpurcell/status/2103304514329854102) (2026-09-27)
 - [gippp69](https://x.com/gippp69/status/2088943002467115352) (2026-08-17)

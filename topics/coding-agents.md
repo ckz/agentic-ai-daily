@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-12
-total_mentions: 230
+last_seen: 2026-11-13
+total_mentions: 233
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -31,6 +31,7 @@ total_mentions: 230
 - [DailyDoseOfDS_](https://x.com/DailyDoseOfDS_/status/2065728394084626773) (2026-06-19)
 - [DamiDefi](https://x.com/DamiDefi/status/2104496839064178804) (2026-10-03)
 - [DanKornas](https://x.com/DanKornas/status/2107368759723766234) (2026-10-07)
+- [DanKornas](https://x.com/DanKornas/status/2119738251418202270) (2026-11-13)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2093286019697418608) (2026-09-03)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2093567702979998014) (2026-09-02)
@@ -67,6 +68,7 @@ total_mentions: 230
 - [NickADobos](https://x.com/NickADobos/status/2090867101028540684) (2026-08-22)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2075275868268789885) (2026-07-11)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
+- [Peak__Twilight](https://x.com/Peak__Twilight/status/2119475616030630059) (2026-11-13)
 - [PetrBrzek](https://x.com/PetrBrzek/status/2100231804032610657) (2026-09-20)
 - [Pirat_Nation](https://x.com/Pirat_Nation/status/2096267361066356859) (2026-09-10)
 - [Priyannkaaaa](https://x.com/Priyannkaaaa/status/2083851157324046649) (2026-08-03)
@@ -195,6 +197,7 @@ total_mentions: 230
 - [pushmeet](https://x.com/pushmeet/status/2065917699222560928) (2026-06-15)
 - [pushmeet](https://x.com/pushmeet/status/2089717134129565763) (2026-08-19)
 - [quinn_leng](https://x.com/quinn_leng/status/2110036327286886731) (2026-10-14)
+- [quipnetwork](https://x.com/quipnetwork/status/2120989605663031685) (2026-11-13)
 - [rammcodes](https://x.com/rammcodes/status/2093377746852511919) (2026-08-29)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
 - [rebel0x0](https://x.com/rebel0x0/status/2067186712758071385) (2026-06-19)

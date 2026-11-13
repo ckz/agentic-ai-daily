@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-11
-total_mentions: 145
+last_seen: 2026-11-13
+total_mentions: 147
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -89,11 +89,13 @@ total_mentions: 145
 - [alliekmiller](https://x.com/alliekmiller/status/2064451731325415446) (2026-06-10)
 - [amisha_explains](https://x.com/amisha_explains/status/2103526005193199869) (2026-09-26)
 - [angeldot_](https://x.com/angeldot_/status/2071697398527881418) (2026-06-30)
+- [arena](https://x.com/arena/status/2120940869889175840) (2026-11-13)
 - [aslater](https://x.com/aslater/status/2101045956695449691) (2026-09-22)
 - [beamnxw](https://x.com/beamnxw/status/2084288199237517417) (2026-08-05)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2117795556500394210) (2026-11-09)
 - [codyschneider](https://x.com/codyschneider/status/2081816893376057413) (2026-07-28)
 - [coreyganim](https://x.com/coreyganim/status/2084312288786276484) (2026-08-04)
+- [danikkk_wqs](https://x.com/danikkk_wqs/status/2119535297541070962) (2026-11-13)
 - [divaagurlxw](https://x.com/divaagurlxw/status/2087756697469440442) (2026-08-15)
 - [dkare1009](https://x.com/dkare1009/status/2112461317965590931) (2026-10-23)
 - [eigenlabs](https://x.com/eigenlabs/status/2062540745601384785) (2026-06-08)

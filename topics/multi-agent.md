@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-11-12
-total_mentions: 436
+last_seen: 2026-11-13
+total_mentions: 438
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -155,6 +155,7 @@ total_mentions: 436
 - [LunarResearcher](https://x.com/LunarResearcher/status/2085365001007558738) (2026-08-11)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2085468711167615253) (2026-08-07)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2095483630961275019) (2026-09-04)
+- [LunarResearcher](https://x.com/LunarResearcher/status/2120864524286726539) (2026-11-13)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2090697430756904964) (2026-08-23)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2092142425879855254) (2026-08-28)
 - [MarcoSalzmann80](https://x.com/MarcoSalzmann80/status/2104518722400522384) (2026-11-04)
@@ -289,6 +290,7 @@ total_mentions: 436
 - [ericzakariasson](https://x.com/ericzakariasson/status/2102853511637774551) (2026-09-26)
 - [exQUIZitely](https://x.com/exQUIZitely/status/2099121418092900473) (2026-09-14)
 - [expertwith_AI](https://x.com/expertwith_AI/status/2070094109109567845) (2026-06-27)
+- [f3m1da](https://x.com/f3m1da/status/2119777054333837628) (2026-11-13)
 - [forecast_agents](https://x.com/forecast_agents/status/2079822864614555806) (2026-07-22)
 - [ghumare64](https://x.com/ghumare64/status/2107329844912754918) (2026-10-10)
 - [ghumare64](https://x.com/ghumare64/status/2113599963670397206) (2026-10-24)

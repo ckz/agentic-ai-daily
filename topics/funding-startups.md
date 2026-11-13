@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-12
-total_mentions: 884
+last_seen: 2026-11-13
+total_mentions: 890
 
 ## Related Tweets
 - [0x0simba_eth](https://x.com/0x0simba_eth/status/2118895661722616112) (2026-11-07)
@@ -51,6 +51,7 @@ total_mentions: 884
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2079915295230038426) (2026-07-23)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2088330041289494736) (2026-08-17)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2111819557497135464) (2026-10-19)
+- [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2120534432348012680) (2026-11-13)
 - [Anaya_sharma876](https://x.com/Anaya_sharma876/status/2086431301498966480) (2026-08-14)
 - [AnimaAnandkumar](https://x.com/AnimaAnandkumar/status/2092236528898675014) (2026-09-01)
 - [AnishJaitwar](https://x.com/AnishJaitwar/status/2086661433593360839) (2026-08-10)
@@ -637,6 +638,7 @@ total_mentions: 884
 - [launchwhasmik](https://x.com/launchwhasmik/status/2104542307680719043) (2026-10-02)
 - [lennysan](https://x.com/lennysan/status/2114747753968644359) (2026-10-27)
 - [lennysan](https://x.com/lennysan/status/2119957080492966371) (2026-11-10)
+- [leo_mercerr](https://x.com/leo_mercerr/status/2120971525205774837) (2026-11-13)
 - [levelsio](https://x.com/levelsio/status/2102739359715774665) (2026-09-25)
 - [levelsio](https://x.com/levelsio/status/2112686345617547538) (2026-10-23)
 - [levie](https://x.com/levie/status/2082514776392175844) (2026-07-31)
@@ -754,10 +756,12 @@ total_mentions: 884
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2095311437677883490) (2026-09-03)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2096117661172384137) (2026-09-07)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2098655241453687123) (2026-09-12)
+- [romanbuildsaas](https://x.com/romanbuildsaas/status/2120881860498624856) (2026-11-13)
 - [roshanpateI](https://x.com/roshanpateI/status/1616122874288549888) (2026-10-14)
 - [royaltymsc](https://x.com/royaltymsc/status/2103765261954502989) (2026-09-27)
 - [rsngprad](https://x.com/rsngprad/status/2072630117218791745) (2026-07-05)
 - [rtwlz](https://x.com/rtwlz/status/2099608957698617356) (2026-09-15)
+- [ruthybuilds](https://x.com/ruthybuilds/status/2120158541902500203) (2026-11-13)
 - [ryandengg](https://x.com/ryandengg/status/2114023867463401755) (2026-10-31)
 - [s1rozha_](https://x.com/s1rozha_/status/2087132684514455625) (2026-08-12)
 - [sacha_io](https://x.com/sacha_io/status/2094745129714135343) (2026-09-06)
@@ -797,6 +801,7 @@ total_mentions: 884
 - [spacedevin](https://x.com/spacedevin/status/2114719766338490810) (2026-10-27)
 - [spacedevin](https://x.com/spacedevin/status/2117643156783300853) (2026-11-04)
 - [spacedevin](https://x.com/spacedevin/status/2118404772357358001) (2026-11-06)
+- [spacedevin](https://x.com/spacedevin/status/2120935020739416338) (2026-11-13)
 - [sridharfyi](https://x.com/sridharfyi/status/2100562893758718127) (2026-09-20)
 - [sridharfyi](https://x.com/sridharfyi/status/2112778407079469263) (2026-10-21)
 - [sridharfyi](https://x.com/sridharfyi/status/2119608084985475298) (2026-11-12)
@@ -867,6 +872,7 @@ total_mentions: 884
 - [wh0sumit](https://x.com/wh0sumit/status/2096847253550063656) (2026-09-07)
 - [wickedguro](https://x.com/wickedguro/status/2072654822449586327) (2026-07-09)
 - [wickedguro](https://x.com/wickedguro/status/2081582808041210156) (2026-07-27)
+- [willdepue](https://x.com/willdepue/status/2120992457630326841) (2026-11-13)
 - [witcheer](https://x.com/witcheer/status/2111052463058899099) (2026-10-18)
 - [wizaj](https://x.com/wizaj/status/2109060277371093274) (2026-10-13)
 - [wonderful_ai](https://x.com/wonderful_ai/status/2095125312929464388) (2026-09-03)

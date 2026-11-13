@@ -1,12 +1,13 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-11-12
-total_mentions: 197
+last_seen: 2026-11-13
+total_mentions: 198
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2118133694217306408) (2026-11-06)
 - [0xCodez](https://x.com/0xCodez/status/2100580208017309908) (2026-09-18)
+- [5000hui](https://x.com/5000hui/status/2120049453033984002) (2026-11-13)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
 - [AdamShao](https://x.com/AdamShao/status/2097111709076910081) (2026-09-11)
 - [AlejandroRomaan](https://x.com/AlejandroRomaan/status/2096610078837141569) (2026-09-08)
