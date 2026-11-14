@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-13
-total_mentions: 681
+last_seen: 2026-11-14
+total_mentions: 686
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -17,6 +17,7 @@ total_mentions: 681
 - [0xPritom](https://x.com/0xPritom/status/2114193806929297550) (2026-10-26)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
 - [0x_aster](https://x.com/0x_aster/status/2106467164408758656) (2026-10-06)
+- [0xopencitizen](https://x.com/0xopencitizen/status/2121490191907000707) (2026-11-14)
 - [5eniorDeveloper](https://x.com/5eniorDeveloper/status/2097029277434757251) (2026-09-08)
 - [AIHighlight](https://x.com/AIHighlight/status/2072712459857645721) (2026-07-04)
 - [AIStockSavvy](https://x.com/AIStockSavvy/status/2079941971108405580) (2026-07-25)
@@ -129,6 +130,7 @@ total_mentions: 681
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2113244292898783482) (2026-10-25)
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2113967691564495014) (2026-10-25)
 - [DrJimFan](https://x.com/DrJimFan/status/2111128797181567466) (2026-10-17)
+- [DrJimFan](https://x.com/DrJimFan/status/2120186651741655428) (2026-11-14)
 - [EmmanuelInvest](https://x.com/EmmanuelInvest/status/2076724041302319246) (2026-07-14)
 - [EthenaFndtn](https://x.com/EthenaFndtn/status/2092976592738001383) (2026-08-28)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
@@ -191,6 +193,7 @@ total_mentions: 681
 - [InfosecVandana](https://x.com/InfosecVandana/status/2096568141451297103) (2026-09-09)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2073709900820099232) (2026-07-06)
 - [IvanRomanteev](https://x.com/IvanRomanteev/status/2117899963837636728) (2026-11-06)
+- [JZAPIgm](https://x.com/JZAPIgm/status/2121462914611892316) (2026-11-14)
 - [Jadzo1_](https://x.com/Jadzo1_/status/2072437174071636126) (2026-07-02)
 - [JaynitMakwana](https://x.com/JaynitMakwana/status/2078419436554625340) (2026-07-19)
 - [JesseisCooking](https://x.com/JesseisCooking/status/2103383326543495485) (2026-10-01)
@@ -205,6 +208,7 @@ total_mentions: 681
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2058615544048451842) (2026-07-04)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2108252913621692754) (2026-10-10)
+- [LeoCreaIA](https://x.com/LeoCreaIA/status/2120143678039548236) (2026-11-14)
 - [LimestoneHQ](https://x.com/LimestoneHQ/status/2076310897660772466) (2026-07-13)
 - [LuizaJarovsky](https://x.com/LuizaJarovsky/status/2072664971616383227) (2026-07-03)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2105607355262009622) (2026-10-02)
@@ -236,6 +240,7 @@ total_mentions: 681
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
 - [NainsiDwiv50980](https://x.com/NainsiDwiv50980/status/2062154970229858372) (2026-06-06)
 - [NixFred](https://x.com/NixFred/status/2109398381277708500) (2026-10-12)
+- [NoctisIntel](https://x.com/NoctisIntel/status/2121512365586018468) (2026-11-14)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/1975269391244874103) (2026-06-08)
 - [OpenAI](https://x.com/OpenAI/status/2094885578173260259) (2026-09-02)
 - [OptimaiNetwork](https://x.com/OptimaiNetwork/status/2014178144429723810) (2026-06-10)

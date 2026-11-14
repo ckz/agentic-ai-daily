@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-13
-total_mentions: 233
+last_seen: 2026-11-14
+total_mentions: 236
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -55,6 +55,7 @@ total_mentions: 233
 - [KimiDevs](https://x.com/KimiDevs/status/2063981516708024369) (2026-06-15)
 - [LLMpsycho](https://x.com/LLMpsycho/status/2099473233787388049) (2026-09-20)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
+- [LeoCreaIA](https://x.com/LeoCreaIA/status/2120143678039548236) (2026-11-14)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2097351499575697477) (2026-09-10)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2106062601289408549) (2026-10-05)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2108499624038113606) (2026-10-11)
@@ -71,6 +72,7 @@ total_mentions: 233
 - [Peak__Twilight](https://x.com/Peak__Twilight/status/2119475616030630059) (2026-11-13)
 - [PetrBrzek](https://x.com/PetrBrzek/status/2100231804032610657) (2026-09-20)
 - [Pirat_Nation](https://x.com/Pirat_Nation/status/2096267361066356859) (2026-09-10)
+- [Polymarket](https://x.com/Polymarket/status/2048890643934482809) (2026-11-14)
 - [Priyannkaaaa](https://x.com/Priyannkaaaa/status/2083851157324046649) (2026-08-03)
 - [Promixyz](https://x.com/Promixyz/status/2107053360700375520) (2026-10-12)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2102318232296415677) (2026-09-29)
@@ -193,6 +195,7 @@ total_mentions: 233
 - [nutlope](https://x.com/nutlope/status/2099547343112564921) (2026-09-16)
 - [omarsar0](https://x.com/omarsar0/status/2110733945323368822) (2026-10-21)
 - [orbiteditor](https://x.com/orbiteditor/status/2075064330325041395) (2026-07-09)
+- [panda_liyin](https://x.com/panda_liyin/status/2120555240898674907) (2026-11-14)
 - [peterfriese](https://x.com/peterfriese/status/2092545094423601239) (2026-09-02)
 - [pushmeet](https://x.com/pushmeet/status/2065917699222560928) (2026-06-15)
 - [pushmeet](https://x.com/pushmeet/status/2089717134129565763) (2026-08-19)

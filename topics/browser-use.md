@@ -1,8 +1,8 @@
 # Browser Use
 
 first_seen: 2026-06-07
-last_seen: 2026-11-12
-total_mentions: 60
+last_seen: 2026-11-14
+total_mentions: 62
 
 ## Related Tweets
 - [0xGenAi](https://x.com/0xGenAi/status/2120243742657368359) (2026-11-12)
@@ -40,6 +40,7 @@ total_mentions: 60
 - [browser_use](https://x.com/browser_use/status/2090937982295630278) (2026-08-22)
 - [browser_use](https://x.com/browser_use/status/2119983662162952278) (2026-11-11)
 - [chenzeling4](https://x.com/chenzeling4/status/2063878734625824975) (2026-06-08)
+- [choopyplug1](https://x.com/choopyplug1/status/2121336889806565591) (2026-11-14)
 - [clapilot](https://x.com/clapilot/status/2063510331716952191) (2026-06-07)
 - [cwmasaki](https://x.com/cwmasaki/status/2088433897445171301) (2026-08-15)
 - [davidmarcus](https://x.com/davidmarcus/status/2103915341751685283) (2026-09-30)
@@ -55,6 +56,7 @@ total_mentions: 60
 - [mvanhorn](https://x.com/mvanhorn/status/2100788572316139655) (2026-09-18)
 - [omarsar0](https://x.com/omarsar0/status/1715491139053121839) (2026-09-08)
 - [omooretweets](https://x.com/omooretweets/status/2117784346430197880) (2026-11-04)
+- [panda_liyin](https://x.com/panda_liyin/status/2120555240898674907) (2026-11-14)
 - [sauda_coder](https://x.com/sauda_coder/status/2078463245657211007) (2026-07-20)
 - [thdxr](https://x.com/thdxr/status/2100288951978164647) (2026-09-19)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2107169457365725616) (2026-10-06)

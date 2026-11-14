@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-13
-total_mentions: 890
+last_seen: 2026-11-14
+total_mentions: 896
 
 ## Related Tweets
 - [0x0simba_eth](https://x.com/0x0simba_eth/status/2118895661722616112) (2026-11-07)
@@ -61,6 +61,7 @@ total_mentions: 890
 - [ArrushAdityadev](https://x.com/ArrushAdityadev/status/2061674017929703768) (2026-06-08)
 - [ArslyTech](https://x.com/ArslyTech/status/2063153998518235584) (2026-06-06)
 - [AscendLaunch](https://x.com/AscendLaunch/status/2112637060364320900) (2026-10-22)
+- [AsteraInstitute](https://x.com/AsteraInstitute/status/2121285945681199241) (2026-11-14)
 - [AtomsNotBits](https://x.com/AtomsNotBits/status/2072429730788413662) (2026-07-02)
 - [Av1dlive](https://x.com/Av1dlive/status/2082538087192908283) (2026-07-30)
 - [AvinashSingh_20](https://x.com/AvinashSingh_20/status/2071233793311318133) (2026-07-05)
@@ -115,10 +116,12 @@ total_mentions: 890
 - [DeRonin_](https://x.com/DeRonin_/status/2087555554830852538) (2026-08-14)
 - [DeRonin_](https://x.com/DeRonin_/status/2110756838354596023) (2026-10-18)
 - [DefiSparco](https://x.com/DefiSparco/status/2112186372261863708) (2026-10-20)
+- [Defi_Warhol](https://x.com/Defi_Warhol/status/2121490563795234864) (2026-11-14)
 - [DemoRestored](https://x.com/DemoRestored/status/2105350061509185900) (2026-10-07)
 - [DerrickEvans4WV](https://x.com/DerrickEvans4WV/status/1857121499158618577) (2026-10-16)
 - [DevanshuXi](https://x.com/DevanshuXi/status/2094134298266026161) (2026-09-02)
 - [Dhruvam987](https://x.com/Dhruvam987/status/2067811478485582025) (2026-06-19)
+- [Didotxyz_](https://x.com/Didotxyz_/status/2121211483660972451) (2026-11-14)
 - [Dylan_txa_](https://x.com/Dylan_txa_/status/2095140253149352266) (2026-09-03)
 - [Dylan_txa_](https://x.com/Dylan_txa_/status/2095443899015663890) (2026-09-05)
 - [Dylan_txa_](https://x.com/Dylan_txa_/status/2106877880416215342) (2026-10-06)
@@ -208,6 +211,7 @@ total_mentions: 890
 - [Miracle_NNnn](https://x.com/Miracle_NNnn/status/2107712847740367331) (2026-10-11)
 - [Miracle_NNnn](https://x.com/Miracle_NNnn/status/2113140729933422877) (2026-10-22)
 - [Miracle_NNnn](https://x.com/Miracle_NNnn/status/2116775460193345743) (2026-11-01)
+- [Miracle_NNnn](https://x.com/Miracle_NNnn/status/2121130380434591984) (2026-11-14)
 - [ModestMitkus](https://x.com/ModestMitkus/status/2111825601401405468) (2026-10-19)
 - [Mohansinha](https://x.com/Mohansinha/status/2079629691494060368) (2026-07-24)
 - [MollySOShea](https://x.com/MollySOShea/status/2092606579732251060) (2026-08-27)
@@ -314,6 +318,7 @@ total_mentions: 890
 - [TheoAugust8](https://x.com/TheoAugust8/status/2063166492519158257) (2026-06-06)
 - [ThiaBallerina](https://x.com/ThiaBallerina/status/2103870579577434455) (2026-10-01)
 - [ThisIsBhandari](https://x.com/ThisIsBhandari/status/2109553094162002345) (2026-10-13)
+- [Tipoftheberg](https://x.com/Tipoftheberg/status/2121304864332599716) (2026-11-14)
 - [Tocelot](https://x.com/Tocelot/status/2110026020766036273) (2026-10-14)
 - [TokenizedPod](https://x.com/TokenizedPod/status/2079219793299746929) (2026-07-22)
 - [Tolu_Atanda](https://x.com/Tolu_Atanda/status/2077969124701990988) (2026-07-17)
@@ -802,6 +807,7 @@ total_mentions: 890
 - [spacedevin](https://x.com/spacedevin/status/2117643156783300853) (2026-11-04)
 - [spacedevin](https://x.com/spacedevin/status/2118404772357358001) (2026-11-06)
 - [spacedevin](https://x.com/spacedevin/status/2120935020739416338) (2026-11-13)
+- [spacedevin](https://x.com/spacedevin/status/2121294625692696795) (2026-11-14)
 - [sridharfyi](https://x.com/sridharfyi/status/2100562893758718127) (2026-09-20)
 - [sridharfyi](https://x.com/sridharfyi/status/2112778407079469263) (2026-10-21)
 - [sridharfyi](https://x.com/sridharfyi/status/2119608084985475298) (2026-11-12)

@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-11-13
-total_mentions: 438
+last_seen: 2026-11-14
+total_mentions: 440
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -149,6 +149,7 @@ total_mentions: 438
 - [KitPloit](https://x.com/KitPloit/status/2120788856781844640) (2026-11-12)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
+- [LeoCreaIA](https://x.com/LeoCreaIA/status/2120143678039548236) (2026-11-14)
 - [LingoAI_io](https://x.com/LingoAI_io/status/2081748881914912793) (2026-07-28)
 - [LomashKumar52](https://x.com/LomashKumar52/status/2091396806068609513) (2026-08-28)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2105607355262009622) (2026-10-02)
@@ -297,6 +298,7 @@ total_mentions: 438
 - [gippp69](https://x.com/gippp69/status/2062224522237890675) (2026-06-08)
 - [gkisokay](https://x.com/gkisokay/status/1931559290382459105) (2026-10-20)
 - [gkisokay](https://x.com/gkisokay/status/2020853629306212478) (2026-07-25)
+- [gm_dot_ai](https://x.com/gm_dot_ai/status/1819309236712886278) (2026-11-14)
 - [googlecloud](https://x.com/googlecloud/status/2117447876183720104) (2026-11-03)
 - [goyalshaliniuk](https://x.com/goyalshaliniuk/status/2079529319765033276) (2026-07-22)
 - [goyalshaliniuk](https://x.com/goyalshaliniuk/status/2089359091332166027) (2026-08-22)

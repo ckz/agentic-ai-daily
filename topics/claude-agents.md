@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-13
-total_mentions: 360
+last_seen: 2026-11-14
+total_mentions: 365
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -15,6 +15,7 @@ total_mentions: 360
 - [0xShoopy](https://x.com/0xShoopy/status/2116596475702681970) (2026-11-03)
 - [0xchadx](https://x.com/0xchadx/status/2067862587174244810) (2026-06-19)
 - [0xclayn](https://x.com/0xclayn/status/2075292493218721894) (2026-07-11)
+- [0xopencitizen](https://x.com/0xopencitizen/status/2121490191907000707) (2026-11-14)
 - [0xvati](https://x.com/0xvati/status/2102325309978927184) (2026-09-23)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2095134652688220236) (2026-09-04)
 - [51bodila](https://x.com/51bodila/status/2085020463290290504) (2026-08-06)
@@ -95,6 +96,7 @@ total_mentions: 360
 - [Kiiiiira777](https://x.com/Kiiiiira777/status/2118759929947328571) (2026-11-07)
 - [Krishnasagrawal](https://x.com/Krishnasagrawal/status/2076370564831486040) (2026-07-14)
 - [LangChain](https://x.com/LangChain/status/2110424980337127531) (2026-10-15)
+- [LeoCreaIA](https://x.com/LeoCreaIA/status/2120143678039548236) (2026-11-14)
 - [LomashKumar52](https://x.com/LomashKumar52/status/2103013165009363358) (2026-09-24)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2108499624038113606) (2026-10-11)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2093310429103558754) (2026-08-29)
@@ -117,6 +119,7 @@ total_mentions: 360
 - [Origin_AI_01](https://x.com/Origin_AI_01/status/2104877229868208508) (2026-10-01)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
 - [Pirat_Nation](https://x.com/Pirat_Nation/status/2096267361066356859) (2026-09-10)
+- [Polymarket](https://x.com/Polymarket/status/2048890643934482809) (2026-11-14)
 - [RLanceMartin](https://x.com/RLanceMartin/status/2102575471502528989) (2026-09-24)
 - [RegalosDigitals](https://x.com/RegalosDigitals/status/2071263024212508813) (2026-06-29)
 - [Revolt_Fi](https://x.com/Revolt_Fi/status/2079266777163522467) (2026-07-21)
@@ -302,6 +305,7 @@ total_mentions: 360
 - [nukonuko](https://x.com/nukonuko/status/2102459898911203813) (2026-09-23)
 - [officialbunnyos](https://x.com/officialbunnyos/status/2089938164916060444) (2026-08-19)
 - [om_patel5](https://x.com/om_patel5/status/2099683744781111419) (2026-09-17)
+- [panda_liyin](https://x.com/panda_liyin/status/2120555240898674907) (2026-11-14)
 - [polydao](https://x.com/polydao/status/2088516287098159531) (2026-08-21)
 - [polydao](https://x.com/polydao/status/2097642088506487020) (2026-09-10)
 - [polydao](https://x.com/polydao/status/2104090661041369397) (2026-09-28)
@@ -346,6 +350,7 @@ total_mentions: 360
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2081680037544427793) (2026-07-28)
 - [timsneath](https://x.com/timsneath/status/2072479088661651612) (2026-07-02)
+- [tom_doerr](https://x.com/tom_doerr/status/2121471758234501493) (2026-11-14)
 - [trq212](https://x.com/trq212/status/2108689101503566319) (2026-10-10)
 - [trycua](https://x.com/trycua/status/2112228154651881479) (2026-10-20)
 - [tylertracy321](https://x.com/tylertracy321/status/2110598651609489889) (2026-10-16)

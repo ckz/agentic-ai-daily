@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-13
-total_mentions: 1748
+last_seen: 2026-11-14
+total_mentions: 1752
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -371,6 +371,7 @@ total_mentions: 1748
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2114682560886485126) (2026-10-27)
 - [DrDatta_AIIMS](https://x.com/DrDatta_AIIMS/status/2085258786403655808) (2026-08-13)
 - [DrJimFan](https://x.com/DrJimFan/status/2111128797181567466) (2026-10-17)
+- [DrJimFan](https://x.com/DrJimFan/status/2120186651741655428) (2026-11-14)
 - [Dr_Singularity](https://x.com/Dr_Singularity/status/2094797783601414196) (2026-09-03)
 - [Dr_Singularity](https://x.com/Dr_Singularity/status/2095235432778813918) (2026-09-03)
 - [Dzola17](https://x.com/Dzola17/status/2103778564072239219) (2026-09-27)
@@ -510,6 +511,7 @@ total_mentions: 1748
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2103900910292472051) (2026-10-03)
 - [Lenda_0x](https://x.com/Lenda_0x/status/2111306209257001348) (2026-10-20)
+- [LeoCreaIA](https://x.com/LeoCreaIA/status/2120143678039548236) (2026-11-14)
 - [LimestoneHQ](https://x.com/LimestoneHQ/status/2076310897660772466) (2026-07-13)
 - [LingoAI_io](https://x.com/LingoAI_io/status/2081748881914912793) (2026-07-28)
 - [LissaNFT2021](https://x.com/LissaNFT2021/status/2074512113058656420) (2026-07-09)
@@ -609,6 +611,7 @@ total_mentions: 1748
 - [NexEcosystem](https://x.com/NexEcosystem/status/2097341149405151287) (2026-09-09)
 - [Nexora_iQ](https://x.com/Nexora_iQ/status/2120011933470671359) (2026-11-12)
 - [NicolaBlackwo12](https://x.com/NicolaBlackwo12/status/2118146282703462806) (2026-11-12)
+- [NoctisIntel](https://x.com/NoctisIntel/status/2121512365586018468) (2026-11-14)
 - [NotebookLM](https://x.com/NotebookLM/status/2064016460964585549) (2026-06-11)
 - [NousResearch](https://x.com/NousResearch/status/2026759005633183980) (2026-06-07)
 - [NousResearch](https://x.com/NousResearch/status/2097403926072987986) (2026-09-09)
@@ -1664,6 +1667,7 @@ total_mentions: 1748
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
 - [systemdesignone](https://x.com/systemdesignone/status/2097389489408594192) (2026-09-09)
 - [systemdesignone](https://x.com/systemdesignone/status/2108906496742355086) (2026-10-20)
+- [taqimolavi](https://x.com/taqimolavi/status/2120793309111062915) (2026-11-14)
 - [tech0827](https://x.com/tech0827/status/2066035199607968063) (2026-06-14)
 - [techNmak](https://x.com/techNmak/status/2068884177383047439) (2026-06-27)
 - [techNmak](https://x.com/techNmak/status/2091434187446439969) (2026-08-24)

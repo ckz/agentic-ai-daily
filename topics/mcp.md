@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-11-13
-total_mentions: 1259
+last_seen: 2026-11-14
+total_mentions: 1270
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -174,6 +174,7 @@ total_mentions: 1259
 - [EXM7777](https://x.com/EXM7777/status/2087176716901023834) (2026-08-13)
 - [ElevenCreative](https://x.com/ElevenCreative/status/2110747896819929300) (2026-10-16)
 - [ElevenCreative](https://x.com/ElevenCreative/status/2117980490661785753) (2026-11-07)
+- [ElevenCreative](https://x.com/ElevenCreative/status/2120025947709837525) (2026-11-14)
 - [ElevenLabs](https://x.com/ElevenLabs/status/2099547227223908568) (2026-09-18)
 - [Emdad_AI](https://x.com/Emdad_AI/status/2091364911628910857) (2026-08-23)
 - [EngMoElgaraihy](https://x.com/EngMoElgaraihy/status/2083197718818611544) (2026-08-02)
@@ -255,6 +256,7 @@ total_mentions: 1259
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2071929838265630850) (2026-07-04)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2103900910292472051) (2026-10-03)
+- [LeoCreaIA](https://x.com/LeoCreaIA/status/2120143678039548236) (2026-11-14)
 - [LiuweijiaVip](https://x.com/LiuweijiaVip/status/2111970584342958407) (2026-10-19)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2108499624038113606) (2026-10-11)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
@@ -352,8 +354,10 @@ total_mentions: 1259
 - [RhysSullivan](https://x.com/RhysSullivan/status/2073538819132207489) (2026-07-05)
 - [RhysSullivan](https://x.com/RhysSullivan/status/2099970035137794430) (2026-09-16)
 - [RhysSullivan](https://x.com/RhysSullivan/status/2109696982742925434) (2026-10-13)
+- [RhysSullivan](https://x.com/RhysSullivan/status/2121281133665210400) (2026-11-14)
 - [RihardJarc](https://x.com/RihardJarc/status/2112562002958692392) (2026-10-21)
 - [RishiUvaach](https://x.com/RishiUvaach/status/2087886901932159214) (2026-08-14)
+- [RishiUvaach](https://x.com/RishiUvaach/status/2120871735319027837) (2026-11-14)
 - [Rizvi_On_X](https://x.com/Rizvi_On_X/status/2114207284897501446) (2026-10-26)
 - [RobinHubHB](https://x.com/RobinHubHB/status/2080004956216611060) (2026-07-29)
 - [RobinHubHB](https://x.com/RobinHubHB/status/2080744829907267752) (2026-07-28)
@@ -594,6 +598,7 @@ total_mentions: 1259
 - [astridtgtz](https://x.com/astridtgtz/status/2076645768471908554) (2026-07-14)
 - [athrix_codes](https://x.com/athrix_codes/status/2079987918660333709) (2026-07-25)
 - [bakigulai](https://x.com/bakigulai/status/2089258113475944539) (2026-08-19)
+- [banishahr66](https://x.com/banishahr66/status/2121464159476842927) (2026-11-14)
 - [base](https://x.com/base/status/2083204522415960437) (2026-08-05)
 - [base](https://x.com/base/status/2087190317510336821) (2026-08-13)
 - [bcherny](https://x.com/bcherny/status/2113333859907747871) (2026-10-23)
@@ -647,6 +652,7 @@ total_mentions: 1259
 - [chetaslua](https://x.com/chetaslua/status/2102501773705670994) (2026-09-25)
 - [chongdashu](https://x.com/chongdashu/status/2089139349371973645) (2026-08-17)
 - [choopyplug1](https://x.com/choopyplug1/status/2114474303190086018) (2026-11-01)
+- [choopyplug1](https://x.com/choopyplug1/status/2121336889806565591) (2026-11-14)
 - [cjpedregal](https://x.com/cjpedregal/status/2120553051467481493) (2026-11-13)
 - [claudecode84](https://x.com/claudecode84/status/2089916968132575288) (2026-08-21)
 - [claudecode84](https://x.com/claudecode84/status/2099010861822075198) (2026-09-13)
@@ -878,9 +884,11 @@ total_mentions: 1259
 - [jullerino](https://x.com/jullerino/status/2107887846648635705) (2026-10-08)
 - [justmazer](https://x.com/justmazer/status/2088344886206705880) (2026-08-15)
 - [k2sbhai](https://x.com/k2sbhai/status/2090007138567655564) (2026-08-22)
+- [k8083855](https://x.com/k8083855/status/2121448354391757176) (2026-11-14)
 - [karlarboledas](https://x.com/karlarboledas/status/2098004038042186171) (2026-09-13)
 - [karlarboledas](https://x.com/karlarboledas/status/2100215460306256148) (2026-09-20)
 - [karpathy](https://x.com/karpathy/status/2015883857489522876) (2026-09-19)
+- [kedaya](https://x.com/kedaya/status/2121358945721717132) (2026-11-14)
 - [kevinzhow](https://x.com/kevinzhow/status/2105187162069291334) (2026-10-01)
 - [kgoedecke](https://x.com/kgoedecke/status/2116671954166129052) (2026-11-01)
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
@@ -1041,6 +1049,7 @@ total_mentions: 1259
 - [rebel0x0](https://x.com/rebel0x0/status/2067186712758071385) (2026-06-19)
 - [recat_125](https://x.com/recat_125/status/2104497208997576725) (2026-09-29)
 - [rehan_shei](https://x.com/rehan_shei/status/2104662849624981571) (2026-09-30)
+- [rehan_shei](https://x.com/rehan_shei/status/2119855388988518794) (2026-11-14)
 - [res1dualedge](https://x.com/res1dualedge/status/2103237038778835331) (2026-09-26)
 - [rewind02](https://x.com/rewind02/status/2108195576206488058) (2026-10-13)
 - [rewind02](https://x.com/rewind02/status/2109585491280453986) (2026-10-17)
@@ -1064,6 +1073,7 @@ total_mentions: 1259
 - [rom1trs](https://x.com/rom1trs/status/2080601402460590265) (2026-07-26)
 - [romanbuildsaas](https://x.com/romanbuildsaas/status/2115845620388802697) (2026-10-30)
 - [romanftp](https://x.com/romanftp/status/2092265070310908152) (2026-08-26)
+- [ronixtec](https://x.com/ronixtec/status/2121398115064246414) (2026-11-14)
 - [rosemoni18](https://x.com/rosemoni18/status/2094923340062622201) (2026-09-02)
 - [rossaxbt](https://x.com/rossaxbt/status/2106758817161597021) (2026-10-05)
 - [runes_leo](https://x.com/runes_leo/status/2090442625820356780) (2026-08-21)
@@ -1133,6 +1143,7 @@ total_mentions: 1259
 - [splinetool](https://x.com/splinetool/status/2090500256190603636) (2026-08-23)
 - [spuicey](https://x.com/spuicey/status/2112344791635681477) (2026-10-26)
 - [starmexxx](https://x.com/starmexxx/status/2089399623106355708) (2026-08-18)
+- [starmexxx](https://x.com/starmexxx/status/2121350281548214706) (2026-11-14)
 - [stitchbygoogle](https://x.com/stitchbygoogle/status/2105695155164741984) (2026-10-02)
 - [stretchcloud](https://x.com/stretchcloud/status/2072215124958740898) (2026-07-01)
 - [studio_yebisu](https://x.com/studio_yebisu/status/2106594707480404007) (2026-10-11)
