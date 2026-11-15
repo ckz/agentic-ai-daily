@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-14
-total_mentions: 365
+last_seen: 2026-11-15
+total_mentions: 370
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -52,6 +52,7 @@ total_mentions: 365
 - [CharlieDFilm](https://x.com/CharlieDFilm/status/2098929162735997071) (2026-09-14)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2061877349629759847) (2026-06-05)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2092984433649283284) (2026-09-01)
+- [ClaudeDevs](https://x.com/ClaudeDevs/status/2120938988165091693) (2026-11-15)
 - [ClementDelangue](https://x.com/ClementDelangue/status/2062982727729553913) (2026-06-05)
 - [ClementDelangue](https://x.com/ClementDelangue/status/2107120717980471638) (2026-10-07)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2116885723601068339) (2026-11-05)
@@ -107,6 +108,7 @@ total_mentions: 365
 - [Meituan_LongCat](https://x.com/Meituan_LongCat/status/2073768940078317713) (2026-07-06)
 - [MetaforDevs](https://x.com/MetaforDevs/status/2072474629852348684) (2026-07-02)
 - [MikeLongTerm](https://x.com/MikeLongTerm/status/2083580958519783522) (2026-08-07)
+- [MisssRegal](https://x.com/MisssRegal/status/2121875549928755534) (2026-11-15)
 - [N01ennn](https://x.com/N01ennn/status/2088606747531358505) (2026-08-21)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
 - [N01ennn](https://x.com/N01ennn/status/2089455117716406706) (2026-08-18)
@@ -184,6 +186,7 @@ total_mentions: 365
 - [beamnxw](https://x.com/beamnxw/status/2090553472865419568) (2026-08-21)
 - [beamnxw](https://x.com/beamnxw/status/2115912451388485931) (2026-10-30)
 - [bindureddy](https://x.com/bindureddy/status/2087034287396938177) (2026-08-11)
+- [birmeya](https://x.com/birmeya/status/2121346750602698801) (2026-11-15)
 - [bonduelleioat](https://x.com/bonduelleioat/status/2090015153739669554) (2026-08-23)
 - [business](https://x.com/business/status/2116754642222616835) (2026-11-02)
 - [businessbarista](https://x.com/businessbarista/status/2097478065723162959) (2026-09-09)
@@ -328,7 +331,9 @@ total_mentions: 365
 - [sharbel](https://x.com/sharbel/status/2063369348828610886) (2026-06-11)
 - [shikamarutsai](https://x.com/shikamarutsai/status/2110817965658571181) (2026-10-17)
 - [shikamarutsai](https://x.com/shikamarutsai/status/2120275993088925734) (2026-11-12)
+- [shikamarutsai](https://x.com/shikamarutsai/status/2121682208532688904) (2026-11-15)
 - [skunzu](https://x.com/skunzu/status/2110808873322123547) (2026-10-17)
+- [skyvense](https://x.com/skyvense/status/2121862344733008179) (2026-11-15)
 - [slash1sol](https://x.com/slash1sol/status/2109269883888246926) (2026-10-12)
 - [sohmehta](https://x.com/sohmehta/status/2097374528175526083) (2026-09-15)
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)

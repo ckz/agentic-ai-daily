@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-14
-total_mentions: 148
+last_seen: 2026-11-15
+total_mentions: 149
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -145,6 +145,7 @@ total_mentions: 148
 - [sharbel](https://x.com/sharbel/status/2063369348828610886) (2026-06-11)
 - [shedoesai](https://x.com/shedoesai/status/2054227691671556145) (2026-06-12)
 - [sheemamoto](https://x.com/sheemamoto/status/2099571838514864241) (2026-09-15)
+- [skyvense](https://x.com/skyvense/status/2121862344733008179) (2026-11-15)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
 - [triptitips](https://x.com/triptitips/status/2101682470655758391) (2026-09-21)
 - [triptitips](https://x.com/triptitips/status/2103681542602265021) (2026-09-29)

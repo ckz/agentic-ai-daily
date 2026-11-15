@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-14
-total_mentions: 896
+last_seen: 2026-11-15
+total_mentions: 900
 
 ## Related Tweets
 - [0x0simba_eth](https://x.com/0x0simba_eth/status/2118895661722616112) (2026-11-07)
@@ -220,6 +220,7 @@ total_mentions: 896
 - [Motionsbyeddy](https://x.com/Motionsbyeddy/status/2071694912597479912) (2026-07-02)
 - [MrsBowmanWrites](https://x.com/MrsBowmanWrites/status/966572667791790081) (2026-10-24)
 - [NFT_Chen](https://x.com/NFT_Chen/status/2090276530962461131) (2026-08-22)
+- [NFT_Nadiyaa](https://x.com/NFT_Nadiyaa/status/2121828069585621433) (2026-11-15)
 - [NKLinhzk](https://x.com/NKLinhzk/status/2102924602301350339) (2026-09-25)
 - [NamanyayG](https://x.com/NamanyayG/status/2114213361793839181) (2026-10-25)
 - [NamanyayG](https://x.com/NamanyayG/status/2117859611818533283) (2026-11-06)
@@ -494,6 +495,7 @@ total_mentions: 896
 - [deedydas](https://x.com/deedydas/status/2102787937482252537) (2026-09-24)
 - [deedydas](https://x.com/deedydas/status/2103903382822089010) (2026-09-27)
 - [deedydas](https://x.com/deedydas/status/2116669429866275148) (2026-11-02)
+- [deedydas](https://x.com/deedydas/status/2121766500524589160) (2026-11-15)
 - [defyneric](https://x.com/defyneric/status/2109401860494791063) (2026-10-12)
 - [dhanyindraswara](https://x.com/dhanyindraswara/status/2108209744439812534) (2026-10-09)
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
@@ -624,6 +626,7 @@ total_mentions: 896
 - [kathrynwu1](https://x.com/kathrynwu1/status/2108633616741785725) (2026-10-12)
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
 - [khodeSL](https://x.com/khodeSL/status/2120435717251781068) (2026-11-12)
+- [khodeSL](https://x.com/khodeSL/status/2121527775374807509) (2026-11-15)
 - [kirillk_web3](https://x.com/kirillk_web3/status/2098902710120743088) (2026-09-14)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2019152438910165393) (2026-06-13)
 - [kmr_dilip](https://x.com/kmr_dilip/status/2084154599183929363) (2026-08-06)
@@ -813,6 +816,7 @@ total_mentions: 896
 - [sridharfyi](https://x.com/sridharfyi/status/2119608084985475298) (2026-11-12)
 - [starmexxx](https://x.com/starmexxx/status/2082423966380032432) (2026-07-30)
 - [starter_story](https://x.com/starter_story/status/2106053639123140814) (2026-10-03)
+- [starter_story](https://x.com/starter_story/status/2121668427555479564) (2026-11-15)
 - [stevenfiorillo](https://x.com/stevenfiorillo/status/2093840650223358375) (2026-08-30)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
 - [subahwadhwani](https://x.com/subahwadhwani/status/2097331593790792035) (2026-09-15)

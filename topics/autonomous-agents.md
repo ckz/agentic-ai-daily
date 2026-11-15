@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-14
-total_mentions: 1752
+last_seen: 2026-11-15
+total_mentions: 1764
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -133,6 +133,7 @@ total_mentions: 1752
 - [ActionModelAI](https://x.com/ActionModelAI/status/2107492691420266808) (2026-10-07)
 - [AdamTornhill](https://x.com/AdamTornhill/status/2097973404179583225) (2026-09-12)
 - [AdelDeveloperX](https://x.com/AdelDeveloperX/status/2074195359199375745) (2026-07-07)
+- [Agek1d](https://x.com/Agek1d/status/2121812484675772724) (2026-11-15)
 - [AgentIdETH](https://x.com/AgentIdETH/status/2117526063643308173) (2026-11-04)
 - [AgenticAIFdn](https://x.com/AgenticAIFdn/status/2077740129284764108) (2026-07-17)
 - [Agentum_space](https://x.com/Agentum_space/status/2085270382777647471) (2026-08-06)
@@ -180,6 +181,7 @@ total_mentions: 1752
 - [AndrewBolis](https://x.com/AndrewBolis/status/2109241359278477749) (2026-10-15)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2062245225159111117) (2026-06-06)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2109738666277150767) (2026-10-13)
+- [AndrewCurran_](https://x.com/AndrewCurran_/status/2121715103427096652) (2026-11-15)
 - [AndrewYNg](https://x.com/AndrewYNg/status/1975614372799283423) (2026-06-12)
 - [AndrewYNg](https://x.com/AndrewYNg/status/2061477558693384395) (2026-06-07)
 - [AndrewYNg](https://x.com/AndrewYNg/status/2071988145667928442) (2026-07-01)
@@ -404,6 +406,7 @@ total_mentions: 1752
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2087121081098224122) (2026-08-18)
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2099945497377091902) (2026-09-17)
 - [GesoraMeshack](https://x.com/GesoraMeshack/status/2084521634937856338) (2026-08-04)
+- [Gfs_Ninja4](https://x.com/Gfs_Ninja4/status/2121807576065331592) (2026-11-15)
 - [GhostOfSocrates](https://x.com/GhostOfSocrates/status/2118470575287083109) (2026-11-09)
 - [GitTrend0x](https://x.com/GitTrend0x/status/2085190556674904253) (2026-08-07)
 - [GodsBoy7777](https://x.com/GodsBoy7777/status/2102146460821152070) (2026-09-22)
@@ -535,6 +538,7 @@ total_mentions: 1752
 - [LunarResearcher](https://x.com/LunarResearcher/status/2095483630961275019) (2026-09-04)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2116885583419052046) (2026-11-02)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2120864524286726539) (2026-11-13)
+- [LuxTomX](https://x.com/LuxTomX/status/2121875429023977734) (2026-11-15)
 - [LyberAI](https://x.com/LyberAI/status/2119221833912463513) (2026-11-08)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2090697430756904964) (2026-08-23)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2092142425879855254) (2026-08-28)
@@ -578,6 +582,7 @@ total_mentions: 1752
 - [MilkRoadAI](https://x.com/MilkRoadAI/status/2069466738941657230) (2026-06-28)
 - [MilkRoadAI](https://x.com/MilkRoadAI/status/2072187752402346407) (2026-07-08)
 - [MiniMax_AI](https://x.com/MiniMax_AI/status/2061266317815296322) (2026-06-05)
+- [MisssRegal](https://x.com/MisssRegal/status/2121875549928755534) (2026-11-15)
 - [MistralAI](https://x.com/MistralAI/status/2115811242556137820) (2026-11-01)
 - [MithilaStack](https://x.com/MithilaStack/status/2072557584536776834) (2026-07-02)
 - [Mnilax](https://x.com/Mnilax/status/2087651578639470614) (2026-08-14)
@@ -598,6 +603,7 @@ total_mentions: 1752
 - [N01ennn](https://x.com/N01ennn/status/2089455117716406706) (2026-08-18)
 - [N01ennn](https://x.com/N01ennn/status/2111888466829303973) (2026-10-19)
 - [NFTCPS](https://x.com/NFTCPS/status/2063088254560407926) (2026-06-13)
+- [NFT_Nadiyaa](https://x.com/NFT_Nadiyaa/status/2121828069585621433) (2026-11-15)
 - [NVIDIAAI](https://x.com/NVIDIAAI/status/2111488462264410553) (2026-10-22)
 - [NVIDIAAP](https://x.com/NVIDIAAP/status/2066370113733787732) (2026-06-15)
 - [NVIDIAAP](https://x.com/NVIDIAAP/status/2076879361504903645) (2026-07-21)
@@ -756,12 +762,14 @@ total_mentions: 1752
 - [Spectre__AI](https://x.com/Spectre__AI/status/2084677141870883158) (2026-08-07)
 - [Spectre__AI](https://x.com/Spectre__AI/status/2107138516492689556) (2026-10-07)
 - [Sprytixl](https://x.com/Sprytixl/status/2086533982385033355) (2026-08-11)
+- [StarsAI_BSC](https://x.com/StarsAI_BSC/status/2121824154332835930) (2026-11-15)
 - [Stefan_3D_AI](https://x.com/Stefan_3D_AI/status/2086350955520360613) (2026-08-10)
 - [Steve8708](https://x.com/Steve8708/status/2077051086234685641) (2026-07-15)
 - [Steve8708](https://x.com/Steve8708/status/2102816521148149911) (2026-09-24)
 - [Steve8708](https://x.com/Steve8708/status/2110401500044472729) (2026-11-02)
 - [SteveMoraco](https://x.com/SteveMoraco/status/2113283753581977986) (2026-10-23)
 - [Steve_Yegge](https://x.com/Steve_Yegge/status/2102268319919423606) (2026-09-22)
+- [Steve_Yegge](https://x.com/Steve_Yegge/status/2121671447810888185) (2026-11-15)
 - [StockMCatalysts](https://x.com/StockMCatalysts/status/2078855382777348425) (2026-07-23)
 - [StockMKTNewz](https://x.com/StockMKTNewz/status/2094422639313850703) (2026-09-05)
 - [StockSavvyShay](https://x.com/StockSavvyShay/status/2065801050154811741) (2026-06-14)
@@ -812,6 +820,7 @@ total_mentions: 1752
 - [TradingTerminal](https://x.com/TradingTerminal/status/2032473191214358925) (2026-06-07)
 - [Tuteth_](https://x.com/Tuteth_/status/2082578543947472946) (2026-07-30)
 - [Tuteth_](https://x.com/Tuteth_/status/2085375892201652579) (2026-08-09)
+- [TuyetPh42934096](https://x.com/TuyetPh42934096/status/2121812469559783903) (2026-11-15)
 - [UFCS](https://x.com/UFCS/status/2107356066719621508) (2026-10-06)
 - [UPing123zzz](https://x.com/UPing123zzz/status/2118624242556399660) (2026-11-09)
 - [USB](https://x.com/USB/status/2074401622730363082) (2026-07-07)
@@ -864,6 +873,7 @@ total_mentions: 1752
 - [Zuesthekreator](https://x.com/Zuesthekreator/status/2087104886240374996) (2026-08-13)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
 - [_0xpainn](https://x.com/_0xpainn/status/2070432605552451963) (2026-08-02)
+- [_Juliaweb3](https://x.com/_Juliaweb3/status/2121788778234753085) (2026-11-15)
 - [_LuoFuli](https://x.com/_LuoFuli/status/2102162926802968749) (2026-09-25)
 - [_ZaricX](https://x.com/_ZaricX/status/2111313503688548618) (2026-10-17)
 - [__Vik_tor](https://x.com/__Vik_tor/status/2104042202053648805) (2026-09-27)
@@ -1332,6 +1342,7 @@ total_mentions: 1752
 - [kevinroose](https://x.com/kevinroose/status/2098454644234330364) (2026-09-12)
 - [keyserfaty](https://x.com/keyserfaty/status/2092679276168638954) (2026-08-27)
 - [khodeSL](https://x.com/khodeSL/status/2120435717251781068) (2026-11-12)
+- [khodeSL](https://x.com/khodeSL/status/2121527775374807509) (2026-11-15)
 - [kimmonismus](https://x.com/kimmonismus/status/2085812651163296161) (2026-08-08)
 - [kirillk_web3](https://x.com/kirillk_web3/status/2090621157087064304) (2026-08-24)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2094551333525447072) (2026-09-01)
@@ -1605,6 +1616,7 @@ total_mentions: 1752
 - [shikamarutsai](https://x.com/shikamarutsai/status/2088636457938280724) (2026-08-19)
 - [shikamarutsai](https://x.com/shikamarutsai/status/2119197676415877128) (2026-11-08)
 - [shikamarutsai](https://x.com/shikamarutsai/status/2120275993088925734) (2026-11-12)
+- [shikamarutsai](https://x.com/shikamarutsai/status/2121682208532688904) (2026-11-15)
 - [shiqway92](https://x.com/shiqway92/status/2081403424986239014) (2026-07-28)
 - [shiri_shh](https://x.com/shiri_shh/status/2060434223299998179) (2026-06-05)
 - [shiri_shh](https://x.com/shiri_shh/status/2061426931162288614) (2026-06-06)

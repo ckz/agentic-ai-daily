@@ -1,8 +1,8 @@
 # Browser Use
 
 first_seen: 2026-06-07
-last_seen: 2026-11-14
-total_mentions: 62
+last_seen: 2026-11-15
+total_mentions: 63
 
 ## Related Tweets
 - [0xGenAi](https://x.com/0xGenAi/status/2120243742657368359) (2026-11-12)
@@ -35,6 +35,7 @@ total_mentions: 62
 - [ai_300](https://x.com/ai_300/status/2108376911600578668) (2026-10-11)
 - [akothari](https://x.com/akothari/status/2112265602203336892) (2026-10-22)
 - [akshay_manglik](https://x.com/akshay_manglik/status/2114435444587065486) (2026-10-26)
+- [birmeya](https://x.com/birmeya/status/2121346750602698801) (2026-11-15)
 - [biswaasen](https://x.com/biswaasen/status/2072065994152145370) (2026-07-01)
 - [browser_use](https://x.com/browser_use/status/2072699513228378262) (2026-07-05)
 - [browser_use](https://x.com/browser_use/status/2090937982295630278) (2026-08-22)

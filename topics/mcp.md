@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-11-14
-total_mentions: 1270
+last_seen: 2026-11-15
+total_mentions: 1279
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -295,6 +295,7 @@ total_mentions: 1270
 - [MiniMax_AI](https://x.com/MiniMax_AI/status/2061266317815296322) (2026-06-05)
 - [MishariAldulimi](https://x.com/MishariAldulimi/status/2109705411880243603) (2026-10-16)
 - [MishariAldulimi](https://x.com/MishariAldulimi/status/2116438437251211373) (2026-11-05)
+- [MisssRegal](https://x.com/MisssRegal/status/2121875549928755534) (2026-11-15)
 - [Mnilax](https://x.com/Mnilax/status/2109716261160538324) (2026-10-13)
 - [Mnilax](https://x.com/Mnilax/status/2110039818524660135) (2026-10-15)
 - [Mnilax](https://x.com/Mnilax/status/2110382356028686598) (2026-10-18)
@@ -433,6 +434,7 @@ total_mentions: 1270
 - [SvpChain](https://x.com/SvpChain/status/2064935788345974954) (2026-06-11)
 - [SwamiMalode](https://x.com/SwamiMalode/status/2109973447397031991) (2026-10-17)
 - [TablePlus](https://x.com/TablePlus/status/2107323861205491790) (2026-10-06)
+- [Tailscale](https://x.com/Tailscale/status/2120173484202410393) (2026-11-15)
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2065300113254388162) (2026-06-12)
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2074344040125091936) (2026-07-07)
 - [TechCrunch](https://x.com/TechCrunch/status/2099955188467405227) (2026-09-16)
@@ -487,6 +489,7 @@ total_mentions: 1270
 - [Yellow](https://x.com/Yellow/status/2118230254506631372) (2026-11-06)
 - [YorichiiCrypto](https://x.com/YorichiiCrypto/status/2107563475555823957) (2026-10-07)
 - [ZHENXINYU](https://x.com/ZHENXINYU/status/2064950271906889746) (2026-06-11)
+- [ZYN007_X](https://x.com/ZYN007_X/status/2121076035454194138) (2026-11-15)
 - [ZephrFish](https://x.com/ZephrFish/status/2109200227823468588) (2026-10-14)
 - [Ziven_Coder](https://x.com/Ziven_Coder/status/2112911629184864394) (2026-10-27)
 - [Ziven_Coder](https://x.com/Ziven_Coder/status/2113088158904840515) (2026-10-22)
@@ -615,6 +618,8 @@ total_mentions: 1270
 - [betomoedano](https://x.com/betomoedano/status/2071257935485788178) (2026-06-29)
 - [betomoedano](https://x.com/betomoedano/status/2075206572628705477) (2026-07-13)
 - [bettercalltonny](https://x.com/bettercalltonny/status/2087599007518302487) (2026-08-16)
+- [birmeya](https://x.com/birmeya/status/2120904800871096798) (2026-11-15)
+- [birmeya](https://x.com/birmeya/status/2121346750602698801) (2026-11-15)
 - [biswaasen](https://x.com/biswaasen/status/2072065994152145370) (2026-07-01)
 - [blueemi99](https://x.com/blueemi99/status/2095984946846355510) (2026-09-11)
 - [bogdan_qclay](https://x.com/bogdan_qclay/status/2072013095891792062) (2026-07-05)
@@ -746,6 +751,7 @@ total_mentions: 1270
 - [e_opore](https://x.com/e_opore/status/2073977846448451776) (2026-07-06)
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
 - [e_opore](https://x.com/e_opore/status/2109509666392707497) (2026-10-17)
+- [elbyron0](https://x.com/elbyron0/status/2121048007596789853) (2026-11-15)
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
 - [eliana_jordan](https://x.com/eliana_jordan/status/2071647509332598909) (2026-06-30)
 - [elliot_garreffa](https://x.com/elliot_garreffa/status/2116127839967645789) (2026-10-31)
@@ -992,6 +998,7 @@ total_mentions: 1270
 - [noechague](https://x.com/noechague/status/2115881352822493630) (2026-10-30)
 - [noechague](https://x.com/noechague/status/2116243745821937803) (2026-10-31)
 - [noechague](https://x.com/noechague/status/2121028068794069381) (2026-11-13)
+- [noechague](https://x.com/noechague/status/2121688148342116825) (2026-11-15)
 - [nonceprotocol](https://x.com/nonceprotocol/status/2115132771320603034) (2026-10-29)
 - [nova_agent945](https://x.com/nova_agent945/status/2063015766547419610) (2026-06-05)
 - [nrlartt](https://x.com/nrlartt/status/2082153925491249607) (2026-07-29)
@@ -1087,6 +1094,7 @@ total_mentions: 1270
 - [s4yonnara](https://x.com/s4yonnara/status/2117359340931686839) (2026-11-03)
 - [s4yonnara](https://x.com/s4yonnara/status/2118814330695073907) (2026-11-08)
 - [s4yonnara](https://x.com/s4yonnara/status/2120998825087111305) (2026-11-13)
+- [s4yonnara](https://x.com/s4yonnara/status/2121710312391159903) (2026-11-15)
 - [sabanci_ata](https://x.com/sabanci_ata/status/2099927513346547961) (2026-09-16)
 - [sabanci_ata](https://x.com/sabanci_ata/status/2100107329614016540) (2026-09-16)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
@@ -1114,6 +1122,7 @@ total_mentions: 1270
 - [shawnchauhan1](https://x.com/shawnchauhan1/status/2082685120679657715) (2026-07-30)
 - [shedntcare_](https://x.com/shedntcare_/status/2066124333559480395) (2026-06-21)
 - [shedoesai](https://x.com/shedoesai/status/2054227691671556145) (2026-06-12)
+- [shikamarutsai](https://x.com/shikamarutsai/status/2121682208532688904) (2026-11-15)
 - [shivam74689](https://x.com/shivam74689/status/2079227091380539873) (2026-07-21)
 - [shivanipod](https://x.com/shivanipod/status/2112233722846355593) (2026-10-20)
 - [shushant_l](https://x.com/shushant_l/status/2065026285882257918) (2026-06-13)

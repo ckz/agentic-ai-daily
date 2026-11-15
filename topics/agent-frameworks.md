@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-14
-total_mentions: 686
+last_seen: 2026-11-15
+total_mentions: 691
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -216,6 +216,7 @@ total_mentions: 686
 - [Lummox_eth](https://x.com/Lummox_eth/status/2106062601289408549) (2026-10-05)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2120864524286726539) (2026-11-13)
+- [LuxTomX](https://x.com/LuxTomX/status/2121875429023977734) (2026-11-15)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2092142425879855254) (2026-08-28)
 - [MarcoSalzmann80](https://x.com/MarcoSalzmann80/status/2104518722400522384) (2026-11-04)
 - [MarcoSalzmann80](https://x.com/MarcoSalzmann80/status/2111738172015046745) (2026-10-24)
@@ -231,6 +232,7 @@ total_mentions: 686
 - [MiguelriosEN](https://x.com/MiguelriosEN/status/2113727904882233641) (2026-10-24)
 - [MikeLongTerm](https://x.com/MikeLongTerm/status/2109106714159075786) (2026-10-15)
 - [MilkRoadAI](https://x.com/MilkRoadAI/status/2072187752402346407) (2026-07-08)
+- [MisssRegal](https://x.com/MisssRegal/status/2121875549928755534) (2026-11-15)
 - [Mnilax](https://x.com/Mnilax/status/2087651578639470614) (2026-08-14)
 - [Mohansinha](https://x.com/Mohansinha/status/2079629691494060368) (2026-07-24)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106601226276118967) (2026-10-05)
@@ -399,6 +401,7 @@ total_mentions: 686
 - [better_auth](https://x.com/better_auth/status/2074523839300513921) (2026-07-08)
 - [bettercalltonny](https://x.com/bettercalltonny/status/2087599007518302487) (2026-08-16)
 - [bindureddy](https://x.com/bindureddy/status/2076165296977858836) (2026-07-12)
+- [birmeya](https://x.com/birmeya/status/2121346750602698801) (2026-11-15)
 - [bizbreakdowns](https://x.com/bizbreakdowns/status/2081711200643985720) (2026-07-29)
 - [bode_sule](https://x.com/bode_sule/status/2114225364717482179) (2026-10-25)
 - [bonsaixbt](https://x.com/bonsaixbt/status/2077722769194615193) (2026-07-17)
@@ -514,6 +517,7 @@ total_mentions: 686
 - [jenukal](https://x.com/jenukal/status/2111865563492601949) (2026-10-19)
 - [johnvirality](https://x.com/johnvirality/status/2070571963555152330) (2026-06-29)
 - [jwang633](https://x.com/jwang633/status/2105012942601367940) (2026-09-30)
+- [kashu_yamazaki](https://x.com/kashu_yamazaki/status/2121634263963718118) (2026-11-15)
 - [kenAI_domains](https://x.com/kenAI_domains/status/2080371618954490323) (2026-07-24)
 - [khodeSL](https://x.com/khodeSL/status/2120435717251781068) (2026-11-12)
 - [kimmonismus](https://x.com/kimmonismus/status/2085812651163296161) (2026-08-08)
@@ -621,6 +625,7 @@ total_mentions: 686
 - [simonbs](https://x.com/simonbs/status/2098246318124650855) (2026-09-11)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
 - [skirano](https://x.com/skirano/status/1797738751113998345) (2026-10-12)
+- [skyvense](https://x.com/skyvense/status/2121862344733008179) (2026-11-15)
 - [smarterwithai_](https://x.com/smarterwithai_/status/2113156321738670539) (2026-10-22)
 - [snwiki238337](https://x.com/snwiki238337/status/2099736240048226688) (2026-09-22)
 - [socialwithaayan](https://x.com/socialwithaayan/status/2072044103492309425) (2026-07-02)
