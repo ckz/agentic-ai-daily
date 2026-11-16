@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-15
-total_mentions: 900
+last_seen: 2026-11-16
+total_mentions: 905
 
 ## Related Tweets
 - [0x0simba_eth](https://x.com/0x0simba_eth/status/2118895661722616112) (2026-11-07)
@@ -10,6 +10,7 @@ total_mentions: 900
 - [0xMovez](https://x.com/0xMovez/status/2115870373300326503) (2026-10-31)
 - [0xMrPinky](https://x.com/0xMrPinky/status/2096965953611321538) (2026-09-11)
 - [0xMrPinky](https://x.com/0xMrPinky/status/2113250067415289868) (2026-10-24)
+- [0xTyomych](https://x.com/0xTyomych/status/2122229001796137343) (2026-11-16)
 - [0xWassie](https://x.com/0xWassie/status/2115526580445340110) (2026-11-03)
 - [0x_rody](https://x.com/0x_rody/status/2102403963865759871) (2026-09-24)
 - [0x_rody](https://x.com/0x_rody/status/2106413848982880695) (2026-10-04)
@@ -18,6 +19,7 @@ total_mentions: 900
 - [0xvietnguyen](https://x.com/0xvietnguyen/status/2088504476865081410) (2026-08-21)
 - [16vchq](https://x.com/16vchq/status/2109872657021952438) (2026-10-13)
 - [16vchq](https://x.com/16vchq/status/2111452434107334943) (2026-10-18)
+- [16vchq](https://x.com/16vchq/status/2122176799929250210) (2026-11-16)
 - [2whazzuup](https://x.com/2whazzuup/status/2113971733871104275) (2026-10-30)
 - [3blue1brown](https://x.com/3blue1brown/status/2111135480116850944) (2026-10-18)
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
@@ -278,6 +280,7 @@ total_mentions: 900
 - [RuntimeBRT](https://x.com/RuntimeBRT/status/2084874541864497469) (2026-08-05)
 - [RussellQuantum](https://x.com/RussellQuantum/status/2107291655795548493) (2026-10-07)
 - [SSshadali](https://x.com/SSshadali/status/2105512704471392326) (2026-10-01)
+- [S_Wong17](https://x.com/S_Wong17/status/2122186691779957004) (2026-11-16)
 - [Samaytwt](https://x.com/Samaytwt/status/2087456724165050716) (2026-08-15)
 - [SawyerMerritt](https://x.com/SawyerMerritt/status/2070711031094022508) (2026-07-02)
 - [SawyerMerritt](https://x.com/SawyerMerritt/status/2097918541236208092) (2026-09-10)
@@ -313,6 +316,7 @@ total_mentions: 900
 - [TRHLofficial](https://x.com/TRHLofficial/status/2104165736365134051) (2026-10-01)
 - [TechCrunch](https://x.com/TechCrunch/status/2090976021600244044) (2026-08-25)
 - [TechCrunch](https://x.com/TechCrunch/status/2107205456351354910) (2026-10-06)
+- [Techmeme](https://x.com/Techmeme/status/2122186908709306733) (2026-11-16)
 - [Techstars](https://x.com/Techstars/status/2115836298099323144) (2026-10-30)
 - [TheJoinCare](https://x.com/TheJoinCare/status/2110466063762960613) (2026-10-15)
 - [TheStartupsMag](https://x.com/TheStartupsMag/status/2068604981318488305) (2026-06-21)
@@ -584,6 +588,7 @@ total_mentions: 900
 - [hridoyreh](https://x.com/hridoyreh/status/2107373764430504289) (2026-10-07)
 - [iam_elias1](https://x.com/iam_elias1/status/2062095528742240319) (2026-06-05)
 - [iamlukethedev](https://x.com/iamlukethedev/status/2112323816676528261) (2026-10-21)
+- [iamlukethedev](https://x.com/iamlukethedev/status/2121567368677818682) (2026-11-16)
 - [ianwong_](https://x.com/ianwong_/status/2098106891737977191) (2026-09-12)
 - [ibab](https://x.com/ibab/status/2087145290671468569) (2026-08-12)
 - [inter_link](https://x.com/inter_link/status/2081053524134125832) (2026-07-29)

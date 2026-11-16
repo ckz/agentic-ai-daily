@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-11-15
-total_mentions: 1279
+last_seen: 2026-11-16
+total_mentions: 1294
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -122,6 +122,7 @@ total_mentions: 1279
 - [Clawnch_Bot](https://x.com/Clawnch_Bot/status/2069463550788067626) (2026-06-29)
 - [Cloudflare](https://x.com/Cloudflare/status/2072311802285723953) (2026-07-04)
 - [Codestudiopjbk](https://x.com/Codestudiopjbk/status/2099855757600756008) (2026-09-18)
+- [CognyAI](https://x.com/CognyAI/status/2121861860831985783) (2026-11-16)
 - [CoinbaseDev](https://x.com/CoinbaseDev/status/2097762296986817012) (2026-09-15)
 - [ComfyUI](https://x.com/ComfyUI/status/2071625866912944151) (2026-06-30)
 - [ComfyUI](https://x.com/ComfyUI/status/2089757488153592056) (2026-08-19)
@@ -390,6 +391,7 @@ total_mentions: 1279
 - [S0N_IA](https://x.com/S0N_IA/status/2093745814241747046) (2026-08-30)
 - [SCavanna](https://x.com/SCavanna/status/2064009236741247345) (2026-06-10)
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2010406116157792354) (2026-06-09)
+- [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2120048838144909358) (2026-11-16)
 - [Saccc_c](https://x.com/Saccc_c/status/2060963734546260426) (2026-06-07)
 - [Saccc_c](https://x.com/Saccc_c/status/2115394950066229329) (2026-10-29)
 - [SarvamAI](https://x.com/SarvamAI/status/2074116231461011764) (2026-07-07)
@@ -468,6 +470,7 @@ total_mentions: 1279
 - [WalrusProtocol](https://x.com/WalrusProtocol/status/2107728770849489134) (2026-10-07)
 - [WenboGuo4](https://x.com/WenboGuo4/status/2074189902657544627) (2026-07-08)
 - [WhaleInsider](https://x.com/WhaleInsider/status/2083505184714473983) (2026-08-05)
+- [X1Kafadzhy](https://x.com/X1Kafadzhy/status/2121325978936893680) (2026-11-16)
 - [XDevelopers](https://x.com/XDevelopers/status/2071752389183647758) (2026-06-30)
 - [XFreeze](https://x.com/XFreeze/status/2065327439476375760) (2026-06-13)
 - [XFreeze](https://x.com/XFreeze/status/2071801039167336638) (2026-06-30)
@@ -495,6 +498,7 @@ total_mentions: 1279
 - [Ziven_Coder](https://x.com/Ziven_Coder/status/2113088158904840515) (2026-10-22)
 - [Ziven_Coder](https://x.com/Ziven_Coder/status/2114708634546692096) (2026-10-27)
 - [Ziven_Coder](https://x.com/Ziven_Coder/status/2115678221039792436) (2026-10-29)
+- [ZoharEiny](https://x.com/ZoharEiny/status/2121962302484136255) (2026-11-16)
 - [_Engr_tariq](https://x.com/_Engr_tariq/status/2068603345229562006) (2026-06-21)
 - [_MichaelChoi](https://x.com/_MichaelChoi/status/2107513285750689956) (2026-10-07)
 - [__wi](https://x.com/__wi/status/2110636884439535714) (2026-10-18)
@@ -620,6 +624,8 @@ total_mentions: 1279
 - [bettercalltonny](https://x.com/bettercalltonny/status/2087599007518302487) (2026-08-16)
 - [birmeya](https://x.com/birmeya/status/2120904800871096798) (2026-11-15)
 - [birmeya](https://x.com/birmeya/status/2121346750602698801) (2026-11-15)
+- [birmeya](https://x.com/birmeya/status/2121673796088471868) (2026-11-16)
+- [birmeya](https://x.com/birmeya/status/2121966114091544944) (2026-11-16)
 - [biswaasen](https://x.com/biswaasen/status/2072065994152145370) (2026-07-01)
 - [blueemi99](https://x.com/blueemi99/status/2095984946846355510) (2026-09-11)
 - [bogdan_qclay](https://x.com/bogdan_qclay/status/2072013095891792062) (2026-07-05)
@@ -707,6 +713,7 @@ total_mentions: 1279
 - [de1lymoon](https://x.com/de1lymoon/status/2118347988028346702) (2026-11-06)
 - [deanwperkins](https://x.com/deanwperkins/status/2099488798572687489) (2026-09-16)
 - [deanwperkins](https://x.com/deanwperkins/status/2119741991202312662) (2026-11-10)
+- [deanwperkins](https://x.com/deanwperkins/status/2120509133463986668) (2026-11-16)
 - [derrickcchoi](https://x.com/derrickcchoi/status/2107842419874247028) (2026-10-08)
 - [devops_con](https://x.com/devops_con/status/2116070359669575683) (2026-10-30)
 - [deweytn](https://x.com/deweytn/status/2106499269322559970) (2026-10-06)
@@ -751,6 +758,7 @@ total_mentions: 1279
 - [e_opore](https://x.com/e_opore/status/2073977846448451776) (2026-07-06)
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
 - [e_opore](https://x.com/e_opore/status/2109509666392707497) (2026-10-17)
+- [e_opore](https://x.com/e_opore/status/2122002975912526242) (2026-11-16)
 - [elbyron0](https://x.com/elbyron0/status/2121048007596789853) (2026-11-15)
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
 - [eliana_jordan](https://x.com/eliana_jordan/status/2071647509332598909) (2026-06-30)
@@ -822,6 +830,7 @@ total_mentions: 1279
 - [habibislop](https://x.com/habibislop/status/2105453582908887408) (2026-10-07)
 - [hamster_wat](https://x.com/hamster_wat/status/2078996887361794149) (2026-07-27)
 - [hanakoxbt](https://x.com/hanakoxbt/status/2083932817738666010) (2026-08-04)
+- [hanakoxbt](https://x.com/hanakoxbt/status/2122092400952947003) (2026-11-16)
 - [hanghuang_](https://x.com/hanghuang_/status/2104949571789148416) (2026-10-01)
 - [hanifproduktif](https://x.com/hanifproduktif/status/2095768590850912424) (2026-09-04)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
@@ -861,6 +870,8 @@ total_mentions: 1279
 - [iamlukethedev](https://x.com/iamlukethedev/status/2063081062473859097) (2026-06-06)
 - [iamlukethedev](https://x.com/iamlukethedev/status/2089478617478885532) (2026-08-21)
 - [iamlukethedev](https://x.com/iamlukethedev/status/2112323816676528261) (2026-10-21)
+- [iamlukethedev](https://x.com/iamlukethedev/status/2120681043615515073) (2026-11-16)
+- [iamlukethedev](https://x.com/iamlukethedev/status/2121567368677818682) (2026-11-16)
 - [iamriteshverma](https://x.com/iamriteshverma/status/2068569760196108667) (2026-06-21)
 - [iamtanzil_](https://x.com/iamtanzil_/status/2108066324907962575) (2026-10-09)
 - [icanvardar](https://x.com/icanvardar/status/2071613504688173355) (2026-07-01)
@@ -937,6 +948,7 @@ total_mentions: 1279
 - [martinyeza](https://x.com/martinyeza/status/2105388834452132338) (2026-10-07)
 - [masahirochaen](https://x.com/masahirochaen/status/2111939889185107987) (2026-10-19)
 - [mattrothenberg](https://x.com/mattrothenberg/status/2088019847875526913) (2026-08-16)
+- [mattyp](https://x.com/mattyp/status/2120953404310913453) (2026-11-16)
 - [mattzcarey](https://x.com/mattzcarey/status/2112202956837638329) (2026-10-22)
 - [maxxmalist](https://x.com/maxxmalist/status/2116597651676262808) (2026-11-03)
 - [mayaislam_ai](https://x.com/mayaislam_ai/status/2119315305235370221) (2026-11-11)
@@ -1069,6 +1081,7 @@ total_mentions: 1279
 - [ridark_eth](https://x.com/ridark_eth/status/2074254440861753628) (2026-07-07)
 - [ridark_eth](https://x.com/ridark_eth/status/2108901972359131624) (2026-10-16)
 - [ridark_eth](https://x.com/ridark_eth/status/2114830200810930276) (2026-10-30)
+- [ridark_eth](https://x.com/ridark_eth/status/2121588857309131196) (2026-11-16)
 - [rishigb](https://x.com/rishigb/status/2102885375639507087) (2026-09-24)
 - [robiartec](https://x.com/robiartec/status/2091157554919280688) (2026-08-23)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2092970481423192328) (2026-09-03)
@@ -1110,6 +1123,7 @@ total_mentions: 1279
 - [sanjeevSab17827](https://x.com/sanjeevSab17827/status/2096081496448913595) (2026-09-05)
 - [santtiagom_](https://x.com/santtiagom_/status/2095685798402064550) (2026-09-04)
 - [santtiagom_](https://x.com/santtiagom_/status/2097374607997084024) (2026-09-14)
+- [sattyyouneed](https://x.com/sattyyouneed/status/2121991544400232455) (2026-11-16)
 - [sean_t_strong](https://x.com/sean_t_strong/status/2120211018295238665) (2026-11-11)
 - [seeconvm](https://x.com/seeconvm/status/2084114434973171763) (2026-08-04)
 - [seeconvm](https://x.com/seeconvm/status/2087453527190745345) (2026-08-13)
@@ -1226,6 +1240,7 @@ total_mentions: 1279
 - [tonysimons_](https://x.com/tonysimons_/status/2105688986299810082) (2026-10-05)
 - [triptitips](https://x.com/triptitips/status/2101682470655758391) (2026-09-21)
 - [triptitips](https://x.com/triptitips/status/2103681542602265021) (2026-09-29)
+- [triptitips](https://x.com/triptitips/status/2120855495603011589) (2026-11-16)
 - [trq212](https://x.com/trq212/status/2099958388230873165) (2026-09-16)
 - [trythreews](https://x.com/trythreews/status/2096260452875644976) (2026-09-12)
 - [twetsfyp](https://x.com/twetsfyp/status/2078387675447328957) (2026-07-19)

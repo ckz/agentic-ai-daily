@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-11-15
-total_mentions: 198
+last_seen: 2026-11-16
+total_mentions: 200
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2118133694217306408) (2026-11-06)
@@ -57,6 +57,7 @@ total_mentions: 198
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2106319598492545245) (2026-10-05)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2109966127111540755) (2026-10-17)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2115666184888537433) (2026-10-29)
+- [S_Wong17](https://x.com/S_Wong17/status/2122186691779957004) (2026-11-16)
 - [SamSokolin](https://x.com/SamSokolin/status/2094824011427373415) (2026-09-03)
 - [SimularAI](https://x.com/SimularAI/status/2093009990663434361) (2026-08-28)
 - [SimularAI](https://x.com/SimularAI/status/2107168861388980400) (2026-10-08)
@@ -126,6 +127,7 @@ total_mentions: 198
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2097085343967355190) (2026-09-10)
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2105499083431698547) (2026-10-01)
 - [hzlzh](https://x.com/hzlzh/status/2091570012368863571) (2026-08-24)
+- [iamlukethedev](https://x.com/iamlukethedev/status/2120681043615515073) (2026-11-16)
 - [illscience](https://x.com/illscience/status/2103941433883557983) (2026-09-27)
 - [imryven](https://x.com/imryven/status/2119045823342223411) (2026-11-10)
 - [instantricecook](https://x.com/instantricecook/status/2100814590300889426) (2026-09-23)

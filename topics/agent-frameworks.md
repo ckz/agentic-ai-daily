@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-15
-total_mentions: 691
+last_seen: 2026-11-16
+total_mentions: 696
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -402,6 +402,7 @@ total_mentions: 691
 - [bettercalltonny](https://x.com/bettercalltonny/status/2087599007518302487) (2026-08-16)
 - [bindureddy](https://x.com/bindureddy/status/2076165296977858836) (2026-07-12)
 - [birmeya](https://x.com/birmeya/status/2121346750602698801) (2026-11-15)
+- [birmeya](https://x.com/birmeya/status/2121966114091544944) (2026-11-16)
 - [bizbreakdowns](https://x.com/bizbreakdowns/status/2081711200643985720) (2026-07-29)
 - [bode_sule](https://x.com/bode_sule/status/2114225364717482179) (2026-10-25)
 - [bonsaixbt](https://x.com/bonsaixbt/status/2077722769194615193) (2026-07-17)
@@ -441,6 +442,7 @@ total_mentions: 691
 - [dan__rosenthal](https://x.com/dan__rosenthal/status/2115156692627251542) (2026-10-28)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [de1lymoon](https://x.com/de1lymoon/status/2118347988028346702) (2026-11-06)
+- [deanwperkins](https://x.com/deanwperkins/status/2120509133463986668) (2026-11-16)
 - [deezzex](https://x.com/deezzex/status/2114306170072473919) (2026-10-28)
 - [devXritesh](https://x.com/devXritesh/status/2107075587529396377) (2026-10-10)
 - [dexhorthy](https://x.com/dexhorthy/status/2067286892786454855) (2026-06-19)
@@ -496,6 +498,7 @@ total_mentions: 691
 - [grinich](https://x.com/grinich/status/2118743983912624590) (2026-11-07)
 - [gumterver100](https://x.com/gumterver100/status/2087078337235628286) (2026-08-11)
 - [gusik4ever](https://x.com/gusik4ever/status/2116504471907791240) (2026-11-02)
+- [hanakoxbt](https://x.com/hanakoxbt/status/2122092400952947003) (2026-11-16)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [hasantoxr](https://x.com/hasantoxr/status/2075864853542269183) (2026-07-15)
 - [helicerat0x](https://x.com/helicerat0x/status/2078252543634002084) (2026-07-18)
@@ -593,6 +596,7 @@ total_mentions: 691
 - [rohit4verse](https://x.com/rohit4verse/status/2083284519550136641) (2026-08-01)
 - [rseroter](https://x.com/rseroter/status/2118391337213161746) (2026-11-06)
 - [rustaceans_rs](https://x.com/rustaceans_rs/status/2095655918956372209) (2026-09-08)
+- [rvaniaaaa](https://x.com/rvaniaaaa/status/2121333850819407969) (2026-11-16)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
 - [s4yonnara](https://x.com/s4yonnara/status/2116286728872792488) (2026-11-04)
 - [s4yonnara](https://x.com/s4yonnara/status/2116992286764790064) (2026-11-02)
@@ -673,6 +677,7 @@ total_mentions: 691
 - [trikcode](https://x.com/trikcode/status/2084420246039851517) (2026-08-04)
 - [triptitips](https://x.com/triptitips/status/2101682470655758391) (2026-09-21)
 - [triptitips](https://x.com/triptitips/status/2103681542602265021) (2026-09-29)
+- [triptitips](https://x.com/triptitips/status/2120855495603011589) (2026-11-16)
 - [tylerlum23](https://x.com/tylerlum23/status/2120278890870718714) (2026-11-11)
 - [uaghazadae](https://x.com/uaghazadae/status/2087580062593823004) (2026-08-13)
 - [uiuxshasankodas](https://x.com/uiuxshasankodas/status/2087148581899870551) (2026-08-13)

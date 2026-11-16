@@ -1,8 +1,8 @@
 # Browser Use
 
 first_seen: 2026-06-07
-last_seen: 2026-11-15
-total_mentions: 63
+last_seen: 2026-11-16
+total_mentions: 64
 
 ## Related Tweets
 - [0xGenAi](https://x.com/0xGenAi/status/2120243742657368359) (2026-11-12)
@@ -45,6 +45,7 @@ total_mentions: 63
 - [clapilot](https://x.com/clapilot/status/2063510331716952191) (2026-06-07)
 - [cwmasaki](https://x.com/cwmasaki/status/2088433897445171301) (2026-08-15)
 - [davidmarcus](https://x.com/davidmarcus/status/2103915341751685283) (2026-09-30)
+- [deanwperkins](https://x.com/deanwperkins/status/2120509133463986668) (2026-11-16)
 - [eze_is_1](https://x.com/eze_is_1/status/2109850538045264151) (2026-10-20)
 - [garrytan](https://x.com/garrytan/status/2099876434114494962) (2026-09-17)
 - [gregpr07](https://x.com/gregpr07/status/2100411066966749359) (2026-09-17)

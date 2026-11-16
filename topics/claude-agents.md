@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-15
-total_mentions: 370
+last_seen: 2026-11-16
+total_mentions: 374
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -134,6 +134,7 @@ total_mentions: 370
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2109754732529258948) (2026-10-14)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2109966127111540755) (2026-10-17)
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2079048442073280524) (2026-07-21)
+- [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2120048838144909358) (2026-11-16)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
 - [SimularAI](https://x.com/SimularAI/status/2113665077215625360) (2026-10-25)
 - [Steve8708](https://x.com/Steve8708/status/2077051086234685641) (2026-07-15)
@@ -225,10 +226,12 @@ total_mentions: 370
 - [danshipper](https://x.com/danshipper/status/2102461471716483208) (2026-09-23)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
 - [davidim](https://x.com/davidim/status/2098353617816461689) (2026-09-12)
+- [deanwperkins](https://x.com/deanwperkins/status/2120509133463986668) (2026-11-16)
 - [dee_hw](https://x.com/dee_hw/status/2089388227971219643) (2026-08-18)
 - [dhruvalgolakiya](https://x.com/dhruvalgolakiya/status/2105224441357840830) (2026-10-02)
 - [digitalocean](https://x.com/digitalocean/status/2102414817797550320) (2026-09-24)
 - [dioscuri](https://x.com/dioscuri/status/2103848836469084516) (2026-09-30)
+- [distortgeekin](https://x.com/distortgeekin/status/2121944764081709459) (2026-11-16)
 - [doncoderlione](https://x.com/doncoderlione/status/2112638459089150151) (2026-10-21)
 - [dotey](https://x.com/dotey/status/2115667965328977920) (2026-10-29)
 - [doublenickk](https://x.com/doublenickk/status/2111836581929631794) (2026-10-22)
@@ -254,6 +257,7 @@ total_mentions: 370
 - [gregisenberg](https://x.com/gregisenberg/status/2086534549341610457) (2026-08-12)
 - [gregisenberg](https://x.com/gregisenberg/status/2088988857417044432) (2026-08-17)
 - [gregisenberg](https://x.com/gregisenberg/status/2099202686377742576) (2026-09-15)
+- [hanakoxbt](https://x.com/hanakoxbt/status/2122092400952947003) (2026-11-16)
 - [hany99dev](https://x.com/hany99dev/status/2117679730594119745) (2026-11-04)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [hasantoxr](https://x.com/hasantoxr/status/2110043923121045708) (2026-10-18)

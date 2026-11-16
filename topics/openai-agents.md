@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-14
-total_mentions: 116
+last_seen: 2026-11-16
+total_mentions: 117
 
 ## Related Tweets
 - [0xDepressionn](https://x.com/0xDepressionn/status/2063987019068371128) (2026-06-10)
@@ -117,6 +117,7 @@ total_mentions: 116
 - [testingcatalog](https://x.com/testingcatalog/status/2104715471841034537) (2026-09-29)
 - [triptitips](https://x.com/triptitips/status/2101682470655758391) (2026-09-21)
 - [triptitips](https://x.com/triptitips/status/2103681542602265021) (2026-09-29)
+- [triptitips](https://x.com/triptitips/status/2120855495603011589) (2026-11-16)
 - [unusual_whales](https://x.com/unusual_whales/status/2079958900032655634) (2026-07-23)
 - [viticci](https://x.com/viticci/status/2103942910165287369) (2026-09-27)
 - [yoheinakajima](https://x.com/yoheinakajima/status/1640934493489070080) (2026-10-23)

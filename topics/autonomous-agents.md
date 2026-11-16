@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-15
-total_mentions: 1764
+last_seen: 2026-11-16
+total_mentions: 1767
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -1259,6 +1259,7 @@ total_mentions: 1764
 - [hanakoxbt](https://x.com/hanakoxbt/status/2083932817738666010) (2026-08-04)
 - [hanakoxbt](https://x.com/hanakoxbt/status/2084341524125397142) (2026-08-04)
 - [hanakoxbt](https://x.com/hanakoxbt/status/2110484798246715500) (2026-10-15)
+- [hanakoxbt](https://x.com/hanakoxbt/status/2122092400952947003) (2026-11-16)
 - [hardmaru](https://x.com/hardmaru/status/2110739454948520260) (2026-10-17)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [hasantoxr](https://x.com/hasantoxr/status/2075864853542269183) (2026-07-15)
@@ -1560,6 +1561,7 @@ total_mentions: 1764
 - [rosenacry](https://x.com/rosenacry/status/2109343300985479239) (2026-10-31)
 - [rowancheung](https://x.com/rowancheung/status/1767582332964516243) (2026-08-26)
 - [rushabh96975767](https://x.com/rushabh96975767/status/2075786236451758176) (2026-07-11)
+- [rvaniaaaa](https://x.com/rvaniaaaa/status/2121333850819407969) (2026-11-16)
 - [ryouxbt](https://x.com/ryouxbt/status/2115111318541783228) (2026-10-31)
 - [ryouxbt](https://x.com/ryouxbt/status/2118694920068214786) (2026-11-07)
 - [s1rozha_](https://x.com/s1rozha_/status/2072341012735791157) (2026-07-02)
@@ -1724,6 +1726,7 @@ total_mentions: 1764
 - [trikcode](https://x.com/trikcode/status/2084420246039851517) (2026-08-04)
 - [triptitips](https://x.com/triptitips/status/2101682470655758391) (2026-09-21)
 - [triptitips](https://x.com/triptitips/status/2103681542602265021) (2026-09-29)
+- [triptitips](https://x.com/triptitips/status/2120855495603011589) (2026-11-16)
 - [trythreews](https://x.com/trythreews/status/2075519714890334698) (2026-07-12)
 - [trythreews](https://x.com/trythreews/status/2096260452875644976) (2026-09-12)
 - [tsukiema_](https://x.com/tsukiema_/status/2113988709150261313) (2026-10-25)
