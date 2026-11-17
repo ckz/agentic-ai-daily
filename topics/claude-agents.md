@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-16
-total_mentions: 374
+last_seen: 2026-11-17
+total_mentions: 380
 
 ## Related Tweets
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
@@ -16,6 +16,7 @@ total_mentions: 374
 - [0xchadx](https://x.com/0xchadx/status/2067862587174244810) (2026-06-19)
 - [0xclayn](https://x.com/0xclayn/status/2075292493218721894) (2026-07-11)
 - [0xopencitizen](https://x.com/0xopencitizen/status/2121490191907000707) (2026-11-14)
+- [0xsacr3d](https://x.com/0xsacr3d/status/2122336408769597460) (2026-11-17)
 - [0xvati](https://x.com/0xvati/status/2102325309978927184) (2026-09-23)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2095134652688220236) (2026-09-04)
 - [51bodila](https://x.com/51bodila/status/2085020463290290504) (2026-08-06)
@@ -83,6 +84,7 @@ total_mentions: 374
 - [HedgieMarkets](https://x.com/HedgieMarkets/status/2022417260418122119) (2026-09-12)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2094462252107886731) (2026-09-04)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2095164094630518922) (2026-09-04)
+- [Hey_Scarlett5](https://x.com/Hey_Scarlett5/status/2122347455572505067) (2026-11-17)
 - [HoodieFade_](https://x.com/HoodieFade_/status/2119824593753956844) (2026-11-10)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2089180119973990492) (2026-08-19)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2065062300218749172) (2026-06-13)
@@ -189,10 +191,12 @@ total_mentions: 374
 - [bindureddy](https://x.com/bindureddy/status/2087034287396938177) (2026-08-11)
 - [birmeya](https://x.com/birmeya/status/2121346750602698801) (2026-11-15)
 - [bonduelleioat](https://x.com/bonduelleioat/status/2090015153739669554) (2026-08-23)
+- [borjafat](https://x.com/borjafat/status/2122336732079161572) (2026-11-17)
 - [business](https://x.com/business/status/2116754642222616835) (2026-11-02)
 - [businessbarista](https://x.com/businessbarista/status/2097478065723162959) (2026-09-09)
 - [businessbarista](https://x.com/businessbarista/status/2099565601312166157) (2026-09-16)
 - [candyyueliu](https://x.com/candyyueliu/status/2062178835689623592) (2026-06-29)
+- [carm1nee](https://x.com/carm1nee/status/2121799455041011723) (2026-11-17)
 - [cartertran_](https://x.com/cartertran_/status/2110450865366614489) (2026-10-15)
 - [carverfomo](https://x.com/carverfomo/status/2064338010242490662) (2026-06-10)
 - [celineodier](https://x.com/celineodier/status/2094079187904610504) (2026-09-01)
@@ -359,6 +363,7 @@ total_mentions: 374
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2081680037544427793) (2026-07-28)
 - [timsneath](https://x.com/timsneath/status/2072479088661651612) (2026-07-02)
+- [tobiadonadon_](https://x.com/tobiadonadon_/status/2122454923103305879) (2026-11-17)
 - [tom_doerr](https://x.com/tom_doerr/status/2121471758234501493) (2026-11-14)
 - [trq212](https://x.com/trq212/status/2108689101503566319) (2026-10-10)
 - [trycua](https://x.com/trycua/status/2112228154651881479) (2026-10-20)
@@ -378,4 +383,5 @@ total_mentions: 374
 - [xsmryze](https://x.com/xsmryze/status/2113273069099688435) (2026-10-23)
 - [yurshevv](https://x.com/yurshevv/status/2113602375583719648) (2026-10-24)
 - [yurshevv](https://x.com/yurshevv/status/2119190722783981671) (2026-11-09)
+- [zayro_Prince](https://x.com/zayro_Prince/status/2120471403086414243) (2026-11-17)
 - [zostaff](https://x.com/zostaff/status/2110027184727343589) (2026-10-18)

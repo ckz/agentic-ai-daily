@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-11-16
-total_mentions: 1294
+last_seen: 2026-11-17
+total_mentions: 1304
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
@@ -32,6 +32,7 @@ total_mentions: 1294
 - [0xwhrrari](https://x.com/0xwhrrari/status/2083305262035632347) (2026-08-02)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2116168249486323780) (2026-11-05)
 - [51bodila](https://x.com/51bodila/status/2085020463290290504) (2026-08-06)
+- [51bodila](https://x.com/51bodila/status/2122076270942892034) (2026-11-17)
 - [ABAOProductions](https://x.com/ABAOProductions/status/2113284807056556198) (2026-10-23)
 - [AIWarper](https://x.com/AIWarper/status/2070535586075885912) (2026-06-27)
 - [AIWarper](https://x.com/AIWarper/status/2106466745661980904) (2026-10-04)
@@ -59,6 +60,7 @@ total_mentions: 1294
 - [Alacritic_Super](https://x.com/Alacritic_Super/status/2087574582375174459) (2026-08-13)
 - [Alacritic_Super](https://x.com/Alacritic_Super/status/2088341517744361787) (2026-08-19)
 - [Alacritic_Super](https://x.com/Alacritic_Super/status/2096269926302613765) (2026-09-06)
+- [AlbertSalgueda](https://x.com/AlbertSalgueda/status/2120545112145211423) (2026-11-17)
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2081962166127878526) (2026-07-28)
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2084100378703122840) (2026-08-03)
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2108513580979237175) (2026-10-12)
@@ -223,6 +225,7 @@ total_mentions: 1294
 - [HeyEpic](https://x.com/HeyEpic/status/2116228640618807462) (2026-11-03)
 - [HeyGenDev](https://x.com/HeyGenDev/status/2111151435778039811) (2026-10-17)
 - [HeyShobhan](https://x.com/HeyShobhan/status/2107810215680987529) (2026-10-11)
+- [Hey_Scarlett5](https://x.com/Hey_Scarlett5/status/2122347455572505067) (2026-11-17)
 - [Hey_karl](https://x.com/Hey_karl/status/2120742712270020841) (2026-11-12)
 - [HoodAI0x](https://x.com/HoodAI0x/status/2079228983309176849) (2026-07-21)
 - [HoodieFade_](https://x.com/HoodieFade_/status/2119824593753956844) (2026-11-10)
@@ -313,6 +316,7 @@ total_mentions: 1294
 - [N01ennn](https://x.com/N01ennn/status/2088606747531358505) (2026-08-21)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
 - [Nekt_0](https://x.com/Nekt_0/status/2066148234368524692) (2026-06-15)
+- [Neo_tech_AI](https://x.com/Neo_tech_AI/status/2122561403987116056) (2026-11-17)
 - [NikkiSiapno](https://x.com/NikkiSiapno/status/2094772771758932366) (2026-09-02)
 - [NikkiSiapno](https://x.com/NikkiSiapno/status/2095036695767134413) (2026-09-06)
 - [NikkiSiapno](https://x.com/NikkiSiapno/status/2104557312019152930) (2026-09-30)
@@ -451,6 +455,7 @@ total_mentions: 1294
 - [ThePrimeagen](https://x.com/ThePrimeagen/status/2070507324762947761) (2026-06-27)
 - [TheShortBear](https://x.com/TheShortBear/status/2095191754358018169) (2026-09-03)
 - [TheTuringPost](https://x.com/TheTuringPost/status/2081543865488855258) (2026-07-27)
+- [TheWattenhofer](https://x.com/TheWattenhofer/status/2121738165601845715) (2026-11-17)
 - [TopviewAIhq](https://x.com/TopviewAIhq/status/2080276190980444612) (2026-07-24)
 - [UPing123zzz](https://x.com/UPing123zzz/status/2118624242556399660) (2026-11-09)
 - [UnTalNixon_exe](https://x.com/UnTalNixon_exe/status/2088051348331762012) (2026-08-16)
@@ -909,10 +914,12 @@ total_mentions: 1294
 - [kevinzhow](https://x.com/kevinzhow/status/2105187162069291334) (2026-10-01)
 - [kgoedecke](https://x.com/kgoedecke/status/2116671954166129052) (2026-11-01)
 - [khemraj57_](https://x.com/khemraj57_/status/2066358919690404087) (2026-06-15)
+- [kiara_nova_ai](https://x.com/kiara_nova_ai/status/2122565896753602888) (2026-11-17)
 - [kirtandopamine](https://x.com/kirtandopamine/status/2117678349828976746) (2026-11-04)
 - [kirtandopamine](https://x.com/kirtandopamine/status/2118007243429859489) (2026-11-05)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [kunalstwt](https://x.com/kunalstwt/status/2073978095644643520) (2026-07-06)
+- [kxSchoolCN](https://x.com/kxSchoolCN/status/2122586376604639362) (2026-11-17)
 - [kyr0stack](https://x.com/kyr0stack/status/2117991052145562080) (2026-11-05)
 - [leopardracer](https://x.com/leopardracer/status/2096537453804876205) (2026-09-10)
 - [levelsio](https://x.com/levelsio/status/2098086977186705637) (2026-09-12)
@@ -1086,6 +1093,7 @@ total_mentions: 1294
 - [robiartec](https://x.com/robiartec/status/2091157554919280688) (2026-08-23)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2092970481423192328) (2026-09-03)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2118766406095516159) (2026-11-08)
+- [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2122480175179088217) (2026-11-17)
 - [rom1trs](https://x.com/rom1trs/status/2074119000137601528) (2026-07-11)
 - [rom1trs](https://x.com/rom1trs/status/2074490914248990760) (2026-07-10)
 - [rom1trs](https://x.com/rom1trs/status/2075193811186172355) (2026-07-12)
@@ -1108,6 +1116,7 @@ total_mentions: 1294
 - [s4yonnara](https://x.com/s4yonnara/status/2118814330695073907) (2026-11-08)
 - [s4yonnara](https://x.com/s4yonnara/status/2120998825087111305) (2026-11-13)
 - [s4yonnara](https://x.com/s4yonnara/status/2121710312391159903) (2026-11-15)
+- [s4yonnara](https://x.com/s4yonnara/status/2122071945969832018) (2026-11-17)
 - [sabanci_ata](https://x.com/sabanci_ata/status/2099927513346547961) (2026-09-16)
 - [sabanci_ata](https://x.com/sabanci_ata/status/2100107329614016540) (2026-09-16)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
@@ -1167,6 +1176,7 @@ total_mentions: 1294
 - [spuicey](https://x.com/spuicey/status/2112344791635681477) (2026-10-26)
 - [starmexxx](https://x.com/starmexxx/status/2089399623106355708) (2026-08-18)
 - [starmexxx](https://x.com/starmexxx/status/2121350281548214706) (2026-11-14)
+- [stephenhaney](https://x.com/stephenhaney/status/2122407657344762214) (2026-11-17)
 - [stitchbygoogle](https://x.com/stitchbygoogle/status/2105695155164741984) (2026-10-02)
 - [stretchcloud](https://x.com/stretchcloud/status/2072215124958740898) (2026-07-01)
 - [studio_yebisu](https://x.com/studio_yebisu/status/2106594707480404007) (2026-10-11)

@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-16
-total_mentions: 1767
+last_seen: 2026-11-17
+total_mentions: 1774
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -245,6 +245,7 @@ total_mentions: 1767
 - [Beaver_0x](https://x.com/Beaver_0x/status/2110799146081034398) (2026-10-17)
 - [BenBajarin](https://x.com/BenBajarin/status/2105015734888013995) (2026-10-05)
 - [Benioff](https://x.com/Benioff/status/2094618697520615868) (2026-09-01)
+- [BensonRubby](https://x.com/BensonRubby/status/2122151705282486618) (2026-11-17)
 - [Berci](https://x.com/Berci/status/2111050047072743541) (2026-10-21)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2062873857304752368) (2026-06-05)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2063598644293484741) (2026-06-08)
@@ -446,6 +447,7 @@ total_mentions: 1767
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [HeyShobhan](https://x.com/HeyShobhan/status/2107810215680987529) (2026-10-11)
+- [Hey_Scarlett5](https://x.com/Hey_Scarlett5/status/2122347455572505067) (2026-11-17)
 - [HoodieFade_](https://x.com/HoodieFade_/status/2112634990542692708) (2026-10-25)
 - [HoodieFade_](https://x.com/HoodieFade_/status/2119824593753956844) (2026-11-10)
 - [HowToAI_](https://x.com/HowToAI_/status/2062105627204423994) (2026-06-06)
@@ -624,6 +626,7 @@ total_mentions: 1767
 - [NousResearch](https://x.com/NousResearch/status/2109012611555840069) (2026-10-11)
 - [Nozelcode](https://x.com/Nozelcode/status/2098804780659286041) (2026-09-16)
 - [NuryVittachi](https://x.com/NuryVittachi/status/2085178025055031587) (2026-08-11)
+- [OGFIGO](https://x.com/OGFIGO/status/2119994856189902896) (2026-11-17)
 - [OSACrypto1](https://x.com/OSACrypto1/status/2093684531731603613) (2026-08-30)
 - [OfirEhrlich](https://x.com/OfirEhrlich/status/2118357800648659127) (2026-11-07)
 - [Okada_DeFi0x](https://x.com/Okada_DeFi0x/status/2070769365763449051) (2026-06-28)
@@ -883,6 +886,7 @@ total_mentions: 1767
 - [_avichawla](https://x.com/_avichawla/status/2076952441728459082) (2026-07-15)
 - [_avichawla](https://x.com/_avichawla/status/2094678972344958984) (2026-09-01)
 - [_catwu](https://x.com/_catwu/status/2100260655312089562) (2026-09-17)
+- [_josehelps](https://x.com/_josehelps/status/2121739453689688313) (2026-11-17)
 - [_nat](https://x.com/_nat/status/2082320053626921372) (2026-07-29)
 - [_odsc](https://x.com/_odsc/status/2078254173938708527) (2026-07-20)
 - [_shikhar_jais](https://x.com/_shikhar_jais/status/2063133010074206331) (2026-06-06)
@@ -1317,6 +1321,7 @@ total_mentions: 1767
 - [jasonlk](https://x.com/jasonlk/status/2074304139425931745) (2026-07-07)
 - [jasonlk](https://x.com/jasonlk/status/2093792483977376045) (2026-08-31)
 - [jasonlk](https://x.com/jasonlk/status/2106392098400272660) (2026-10-07)
+- [jdmarten](https://x.com/jdmarten/status/2121609380441329791) (2026-11-17)
 - [jeffhollan](https://x.com/jeffhollan/status/2099222521451311254) (2026-09-14)
 - [jerryjliu0](https://x.com/jerryjliu0/status/2082673383255216356) (2026-07-31)
 - [jerryjliu0](https://x.com/jerryjliu0/status/2091564183922077885) (2026-08-24)
@@ -1445,6 +1450,7 @@ total_mentions: 1767
 - [mtave0128](https://x.com/mtave0128/status/2119972265962205389) (2026-11-12)
 - [mvanhorn](https://x.com/mvanhorn/status/2061978364391592110) (2026-06-07)
 - [mvanhorn](https://x.com/mvanhorn/status/2074955232728281432) (2026-07-09)
+- [mvanhorn](https://x.com/mvanhorn/status/2122500988968022290) (2026-11-17)
 - [myshell_ai](https://x.com/myshell_ai/status/1874804449023266943) (2026-07-10)
 - [nabeelqu](https://x.com/nabeelqu/status/2094208251688595676) (2026-09-06)
 - [nanbeige](https://x.com/nanbeige/status/2114328933181333798) (2026-10-26)
@@ -1567,6 +1573,7 @@ total_mentions: 1767
 - [s1rozha_](https://x.com/s1rozha_/status/2072341012735791157) (2026-07-02)
 - [s1rozha_](https://x.com/s1rozha_/status/2078210026410303927) (2026-07-18)
 - [s4yonnara](https://x.com/s4yonnara/status/2116992286764790064) (2026-11-02)
+- [s4yonnara](https://x.com/s4yonnara/status/2122071945969832018) (2026-11-17)
 - [sai_borg](https://x.com/sai_borg/status/2102069767079354526) (2026-09-22)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [sairahul1](https://x.com/sairahul1/status/2069421947390415189) (2026-06-28)

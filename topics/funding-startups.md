@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-16
-total_mentions: 905
+last_seen: 2026-11-17
+total_mentions: 914
 
 ## Related Tweets
 - [0x0simba_eth](https://x.com/0x0simba_eth/status/2118895661722616112) (2026-11-07)
@@ -54,6 +54,7 @@ total_mentions: 905
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2088330041289494736) (2026-08-17)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2111819557497135464) (2026-10-19)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2120534432348012680) (2026-11-13)
+- [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2121978076833943986) (2026-11-17)
 - [Anaya_sharma876](https://x.com/Anaya_sharma876/status/2086431301498966480) (2026-08-14)
 - [AnimaAnandkumar](https://x.com/AnimaAnandkumar/status/2092236528898675014) (2026-09-01)
 - [AnishJaitwar](https://x.com/AnishJaitwar/status/2086661433593360839) (2026-08-10)
@@ -73,9 +74,11 @@ total_mentions: 905
 - [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2078578545429991768) (2026-07-24)
 - [BarabiloT](https://x.com/BarabiloT/status/2102262834444882342) (2026-10-20)
 - [BarbaraPocock](https://x.com/BarbaraPocock/status/2110115000732074339) (2026-10-14)
+- [BensonRubby](https://x.com/BensonRubby/status/2122151705282486618) (2026-11-17)
 - [BernieSanders](https://x.com/BernieSanders/status/2080047245433438469) (2026-07-26)
 - [BernieSanders](https://x.com/BernieSanders/status/2095617679235088569) (2026-09-14)
 - [BestAIToolFind](https://x.com/BestAIToolFind/status/2087737224456732920) (2026-08-13)
+- [BillAckman](https://x.com/BillAckman/status/2002484983123136990) (2026-11-17)
 - [BillAckman](https://x.com/BillAckman/status/2089118514741129636) (2026-08-19)
 - [BillAckman](https://x.com/BillAckman/status/2090190151083532583) (2026-08-20)
 - [Bill_Gross](https://x.com/Bill_Gross/status/2112332587230482553) (2026-10-20)
@@ -106,6 +109,7 @@ total_mentions: 905
 - [Cointelegraph](https://x.com/Cointelegraph/status/2063005594047467893) (2026-06-05)
 - [Cupang1997](https://x.com/Cupang1997/status/2117134305508065714) (2026-11-02)
 - [CyberRobooo](https://x.com/CyberRobooo/status/2092844038831690046) (2026-08-27)
+- [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2120794076559888615) (2026-11-17)
 - [DNIGabbard](https://x.com/DNIGabbard/status/2065440568423944607) (2026-08-27)
 - [DailyMail](https://x.com/DailyMail/status/2108068156694573555) (2026-10-24)
 - [Dan1ro0](https://x.com/Dan1ro0/status/2109773710009790681) (2026-10-13)
@@ -160,6 +164,7 @@ total_mentions: 905
 - [HerbalistChief](https://x.com/HerbalistChief/status/2097984218320003221) (2026-09-11)
 - [Hesamation](https://x.com/Hesamation/status/1970585800325640372) (2026-06-07)
 - [HeyRohhit](https://x.com/HeyRohhit/status/2079594120977527102) (2026-07-22)
+- [HimUpreti](https://x.com/HimUpreti/status/2122539450479816988) (2026-11-17)
 - [HuevaToi](https://x.com/HuevaToi/status/2117435252746707069) (2026-11-03)
 - [IBVMCHAIN](https://x.com/IBVMCHAIN/status/2099351342238359725) (2026-09-14)
 - [ILSecOfState](https://x.com/ILSecOfState/status/2088299276841439364) (2026-08-21)
@@ -318,6 +323,7 @@ total_mentions: 905
 - [TechCrunch](https://x.com/TechCrunch/status/2107205456351354910) (2026-10-06)
 - [Techmeme](https://x.com/Techmeme/status/2122186908709306733) (2026-11-16)
 - [Techstars](https://x.com/Techstars/status/2115836298099323144) (2026-10-30)
+- [Techstars](https://x.com/Techstars/status/2122415731270885560) (2026-11-17)
 - [TheJoinCare](https://x.com/TheJoinCare/status/2110466063762960613) (2026-10-15)
 - [TheStartupsMag](https://x.com/TheStartupsMag/status/2068604981318488305) (2026-06-21)
 - [TheoAugust8](https://x.com/TheoAugust8/status/2063166492519158257) (2026-06-06)
@@ -375,6 +381,7 @@ total_mentions: 905
 - [adriamatz](https://x.com/adriamatz/status/2107713444862423073) (2026-10-08)
 - [agazdecki](https://x.com/agazdecki/status/2099895431547572656) (2026-09-20)
 - [agazdecki](https://x.com/agazdecki/status/2106497043921502295) (2026-10-06)
+- [agentic404](https://x.com/agentic404/status/2122343607529250994) (2026-11-17)
 - [ahatamiz1](https://x.com/ahatamiz1/status/2113344049784799378) (2026-10-23)
 - [ai_explorer25](https://x.com/ai_explorer25/status/2117086795426865651) (2026-11-03)
 - [ai_explorer25](https://x.com/ai_explorer25/status/2117447925244764287) (2026-11-03)
@@ -553,6 +560,7 @@ total_mentions: 905
 - [gintentco](https://x.com/gintentco/status/2108032709612187780) (2026-10-08)
 - [gkisokay](https://x.com/gkisokay/status/2020853629306212478) (2026-07-25)
 - [gnoble79](https://x.com/gnoble79/status/2062616388963844440) (2026-06-08)
+- [godsystemsmd](https://x.com/godsystemsmd/status/2120157040081338509) (2026-11-17)
 - [gokulr](https://x.com/gokulr/status/2071692278582890889) (2026-08-02)
 - [gpumaxxer](https://x.com/gpumaxxer/status/2100307886408912985) (2026-09-17)
 - [gregisenberg](https://x.com/gregisenberg/status/1893687593755164940) (2026-07-03)
@@ -595,6 +603,7 @@ total_mentions: 905
 - [ionleu](https://x.com/ionleu/status/2115888399819403524) (2026-10-30)
 - [irabukht](https://x.com/irabukht/status/2092743370804171081) (2026-08-28)
 - [irfan3](https://x.com/irfan3/status/2082699425529638948) (2026-07-30)
+- [ishanmkh](https://x.com/ishanmkh/status/2120579502351008192) (2026-11-17)
 - [itsalicesoul](https://x.com/itsalicesoul/status/2100249971148898734) (2026-09-23)
 - [itsmichaelluu](https://x.com/itsmichaelluu/status/2064692678608990537) (2026-06-11)
 - [itsolelehmann](https://x.com/itsolelehmann/status/2062909345537634686) (2026-06-10)

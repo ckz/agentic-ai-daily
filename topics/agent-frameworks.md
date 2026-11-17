@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-16
-total_mentions: 696
+last_seen: 2026-11-17
+total_mentions: 701
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -66,6 +66,7 @@ total_mentions: 696
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
 - [BenBajarin](https://x.com/BenBajarin/status/2105015734888013995) (2026-10-05)
 - [Benioff](https://x.com/Benioff/status/2092705110082347011) (2026-08-29)
+- [BensonRubby](https://x.com/BensonRubby/status/2122151705282486618) (2026-11-17)
 - [Berci](https://x.com/Berci/status/2111050047072743541) (2026-10-21)
 - [BestAIToolFind](https://x.com/BestAIToolFind/status/2087737224456732920) (2026-08-13)
 - [BradfordHuber4](https://x.com/BradfordHuber4/status/2095221538979188899) (2026-09-05)
@@ -129,6 +130,7 @@ total_mentions: 696
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2116785036360089919) (2026-11-03)
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2113244292898783482) (2026-10-25)
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2113967691564495014) (2026-10-25)
+- [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2120488879799365754) (2026-11-17)
 - [DrJimFan](https://x.com/DrJimFan/status/2111128797181567466) (2026-10-17)
 - [DrJimFan](https://x.com/DrJimFan/status/2120186651741655428) (2026-11-14)
 - [EmmanuelInvest](https://x.com/EmmanuelInvest/status/2076724041302319246) (2026-07-14)
@@ -343,6 +345,7 @@ total_mentions: 696
 - [_avichawla](https://x.com/_avichawla/status/2062449620190630125) (2026-06-05)
 - [_avichawla](https://x.com/_avichawla/status/2076952441728459082) (2026-07-15)
 - [_avichawla](https://x.com/_avichawla/status/2092688897558089897) (2026-08-30)
+- [_josehelps](https://x.com/_josehelps/status/2121739453689688313) (2026-11-17)
 - [_nat](https://x.com/_nat/status/2082320053626921372) (2026-07-29)
 - [_philschmid](https://x.com/_philschmid/status/2105299152796029055) (2026-10-01)
 - [_vmlops](https://x.com/_vmlops/status/2063841886193004672) (2026-06-09)
@@ -601,6 +604,7 @@ total_mentions: 696
 - [s4yonnara](https://x.com/s4yonnara/status/2116286728872792488) (2026-11-04)
 - [s4yonnara](https://x.com/s4yonnara/status/2116992286764790064) (2026-11-02)
 - [s4yonnara](https://x.com/s4yonnara/status/2120998825087111305) (2026-11-13)
+- [s4yonnara](https://x.com/s4yonnara/status/2122071945969832018) (2026-11-17)
 - [sairahul1](https://x.com/sairahul1/status/2062177077575717306) (2026-06-10)
 - [sairahul1](https://x.com/sairahul1/status/2069421947390415189) (2026-06-28)
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
@@ -683,6 +687,7 @@ total_mentions: 696
 - [uiuxshasankodas](https://x.com/uiuxshasankodas/status/2087148581899870551) (2026-08-13)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2081851083119288719) (2026-07-28)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2088581651332805021) (2026-08-22)
+- [unusual_whales](https://x.com/unusual_whales/status/2031189317482328088) (2026-11-17)
 - [vechainofficial](https://x.com/vechainofficial/status/2062450242360885371) (2026-06-09)
 - [vercel](https://x.com/vercel/status/2067180054979936413) (2026-06-20)
 - [vicky_grok](https://x.com/vicky_grok/status/2070074685669470672) (2026-06-29)

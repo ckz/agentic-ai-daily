@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-16
-total_mentions: 238
+last_seen: 2026-11-17
+total_mentions: 239
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -219,6 +219,7 @@ total_mentions: 238
 - [shriram_s](https://x.com/shriram_s/status/2120612005686255994) (2026-11-12)
 - [silasalberti](https://x.com/silasalberti/status/2101042815426060339) (2026-09-19)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2077223722654834863) (2026-07-16)
+- [stephenhaney](https://x.com/stephenhaney/status/2122407657344762214) (2026-11-17)
 - [stretchcloud](https://x.com/stretchcloud/status/2079772421947560434) (2026-07-22)
 - [superalesha](https://x.com/superalesha/status/2101940249735634998) (2026-10-01)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)
