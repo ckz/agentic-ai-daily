@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-11-17
-total_mentions: 200
+last_seen: 2026-11-18
+total_mentions: 201
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2118133694217306408) (2026-11-06)
@@ -65,6 +65,7 @@ total_mentions: 200
 - [SkyeSharkie](https://x.com/SkyeSharkie/status/2092122622834442581) (2026-08-29)
 - [SultanAlsafran](https://x.com/SultanAlsafran/status/2101254033067434359) (2026-09-21)
 - [SyntheticBeef](https://x.com/SyntheticBeef/status/2107559197370138824) (2026-10-07)
+- [TechByKillian](https://x.com/TechByKillian/status/2122902955087011928) (2026-11-18)
 - [TeksCreate](https://x.com/TeksCreate/status/2081499683571040408) (2026-07-27)
 - [TokenGremlin](https://x.com/TokenGremlin/status/2104985693319500226) (2026-10-06)
 - [VaibhavSisinty](https://x.com/VaibhavSisinty/status/2094315036995166499) (2026-09-01)

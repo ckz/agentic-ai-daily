@@ -1,10 +1,11 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-17
-total_mentions: 380
+last_seen: 2026-11-18
+total_mentions: 383
 
 ## Related Tweets
+- [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
 - [0xCodez](https://x.com/0xCodez/status/2065097407965127142) (2026-06-12)
 - [0xCodez](https://x.com/0xCodez/status/2074527573116133425) (2026-07-08)
@@ -101,6 +102,7 @@ total_mentions: 380
 - [LangChain](https://x.com/LangChain/status/2110424980337127531) (2026-10-15)
 - [LeoCreaIA](https://x.com/LeoCreaIA/status/2120143678039548236) (2026-11-14)
 - [LomashKumar52](https://x.com/LomashKumar52/status/2103013165009363358) (2026-09-24)
+- [LottieFiles](https://x.com/LottieFiles/status/2120335987125743912) (2026-11-18)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2108499624038113606) (2026-10-11)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2093310429103558754) (2026-08-29)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2120864524286726539) (2026-11-13)
@@ -172,6 +174,7 @@ total_mentions: 380
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2071509401224261823) (2026-06-30)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2083815836003996033) (2026-08-07)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2085791632457433119) (2026-08-09)
+- [akshay_pachaar](https://x.com/akshay_pachaar/status/2122319449969803508) (2026-11-18)
 - [alex_verem](https://x.com/alex_verem/status/2095920078231625991) (2026-09-10)
 - [alex_verem](https://x.com/alex_verem/status/2096977799873712631) (2026-09-08)
 - [allenanalysis](https://x.com/allenanalysis/status/2048915153895481554) (2026-10-17)

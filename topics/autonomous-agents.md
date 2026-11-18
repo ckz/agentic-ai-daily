@@ -1,12 +1,13 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-17
-total_mentions: 1774
+last_seen: 2026-11-18
+total_mentions: 1787
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
 - [0x404page](https://x.com/0x404page/status/2065428594638369189) (2026-06-19)
+- [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
 - [0xAlaric](https://x.com/0xAlaric/status/2077850537173660039) (2026-07-18)
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
 - [0xCarnagee](https://x.com/0xCarnagee/status/2111462832130654322) (2026-10-19)
@@ -130,6 +131,7 @@ total_mentions: 1774
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2117153331273707730) (2026-11-02)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2119699984941768960) (2026-11-13)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2121101551074742645) (2026-11-13)
+- [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2122155151511437784) (2026-11-18)
 - [ActionModelAI](https://x.com/ActionModelAI/status/2107492691420266808) (2026-10-07)
 - [AdamTornhill](https://x.com/AdamTornhill/status/2097973404179583225) (2026-09-12)
 - [AdelDeveloperX](https://x.com/AdelDeveloperX/status/2074195359199375745) (2026-07-07)
@@ -163,6 +165,7 @@ total_mentions: 1774
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2069720365442719867) (2026-06-27)
 - [AllTechMagazine](https://x.com/AllTechMagazine/status/2074208286266761381) (2026-07-07)
 - [AmitSha77280075](https://x.com/AmitSha77280075/status/2114665148883644919) (2026-10-28)
+- [AmitSha77280075](https://x.com/AmitSha77280075/status/2122611475273617434) (2026-11-18)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2069122453641523495) (2026-06-27)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2073761540671496493) (2026-07-07)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2075641176015634832) (2026-07-11)
@@ -265,6 +268,7 @@ total_mentions: 1774
 - [Bober_smart](https://x.com/Bober_smart/status/2109634030035501079) (2026-10-18)
 - [Bober_smart](https://x.com/Bober_smart/status/2110711776799011262) (2026-10-17)
 - [Bober_smart](https://x.com/Bober_smart/status/2112525694815088811) (2026-10-22)
+- [BoboLinNotes](https://x.com/BoboLinNotes/status/2121175235399696408) (2026-11-18)
 - [BradGroux](https://x.com/BradGroux/status/2065096482831659348) (2026-06-13)
 - [BradfordHuber4](https://x.com/BradfordHuber4/status/2095221538979188899) (2026-09-05)
 - [Brainm8ion](https://x.com/Brainm8ion/status/2087751034944803135) (2026-08-13)
@@ -300,6 +304,7 @@ total_mentions: 1774
 - [Cortex_Network_](https://x.com/Cortex_Network_/status/2075590628134760625) (2026-07-11)
 - [Cpulok](https://x.com/Cpulok/status/2115298135128043994) (2026-10-28)
 - [Crowdreply_io](https://x.com/Crowdreply_io/status/2082844304981282878) (2026-07-31)
+- [Cryptfancier](https://x.com/Cryptfancier/status/2122902486172282906) (2026-11-18)
 - [CryptoKing_2020](https://x.com/CryptoKing_2020/status/2103189315866206663) (2026-09-25)
 - [Crypto__Haris](https://x.com/Crypto__Haris/status/2074037585341768082) (2026-07-06)
 - [Cupang1997](https://x.com/Cupang1997/status/2117134305508065714) (2026-11-02)
@@ -372,6 +377,7 @@ total_mentions: 1774
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2113244292898783482) (2026-10-25)
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2113967691564495014) (2026-10-25)
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2114682560886485126) (2026-10-27)
+- [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2121222355498488261) (2026-11-18)
 - [DrDatta_AIIMS](https://x.com/DrDatta_AIIMS/status/2085258786403655808) (2026-08-13)
 - [DrJimFan](https://x.com/DrJimFan/status/2111128797181567466) (2026-10-17)
 - [DrJimFan](https://x.com/DrJimFan/status/2120186651741655428) (2026-11-14)
@@ -461,6 +467,7 @@ total_mentions: 1774
 - [HuggingPapers](https://x.com/HuggingPapers/status/2071241599372100056) (2026-06-29)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2081387446646772212) (2026-07-27)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2081610373082341766) (2026-07-27)
+- [HuggingPapers](https://x.com/HuggingPapers/status/2122180276281384966) (2026-11-18)
 - [HunterAllen4](https://x.com/HunterAllen4/status/2073988980068979122) (2026-07-06)
 - [HuuHoang88](https://x.com/HuuHoang88/status/2120330670228812012) (2026-11-11)
 - [HyperionXTrade](https://x.com/HyperionXTrade/status/2066015535045992470) (2026-06-14)
@@ -566,6 +573,7 @@ total_mentions: 1774
 - [Market_Mind_](https://x.com/Market_Mind_/status/2088651427962921304) (2026-08-17)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
 - [Marlenuii](https://x.com/Marlenuii/status/2113591960476742054) (2026-10-30)
+- [Mastercard](https://x.com/Mastercard/status/2122377314142916918) (2026-11-18)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
 - [MaxForAI](https://x.com/MaxForAI/status/2094607306998841814) (2026-09-01)
 - [MaxForAI](https://x.com/MaxForAI/status/2095219932686590229) (2026-09-03)
@@ -791,6 +799,7 @@ total_mentions: 1774
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2065300113254388162) (2026-06-12)
 - [TeachTheMachine](https://x.com/TeachTheMachine/status/2107883727473062003) (2026-10-08)
 - [TechByArti](https://x.com/TechByArti/status/2102669545131712912) (2026-09-24)
+- [TechByKillian](https://x.com/TechByKillian/status/2122902955087011928) (2026-11-18)
 - [TechCrunch](https://x.com/TechCrunch/status/2062622464362881423) (2026-06-08)
 - [TechWithTimm](https://x.com/TechWithTimm/status/2107108551172993387) (2026-10-12)
 - [Tech_by_Shweta](https://x.com/Tech_by_Shweta/status/2096800764526243897) (2026-09-07)
@@ -903,6 +912,7 @@ total_mentions: 1774
 - [adxtyahq](https://x.com/adxtyahq/status/2062090077296283932) (2026-06-08)
 - [agentfxai](https://x.com/agentfxai/status/2068085567057772841) (2026-06-20)
 - [agenticbrew](https://x.com/agenticbrew/status/2072848219084910646) (2026-07-03)
+- [agenticgeni](https://x.com/agenticgeni/status/2122842638961508552) (2026-11-18)
 - [agentsdothaus](https://x.com/agentsdothaus/status/2068593129687580788) (2026-06-21)
 - [agentsmaxxing](https://x.com/agentsmaxxing/status/2076302332518859045) (2026-07-14)
 - [agentsmaxxing](https://x.com/agentsmaxxing/status/2080221158981710246) (2026-07-24)
@@ -1116,6 +1126,7 @@ total_mentions: 1774
 - [dair_ai](https://x.com/dair_ai/status/2092260466190106974) (2026-08-30)
 - [dair_ai](https://x.com/dair_ai/status/2097022152088445034) (2026-09-08)
 - [daisy_btc988](https://x.com/daisy_btc988/status/2102284082973663268) (2026-09-23)
+- [damkina7](https://x.com/damkina7/status/2122427050615275722) (2026-11-18)
 - [dan__rosenthal](https://x.com/dan__rosenthal/status/2086165641594048875) (2026-08-09)
 - [dan__rosenthal](https://x.com/dan__rosenthal/status/2115156692627251542) (2026-10-28)
 - [dang_duytan](https://x.com/dang_duytan/status/2117439948723048760) (2026-11-03)
@@ -1451,6 +1462,7 @@ total_mentions: 1774
 - [mvanhorn](https://x.com/mvanhorn/status/2061978364391592110) (2026-06-07)
 - [mvanhorn](https://x.com/mvanhorn/status/2074955232728281432) (2026-07-09)
 - [mvanhorn](https://x.com/mvanhorn/status/2122500988968022290) (2026-11-17)
+- [mynameisdesmond](https://x.com/mynameisdesmond/status/2122721423445885034) (2026-11-18)
 - [myshell_ai](https://x.com/myshell_ai/status/1874804449023266943) (2026-07-10)
 - [nabeelqu](https://x.com/nabeelqu/status/2094208251688595676) (2026-09-06)
 - [nanbeige](https://x.com/nanbeige/status/2114328933181333798) (2026-10-26)
@@ -1771,6 +1783,7 @@ total_mentions: 1774
 - [yacineMTB](https://x.com/yacineMTB/status/2083360208403767762) (2026-08-06)
 - [yoheinakajima](https://x.com/yoheinakajima/status/1640934493489070080) (2026-10-23)
 - [yurshevv](https://x.com/yurshevv/status/2113602375583719648) (2026-10-24)
+- [yurshevv](https://x.com/yurshevv/status/2122459560338198999) (2026-11-18)
 - [yz_aisdr](https://x.com/yz_aisdr/status/2110732455330103726) (2026-10-16)
 - [zachdotai](https://x.com/zachdotai/status/2098474668474896872) (2026-09-17)
 - [zackpaid](https://x.com/zackpaid/status/2065125827864678420) (2026-06-12)

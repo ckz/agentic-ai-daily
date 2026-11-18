@@ -1,11 +1,12 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-11-17
-total_mentions: 450
+last_seen: 2026-11-18
+total_mentions: 455
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
+- [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
 - [0xBarrry](https://x.com/0xBarrry/status/2065734574009975050) (2026-06-14)
 - [0xCarnagee](https://x.com/0xCarnagee/status/2111462832130654322) (2026-10-19)
 - [0xCodez](https://x.com/0xCodez/status/2079234800766816633) (2026-07-21)
@@ -57,6 +58,7 @@ total_mentions: 450
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2057450220708147250) (2026-09-23)
 - [AlinaDavy20](https://x.com/AlinaDavy20/status/2084482839723094121) (2026-08-04)
 - [AmitSha77280075](https://x.com/AmitSha77280075/status/2114665148883644919) (2026-10-28)
+- [AmitSha77280075](https://x.com/AmitSha77280075/status/2122611475273617434) (2026-11-18)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2076366894655848871) (2026-07-13)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2082835611921138029) (2026-07-31)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2087730345173229657) (2026-08-13)
@@ -84,6 +86,7 @@ total_mentions: 450
 - [Bober_smart](https://x.com/Bober_smart/status/2096256460661358995) (2026-09-06)
 - [Bober_smart](https://x.com/Bober_smart/status/2106444298849796475) (2026-10-04)
 - [Bober_smart](https://x.com/Bober_smart/status/2111803993009578042) (2026-10-23)
+- [BoboLinNotes](https://x.com/BoboLinNotes/status/2121175235399696408) (2026-11-18)
 - [BrianRoemmele](https://x.com/BrianRoemmele/status/2099871292619215200) (2026-09-22)
 - [CAStockLens](https://x.com/CAStockLens/status/2114214491357688317) (2026-10-25)
 - [CampedelliGian](https://x.com/CampedelliGian/status/2095171786715316233) (2026-09-03)
@@ -271,6 +274,7 @@ total_mentions: 450
 - [cyrilXBT](https://x.com/cyrilXBT/status/2085261842625257870) (2026-08-06)
 - [d_vuln](https://x.com/d_vuln/status/2065305823631294810) (2026-06-12)
 - [dair_ai](https://x.com/dair_ai/status/2097022152088445034) (2026-09-08)
+- [damkina7](https://x.com/damkina7/status/2122427050615275722) (2026-11-18)
 - [danshipper](https://x.com/danshipper/status/2098812095093452969) (2026-09-19)
 - [dashen_wang](https://x.com/dashen_wang/status/2094659177310269863) (2026-09-05)
 - [divaagurlxw](https://x.com/divaagurlxw/status/2087756697469440442) (2026-08-15)
@@ -313,6 +317,7 @@ total_mentions: 450
 - [hayatomaruu](https://x.com/hayatomaruu/status/2107560089833849101) (2026-10-07)
 - [helicerat0x](https://x.com/helicerat0x/status/2096343137048244358) (2026-09-09)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
+- [higgsfield_ai](https://x.com/higgsfield_ai/status/2122751206187802945) (2026-11-18)
 - [hoshinoxbt](https://x.com/hoshinoxbt/status/2109343300985479239) (2026-10-12)
 - [huxlab](https://x.com/huxlab/status/2112474544376348866) (2026-10-22)
 - [huxlab](https://x.com/huxlab/status/2115240099495788552) (2026-10-28)

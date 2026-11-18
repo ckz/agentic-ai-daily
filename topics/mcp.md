@@ -1,10 +1,11 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-11-17
-total_mentions: 1304
+last_seen: 2026-11-18
+total_mentions: 1316
 
 ## Related Tweets
+- [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
 - [0xCodez](https://x.com/0xCodez/status/2072293908546035801) (2026-07-02)
 - [0xCodez](https://x.com/0xCodez/status/2074865699214741897) (2026-07-09)
 - [0xCodez](https://x.com/0xCodez/status/2075932575147733290) (2026-07-12)
@@ -160,6 +161,7 @@ total_mentions: 1304
 - [DeRonin_](https://x.com/DeRonin_/status/2112573093839298625) (2026-10-21)
 - [DeemosTech](https://x.com/DeemosTech/status/2098150590719414656) (2026-09-14)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
+- [Deevid_AI](https://x.com/Deevid_AI/status/2122321288509186271) (2026-11-18)
 - [Delroy715](https://x.com/Delroy715/status/2093274769290604846) (2026-08-31)
 - [Diego_exits](https://x.com/Diego_exits/status/2082567388537536818) (2026-08-01)
 - [Dinosn](https://x.com/Dinosn/status/2108049111689646260) (2026-10-10)
@@ -262,6 +264,7 @@ total_mentions: 1304
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2103900910292472051) (2026-10-03)
 - [LeoCreaIA](https://x.com/LeoCreaIA/status/2120143678039548236) (2026-11-14)
 - [LiuweijiaVip](https://x.com/LiuweijiaVip/status/2111970584342958407) (2026-10-19)
+- [LottieFiles](https://x.com/LottieFiles/status/2120335987125743912) (2026-11-18)
 - [Lummox_eth](https://x.com/Lummox_eth/status/2108499624038113606) (2026-10-11)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2073512358282940512) (2026-07-06)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2078455834325995532) (2026-07-20)
@@ -308,6 +311,7 @@ total_mentions: 1304
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106601226276118967) (2026-10-05)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2109514844252807435) (2026-10-12)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2113503183997719010) (2026-10-25)
+- [Mokhalil01](https://x.com/Mokhalil01/status/2122529519706034673) (2026-11-18)
 - [MoureDev](https://x.com/MoureDev/status/2092961532766212193) (2026-09-03)
 - [MrDasOnX](https://x.com/MrDasOnX/status/2066029379512418431) (2026-06-14)
 - [MrOnsase](https://x.com/MrOnsase/status/2081599328058253340) (2026-07-27)
@@ -389,6 +393,7 @@ total_mentions: 1304
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2106319598492545245) (2026-10-05)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2111717667228770611) (2026-10-19)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2115666184888537433) (2026-10-29)
+- [RubanBhatia](https://x.com/RubanBhatia/status/2122803981231735260) (2026-11-18)
 - [RunOpsec](https://x.com/RunOpsec/status/2117763497039892565) (2026-11-05)
 - [Ryrenz](https://x.com/Ryrenz/status/2096041123517001750) (2026-09-05)
 - [S0N_IA](https://x.com/S0N_IA/status/2078494824982863884) (2026-07-20)
@@ -607,8 +612,10 @@ total_mentions: 1304
 - [aryanXmahajan](https://x.com/aryanXmahajan/status/2067677589247082656) (2026-06-19)
 - [ashiqur_ai](https://x.com/ashiqur_ai/status/2068572009676804246) (2026-06-21)
 - [ashnichrist](https://x.com/ashnichrist/status/2098803247410467229) (2026-09-14)
+- [askOkara](https://x.com/askOkara/status/2122351489104609554) (2026-11-18)
 - [astridtgtz](https://x.com/astridtgtz/status/2076645768471908554) (2026-07-14)
 - [athrix_codes](https://x.com/athrix_codes/status/2079987918660333709) (2026-07-25)
+- [avastudio_](https://x.com/avastudio_/status/2122736603194094052) (2026-11-18)
 - [bakigulai](https://x.com/bakigulai/status/2089258113475944539) (2026-08-19)
 - [banishahr66](https://x.com/banishahr66/status/2121464159476842927) (2026-11-14)
 - [base](https://x.com/base/status/2083204522415960437) (2026-08-05)
@@ -713,6 +720,7 @@ total_mentions: 1304
 - [dannypostma](https://x.com/dannypostma/status/2082689872494755872) (2026-07-30)
 - [danshipper](https://x.com/danshipper/status/2110707025826996280) (2026-10-17)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
+- [datumnite](https://x.com/datumnite/status/2122725470089195925) (2026-11-18)
 - [davemccollough](https://x.com/davemccollough/status/2064154192856670213) (2026-06-09)
 - [dawoodkhan254](https://x.com/dawoodkhan254/status/2081031854371819912) (2026-07-26)
 - [de1lymoon](https://x.com/de1lymoon/status/2118347988028346702) (2026-11-06)
@@ -926,6 +934,7 @@ total_mentions: 1304
 - [levelsio](https://x.com/levelsio/status/2115796587351810138) (2026-10-30)
 - [levie](https://x.com/levie/status/2101427997597446636) (2026-09-20)
 - [levikmunneke](https://x.com/levikmunneke/status/2112513770001924169) (2026-10-27)
+- [levtechs](https://x.com/levtechs/status/2122691033595097538) (2026-11-18)
 - [lifemaximised](https://x.com/lifemaximised/status/2094966852887687492) (2026-09-05)
 - [lifemaximised](https://x.com/lifemaximised/status/2102802935558103146) (2026-09-24)
 - [listelia](https://x.com/listelia/status/2107440483295195602) (2026-10-07)
@@ -957,6 +966,7 @@ total_mentions: 1304
 - [mattrothenberg](https://x.com/mattrothenberg/status/2088019847875526913) (2026-08-16)
 - [mattyp](https://x.com/mattyp/status/2120953404310913453) (2026-11-16)
 - [mattzcarey](https://x.com/mattzcarey/status/2112202956837638329) (2026-10-22)
+- [mattzcarey](https://x.com/mattzcarey/status/2122712731145081194) (2026-11-18)
 - [maxxmalist](https://x.com/maxxmalist/status/2116597651676262808) (2026-11-03)
 - [mayaislam_ai](https://x.com/mayaislam_ai/status/2119315305235370221) (2026-11-11)
 - [mayaislam_ai](https://x.com/mayaislam_ai/status/2120355046122824152) (2026-11-11)
@@ -1008,11 +1018,13 @@ total_mentions: 1304
 - [mxstbr](https://x.com/mxstbr/status/2105091392011948221) (2026-09-30)
 - [mxstbr](https://x.com/mxstbr/status/2107515035610431911) (2026-10-09)
 - [nacho_gorriti_](https://x.com/nacho_gorriti_/status/2118724299033026628) (2026-11-07)
+- [nahidulislam404](https://x.com/nahidulislam404/status/2122698034211594353) (2026-11-18)
 - [namcios](https://x.com/namcios/status/2111128876969570366) (2026-10-17)
 - [naru_pub](https://x.com/naru_pub/status/2116711865338540268) (2026-11-01)
 - [nateberkopec](https://x.com/nateberkopec/status/2099995262802641129) (2026-09-19)
 - [nbaschez](https://x.com/nbaschez/status/2106437805413195895) (2026-10-08)
 - [ndmccormack](https://x.com/ndmccormack/status/2112701653098930296) (2026-10-21)
+- [nicbstme](https://x.com/nicbstme/status/2121690979904446885) (2026-11-18)
 - [nickvasilescu](https://x.com/nickvasilescu/status/2110443186317574208) (2026-10-15)
 - [noechague](https://x.com/noechague/status/2115881352822493630) (2026-10-30)
 - [noechague](https://x.com/noechague/status/2116243745821937803) (2026-10-31)

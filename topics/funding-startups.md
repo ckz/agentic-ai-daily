@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-17
-total_mentions: 914
+last_seen: 2026-11-18
+total_mentions: 920
 
 ## Related Tweets
 - [0x0simba_eth](https://x.com/0x0simba_eth/status/2118895661722616112) (2026-11-07)
@@ -508,6 +508,7 @@ total_mentions: 914
 - [deedydas](https://x.com/deedydas/status/2116669429866275148) (2026-11-02)
 - [deedydas](https://x.com/deedydas/status/2121766500524589160) (2026-11-15)
 - [defyneric](https://x.com/defyneric/status/2109401860494791063) (2026-10-12)
+- [demishassabis](https://x.com/demishassabis/status/2122662616367853670) (2026-11-18)
 - [dhanyindraswara](https://x.com/dhanyindraswara/status/2108209744439812534) (2026-10-09)
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
 - [dharmesh](https://x.com/dharmesh/status/2093071931188597042) (2026-08-28)
@@ -604,6 +605,7 @@ total_mentions: 914
 - [irabukht](https://x.com/irabukht/status/2092743370804171081) (2026-08-28)
 - [irfan3](https://x.com/irfan3/status/2082699425529638948) (2026-07-30)
 - [ishanmkh](https://x.com/ishanmkh/status/2120579502351008192) (2026-11-17)
+- [islolabs](https://x.com/islolabs/status/2122721428856328598) (2026-11-18)
 - [itsalicesoul](https://x.com/itsalicesoul/status/2100249971148898734) (2026-09-23)
 - [itsmichaelluu](https://x.com/itsmichaelluu/status/2064692678608990537) (2026-06-11)
 - [itsolelehmann](https://x.com/itsolelehmann/status/2062909345537634686) (2026-06-10)
@@ -633,6 +635,7 @@ total_mentions: 914
 - [juampitech](https://x.com/juampitech/status/2108331805350805820) (2026-10-10)
 - [judegomila](https://x.com/judegomila/status/2100293405834453355) (2026-09-22)
 - [julianharris](https://x.com/julianharris/status/2106586413768589598) (2026-10-07)
+- [justiinqin](https://x.com/justiinqin/status/2122491178734207263) (2026-11-18)
 - [k2sbhai](https://x.com/k2sbhai/status/2095328927330025555) (2026-09-03)
 - [kaaaash____](https://x.com/kaaaash____/status/2090076085354676694) (2026-08-20)
 - [kamath_sutra](https://x.com/kamath_sutra/status/2083224374728093907) (2026-08-01)
@@ -668,6 +671,7 @@ total_mentions: 914
 - [lillyemira](https://x.com/lillyemira/status/2106529187091935656) (2026-10-04)
 - [lilyjclifford](https://x.com/lilyjclifford/status/2115521147890520503) (2026-10-29)
 - [maheerpips](https://x.com/maheerpips/status/2102658482142949518) (2026-09-23)
+- [manikgupta](https://x.com/manikgupta/status/2122736720542396523) (2026-11-18)
 - [manxlab](https://x.com/manxlab/status/2104648664413012176) (2026-09-30)
 - [marclou](https://x.com/marclou/status/2086700255949865456) (2026-08-15)
 - [marclou](https://x.com/marclou/status/2095153862818894109) (2026-09-03)
@@ -702,6 +706,7 @@ total_mentions: 914
 - [moneyacademyKE](https://x.com/moneyacademyKE/status/2113472378332459288) (2026-10-24)
 - [mpopv](https://x.com/mpopv/status/2101308984791798189) (2026-09-21)
 - [mr_bailando](https://x.com/mr_bailando/status/2086142677360226342) (2026-08-09)
+- [mynameisdesmond](https://x.com/mynameisdesmond/status/2122721423445885034) (2026-11-18)
 - [nanransohoff](https://x.com/nanransohoff/status/2069761661456601188) (2026-06-28)
 - [nc_tea2024](https://x.com/nc_tea2024/status/2106005188091777143) (2026-10-08)
 - [neerajjj6785](https://x.com/neerajjj6785/status/2088897032283181080) (2026-08-17)
@@ -843,6 +848,7 @@ total_mentions: 914
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109177179221184993) (2026-10-11)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109690568590635440) (2026-10-15)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2116478856320159910) (2026-11-06)
+- [swerikcodes](https://x.com/swerikcodes/status/2120607221860245678) (2026-11-18)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
 - [tankots](https://x.com/tankots/status/2089372674644713664) (2026-08-21)
 - [techbyhez](https://x.com/techbyhez/status/2106056726067675287) (2026-10-04)
