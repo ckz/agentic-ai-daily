@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-11-18
-total_mentions: 455
+last_seen: 2026-11-19
+total_mentions: 458
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -109,6 +109,7 @@ total_mentions: 455
 - [DestraNetwork](https://x.com/DestraNetwork/status/1906074225016017400) (2026-07-10)
 - [Didotxyz_](https://x.com/Didotxyz_/status/2120404894331150514) (2026-11-11)
 - [Dipanshu_AI](https://x.com/Dipanshu_AI/status/2090988836906213581) (2026-08-22)
+- [Dipanshu_AI](https://x.com/Dipanshu_AI/status/2123256583497126200) (2026-11-19)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2079620877151502483) (2026-07-23)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2091079100291076296) (2026-08-25)
@@ -368,6 +369,7 @@ total_mentions: 455
 - [pankajkumar_dev](https://x.com/pankajkumar_dev/status/2083391622939815963) (2026-08-01)
 - [patio11](https://x.com/patio11/status/2085495343043547391) (2026-08-11)
 - [pliang279](https://x.com/pliang279/status/2113300326015275424) (2026-10-25)
+- [plusxbt](https://x.com/plusxbt/status/2123119657565737278) (2026-11-19)
 - [polydao](https://x.com/polydao/status/2066048742625821003) (2026-06-14)
 - [poteto](https://x.com/poteto/status/2090141955695198633) (2026-08-20)
 - [priors_trade](https://x.com/priors_trade/status/2113914433466486996) (2026-10-28)
@@ -432,6 +434,7 @@ total_mentions: 455
 - [svpino](https://x.com/svpino/status/2071975885570441658) (2026-07-01)
 - [swarms_corp](https://x.com/swarms_corp/status/2062886985883082914) (2026-06-05)
 - [swarms_corp](https://x.com/swarms_corp/status/2065570314268885211) (2026-06-13)
+- [swyx](https://x.com/swyx/status/2122746401482592549) (2026-11-19)
 - [techNmak](https://x.com/techNmak/status/2091434187446439969) (2026-08-24)
 - [thedelost](https://x.com/thedelost/status/2110472847084650726) (2026-10-16)
 - [thedelost](https://x.com/thedelost/status/2114016386896773177) (2026-10-26)

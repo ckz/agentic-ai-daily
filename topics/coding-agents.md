@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-18
-total_mentions: 239
+last_seen: 2026-11-19
+total_mentions: 244
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -21,6 +21,7 @@ total_mentions: 239
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2105025585332605357) (2026-09-30)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2109697083519447118) (2026-10-13)
 - [Av1dlive](https://x.com/Av1dlive/status/2097639365644279857) (2026-09-10)
+- [Benioff](https://x.com/Benioff/status/2123249365875904551) (2026-11-19)
 - [BioAI_NeuralNet](https://x.com/BioAI_NeuralNet/status/2114161649183601012) (2026-11-01)
 - [ChromiumDev](https://x.com/ChromiumDev/status/2077874454105862423) (2026-07-17)
 - [ClementDelangue](https://x.com/ClementDelangue/status/2107120717980471638) (2026-10-07)
@@ -42,6 +43,7 @@ total_mentions: 239
 - [EXM7777](https://x.com/EXM7777/status/2086512844594679820) (2026-08-14)
 - [FareaNFts](https://x.com/FareaNFts/status/2072985538756317458) (2026-07-07)
 - [GodsBoy7777](https://x.com/GodsBoy7777/status/2102146460821152070) (2026-09-22)
+- [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2122359038151106953) (2026-11-19)
 - [Greshamtrade](https://x.com/Greshamtrade/status/2113369499801960699) (2026-10-25)
 - [Hartdrawss](https://x.com/Hartdrawss/status/2096924182260875471) (2026-09-10)
 - [HelloRH_AI](https://x.com/HelloRH_AI/status/2077711932774105164) (2026-07-18)
@@ -64,6 +66,7 @@ total_mentions: 239
 - [Mnilax](https://x.com/Mnilax/status/2109314840057565345) (2026-10-12)
 - [N01ennn](https://x.com/N01ennn/status/2088606747531358505) (2026-08-21)
 - [N01ennn](https://x.com/N01ennn/status/2089455117716406706) (2026-08-18)
+- [NVIDIAAIDev](https://x.com/NVIDIAAIDev/status/2033642064009957725) (2026-11-19)
 - [NVIDIAAI](https://x.com/NVIDIAAI/status/2069858097930121319) (2026-06-30)
 - [NVIDIAAI](https://x.com/NVIDIAAI/status/2090786258981466231) (2026-08-22)
 - [NickADobos](https://x.com/NickADobos/status/2090867101028540684) (2026-08-22)
@@ -199,6 +202,7 @@ total_mentions: 239
 - [orbiteditor](https://x.com/orbiteditor/status/2075064330325041395) (2026-07-09)
 - [panda_liyin](https://x.com/panda_liyin/status/2120555240898674907) (2026-11-14)
 - [peterfriese](https://x.com/peterfriese/status/2092545094423601239) (2026-09-02)
+- [plusxbt](https://x.com/plusxbt/status/2123119657565737278) (2026-11-19)
 - [pushmeet](https://x.com/pushmeet/status/2065917699222560928) (2026-06-15)
 - [pushmeet](https://x.com/pushmeet/status/2089717134129565763) (2026-08-19)
 - [quinn_leng](https://x.com/quinn_leng/status/2110036327286886731) (2026-10-14)
@@ -224,6 +228,7 @@ total_mentions: 239
 - [superalesha](https://x.com/superalesha/status/2101940249735634998) (2026-10-01)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2087879344664240167) (2026-08-15)
 - [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)
+- [swyx](https://x.com/swyx/status/2122746401482592549) (2026-11-19)
 - [tamrrat](https://x.com/tamrrat/status/2077136461489467450) (2026-07-15)
 - [techNmak](https://x.com/techNmak/status/2096243571410276392) (2026-09-07)
 - [techNmak](https://x.com/techNmak/status/2114313618611220950) (2026-10-28)

@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-18
-total_mentions: 1787
+last_seen: 2026-11-19
+total_mentions: 1798
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -357,12 +357,14 @@ total_mentions: 1787
 - [DegenSynth](https://x.com/DegenSynth/status/2105885297279983933) (2026-10-02)
 - [Degen_calls_sol](https://x.com/Degen_calls_sol/status/2077084965209030808) (2026-07-15)
 - [DehumanoaDeus](https://x.com/DehumanoaDeus/status/2094786190042083430) (2026-09-03)
+- [Delphi_Digital](https://x.com/Delphi_Digital/status/2041029649304838571) (2026-11-19)
 - [DestraNetwork](https://x.com/DestraNetwork/status/1906074225016017400) (2026-07-10)
 - [Devendra_116](https://x.com/Devendra_116/status/2066415805462646839) (2026-06-15)
 - [Dhruvkumar16797](https://x.com/Dhruvkumar16797/status/2101672939615924364) (2026-09-24)
 - [Dinosn](https://x.com/Dinosn/status/2063512654048608626) (2026-06-07)
 - [Dinosn](https://x.com/Dinosn/status/2070446054701490193) (2026-06-29)
 - [Dipanshu_AI](https://x.com/Dipanshu_AI/status/2090988836906213581) (2026-08-22)
+- [Dipanshu_AI](https://x.com/Dipanshu_AI/status/2123256583497126200) (2026-11-19)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2079620877151502483) (2026-07-23)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2091079100291076296) (2026-08-25)
@@ -453,6 +455,7 @@ total_mentions: 1787
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [HeyShobhan](https://x.com/HeyShobhan/status/2107810215680987529) (2026-10-11)
+- [HeyShobhan](https://x.com/HeyShobhan/status/2122995323161493820) (2026-11-19)
 - [Hey_Scarlett5](https://x.com/Hey_Scarlett5/status/2122347455572505067) (2026-11-17)
 - [HoodieFade_](https://x.com/HoodieFade_/status/2112634990542692708) (2026-10-25)
 - [HoodieFade_](https://x.com/HoodieFade_/status/2119824593753956844) (2026-11-10)
@@ -511,6 +514,7 @@ total_mentions: 1787
 - [KirkDBorne](https://x.com/KirkDBorne/status/2076503185225617544) (2026-07-13)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2084357801359347866) (2026-08-09)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2097054388506251532) (2026-09-08)
+- [KirkDBorne](https://x.com/KirkDBorne/status/2123278375552733668) (2026-11-19)
 - [KitPloit](https://x.com/KitPloit/status/2120788856781844640) (2026-11-12)
 - [Krafton_AI](https://x.com/Krafton_AI/status/2112772568776339709) (2026-10-21)
 - [Krishnasagrawal](https://x.com/Krishnasagrawal/status/2075557881156657352) (2026-07-11)
@@ -795,7 +799,9 @@ total_mentions: 1787
 - [Suryanshti777](https://x.com/Suryanshti777/status/2084693098714599697) (2026-08-05)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2085286044975476808) (2026-08-11)
 - [SvpChain](https://x.com/SvpChain/status/2064935788345974954) (2026-06-11)
+- [SynScience](https://x.com/SynScience/status/2123191679964545342) (2026-11-19)
 - [SyntheticBeef](https://x.com/SyntheticBeef/status/2115071973336465644) (2026-10-29)
+- [TCibelle](https://x.com/TCibelle/status/2123277236044546402) (2026-11-19)
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2065300113254388162) (2026-06-12)
 - [TeachTheMachine](https://x.com/TeachTheMachine/status/2107883727473062003) (2026-10-08)
 - [TechByArti](https://x.com/TechByArti/status/2102669545131712912) (2026-09-24)
@@ -985,6 +991,7 @@ total_mentions: 1787
 - [arena](https://x.com/arena/status/2071630464583151727) (2026-06-30)
 - [arena](https://x.com/arena/status/2120568144687460434) (2026-11-12)
 - [arena](https://x.com/arena/status/2120940869889175840) (2026-11-13)
+- [arena](https://x.com/arena/status/2123169189397709174) (2026-11-19)
 - [arlanoska](https://x.com/arlanoska/status/2105001306503139816) (2026-09-30)
 - [arle0x](https://x.com/arle0x/status/2097726809529811454) (2026-09-11)
 - [arle0x](https://x.com/arle0x/status/2100983195508367747) (2026-09-19)
@@ -1527,7 +1534,9 @@ total_mentions: 1787
 - [perksverse](https://x.com/perksverse/status/2100863579650236804) (2026-09-22)
 - [perptools](https://x.com/perptools/status/2019772688534020572) (2026-10-22)
 - [petergyang](https://x.com/petergyang/status/2101862331345154469) (2026-09-21)
+- [plusxbt](https://x.com/plusxbt/status/2123119657565737278) (2026-11-19)
 - [polydao](https://x.com/polydao/status/2097642088506487020) (2026-09-10)
+- [praneethsamine](https://x.com/praneethsamine/status/2123296390050652520) (2026-11-19)
 - [praveenTweets](https://x.com/praveenTweets/status/2074605343439810922) (2026-07-09)
 - [praveenTweets](https://x.com/praveenTweets/status/2093012409841774782) (2026-08-30)
 - [princeNFA](https://x.com/princeNFA/status/2112773639351214586) (2026-10-21)
@@ -1538,6 +1547,7 @@ total_mentions: 1787
 - [radbrowndads](https://x.com/radbrowndads/status/2111822563613790584) (2026-10-24)
 - [rajivayyangar](https://x.com/rajivayyangar/status/2112192667241074976) (2026-10-20)
 - [rakib_hossen_ai](https://x.com/rakib_hossen_ai/status/2113385135869735176) (2026-10-24)
+- [rakib_hossen_ai](https://x.com/rakib_hossen_ai/status/2122059755426554366) (2026-11-19)
 - [randy_magruder](https://x.com/randy_magruder/status/2075453861754470569) (2026-07-10)
 - [rauchg](https://x.com/rauchg/status/2073132174958841887) (2026-07-04)
 - [rauchg](https://x.com/rauchg/status/2083208578526314513) (2026-08-01)
@@ -1654,6 +1664,7 @@ total_mentions: 1787
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
 - [skirano](https://x.com/skirano/status/1797738751113998345) (2026-10-12)
 - [slash1sol](https://x.com/slash1sol/status/2101244375925723559) (2026-09-20)
+- [slimice111](https://x.com/slimice111/status/2122569602018287756) (2026-11-19)
 - [smarterwithai_](https://x.com/smarterwithai_/status/2113156321738670539) (2026-10-22)
 - [solana](https://x.com/solana/status/2018920649935192139) (2026-10-28)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2072154763492544652) (2026-07-01)

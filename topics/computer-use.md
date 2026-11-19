@@ -1,7 +1,7 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-11-18
+last_seen: 2026-11-19
 total_mentions: 201
 
 ## Related Tweets

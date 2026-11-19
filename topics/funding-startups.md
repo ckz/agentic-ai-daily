@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-18
-total_mentions: 920
+last_seen: 2026-11-19
+total_mentions: 930
 
 ## Related Tweets
 - [0x0simba_eth](https://x.com/0x0simba_eth/status/2118895661722616112) (2026-11-07)
@@ -59,6 +59,7 @@ total_mentions: 920
 - [AnimaAnandkumar](https://x.com/AnimaAnandkumar/status/2092236528898675014) (2026-09-01)
 - [AnishJaitwar](https://x.com/AnishJaitwar/status/2086661433593360839) (2026-08-10)
 - [AnthonyAguero](https://x.com/AnthonyAguero/status/2105367891222909372) (2026-10-01)
+- [AravSrinivas](https://x.com/AravSrinivas/status/2120891190333607989) (2026-11-19)
 - [Argona0x](https://x.com/Argona0x/status/2065525815106769169) (2026-06-13)
 - [AroraBhavyam](https://x.com/AroraBhavyam/status/2108793649605861426) (2026-10-10)
 - [ArrushAdityadev](https://x.com/ArrushAdityadev/status/2061674017929703768) (2026-06-08)
@@ -74,6 +75,7 @@ total_mentions: 920
 - [Axel_bitblaze69](https://x.com/Axel_bitblaze69/status/2078578545429991768) (2026-07-24)
 - [BarabiloT](https://x.com/BarabiloT/status/2102262834444882342) (2026-10-20)
 - [BarbaraPocock](https://x.com/BarbaraPocock/status/2110115000732074339) (2026-10-14)
+- [BenjaminPopp4](https://x.com/BenjaminPopp4/status/2123297684014481621) (2026-11-19)
 - [BensonRubby](https://x.com/BensonRubby/status/2122151705282486618) (2026-11-17)
 - [BernieSanders](https://x.com/BernieSanders/status/2080047245433438469) (2026-07-26)
 - [BernieSanders](https://x.com/BernieSanders/status/2095617679235088569) (2026-09-14)
@@ -175,6 +177,7 @@ total_mentions: 920
 - [InsiderWire](https://x.com/InsiderWire/status/2105514967009210747) (2026-10-01)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2075516156161536088) (2026-07-13)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2082740804854985035) (2026-08-16)
+- [IsomorphicLabs](https://x.com/IsomorphicLabs/status/2122661054723547449) (2026-11-19)
 - [JackPosobiec](https://x.com/JackPosobiec/status/2104592761051587037) (2026-10-01)
 - [Jacobsklug](https://x.com/Jacobsklug/status/2104914597606273395) (2026-10-06)
 - [JasonL_Capital](https://x.com/JasonL_Capital/status/2082434168235954267) (2026-08-05)
@@ -344,6 +347,7 @@ total_mentions: 920
 - [Vicmunro](https://x.com/Vicmunro/status/2093675879444402505) (2026-09-01)
 - [VoltWeb3](https://x.com/VoltWeb3/status/2101405931129184729) (2026-09-20)
 - [Voxyz_ai](https://x.com/Voxyz_ai/status/2089324197981950408) (2026-08-19)
+- [WSJTech](https://x.com/WSJTech/status/2123159851912110414) (2026-11-19)
 - [WSJ](https://x.com/WSJ/status/2097199756711784561) (2026-09-08)
 - [WaldronLewis](https://x.com/WaldronLewis/status/2072605320132575489) (2026-07-03)
 - [WallStreetApes](https://x.com/WallStreetApes/status/2072876695120658620) (2026-07-05)
@@ -411,6 +415,7 @@ total_mentions: 920
 - [anupamrjp](https://x.com/anupamrjp/status/2076558763071508656) (2026-07-13)
 - [anuraggoel](https://x.com/anuraggoel/status/2069218653137142074) (2026-06-30)
 - [anushankjain](https://x.com/anushankjain/status/2099371656833896850) (2026-09-15)
+- [apexstars0531](https://x.com/apexstars0531/status/2123267009169297422) (2026-11-19)
 - [apnmrev](https://x.com/apnmrev/status/2082074585017823365) (2026-07-30)
 - [araseb_](https://x.com/araseb_/status/2103436900560261564) (2026-09-26)
 - [artchad](https://x.com/artchad/status/2090555717875015956) (2026-08-23)
@@ -438,6 +443,7 @@ total_mentions: 920
 - [benhylak](https://x.com/benhylak/status/2100630323382088033) (2026-09-21)
 - [benln](https://x.com/benln/status/2062927277759893629) (2026-06-06)
 - [benln](https://x.com/benln/status/2068756286435389467) (2026-06-28)
+- [benln](https://x.com/benln/status/2122695018167017591) (2026-11-19)
 - [bitfunded](https://x.com/bitfunded/status/2098100987818811835) (2026-09-11)
 - [bizbreakdowns](https://x.com/bizbreakdowns/status/2081711200643985720) (2026-07-29)
 - [blaire_pang](https://x.com/blaire_pang/status/2081545224372068594) (2026-07-27)
@@ -452,6 +458,7 @@ total_mentions: 920
 - [business](https://x.com/business/status/2089077253778915636) (2026-08-19)
 - [business](https://x.com/business/status/2097139831302160849) (2026-09-08)
 - [business](https://x.com/business/status/2108078728592998447) (2026-10-10)
+- [businessbarista](https://x.com/businessbarista/status/2122832668815478986) (2026-11-19)
 - [bykahlil](https://x.com/bykahlil/status/2079265093607637030) (2026-07-21)
 - [calvinchen](https://x.com/calvinchen/status/2113086111505645906) (2026-10-22)
 - [cashcat_Agent](https://x.com/cashcat_Agent/status/2117884246895341884) (2026-11-04)
@@ -516,6 +523,7 @@ total_mentions: 920
 - [dhh](https://x.com/dhh/status/2102366320369016915) (2026-09-23)
 - [divaagurlxw](https://x.com/divaagurlxw/status/2088625532070203557) (2026-08-18)
 - [djcows](https://x.com/djcows/status/2074245525021335998) (2026-07-12)
+- [dqnamo](https://x.com/dqnamo/status/2123076261522333845) (2026-11-19)
 - [e4ma_officiall](https://x.com/e4ma_officiall/status/2101889325449261187) (2026-09-21)
 - [ecomchigga](https://x.com/ecomchigga/status/2065176267637297566) (2026-06-13)
 - [edinsoncode](https://x.com/edinsoncode/status/2089677825125368297) (2026-08-19)
@@ -799,6 +807,7 @@ total_mentions: 920
 - [salimboujaddi](https://x.com/salimboujaddi/status/2118416905799389406) (2026-11-07)
 - [samsenchal](https://x.com/samsenchal/status/2068605085089693994) (2026-06-21)
 - [samuelcolvin](https://x.com/samuelcolvin/status/2103469459981619243) (2026-09-26)
+- [santtiagom_](https://x.com/santtiagom_/status/2122333890350051378) (2026-11-19)
 - [sarahzorah](https://x.com/sarahzorah/status/2108401845563806150) (2026-10-09)
 - [sean_wallace_](https://x.com/sean_wallace_/status/2063994540873433201) (2026-06-09)
 - [semiDL](https://x.com/semiDL/status/2105659000545059287) (2026-10-02)
@@ -849,6 +858,7 @@ total_mentions: 920
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109690568590635440) (2026-10-15)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2116478856320159910) (2026-11-06)
 - [swerikcodes](https://x.com/swerikcodes/status/2120607221860245678) (2026-11-18)
+- [swyx](https://x.com/swyx/status/2122746401482592549) (2026-11-19)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
 - [tankots](https://x.com/tankots/status/2089372674644713664) (2026-08-21)
 - [techbyhez](https://x.com/techbyhez/status/2106056726067675287) (2026-10-04)

@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-11-18
-total_mentions: 1316
+last_seen: 2026-11-19
+total_mentions: 1325
 
 ## Related Tweets
 - [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
@@ -98,6 +98,7 @@ total_mentions: 1316
 - [BTCqzy1](https://x.com/BTCqzy1/status/2087496242071056769) (2026-08-13)
 - [Ben_escrito](https://x.com/Ben_escrito/status/2119806997029659066) (2026-11-10)
 - [Benioff](https://x.com/Benioff/status/2094618697520615868) (2026-09-01)
+- [Benioff](https://x.com/Benioff/status/2123249365875904551) (2026-11-19)
 - [Bha74142Shivani](https://x.com/Bha74142Shivani/status/2087441456726524324) (2026-08-12)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2062873857304752368) (2026-06-05)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2063598644293484741) (2026-06-08)
@@ -204,6 +205,8 @@ total_mentions: 1316
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2091248280365682688) (2026-08-24)
 - [GitTrend0x](https://x.com/GitTrend0x/status/2085190556674904253) (2026-08-07)
 - [GithubProjects](https://x.com/GithubProjects/status/2063327571698434443) (2026-06-07)
+- [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2122359038151106953) (2026-11-19)
+- [GoogleColab](https://x.com/GoogleColab/status/2122676129009975544) (2026-11-19)
 - [GoogleDeepMind](https://x.com/GoogleDeepMind/status/2113645959762575623) (2026-10-25)
 - [Greshamtrade](https://x.com/Greshamtrade/status/2111868294974112108) (2026-10-22)
 - [Greshamtrade](https://x.com/Greshamtrade/status/2112270735116812640) (2026-10-22)
@@ -227,6 +230,7 @@ total_mentions: 1316
 - [HeyEpic](https://x.com/HeyEpic/status/2116228640618807462) (2026-11-03)
 - [HeyGenDev](https://x.com/HeyGenDev/status/2111151435778039811) (2026-10-17)
 - [HeyShobhan](https://x.com/HeyShobhan/status/2107810215680987529) (2026-10-11)
+- [HeyShobhan](https://x.com/HeyShobhan/status/2122995323161493820) (2026-11-19)
 - [Hey_Scarlett5](https://x.com/Hey_Scarlett5/status/2122347455572505067) (2026-11-17)
 - [Hey_karl](https://x.com/Hey_karl/status/2120742712270020841) (2026-11-12)
 - [HoodAI0x](https://x.com/HoodAI0x/status/2079228983309176849) (2026-07-21)
@@ -444,6 +448,7 @@ total_mentions: 1316
 - [SungKimUp](https://x.com/SungKimUp/status/2114886177111281788) (2026-10-27)
 - [SvpChain](https://x.com/SvpChain/status/2064935788345974954) (2026-06-11)
 - [SwamiMalode](https://x.com/SwamiMalode/status/2109973447397031991) (2026-10-17)
+- [TCibelle](https://x.com/TCibelle/status/2123277236044546402) (2026-11-19)
 - [TablePlus](https://x.com/TablePlus/status/2107323861205491790) (2026-10-06)
 - [Tailscale](https://x.com/Tailscale/status/2120173484202410393) (2026-11-15)
 - [Tanaypawar27](https://x.com/Tanaypawar27/status/2065300113254388162) (2026-06-12)
@@ -453,6 +458,7 @@ total_mentions: 1316
 - [TechWithTimm](https://x.com/TechWithTimm/status/2107108551172993387) (2026-10-12)
 - [TechWithTimm](https://x.com/TechWithTimm/status/2111427008362086478) (2026-10-20)
 - [Tech_by_Shweta](https://x.com/Tech_by_Shweta/status/2096800764526243897) (2026-09-07)
+- [TedCruz1072676](https://x.com/TedCruz1072676/status/2122711678622343170) (2026-11-19)
 - [Teknium](https://x.com/Teknium/status/2081450522608107816) (2026-07-28)
 - [TeksCreate](https://x.com/TeksCreate/status/2081499683571040408) (2026-07-27)
 - [Templafy](https://x.com/Templafy/status/2100570129083883884) (2026-09-18)
@@ -634,6 +640,7 @@ total_mentions: 1316
 - [betomoedano](https://x.com/betomoedano/status/2071257935485788178) (2026-06-29)
 - [betomoedano](https://x.com/betomoedano/status/2075206572628705477) (2026-07-13)
 - [bettercalltonny](https://x.com/bettercalltonny/status/2087599007518302487) (2026-08-16)
+- [biohub](https://x.com/biohub/status/2123099670503407840) (2026-11-19)
 - [birmeya](https://x.com/birmeya/status/2120904800871096798) (2026-11-15)
 - [birmeya](https://x.com/birmeya/status/2121346750602698801) (2026-11-15)
 - [birmeya](https://x.com/birmeya/status/2121673796088471868) (2026-11-16)
@@ -800,6 +807,7 @@ total_mentions: 1316
 - [figma](https://x.com/figma/status/2112669039009104059) (2026-10-21)
 - [firecrawl](https://x.com/firecrawl/status/2070174005709983865) (2026-06-27)
 - [floozi_official](https://x.com/floozi_official/status/2084965258104291494) (2026-08-09)
+- [foodloss_otoko](https://x.com/foodloss_otoko/status/2123090243780018449) (2026-11-19)
 - [franpradasAI](https://x.com/franpradasAI/status/2092936681012047914) (2026-08-28)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2064800056406909425) (2026-06-15)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2070900490674536556) (2026-06-28)
@@ -1251,6 +1259,7 @@ total_mentions: 1316
 - [thsottiaux](https://x.com/thsottiaux/status/2105519215092584786) (2026-10-02)
 - [timsneath](https://x.com/timsneath/status/2072479088661651612) (2026-07-02)
 - [timsneath](https://x.com/timsneath/status/2103559230888513905) (2026-09-30)
+- [tobiadonadon_](https://x.com/tobiadonadon_/status/2123093888172798444) (2026-11-19)
 - [tom_doerr](https://x.com/tom_doerr/status/2062864987970797651) (2026-06-12)
 - [tom_doerr](https://x.com/tom_doerr/status/2066042496933662753) (2026-06-14)
 - [tom_doerr](https://x.com/tom_doerr/status/2071309381455519803) (2026-06-29)

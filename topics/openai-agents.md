@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-18
-total_mentions: 119
+last_seen: 2026-11-19
+total_mentions: 122
 
 ## Related Tweets
 - [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
@@ -22,6 +22,7 @@ total_mentions: 119
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2102438210798514391) (2026-09-23)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2105025585332605357) (2026-09-30)
 - [Base_EUR](https://x.com/Base_EUR/status/2104873827645997562) (2026-09-30)
+- [Benioff](https://x.com/Benioff/status/2123249365875904551) (2026-11-19)
 - [Brainm8ion](https://x.com/Brainm8ion/status/2087751034944803135) (2026-08-13)
 - [CNBC](https://x.com/CNBC/status/2104511561335181591) (2026-09-29)
 - [CerfiaFR](https://x.com/CerfiaFR/status/2105003667736973625) (2026-10-04)
@@ -73,7 +74,9 @@ total_mentions: 119
 - [alexxubyte](https://x.com/alexxubyte/status/2062186586431987780) (2026-06-05)
 - [alexxubyte](https://x.com/alexxubyte/status/2079947947173933452) (2026-07-23)
 - [bindureddy](https://x.com/bindureddy/status/2070718551422591255) (2026-06-27)
+- [biohub](https://x.com/biohub/status/2123099670503407840) (2026-11-19)
 - [bode_sule](https://x.com/bode_sule/status/2114225364717482179) (2026-10-25)
+- [businessbarista](https://x.com/businessbarista/status/2122832668815478986) (2026-11-19)
 - [calbuldelis69](https://x.com/calbuldelis69/status/2109705355798384767) (2026-10-13)
 - [clapilot](https://x.com/clapilot/status/2063510331716952191) (2026-06-07)
 - [coledermo](https://x.com/coledermo/status/2093020717902176637) (2026-09-02)

@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-18
-total_mentions: 383
+last_seen: 2026-11-19
+total_mentions: 388
 
 ## Related Tweets
 - [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
@@ -183,6 +183,7 @@ total_mentions: 383
 - [angeldot_](https://x.com/angeldot_/status/2114374287549157402) (2026-10-26)
 - [anitakirkovska](https://x.com/anitakirkovska/status/2117336406246727956) (2026-11-03)
 - [arena](https://x.com/arena/status/2120568144687460434) (2026-11-12)
+- [arena](https://x.com/arena/status/2123169189397709174) (2026-11-19)
 - [ashtom](https://x.com/ashtom/status/1925597395192357337) (2026-09-04)
 - [ataiiam](https://x.com/ataiiam/status/2120951334665150885) (2026-11-13)
 - [atulkumarzz](https://x.com/atulkumarzz/status/2108191514811842742) (2026-10-09)
@@ -192,12 +193,14 @@ total_mentions: 383
 - [beamnxw](https://x.com/beamnxw/status/2090553472865419568) (2026-08-21)
 - [beamnxw](https://x.com/beamnxw/status/2115912451388485931) (2026-10-30)
 - [bindureddy](https://x.com/bindureddy/status/2087034287396938177) (2026-08-11)
+- [biohub](https://x.com/biohub/status/2123099670503407840) (2026-11-19)
 - [birmeya](https://x.com/birmeya/status/2121346750602698801) (2026-11-15)
 - [bonduelleioat](https://x.com/bonduelleioat/status/2090015153739669554) (2026-08-23)
 - [borjafat](https://x.com/borjafat/status/2122336732079161572) (2026-11-17)
 - [business](https://x.com/business/status/2116754642222616835) (2026-11-02)
 - [businessbarista](https://x.com/businessbarista/status/2097478065723162959) (2026-09-09)
 - [businessbarista](https://x.com/businessbarista/status/2099565601312166157) (2026-09-16)
+- [businessbarista](https://x.com/businessbarista/status/2122832668815478986) (2026-11-19)
 - [candyyueliu](https://x.com/candyyueliu/status/2062178835689623592) (2026-06-29)
 - [carm1nee](https://x.com/carm1nee/status/2121799455041011723) (2026-11-17)
 - [cartertran_](https://x.com/cartertran_/status/2110450865366614489) (2026-10-15)
@@ -229,6 +232,7 @@ total_mentions: 383
 - [cyrilXBT](https://x.com/cyrilXBT/status/2084862461078077848) (2026-08-06)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2085683119320133685) (2026-08-08)
 - [dabit3](https://x.com/dabit3/status/2098557144580735156) (2026-09-17)
+- [dani_avila7](https://x.com/dani_avila7/status/2123135599833964893) (2026-11-19)
 - [danshipper](https://x.com/danshipper/status/2098812095093452969) (2026-09-19)
 - [danshipper](https://x.com/danshipper/status/2102461471716483208) (2026-09-23)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
@@ -320,6 +324,7 @@ total_mentions: 383
 - [officialbunnyos](https://x.com/officialbunnyos/status/2089938164916060444) (2026-08-19)
 - [om_patel5](https://x.com/om_patel5/status/2099683744781111419) (2026-09-17)
 - [panda_liyin](https://x.com/panda_liyin/status/2120555240898674907) (2026-11-14)
+- [plusxbt](https://x.com/plusxbt/status/2123119657565737278) (2026-11-19)
 - [polydao](https://x.com/polydao/status/2088516287098159531) (2026-08-21)
 - [polydao](https://x.com/polydao/status/2097642088506487020) (2026-09-10)
 - [polydao](https://x.com/polydao/status/2104090661041369397) (2026-09-28)

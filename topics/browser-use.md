@@ -1,8 +1,8 @@
 # Browser Use
 
 first_seen: 2026-06-07
-last_seen: 2026-11-18
-total_mentions: 66
+last_seen: 2026-11-19
+total_mentions: 67
 
 ## Related Tweets
 - [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
@@ -61,6 +61,7 @@ total_mentions: 66
 - [omarsar0](https://x.com/omarsar0/status/1715491139053121839) (2026-09-08)
 - [omooretweets](https://x.com/omooretweets/status/2117784346430197880) (2026-11-04)
 - [panda_liyin](https://x.com/panda_liyin/status/2120555240898674907) (2026-11-14)
+- [plusxbt](https://x.com/plusxbt/status/2123119657565737278) (2026-11-19)
 - [sauda_coder](https://x.com/sauda_coder/status/2078463245657211007) (2026-07-20)
 - [thdxr](https://x.com/thdxr/status/2100288951978164647) (2026-09-19)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2107169457365725616) (2026-10-06)

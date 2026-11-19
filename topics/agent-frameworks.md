@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-18
-total_mentions: 703
+last_seen: 2026-11-19
+total_mentions: 706
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -67,6 +67,7 @@ total_mentions: 703
 - [Azaliamirh](https://x.com/Azaliamirh/status/2064810291574305013) (2026-06-11)
 - [BenBajarin](https://x.com/BenBajarin/status/2105015734888013995) (2026-10-05)
 - [Benioff](https://x.com/Benioff/status/2092705110082347011) (2026-08-29)
+- [Benioff](https://x.com/Benioff/status/2123249365875904551) (2026-11-19)
 - [BensonRubby](https://x.com/BensonRubby/status/2122151705282486618) (2026-11-17)
 - [Berci](https://x.com/Berci/status/2111050047072743541) (2026-10-21)
 - [BestAIToolFind](https://x.com/BestAIToolFind/status/2087737224456732920) (2026-08-13)
@@ -582,7 +583,9 @@ total_mentions: 703
 - [petergyang](https://x.com/petergyang/status/2099139853170733280) (2026-09-14)
 - [petergyang](https://x.com/petergyang/status/2106749997442285981) (2026-10-09)
 - [piyascode9](https://x.com/piyascode9/status/2060204362497224790) (2026-06-05)
+- [plusxbt](https://x.com/plusxbt/status/2123119657565737278) (2026-11-19)
 - [polydao](https://x.com/polydao/status/2097642088506487020) (2026-09-10)
+- [praneethsamine](https://x.com/praneethsamine/status/2123296390050652520) (2026-11-19)
 - [princeNFA](https://x.com/princeNFA/status/2115674627313692811) (2026-10-29)
 - [profacer_w](https://x.com/profacer_w/status/2117847006118838529) (2026-11-04)
 - [py_kanade0404](https://x.com/py_kanade0404/status/2079825109083467821) (2026-07-22)

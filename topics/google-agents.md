@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-16
-total_mentions: 150
+last_seen: 2026-11-19
+total_mentions: 152
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -74,6 +74,7 @@ total_mentions: 150
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2063086140799012963) (2026-06-06)
 - [SaurabhDub28465](https://x.com/SaurabhDub28465/status/2063452536972124604) (2026-06-07)
 - [SpaceXAI](https://x.com/SpaceXAI/status/2105744399179383124) (2026-10-02)
+- [TCibelle](https://x.com/TCibelle/status/2123277236044546402) (2026-11-19)
 - [ThomasOrTK](https://x.com/ThomasOrTK/status/2072005642727158247) (2026-07-01)
 - [WesRoth](https://x.com/WesRoth/status/2043871865513619560) (2026-07-24)
 - [ZaraAi56190](https://x.com/ZaraAi56190/status/2108372681808924831) (2026-10-11)
@@ -91,6 +92,7 @@ total_mentions: 150
 - [amisha_explains](https://x.com/amisha_explains/status/2103526005193199869) (2026-09-26)
 - [angeldot_](https://x.com/angeldot_/status/2071697398527881418) (2026-06-30)
 - [arena](https://x.com/arena/status/2120940869889175840) (2026-11-13)
+- [arena](https://x.com/arena/status/2123169189397709174) (2026-11-19)
 - [aslater](https://x.com/aslater/status/2101045956695449691) (2026-09-22)
 - [beamnxw](https://x.com/beamnxw/status/2084288199237517417) (2026-08-05)
 - [codewithimanshu](https://x.com/codewithimanshu/status/2117795556500394210) (2026-11-09)
