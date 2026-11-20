@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-11-19
-total_mentions: 1325
+last_seen: 2026-11-20
+total_mentions: 1339
 
 ## Related Tweets
 - [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
@@ -27,6 +27,7 @@ total_mentions: 1325
 - [0xSoural](https://x.com/0xSoural/status/2104209622059958759) (2026-09-28)
 - [0xWast3](https://x.com/0xWast3/status/2077395455005131005) (2026-07-16)
 - [0xeduu](https://x.com/0xeduu/status/2082157204199608411) (2026-07-29)
+- [0xnicc0](https://x.com/0xnicc0/status/2123031084497531060) (2026-11-20)
 - [0xor0ne](https://x.com/0xor0ne/status/2108943257078050849) (2026-10-11)
 - [0xrux](https://x.com/0xrux/status/2089047128857284967) (2026-08-18)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2063244577482440978) (2026-06-11)
@@ -47,6 +48,7 @@ total_mentions: 1325
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2095414392557068291) (2026-09-04)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2113197047943975145) (2026-10-27)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2121101551074742645) (2026-11-13)
+- [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2123326198323568853) (2026-11-20)
 - [AaronScottAI](https://x.com/AaronScottAI/status/2114690488779567313) (2026-10-30)
 - [AgenticAIFdn](https://x.com/AgenticAIFdn/status/2077740129284764108) (2026-07-17)
 - [AiAircle34052](https://x.com/AiAircle34052/status/2095375741093572997) (2026-09-03)
@@ -231,6 +233,7 @@ total_mentions: 1325
 - [HeyGenDev](https://x.com/HeyGenDev/status/2111151435778039811) (2026-10-17)
 - [HeyShobhan](https://x.com/HeyShobhan/status/2107810215680987529) (2026-10-11)
 - [HeyShobhan](https://x.com/HeyShobhan/status/2122995323161493820) (2026-11-19)
+- [HeyShobhan](https://x.com/HeyShobhan/status/2123655270899531794) (2026-11-20)
 - [Hey_Scarlett5](https://x.com/Hey_Scarlett5/status/2122347455572505067) (2026-11-17)
 - [Hey_karl](https://x.com/Hey_karl/status/2120742712270020841) (2026-11-12)
 - [HoodAI0x](https://x.com/HoodAI0x/status/2079228983309176849) (2026-07-21)
@@ -315,6 +318,8 @@ total_mentions: 1325
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106601226276118967) (2026-10-05)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2109514844252807435) (2026-10-12)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2113503183997719010) (2026-10-25)
+- [Mohiniuni](https://x.com/Mohiniuni/status/2121475716491706781) (2026-11-20)
+- [Mohiniuni](https://x.com/Mohiniuni/status/2123423552355598415) (2026-11-20)
 - [Mokhalil01](https://x.com/Mokhalil01/status/2122529519706034673) (2026-11-18)
 - [MoureDev](https://x.com/MoureDev/status/2092961532766212193) (2026-09-03)
 - [MrDasOnX](https://x.com/MrDasOnX/status/2066029379512418431) (2026-06-14)
@@ -348,6 +353,7 @@ total_mentions: 1325
 - [OpusClip](https://x.com/OpusClip/status/2077773391239778589) (2026-07-17)
 - [Origin_AI_01](https://x.com/Origin_AI_01/status/2078002803809849703) (2026-07-17)
 - [Origin_AI_01](https://x.com/Origin_AI_01/status/2096073337881641428) (2026-09-05)
+- [OvermindLab](https://x.com/OvermindLab/status/2123446316428567017) (2026-11-20)
 - [ParsaKhaz](https://x.com/ParsaKhaz/status/2107923062696091836) (2026-10-08)
 - [Peak__Twilight](https://x.com/Peak__Twilight/status/2119475616030630059) (2026-11-13)
 - [Pirat_Nation](https://x.com/Pirat_Nation/status/2111133243252588699) (2026-10-17)
@@ -779,6 +785,7 @@ total_mentions: 1325
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
 - [e_opore](https://x.com/e_opore/status/2109509666392707497) (2026-10-17)
 - [e_opore](https://x.com/e_opore/status/2122002975912526242) (2026-11-16)
+- [e_opore](https://x.com/e_opore/status/2123105505602134090) (2026-11-20)
 - [elbyron0](https://x.com/elbyron0/status/2121048007596789853) (2026-11-15)
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
 - [eliana_jordan](https://x.com/eliana_jordan/status/2071647509332598909) (2026-06-30)
@@ -792,6 +799,7 @@ total_mentions: 1325
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2060824760859431275) (2026-06-05)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2064019609062101321) (2026-06-09)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2077696199486775764) (2026-07-18)
+- [ephraim888sun](https://x.com/ephraim888sun/status/2122911791126614166) (2026-11-20)
 - [epicmnw](https://x.com/epicmnw/status/2065311091027251222) (2026-06-12)
 - [ericleribertson](https://x.com/ericleribertson/status/2116880860766990355) (2026-11-02)
 - [ericzakariasson](https://x.com/ericzakariasson/status/2102853511637774551) (2026-09-26)
@@ -981,6 +989,7 @@ total_mentions: 1325
 - [meliasiih](https://x.com/meliasiih/status/2064702135305220483) (2026-06-12)
 - [melisx402](https://x.com/melisx402/status/2070835381684048269) (2026-06-29)
 - [mentalium_](https://x.com/mentalium_/status/2110382934720929967) (2026-10-18)
+- [mentalium_](https://x.com/mentalium_/status/2123446595286860200) (2026-11-20)
 - [michaelgold](https://x.com/michaelgold/status/2097072609351405641) (2026-09-11)
 - [michaelgold](https://x.com/michaelgold/status/2098516800107348175) (2026-09-12)
 - [midjourney](https://x.com/midjourney/status/2108717365068509447) (2026-10-10)
@@ -1034,6 +1043,7 @@ total_mentions: 1325
 - [ndmccormack](https://x.com/ndmccormack/status/2112701653098930296) (2026-10-21)
 - [nicbstme](https://x.com/nicbstme/status/2121690979904446885) (2026-11-18)
 - [nickvasilescu](https://x.com/nickvasilescu/status/2110443186317574208) (2026-10-15)
+- [nickvasilescu](https://x.com/nickvasilescu/status/2123519639506575491) (2026-11-20)
 - [noechague](https://x.com/noechague/status/2115881352822493630) (2026-10-30)
 - [noechague](https://x.com/noechague/status/2116243745821937803) (2026-10-31)
 - [noechague](https://x.com/noechague/status/2121028068794069381) (2026-11-13)
@@ -1245,6 +1255,7 @@ total_mentions: 1325
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2115418146156736697) (2026-11-02)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2115876572464812071) (2026-10-31)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2118770137646162218) (2026-11-07)
+- [thegreatest_sv](https://x.com/thegreatest_sv/status/2122398294152212851) (2026-11-20)
 - [theo](https://x.com/theo/status/2087280199406903762) (2026-08-12)
 - [theo](https://x.com/theo/status/2092455706582499815) (2026-08-26)
 - [theo](https://x.com/theo/status/2115409288432906341) (2026-10-29)
@@ -1260,6 +1271,9 @@ total_mentions: 1325
 - [timsneath](https://x.com/timsneath/status/2072479088661651612) (2026-07-02)
 - [timsneath](https://x.com/timsneath/status/2103559230888513905) (2026-09-30)
 - [tobiadonadon_](https://x.com/tobiadonadon_/status/2123093888172798444) (2026-11-19)
+- [tobiadonadon_](https://x.com/tobiadonadon_/status/2123183823785435153) (2026-11-20)
+- [tobiadonadon_](https://x.com/tobiadonadon_/status/2123448120113766598) (2026-11-20)
+- [tobiadonadon_](https://x.com/tobiadonadon_/status/2123517815324111060) (2026-11-20)
 - [tom_doerr](https://x.com/tom_doerr/status/2062864987970797651) (2026-06-12)
 - [tom_doerr](https://x.com/tom_doerr/status/2066042496933662753) (2026-06-14)
 - [tom_doerr](https://x.com/tom_doerr/status/2071309381455519803) (2026-06-29)

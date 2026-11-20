@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-19
-total_mentions: 244
+last_seen: 2026-11-20
+total_mentions: 247
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -94,6 +94,7 @@ total_mentions: 244
 - [TimesOfAI_](https://x.com/TimesOfAI_/status/2085233016067211331) (2026-08-12)
 - [Voxyz_ai](https://x.com/Voxyz_ai/status/2089324197981950408) (2026-08-19)
 - [XFreeze](https://x.com/XFreeze/status/2065333739312590983) (2026-06-12)
+- [XYLi_Bruce](https://x.com/XYLi_Bruce/status/2123613817129116038) (2026-11-20)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2095668162624618959) (2026-09-05)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2097846768323133559) (2026-09-10)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2111979391546773875) (2026-10-19)
@@ -148,12 +149,14 @@ total_mentions: 244
 - [e_opore](https://x.com/e_opore/status/2109509666392707497) (2026-10-17)
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
 - [emmanuel_2m](https://x.com/emmanuel_2m/status/2103097017073361137) (2026-09-25)
+- [ephraim888sun](https://x.com/ephraim888sun/status/2122911791126614166) (2026-11-20)
 - [ericzakariasson](https://x.com/ericzakariasson/status/2102853511637774551) (2026-09-26)
 - [evilrabbit_](https://x.com/evilrabbit_/status/2116581580995194985) (2026-11-01)
 - [expo](https://x.com/expo/status/2111093147103310022) (2026-10-17)
 - [figma](https://x.com/figma/status/2112669039009104059) (2026-10-21)
 - [finkd](https://x.com/finkd/status/2085080750034940201) (2026-08-06)
 - [firstadopter](https://x.com/firstadopter/status/2110528384807956680) (2026-10-15)
+- [flxrnc](https://x.com/flxrnc/status/2123392905934999811) (2026-11-20)
 - [ginacostag_](https://x.com/ginacostag_/status/2107123580672541113) (2026-10-12)
 - [gippp69](https://x.com/gippp69/status/2088943002467115352) (2026-08-17)
 - [gokulr](https://x.com/gokulr/status/2062638283100930085) (2026-06-08)

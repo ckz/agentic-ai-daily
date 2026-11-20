@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-11-19
-total_mentions: 201
+last_seen: 2026-11-20
+total_mentions: 206
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2118133694217306408) (2026-11-06)
@@ -117,6 +117,7 @@ total_mentions: 201
 - [dwarkesh_sp](https://x.com/dwarkesh_sp/status/2070672008946589922) (2026-06-27)
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
 - [ehsanik](https://x.com/ehsanik/status/2070544602164330561) (2026-06-27)
+- [ephraim888sun](https://x.com/ephraim888sun/status/2122911791126614166) (2026-11-20)
 - [evilrabbit_](https://x.com/evilrabbit_/status/2116581580995194985) (2026-11-01)
 - [figbrains](https://x.com/figbrains/status/2118372778453647601) (2026-11-06)
 - [finnvoorhees](https://x.com/finnvoorhees/status/2108279639538012265) (2026-10-09)
@@ -149,12 +150,14 @@ total_mentions: 201
 - [liamottley_](https://x.com/liamottley_/status/2106542593597198765) (2026-10-04)
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2073646837894992126) (2026-07-05)
 - [markchen90](https://x.com/markchen90/status/2095597534412673109) (2026-09-04)
+- [markgurman](https://x.com/markgurman/status/2123534050585460964) (2026-11-20)
 - [martin_casado](https://x.com/martin_casado/status/2096648261759389983) (2026-09-07)
 - [matchaman11](https://x.com/matchaman11/status/2105009171976610030) (2026-09-30)
 - [math_fournity](https://x.com/math_fournity/status/2112268963610857875) (2026-10-25)
 - [mattdeitke](https://x.com/mattdeitke/status/2102912355638382997) (2026-09-26)
 - [mattworkman](https://x.com/mattworkman/status/2114825275167175105) (2026-10-27)
 - [mdlahfir](https://x.com/mdlahfir/status/2116316228046500348) (2026-10-31)
+- [mentalium_](https://x.com/mentalium_/status/2123446595286860200) (2026-11-20)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2098738486014537803) (2026-09-13)
 - [mikoto2000](https://x.com/mikoto2000/status/2099270333522186365) (2026-09-14)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2075469825514824153) (2026-07-10)
@@ -162,6 +165,7 @@ total_mentions: 201
 - [n2parko](https://x.com/n2parko/status/2113664565858975758) (2026-10-24)
 - [nealkhosla](https://x.com/nealkhosla/status/2106494469118013844) (2026-10-04)
 - [nicbstme](https://x.com/nicbstme/status/2088014852954669300) (2026-08-14)
+- [nickvasilescu](https://x.com/nickvasilescu/status/2123519639506575491) (2026-11-20)
 - [norapsi](https://x.com/norapsi/status/2095180581550305503) (2026-09-03)
 - [petergyang](https://x.com/petergyang/status/2101862331345154469) (2026-09-21)
 - [pierceboggan](https://x.com/pierceboggan/status/2105740520828043738) (2026-10-03)
@@ -201,6 +205,7 @@ total_mentions: 201
 - [vishalsingh2972](https://x.com/vishalsingh2972/status/2107389299633405956) (2026-10-07)
 - [vista8](https://x.com/vista8/status/2106647309102825969) (2026-10-05)
 - [wallstengine](https://x.com/wallstengine/status/2094155293261435063) (2026-09-01)
+- [wallstengine](https://x.com/wallstengine/status/2123533568307810634) (2026-11-20)
 - [wuyang_zhou](https://x.com/wuyang_zhou/status/2096548032128942370) (2026-09-11)
 - [xaijnt77357](https://x.com/xaijnt77357/status/2110242886574821662) (2026-10-14)
 - [yyyole](https://x.com/yyyole/status/2116729757446664326) (2026-11-01)

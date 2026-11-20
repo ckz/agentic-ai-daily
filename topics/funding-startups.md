@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-19
-total_mentions: 930
+last_seen: 2026-11-20
+total_mentions: 937
 
 ## Related Tweets
 - [0x0simba_eth](https://x.com/0x0simba_eth/status/2118895661722616112) (2026-11-07)
@@ -20,6 +20,7 @@ total_mentions: 930
 - [16vchq](https://x.com/16vchq/status/2109872657021952438) (2026-10-13)
 - [16vchq](https://x.com/16vchq/status/2111452434107334943) (2026-10-18)
 - [16vchq](https://x.com/16vchq/status/2122176799929250210) (2026-11-16)
+- [16vchq](https://x.com/16vchq/status/2123473588707868961) (2026-11-20)
 - [2whazzuup](https://x.com/2whazzuup/status/2113971733871104275) (2026-10-30)
 - [3blue1brown](https://x.com/3blue1brown/status/2111135480116850944) (2026-10-18)
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
@@ -182,6 +183,7 @@ total_mentions: 930
 - [Jacobsklug](https://x.com/Jacobsklug/status/2104914597606273395) (2026-10-06)
 - [JasonL_Capital](https://x.com/JasonL_Capital/status/2082434168235954267) (2026-08-05)
 - [JensenHuang](https://x.com/JensenHuang/status/2095482647355244762) (2026-09-05)
+- [JeremyHornHQ](https://x.com/JeremyHornHQ/status/2123146770029117766) (2026-11-20)
 - [JonathanGeige18](https://x.com/JonathanGeige18/status/2088972748953461219) (2026-08-17)
 - [KGeNazeemali12](https://x.com/KGeNazeemali12/status/2104059721334632768) (2026-09-27)
 - [Kalshi](https://x.com/Kalshi/status/2087547153736446426) (2026-08-14)
@@ -461,6 +463,7 @@ total_mentions: 930
 - [businessbarista](https://x.com/businessbarista/status/2122832668815478986) (2026-11-19)
 - [bykahlil](https://x.com/bykahlil/status/2079265093607637030) (2026-07-21)
 - [calvinchen](https://x.com/calvinchen/status/2113086111505645906) (2026-10-22)
+- [capital_3x](https://x.com/capital_3x/status/2123431053826371822) (2026-11-20)
 - [cashcat_Agent](https://x.com/cashcat_Agent/status/2117884246895341884) (2026-11-04)
 - [cb_doge](https://x.com/cb_doge/status/2062681226633523250) (2026-06-08)
 - [cb_doge](https://x.com/cb_doge/status/2072009965389443374) (2026-07-03)
@@ -502,6 +505,7 @@ total_mentions: 930
 - [cz_binance](https://x.com/cz_binance/status/2113611119445373422) (2026-10-29)
 - [dApp_boi](https://x.com/dApp_boi/status/2118124694855704728) (2026-11-05)
 - [danellisona](https://x.com/danellisona/status/2108357119787631069) (2026-10-09)
+- [danellisona](https://x.com/danellisona/status/2123386556836721030) (2026-11-20)
 - [dang_duytan](https://x.com/dang_duytan/status/2117439948723048760) (2026-11-03)
 - [danmall](https://x.com/danmall/status/2103615627323727941) (2026-09-27)
 - [darbyw](https://x.com/darbyw/status/2092718828405096955) (2026-08-27)
@@ -516,6 +520,7 @@ total_mentions: 930
 - [deedydas](https://x.com/deedydas/status/2121766500524589160) (2026-11-15)
 - [defyneric](https://x.com/defyneric/status/2109401860494791063) (2026-10-12)
 - [demishassabis](https://x.com/demishassabis/status/2122662616367853670) (2026-11-18)
+- [demiyang12](https://x.com/demiyang12/status/2122329595122758047) (2026-11-20)
 - [dhanyindraswara](https://x.com/dhanyindraswara/status/2108209744439812534) (2026-10-09)
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
 - [dharmesh](https://x.com/dharmesh/status/2093071931188597042) (2026-08-28)
@@ -525,6 +530,7 @@ total_mentions: 930
 - [djcows](https://x.com/djcows/status/2074245525021335998) (2026-07-12)
 - [dqnamo](https://x.com/dqnamo/status/2123076261522333845) (2026-11-19)
 - [e4ma_officiall](https://x.com/e4ma_officiall/status/2101889325449261187) (2026-09-21)
+- [eatrott3nfruits](https://x.com/eatrott3nfruits/status/2123650240213569743) (2026-11-20)
 - [ecomchigga](https://x.com/ecomchigga/status/2065176267637297566) (2026-06-13)
 - [edinsoncode](https://x.com/edinsoncode/status/2089677825125368297) (2026-08-19)
 - [edinsoncode](https://x.com/edinsoncode/status/2101265656498782671) (2026-09-20)
@@ -734,6 +740,7 @@ total_mentions: 930
 - [orbinumnetwork](https://x.com/orbinumnetwork/status/2102516025757520352) (2026-09-23)
 - [orihimexweb3](https://x.com/orihimexweb3/status/2119500651512389940) (2026-11-09)
 - [owenthcarey](https://x.com/owenthcarey/status/2098634072159658105) (2026-09-12)
+- [owenthcarey](https://x.com/owenthcarey/status/2123477303649034353) (2026-11-20)
 - [patrick_oshag](https://x.com/patrick_oshag/status/2089713931183153293) (2026-08-19)
 - [paulfinneyx](https://x.com/paulfinneyx/status/2116377446278914101) (2026-10-31)
 - [paulg](https://x.com/paulg/status/2063091245334044902) (2026-06-06)

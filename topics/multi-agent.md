@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-11-19
-total_mentions: 458
+last_seen: 2026-11-20
+total_mentions: 462
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -244,6 +244,7 @@ total_mentions: 458
 - [amitiitbhu](https://x.com/amitiitbhu/status/2086314842940649549) (2026-08-09)
 - [angeldot_](https://x.com/angeldot_/status/2114374287549157402) (2026-10-26)
 - [antigravity](https://x.com/antigravity/status/2070930161785069927) (2026-06-29)
+- [antinuous_](https://x.com/antinuous_/status/2123507055046902177) (2026-11-20)
 - [antpalkin](https://x.com/antpalkin/status/2083984184637374655) (2026-08-03)
 - [antpalkin](https://x.com/antpalkin/status/2102103070112936071) (2026-09-25)
 - [appliedcompute](https://x.com/appliedcompute/status/2082197728243880226) (2026-08-03)
@@ -289,6 +290,7 @@ total_mentions: 458
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
 - [e_opore](https://x.com/e_opore/status/2109509666392707497) (2026-10-17)
 - [e_opore](https://x.com/e_opore/status/2122002975912526242) (2026-11-16)
+- [e_opore](https://x.com/e_opore/status/2123105505602134090) (2026-11-20)
 - [eigenlabs](https://x.com/eigenlabs/status/2062540745601384785) (2026-06-08)
 - [elder_plinius](https://x.com/elder_plinius/status/2073579120135664102) (2026-07-05)
 - [elora_khatun](https://x.com/elora_khatun/status/2074711871069032615) (2026-07-08)
@@ -348,6 +350,7 @@ total_mentions: 458
 - [matei_zaharia](https://x.com/matei_zaharia/status/2065827057624605146) (2026-06-14)
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [maverickecom](https://x.com/maverickecom/status/2081715179914412252) (2026-07-30)
+- [mentalium_](https://x.com/mentalium_/status/2123446595286860200) (2026-11-20)
 - [michaeljburry](https://x.com/michaeljburry/status/2075836197230813517) (2026-07-11)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2087754775496699923) (2026-08-13)
 - [mirku21](https://x.com/mirku21/status/2103952805715492895) (2026-09-28)
@@ -368,6 +371,7 @@ total_mentions: 458
 - [opentensor](https://x.com/opentensor/status/2078858375081627985) (2026-07-21)
 - [pankajkumar_dev](https://x.com/pankajkumar_dev/status/2083391622939815963) (2026-08-01)
 - [patio11](https://x.com/patio11/status/2085495343043547391) (2026-08-11)
+- [perplexity_ai](https://x.com/perplexity_ai/status/2122352071295009156) (2026-11-20)
 - [pliang279](https://x.com/pliang279/status/2113300326015275424) (2026-10-25)
 - [plusxbt](https://x.com/plusxbt/status/2123119657565737278) (2026-11-19)
 - [polydao](https://x.com/polydao/status/2066048742625821003) (2026-06-14)

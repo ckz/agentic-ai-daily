@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-19
-total_mentions: 706
+last_seen: 2026-11-20
+total_mentions: 713
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -33,6 +33,7 @@ total_mentions: 706
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2095414392557068291) (2026-09-04)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2107745162344734922) (2026-10-13)
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2121101551074742645) (2026-11-13)
+- [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2123326198323568853) (2026-11-20)
 - [AaronScottAI](https://x.com/AaronScottAI/status/2114690488779567313) (2026-10-30)
 - [AaronxShepherd](https://x.com/AaronxShepherd/status/2103922782400590334) (2026-09-27)
 - [AiCamila_](https://x.com/AiCamila_/status/2076911076885823887) (2026-07-15)
@@ -135,6 +136,7 @@ total_mentions: 706
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2120488879799365754) (2026-11-17)
 - [DrJimFan](https://x.com/DrJimFan/status/2111128797181567466) (2026-10-17)
 - [DrJimFan](https://x.com/DrJimFan/status/2120186651741655428) (2026-11-14)
+- [DrJoyee](https://x.com/DrJoyee/status/2122131178128130346) (2026-11-20)
 - [EmmanuelInvest](https://x.com/EmmanuelInvest/status/2076724041302319246) (2026-07-14)
 - [EthenaFndtn](https://x.com/EthenaFndtn/status/2092976592738001383) (2026-08-28)
 - [Ewhachain](https://x.com/Ewhachain/status/2065335748807823612) (2026-06-12)
@@ -223,6 +225,7 @@ total_mentions: 706
 - [LunarResearcher](https://x.com/LunarResearcher/status/2120864524286726539) (2026-11-13)
 - [LuxTomX](https://x.com/LuxTomX/status/2121875429023977734) (2026-11-15)
 - [MAXdeg0](https://x.com/MAXdeg0/status/2092142425879855254) (2026-08-28)
+- [Mafiabd69](https://x.com/Mafiabd69/status/2123672693736341743) (2026-11-20)
 - [MarcoSalzmann80](https://x.com/MarcoSalzmann80/status/2104518722400522384) (2026-11-04)
 - [MarcoSalzmann80](https://x.com/MarcoSalzmann80/status/2111738172015046745) (2026-10-24)
 - [MarioNawfal](https://x.com/MarioNawfal/status/2085171754415038482) (2026-08-06)
@@ -376,6 +379,7 @@ total_mentions: 706
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2078460229365408100) (2026-07-23)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2083815836003996033) (2026-08-07)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2084688207351087392) (2026-08-06)
+- [akshayadinesh19](https://x.com/akshayadinesh19/status/2123540975062860286) (2026-11-20)
 - [alamincryptox](https://x.com/alamincryptox/status/2101702938519367955) (2026-09-21)
 - [alex_prompter](https://x.com/alex_prompter/status/2071609730293022963) (2026-06-30)
 - [alex_prompter](https://x.com/alex_prompter/status/2077470394303627395) (2026-07-17)
@@ -451,6 +455,7 @@ total_mentions: 706
 - [deanwperkins](https://x.com/deanwperkins/status/2120509133463986668) (2026-11-16)
 - [deezzex](https://x.com/deezzex/status/2114306170072473919) (2026-10-28)
 - [devXritesh](https://x.com/devXritesh/status/2107075587529396377) (2026-10-10)
+- [devinjameson](https://x.com/devinjameson/status/2123473797848424931) (2026-11-20)
 - [dexhorthy](https://x.com/dexhorthy/status/2067286892786454855) (2026-06-19)
 - [digitalocean](https://x.com/digitalocean/status/2102414817797550320) (2026-09-24)
 - [divaagurlxw](https://x.com/divaagurlxw/status/2087756697469440442) (2026-08-15)
@@ -469,10 +474,12 @@ total_mentions: 706
 - [e_opore](https://x.com/e_opore/status/2077591797727887532) (2026-07-22)
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
 - [e_opore](https://x.com/e_opore/status/2109509666392707497) (2026-10-17)
+- [e_opore](https://x.com/e_opore/status/2123105505602134090) (2026-11-20)
 - [ecomchigga](https://x.com/ecomchigga/status/2065176267637297566) (2026-06-13)
 - [ekkostudio](https://x.com/ekkostudio/status/2107329859580047871) (2026-10-06)
 - [elizaOS](https://x.com/elizaOS/status/1874223078403682672) (2026-07-10)
 - [elora_khatun](https://x.com/elora_khatun/status/2074711871069032615) (2026-07-08)
+- [ephraim888sun](https://x.com/ephraim888sun/status/2122911791126614166) (2026-11-20)
 - [ericzakariasson](https://x.com/ericzakariasson/status/2102853511637774551) (2026-09-26)
 - [ethereum](https://x.com/ethereum/status/2079217433059996150) (2026-07-23)
 - [evanderburg](https://x.com/evanderburg/status/2087412401717359059) (2026-08-12)

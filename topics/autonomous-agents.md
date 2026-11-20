@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-19
-total_mentions: 1798
+last_seen: 2026-11-20
+total_mentions: 1811
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -383,6 +383,7 @@ total_mentions: 1798
 - [DrDatta_AIIMS](https://x.com/DrDatta_AIIMS/status/2085258786403655808) (2026-08-13)
 - [DrJimFan](https://x.com/DrJimFan/status/2111128797181567466) (2026-10-17)
 - [DrJimFan](https://x.com/DrJimFan/status/2120186651741655428) (2026-11-14)
+- [DrJoyee](https://x.com/DrJoyee/status/2122131178128130346) (2026-11-20)
 - [Dr_Singularity](https://x.com/Dr_Singularity/status/2094797783601414196) (2026-09-03)
 - [Dr_Singularity](https://x.com/Dr_Singularity/status/2095235432778813918) (2026-09-03)
 - [Dzola17](https://x.com/Dzola17/status/2103778564072239219) (2026-09-27)
@@ -456,6 +457,7 @@ total_mentions: 1798
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
 - [HeyShobhan](https://x.com/HeyShobhan/status/2107810215680987529) (2026-10-11)
 - [HeyShobhan](https://x.com/HeyShobhan/status/2122995323161493820) (2026-11-19)
+- [HeyShobhan](https://x.com/HeyShobhan/status/2123655270899531794) (2026-11-20)
 - [Hey_Scarlett5](https://x.com/Hey_Scarlett5/status/2122347455572505067) (2026-11-17)
 - [HoodieFade_](https://x.com/HoodieFade_/status/2112634990542692708) (2026-10-25)
 - [HoodieFade_](https://x.com/HoodieFade_/status/2119824593753956844) (2026-11-10)
@@ -560,6 +562,7 @@ total_mentions: 1798
 - [MTSlive](https://x.com/MTSlive/status/2085098975707996558) (2026-08-06)
 - [MTSlive](https://x.com/MTSlive/status/2086556207033266539) (2026-08-12)
 - [MackenZ_arnold](https://x.com/MackenZ_arnold/status/2116229116357681200) (2026-10-31)
+- [Mafiabd69](https://x.com/Mafiabd69/status/2123672693736341743) (2026-11-20)
 - [Magne_Ai](https://x.com/Magne_Ai/status/2073257996637896904) (2026-07-05)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2083264047299092486) (2026-08-02)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2085433401562308987) (2026-08-07)
@@ -605,6 +608,7 @@ total_mentions: 1798
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106601226276118967) (2026-10-05)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2109514844252807435) (2026-10-12)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2113503183997719010) (2026-10-25)
+- [Mohiniuni](https://x.com/Mohiniuni/status/2123423552355598415) (2026-11-20)
 - [MoonDevOnYT](https://x.com/MoonDevOnYT/status/2072462757379612916) (2026-07-07)
 - [Motionfly_co](https://x.com/Motionfly_co/status/2089054633121419468) (2026-08-17)
 - [MrOnsase](https://x.com/MrOnsase/status/2075841247223165124) (2026-07-11)
@@ -765,6 +769,7 @@ total_mentions: 1798
 - [ShenSeanChen](https://x.com/ShenSeanChen/status/2086931006376784130) (2026-08-13)
 - [ShinkaIoT](https://x.com/ShinkaIoT/status/2082668875263385771) (2026-07-30)
 - [ShinyNfts](https://x.com/ShinyNfts/status/2109878729488900524) (2026-10-13)
+- [SihanXuOfficial](https://x.com/SihanXuOfficial/status/2123116196342223229) (2026-11-20)
 - [SimularAI](https://x.com/SimularAI/status/2107168861388980400) (2026-10-08)
 - [Sirhassan21](https://x.com/Sirhassan21/status/2100448401154339293) (2026-09-21)
 - [Slappjakke](https://x.com/Slappjakke/status/1924051973378314393) (2026-07-10)
@@ -1197,6 +1202,7 @@ total_mentions: 1798
 - [e_opore](https://x.com/e_opore/status/2077591797727887532) (2026-07-22)
 - [e_opore](https://x.com/e_opore/status/2077958272783442257) (2026-07-22)
 - [e_opore](https://x.com/e_opore/status/2109509666392707497) (2026-10-17)
+- [e_opore](https://x.com/e_opore/status/2123105505602134090) (2026-11-20)
 - [edinsoncode](https://x.com/edinsoncode/status/2089677825125368297) (2026-08-19)
 - [efecim1sn](https://x.com/efecim1sn/status/2070586181566538161) (2026-06-27)
 - [efipm](https://x.com/efipm/status/2031736307781611664) (2026-10-12)
@@ -1220,6 +1226,7 @@ total_mentions: 1798
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2077751107531493523) (2026-07-17)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2084974440895410625) (2026-08-07)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2107580383357542646) (2026-10-11)
+- [ephraim888sun](https://x.com/ephraim888sun/status/2122911791126614166) (2026-11-20)
 - [eragon5121](https://x.com/eragon5121/status/2077283768704926200) (2026-07-15)
 - [ericosiu](https://x.com/ericosiu/status/2091231428184822258) (2026-08-25)
 - [ericosiu](https://x.com/ericosiu/status/2101657640753570113) (2026-09-21)
@@ -1393,6 +1400,7 @@ total_mentions: 1798
 - [levie](https://x.com/levie/status/2098218284139311615) (2026-09-11)
 - [levie](https://x.com/levie/status/2099739019517235618) (2026-09-15)
 - [levie](https://x.com/levie/status/2112769686798832013) (2026-10-23)
+- [levie](https://x.com/levie/status/2123278949749059756) (2026-11-20)
 - [lewiscarhart](https://x.com/lewiscarhart/status/2083610805069611230) (2026-08-02)
 - [liadyosef](https://x.com/liadyosef/status/2109684444651241505) (2026-10-13)
 - [liambraus](https://x.com/liambraus/status/2096648475366539321) (2026-09-07)
@@ -1423,6 +1431,7 @@ total_mentions: 1798
 - [marfinxx](https://x.com/marfinxx/status/2107093610604765199) (2026-10-10)
 - [marfinxx](https://x.com/marfinxx/status/2114343835031441771) (2026-10-27)
 - [markgurman](https://x.com/markgurman/status/2119451386111005129) (2026-11-10)
+- [markgurman](https://x.com/markgurman/status/2123534050585460964) (2026-11-20)
 - [marryevan999](https://x.com/marryevan999/status/2077795286332952816) (2026-07-18)
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [maxescu](https://x.com/maxescu/status/2087195649561317511) (2026-08-13)
@@ -1432,6 +1441,7 @@ total_mentions: 1798
 - [mdshefat217](https://x.com/mdshefat217/status/2114557706434752543) (2026-10-26)
 - [melisx402](https://x.com/melisx402/status/2070835381684048269) (2026-06-29)
 - [mentalium_](https://x.com/mentalium_/status/2118723483286778349) (2026-11-09)
+- [mentalium_](https://x.com/mentalium_/status/2123446595286860200) (2026-11-20)
 - [merill](https://x.com/merill/status/2081882573551399136) (2026-08-01)
 - [meta_alchemist](https://x.com/meta_alchemist/status/2086949064177037782) (2026-08-11)
 - [michaeljburry](https://x.com/michaeljburry/status/2075836197230813517) (2026-07-11)
@@ -1532,6 +1542,7 @@ total_mentions: 1798
 - [papertrade_xyz](https://x.com/papertrade_xyz/status/2112310325521399982) (2026-10-24)
 - [paywithmana](https://x.com/paywithmana/status/2074758476220473387) (2026-07-08)
 - [perksverse](https://x.com/perksverse/status/2100863579650236804) (2026-09-22)
+- [perplexity_ai](https://x.com/perplexity_ai/status/2122352071295009156) (2026-11-20)
 - [perptools](https://x.com/perptools/status/2019772688534020572) (2026-10-22)
 - [petergyang](https://x.com/petergyang/status/2101862331345154469) (2026-09-21)
 - [plusxbt](https://x.com/plusxbt/status/2123119657565737278) (2026-11-19)
@@ -1781,6 +1792,7 @@ total_mentions: 1798
 - [virtuals_io](https://x.com/virtuals_io/status/2083239280508629254) (2026-08-02)
 - [vllm_project](https://x.com/vllm_project/status/2097427310513426721) (2026-09-12)
 - [voidwarriorchan](https://x.com/voidwarriorchan/status/2095708889300033590) (2026-09-04)
+- [wallstengine](https://x.com/wallstengine/status/2123533568307810634) (2026-11-20)
 - [wallstreetbets](https://x.com/wallstreetbets/status/2075690313528570071) (2026-07-13)
 - [warpdotdev](https://x.com/warpdotdev/status/1937525185843752969) (2026-06-07)
 - [waveking1314](https://x.com/waveking1314/status/2063184011770671115) (2026-06-09)
@@ -1788,6 +1800,7 @@ total_mentions: 1798
 - [wilsonnwafor_](https://x.com/wilsonnwafor_/status/2076919122479185990) (2026-07-14)
 - [x_insider4](https://x.com/x_insider4/status/2115048978194510217) (2026-10-28)
 - [xenovacom](https://x.com/xenovacom/status/2070210622239707568) (2026-06-27)
+- [xiaomovps](https://x.com/xiaomovps/status/2123605050014748713) (2026-11-20)
 - [xiaoying_eth](https://x.com/xiaoying_eth/status/2064183483795460502) (2026-06-10)
 - [xoggai](https://x.com/xoggai/status/2071621434619957408) (2026-06-30)
 - [yabebets](https://x.com/yabebets/status/2109566114426732649) (2026-10-15)

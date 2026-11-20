@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-19
-total_mentions: 388
+last_seen: 2026-11-20
+total_mentions: 393
 
 ## Related Tweets
 - [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
@@ -113,6 +113,7 @@ total_mentions: 388
 - [MetaforDevs](https://x.com/MetaforDevs/status/2072474629852348684) (2026-07-02)
 - [MikeLongTerm](https://x.com/MikeLongTerm/status/2083580958519783522) (2026-08-07)
 - [MisssRegal](https://x.com/MisssRegal/status/2121875549928755534) (2026-11-15)
+- [Mohiniuni](https://x.com/Mohiniuni/status/2123423552355598415) (2026-11-20)
 - [N01ennn](https://x.com/N01ennn/status/2088606747531358505) (2026-08-21)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
 - [N01ennn](https://x.com/N01ennn/status/2089455117716406706) (2026-08-18)
@@ -175,6 +176,7 @@ total_mentions: 388
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2083815836003996033) (2026-08-07)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2085791632457433119) (2026-08-09)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2122319449969803508) (2026-11-18)
+- [akshayadinesh19](https://x.com/akshayadinesh19/status/2123540975062860286) (2026-11-20)
 - [alex_verem](https://x.com/alex_verem/status/2095920078231625991) (2026-09-10)
 - [alex_verem](https://x.com/alex_verem/status/2096977799873712631) (2026-09-08)
 - [allenanalysis](https://x.com/allenanalysis/status/2048915153895481554) (2026-10-17)
@@ -293,6 +295,7 @@ total_mentions: 388
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [kunalstwt](https://x.com/kunalstwt/status/2073978095644643520) (2026-07-06)
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
+- [lionel_mora](https://x.com/lionel_mora/status/2123464205525221709) (2026-11-20)
 - [lksmlabc](https://x.com/lksmlabc/status/2096524556123115628) (2026-09-09)
 - [longhaiqwe123](https://x.com/longhaiqwe123/status/2114031712430948410) (2026-10-25)
 - [m9rcn](https://x.com/m9rcn/status/2120568368067735742) (2026-11-12)
@@ -301,6 +304,7 @@ total_mentions: 388
 - [marfinxx](https://x.com/marfinxx/status/2102729802708918385) (2026-09-24)
 - [marfinxx](https://x.com/marfinxx/status/2107093610604765199) (2026-10-10)
 - [marfinxx](https://x.com/marfinxx/status/2114343835031441771) (2026-10-27)
+- [markgurman](https://x.com/markgurman/status/2123534050585460964) (2026-11-20)
 - [masahirochaen](https://x.com/masahirochaen/status/2108420294570574068) (2026-10-13)
 - [matei_zaharia](https://x.com/matei_zaharia/status/2065827057624605146) (2026-06-14)
 - [mika_systems](https://x.com/mika_systems/status/2119080680021692927) (2026-11-08)
@@ -368,6 +372,7 @@ total_mentions: 388
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2111881943117664275) (2026-10-19)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2114739076796428729) (2026-10-28)
 - [thegreatest_sv](https://x.com/thegreatest_sv/status/2115418146156736697) (2026-11-02)
+- [thegreatest_sv](https://x.com/thegreatest_sv/status/2122398294152212851) (2026-11-20)
 - [thinking_slow](https://x.com/thinking_slow/status/2063989600729604310) (2026-06-10)
 - [thisguyknowsai](https://x.com/thisguyknowsai/status/2081680037544427793) (2026-07-28)
 - [timsneath](https://x.com/timsneath/status/2072479088661651612) (2026-07-02)
