@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-20
-total_mentions: 1811
+last_seen: 2026-11-21
+total_mentions: 1812
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -1316,6 +1316,7 @@ total_mentions: 1811
 - [iamrexei](https://x.com/iamrexei/status/2091465106303471964) (2026-08-28)
 - [iamriteshverma](https://x.com/iamriteshverma/status/2068569760196108667) (2026-06-21)
 - [ianlivingstone](https://x.com/ianlivingstone/status/2110026335892693464) (2026-10-17)
+- [iansh04_](https://x.com/iansh04_/status/2123952035644993625) (2026-11-21)
 - [ibab](https://x.com/ibab/status/1955741698690322585) (2026-07-12)
 - [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2077068944997761333) (2026-07-15)
 - [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2097752959526330501) (2026-09-10)

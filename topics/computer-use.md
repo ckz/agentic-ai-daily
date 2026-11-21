@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-11-20
-total_mentions: 206
+last_seen: 2026-11-21
+total_mentions: 209
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2118133694217306408) (2026-11-06)
@@ -70,6 +70,7 @@ total_mentions: 206
 - [TokenGremlin](https://x.com/TokenGremlin/status/2104985693319500226) (2026-10-06)
 - [VaibhavSisinty](https://x.com/VaibhavSisinty/status/2094315036995166499) (2026-09-01)
 - [WesRoth](https://x.com/WesRoth/status/2063833395298533464) (2026-06-10)
+- [XLangNLP](https://x.com/XLangNLP/status/2123881231465222655) (2026-11-21)
 - [XiaomiMiMoDevs](https://x.com/XiaomiMiMoDevs/status/2097217950700679503) (2026-09-08)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2090597249130635389) (2026-08-22)
 - [a16z](https://x.com/a16z/status/2086906363947737406) (2026-08-11)
@@ -151,6 +152,7 @@ total_mentions: 206
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2073646837894992126) (2026-07-05)
 - [markchen90](https://x.com/markchen90/status/2095597534412673109) (2026-09-04)
 - [markgurman](https://x.com/markgurman/status/2123534050585460964) (2026-11-20)
+- [markgurman](https://x.com/markgurman/status/2123535506168578127) (2026-11-21)
 - [martin_casado](https://x.com/martin_casado/status/2096648261759389983) (2026-09-07)
 - [matchaman11](https://x.com/matchaman11/status/2105009171976610030) (2026-09-30)
 - [math_fournity](https://x.com/math_fournity/status/2112268963610857875) (2026-10-25)
@@ -202,6 +204,7 @@ total_mentions: 206
 - [trycua](https://x.com/trycua/status/2102800643794591833) (2026-09-24)
 - [trycua](https://x.com/trycua/status/2103498682532253734) (2026-09-26)
 - [trycua](https://x.com/trycua/status/2118754889329230241) (2026-11-07)
+- [trycua](https://x.com/trycua/status/2122394591139975251) (2026-11-21)
 - [vishalsingh2972](https://x.com/vishalsingh2972/status/2107389299633405956) (2026-10-07)
 - [vista8](https://x.com/vista8/status/2106647309102825969) (2026-10-05)
 - [wallstengine](https://x.com/wallstengine/status/2094155293261435063) (2026-09-01)

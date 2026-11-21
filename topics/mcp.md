@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-11-20
-total_mentions: 1339
+last_seen: 2026-11-21
+total_mentions: 1345
 
 ## Related Tweets
 - [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
@@ -15,7 +15,9 @@ total_mentions: 1339
 - [0xCodila](https://x.com/0xCodila/status/2082515252445655186) (2026-07-30)
 - [0xDesigner](https://x.com/0xDesigner/status/2105028261558493219) (2026-09-30)
 - [0xDing](https://x.com/0xDing/status/2117883383489675593) (2026-11-07)
+- [0xForce_](https://x.com/0xForce_/status/2123984179293516250) (2026-11-21)
 - [0xJokker](https://x.com/0xJokker/status/2079215128621338703) (2026-07-23)
+- [0xKense1](https://x.com/0xKense1/status/2123879132090245223) (2026-11-21)
 - [0xMiraqle](https://x.com/0xMiraqle/status/2078063315767460057) (2026-07-18)
 - [0xMorlex](https://x.com/0xMorlex/status/2083551815895798048) (2026-08-02)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
@@ -183,6 +185,7 @@ total_mentions: 1339
 - [ElevenCreative](https://x.com/ElevenCreative/status/2110747896819929300) (2026-10-16)
 - [ElevenCreative](https://x.com/ElevenCreative/status/2117980490661785753) (2026-11-07)
 - [ElevenCreative](https://x.com/ElevenCreative/status/2120025947709837525) (2026-11-14)
+- [ElevenCreative](https://x.com/ElevenCreative/status/2123899471759286685) (2026-11-21)
 - [ElevenLabs](https://x.com/ElevenLabs/status/2099547227223908568) (2026-09-18)
 - [Emdad_AI](https://x.com/Emdad_AI/status/2091364911628910857) (2026-08-23)
 - [EngMoElgaraihy](https://x.com/EngMoElgaraihy/status/2083197718818611544) (2026-08-02)
@@ -245,6 +248,7 @@ total_mentions: 1339
 - [InduTripat82427](https://x.com/InduTripat82427/status/2062485176358486507) (2026-06-09)
 - [InduTripat82427](https://x.com/InduTripat82427/status/2063904128708022613) (2026-06-09)
 - [InfosecVandana](https://x.com/InfosecVandana/status/2096568141451297103) (2026-09-09)
+- [Infoxicador](https://x.com/Infoxicador/status/2123821517876212221) (2026-11-21)
 - [JayminSOfficial](https://x.com/JayminSOfficial/status/2112258390915445173) (2026-10-21)
 - [JesseisCooking](https://x.com/JesseisCooking/status/2103383326543495485) (2026-10-01)
 - [Jiacheng_Miao](https://x.com/Jiacheng_Miao/status/2100296661427999222) (2026-09-17)
@@ -501,6 +505,7 @@ total_mentions: 1339
 - [XFreeze](https://x.com/XFreeze/status/2100070332082389392) (2026-09-16)
 - [XFreeze](https://x.com/XFreeze/status/2107687399509913967) (2026-10-07)
 - [XFreeze](https://x.com/XFreeze/status/2108780374851793006) (2026-10-10)
+- [XFreeze](https://x.com/XFreeze/status/2123959003084664952) (2026-11-21)
 - [XQOPTRX](https://x.com/XQOPTRX/status/2098308310143238516) (2026-09-11)
 - [XenBH](https://x.com/XenBH/status/2074583978984485192) (2026-07-08)
 - [XiaomiMiMo](https://x.com/XiaomiMiMo/status/2064799879352959085) (2026-06-11)
@@ -903,6 +908,7 @@ total_mentions: 1339
 - [iamlukethedev](https://x.com/iamlukethedev/status/2121567368677818682) (2026-11-16)
 - [iamriteshverma](https://x.com/iamriteshverma/status/2068569760196108667) (2026-06-21)
 - [iamtanzil_](https://x.com/iamtanzil_/status/2108066324907962575) (2026-10-09)
+- [iansh04_](https://x.com/iansh04_/status/2123952035644993625) (2026-11-21)
 - [icanvardar](https://x.com/icanvardar/status/2071613504688173355) (2026-07-01)
 - [imarun_chauhan](https://x.com/imarun_chauhan/status/2063878197457134003) (2026-06-08)
 - [insomnia_vip](https://x.com/insomnia_vip/status/2065795417313325416) (2026-06-15)
