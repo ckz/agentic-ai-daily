@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-20
-total_mentions: 937
+last_seen: 2026-11-22
+total_mentions: 939
 
 ## Related Tweets
 - [0x0simba_eth](https://x.com/0x0simba_eth/status/2118895661722616112) (2026-11-07)
@@ -271,6 +271,7 @@ total_mentions: 937
 - [Prasanjit_ui](https://x.com/Prasanjit_ui/status/2072617513079251312) (2026-07-07)
 - [PrimareApp](https://x.com/PrimareApp/status/2075974349173961017) (2026-07-12)
 - [ProfBrianCox](https://x.com/ProfBrianCox/status/2082427049109602580) (2026-08-03)
+- [Prof_Abdulsalam](https://x.com/Prof_Abdulsalam/status/2124364786188079530) (2026-11-22)
 - [RITESHGHODELA](https://x.com/RITESHGHODELA/status/2063136905282429213) (2026-06-06)
 - [RafaelFQL](https://x.com/RafaelFQL/status/2079943052261457977) (2026-07-23)
 - [RealMarvelX](https://x.com/RealMarvelX/status/2118939309990354971) (2026-11-07)
@@ -519,6 +520,7 @@ total_mentions: 937
 - [deedydas](https://x.com/deedydas/status/2116669429866275148) (2026-11-02)
 - [deedydas](https://x.com/deedydas/status/2121766500524589160) (2026-11-15)
 - [defyneric](https://x.com/defyneric/status/2109401860494791063) (2026-10-12)
+- [demireren](https://x.com/demireren/status/2123555641025347675) (2026-11-22)
 - [demishassabis](https://x.com/demishassabis/status/2122662616367853670) (2026-11-18)
 - [demiyang12](https://x.com/demiyang12/status/2122329595122758047) (2026-11-20)
 - [dhanyindraswara](https://x.com/dhanyindraswara/status/2108209744439812534) (2026-10-09)

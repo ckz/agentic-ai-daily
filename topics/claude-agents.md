@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-21
-total_mentions: 394
+last_seen: 2026-11-22
+total_mentions: 400
 
 ## Related Tweets
 - [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
@@ -20,6 +20,7 @@ total_mentions: 394
 - [0xsacr3d](https://x.com/0xsacr3d/status/2122336408769597460) (2026-11-17)
 - [0xvati](https://x.com/0xvati/status/2102325309978927184) (2026-09-23)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2095134652688220236) (2026-09-04)
+- [0xwhrrari](https://x.com/0xwhrrari/status/2124138527189331995) (2026-11-22)
 - [51bodila](https://x.com/51bodila/status/2085020463290290504) (2026-08-06)
 - [AEON_Community](https://x.com/AEON_Community/status/2064694068677107745) (2026-06-11)
 - [AISecurityInst](https://x.com/AISecurityInst/status/2084746202579386632) (2026-08-06)
@@ -156,6 +157,7 @@ total_mentions: 394
 - [WesRoth](https://x.com/WesRoth/status/2043871865513619560) (2026-07-24)
 - [WesRoth](https://x.com/WesRoth/status/2062398945607725142) (2026-06-10)
 - [WesRoth](https://x.com/WesRoth/status/2088188889378836786) (2026-08-16)
+- [Wunderion](https://x.com/Wunderion/status/2123441614265741548) (2026-11-22)
 - [Xudong07452910](https://x.com/Xudong07452910/status/2109441921471205608) (2026-10-14)
 - [_0xpainn](https://x.com/_0xpainn/status/2062890740724703585) (2026-06-05)
 - [_0xpainn](https://x.com/_0xpainn/status/2070432605552451963) (2026-08-02)
@@ -256,6 +258,7 @@ total_mentions: 394
 - [eliebakouch](https://x.com/eliebakouch/status/2087904176357437820) (2026-08-14)
 - [emollick](https://x.com/emollick/status/2089233231853785118) (2026-08-17)
 - [emollick](https://x.com/emollick/status/2112332499917681028) (2026-10-20)
+- [emollick](https://x.com/emollick/status/2122664990624641421) (2026-11-22)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2061821319034143172) (2026-06-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2062244858686009455) (2026-06-08)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2105406253740740846) (2026-10-02)
@@ -288,6 +291,7 @@ total_mentions: 394
 - [jaredrhod](https://x.com/jaredrhod/status/2073840273914728935) (2026-07-06)
 - [jasonlk](https://x.com/jasonlk/status/2093792483977376045) (2026-08-31)
 - [jiang_kev](https://x.com/jiang_kev/status/2082496145994248488) (2026-07-30)
+- [john_ssuh](https://x.com/john_ssuh/status/2124336124172935336) (2026-11-22)
 - [johnwhereareu](https://x.com/johnwhereareu/status/2077603117928153169) (2026-07-16)
 - [jqdsouza](https://x.com/jqdsouza/status/2112552451547001218) (2026-10-21)
 - [karpathy](https://x.com/karpathy/status/2015883857489522876) (2026-09-19)
@@ -397,5 +401,7 @@ total_mentions: 394
 - [xsmryze](https://x.com/xsmryze/status/2113273069099688435) (2026-10-23)
 - [yurshevv](https://x.com/yurshevv/status/2113602375583719648) (2026-10-24)
 - [yurshevv](https://x.com/yurshevv/status/2119190722783981671) (2026-11-09)
+- [yurshevv](https://x.com/yurshevv/status/2123895083623690567) (2026-11-22)
 - [zayro_Prince](https://x.com/zayro_Prince/status/2120471403086414243) (2026-11-17)
+- [zodchiii](https://x.com/zodchiii/status/2124123109955621272) (2026-11-22)
 - [zostaff](https://x.com/zostaff/status/2110027184727343589) (2026-10-18)

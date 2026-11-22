@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-20
-total_mentions: 713
+last_seen: 2026-11-22
+total_mentions: 717
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -184,6 +184,7 @@ total_mentions: 713
 - [HelgaHinojosa](https://x.com/HelgaHinojosa/status/2120380509754916918) (2026-11-11)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2078813116377502120) (2026-07-30)
 - [HeyAnjula](https://x.com/HeyAnjula/status/2079614749575413866) (2026-07-22)
+- [HeySeokmooreai](https://x.com/HeySeokmooreai/status/2123266060468339070) (2026-11-22)
 - [HoodieFade_](https://x.com/HoodieFade_/status/2119824593753956844) (2026-11-10)
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2103804240866976237) (2026-09-27)
 - [Huawei](https://x.com/Huawei/status/2064239307838419399) (2026-06-09)
@@ -245,6 +246,7 @@ total_mentions: 713
 - [Mohansinha](https://x.com/Mohansinha/status/2079629691494060368) (2026-07-24)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106601226276118967) (2026-10-05)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2109514844252807435) (2026-10-12)
+- [Mohiniuni](https://x.com/Mohiniuni/status/2124155859098030240) (2026-11-22)
 - [MrOnsase](https://x.com/MrOnsase/status/2075841247223165124) (2026-07-11)
 - [MstRokeyaK76792](https://x.com/MstRokeyaK76792/status/2096130494102737375) (2026-09-05)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
@@ -531,6 +533,7 @@ total_mentions: 713
 - [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)
 - [jakezward](https://x.com/jakezward/status/2077014538000482693) (2026-07-16)
 - [jenukal](https://x.com/jenukal/status/2111865563492601949) (2026-10-19)
+- [john_ssuh](https://x.com/john_ssuh/status/2124336124172935336) (2026-11-22)
 - [johnvirality](https://x.com/johnvirality/status/2070571963555152330) (2026-06-29)
 - [jwang633](https://x.com/jwang633/status/2105012942601367940) (2026-09-30)
 - [kashu_yamazaki](https://x.com/kashu_yamazaki/status/2121634263963718118) (2026-11-15)
@@ -694,6 +697,7 @@ total_mentions: 713
 - [triptitips](https://x.com/triptitips/status/2101682470655758391) (2026-09-21)
 - [triptitips](https://x.com/triptitips/status/2103681542602265021) (2026-09-29)
 - [triptitips](https://x.com/triptitips/status/2120855495603011589) (2026-11-16)
+- [triptitips](https://x.com/triptitips/status/2124115165977428052) (2026-11-22)
 - [tylerlum23](https://x.com/tylerlum23/status/2120278890870718714) (2026-11-11)
 - [uaghazadae](https://x.com/uaghazadae/status/2087580062593823004) (2026-08-13)
 - [uiuxshasankodas](https://x.com/uiuxshasankodas/status/2087148581899870551) (2026-08-13)

@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-21
-total_mentions: 247
+last_seen: 2026-11-22
+total_mentions: 248
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -169,6 +169,7 @@ total_mentions: 247
 - [himanshubuildss](https://x.com/himanshubuildss/status/2109130327277142377) (2026-10-12)
 - [hxiao](https://x.com/hxiao/status/2094519020531994639) (2026-09-02)
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
+- [illyism](https://x.com/illyism/status/2123675279210242167) (2026-11-22)
 - [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)
 - [jahooma](https://x.com/jahooma/status/2069951731539349823) (2026-07-03)
 - [jahooma](https://x.com/jahooma/status/2093137551918051624) (2026-08-29)

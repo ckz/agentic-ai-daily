@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-11-21
-total_mentions: 209
+last_seen: 2026-11-22
+total_mentions: 210
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2118133694217306408) (2026-11-06)
@@ -110,6 +110,7 @@ total_mentions: 209
 - [daniel_mac8](https://x.com/daniel_mac8/status/2106486954351001652) (2026-10-04)
 - [danshipper](https://x.com/danshipper/status/2102461471716483208) (2026-09-23)
 - [daveremy](https://x.com/daveremy/status/2116927398327545955) (2026-11-04)
+- [david263146](https://x.com/david263146/status/2124335988365541690) (2026-11-22)
 - [deedydas](https://x.com/deedydas/status/1898444603071795378) (2026-06-06)
 - [deedydas](https://x.com/deedydas/status/2099880100770849001) (2026-09-16)
 - [deviparikh](https://x.com/deviparikh/status/2092647579163251007) (2026-08-30)

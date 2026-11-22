@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-21
-total_mentions: 1812
+last_seen: 2026-11-22
+total_mentions: 1820
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -609,6 +609,7 @@ total_mentions: 1812
 - [Mohiniuni](https://x.com/Mohiniuni/status/2109514844252807435) (2026-10-12)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2113503183997719010) (2026-10-25)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2123423552355598415) (2026-11-20)
+- [Mohiniuni](https://x.com/Mohiniuni/status/2124155859098030240) (2026-11-22)
 - [MoonDevOnYT](https://x.com/MoonDevOnYT/status/2072462757379612916) (2026-07-07)
 - [Motionfly_co](https://x.com/Motionfly_co/status/2089054633121419468) (2026-08-17)
 - [MrOnsase](https://x.com/MrOnsase/status/2075841247223165124) (2026-07-11)
@@ -682,6 +683,7 @@ total_mentions: 1812
 - [PrismML](https://x.com/PrismML/status/2077084891284721827) (2026-07-15)
 - [PrismML](https://x.com/PrismML/status/2100692248480596348) (2026-09-19)
 - [Priyannkaaaa](https://x.com/Priyannkaaaa/status/2083851157324046649) (2026-08-03)
+- [Prof_Abdulsalam](https://x.com/Prof_Abdulsalam/status/2124364786188079530) (2026-11-22)
 - [ProjectVEXai](https://x.com/ProjectVEXai/status/2085390880966594838) (2026-08-10)
 - [Promixyz](https://x.com/Promixyz/status/2107053360700375520) (2026-10-12)
 - [Promixyz](https://x.com/Promixyz/status/2110310642422780309) (2026-10-17)
@@ -1220,6 +1222,7 @@ total_mentions: 1812
 - [elune0x](https://x.com/elune0x/status/2086565685904211976) (2026-08-15)
 - [elune0x](https://x.com/elune0x/status/2086814848709517580) (2026-08-15)
 - [elune0x](https://x.com/elune0x/status/2098050255371518409) (2026-09-13)
+- [emollick](https://x.com/emollick/status/2122664990624641421) (2026-11-22)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2060824760859431275) (2026-06-05)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2064019609062101321) (2026-06-09)
 - [eng_khairallah1](https://x.com/eng_khairallah1/status/2077696199486775764) (2026-07-18)
@@ -1355,6 +1358,7 @@ total_mentions: 1812
 - [jianw851](https://x.com/jianw851/status/2120212001695965288) (2026-11-11)
 - [jiayq](https://x.com/jiayq/status/2082135245776920681) (2026-07-29)
 - [jnagal](https://x.com/jnagal/status/2113347021616943202) (2026-10-23)
+- [john_ssuh](https://x.com/john_ssuh/status/2124336124172935336) (2026-11-22)
 - [johniosifov](https://x.com/johniosifov/status/2081806958667960770) (2026-07-28)
 - [jpschroeder](https://x.com/jpschroeder/status/2085099179110703584) (2026-08-06)
 - [jshchnz](https://x.com/jshchnz/status/2095873634069831680) (2026-09-08)
@@ -1769,6 +1773,8 @@ total_mentions: 1812
 - [triptitips](https://x.com/triptitips/status/2101682470655758391) (2026-09-21)
 - [triptitips](https://x.com/triptitips/status/2103681542602265021) (2026-09-29)
 - [triptitips](https://x.com/triptitips/status/2120855495603011589) (2026-11-16)
+- [triptitips](https://x.com/triptitips/status/2124115165977428052) (2026-11-22)
+- [trreo7](https://x.com/trreo7/status/2122342232158277998) (2026-11-22)
 - [trythreews](https://x.com/trythreews/status/2075519714890334698) (2026-07-12)
 - [trythreews](https://x.com/trythreews/status/2096260452875644976) (2026-09-12)
 - [tsukiema_](https://x.com/tsukiema_/status/2113988709150261313) (2026-10-25)
@@ -1809,6 +1815,7 @@ total_mentions: 1812
 - [yoheinakajima](https://x.com/yoheinakajima/status/1640934493489070080) (2026-10-23)
 - [yurshevv](https://x.com/yurshevv/status/2113602375583719648) (2026-10-24)
 - [yurshevv](https://x.com/yurshevv/status/2122459560338198999) (2026-11-18)
+- [yurshevv](https://x.com/yurshevv/status/2123895083623690567) (2026-11-22)
 - [yz_aisdr](https://x.com/yz_aisdr/status/2110732455330103726) (2026-10-16)
 - [zachdotai](https://x.com/zachdotai/status/2098474668474896872) (2026-09-17)
 - [zackpaid](https://x.com/zackpaid/status/2065125827864678420) (2026-06-12)
@@ -1817,3 +1824,4 @@ total_mentions: 1812
 - [zhilinwang97](https://x.com/zhilinwang97/status/2067870068063551559) (2026-06-19)
 - [zodchiii](https://x.com/zodchiii/status/2063952937945108599) (2026-06-10)
 - [zodchiii](https://x.com/zodchiii/status/2083134599832408208) (2026-08-01)
+- [zodchiii](https://x.com/zodchiii/status/2124123109955621272) (2026-11-22)

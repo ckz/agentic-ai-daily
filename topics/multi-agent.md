@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-11-20
-total_mentions: 462
+last_seen: 2026-11-22
+total_mentions: 463
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -331,6 +331,7 @@ total_mentions: 462
 - [jaseweston](https://x.com/jaseweston/status/2105305463784935791) (2026-10-01)
 - [jerryjliu0](https://x.com/jerryjliu0/status/2082673383255216356) (2026-07-31)
 - [jianw851](https://x.com/jianw851/status/2110416839234982181) (2026-10-16)
+- [john_ssuh](https://x.com/john_ssuh/status/2124336124172935336) (2026-11-22)
 - [jun_song](https://x.com/jun_song/status/2091903964413657474) (2026-08-26)
 - [kaorixbt](https://x.com/kaorixbt/status/2095534784734716405) (2026-09-06)
 - [kaorixbt](https://x.com/kaorixbt/status/2096622102455398594) (2026-09-07)
