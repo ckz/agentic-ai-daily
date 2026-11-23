@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-22
-total_mentions: 400
+last_seen: 2026-11-23
+total_mentions: 405
 
 ## Related Tweets
 - [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
@@ -142,6 +142,7 @@ total_mentions: 400
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2079048442073280524) (2026-07-21)
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2120048838144909358) (2026-11-16)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
+- [ShenSeanChen](https://x.com/ShenSeanChen/status/2124533366473023832) (2026-11-23)
 - [SimularAI](https://x.com/SimularAI/status/2113665077215625360) (2026-10-25)
 - [Steve8708](https://x.com/Steve8708/status/2077051086234685641) (2026-07-15)
 - [Suryanshti777](https://x.com/Suryanshti777/status/2081761224241627420) (2026-07-28)
@@ -235,7 +236,9 @@ total_mentions: 400
 - [cyrilXBT](https://x.com/cyrilXBT/status/2079147805856374832) (2026-07-21)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2084862461078077848) (2026-08-06)
 - [cyrilXBT](https://x.com/cyrilXBT/status/2085683119320133685) (2026-08-08)
+- [cyrilXBT](https://x.com/cyrilXBT/status/2124771209753887155) (2026-11-23)
 - [dabit3](https://x.com/dabit3/status/2098557144580735156) (2026-09-17)
+- [damkina7](https://x.com/damkina7/status/2124495648489623579) (2026-11-23)
 - [dani_avila7](https://x.com/dani_avila7/status/2123135599833964893) (2026-11-19)
 - [danshipper](https://x.com/danshipper/status/2098812095093452969) (2026-09-19)
 - [danshipper](https://x.com/danshipper/status/2102461471716483208) (2026-09-23)
@@ -285,6 +288,7 @@ total_mentions: 400
 - [huxlab](https://x.com/huxlab/status/2117087238526038392) (2026-11-05)
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
 - [iansh04_](https://x.com/iansh04_/status/2123952035644993625) (2026-11-21)
+- [iansh04_](https://x.com/iansh04_/status/2124759988262588801) (2026-11-23)
 - [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)
 - [jamonholmgren](https://x.com/jamonholmgren/status/2076001786700394610) (2026-07-12)
 - [jans](https://x.com/jans/status/2120546950496043111) (2026-11-12)
@@ -310,6 +314,7 @@ total_mentions: 400
 - [marfinxx](https://x.com/marfinxx/status/2107093610604765199) (2026-10-10)
 - [marfinxx](https://x.com/marfinxx/status/2114343835031441771) (2026-10-27)
 - [markgurman](https://x.com/markgurman/status/2123534050585460964) (2026-11-20)
+- [marvinmary99](https://x.com/marvinmary99/status/2124696879107817946) (2026-11-23)
 - [masahirochaen](https://x.com/masahirochaen/status/2108420294570574068) (2026-10-13)
 - [matei_zaharia](https://x.com/matei_zaharia/status/2065827057624605146) (2026-06-14)
 - [mika_systems](https://x.com/mika_systems/status/2119080680021692927) (2026-11-08)

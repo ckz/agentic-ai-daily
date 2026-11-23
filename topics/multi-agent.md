@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-11-22
-total_mentions: 463
+last_seen: 2026-11-23
+total_mentions: 466
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -108,6 +108,7 @@ total_mentions: 463
 - [DeltaV_xyz](https://x.com/DeltaV_xyz/status/2082837299113398454) (2026-08-02)
 - [DestraNetwork](https://x.com/DestraNetwork/status/1906074225016017400) (2026-07-10)
 - [Didotxyz_](https://x.com/Didotxyz_/status/2120404894331150514) (2026-11-11)
+- [Dinosn](https://x.com/Dinosn/status/2123049170592555401) (2026-11-23)
 - [Dipanshu_AI](https://x.com/Dipanshu_AI/status/2090988836906213581) (2026-08-22)
 - [Dipanshu_AI](https://x.com/Dipanshu_AI/status/2123256583497126200) (2026-11-19)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
@@ -250,6 +251,7 @@ total_mentions: 463
 - [appliedcompute](https://x.com/appliedcompute/status/2082197728243880226) (2026-08-03)
 - [arle0x](https://x.com/arle0x/status/2108925579185586336) (2026-10-11)
 - [asmah2107](https://x.com/asmah2107/status/2062870047903605109) (2026-06-06)
+- [basdotio](https://x.com/basdotio/status/2036001176509141385) (2026-11-23)
 - [beamnxw](https://x.com/beamnxw/status/2081324327899746541) (2026-08-02)
 - [beamnxw](https://x.com/beamnxw/status/2093054521056665983) (2026-08-30)
 - [bonsaixbt](https://x.com/bonsaixbt/status/2077722769194615193) (2026-07-17)
@@ -367,6 +369,7 @@ total_mentions: 463
 - [neviannn](https://x.com/neviannn/status/2087254502210490739) (2026-08-13)
 - [nicbstme](https://x.com/nicbstme/status/2084918378368471150) (2026-08-06)
 - [nicochristie](https://x.com/nicochristie/status/2093729344871170219) (2026-08-30)
+- [ninjaa_xyz](https://x.com/ninjaa_xyz/status/2124111523618382065) (2026-11-23)
 - [norvex1029](https://x.com/norvex1029/status/2091528114534863055) (2026-08-26)
 - [omarsar0](https://x.com/omarsar0/status/2110733945323368822) (2026-10-21)
 - [opentensor](https://x.com/opentensor/status/2078858375081627985) (2026-07-21)

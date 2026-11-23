@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-22
-total_mentions: 248
+last_seen: 2026-11-23
+total_mentions: 250
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -42,6 +42,7 @@ total_mentions: 248
 - [Divyyanshishrma](https://x.com/Divyyanshishrma/status/2119052020418240692) (2026-11-08)
 - [EXM7777](https://x.com/EXM7777/status/2086512844594679820) (2026-08-14)
 - [FareaNFts](https://x.com/FareaNFts/status/2072985538756317458) (2026-07-07)
+- [Fran_alex897](https://x.com/Fran_alex897/status/2124715358254948807) (2026-11-23)
 - [GodsBoy7777](https://x.com/GodsBoy7777/status/2102146460821152070) (2026-09-22)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2122359038151106953) (2026-11-19)
 - [Greshamtrade](https://x.com/Greshamtrade/status/2113369499801960699) (2026-10-25)
@@ -64,6 +65,7 @@ total_mentions: 248
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2081303563746398665) (2026-07-28)
 - [MiaAI_lab](https://x.com/MiaAI_lab/status/2104505550281039892) (2026-09-29)
 - [Mnilax](https://x.com/Mnilax/status/2109314840057565345) (2026-10-12)
+- [Mohiniuni](https://x.com/Mohiniuni/status/2124737209022480654) (2026-11-23)
 - [N01ennn](https://x.com/N01ennn/status/2088606747531358505) (2026-08-21)
 - [N01ennn](https://x.com/N01ennn/status/2089455117716406706) (2026-08-18)
 - [NVIDIAAIDev](https://x.com/NVIDIAAIDev/status/2033642064009957725) (2026-11-19)

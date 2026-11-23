@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-22
-total_mentions: 1820
+last_seen: 2026-11-23
+total_mentions: 1830
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -363,6 +363,7 @@ total_mentions: 1820
 - [Dhruvkumar16797](https://x.com/Dhruvkumar16797/status/2101672939615924364) (2026-09-24)
 - [Dinosn](https://x.com/Dinosn/status/2063512654048608626) (2026-06-07)
 - [Dinosn](https://x.com/Dinosn/status/2070446054701490193) (2026-06-29)
+- [Dinosn](https://x.com/Dinosn/status/2123049170592555401) (2026-11-23)
 - [Dipanshu_AI](https://x.com/Dipanshu_AI/status/2090988836906213581) (2026-08-22)
 - [Dipanshu_AI](https://x.com/Dipanshu_AI/status/2123256583497126200) (2026-11-19)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2074977577576591680) (2026-07-14)
@@ -700,6 +701,7 @@ total_mentions: 1820
 - [RIFAT5666](https://x.com/RIFAT5666/status/2109876282725150954) (2026-10-13)
 - [RachelTobac](https://x.com/RachelTobac/status/2082214795072225786) (2026-07-30)
 - [Rahul1539482](https://x.com/Rahul1539482/status/2068215799849091178) (2026-06-20)
+- [RakaSiwi2100](https://x.com/RakaSiwi2100/status/2124714286010470713) (2026-11-23)
 - [RamSingh_369](https://x.com/RamSingh_369/status/2094252362970099809) (2026-08-31)
 - [RangerCov_175](https://x.com/RangerCov_175/status/2106619342838214855) (2026-10-04)
 - [RaoulGMI](https://x.com/RaoulGMI/status/2082875102631186508) (2026-08-16)
@@ -1021,6 +1023,7 @@ total_mentions: 1820
 - [axiomos_](https://x.com/axiomos_/status/2072983092365811940) (2026-07-04)
 - [ayanb](https://x.com/ayanb/status/2107501360031924549) (2026-10-07)
 - [azzabazazz](https://x.com/azzabazazz/status/2073518111974998284) (2026-07-05)
+- [basdotio](https://x.com/basdotio/status/2036001176509141385) (2026-11-23)
 - [base](https://x.com/base/status/2083204522415960437) (2026-08-05)
 - [baseten](https://x.com/baseten/status/2093489037608702118) (2026-09-02)
 - [beamnxw](https://x.com/beamnxw/status/2083539500165149086) (2026-08-02)
@@ -1184,6 +1187,7 @@ total_mentions: 1820
 - [dkare1009](https://x.com/dkare1009/status/2100985702452228415) (2026-09-22)
 - [dkare1009](https://x.com/dkare1009/status/2112461317965590931) (2026-10-23)
 - [dkare1009](https://x.com/dkare1009/status/2119407086362640714) (2026-11-09)
+- [dkare1009](https://x.com/dkare1009/status/2124480514581307852) (2026-11-23)
 - [dmokafa](https://x.com/dmokafa/status/2066400400308154773) (2026-06-15)
 - [dogacel0](https://x.com/dogacel0/status/2099720607160004886) (2026-09-15)
 - [dojintanuki](https://x.com/dojintanuki/status/2063832283736387900) (2026-06-08)
@@ -1240,6 +1244,7 @@ total_mentions: 1820
 - [evrendag1284](https://x.com/evrendag1284/status/2086665961638117757) (2026-08-10)
 - [f3m1da](https://x.com/f3m1da/status/2119777054333837628) (2026-11-13)
 - [f_rmsj](https://x.com/f_rmsj/status/2065330666368328129) (2026-06-12)
+- [falconhere1](https://x.com/falconhere1/status/2124098918958944657) (2026-11-23)
 - [farzyness](https://x.com/farzyness/status/2094810782697398294) (2026-09-03)
 - [femke_plantinga](https://x.com/femke_plantinga/status/2082375583363944873) (2026-07-30)
 - [fernandoabishai](https://x.com/fernandoabishai/status/2113132998962893114) (2026-10-22)
@@ -1251,6 +1256,7 @@ total_mentions: 1820
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2076517228267155961) (2026-07-13)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2083584032122577255) (2026-08-02)
 - [freeCodeCamp](https://x.com/freeCodeCamp/status/2087510073853481001) (2026-08-16)
+- [freeCodeCamp](https://x.com/freeCodeCamp/status/2124428225380040723) (2026-11-23)
 - [funghibull](https://x.com/funghibull/status/2074598601184227650) (2026-07-08)
 - [furqaan_design](https://x.com/furqaan_design/status/2093181537877651596) (2026-08-28)
 - [getmpplayer](https://x.com/getmpplayer/status/2063511395875062224) (2026-06-07)
@@ -1320,6 +1326,7 @@ total_mentions: 1820
 - [iamriteshverma](https://x.com/iamriteshverma/status/2068569760196108667) (2026-06-21)
 - [ianlivingstone](https://x.com/ianlivingstone/status/2110026335892693464) (2026-10-17)
 - [iansh04_](https://x.com/iansh04_/status/2123952035644993625) (2026-11-21)
+- [iansh04_](https://x.com/iansh04_/status/2124759988262588801) (2026-11-23)
 - [ibab](https://x.com/ibab/status/1955741698690322585) (2026-07-12)
 - [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2077068944997761333) (2026-07-15)
 - [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2097752959526330501) (2026-09-10)
@@ -1438,6 +1445,7 @@ total_mentions: 1820
 - [markgurman](https://x.com/markgurman/status/2119451386111005129) (2026-11-10)
 - [markgurman](https://x.com/markgurman/status/2123534050585460964) (2026-11-20)
 - [marryevan999](https://x.com/marryevan999/status/2077795286332952816) (2026-07-18)
+- [marvinmary99](https://x.com/marvinmary99/status/2124696879107817946) (2026-11-23)
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [maxescu](https://x.com/maxescu/status/2087195649561317511) (2026-08-13)
 - [mayaislam_ai](https://x.com/mayaislam_ai/status/2119315305235370221) (2026-11-11)
@@ -1500,6 +1508,7 @@ total_mentions: 1820
 - [nickcammarata](https://x.com/nickcammarata/status/2110757819427574056) (2026-10-18)
 - [nikesharora](https://x.com/nikesharora/status/2097775700627578963) (2026-09-16)
 - [nikesharora](https://x.com/nikesharora/status/2114372350707986492) (2026-10-26)
+- [ninjaa_xyz](https://x.com/ninjaa_xyz/status/2124111523618382065) (2026-11-23)
 - [nmkr_io](https://x.com/nmkr_io/status/1857069687034523933) (2026-06-06)
 - [norvex1029](https://x.com/norvex1029/status/2087230353035440452) (2026-08-13)
 - [norvex1029](https://x.com/norvex1029/status/2091528114534863055) (2026-08-26)
@@ -1778,6 +1787,7 @@ total_mentions: 1820
 - [trythreews](https://x.com/trythreews/status/2075519714890334698) (2026-07-12)
 - [trythreews](https://x.com/trythreews/status/2096260452875644976) (2026-09-12)
 - [tsukiema_](https://x.com/tsukiema_/status/2113988709150261313) (2026-10-25)
+- [tsukiema_](https://x.com/tsukiema_/status/2124167616981869019) (2026-11-23)
 - [tylerlum23](https://x.com/tylerlum23/status/2120278890870718714) (2026-11-11)
 - [typesfast](https://x.com/typesfast/status/2086837223148962283) (2026-08-11)
 - [ungoai_bnb](https://x.com/ungoai_bnb/status/2112692052333125866) (2026-10-21)

@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-22
-total_mentions: 717
+last_seen: 2026-11-23
+total_mentions: 721
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -247,6 +247,7 @@ total_mentions: 717
 - [Mohiniuni](https://x.com/Mohiniuni/status/2106601226276118967) (2026-10-05)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2109514844252807435) (2026-10-12)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2124155859098030240) (2026-11-22)
+- [Mohiniuni](https://x.com/Mohiniuni/status/2124737209022480654) (2026-11-23)
 - [MrOnsase](https://x.com/MrOnsase/status/2075841247223165124) (2026-07-11)
 - [MstRokeyaK76792](https://x.com/MstRokeyaK76792/status/2096130494102737375) (2026-09-05)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
@@ -522,6 +523,7 @@ total_mentions: 717
 - [hijkzzz](https://x.com/hijkzzz/status/2076843539426836874) (2026-07-14)
 - [huang_biwei](https://x.com/huang_biwei/status/2099664633095401659) (2026-09-17)
 - [humafinance](https://x.com/humafinance/status/2062445243711279528) (2026-06-08)
+- [hwchase17](https://x.com/hwchase17/status/2124654748104302930) (2026-11-23)
 - [iamlukethedev](https://x.com/iamlukethedev/status/2063081062473859097) (2026-06-06)
 - [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2083874254358024567) (2026-08-04)
 - [imryven](https://x.com/imryven/status/2120171408793727004) (2026-11-11)
@@ -532,6 +534,7 @@ total_mentions: 717
 - [it_unprofession](https://x.com/it_unprofession/status/2074958200663953854) (2026-07-11)
 - [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)
 - [jakezward](https://x.com/jakezward/status/2077014538000482693) (2026-07-16)
+- [jdegoes](https://x.com/jdegoes/status/2124498906696618035) (2026-11-23)
 - [jenukal](https://x.com/jenukal/status/2111865563492601949) (2026-10-19)
 - [john_ssuh](https://x.com/john_ssuh/status/2124336124172935336) (2026-11-22)
 - [johnvirality](https://x.com/johnvirality/status/2070571963555152330) (2026-06-29)
@@ -625,6 +628,7 @@ total_mentions: 717
 - [sairahul1](https://x.com/sairahul1/status/2072391955544412595) (2026-07-03)
 - [sairahul1](https://x.com/sairahul1/status/2083882252619092334) (2026-08-04)
 - [sairahul1](https://x.com/sairahul1/status/2084557703226036536) (2026-08-05)
+- [sajidnahvi](https://x.com/sajidnahvi/status/2124739726984769832) (2026-11-23)
 - [salesforce](https://x.com/salesforce/status/2066491445586858173) (2026-06-28)
 - [salesforce](https://x.com/salesforce/status/2098034380912365589) (2026-09-11)
 - [sandy4kad](https://x.com/sandy4kad/status/2074948658953593102) (2026-07-09)

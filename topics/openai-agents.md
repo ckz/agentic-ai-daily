@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-22
-total_mentions: 123
+last_seen: 2026-11-23
+total_mentions: 126
 
 ## Related Tweets
 - [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
@@ -43,6 +43,7 @@ total_mentions: 123
 - [MaxForAI](https://x.com/MaxForAI/status/2098334720677282098) (2026-09-13)
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2084978309532647780) (2026-08-08)
 - [MelvinInvests](https://x.com/MelvinInvests/status/2102514719345271027) (2026-09-26)
+- [Mohiniuni](https://x.com/Mohiniuni/status/2124737209022480654) (2026-11-23)
 - [NuryVittachi](https://x.com/NuryVittachi/status/2085178025055031587) (2026-08-11)
 - [Paul__Walsh](https://x.com/Paul__Walsh/status/2102900907033669792) (2026-09-24)
 - [Polymarket](https://x.com/Polymarket/status/2080838272033394996) (2026-07-25)
@@ -54,6 +55,7 @@ total_mentions: 123
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2094119206132535493) (2026-08-31)
 - [SakanaAILabs](https://x.com/SakanaAILabs/status/2098233826816205275) (2026-09-11)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
+- [ShenSeanChen](https://x.com/ShenSeanChen/status/2124533366473023832) (2026-11-23)
 - [StockSavvyShay](https://x.com/StockSavvyShay/status/2104989538066305148) (2026-09-30)
 - [StockSavvyShay](https://x.com/StockSavvyShay/status/2105104103299035382) (2026-09-30)
 - [Sumanth_077](https://x.com/Sumanth_077/status/2091169662956720527) (2026-08-25)
@@ -113,6 +115,7 @@ total_mentions: 123
 - [oleg_murk](https://x.com/oleg_murk/status/2099652501645775041) (2026-09-16)
 - [pankajkumar_dev](https://x.com/pankajkumar_dev/status/2083391622939815963) (2026-08-01)
 - [petergyang](https://x.com/petergyang/status/2101862331345154469) (2026-09-21)
+- [rchen1386](https://x.com/rchen1386/status/2124465845284008268) (2026-11-23)
 - [rynorhn](https://x.com/rynorhn/status/2103645298237014334) (2026-09-27)
 - [sairahul1](https://x.com/sairahul1/status/2090807997253726488) (2026-08-22)
 - [sharongoldman](https://x.com/sharongoldman/status/2085121826418831484) (2026-08-07)

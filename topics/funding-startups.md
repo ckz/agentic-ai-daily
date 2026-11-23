@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-22
-total_mentions: 939
+last_seen: 2026-11-23
+total_mentions: 947
 
 ## Related Tweets
 - [0x0simba_eth](https://x.com/0x0simba_eth/status/2118895661722616112) (2026-11-07)
@@ -56,6 +56,7 @@ total_mentions: 939
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2111819557497135464) (2026-10-19)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2120534432348012680) (2026-11-13)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2121978076833943986) (2026-11-17)
+- [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2124231397267144766) (2026-11-23)
 - [Anaya_sharma876](https://x.com/Anaya_sharma876/status/2086431301498966480) (2026-08-14)
 - [AnimaAnandkumar](https://x.com/AnimaAnandkumar/status/2092236528898675014) (2026-09-01)
 - [AnishJaitwar](https://x.com/AnishJaitwar/status/2086661433593360839) (2026-08-10)
@@ -152,6 +153,7 @@ total_mentions: 939
 - [FundingPredicts](https://x.com/FundingPredicts/status/2076561972913475742) (2026-07-13)
 - [FundingPredicts](https://x.com/FundingPredicts/status/2093452683008979134) (2026-08-29)
 - [GAXEN10](https://x.com/GAXEN10/status/2068603068753596431) (2026-06-21)
+- [GeYunhao](https://x.com/GeYunhao/status/2124653252218335659) (2026-11-23)
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2100342582626668971) (2026-09-17)
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2110368029779398968) (2026-10-20)
 - [GlobalMoveHub](https://x.com/GlobalMoveHub/status/2104122775770178013) (2026-10-03)
@@ -226,6 +228,7 @@ total_mentions: 939
 - [Miracle_NNnn](https://x.com/Miracle_NNnn/status/2121130380434591984) (2026-11-14)
 - [ModestMitkus](https://x.com/ModestMitkus/status/2111825601401405468) (2026-10-19)
 - [Mohansinha](https://x.com/Mohansinha/status/2079629691494060368) (2026-07-24)
+- [Mohiniuni](https://x.com/Mohiniuni/status/2124737209022480654) (2026-11-23)
 - [MollySOShea](https://x.com/MollySOShea/status/2092606579732251060) (2026-08-27)
 - [MollySOShea](https://x.com/MollySOShea/status/2099495482775289908) (2026-09-15)
 - [MollySOShea](https://x.com/MollySOShea/status/2116531640012767572) (2026-11-01)
@@ -306,6 +309,7 @@ total_mentions: 939
 - [ShadowofEzra](https://x.com/ShadowofEzra/status/1966482501255262285) (2026-10-16)
 - [SharmaShradha](https://x.com/SharmaShradha/status/2098317823999398206) (2026-09-11)
 - [Sheema_bakhtiar](https://x.com/Sheema_bakhtiar/status/2064945268563546427) (2026-06-11)
+- [ShenSeanChen](https://x.com/ShenSeanChen/status/2124533366473023832) (2026-11-23)
 - [Sherl2718](https://x.com/Sherl2718/status/2100323661542494278) (2026-09-20)
 - [Solvaix](https://x.com/Solvaix/status/2083282682746704013) (2026-08-02)
 - [SpamRoss](https://x.com/SpamRoss/status/2102750773612253585) (2026-09-26)
@@ -348,6 +352,7 @@ total_mentions: 939
 - [Variety](https://x.com/Variety/status/2078236164197322969) (2026-07-18)
 - [VerticalPropX](https://x.com/VerticalPropX/status/2102069839607062863) (2026-09-23)
 - [Vicmunro](https://x.com/Vicmunro/status/2093675879444402505) (2026-09-01)
+- [VincentOkw96990](https://x.com/VincentOkw96990/status/2124729848224514050) (2026-11-23)
 - [VoltWeb3](https://x.com/VoltWeb3/status/2101405931129184729) (2026-09-20)
 - [Voxyz_ai](https://x.com/Voxyz_ai/status/2089324197981950408) (2026-08-19)
 - [WSJTech](https://x.com/WSJTech/status/2123159851912110414) (2026-11-19)
@@ -359,6 +364,7 @@ total_mentions: 939
 - [WatcherGuru](https://x.com/WatcherGuru/status/2079691556072616413) (2026-07-24)
 - [WhaleInsider](https://x.com/WhaleInsider/status/2082791770182586833) (2026-08-02)
 - [WhiteHouse45](https://x.com/WhiteHouse45/status/1250194670031974400) (2026-10-16)
+- [WilliamBryk](https://x.com/WilliamBryk/status/2123526968016835043) (2026-11-23)
 - [WoodingtonBen](https://x.com/WoodingtonBen/status/2112913530668413189) (2026-10-22)
 - [Wuwaika90](https://x.com/Wuwaika90/status/2098304150538731650) (2026-09-11)
 - [XFreeze](https://x.com/XFreeze/status/2071993098641756518) (2026-07-06)
@@ -463,6 +469,7 @@ total_mentions: 939
 - [business](https://x.com/business/status/2108078728592998447) (2026-10-10)
 - [businessbarista](https://x.com/businessbarista/status/2122832668815478986) (2026-11-19)
 - [bykahlil](https://x.com/bykahlil/status/2079265093607637030) (2026-07-21)
+- [callumhyman24](https://x.com/callumhyman24/status/2122437456394101193) (2026-11-23)
 - [calvinchen](https://x.com/calvinchen/status/2113086111505645906) (2026-10-22)
 - [capital_3x](https://x.com/capital_3x/status/2123431053826371822) (2026-11-20)
 - [cashcat_Agent](https://x.com/cashcat_Agent/status/2117884246895341884) (2026-11-04)
@@ -521,6 +528,7 @@ total_mentions: 939
 - [deedydas](https://x.com/deedydas/status/2121766500524589160) (2026-11-15)
 - [defyneric](https://x.com/defyneric/status/2109401860494791063) (2026-10-12)
 - [demireren](https://x.com/demireren/status/2123555641025347675) (2026-11-22)
+- [demireren_](https://x.com/demireren_/status/2123555641025347675) (2026-11-23)
 - [demishassabis](https://x.com/demishassabis/status/2122662616367853670) (2026-11-18)
 - [demiyang12](https://x.com/demiyang12/status/2122329595122758047) (2026-11-20)
 - [dhanyindraswara](https://x.com/dhanyindraswara/status/2108209744439812534) (2026-10-09)
