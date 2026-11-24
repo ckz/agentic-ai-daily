@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-23
-total_mentions: 405
+last_seen: 2026-11-24
+total_mentions: 406
 
 ## Related Tweets
 - [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
@@ -250,6 +250,7 @@ total_mentions: 405
 - [digitalocean](https://x.com/digitalocean/status/2102414817797550320) (2026-09-24)
 - [dioscuri](https://x.com/dioscuri/status/2103848836469084516) (2026-09-30)
 - [distortgeekin](https://x.com/distortgeekin/status/2121944764081709459) (2026-11-16)
+- [distortgeekin](https://x.com/distortgeekin/status/2123031990622437426) (2026-11-24)
 - [doncoderlione](https://x.com/doncoderlione/status/2112638459089150151) (2026-10-21)
 - [dotey](https://x.com/dotey/status/2115667965328977920) (2026-10-29)
 - [doublenickk](https://x.com/doublenickk/status/2111836581929631794) (2026-10-22)

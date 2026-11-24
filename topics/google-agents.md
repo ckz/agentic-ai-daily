@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-23
-total_mentions: 155
+last_seen: 2026-11-24
+total_mentions: 156
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -107,6 +107,7 @@ total_mentions: 155
 - [elune0x](https://x.com/elune0x/status/2086565685904211976) (2026-08-15)
 - [firstadopter](https://x.com/firstadopter/status/2102758807189197006) (2026-09-25)
 - [fromzerotomill](https://x.com/fromzerotomill/status/2081100925641367899) (2026-07-26)
+- [godsystemsmd](https://x.com/godsystemsmd/status/2124496621677277492) (2026-11-24)
 - [gokulr](https://x.com/gokulr/status/2071692278582890889) (2026-08-02)
 - [googlecloud](https://x.com/googlecloud/status/2063244517575200828) (2026-06-09)
 - [googlecloud_jp](https://x.com/googlecloud_jp/status/2064210883023118619) (2026-06-09)

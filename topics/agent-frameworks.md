@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-23
-total_mentions: 721
+last_seen: 2026-11-24
+total_mentions: 725
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -148,6 +148,7 @@ total_mentions: 721
 - [Freistyle_AI](https://x.com/Freistyle_AI/status/2120789070846541885) (2026-11-12)
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2087121081098224122) (2026-08-18)
 - [GhostOfSocrates](https://x.com/GhostOfSocrates/status/2118470575287083109) (2026-11-09)
+- [Girlgym67](https://x.com/Girlgym67/status/2125092296308015268) (2026-11-24)
 - [GirmaMele48686](https://x.com/GirmaMele48686/status/2108411422577512797) (2026-10-09)
 - [GodsBoy7777](https://x.com/GodsBoy7777/status/2102146460821152070) (2026-09-22)
 - [GoogleAI](https://x.com/GoogleAI/status/2062942864288387430) (2026-06-06)
@@ -175,6 +176,7 @@ total_mentions: 721
 - [GoogleResearch](https://x.com/GoogleResearch/status/2103208899650437286) (2026-09-25)
 - [GpaAndy](https://x.com/GpaAndy/status/2101129153172910212) (2026-09-20)
 - [Greshamtrade](https://x.com/Greshamtrade/status/2113369499801960699) (2026-10-25)
+- [Guru0791](https://x.com/Guru0791/status/2125131577638408195) (2026-11-24)
 - [Gustafssonkotte](https://x.com/Gustafssonkotte/status/2082309711785849067) (2026-08-01)
 - [HVnS42442600](https://x.com/HVnS42442600/status/2115005757523661111) (2026-10-28)
 - [HackingDave](https://x.com/HackingDave/status/2069146467701256423) (2026-06-29)
@@ -493,6 +495,7 @@ total_mentions: 721
 - [georgedavis_144](https://x.com/georgedavis_144/status/2110946857736372721) (2026-10-16)
 - [gippp69](https://x.com/gippp69/status/2088943002467115352) (2026-08-17)
 - [gkisokay](https://x.com/gkisokay/status/1931559290382459105) (2026-10-20)
+- [godsystemsmd](https://x.com/godsystemsmd/status/2124496621677277492) (2026-11-24)
 - [googlecloud](https://x.com/googlecloud/status/2063244517575200828) (2026-06-09)
 - [googlecloud](https://x.com/googlecloud/status/2064505329006653571) (2026-06-10)
 - [googlecloud_jp](https://x.com/googlecloud_jp/status/2064210883023118619) (2026-06-09)
@@ -538,6 +541,7 @@ total_mentions: 721
 - [jenukal](https://x.com/jenukal/status/2111865563492601949) (2026-10-19)
 - [john_ssuh](https://x.com/john_ssuh/status/2124336124172935336) (2026-11-22)
 - [johnvirality](https://x.com/johnvirality/status/2070571963555152330) (2026-06-29)
+- [jrogue](https://x.com/jrogue/status/2125123746772230519) (2026-11-24)
 - [jwang633](https://x.com/jwang633/status/2105012942601367940) (2026-09-30)
 - [kashu_yamazaki](https://x.com/kashu_yamazaki/status/2121634263963718118) (2026-11-15)
 - [kenAI_domains](https://x.com/kenAI_domains/status/2080371618954490323) (2026-07-24)

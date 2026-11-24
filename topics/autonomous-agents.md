@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-23
-total_mentions: 1830
+last_seen: 2026-11-24
+total_mentions: 1837
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -63,6 +63,7 @@ total_mentions: 1830
 - [0xMovez](https://x.com/0xMovez/status/2089744087889142217) (2026-08-19)
 - [0xMovez](https://x.com/0xMovez/status/2090107443296498179) (2026-08-20)
 - [0xMovez](https://x.com/0xMovez/status/2098512033675141286) (2026-09-13)
+- [0xMovez](https://x.com/0xMovez/status/2124889339444297905) (2026-11-24)
 - [0xPritom](https://x.com/0xPritom/status/2114193806929297550) (2026-10-26)
 - [0xRiRoyal](https://x.com/0xRiRoyal/status/2085228220841083125) (2026-08-06)
 - [0xRiRoyal](https://x.com/0xRiRoyal/status/2101894204758839756) (2026-09-21)
@@ -1361,6 +1362,7 @@ total_mentions: 1830
 - [jeffhollan](https://x.com/jeffhollan/status/2099222521451311254) (2026-09-14)
 - [jerryjliu0](https://x.com/jerryjliu0/status/2082673383255216356) (2026-07-31)
 - [jerryjliu0](https://x.com/jerryjliu0/status/2091564183922077885) (2026-08-24)
+- [jerryjliu0](https://x.com/jerryjliu0/status/2124909031999553926) (2026-11-24)
 - [jianw851](https://x.com/jianw851/status/2110416839234982181) (2026-10-16)
 - [jianw851](https://x.com/jianw851/status/2120212001695965288) (2026-11-11)
 - [jiayq](https://x.com/jiayq/status/2082135245776920681) (2026-07-29)
@@ -1368,6 +1370,7 @@ total_mentions: 1830
 - [john_ssuh](https://x.com/john_ssuh/status/2124336124172935336) (2026-11-22)
 - [johniosifov](https://x.com/johniosifov/status/2081806958667960770) (2026-07-28)
 - [jpschroeder](https://x.com/jpschroeder/status/2085099179110703584) (2026-08-06)
+- [jrogue](https://x.com/jrogue/status/2125123746772230519) (2026-11-24)
 - [jshchnz](https://x.com/jshchnz/status/2095873634069831680) (2026-09-08)
 - [julesagent](https://x.com/julesagent/status/2115883717705261283) (2026-10-30)
 - [just4rxxy](https://x.com/just4rxxy/status/2120046461526122769) (2026-11-10)
@@ -1610,9 +1613,11 @@ total_mentions: 1830
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2096117661172384137) (2026-09-07)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2098655241453687123) (2026-09-12)
 - [rohit4verse](https://x.com/rohit4verse/status/2083284519550136641) (2026-08-01)
+- [rokon_uzzaman40](https://x.com/rokon_uzzaman40/status/2125137495268499879) (2026-11-24)
 - [rosemoni18](https://x.com/rosemoni18/status/2094923340062622201) (2026-09-02)
 - [rosenacry](https://x.com/rosenacry/status/2109343300985479239) (2026-10-31)
 - [rowancheung](https://x.com/rowancheung/status/1767582332964516243) (2026-08-26)
+- [run2obtain](https://x.com/run2obtain/status/2124834928214856170) (2026-11-24)
 - [rushabh96975767](https://x.com/rushabh96975767/status/2075786236451758176) (2026-07-11)
 - [rvaniaaaa](https://x.com/rvaniaaaa/status/2121333850819407969) (2026-11-16)
 - [ryouxbt](https://x.com/ryouxbt/status/2115111318541783228) (2026-10-31)
@@ -1684,6 +1689,7 @@ total_mentions: 1830
 - [sigf_ai](https://x.com/sigf_ai/status/2106178810463023319) (2026-10-06)
 - [signulll](https://x.com/signulll/status/2109827986572890225) (2026-11-03)
 - [silvana_book](https://x.com/silvana_book/status/2075636698210324826) (2026-07-11)
+- [simon_mo_](https://x.com/simon_mo_/status/2123133742063706343) (2026-11-24)
 - [singularityhack](https://x.com/singularityhack/status/2079237150764134528) (2026-07-22)
 - [sirbayes](https://x.com/sirbayes/status/2065804371011457087) (2026-06-14)
 - [sjsandeep_jain](https://x.com/sjsandeep_jain/status/2063800679794442615) (2026-06-08)
@@ -1822,6 +1828,7 @@ total_mentions: 1830
 - [xoggai](https://x.com/xoggai/status/2071621434619957408) (2026-06-30)
 - [yabebets](https://x.com/yabebets/status/2109566114426732649) (2026-10-15)
 - [yacineMTB](https://x.com/yacineMTB/status/2083360208403767762) (2026-08-06)
+- [yaojingang](https://x.com/yaojingang/status/2125080433096565209) (2026-11-24)
 - [yoheinakajima](https://x.com/yoheinakajima/status/1640934493489070080) (2026-10-23)
 - [yurshevv](https://x.com/yurshevv/status/2113602375583719648) (2026-10-24)
 - [yurshevv](https://x.com/yurshevv/status/2122459560338198999) (2026-11-18)

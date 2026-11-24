@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-23
-total_mentions: 126
+last_seen: 2026-11-24
+total_mentions: 127
 
 ## Related Tweets
 - [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
@@ -94,6 +94,7 @@ total_mentions: 126
 - [f3m1da](https://x.com/f3m1da/status/2119777054333837628) (2026-11-13)
 - [firstadopter](https://x.com/firstadopter/status/2110528384807956680) (2026-10-15)
 - [fleetingbits](https://x.com/fleetingbits/status/2113095625059569758) (2026-10-22)
+- [godsystemsmd](https://x.com/godsystemsmd/status/2124496621677277492) (2026-11-24)
 - [gregisenberg](https://x.com/gregisenberg/status/2099202686377742576) (2026-09-15)
 - [higgsfield_ai](https://x.com/higgsfield_ai/status/2122751206187802945) (2026-11-18)
 - [hot_town](https://x.com/hot_town/status/2084999228439376119) (2026-08-06)

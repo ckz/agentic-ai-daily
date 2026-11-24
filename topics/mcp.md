@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-11-23
-total_mentions: 1378
+last_seen: 2026-11-24
+total_mentions: 1383
 
 ## Related Tweets
 - [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
@@ -24,6 +24,7 @@ total_mentions: 1378
 - [0xMovez](https://x.com/0xMovez/status/2057103411783307293) (2026-06-10)
 - [0xMovez](https://x.com/0xMovez/status/2075295372423868917) (2026-07-10)
 - [0xMovez](https://x.com/0xMovez/status/2118756438550196404) (2026-11-12)
+- [0xMovez](https://x.com/0xMovez/status/2124889339444297905) (2026-11-24)
 - [0xPrajwal_](https://x.com/0xPrajwal_/status/2106950580212228204) (2026-10-06)
 - [0xRafy](https://x.com/0xRafy/status/2088017750992073006) (2026-08-14)
 - [0xSoural](https://x.com/0xSoural/status/2104209622059958759) (2026-09-28)
@@ -267,6 +268,7 @@ total_mentions: 1378
 - [KirkDBorne](https://x.com/KirkDBorne/status/2072425629627330995) (2026-07-02)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2076503185225617544) (2026-07-13)
 - [Kling_ai](https://x.com/Kling_ai/status/2079944555718435124) (2026-07-24)
+- [Kress_Code](https://x.com/Kress_Code/status/2122560152637505686) (2026-11-24)
 - [LCSlates](https://x.com/LCSlates/status/2106066169702580719) (2026-10-04)
 - [Laurentxdev](https://x.com/Laurentxdev/status/2113865335418015876) (2026-10-24)
 - [LearnWithBishal](https://x.com/LearnWithBishal/status/2093017657423565037) (2026-08-28)
@@ -367,6 +369,7 @@ total_mentions: 1378
 - [ParsaKhaz](https://x.com/ParsaKhaz/status/2107923062696091836) (2026-10-08)
 - [Peak__Twilight](https://x.com/Peak__Twilight/status/2119475616030630059) (2026-11-13)
 - [Pirat_Nation](https://x.com/Pirat_Nation/status/2111133243252588699) (2026-10-17)
+- [Poita_](https://x.com/Poita_/status/2123812640254251472) (2026-11-24)
 - [Pokee_AI](https://x.com/Pokee_AI/status/2087211800777654378) (2026-08-14)
 - [Polymarket](https://x.com/Polymarket/status/2071786298713756104) (2026-06-30)
 - [PrajwalTomar_](https://x.com/PrajwalTomar_/status/2071934532178337884) (2026-07-01)
@@ -620,6 +623,7 @@ total_mentions: 1378
 - [angeldot_](https://x.com/angeldot_/status/2112219283879301412) (2026-10-26)
 - [angeldot_](https://x.com/angeldot_/status/2114374287549157402) (2026-10-26)
 - [angeldot_](https://x.com/angeldot_/status/2119105486385471864) (2026-11-12)
+- [angeldot_](https://x.com/angeldot_/status/2124869506057073070) (2026-11-24)
 - [ansh_chokshi](https://x.com/ansh_chokshi/status/2076168556161757294) (2026-07-15)
 - [antigravity](https://x.com/antigravity/status/2088030364539162744) (2026-08-14)
 - [anvisha](https://x.com/anvisha/status/2087964850819584319) (2026-08-15)
@@ -1164,6 +1168,7 @@ total_mentions: 1378
 - [ronixtec](https://x.com/ronixtec/status/2121398115064246414) (2026-11-14)
 - [rosemoni18](https://x.com/rosemoni18/status/2094923340062622201) (2026-09-02)
 - [rossaxbt](https://x.com/rossaxbt/status/2106758817161597021) (2026-10-05)
+- [run2obtain](https://x.com/run2obtain/status/2124834928214856170) (2026-11-24)
 - [runes_leo](https://x.com/runes_leo/status/2090442625820356780) (2026-08-21)
 - [runwayml](https://x.com/runwayml/status/2095159754414813249) (2026-09-07)
 - [rvaniaaaa](https://x.com/rvaniaaaa/status/2111904670226563170) (2026-10-20)

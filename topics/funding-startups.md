@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-23
-total_mentions: 947
+last_seen: 2026-11-24
+total_mentions: 950
 
 ## Related Tweets
 - [0x0simba_eth](https://x.com/0x0simba_eth/status/2118895661722616112) (2026-11-07)
@@ -41,6 +41,7 @@ total_mentions: 947
 - [AbdulElSayed](https://x.com/AbdulElSayed/status/2105317680643182735) (2026-10-01)
 - [AbdullahMashat](https://x.com/AbdullahMashat/status/2110993741100036220) (2026-10-16)
 - [AdityaShipsHQ](https://x.com/AdityaShipsHQ/status/2107796573552062478) (2026-10-09)
+- [AforeVC](https://x.com/AforeVC/status/2124914525355028494) (2026-11-24)
 - [AgentChud](https://x.com/AgentChud/status/2096259218835718273) (2026-09-06)
 - [AggrNews](https://x.com/AggrNews/status/2110911030905692537) (2026-10-16)
 - [AiEvolutio58513](https://x.com/AiEvolutio58513/status/2107471089215721965) (2026-10-11)
@@ -111,6 +112,7 @@ total_mentions: 947
 - [Codex_Changelog](https://x.com/Codex_Changelog/status/2062678248790589520) (2026-06-07)
 - [Codie_Sanchez](https://x.com/Codie_Sanchez/status/2099491915381006477) (2026-09-16)
 - [Cointelegraph](https://x.com/Cointelegraph/status/2063005594047467893) (2026-06-05)
+- [Corki_0x](https://x.com/Corki_0x/status/2123083248662180312) (2026-11-24)
 - [Cupang1997](https://x.com/Cupang1997/status/2117134305508065714) (2026-11-02)
 - [CyberRobooo](https://x.com/CyberRobooo/status/2092844038831690046) (2026-08-27)
 - [DAIEvolutionHub](https://x.com/DAIEvolutionHub/status/2120794076559888615) (2026-11-17)
@@ -586,6 +588,7 @@ total_mentions: 947
 - [gkisokay](https://x.com/gkisokay/status/2020853629306212478) (2026-07-25)
 - [gnoble79](https://x.com/gnoble79/status/2062616388963844440) (2026-06-08)
 - [godsystemsmd](https://x.com/godsystemsmd/status/2120157040081338509) (2026-11-17)
+- [godsystemsmd](https://x.com/godsystemsmd/status/2124496621677277492) (2026-11-24)
 - [gokulr](https://x.com/gokulr/status/2071692278582890889) (2026-08-02)
 - [gpumaxxer](https://x.com/gpumaxxer/status/2100307886408912985) (2026-09-17)
 - [gregisenberg](https://x.com/gregisenberg/status/1893687593755164940) (2026-07-03)

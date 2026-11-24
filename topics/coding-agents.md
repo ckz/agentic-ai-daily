@@ -1,13 +1,14 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-23
-total_mentions: 250
+last_seen: 2026-11-24
+total_mentions: 253
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2116168249486323780) (2026-11-05)
+- [AforeVC](https://x.com/AforeVC/status/2124914525355028494) (2026-11-24)
 - [AiNicolas75316](https://x.com/AiNicolas75316/status/2079199374819914080) (2026-07-22)
 - [Aiswarya_Sankar](https://x.com/Aiswarya_Sankar/status/2117309482430812348) (2026-11-04)
 - [AlexFinn](https://x.com/AlexFinn/status/2076752798532931758) (2026-07-14)
@@ -161,6 +162,7 @@ total_mentions: 250
 - [flxrnc](https://x.com/flxrnc/status/2123392905934999811) (2026-11-20)
 - [ginacostag_](https://x.com/ginacostag_/status/2107123580672541113) (2026-10-12)
 - [gippp69](https://x.com/gippp69/status/2088943002467115352) (2026-08-17)
+- [godsystemsmd](https://x.com/godsystemsmd/status/2124496621677277492) (2026-11-24)
 - [gokulr](https://x.com/gokulr/status/2062638283100930085) (2026-06-08)
 - [gokulr](https://x.com/gokulr/status/2071692278582890889) (2026-08-02)
 - [gokulr](https://x.com/gokulr/status/2077203873069236394) (2026-07-15)
@@ -254,4 +256,5 @@ total_mentions: 250
 - [vercel_dev](https://x.com/vercel_dev/status/2089828083415355806) (2026-08-25)
 - [vinhnx](https://x.com/vinhnx/status/2109084805753410029) (2026-10-25)
 - [warpdotdev](https://x.com/warpdotdev/status/1937525185843752969) (2026-06-07)
+- [wlhunter25](https://x.com/wlhunter25/status/2122766992226615516) (2026-11-24)
 - [zachbruggeman](https://x.com/zachbruggeman/status/2010728444771074493) (2026-10-01)
