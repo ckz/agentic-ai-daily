@@ -1,8 +1,8 @@
 # Browser Use
 
 first_seen: 2026-06-07
-last_seen: 2026-11-20
-total_mentions: 67
+last_seen: 2026-11-25
+total_mentions: 68
 
 ## Related Tweets
 - [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
@@ -12,6 +12,7 @@ total_mentions: 67
 - [1Password](https://x.com/1Password/status/2113276767582498943) (2026-10-23)
 - [Arina_sharmi](https://x.com/Arina_sharmi/status/2112729940282286120) (2026-10-21)
 - [Aura_lixx](https://x.com/Aura_lixx/status/2111615210503168164) (2026-10-18)
+- [BasedTorba](https://x.com/BasedTorba/status/2125278763520848237) (2026-11-25)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2107925762720326090) (2026-10-08)
 - [DeepTechTR](https://x.com/DeepTechTR/status/2065928726714479029) (2026-06-14)
 - [DivyanshT91162](https://x.com/DivyanshT91162/status/2072415161374343198) (2026-07-08)

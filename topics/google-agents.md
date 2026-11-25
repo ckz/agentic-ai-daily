@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-24
-total_mentions: 156
+last_seen: 2026-11-25
+total_mentions: 157
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -58,6 +58,7 @@ total_mentions: 156
 - [HowToPrompt__](https://x.com/HowToPrompt__/status/2076689880026096089) (2026-07-14)
 - [Igor_Buinevici](https://x.com/Igor_Buinevici/status/2077030411738272241) (2026-07-16)
 - [JZAPIgm](https://x.com/JZAPIgm/status/2121462914611892316) (2026-11-14)
+- [Jo_Buu0](https://x.com/Jo_Buu0/status/2125488467492692025) (2026-11-25)
 - [LunaTechAI](https://x.com/LunaTechAI/status/2109084989786673285) (2026-10-12)
 - [LunarResearcher](https://x.com/LunarResearcher/status/2082804474116968791) (2026-08-01)
 - [Mahaximus_](https://x.com/Mahaximus_/status/2090144098380353940) (2026-08-20)

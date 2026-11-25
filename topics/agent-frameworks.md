@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-24
-total_mentions: 725
+last_seen: 2026-11-25
+total_mentions: 728
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -196,6 +196,7 @@ total_mentions: 725
 - [HuggingPapers](https://x.com/HuggingPapers/status/2081387446646772212) (2026-07-27)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2081610373082341766) (2026-07-27)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2122180276281384966) (2026-11-18)
+- [HuggingPapers](https://x.com/HuggingPapers/status/2125320422631882843) (2026-11-25)
 - [HunterAllen4](https://x.com/HunterAllen4/status/2073988980068979122) (2026-07-06)
 - [HunterFromNYC](https://x.com/HunterFromNYC/status/2116542915631587387) (2026-11-03)
 - [HyperionXTrade](https://x.com/HyperionXTrade/status/2066015535045992470) (2026-06-14)
@@ -234,6 +235,7 @@ total_mentions: 725
 - [MarioNawfal](https://x.com/MarioNawfal/status/2085171754415038482) (2026-08-06)
 - [Market_Mind_](https://x.com/Market_Mind_/status/2088651427962921304) (2026-08-17)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
+- [Marspective](https://x.com/Marspective/status/2125474783555182672) (2026-11-25)
 - [MattJamesBoyle](https://x.com/MattJamesBoyle/status/2087548943873839423) (2026-08-13)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
 - [MaxForAI](https://x.com/MaxForAI/status/2095219932686590229) (2026-09-03)
@@ -539,6 +541,7 @@ total_mentions: 725
 - [jakezward](https://x.com/jakezward/status/2077014538000482693) (2026-07-16)
 - [jdegoes](https://x.com/jdegoes/status/2124498906696618035) (2026-11-23)
 - [jenukal](https://x.com/jenukal/status/2111865563492601949) (2026-10-19)
+- [jiayuan_jy](https://x.com/jiayuan_jy/status/2124554017766621343) (2026-11-25)
 - [john_ssuh](https://x.com/john_ssuh/status/2124336124172935336) (2026-11-22)
 - [johnvirality](https://x.com/johnvirality/status/2070571963555152330) (2026-06-29)
 - [jrogue](https://x.com/jrogue/status/2125123746772230519) (2026-11-24)

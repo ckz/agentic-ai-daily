@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-24
-total_mentions: 253
+last_seen: 2026-11-25
+total_mentions: 255
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -89,6 +89,7 @@ total_mentions: 253
 - [Sirhassan21](https://x.com/Sirhassan21/status/2100448401154339293) (2026-09-21)
 - [SlackHQ](https://x.com/SlackHQ/status/2090417108559548554) (2026-08-23)
 - [SourabhGurwani](https://x.com/SourabhGurwani/status/2081721763428483158) (2026-07-28)
+- [SwamiSivasubram](https://x.com/SwamiSivasubram/status/2124964062140232183) (2026-11-25)
 - [TeksCreate](https://x.com/TeksCreate/status/2068138970131632591) (2026-06-20)
 - [TeksEdge](https://x.com/TeksEdge/status/2075437935265190020) (2026-07-11)
 - [TermiusHQ](https://x.com/TermiusHQ/status/2082616764605874207) (2026-07-30)
@@ -123,6 +124,7 @@ total_mentions: 253
 - [ben_burtenshaw](https://x.com/ben_burtenshaw/status/2098410420394451153) (2026-09-12)
 - [bindureddy](https://x.com/bindureddy/status/2076165296977858836) (2026-07-12)
 - [birmeya](https://x.com/birmeya/status/2121346750602698801) (2026-11-15)
+- [bitdriftio](https://x.com/bitdriftio/status/2125380890402652393) (2026-11-25)
 - [braintrust](https://x.com/braintrust/status/2095537795838144919) (2026-09-09)
 - [business](https://x.com/business/status/2116754642222616835) (2026-11-02)
 - [calbuldelis69](https://x.com/calbuldelis69/status/2109705355798384767) (2026-10-13)

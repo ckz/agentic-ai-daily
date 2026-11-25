@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-11-24
-total_mentions: 210
+last_seen: 2026-11-25
+total_mentions: 212
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2118133694217306408) (2026-11-06)
@@ -11,10 +11,12 @@ total_mentions: 210
 - [AamirAnsar94694](https://x.com/AamirAnsar94694/status/2092159941037699212) (2026-08-26)
 - [AdamShao](https://x.com/AdamShao/status/2097111709076910081) (2026-09-11)
 - [AlejandroRomaan](https://x.com/AlejandroRomaan/status/2096610078837141569) (2026-09-08)
+- [Alhermxet](https://x.com/Alhermxet/status/2125454735247331421) (2026-11-25)
 - [AriX](https://x.com/AriX/status/2075282339782095163) (2026-07-13)
 - [AsideAI](https://x.com/AsideAI/status/2120688306203885954) (2026-11-12)
 - [Aura_Assistant](https://x.com/Aura_Assistant/status/2116191580063404100) (2026-10-31)
 - [Azaliamirh](https://x.com/Azaliamirh/status/2102958024323428362) (2026-09-26)
+- [BasedTorba](https://x.com/BasedTorba/status/2125278763520848237) (2026-11-25)
 - [Bha74142Shivani](https://x.com/Bha74142Shivani/status/2087441456726524324) (2026-08-12)
 - [BuildwithOmkarr](https://x.com/BuildwithOmkarr/status/2102603427297755264) (2026-09-23)
 - [BullTheoryio](https://x.com/BullTheoryio/status/2064410897486160099) (2026-06-10)

@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-24
-total_mentions: 1837
+last_seen: 2026-11-25
+total_mentions: 1841
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -291,6 +291,7 @@ total_mentions: 1837
 - [ChiomaChukwura2](https://x.com/ChiomaChukwura2/status/2085162277288976842) (2026-08-09)
 - [ChiomaChukwura2](https://x.com/ChiomaChukwura2/status/2085542169385836992) (2026-08-09)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2113328526413996100) (2026-10-23)
+- [ClaudeDevs](https://x.com/ClaudeDevs/status/2125289794871963935) (2026-11-25)
 - [Clawnch_Bot](https://x.com/Clawnch_Bot/status/2069463550788067626) (2026-06-29)
 - [ClementDelangue](https://x.com/ClementDelangue/status/2081056675558195657) (2026-07-27)
 - [ClementDelangue](https://x.com/ClementDelangue/status/2082201245813514613) (2026-07-30)
@@ -475,6 +476,7 @@ total_mentions: 1837
 - [HuggingPapers](https://x.com/HuggingPapers/status/2081387446646772212) (2026-07-27)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2081610373082341766) (2026-07-27)
 - [HuggingPapers](https://x.com/HuggingPapers/status/2122180276281384966) (2026-11-18)
+- [HuggingPapers](https://x.com/HuggingPapers/status/2125320422631882843) (2026-11-25)
 - [HunterAllen4](https://x.com/HunterAllen4/status/2073988980068979122) (2026-07-06)
 - [HuuHoang88](https://x.com/HuuHoang88/status/2120330670228812012) (2026-11-11)
 - [HyperionXTrade](https://x.com/HyperionXTrade/status/2066015535045992470) (2026-06-14)
@@ -582,6 +584,7 @@ total_mentions: 1837
 - [Market_Mind_](https://x.com/Market_Mind_/status/2088651427962921304) (2026-08-17)
 - [Marktechpost](https://x.com/Marktechpost/status/2073989549815202089) (2026-07-13)
 - [Marlenuii](https://x.com/Marlenuii/status/2113591960476742054) (2026-10-30)
+- [Marspective](https://x.com/Marspective/status/2125474783555182672) (2026-11-25)
 - [Mastercard](https://x.com/Mastercard/status/2122377314142916918) (2026-11-18)
 - [Matth4313](https://x.com/Matth4313/status/2074630647168344348) (2026-07-08)
 - [MaxForAI](https://x.com/MaxForAI/status/2094607306998841814) (2026-09-01)
@@ -1567,6 +1570,7 @@ total_mentions: 1837
 - [praneethsamine](https://x.com/praneethsamine/status/2123296390050652520) (2026-11-19)
 - [praveenTweets](https://x.com/praveenTweets/status/2074605343439810922) (2026-07-09)
 - [praveenTweets](https://x.com/praveenTweets/status/2093012409841774782) (2026-08-30)
+- [praveenTweets](https://x.com/praveenTweets/status/2125354369281618007) (2026-11-25)
 - [princeNFA](https://x.com/princeNFA/status/2112773639351214586) (2026-10-21)
 - [proAlishke](https://x.com/proAlishke/status/2114102351246033204) (2026-10-25)
 - [promptparag](https://x.com/promptparag/status/2064311991842574695) (2026-06-10)

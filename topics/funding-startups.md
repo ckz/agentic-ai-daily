@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-24
-total_mentions: 950
+last_seen: 2026-11-25
+total_mentions: 956
 
 ## Related Tweets
 - [0x0simba_eth](https://x.com/0x0simba_eth/status/2118895661722616112) (2026-11-07)
@@ -49,6 +49,7 @@ total_mentions: 950
 - [AlexMasonCrypto](https://x.com/AlexMasonCrypto/status/2090133773081854263) (2026-08-22)
 - [Alexkphillips](https://x.com/Alexkphillips/status/2099142554407051336) (2026-09-14)
 - [AlfiFromToasty](https://x.com/AlfiFromToasty/status/2111438352214086019) (2026-10-18)
+- [AlfiFromToasty](https://x.com/AlfiFromToasty/status/2125386510946234747) (2026-11-25)
 - [AliHassanxhy7](https://x.com/AliHassanxhy7/status/2114955487884296477) (2026-10-27)
 - [AlinaWan98](https://x.com/AlinaWan98/status/2117844196119961682) (2026-11-04)
 - [AlphaCapitalUK](https://x.com/AlphaCapitalUK/status/2079957138730848366) (2026-07-25)
@@ -147,6 +148,7 @@ total_mentions: 950
 - [FactoryAI](https://x.com/FactoryAI/status/2099907042123403466) (2026-09-17)
 - [FinanceLancelot](https://x.com/FinanceLancelot/status/2098902773655806267) (2026-09-14)
 - [FishAudio](https://x.com/FishAudio/status/2082152596739862853) (2026-07-29)
+- [FlockonUS](https://x.com/FlockonUS/status/2124979934515036339) (2026-11-25)
 - [ForwardEditor](https://x.com/ForwardEditor/status/2091534492603220452) (2026-08-24)
 - [FoxNews](https://x.com/FoxNews/status/2085811250995372229) (2026-08-12)
 - [FundedPartners](https://x.com/FundedPartners/status/2066006946860110328) (2026-06-14)
@@ -159,6 +161,7 @@ total_mentions: 950
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2100342582626668971) (2026-09-17)
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2110368029779398968) (2026-10-20)
 - [GlobalMoveHub](https://x.com/GlobalMoveHub/status/2104122775770178013) (2026-10-03)
+- [GoDaddy](https://x.com/GoDaddy/status/2125298151972282728) (2026-11-25)
 - [GpaAndy](https://x.com/GpaAndy/status/2101129153172910212) (2026-09-20)
 - [GrantWarr1](https://x.com/GrantWarr1/status/2099136532477055246) (2026-09-14)
 - [GrishinRobotics](https://x.com/GrishinRobotics/status/2067880410676187569) (2026-06-19)
@@ -224,6 +227,7 @@ total_mentions: 950
 - [MaximLevoshin](https://x.com/MaximLevoshin/status/2115115428468883775) (2026-10-28)
 - [MeidasTouch](https://x.com/MeidasTouch/status/2077164264595288203) (2026-07-20)
 - [MicronCEO](https://x.com/MicronCEO/status/2090533293519409610) (2026-08-23)
+- [Mindcase_co](https://x.com/Mindcase_co/status/2125227947028078688) (2026-11-25)
 - [Miracle_NNnn](https://x.com/Miracle_NNnn/status/2107712847740367331) (2026-10-11)
 - [Miracle_NNnn](https://x.com/Miracle_NNnn/status/2113140729933422877) (2026-10-22)
 - [Miracle_NNnn](https://x.com/Miracle_NNnn/status/2116775460193345743) (2026-11-01)
@@ -252,6 +256,7 @@ total_mentions: 950
 - [Olataslayer](https://x.com/Olataslayer/status/2101979838294986886) (2026-09-23)
 - [OliverMolander](https://x.com/OliverMolander/status/2118061256217391421) (2026-11-08)
 - [OpenAI](https://x.com/OpenAI/status/2082146058017321257) (2026-08-04)
+- [Oracle](https://x.com/Oracle/status/2123884437045760420) (2026-11-25)
 - [Osint613](https://x.com/Osint613/status/2048888305874264484) (2026-06-12)
 - [Ozacle23](https://x.com/Ozacle23/status/2112179474649448960) (2026-10-21)
 - [PTrubey](https://x.com/PTrubey/status/2086293046489182599) (2026-08-14)
@@ -316,6 +321,7 @@ total_mentions: 950
 - [Solvaix](https://x.com/Solvaix/status/2083282682746704013) (2026-08-02)
 - [SpamRoss](https://x.com/SpamRoss/status/2102750773612253585) (2026-09-26)
 - [Spec__Tech](https://x.com/Spec__Tech/status/2107121832440812029) (2026-10-06)
+- [Speechmatics](https://x.com/Speechmatics/status/2032091697283215624) (2026-11-25)
 - [SpikeCalls](https://x.com/SpikeCalls/status/2063529090091532540) (2026-06-08)
 - [StandUpForTrmp](https://x.com/StandUpForTrmp/status/2008584445629272250) (2026-10-16)
 - [StartupArchive_](https://x.com/StartupArchive_/status/2061052571876520406) (2026-06-07)

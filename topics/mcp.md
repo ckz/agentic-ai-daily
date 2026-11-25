@@ -1,8 +1,8 @@
 # Mcp
 
 first_seen: 2026-06-05
-last_seen: 2026-11-24
-total_mentions: 1383
+last_seen: 2026-11-25
+total_mentions: 1394
 
 ## Related Tweets
 - [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
@@ -18,6 +18,7 @@ total_mentions: 1383
 - [0xForce_](https://x.com/0xForce_/status/2123984179293516250) (2026-11-21)
 - [0xJokker](https://x.com/0xJokker/status/2079215128621338703) (2026-07-23)
 - [0xKense1](https://x.com/0xKense1/status/2123879132090245223) (2026-11-21)
+- [0xKense1](https://x.com/0xKense1/status/2125332891840172059) (2026-11-25)
 - [0xMiraqle](https://x.com/0xMiraqle/status/2078063315767460057) (2026-07-18)
 - [0xMorlex](https://x.com/0xMorlex/status/2083551815895798048) (2026-08-02)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
@@ -40,6 +41,8 @@ total_mentions: 1383
 - [51bodila](https://x.com/51bodila/status/2085020463290290504) (2026-08-06)
 - [51bodila](https://x.com/51bodila/status/2122076270942892034) (2026-11-17)
 - [ABAOProductions](https://x.com/ABAOProductions/status/2113284807056556198) (2026-10-23)
+- [AICodingSummit](https://x.com/AICodingSummit/status/2123755466518040812) (2026-11-25)
+- [AICodingSummit](https://x.com/AICodingSummit/status/2123755864104558606) (2026-11-25)
 - [AIWarper](https://x.com/AIWarper/status/2070535586075885912) (2026-06-27)
 - [AIWarper](https://x.com/AIWarper/status/2106466745661980904) (2026-10-04)
 - [AI_DVD6](https://x.com/AI_DVD6/status/2105299460007878989) (2026-10-01)
@@ -129,6 +132,7 @@ total_mentions: 1383
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2103577007938228300) (2026-09-26)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2113328526413996100) (2026-10-23)
 - [ClaudeDevs](https://x.com/ClaudeDevs/status/2113698001889927608) (2026-10-24)
+- [ClaudeDevs](https://x.com/ClaudeDevs/status/2125289794871963935) (2026-11-25)
 - [Clawnch_Bot](https://x.com/Clawnch_Bot/status/2069463550788067626) (2026-06-29)
 - [Cloudflare](https://x.com/Cloudflare/status/2072311802285723953) (2026-07-04)
 - [Codestudiopjbk](https://x.com/Codestudiopjbk/status/2099855757600756008) (2026-09-18)
@@ -189,6 +193,7 @@ total_mentions: 1383
 - [ElevenCreative](https://x.com/ElevenCreative/status/2117980490661785753) (2026-11-07)
 - [ElevenCreative](https://x.com/ElevenCreative/status/2120025947709837525) (2026-11-14)
 - [ElevenCreative](https://x.com/ElevenCreative/status/2123899471759286685) (2026-11-21)
+- [ElevenLabsDevs](https://x.com/ElevenLabsDevs/status/2092365834983219575) (2026-11-25)
 - [ElevenLabs](https://x.com/ElevenLabs/status/2099547227223908568) (2026-09-18)
 - [Emdad_AI](https://x.com/Emdad_AI/status/2091364911628910857) (2026-08-23)
 - [EngMoElgaraihy](https://x.com/EngMoElgaraihy/status/2083197718818611544) (2026-08-02)
@@ -316,6 +321,7 @@ total_mentions: 1383
 - [MichLieben](https://x.com/MichLieben/status/2082174529292718231) (2026-08-01)
 - [MiguelMaestroIA](https://x.com/MiguelMaestroIA/status/2071655043615395956) (2026-06-30)
 - [MiguelMaestroIA](https://x.com/MiguelMaestroIA/status/2080703728945176833) (2026-07-26)
+- [Mindcase_co](https://x.com/Mindcase_co/status/2125227947028078688) (2026-11-25)
 - [MiniMax_AI](https://x.com/MiniMax_AI/status/2061266317815296322) (2026-06-05)
 - [MishariAldulimi](https://x.com/MishariAldulimi/status/2109705411880243603) (2026-10-16)
 - [MishariAldulimi](https://x.com/MishariAldulimi/status/2116438437251211373) (2026-11-05)
@@ -336,6 +342,7 @@ total_mentions: 1383
 - [MrOnsase](https://x.com/MrOnsase/status/2081599328058253340) (2026-07-27)
 - [MrOnsase](https://x.com/MrOnsase/status/2103541968219570688) (2026-09-26)
 - [Mr_Buzzoni](https://x.com/Mr_Buzzoni/status/2112057909232206271) (2026-10-21)
+- [MyFundedPerps](https://x.com/MyFundedPerps/status/2124961231882563618) (2026-11-25)
 - [N01ennn](https://x.com/N01ennn/status/2088606747531358505) (2026-08-21)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
 - [NFTCPS](https://x.com/NFTCPS/status/2115282319531786275) (2026-11-22)
@@ -468,6 +475,7 @@ total_mentions: 1383
 - [SungKimUp](https://x.com/SungKimUp/status/2114886177111281788) (2026-10-27)
 - [SvpChain](https://x.com/SvpChain/status/2064935788345974954) (2026-06-11)
 - [SwamiMalode](https://x.com/SwamiMalode/status/2109973447397031991) (2026-10-17)
+- [SwamiSivasubram](https://x.com/SwamiSivasubram/status/2124964062140232183) (2026-11-25)
 - [TCibelle](https://x.com/TCibelle/status/2123277236044546402) (2026-11-19)
 - [TablePlus](https://x.com/TablePlus/status/2107323861205491790) (2026-10-06)
 - [Tailscale](https://x.com/Tailscale/status/2120173484202410393) (2026-11-15)
@@ -487,6 +495,7 @@ total_mentions: 1383
 - [TheShortBear](https://x.com/TheShortBear/status/2095191754358018169) (2026-09-03)
 - [TheTuringPost](https://x.com/TheTuringPost/status/2081543865488855258) (2026-07-27)
 - [TheWattenhofer](https://x.com/TheWattenhofer/status/2121738165601845715) (2026-11-17)
+- [Tocyuki](https://x.com/Tocyuki/status/2125364564137255358) (2026-11-25)
 - [TopviewAIhq](https://x.com/TopviewAIhq/status/2080276190980444612) (2026-07-24)
 - [UPing123zzz](https://x.com/UPing123zzz/status/2118624242556399660) (2026-11-09)
 - [UnTalNixon_exe](https://x.com/UnTalNixon_exe/status/2088051348331762012) (2026-08-16)
@@ -831,6 +840,7 @@ total_mentions: 1383
 - [evanjconrad](https://x.com/evanjconrad/status/2084819797133721679) (2026-08-06)
 - [evisdrenova](https://x.com/evisdrenova/status/2068551161263894776) (2026-06-21)
 - [expertwith_AI](https://x.com/expertwith_AI/status/2070094109109567845) (2026-06-27)
+- [exploitprotocol](https://x.com/exploitprotocol/status/2125302062410056049) (2026-11-25)
 - [exploraX_](https://x.com/exploraX_/status/2062584596328243214) (2026-06-06)
 - [exploraX_](https://x.com/exploraX_/status/2062900398445236623) (2026-06-06)
 - [f3m1da](https://x.com/f3m1da/status/2119777054333837628) (2026-11-13)
@@ -840,6 +850,7 @@ total_mentions: 1383
 - [figma](https://x.com/figma/status/2105329949548912914) (2026-10-02)
 - [figma](https://x.com/figma/status/2112669039009104059) (2026-10-21)
 - [firecrawl](https://x.com/firecrawl/status/2070174005709983865) (2026-06-27)
+- [fleyta88](https://x.com/fleyta88/status/2124807297801031919) (2026-11-25)
 - [floozi_official](https://x.com/floozi_official/status/2084965258104291494) (2026-08-09)
 - [flxrnc](https://x.com/flxrnc/status/2124231511499026436) (2026-11-22)
 - [foodloss_otoko](https://x.com/foodloss_otoko/status/2123090243780018449) (2026-11-19)

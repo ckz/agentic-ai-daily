@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-24
-total_mentions: 406
+last_seen: 2026-11-25
+total_mentions: 411
 
 ## Related Tweets
 - [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
@@ -11,6 +11,7 @@ total_mentions: 406
 - [0xCodez](https://x.com/0xCodez/status/2074527573116133425) (2026-07-08)
 - [0xCodez](https://x.com/0xCodez/status/2075932575147733290) (2026-07-12)
 - [0xCodila](https://x.com/0xCodila/status/2086870655719371248) (2026-08-12)
+- [0xKense1](https://x.com/0xKense1/status/2125332891840172059) (2026-11-25)
 - [0xMovez](https://x.com/0xMovez/status/2057103411783307293) (2026-06-10)
 - [0xMovez](https://x.com/0xMovez/status/2073765125958348964) (2026-07-06)
 - [0xShoopy](https://x.com/0xShoopy/status/2116596475702681970) (2026-11-03)
@@ -45,6 +46,7 @@ total_mentions: 406
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2109697083519447118) (2026-10-13)
 - [BTCqzy1](https://x.com/BTCqzy1/status/2087496242071056769) (2026-08-13)
 - [Base_EUR](https://x.com/Base_EUR/status/2104873827645997562) (2026-09-30)
+- [BasedTorba](https://x.com/BasedTorba/status/2125278763520848237) (2026-11-25)
 - [BharukaShraddha](https://x.com/BharukaShraddha/status/2064345389424324891) (2026-06-14)
 - [BinaryScriptar](https://x.com/BinaryScriptar/status/2090679698351391113) (2026-08-22)
 - [Blockworks](https://x.com/Blockworks/status/2105663711373631730) (2026-10-02)
@@ -200,6 +202,7 @@ total_mentions: 406
 - [bindureddy](https://x.com/bindureddy/status/2087034287396938177) (2026-08-11)
 - [biohub](https://x.com/biohub/status/2123099670503407840) (2026-11-19)
 - [birmeya](https://x.com/birmeya/status/2121346750602698801) (2026-11-15)
+- [bitdriftio](https://x.com/bitdriftio/status/2125380890402652393) (2026-11-25)
 - [bonduelleioat](https://x.com/bonduelleioat/status/2090015153739669554) (2026-08-23)
 - [borjafat](https://x.com/borjafat/status/2122336732079161572) (2026-11-17)
 - [business](https://x.com/business/status/2116754642222616835) (2026-11-02)
@@ -343,6 +346,8 @@ total_mentions: 406
 - [polydao](https://x.com/polydao/status/2088516287098159531) (2026-08-21)
 - [polydao](https://x.com/polydao/status/2097642088506487020) (2026-09-10)
 - [polydao](https://x.com/polydao/status/2104090661041369397) (2026-09-28)
+- [praveenTweets](https://x.com/praveenTweets/status/2125354369281618007) (2026-11-25)
+- [quadcode_ai](https://x.com/quadcode_ai/status/2123673923518882238) (2026-11-25)
 - [quinn_leng](https://x.com/quinn_leng/status/2110036327286886731) (2026-10-14)
 - [rakib_hossen_ai](https://x.com/rakib_hossen_ai/status/2113385135869735176) (2026-10-24)
 - [rawsalerts](https://x.com/rawsalerts/status/2048894059305975885) (2026-06-07)
