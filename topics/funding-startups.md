@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-25
-total_mentions: 956
+last_seen: 2026-11-26
+total_mentions: 963
 
 ## Related Tweets
 - [0x0simba_eth](https://x.com/0x0simba_eth/status/2118895661722616112) (2026-11-07)
@@ -355,6 +355,7 @@ total_mentions: 956
 - [TracyWesterman](https://x.com/TracyWesterman/status/2068481367248384086) (2026-06-27)
 - [TrungTPhan](https://x.com/TrungTPhan/status/2107631399952126139) (2026-10-07)
 - [TruthFairy131](https://x.com/TruthFairy131/status/2103348493108822047) (2026-10-01)
+- [Ulys_AI](https://x.com/Ulys_AI/status/2125707775493718238) (2026-11-26)
 - [Uncommonsince76](https://x.com/Uncommonsince76/status/2103524825218138565) (2026-10-01)
 - [VadimStrizheus](https://x.com/VadimStrizheus/status/2113285053270695983) (2026-10-25)
 - [Variety](https://x.com/Variety/status/2078236164197322969) (2026-07-18)
@@ -390,6 +391,7 @@ total_mentions: 956
 - [a16z](https://x.com/a16z/status/2069869327411749012) (2026-06-29)
 - [a16z](https://x.com/a16z/status/2102533548779671854) (2026-09-29)
 - [a16z](https://x.com/a16z/status/2106064267770573281) (2026-10-06)
+- [a16z](https://x.com/a16z/status/2125379237104533523) (2026-11-26)
 - [aakashgupta](https://x.com/aakashgupta/status/2036653323978420322) (2026-07-05)
 - [aakashgupta](https://x.com/aakashgupta/status/2108771001316360615) (2026-10-12)
 - [aakashgupta](https://x.com/aakashgupta/status/2110334554510868603) (2026-10-19)
@@ -526,6 +528,7 @@ total_mentions: 956
 - [danmall](https://x.com/danmall/status/2103615627323727941) (2026-09-27)
 - [darbyw](https://x.com/darbyw/status/2092718828405096955) (2026-08-27)
 - [dashboardlim](https://x.com/dashboardlim/status/2063442813891600548) (2026-06-07)
+- [davefontenot](https://x.com/davefontenot/status/2125673841586577585) (2026-11-26)
 - [davidsenra](https://x.com/davidsenra/status/2093170027390222611) (2026-08-31)
 - [deedydas](https://x.com/deedydas/status/2063075876452155728) (2026-06-06)
 - [deedydas](https://x.com/deedydas/status/2099880100770849001) (2026-09-16)
@@ -589,6 +592,7 @@ total_mentions: 956
 - [gauravsbuilding](https://x.com/gauravsbuilding/status/2116049303647260992) (2026-10-30)
 - [gdb](https://x.com/gdb/status/2076686329686171666) (2026-07-14)
 - [georgegalloway](https://x.com/georgegalloway/status/2104873836264980778) (2026-10-01)
+- [georges_petrov](https://x.com/georges_petrov/status/2125258745676439700) (2026-11-26)
 - [gfodor](https://x.com/gfodor/status/2087658547140276534) (2026-08-13)
 - [gintentco](https://x.com/gintentco/status/2108032709612187780) (2026-10-08)
 - [gkisokay](https://x.com/gkisokay/status/2020853629306212478) (2026-07-25)
@@ -716,6 +720,7 @@ total_mentions: 956
 - [marcrandolph](https://x.com/marcrandolph/status/2093141802610254231) (2026-08-29)
 - [marcushan_](https://x.com/marcushan_/status/2098222906673090570) (2026-09-11)
 - [mardehaym](https://x.com/mardehaym/status/2100945418221769097) (2026-09-22)
+- [mardehaym](https://x.com/mardehaym/status/2125655962480713798) (2026-11-26)
 - [marfinxx](https://x.com/marfinxx/status/2087950466244063718) (2026-08-14)
 - [marfinxx](https://x.com/marfinxx/status/2107093610604765199) (2026-10-10)
 - [margelo_com](https://x.com/margelo_com/status/2092310982710235294) (2026-08-28)
@@ -739,6 +744,7 @@ total_mentions: 956
 - [moneyacademyKE](https://x.com/moneyacademyKE/status/2113472378332459288) (2026-10-24)
 - [mpopv](https://x.com/mpopv/status/2101308984791798189) (2026-09-21)
 - [mr_bailando](https://x.com/mr_bailando/status/2086142677360226342) (2026-08-09)
+- [mroliverpt](https://x.com/mroliverpt/status/2125734332300161230) (2026-11-26)
 - [mynameisdesmond](https://x.com/mynameisdesmond/status/2122721423445885034) (2026-11-18)
 - [nanransohoff](https://x.com/nanransohoff/status/2069761661456601188) (2026-06-28)
 - [nc_tea2024](https://x.com/nc_tea2024/status/2106005188091777143) (2026-10-08)
@@ -778,6 +784,7 @@ total_mentions: 956
 - [pengsonal](https://x.com/pengsonal/status/2102668006023410105) (2026-09-24)
 - [peterbakernyt](https://x.com/peterbakernyt/status/2113998155180130696) (2026-10-25)
 - [petergyang](https://x.com/petergyang/status/2106749997442285981) (2026-10-09)
+- [pfbudzianowski](https://x.com/pfbudzianowski/status/2125609202378821722) (2026-11-26)
 - [piacilegy](https://x.com/piacilegy/status/2112609712982389102) (2026-10-24)
 - [pierreeliottlal](https://x.com/pierreeliottlal/status/2066037831626362988) (2026-06-14)
 - [pitdesi](https://x.com/pitdesi/status/2098178397008781823) (2026-09-12)

@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-25
-total_mentions: 728
+last_seen: 2026-11-26
+total_mentions: 733
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -256,6 +256,7 @@ total_mentions: 728
 - [MstRokeyaK76792](https://x.com/MstRokeyaK76792/status/2096130494102737375) (2026-09-05)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
 - [NainsiDwiv50980](https://x.com/NainsiDwiv50980/status/2062154970229858372) (2026-06-06)
+- [Ngocgb2908](https://x.com/Ngocgb2908/status/2125850113524584492) (2026-11-26)
 - [NixFred](https://x.com/NixFred/status/2109398381277708500) (2026-10-12)
 - [NoctisIntel](https://x.com/NoctisIntel/status/2121512365586018468) (2026-11-14)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/1975269391244874103) (2026-06-08)
@@ -266,6 +267,7 @@ total_mentions: 728
 - [OurTinTinLand](https://x.com/OurTinTinLand/status/2082351358876033195) (2026-07-29)
 - [PalantirTech](https://x.com/PalantirTech/status/2077032712578199604) (2026-07-15)
 - [Peevibes007](https://x.com/Peevibes007/status/2047915508260073869) (2026-07-26)
+- [PrakashS720](https://x.com/PrakashS720/status/2124854429421895902) (2026-11-26)
 - [PredictPro_](https://x.com/PredictPro_/status/2115663414995623981) (2026-10-29)
 - [Priyannkaaaa](https://x.com/Priyannkaaaa/status/2083851157324046649) (2026-08-03)
 - [Promixyz](https://x.com/Promixyz/status/2110310642422780309) (2026-10-17)
@@ -381,6 +383,7 @@ total_mentions: 728
 - [aiteachme_ai](https://x.com/aiteachme_ai/status/2078646890137108586) (2026-07-19)
 - [aiteachme_ai](https://x.com/aiteachme_ai/status/2081183410941280635) (2026-07-26)
 - [aiteachme_ai](https://x.com/aiteachme_ai/status/2086981606355419606) (2026-08-11)
+- [akarixbt](https://x.com/akarixbt/status/2125602400916455833) (2026-11-26)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2070587039679185397) (2026-06-27)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2071509401224261823) (2026-06-30)
 - [akshay_pachaar](https://x.com/akshay_pachaar/status/2078460229365408100) (2026-07-23)
@@ -542,6 +545,7 @@ total_mentions: 728
 - [jdegoes](https://x.com/jdegoes/status/2124498906696618035) (2026-11-23)
 - [jenukal](https://x.com/jenukal/status/2111865563492601949) (2026-10-19)
 - [jiayuan_jy](https://x.com/jiayuan_jy/status/2124554017766621343) (2026-11-25)
+- [jithinvraj](https://x.com/jithinvraj/status/2125609516670898294) (2026-11-26)
 - [john_ssuh](https://x.com/john_ssuh/status/2124336124172935336) (2026-11-22)
 - [johnvirality](https://x.com/johnvirality/status/2070571963555152330) (2026-06-29)
 - [jrogue](https://x.com/jrogue/status/2125123746772230519) (2026-11-24)
@@ -568,6 +572,7 @@ total_mentions: 728
 - [mardehaym](https://x.com/mardehaym/status/2091963865718231069) (2026-08-31)
 - [mardehaym](https://x.com/mardehaym/status/2093275568858874144) (2026-08-31)
 - [mardehaym](https://x.com/mardehaym/status/2110705357492203564) (2026-10-16)
+- [mardehaym](https://x.com/mardehaym/status/2125655962480713798) (2026-11-26)
 - [marfinxx](https://x.com/marfinxx/status/2086785974470668775) (2026-08-11)
 - [marfinxx](https://x.com/marfinxx/status/2088756456661401946) (2026-08-16)
 - [marfinxx](https://x.com/marfinxx/status/2090409251940319349) (2026-08-21)

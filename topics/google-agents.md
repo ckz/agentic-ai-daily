@@ -1,8 +1,8 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-25
-total_mentions: 157
+last_seen: 2026-11-26
+total_mentions: 161
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
@@ -17,6 +17,7 @@ total_mentions: 157
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2111463390233432181) (2026-10-18)
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2117150813403730105) (2026-11-03)
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2119777775095869557) (2026-11-11)
+- [AlexRiad84837](https://x.com/AlexRiad84837/status/2125571869483110638) (2026-11-26)
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2070541643518775354) (2026-06-27)
 - [Arcane_Aii](https://x.com/Arcane_Aii/status/2064316482071171261) (2026-06-11)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2076747075036045645) (2026-07-14)
@@ -68,6 +69,7 @@ total_mentions: 157
 - [Mohiniuni](https://x.com/Mohiniuni/status/2113503183997719010) (2026-10-25)
 - [Mohiniuni](https://x.com/Mohiniuni/status/2124737209022480654) (2026-11-23)
 - [N01ennn](https://x.com/N01ennn/status/2089455117716406706) (2026-08-18)
+- [PrakashS720](https://x.com/PrakashS720/status/2124854429421895902) (2026-11-26)
 - [RhysSullivan](https://x.com/RhysSullivan/status/2073538819132207489) (2026-07-05)
 - [RohOnChain](https://x.com/RohOnChain/status/2086800845036040598) (2026-08-11)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2062274372388507726) (2026-06-05)
@@ -130,6 +132,7 @@ total_mentions: 157
 - [jnagal](https://x.com/jnagal/status/2113347021616943202) (2026-10-23)
 - [karpathy](https://x.com/karpathy/status/2109361546505966046) (2026-10-13)
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
+- [mardehaym](https://x.com/mardehaym/status/2125655962480713798) (2026-11-26)
 - [marfinxx](https://x.com/marfinxx/status/2090409251940319349) (2026-08-21)
 - [masahirochaen](https://x.com/masahirochaen/status/2108420294570574068) (2026-10-13)
 - [mhp_guy](https://x.com/mhp_guy/status/2103594518453055700) (2026-09-28)
@@ -157,6 +160,7 @@ total_mentions: 157
 - [triptitips](https://x.com/triptitips/status/2120855495603011589) (2026-11-16)
 - [triptitips](https://x.com/triptitips/status/2124115165977428052) (2026-11-22)
 - [trreo7](https://x.com/trreo7/status/2122342232158277998) (2026-11-22)
+- [trreo7](https://x.com/trreo7/status/2125073055361995137) (2026-11-26)
 - [undefinedKi](https://x.com/undefinedKi/status/2070221446786215970) (2026-06-27)
 - [undefinedKi](https://x.com/undefinedKi/status/2104235566921379944) (2026-09-30)
 - [unicodef1wn](https://x.com/unicodef1wn/status/2084267503950143998) (2026-08-10)

@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-25
-total_mentions: 411
+last_seen: 2026-11-26
+total_mentions: 413
 
 ## Related Tweets
 - [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
@@ -80,6 +80,7 @@ total_mentions: 411
 - [Faazsh](https://x.com/Faazsh/status/2068572996076540315) (2026-06-21)
 - [FareaNFts](https://x.com/FareaNFts/status/2092673671676727314) (2026-08-27)
 - [FutureStacked](https://x.com/FutureStacked/status/2074159794030604515) (2026-07-07)
+- [GergelyOrosz](https://x.com/GergelyOrosz/status/2125652569779249416) (2026-11-26)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2072410041945075729) (2026-07-04)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2074600211364692029) (2026-07-08)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2080708199594823736) (2026-07-25)
@@ -120,6 +121,7 @@ total_mentions: 411
 - [N01ennn](https://x.com/N01ennn/status/2088606747531358505) (2026-08-21)
 - [N01ennn](https://x.com/N01ennn/status/2088742685255290961) (2026-08-16)
 - [N01ennn](https://x.com/N01ennn/status/2089455117716406706) (2026-08-18)
+- [Ngocgb2908](https://x.com/Ngocgb2908/status/2125850113524584492) (2026-11-26)
 - [NickADobos](https://x.com/NickADobos/status/2090867101028540684) (2026-08-22)
 - [NoahTopper](https://x.com/NoahTopper/status/2081966112691089472) (2026-07-29)
 - [NotionHQ](https://x.com/NotionHQ/status/2095923091134206448) (2026-09-05)

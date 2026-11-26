@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-25
-total_mentions: 255
+last_seen: 2026-11-26
+total_mentions: 256
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -44,6 +44,7 @@ total_mentions: 255
 - [EXM7777](https://x.com/EXM7777/status/2086512844594679820) (2026-08-14)
 - [FareaNFts](https://x.com/FareaNFts/status/2072985538756317458) (2026-07-07)
 - [Fran_alex897](https://x.com/Fran_alex897/status/2124715358254948807) (2026-11-23)
+- [GergelyOrosz](https://x.com/GergelyOrosz/status/2125652569779249416) (2026-11-26)
 - [GodsBoy7777](https://x.com/GodsBoy7777/status/2102146460821152070) (2026-09-22)
 - [GoogleCloudTech](https://x.com/GoogleCloudTech/status/2122359038151106953) (2026-11-19)
 - [Greshamtrade](https://x.com/Greshamtrade/status/2113369499801960699) (2026-10-25)

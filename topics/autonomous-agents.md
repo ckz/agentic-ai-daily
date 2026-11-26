@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-25
-total_mentions: 1841
+last_seen: 2026-11-26
+total_mentions: 1849
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -161,6 +161,7 @@ total_mentions: 1841
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2111463390233432181) (2026-10-18)
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2117150813403730105) (2026-11-03)
 - [AlexRiad84837](https://x.com/AlexRiad84837/status/2119777775095869557) (2026-11-11)
+- [AlexRiad84837](https://x.com/AlexRiad84837/status/2125571869483110638) (2026-11-26)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2072719153107001836) (2026-07-03)
 - [AlfieJCarter](https://x.com/AlfieJCarter/status/2076720209293893677) (2026-07-14)
 - [Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2069720365442719867) (2026-06-27)
@@ -418,6 +419,7 @@ total_mentions: 1841
 - [George_Kurtz](https://x.com/George_Kurtz/status/2099263605900255575) (2026-09-14)
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2087121081098224122) (2026-08-18)
 - [GergelyOrosz](https://x.com/GergelyOrosz/status/2099945497377091902) (2026-09-17)
+- [GergelyOrosz](https://x.com/GergelyOrosz/status/2125652569779249416) (2026-11-26)
 - [GesoraMeshack](https://x.com/GesoraMeshack/status/2084521634937856338) (2026-08-04)
 - [Gfs_Ninja4](https://x.com/Gfs_Ninja4/status/2121807576065331592) (2026-11-15)
 - [GhostOfSocrates](https://x.com/GhostOfSocrates/status/2118470575287083109) (2026-11-09)
@@ -684,6 +686,7 @@ total_mentions: 1841
 - [Polymarket](https://x.com/Polymarket/status/2085186345040023989) (2026-08-06)
 - [Polymarket](https://x.com/Polymarket/status/2104553186816356468) (2026-10-10)
 - [PrakashS720](https://x.com/PrakashS720/status/2065850652832694731) (2026-06-15)
+- [PrakashS720](https://x.com/PrakashS720/status/2124854429421895902) (2026-11-26)
 - [PrimeIntellect](https://x.com/PrimeIntellect/status/2085086999267144083) (2026-08-06)
 - [PrismML](https://x.com/PrismML/status/2077084891284721827) (2026-07-15)
 - [PrismML](https://x.com/PrismML/status/2100692248480596348) (2026-09-19)
@@ -1055,6 +1058,7 @@ total_mentions: 1841
 - [bondaicommunity](https://x.com/bondaicommunity/status/2071466190359220413) (2026-06-29)
 - [bonduelleioat](https://x.com/bonduelleioat/status/2075607394428617199) (2026-07-13)
 - [bonsaixbt](https://x.com/bonsaixbt/status/2077722769194615193) (2026-07-17)
+- [bottegamd](https://x.com/bottegamd/status/2125595134037262708) (2026-11-26)
 - [bountywriteups](https://x.com/bountywriteups/status/2095142679764226142) (2026-09-03)
 - [brian_armstrong](https://x.com/brian_armstrong/status/2081504081902780564) (2026-07-29)
 - [brian_armstrong](https://x.com/brian_armstrong/status/2084019794257301679) (2026-08-03)
@@ -1146,6 +1150,7 @@ total_mentions: 1841
 - [dair_ai](https://x.com/dair_ai/status/2088298364458930462) (2026-08-15)
 - [dair_ai](https://x.com/dair_ai/status/2092260466190106974) (2026-08-30)
 - [dair_ai](https://x.com/dair_ai/status/2097022152088445034) (2026-09-08)
+- [dair_ai](https://x.com/dair_ai/status/2123918068393144639) (2026-11-26)
 - [daisy_btc988](https://x.com/daisy_btc988/status/2102284082973663268) (2026-09-23)
 - [damkina7](https://x.com/damkina7/status/2122427050615275722) (2026-11-18)
 - [dan__rosenthal](https://x.com/dan__rosenthal/status/2086165641594048875) (2026-08-09)
@@ -1437,6 +1442,7 @@ total_mentions: 1841
 - [mardehaym](https://x.com/mardehaym/status/2092516152274554891) (2026-08-27)
 - [mardehaym](https://x.com/mardehaym/status/2097736766245499226) (2026-09-10)
 - [mardehaym](https://x.com/mardehaym/status/2113990724282724742) (2026-10-27)
+- [mardehaym](https://x.com/mardehaym/status/2125655962480713798) (2026-11-26)
 - [marfinxx](https://x.com/marfinxx/status/2083523471846281590) (2026-08-02)
 - [marfinxx](https://x.com/marfinxx/status/2086785974470668775) (2026-08-11)
 - [marfinxx](https://x.com/marfinxx/status/2087950466244063718) (2026-08-14)
@@ -1740,6 +1746,7 @@ total_mentions: 1841
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2117225221971415403) (2026-11-05)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2117587605982527581) (2026-11-06)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2119398712288202950) (2026-11-09)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2125114695623278842) (2026-11-26)
 - [svonava](https://x.com/svonava/status/2117664970762846449) (2026-11-04)
 - [svpino](https://x.com/svpino/status/2098096263841697857) (2026-09-12)
 - [swyx](https://x.com/swyx/status/2076155833428431012) (2026-07-12)
@@ -1794,6 +1801,7 @@ total_mentions: 1841
 - [triptitips](https://x.com/triptitips/status/2120855495603011589) (2026-11-16)
 - [triptitips](https://x.com/triptitips/status/2124115165977428052) (2026-11-22)
 - [trreo7](https://x.com/trreo7/status/2122342232158277998) (2026-11-22)
+- [trreo7](https://x.com/trreo7/status/2125073055361995137) (2026-11-26)
 - [trythreews](https://x.com/trythreews/status/2075519714890334698) (2026-07-12)
 - [trythreews](https://x.com/trythreews/status/2096260452875644976) (2026-09-12)
 - [tsukiema_](https://x.com/tsukiema_/status/2113988709150261313) (2026-10-25)

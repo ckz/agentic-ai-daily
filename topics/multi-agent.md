@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-11-25
-total_mentions: 466
+last_seen: 2026-11-26
+total_mentions: 471
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -175,6 +175,7 @@ total_mentions: 466
 - [MikeLongTerm](https://x.com/MikeLongTerm/status/2083580958519783522) (2026-08-07)
 - [NVIDIAAP](https://x.com/NVIDIAAP/status/2076879361504903645) (2026-07-21)
 - [PrakashS720](https://x.com/PrakashS720/status/2065850652832694731) (2026-06-15)
+- [PrakashS720](https://x.com/PrakashS720/status/2124854429421895902) (2026-11-26)
 - [PrimeIntellect](https://x.com/PrimeIntellect/status/2085086999267144083) (2026-08-06)
 - [ProfBuehlerMIT](https://x.com/ProfBuehlerMIT/status/2093630309585531033) (2026-09-01)
 - [Promixyz](https://x.com/Promixyz/status/2110310642422780309) (2026-10-17)
@@ -202,6 +203,7 @@ total_mentions: 466
 - [SolanaHub_](https://x.com/SolanaHub_/status/2008992037417185560) (2026-07-10)
 - [SolanaHub_](https://x.com/SolanaHub_/status/2011906234765754646) (2026-07-10)
 - [SourabhGurwani](https://x.com/SourabhGurwani/status/2081721763428483158) (2026-07-28)
+- [Sownjuinho](https://x.com/Sownjuinho/status/2125605535747555542) (2026-11-26)
 - [Spectre__AI](https://x.com/Spectre__AI/status/2107138516492689556) (2026-10-07)
 - [SpikeCalls](https://x.com/SpikeCalls/status/2063529090091532540) (2026-06-08)
 - [Stan_Steps](https://x.com/Stan_Steps/status/2120698584580432053) (2026-11-15)
@@ -306,6 +308,7 @@ total_mentions: 466
 - [expertwith_AI](https://x.com/expertwith_AI/status/2070094109109567845) (2026-06-27)
 - [f3m1da](https://x.com/f3m1da/status/2119777054333837628) (2026-11-13)
 - [forecast_agents](https://x.com/forecast_agents/status/2079822864614555806) (2026-07-22)
+- [georges_petrov](https://x.com/georges_petrov/status/2125258745676439700) (2026-11-26)
 - [ghumare64](https://x.com/ghumare64/status/2107329844912754918) (2026-10-10)
 - [ghumare64](https://x.com/ghumare64/status/2113599963670397206) (2026-10-24)
 - [gippp69](https://x.com/gippp69/status/2062224522237890675) (2026-06-08)
@@ -345,6 +348,7 @@ total_mentions: 466
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
 - [levie](https://x.com/levie/status/2110622982762803449) (2026-10-18)
 - [lucas_flatwhite](https://x.com/lucas_flatwhite/status/2073646837894992126) (2026-07-05)
+- [mardehaym](https://x.com/mardehaym/status/2125655962480713798) (2026-11-26)
 - [marfinxx](https://x.com/marfinxx/status/2083523471846281590) (2026-08-02)
 - [marfinxx](https://x.com/marfinxx/status/2090409251940319349) (2026-08-21)
 - [marfinxx](https://x.com/marfinxx/status/2095482857258967228) (2026-09-09)
@@ -439,6 +443,7 @@ total_mentions: 466
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2117074214083838004) (2026-11-02)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2117587605982527581) (2026-11-06)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2119398712288202950) (2026-11-09)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2125114695623278842) (2026-11-26)
 - [svpino](https://x.com/svpino/status/2071975885570441658) (2026-07-01)
 - [swarms_corp](https://x.com/swarms_corp/status/2062886985883082914) (2026-06-05)
 - [swarms_corp](https://x.com/swarms_corp/status/2065570314268885211) (2026-06-13)
