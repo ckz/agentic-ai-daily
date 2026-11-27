@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-26
-total_mentions: 1849
+last_seen: 2026-11-27
+total_mentions: 1859
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -101,6 +101,7 @@ total_mentions: 1849
 - [5000hui](https://x.com/5000hui/status/2120049453033984002) (2026-11-13)
 - [ACTICOMMUNITY](https://x.com/ACTICOMMUNITY/status/1916487048585691529) (2026-06-29)
 - [AEON_Community](https://x.com/AEON_Community/status/2064694068677107745) (2026-06-11)
+- [AICodingSummit](https://x.com/AICodingSummit/status/2108615765033382184) (2026-11-27)
 - [AIEconomicsUS](https://x.com/AIEconomicsUS/status/2067518067714806161) (2026-06-19)
 - [AIEconomicsUS](https://x.com/AIEconomicsUS/status/2079540400696496324) (2026-07-22)
 - [AIFrontliner](https://x.com/AIFrontliner/status/2083131049383428440) (2026-08-02)
@@ -136,6 +137,7 @@ total_mentions: 1849
 - [ActionModelAI](https://x.com/ActionModelAI/status/2107492691420266808) (2026-10-07)
 - [AdamTornhill](https://x.com/AdamTornhill/status/2097973404179583225) (2026-09-12)
 - [AdelDeveloperX](https://x.com/AdelDeveloperX/status/2074195359199375745) (2026-07-07)
+- [Adsideai](https://x.com/Adsideai/status/2085505782192521397) (2026-11-27)
 - [Agek1d](https://x.com/Agek1d/status/2121812484675772724) (2026-11-15)
 - [AgentIdETH](https://x.com/AgentIdETH/status/2117526063643308173) (2026-11-04)
 - [AgenticAIFdn](https://x.com/AgenticAIFdn/status/2077740129284764108) (2026-07-17)
@@ -151,6 +153,8 @@ total_mentions: 1849
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2073021437963825410) (2026-07-05)
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2081039269414793590) (2026-07-26)
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2110558782862340205) (2026-10-21)
+- [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2123710445630726223) (2026-11-27)
+- [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2125416684924358968) (2026-11-27)
 - [Akasheth_](https://x.com/Akasheth_/status/2063933265954918837) (2026-06-10)
 - [Alacritic_Super](https://x.com/Alacritic_Super/status/2088341517744361787) (2026-08-19)
 - [AleksDoesCode](https://x.com/AleksDoesCode/status/2100500636940849250) (2026-09-20)
@@ -598,6 +602,7 @@ total_mentions: 1849
 - [MeenakshiYACS](https://x.com/MeenakshiYACS/status/2081303563746398665) (2026-07-28)
 - [Meituan_LongCat](https://x.com/Meituan_LongCat/status/2071783587205308721) (2026-06-30)
 - [MetaBot_Apps](https://x.com/MetaBot_Apps/status/2079443871382323319) (2026-07-21)
+- [MichaelDell](https://x.com/MichaelDell/status/2104548750412673119) (2026-11-27)
 - [MichaelGannotti](https://x.com/MichaelGannotti/status/2079168568478912834) (2026-07-21)
 - [Michael_J_Black](https://x.com/Michael_J_Black/status/2097585486466327003) (2026-09-09)
 - [MikeLongTerm](https://x.com/MikeLongTerm/status/2083580958519783522) (2026-08-07)
@@ -774,6 +779,7 @@ total_mentions: 1849
 - [Scobleizer](https://x.com/Scobleizer/status/2071815842166424002) (2026-07-03)
 - [SeedifyFund](https://x.com/SeedifyFund/status/1882843585470406990) (2026-06-08)
 - [SeijinJung](https://x.com/SeijinJung/status/2118010633824149708) (2026-11-05)
+- [SenseTime_AI](https://x.com/SenseTime_AI/status/2125586674830959069) (2026-11-27)
 - [SenthilRaj16078](https://x.com/SenthilRaj16078/status/2079078212173431259) (2026-07-20)
 - [ServerpodDev](https://x.com/ServerpodDev/status/2064307450392514790) (2026-06-10)
 - [ShawnYao77](https://x.com/ShawnYao77/status/2082343891689504790) (2026-07-29)
@@ -790,6 +796,8 @@ total_mentions: 1849
 - [SolanasAgents](https://x.com/SolanasAgents/status/2086876312615129103) (2026-08-11)
 - [SomieCITYY](https://x.com/SomieCITYY/status/2082672524169445396) (2026-08-01)
 - [SoribeStella](https://x.com/SoribeStella/status/2108195716405326065) (2026-10-09)
+- [Sownjuinho](https://x.com/Sownjuinho/status/2123813768593350933) (2026-11-27)
+- [Sownjuinho](https://x.com/Sownjuinho/status/2125970362546401708) (2026-11-27)
 - [Spectre__AI](https://x.com/Spectre__AI/status/2084677141870883158) (2026-08-07)
 - [Spectre__AI](https://x.com/Spectre__AI/status/2107138516492689556) (2026-10-07)
 - [Sprytixl](https://x.com/Sprytixl/status/2086533982385033355) (2026-08-11)
@@ -840,6 +848,7 @@ total_mentions: 1849
 - [TheValueist](https://x.com/TheValueist/status/2072334968940900744) (2026-07-03)
 - [TheYotg](https://x.com/TheYotg/status/2079150076392358363) (2026-07-27)
 - [The_Cyber_News](https://x.com/The_Cyber_News/status/2096594188003676213) (2026-09-12)
+- [ThiboNeveu](https://x.com/ThiboNeveu/status/2125160854374973638) (2026-11-27)
 - [Tim_Dettmers](https://x.com/Tim_Dettmers/status/2102044298350899591) (2026-09-22)
 - [TimesOfAI_](https://x.com/TimesOfAI_/status/2085233016067211331) (2026-08-12)
 - [TimothyAyodeji8](https://x.com/TimothyAyodeji8/status/2043757324414726383) (2026-11-11)
@@ -1804,6 +1813,7 @@ total_mentions: 1849
 - [trreo7](https://x.com/trreo7/status/2125073055361995137) (2026-11-26)
 - [trythreews](https://x.com/trythreews/status/2075519714890334698) (2026-07-12)
 - [trythreews](https://x.com/trythreews/status/2096260452875644976) (2026-09-12)
+- [tsawada_ml](https://x.com/tsawada_ml/status/1714111919550759368) (2026-11-27)
 - [tsukiema_](https://x.com/tsukiema_/status/2113988709150261313) (2026-10-25)
 - [tsukiema_](https://x.com/tsukiema_/status/2124167616981869019) (2026-11-23)
 - [tylerlum23](https://x.com/tylerlum23/status/2120278890870718714) (2026-11-11)

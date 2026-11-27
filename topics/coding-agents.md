@@ -1,12 +1,13 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-26
-total_mentions: 256
+last_seen: 2026-11-27
+total_mentions: 259
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
 - [0x_kaize](https://x.com/0x_kaize/status/2073743517155774641) (2026-07-16)
+- [0xsoul](https://x.com/0xsoul/status/2124485659041604080) (2026-11-27)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2116168249486323780) (2026-11-05)
 - [AforeVC](https://x.com/AforeVC/status/2124914525355028494) (2026-11-24)
 - [AiNicolas75316](https://x.com/AiNicolas75316/status/2079199374819914080) (2026-07-22)
@@ -157,6 +158,7 @@ total_mentions: 256
 - [emmanuel_2m](https://x.com/emmanuel_2m/status/2103097017073361137) (2026-09-25)
 - [ephraim888sun](https://x.com/ephraim888sun/status/2122911791126614166) (2026-11-20)
 - [ericzakariasson](https://x.com/ericzakariasson/status/2102853511637774551) (2026-09-26)
+- [ethrenity](https://x.com/ethrenity/status/2126009178715984013) (2026-11-27)
 - [evilrabbit_](https://x.com/evilrabbit_/status/2116581580995194985) (2026-11-01)
 - [expo](https://x.com/expo/status/2111093147103310022) (2026-10-17)
 - [figma](https://x.com/figma/status/2112669039009104059) (2026-10-21)
@@ -177,6 +179,7 @@ total_mentions: 256
 - [hxiao](https://x.com/hxiao/status/2094519020531994639) (2026-09-02)
 - [iam_elias1](https://x.com/iam_elias1/status/2064340870640316583) (2026-06-10)
 - [illyism](https://x.com/illyism/status/2123675279210242167) (2026-11-22)
+- [imryven](https://x.com/imryven/status/2125642451734114517) (2026-11-27)
 - [jack_gor](https://x.com/jack_gor/status/2081246839345643609) (2026-07-26)
 - [jahooma](https://x.com/jahooma/status/2069951731539349823) (2026-07-03)
 - [jahooma](https://x.com/jahooma/status/2093137551918051624) (2026-08-29)

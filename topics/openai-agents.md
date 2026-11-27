@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-25
-total_mentions: 127
+last_seen: 2026-11-27
+total_mentions: 129
 
 ## Related Tweets
 - [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
@@ -15,6 +15,7 @@ total_mentions: 127
 - [AISecurityInst](https://x.com/AISecurityInst/status/2084746202579386632) (2026-08-06)
 - [AIcastmedia](https://x.com/AIcastmedia/status/2105530650660835350) (2026-10-01)
 - [AggrNews](https://x.com/AggrNews/status/2110911030905692537) (2026-10-16)
+- [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2123710445630726223) (2026-11-27)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2080793930279625134) (2026-07-28)
 - [AndrewYNg](https://x.com/AndrewYNg/status/2102140576498065758) (2026-09-22)
 - [AnthonyNAguirre](https://x.com/AnthonyNAguirre/status/2080523331988500488) (2026-07-26)
@@ -55,6 +56,7 @@ total_mentions: 127
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2094119206132535493) (2026-08-31)
 - [SakanaAILabs](https://x.com/SakanaAILabs/status/2098233826816205275) (2026-09-11)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)
+- [SenseTime_AI](https://x.com/SenseTime_AI/status/2125586674830959069) (2026-11-27)
 - [ShenSeanChen](https://x.com/ShenSeanChen/status/2124533366473023832) (2026-11-23)
 - [StockSavvyShay](https://x.com/StockSavvyShay/status/2104989538066305148) (2026-09-30)
 - [StockSavvyShay](https://x.com/StockSavvyShay/status/2105104103299035382) (2026-09-30)

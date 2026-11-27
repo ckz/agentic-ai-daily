@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-26
-total_mentions: 413
+last_seen: 2026-11-27
+total_mentions: 415
 
 ## Related Tweets
 - [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
@@ -36,6 +36,7 @@ total_mentions: 413
 - [AnatoliKopadze](https://x.com/AnatoliKopadze/status/2065054167677170033) (2026-06-12)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2086567854850384054) (2026-08-13)
 - [AndrewCurran_](https://x.com/AndrewCurran_/status/2087730345173229657) (2026-08-13)
+- [AnthropicAI](https://x.com/AnthropicAI/status/2125341904644763678) (2026-11-27)
 - [Anujatk14](https://x.com/Anujatk14/status/2096628315700564293) (2026-09-11)
 - [Arcane_Aii](https://x.com/Arcane_Aii/status/2064316482071171261) (2026-06-11)
 - [ArchiveExplorer](https://x.com/ArchiveExplorer/status/2076666622043963789) (2026-07-14)
@@ -143,6 +144,7 @@ total_mentions: 413
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2093183037475536942) (2026-08-28)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2109754732529258948) (2026-10-14)
 - [RoundtableSpace](https://x.com/RoundtableSpace/status/2109966127111540755) (2026-10-17)
+- [SCR01111](https://x.com/SCR01111/status/2125175136752144594) (2026-11-27)
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2079048442073280524) (2026-07-21)
 - [Saboo_Shubham_](https://x.com/Saboo_Shubham_/status/2120048838144909358) (2026-11-16)
 - [Scobleizer](https://x.com/Scobleizer/status/2070664770416754775) (2026-06-27)

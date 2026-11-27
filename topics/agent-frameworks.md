@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-26
-total_mentions: 733
+last_seen: 2026-11-27
+total_mentions: 738
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -41,6 +41,8 @@ total_mentions: 733
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2073021437963825410) (2026-07-05)
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2081039269414793590) (2026-07-26)
 - [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2110558782862340205) (2026-10-21)
+- [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2123710445630726223) (2026-11-27)
+- [AiswaryaVenkit1](https://x.com/AiswaryaVenkit1/status/2125416684924358968) (2026-11-27)
 - [Akasheth_](https://x.com/Akasheth_/status/2063933265954918837) (2026-06-10)
 - [Alacritic_Super](https://x.com/Alacritic_Super/status/2073340264895438850) (2026-07-05)
 - [AlchemyJ_io](https://x.com/AlchemyJ_io/status/2074319995035939293) (2026-07-07)
@@ -215,6 +217,7 @@ total_mentions: 733
 - [KirkDBorne](https://x.com/KirkDBorne/status/2072425629627330995) (2026-07-02)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2076503185225617544) (2026-07-13)
 - [KirkDBorne](https://x.com/KirkDBorne/status/2084357801359347866) (2026-08-09)
+- [LailaMaryzn](https://x.com/LailaMaryzn/status/2125806875711332683) (2026-11-27)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2057515213314998328) (2026-06-27)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2058615544048451842) (2026-07-04)
 - [LearnWithBrij](https://x.com/LearnWithBrij/status/2077255147772891306) (2026-07-15)
@@ -328,6 +331,7 @@ total_mentions: 733
 - [TheTuringPost](https://x.com/TheTuringPost/status/2076827153665331469) (2026-07-19)
 - [TheValueist](https://x.com/TheValueist/status/2072334968940900744) (2026-07-03)
 - [The_Cyber_News](https://x.com/The_Cyber_News/status/2096594188003676213) (2026-09-12)
+- [ThiboNeveu](https://x.com/ThiboNeveu/status/2125160854374973638) (2026-11-27)
 - [Thom_Wolf](https://x.com/Thom_Wolf/status/2095889630306472127) (2026-09-06)
 - [ThomasOrTK](https://x.com/ThomasOrTK/status/2072005642727158247) (2026-07-01)
 - [TimothyAyodeji8](https://x.com/TimothyAyodeji8/status/2043757324414726383) (2026-11-11)
@@ -584,6 +588,7 @@ total_mentions: 733
 - [mentalium_](https://x.com/mentalium_/status/2118723483286778349) (2026-11-09)
 - [michealsathiya](https://x.com/michealsathiya/status/2120344258486178043) (2026-11-11)
 - [michyexe](https://x.com/michyexe/status/2000613204116844826) (2026-06-15)
+- [mihail_eric](https://x.com/mihail_eric/status/2126064875474685978) (2026-11-27)
 - [mikenevermiss](https://x.com/mikenevermiss/status/2071513914504802525) (2026-07-01)
 - [milesdeutscher](https://x.com/milesdeutscher/status/2080208806043406646) (2026-07-24)
 - [mojeskoqq](https://x.com/mojeskoqq/status/2085273824413503536) (2026-08-09)

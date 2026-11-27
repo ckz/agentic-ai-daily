@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-26
-total_mentions: 963
+last_seen: 2026-11-27
+total_mentions: 971
 
 ## Related Tweets
 - [0x0simba_eth](https://x.com/0x0simba_eth/status/2118895661722616112) (2026-11-07)
@@ -21,6 +21,7 @@ total_mentions: 963
 - [16vchq](https://x.com/16vchq/status/2111452434107334943) (2026-10-18)
 - [16vchq](https://x.com/16vchq/status/2122176799929250210) (2026-11-16)
 - [16vchq](https://x.com/16vchq/status/2123473588707868961) (2026-11-20)
+- [16vchq](https://x.com/16vchq/status/2126013452414337065) (2026-11-27)
 - [2whazzuup](https://x.com/2whazzuup/status/2113971733871104275) (2026-10-30)
 - [3blue1brown](https://x.com/3blue1brown/status/2111135480116850944) (2026-10-18)
 - [505_Games](https://x.com/505_Games/status/2082400795060773202) (2026-08-03)
@@ -34,6 +35,7 @@ total_mentions: 963
 - [AISafetyMemes](https://x.com/AISafetyMemes/status/2087549262427263014) (2026-08-15)
 - [AITECHLabs](https://x.com/AITECHLabs/status/2083070154548654199) (2026-07-31)
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
+- [AIsaOneHQ](https://x.com/AIsaOneHQ/status/2123963653695393943) (2026-11-27)
 - [AIwithSajid](https://x.com/AIwithSajid/status/2101849697564659742) (2026-09-21)
 - [AIwithSajid](https://x.com/AIwithSajid/status/2108742053710762420) (2026-10-10)
 - [AOC](https://x.com/AOC/status/1145766311794040834) (2026-10-01)
@@ -183,6 +185,7 @@ total_mentions: 963
 - [IVANKA___Q](https://x.com/IVANKA___Q/status/2104008968582422591) (2026-10-04)
 - [InTheAssembly](https://x.com/InTheAssembly/status/2073857255099773185) (2026-07-06)
 - [InsiderWire](https://x.com/InsiderWire/status/2105514967009210747) (2026-10-01)
+- [InstantFunding_](https://x.com/InstantFunding_/status/2125986706520178914) (2026-11-27)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2075516156161536088) (2026-07-13)
 - [IntCyberDigest](https://x.com/IntCyberDigest/status/2082740804854985035) (2026-08-16)
 - [IsomorphicLabs](https://x.com/IsomorphicLabs/status/2122661054723547449) (2026-11-19)
@@ -347,6 +350,7 @@ total_mentions: 963
 - [TheoAugust8](https://x.com/TheoAugust8/status/2063166492519158257) (2026-06-06)
 - [ThiaBallerina](https://x.com/ThiaBallerina/status/2103870579577434455) (2026-10-01)
 - [ThisIsBhandari](https://x.com/ThisIsBhandari/status/2109553094162002345) (2026-10-13)
+- [ThisIsNewWave_](https://x.com/ThisIsNewWave_/status/2123768316158500928) (2026-11-27)
 - [Tipoftheberg](https://x.com/Tipoftheberg/status/2121304864332599716) (2026-11-14)
 - [Tocelot](https://x.com/Tocelot/status/2110026020766036273) (2026-10-14)
 - [TokenizedPod](https://x.com/TokenizedPod/status/2079219793299746929) (2026-07-22)
@@ -576,6 +580,7 @@ total_mentions: 963
 - [ethancole_ai](https://x.com/ethancole_ai/status/2090849492530512046) (2026-08-22)
 - [ethereum](https://x.com/ethereum/status/2079217433059996150) (2026-07-23)
 - [euniceajim](https://x.com/euniceajim/status/2104677782496145481) (2026-09-29)
+- [exec_sum](https://x.com/exec_sum/status/2124611734321373473) (2026-11-27)
 - [fado_fft](https://x.com/fado_fft/status/2101366268137721992) (2026-09-20)
 - [fal](https://x.com/fal/status/2117679688860508283) (2026-11-09)
 - [featherrobotics](https://x.com/featherrobotics/status/2103199788217057728) (2026-09-25)
@@ -627,6 +632,7 @@ total_mentions: 963
 - [hanifproduktif](https://x.com/hanifproduktif/status/2108025812448600435) (2026-10-09)
 - [harbingerofwoke](https://x.com/harbingerofwoke/status/2090178064399613976) (2026-10-01)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
+- [heyblake](https://x.com/heyblake/status/2125983503544205481) (2026-11-27)
 - [heynavtoor](https://x.com/heynavtoor/status/2090103120399655356) (2026-08-20)
 - [holonabove](https://x.com/holonabove/status/2098020577269141795) (2026-09-14)
 - [hone](https://x.com/hone/status/2108218574926176490) (2026-10-11)
@@ -840,6 +846,7 @@ total_mentions: 963
 - [salimboujaddi](https://x.com/salimboujaddi/status/2118416905799389406) (2026-11-07)
 - [samsenchal](https://x.com/samsenchal/status/2068605085089693994) (2026-06-21)
 - [samuelcolvin](https://x.com/samuelcolvin/status/2103469459981619243) (2026-09-26)
+- [samyakjain963](https://x.com/samyakjain963/status/2125923393933627833) (2026-11-27)
 - [santtiagom_](https://x.com/santtiagom_/status/2122333890350051378) (2026-11-19)
 - [sarahzorah](https://x.com/sarahzorah/status/2108401845563806150) (2026-10-09)
 - [sean_wallace_](https://x.com/sean_wallace_/status/2063994540873433201) (2026-06-09)
@@ -968,3 +975,4 @@ total_mentions: 963
 - [zeChedli](https://x.com/zeChedli/status/2107930537583136983) (2026-10-08)
 - [zerohedge](https://x.com/zerohedge/status/2062966281888756042) (2026-06-12)
 - [zerohedge](https://x.com/zerohedge/status/2087712412216512913) (2026-08-13)
+- [znatskaia](https://x.com/znatskaia/status/2125946748313186579) (2026-11-27)
