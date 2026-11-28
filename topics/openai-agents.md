@@ -1,8 +1,8 @@
 # Openai Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-27
-total_mentions: 129
+last_seen: 2026-11-28
+total_mentions: 131
 
 ## Related Tweets
 - [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
@@ -22,6 +22,7 @@ total_mentions: 129
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2095595489031000350) (2026-09-04)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2102438210798514391) (2026-09-23)
 - [ArtificialAnlys](https://x.com/ArtificialAnlys/status/2105025585332605357) (2026-09-30)
+- [AtomicStrata](https://x.com/AtomicStrata/status/2122129461529162226) (2026-11-28)
 - [Base_EUR](https://x.com/Base_EUR/status/2104873827645997562) (2026-09-30)
 - [Benioff](https://x.com/Benioff/status/2123249365875904551) (2026-11-19)
 - [Brainm8ion](https://x.com/Brainm8ion/status/2087751034944803135) (2026-08-13)
@@ -124,6 +125,7 @@ total_mentions: 129
 - [sharongoldman](https://x.com/sharongoldman/status/2085121826418831484) (2026-08-07)
 - [sonalshukla3377](https://x.com/sonalshukla3377/status/2089191836296654904) (2026-08-20)
 - [stretchcloud](https://x.com/stretchcloud/status/2111630593679368210) (2026-10-19)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2125839470348120142) (2026-11-28)
 - [testingcatalog](https://x.com/testingcatalog/status/2096949150755471510) (2026-09-08)
 - [testingcatalog](https://x.com/testingcatalog/status/2104715471841034537) (2026-09-29)
 - [triptitips](https://x.com/triptitips/status/2101682470655758391) (2026-09-21)

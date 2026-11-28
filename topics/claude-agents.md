@@ -1,8 +1,8 @@
 # Claude Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-27
-total_mentions: 415
+last_seen: 2026-11-28
+total_mentions: 420
 
 ## Related Tweets
 - [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
@@ -289,6 +289,7 @@ total_mentions: 415
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [hasantoxr](https://x.com/hasantoxr/status/2110043923121045708) (2026-10-18)
 - [hayatomaruu](https://x.com/hayatomaruu/status/2107560089833849101) (2026-10-07)
+- [hbonnymz](https://x.com/hbonnymz/status/2126544030284599545) (2026-11-28)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [heynavtoor](https://x.com/heynavtoor/status/2083221614595051602) (2026-08-05)
 - [huacnlee](https://x.com/huacnlee/status/2105550545939484751) (2026-10-01)
@@ -308,10 +309,12 @@ total_mentions: 415
 - [jqdsouza](https://x.com/jqdsouza/status/2112552451547001218) (2026-10-21)
 - [karpathy](https://x.com/karpathy/status/2015883857489522876) (2026-09-19)
 - [kazutoyo](https://x.com/kazutoyo/status/2120247256981070328) (2026-11-11)
+- [kevindatas](https://x.com/kevindatas/status/2124505027880382512) (2026-11-28)
 - [kloss_xyz](https://x.com/kloss_xyz/status/2099714012867178531) (2026-09-19)
 - [kobaHUB](https://x.com/kobaHUB/status/2071874384466198957) (2026-07-04)
 - [kunalstwt](https://x.com/kunalstwt/status/2073978095644643520) (2026-07-06)
 - [lennysan](https://x.com/lennysan/status/2058914803360600238) (2026-06-12)
+- [leviackermanft](https://x.com/leviackermanft/status/2126545157957063096) (2026-11-28)
 - [lionel_mora](https://x.com/lionel_mora/status/2123464205525221709) (2026-11-20)
 - [lksmlabc](https://x.com/lksmlabc/status/2096524556123115628) (2026-09-09)
 - [longhaiqwe123](https://x.com/longhaiqwe123/status/2114031712430948410) (2026-10-25)
@@ -359,6 +362,7 @@ total_mentions: 415
 - [ridark_eth](https://x.com/ridark_eth/status/2114830200810930276) (2026-10-30)
 - [rileybrown](https://x.com/rileybrown/status/2101027402369335382) (2026-09-19)
 - [rileybrown](https://x.com/rileybrown/status/2107320826575937563) (2026-10-07)
+- [rileybrown](https://x.com/rileybrown/status/2126431351914233943) (2026-11-28)
 - [rohanpaul_ai](https://x.com/rohanpaul_ai/status/2092970481423192328) (2026-09-03)
 - [rvaniaaaa](https://x.com/rvaniaaaa/status/2111904670226563170) (2026-10-20)
 - [s1rozha_](https://x.com/s1rozha_/status/2071932939617656862) (2026-07-02)
@@ -382,6 +386,7 @@ total_mentions: 415
 - [stretchcloud](https://x.com/stretchcloud/status/2107375555788345677) (2026-10-06)
 - [stretchcloud](https://x.com/stretchcloud/status/2111630593679368210) (2026-10-19)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2108242267257307180) (2026-10-10)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2125839470348120142) (2026-11-28)
 - [tanayj](https://x.com/tanayj/status/2072108170080657729) (2026-07-01)
 - [tetsuoai](https://x.com/tetsuoai/status/2098199890237247578) (2026-09-11)
 - [theAgentFirm](https://x.com/theAgentFirm/status/2118508882536329522) (2026-11-09)

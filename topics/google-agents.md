@@ -1,13 +1,14 @@
 # Google Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-26
-total_mentions: 161
+last_seen: 2026-11-28
+total_mentions: 163
 
 ## Related Tweets
 - [0xCodez](https://x.com/0xCodez/status/2071616173620240885) (2026-06-30)
 - [0xCodila](https://x.com/0xCodila/status/2082515252445655186) (2026-07-30)
 - [0xCodila](https://x.com/0xCodila/status/2085412493858377871) (2026-08-13)
+- [0xMovez](https://x.com/0xMovez/status/2126337525581050102) (2026-11-28)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2083305262035632347) (2026-08-02)
 - [0xwhrrari](https://x.com/0xwhrrari/status/2083666109874753797) (2026-08-03)
 - [AISafetyMemes](https://x.com/AISafetyMemes/status/2087549262427263014) (2026-08-15)
@@ -155,6 +156,7 @@ total_mentions: 161
 - [sheemamoto](https://x.com/sheemamoto/status/2099571838514864241) (2026-09-15)
 - [skyvense](https://x.com/skyvense/status/2121862344733008179) (2026-11-15)
 - [stretchcloud](https://x.com/stretchcloud/status/2075441635157262484) (2026-07-10)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2125839470348120142) (2026-11-28)
 - [triptitips](https://x.com/triptitips/status/2101682470655758391) (2026-09-21)
 - [triptitips](https://x.com/triptitips/status/2103681542602265021) (2026-09-29)
 - [triptitips](https://x.com/triptitips/status/2120855495603011589) (2026-11-16)

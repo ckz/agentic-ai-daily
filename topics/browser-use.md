@@ -1,8 +1,8 @@
 # Browser Use
 
 first_seen: 2026-06-07
-last_seen: 2026-11-27
-total_mentions: 69
+last_seen: 2026-11-28
+total_mentions: 70
 
 ## Related Tweets
 - [0xAiky](https://x.com/0xAiky/status/2122681285143322761) (2026-11-18)
@@ -27,6 +27,7 @@ total_mentions: 69
 - [NickADobos](https://x.com/NickADobos/status/2090867101028540684) (2026-08-22)
 - [NousResearch](https://x.com/NousResearch/status/2086881660658663469) (2026-08-14)
 - [OpenAIDevs](https://x.com/OpenAIDevs/status/2065226355495895521) (2026-06-15)
+- [PrakashS720](https://x.com/PrakashS720/status/2125564778987081923) (2026-11-28)
 - [Promixyz](https://x.com/Promixyz/status/2110310642422780309) (2026-10-17)
 - [RobKnight__](https://x.com/RobKnight__/status/2082859704955642254) (2026-08-01)
 - [SamSokolin](https://x.com/SamSokolin/status/2094824011427373415) (2026-09-03)

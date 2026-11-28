@@ -1,8 +1,8 @@
 # Agent Frameworks
 
 first_seen: 2026-06-05
-last_seen: 2026-11-27
-total_mentions: 738
+last_seen: 2026-11-28
+total_mentions: 745
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -15,10 +15,12 @@ total_mentions: 738
 - [0xMorlex](https://x.com/0xMorlex/status/2083551815895798048) (2026-08-02)
 - [0xMortyx](https://x.com/0xMortyx/status/2061491256107159736) (2026-06-07)
 - [0xMovez](https://x.com/0xMovez/status/2118756438550196404) (2026-11-12)
+- [0xMovez](https://x.com/0xMovez/status/2126337525581050102) (2026-11-28)
 - [0xPritom](https://x.com/0xPritom/status/2114193806929297550) (2026-10-26)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
 - [0x_aster](https://x.com/0x_aster/status/2106467164408758656) (2026-10-06)
 - [0xopencitizen](https://x.com/0xopencitizen/status/2121490191907000707) (2026-11-14)
+- [51bodila](https://x.com/51bodila/status/2126442784148337083) (2026-11-28)
 - [5eniorDeveloper](https://x.com/5eniorDeveloper/status/2097029277434757251) (2026-09-08)
 - [AIHighlight](https://x.com/AIHighlight/status/2072712459857645721) (2026-07-04)
 - [AIStockSavvy](https://x.com/AIStockSavvy/status/2079941971108405580) (2026-07-25)
@@ -271,6 +273,7 @@ total_mentions: 738
 - [PalantirTech](https://x.com/PalantirTech/status/2077032712578199604) (2026-07-15)
 - [Peevibes007](https://x.com/Peevibes007/status/2047915508260073869) (2026-07-26)
 - [PrakashS720](https://x.com/PrakashS720/status/2124854429421895902) (2026-11-26)
+- [PrakashS720](https://x.com/PrakashS720/status/2125564778987081923) (2026-11-28)
 - [PredictPro_](https://x.com/PredictPro_/status/2115663414995623981) (2026-10-29)
 - [Priyannkaaaa](https://x.com/Priyannkaaaa/status/2083851157324046649) (2026-08-03)
 - [Promixyz](https://x.com/Promixyz/status/2110310642422780309) (2026-10-17)
@@ -529,6 +532,7 @@ total_mentions: 738
 - [hanakoxbt](https://x.com/hanakoxbt/status/2122092400952947003) (2026-11-16)
 - [hasantoxr](https://x.com/hasantoxr/status/2065664402301575438) (2026-06-14)
 - [hasantoxr](https://x.com/hasantoxr/status/2075864853542269183) (2026-07-15)
+- [hbonnymz](https://x.com/hbonnymz/status/2126544030284599545) (2026-11-28)
 - [helicerat0x](https://x.com/helicerat0x/status/2078252543634002084) (2026-07-18)
 - [heynavtoor](https://x.com/heynavtoor/status/2065348690605400376) (2026-06-13)
 - [heynavtoor](https://x.com/heynavtoor/status/2083221614595051602) (2026-08-05)
@@ -539,6 +543,7 @@ total_mentions: 738
 - [iamlukethedev](https://x.com/iamlukethedev/status/2063081062473859097) (2026-06-06)
 - [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2083874254358024567) (2026-08-04)
 - [imryven](https://x.com/imryven/status/2120171408793727004) (2026-11-11)
+- [imryven](https://x.com/imryven/status/2126405648112091273) (2026-11-28)
 - [ipfconline1](https://x.com/ipfconline1/status/2066408115369656823) (2026-06-15)
 - [irabukht](https://x.com/irabukht/status/2110189752666440181) (2026-10-19)
 - [islam_naserr](https://x.com/islam_naserr/status/2065299167560257970) (2026-06-12)
@@ -569,6 +574,7 @@ total_mentions: 738
 - [leopardracer](https://x.com/leopardracer/status/2074442479739318455) (2026-07-09)
 - [lqg_togo](https://x.com/lqg_togo/status/2113510660407804034) (2026-10-23)
 - [maestrooth](https://x.com/maestrooth/status/2117321301761110314) (2026-11-04)
+- [maestrooth](https://x.com/maestrooth/status/2126325340608102797) (2026-11-28)
 - [manthanguptaa](https://x.com/manthanguptaa/status/2084895891559981558) (2026-08-12)
 - [mardehaym](https://x.com/mardehaym/status/2081770600087847192) (2026-07-31)
 - [mardehaym](https://x.com/mardehaym/status/2082765372864770087) (2026-07-31)
@@ -586,6 +592,7 @@ total_mentions: 738
 - [maverickecom](https://x.com/maverickecom/status/2065145012065599749) (2026-06-13)
 - [mentalium_](https://x.com/mentalium_/status/2110382934720929967) (2026-10-18)
 - [mentalium_](https://x.com/mentalium_/status/2118723483286778349) (2026-11-09)
+- [mentalium_](https://x.com/mentalium_/status/2126386656928571720) (2026-11-28)
 - [michealsathiya](https://x.com/michealsathiya/status/2120344258486178043) (2026-11-11)
 - [michyexe](https://x.com/michyexe/status/2000613204116844826) (2026-06-15)
 - [mihail_eric](https://x.com/mihail_eric/status/2126064875474685978) (2026-11-27)

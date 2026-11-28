@@ -1,8 +1,8 @@
 # Coding Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-27
-total_mentions: 259
+last_seen: 2026-11-28
+total_mentions: 260
 
 ## Related Tweets
 - [0xJokker](https://x.com/0xJokker/status/2090086649262641637) (2026-08-22)
@@ -263,4 +263,5 @@ total_mentions: 259
 - [vinhnx](https://x.com/vinhnx/status/2109084805753410029) (2026-10-25)
 - [warpdotdev](https://x.com/warpdotdev/status/1937525185843752969) (2026-06-07)
 - [wlhunter25](https://x.com/wlhunter25/status/2122766992226615516) (2026-11-24)
+- [yuzzy_ai](https://x.com/yuzzy_ai/status/2126013189502513459) (2026-11-28)
 - [zachbruggeman](https://x.com/zachbruggeman/status/2010728444771074493) (2026-10-01)

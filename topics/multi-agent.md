@@ -1,8 +1,8 @@
 # Multi Agent
 
 first_seen: 2026-06-05
-last_seen: 2026-11-27
-total_mentions: 472
+last_seen: 2026-11-28
+total_mentions: 474
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -18,6 +18,7 @@ total_mentions: 472
 - [0xCodila](https://x.com/0xCodila/status/2091693218668630471) (2026-08-31)
 - [0xMovez](https://x.com/0xMovez/status/2072317067689152585) (2026-07-04)
 - [0xMovez](https://x.com/0xMovez/status/2080646952069288055) (2026-07-27)
+- [0xMovez](https://x.com/0xMovez/status/2126337525581050102) (2026-11-28)
 - [0xSammy](https://x.com/0xSammy/status/1873182401347846319) (2026-06-06)
 - [0xSweep](https://x.com/0xSweep/status/2098822616907940241) (2026-09-14)
 - [0xjmori](https://x.com/0xjmori/status/2111105306277142892) (2026-10-19)
@@ -176,6 +177,7 @@ total_mentions: 472
 - [NVIDIAAP](https://x.com/NVIDIAAP/status/2076879361504903645) (2026-07-21)
 - [PrakashS720](https://x.com/PrakashS720/status/2065850652832694731) (2026-06-15)
 - [PrakashS720](https://x.com/PrakashS720/status/2124854429421895902) (2026-11-26)
+- [PrakashS720](https://x.com/PrakashS720/status/2125564778987081923) (2026-11-28)
 - [PrimeIntellect](https://x.com/PrimeIntellect/status/2085086999267144083) (2026-08-06)
 - [ProfBuehlerMIT](https://x.com/ProfBuehlerMIT/status/2093630309585531033) (2026-09-01)
 - [Promixyz](https://x.com/Promixyz/status/2110310642422780309) (2026-10-17)

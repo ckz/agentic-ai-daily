@@ -1,8 +1,8 @@
 # Computer Use
 
 first_seen: 2026-06-06
-last_seen: 2026-11-27
-total_mentions: 213
+last_seen: 2026-11-28
+total_mentions: 214
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2118133694217306408) (2026-11-06)
@@ -99,6 +99,7 @@ total_mentions: 213
 - [bcherny](https://x.com/bcherny/status/2095378890370019683) (2026-09-06)
 - [blackanger](https://x.com/blackanger/status/2118043007413104810) (2026-11-05)
 - [blelbach](https://x.com/blelbach/status/2125842387469541510) (2026-11-27)
+- [blurmask](https://x.com/blurmask/status/2125952804053291517) (2026-11-28)
 - [bode_sule](https://x.com/bode_sule/status/2114225364717482179) (2026-10-25)
 - [businessbarista](https://x.com/businessbarista/status/2101061801571938529) (2026-09-22)
 - [chaotictransfem](https://x.com/chaotictransfem/status/2105011559756181620) (2026-09-30)

@@ -1,8 +1,8 @@
 # Autonomous Agents
 
 first_seen: 2026-06-05
-last_seen: 2026-11-27
-total_mentions: 1859
+last_seen: 2026-11-28
+total_mentions: 1865
 
 ## Related Tweets
 - [0x0SojalSec](https://x.com/0x0SojalSec/status/2077535896497471597) (2026-07-20)
@@ -64,6 +64,7 @@ total_mentions: 1859
 - [0xMovez](https://x.com/0xMovez/status/2090107443296498179) (2026-08-20)
 - [0xMovez](https://x.com/0xMovez/status/2098512033675141286) (2026-09-13)
 - [0xMovez](https://x.com/0xMovez/status/2124889339444297905) (2026-11-24)
+- [0xMovez](https://x.com/0xMovez/status/2126337525581050102) (2026-11-28)
 - [0xPritom](https://x.com/0xPritom/status/2114193806929297550) (2026-10-26)
 - [0xRiRoyal](https://x.com/0xRiRoyal/status/2085228220841083125) (2026-08-06)
 - [0xRiRoyal](https://x.com/0xRiRoyal/status/2101894204758839756) (2026-09-21)
@@ -529,6 +530,7 @@ total_mentions: 1859
 - [KirkDBorne](https://x.com/KirkDBorne/status/2123278375552733668) (2026-11-19)
 - [KitPloit](https://x.com/KitPloit/status/2120788856781844640) (2026-11-12)
 - [Krafton_AI](https://x.com/Krafton_AI/status/2112772568776339709) (2026-10-21)
+- [Kris17470520](https://x.com/Kris17470520/status/2126514560073081299) (2026-11-28)
 - [Krishnasagrawal](https://x.com/Krishnasagrawal/status/2075557881156657352) (2026-07-11)
 - [Krishnasagrawal](https://x.com/Krishnasagrawal/status/2076370564831486040) (2026-07-14)
 - [KunZhou23339193](https://x.com/KunZhou23339193/status/2107651518908527096) (2026-10-09)
@@ -1186,6 +1188,7 @@ total_mentions: 1859
 - [degen_mike14](https://x.com/degen_mike14/status/2072413220703236391) (2026-07-03)
 - [destinydou_](https://x.com/destinydou_/status/2119970607056220297) (2026-11-12)
 - [dexhorthy](https://x.com/dexhorthy/status/2067286892786454855) (2026-06-19)
+- [dhakacrypto_](https://x.com/dhakacrypto_/status/2126537635204337850) (2026-11-28)
 - [dharmesh](https://x.com/dharmesh/status/1886510930420195816) (2026-07-02)
 - [dharmesh](https://x.com/dharmesh/status/2093071931188597042) (2026-08-28)
 - [dhh](https://x.com/dhh/status/2097317603186229297) (2026-09-09)
@@ -1353,6 +1356,7 @@ total_mentions: 1859
 - [iiiichigo_chan](https://x.com/iiiichigo_chan/status/2108621128944022004) (2026-10-10)
 - [imarun_chauhan](https://x.com/imarun_chauhan/status/2063878197457134003) (2026-06-08)
 - [imryven](https://x.com/imryven/status/2119045823342223411) (2026-11-10)
+- [imryven](https://x.com/imryven/status/2126405648112091273) (2026-11-28)
 - [inflectaa](https://x.com/inflectaa/status/2104822745376911723) (2026-09-29)
 - [injective](https://x.com/injective/status/1867794623843958899) (2026-06-05)
 - [injective](https://x.com/injective/status/1881721788834672928) (2026-06-05)
@@ -1376,6 +1380,7 @@ total_mentions: 1859
 - [jasonlk](https://x.com/jasonlk/status/2093792483977376045) (2026-08-31)
 - [jasonlk](https://x.com/jasonlk/status/2106392098400272660) (2026-10-07)
 - [jdmarten](https://x.com/jdmarten/status/2121609380441329791) (2026-11-17)
+- [jdmarten](https://x.com/jdmarten/status/2125675098782744943) (2026-11-28)
 - [jeffhollan](https://x.com/jeffhollan/status/2099222521451311254) (2026-09-14)
 - [jerryjliu0](https://x.com/jerryjliu0/status/2082673383255216356) (2026-07-31)
 - [jerryjliu0](https://x.com/jerryjliu0/status/2091564183922077885) (2026-08-24)
@@ -1620,6 +1625,7 @@ total_mentions: 1859
 - [ridark_eth](https://x.com/ridark_eth/status/2090910472853762491) (2026-08-27)
 - [ridark_eth](https://x.com/ridark_eth/status/2091872032954667383) (2026-08-28)
 - [ridark_eth](https://x.com/ridark_eth/status/2091997146731938209) (2026-08-25)
+- [rileybrown](https://x.com/rileybrown/status/2126431351914233943) (2026-11-28)
 - [ripstackfun](https://x.com/ripstackfun/status/2118068612007092548) (2026-11-05)
 - [rishflips](https://x.com/rishflips/status/2064954076543205542) (2026-06-11)
 - [robbyant_brain](https://x.com/robbyant_brain/status/2074934394717151241) (2026-07-09)

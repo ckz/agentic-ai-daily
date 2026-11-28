@@ -1,8 +1,8 @@
 # Funding Startups
 
 first_seen: 2026-06-05
-last_seen: 2026-11-27
-total_mentions: 971
+last_seen: 2026-11-28
+total_mentions: 978
 
 ## Related Tweets
 - [0x0simba_eth](https://x.com/0x0simba_eth/status/2118895661722616112) (2026-11-07)
@@ -32,6 +32,7 @@ total_mentions: 971
 - [86pushkar24](https://x.com/86pushkar24/status/2114470304940486881) (2026-10-26)
 - [90daysliquidity](https://x.com/90daysliquidity/status/2088026533860409432) (2026-08-16)
 - [AFpost](https://x.com/AFpost/status/2078881670162202801) (2026-07-20)
+- [AIDuckLabs](https://x.com/AIDuckLabs/status/2126452508495364143) (2026-11-28)
 - [AISafetyMemes](https://x.com/AISafetyMemes/status/2087549262427263014) (2026-08-15)
 - [AITECHLabs](https://x.com/AITECHLabs/status/2083070154548654199) (2026-07-31)
 - [AIonBase_](https://x.com/AIonBase_/status/2073063036789952819) (2026-07-04)
@@ -191,6 +192,7 @@ total_mentions: 971
 - [IsomorphicLabs](https://x.com/IsomorphicLabs/status/2122661054723547449) (2026-11-19)
 - [JackPosobiec](https://x.com/JackPosobiec/status/2104592761051587037) (2026-10-01)
 - [Jacobsklug](https://x.com/Jacobsklug/status/2104914597606273395) (2026-10-06)
+- [JakaBavdek](https://x.com/JakaBavdek/status/2126412964517544177) (2026-11-28)
 - [JasonL_Capital](https://x.com/JasonL_Capital/status/2082434168235954267) (2026-08-05)
 - [JensenHuang](https://x.com/JensenHuang/status/2095482647355244762) (2026-09-05)
 - [JeremyHornHQ](https://x.com/JeremyHornHQ/status/2123146770029117766) (2026-11-20)
@@ -807,6 +809,7 @@ total_mentions: 971
 - [pulkit_mittal_](https://x.com/pulkit_mittal_/status/2092132911919022181) (2026-08-28)
 - [pulkitology](https://x.com/pulkitology/status/2112564529905221861) (2026-10-22)
 - [qasimbizs](https://x.com/qasimbizs/status/2108213013027373084) (2026-10-09)
+- [quantbagel](https://x.com/quantbagel/status/2125650766438523377) (2026-11-28)
 - [rahulbais136](https://x.com/rahulbais136/status/2077192536335192463) (2026-07-15)
 - [rauchg](https://x.com/rauchg/status/2088735125744070932) (2026-08-18)
 - [ravikiran_dev7](https://x.com/ravikiran_dev7/status/2088373187981828420) (2026-08-16)
@@ -836,6 +839,8 @@ total_mentions: 971
 - [rsngprad](https://x.com/rsngprad/status/2072630117218791745) (2026-07-05)
 - [rtwlz](https://x.com/rtwlz/status/2099608957698617356) (2026-09-15)
 - [ruthybuilds](https://x.com/ruthybuilds/status/2120158541902500203) (2026-11-13)
+- [rutu609](https://x.com/rutu609/status/2126548521658769533) (2026-11-28)
+- [ryan_morr](https://x.com/ryan_morr/status/2126072107390107999) (2026-11-28)
 - [ryandengg](https://x.com/ryandengg/status/2114023867463401755) (2026-10-31)
 - [s1rozha_](https://x.com/s1rozha_/status/2087132684514455625) (2026-08-12)
 - [sacha_io](https://x.com/sacha_io/status/2094745129714135343) (2026-09-06)
@@ -879,6 +884,7 @@ total_mentions: 971
 - [spacedevin](https://x.com/spacedevin/status/2118404772357358001) (2026-11-06)
 - [spacedevin](https://x.com/spacedevin/status/2120935020739416338) (2026-11-13)
 - [spacedevin](https://x.com/spacedevin/status/2121294625692696795) (2026-11-14)
+- [spacedevin](https://x.com/spacedevin/status/2125979437724574072) (2026-11-28)
 - [sridharfyi](https://x.com/sridharfyi/status/2100562893758718127) (2026-09-20)
 - [sridharfyi](https://x.com/sridharfyi/status/2112778407079469263) (2026-10-21)
 - [sridharfyi](https://x.com/sridharfyi/status/2119608084985475298) (2026-11-12)
@@ -897,6 +903,7 @@ total_mentions: 971
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109177179221184993) (2026-10-11)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2109690568590635440) (2026-10-15)
 - [suraj_sharma14](https://x.com/suraj_sharma14/status/2116478856320159910) (2026-11-06)
+- [suraj_sharma14](https://x.com/suraj_sharma14/status/2125839470348120142) (2026-11-28)
 - [swerikcodes](https://x.com/swerikcodes/status/2120607221860245678) (2026-11-18)
 - [swyx](https://x.com/swyx/status/2122746401482592549) (2026-11-19)
 - [synapz_group](https://x.com/synapz_group/status/2075492590288351469) (2026-07-11)
